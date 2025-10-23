@@ -1,0 +1,85 @@
+services:
+  #   frontend:
+  #     container_name: frontend
+  #     build:
+  #       context: ./frontend
+  #     ports:
+  #       - '5173'
+  #     depends_on:
+  #       - backend
+  #     restart: unless-stopped
+  #     command: npm run dev -- --host 0.0.0.0
+  #     networks:
+  #       - webnet
+
+  #   backend:
+  #     container_name: backend
+  #     build:
+  #       context: ./backend
+  #     ports:
+  #       - '8000'
+  #     depends_on:
+  #       - postgre
+  #     environment:
+  #       - DATABASE_URL=postgresql+asyncpg://postgres:Passw0rd2025MiracleComplex@91.196.35.110:5432/mydatabase
+  #     restart: unless-stopped
+  #     command: uvicorn src.main:app --host 0.0.0.0 --port 8000
+  #     networks:
+  #       - webnet
+
+  #   nginx:
+  #     image: nginx:latest
+  #     container_name: nginx
+  #     restart: always
+  #     ports:
+  #       - '80:80' # Только HTTP
+  #       - '443:443' # Только HTTPS
+  #     volumes:
+  #       - ./nginx:/etc/nginx/conf.d # Настройки Nginx
+  #       - etc-letsencrypt:/etc/letsencrypt
+  #       - www-html:/var/www/html
+  #     depends_on:
+  #       - frontend
+  #     networks:
+  #       - webnet
+
+  #   certbot:
+  #     image: certbot/certbot
+  #     depends_on:
+  #       - nginx
+  #     container_name: certbot
+  #     volumes:
+  #       - etc-letsencrypt:/etc/letsencrypt
+  #       - www-html:/var/www/html
+  #     command: certonly --webroot --webroot-path=/var/www/html --email qx77525@gmail.com --agree-tos --no-eff-email -d miracle-love.online -d miracle-love.ru
+
+  presswatch-postgre:
+    image: postgres:15
+    container_name: presswatch-postgre
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 7T!1uQ%)1IP-o:C>9Z
+      POSTGRES_DB: db
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  presswatch-adminer:
+    image: adminer
+    container_name: presswatch-adminer
+    restart: unless-stopped
+    ports:
+      - '8080:8080'
+    depends_on:
+      - presswatch-postgre
+
+volumes:
+  postgres_data:
+  www-html:
+  etc-letsencrypt:
+
+networks:
+  webnet:
+    driver: bridge
