@@ -7,7 +7,7 @@ DATABASE_URL = "postgresql+asyncpg://postgres:7T!1uQ%)1IP-o:C>9Z@localhost:5432/
 
 engine = create_async_engine(DATABASE_URL, echo=False)
 Base = declarative_base()
-async_session = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)
+async_session = sessionmaker(engine, class_=AsyncSession, expire_on_commit=False)  # type: ignore
 
 
 class MediaStat(Base):
