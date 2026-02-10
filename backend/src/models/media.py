@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String
-from src.models.base import Base
 from sqlalchemy.orm import relationship
+
+from src.models.base import Base
 
 
 class Media(Base):

@@ -1,10 +1,11 @@
+from datetime import date
 from enum import Enum
 
 from sqlalchemy import BigInteger, Column, Date, DateTime, ForeignKey, Integer, String, event
 from sqlalchemy import Enum as SQLEnum
 from sqlalchemy.orm import relationship
+
 from src.models.base import Base
-from datetime import date
 
 
 class Stat(Base):
