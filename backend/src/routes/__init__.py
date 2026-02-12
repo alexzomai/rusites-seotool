@@ -1,7 +1,6 @@
 from fastapi import APIRouter
-from src.api.sites import router as sites_router
-from src.api.media import router as media_router
-
+from src.routes.media import router as media_router
+from src.routes.sites import router as sites_router
 
 main_router = APIRouter()
 

@@ -1,21 +1,23 @@
 from datetime import date
-from enum import Enum
+from typing import TYPE_CHECKING
 
-from sqlalchemy import BigInteger, Column, Date, DateTime, ForeignKey, Integer, String, event
-from sqlalchemy import Enum as SQLEnum
-from sqlalchemy.orm import relationship
+from sqlalchemy import BigInteger, ForeignKey
+from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from src.models.base import Base
+
+if TYPE_CHECKING:
+    from src.models.media import Media
 
 
 class Stat(Base):
     __tablename__ = "stats"
 
-    id = Column(Integer, primary_key=True)
-    media_id = Column(Integer, ForeignKey("medias.id", ondelete="CASCADE"))
+    id: Mapped[int] = mapped_column(primary_key=True)
+    media_id: Mapped[int] = mapped_column(ForeignKey("medias.id", ondelete="CASCADE"))
 
-    visits = Column(BigInteger)
-    rating = Column(Integer)
-    parse_date = Column(Date, index=True, default=date.today)
+    visits: Mapped[int | None] = mapped_column(BigInteger)
+    rating: Mapped[int | None]
+    parse_date: Mapped[date] = mapped_column(index=True, default=date.today)
 
-    media = relationship("Media", back_populates="stats")
+    media: Mapped["Media"] = relationship(back_populates="stats")

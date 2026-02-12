@@ -1,16 +1,21 @@
-from sqlalchemy import Column, Integer, String
-from sqlalchemy.orm import relationship
+from typing import TYPE_CHECKING
+
+from sqlalchemy import String
+from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from src.models.base import Base
+
+if TYPE_CHECKING:
+    from src.models.stat import Stat
 
 
 class Media(Base):
     __tablename__ = "medias"
 
-    id = Column(Integer, primary_key=True)
+    id: Mapped[int] = mapped_column(primary_key=True)
 
-    system_id = Column(String, index=True, unique=True)
-    domain = Column(String)
-    title = Column(String)
+    system_id: Mapped[str] = mapped_column(String, index=True, unique=True)
+    domain: Mapped[str | None] = mapped_column(String)
+    title: Mapped[str | None] = mapped_column(String)
 
-    stats = relationship("Stat", back_populates="media", cascade="all, delete-orphan")
+    stats: Mapped[list["Stat"]] = relationship(back_populates="media", cascade="all, delete-orphan")

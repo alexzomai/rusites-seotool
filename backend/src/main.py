@@ -3,11 +3,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, RedirectResponse
 from sqlalchemy.orm import registry
 
-from src.api import main_router
 from src.database import engine
 from src.models.base import Base
 from src.models.media import Media
 from src.models.stat import Stat
+from src.routes import main_router
 
 app = FastAPI()
 
@@ -22,9 +22,9 @@ app.add_middleware(
 
 
 # Главная страница
-@app.get("/", response_class=HTMLResponse)
-async def read_root(request: Request):
-    return RedirectResponse(url="/flights", status_code=303)
+@app.get("/")
+async def read_root():
+    return {"message": "Hello, World!"}
 
 
 # Подключение к БД
