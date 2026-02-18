@@ -22,6 +22,7 @@ import {
   SidebarMenuButton,
   SidebarMenuItem,
   SidebarRail,
+  SidebarTrigger,
   useSidebar,
 } from "@/components/ui/sidebar";
 import {
@@ -152,7 +153,7 @@ function NavSites({
 }) {
   return (
     <SidebarGroup>
-      <SidebarGroupLabel>Sites</SidebarGroupLabel>
+      <SidebarGroupLabel>Сайты</SidebarGroupLabel>
       <SidebarMenu>
         {sites.map((site) => (
           <SidebarMenuItem key={site.name}>
@@ -224,22 +225,22 @@ function NavUser({
             <DropdownMenuGroup>
               <DropdownMenuItem>
                 <BadgeCheck />
-                Account
+                Аккаунт
               </DropdownMenuItem>
               <DropdownMenuItem>
                 <CreditCard />
-                Billing
+                Оплата
               </DropdownMenuItem>
               <DropdownMenuItem>
                 <Bell />
-                Notifications
+                Уведомления
               </DropdownMenuItem>
             </DropdownMenuGroup>
             <DropdownMenuSeparator />
             <DropdownMenuGroup>
               <DropdownMenuItem>
                 <LogOut />
-                Log out
+                Выйти
               </DropdownMenuItem>
             </DropdownMenuGroup>
           </DropdownMenuContent>
@@ -252,7 +253,18 @@ function NavUser({
 export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
     <Sidebar collapsible="icon" {...props}>
-      <SidebarHeader />
+      <SidebarHeader className="flex flex-row items-center gap-0 p-4">
+        <div className="flex flex-1 items-center gap-2 overflow-hidden">
+          <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-mdtext-sidebar-primary-foreground">
+            <Eye className="size-4" />
+          </div>
+          <div className="grid leading-tight">
+            <span className="truncate font-semibold text-sm">PressWatch</span>
+            <span className="truncate text-xs text-muted-foreground">v26.1</span>
+          </div>
+        </div>
+        <SidebarTrigger className="shrink-0" />
+      </SidebarHeader>
       <SidebarContent>
         <NavSites sites={data.sites} />
       </SidebarContent>
