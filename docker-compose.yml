@@ -23,7 +23,6 @@ services:
     environment:
       - DATABASE_URL=postgresql+asyncpg://postgres:7T!1uQ%)1IP-o:C>9Z@presswatch-postgre:5432/db
     restart: unless-stopped
-    command: uvicorn src.main:app --host 0.0.0.0 --port 8000
     networks:
       - webnet
 
