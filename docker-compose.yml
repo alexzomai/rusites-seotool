@@ -1,47 +1,50 @@
 services:
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - backend
+      - frontend
+    env_file:
+      - .env
+
   frontend:
-    container_name: frontend
     build:
       context: ./frontend
-    ports:
-      - "5173"
     depends_on:
       - backend
     restart: unless-stopped
-    command: npm run dev -- --host 0.0.0.0
-    networks:
-      - webnet
 
   backend:
-    container_name: backend
     build:
       context: ./backend
-    ports:
-      - "8000"
     depends_on:
-      - postgre
+      database:
+        condition: service_healthy
     env_file:
       - .env
     restart: unless-stopped
-    networks:
-      - webnet
 
   database:
     image: postgres:15
-    container_name: presswatch-postgre
     restart: unless-stopped
     env_file:
       - .env
-    ports:
-      - "5432:5432"
     volumes:
       - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $POSTGRES_USER -d $POSTGRES_DB"]
+      interval: 5s
+      retries: 5
 
 volumes:
   postgres_data:
-  www-html:
-  etc-letsencrypt:
-
-networks:
-  webnet:
-    driver: bridge
+  caddy_data:
+  caddy_config:
