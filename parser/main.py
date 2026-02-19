@@ -4,7 +4,6 @@ from datetime import date
 from io import StringIO
 
 import aiohttp
-import requests
 
 from timer import timeit
 
@@ -12,18 +11,15 @@ BASE_URL = "https://www.liveinternet.ru/rating/ru/today.tsv"
 CSV_FILE = f"presswatch_data_{date.today()}.csv"
 
 
-def fetch_page(page: int, per_page: int = 1000) -> str:
-    url = f"{BASE_URL}?per_page={per_page}&page={page}"
-    r = requests.get(url, timeout=10)
-    r.raise_for_status()
-    return r.text
+async def async_fetch_pages(urls: list[str], concurrency: int = 8) -> list:
+    semaphore = asyncio.Semaphore(concurrency)
 
-
-async def async_fetch_pages(urls: list[str]) -> list:
     async def fetch(session: aiohttp.ClientSession, url: str) -> str:
-        async with session.get(url) as r:
-            r.raise_for_status()
-            return await r.text()
+        async with semaphore:
+            async with session.get(url) as r:
+                r.raise_for_status()
+                data = await r.read()
+                return data.decode("utf-8", errors="replace")
 
     async with aiohttp.ClientSession() as session:
         return await asyncio.gather(*[fetch(session, url) for url in urls])
@@ -60,34 +56,32 @@ def save_to_csv(records: list[dict], filename: str):
 
 @timeit
 async def main():
-    all_rows = []
-    prev_first = None
+    print(f"Дата парсинга: {date.today()}")
     per_page = 1000
 
-    urls = [f"{BASE_URL}?per_page={per_page}&page={page}" for page in range(1, 50)]
-    pages = await async_fetch_pages(urls)
-    print(urls)
+    # Первый запрос: узнаём общее кол-во записей
+    first_tsv = (await async_fetch_pages([f"{BASE_URL}?per_page={per_page}&page=1"]))[0]
+    first_line = first_tsv.splitlines()[0]
+    total = int(first_line.split("\t")[1])
+    total_pages = (total + per_page - 1) // per_page
+    print(f"Всего записей: {total}, страниц: {total_pages}")
 
-    print(*pages)
-    for page in pages:
-        print(len(page))
+    # Остальные страницы параллельно
+    remaining_urls = [f"{BASE_URL}?per_page={per_page}&page={p}" for p in range(2, total_pages + 1)]
+    remaining = await async_fetch_pages(remaining_urls)
 
-    # for page in range(1, 10):
-    #     tsv_data = fetch_page(page)
-    #     rows = parse_tsv(tsv_data)
-    #     if not rows or rows[0] == prev_first:
-    #         break
-    #     prev_first = rows[0]
-    #     all_rows.extend(rows)
+    all_rows = []
+    for tsv in [first_tsv] + list(remaining):
+        all_rows.extend(parse_tsv(tsv))
 
-    # # Add parse_date to each record
-    # today = date.today()
-    # for row in all_rows:
-    #     row["parse_date"] = today
+    today = date.today()
+    for row in all_rows:
+        row["parse_date"] = today
 
-    # save_to_csv(all_rows, CSV_FILE)
+    save_to_csv(all_rows, CSV_FILE)
 
-    # print(f"Сохранено {len(all_rows)} записей за {today}")
+    unique = len({row["system_id"] for row in all_rows})
+    print(f"Сохранено {len(all_rows)} строк, уникальных сайтов: {unique}")
 
 
 if __name__ == "__main__":
