@@ -1,12 +1,8 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import HTMLResponse, RedirectResponse
-from sqlalchemy.orm import registry
 
 from src.database import engine
-from src.models.base import Base
-from src.models.media import Media
-from src.models.stat import Stat
+from src.models import Base
 from src.routes import main_router
 
 app = FastAPI()
