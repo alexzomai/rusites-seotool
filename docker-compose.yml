@@ -18,6 +18,8 @@ services:
   frontend:
     build:
       context: ./frontend
+    expose:
+      - "3000"
     depends_on:
       - backend
     restart: unless-stopped
@@ -25,6 +27,8 @@ services:
   backend:
     build:
       context: ./backend
+    expose:
+      - "8000"
     depends_on:
       database:
         condition: service_healthy
@@ -35,6 +39,8 @@ services:
   database:
     image: postgres:15
     restart: unless-stopped
+    expose:
+      - "5432"
     env_file:
       - .env
     volumes:
@@ -42,7 +48,9 @@ services:
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U $POSTGRES_USER -d $POSTGRES_DB"]
       interval: 5s
+      timeout: 5s
       retries: 5
+      start_period: 10s
 
 volumes:
   postgres_data:
