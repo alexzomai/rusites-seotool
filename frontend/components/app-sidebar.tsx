@@ -259,7 +259,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
             <Eye className="size-4" />
           </div>
           <div className="grid leading-tight">
-            <span className="truncate font-semibold text-sm">PressWatch</span>
+            <span className="truncate font-semibold text-sm">RuSites SEOtool</span>
             <span className="truncate text-xs text-muted-foreground">v26.1</span>
           </div>
         </div>
