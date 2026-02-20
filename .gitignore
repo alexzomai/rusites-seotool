@@ -1,3 +1,4 @@
 worker/__pycache__/db.cpython-313.pyc
 .env
 .claude
+parser/presswatch_data_*
