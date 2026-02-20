@@ -1,14 +1,21 @@
 import asyncio
 import csv
 import json
+import os
 from datetime import date
 from io import StringIO
 
 import aiohttp
+from dotenv import load_dotenv
 
 from timer import timeit
 
-BASE_URL = "https://www.liveinternet.ru/rating/ru/today.tsv"
+load_dotenv()
+
+BASE_URL = os.getenv("BASE_URL", "https://www.liveinternet.ru/rating/ru/today.tsv")
+PARAM_PER_PAGE = os.getenv("PARAM_PER_PAGE", "per_page")
+PARAM_PAGE = os.getenv("PARAM_PAGE", "page")
+PER_PAGE = int(os.getenv("PER_PAGE", "1000"))
 JSON_FILE = f"presswatch_data_{date.today()}.json"
 
 
@@ -53,17 +60,19 @@ def save_to_json(records: list[dict], filename: str):
 @timeit
 async def main():
     print(f"Дата парсинга: {date.today()}")
-    per_page = 1000
 
-    # Первый запрос: узнаём общее кол-во записей
-    first_tsv = (await async_fetch_pages([f"{BASE_URL}?per_page={per_page}&page=1"]))[0]
+    # первый запрос: узнаем общее кол-во записей
+    def page_url(p: int) -> str:  # пример: https://www.liveinternet.ru/rating/ru/today.tsv?per_page=1000&page=1
+        return f"{BASE_URL}?{PARAM_PER_PAGE}={PER_PAGE}&{PARAM_PAGE}={p}"
+
+    first_tsv = (await async_fetch_pages([page_url(1)]))[0]
     first_line = first_tsv.splitlines()[0]
     total = int(first_line.split("\t")[1])
-    total_pages = (total + per_page - 1) // per_page
+    total_pages = (total + PER_PAGE - 1) // PER_PAGE
     print(f"Всего записей: {total}, страниц: {total_pages}")
 
-    # Остальные страницы параллельно
-    remaining_urls = [f"{BASE_URL}?per_page={per_page}&page={p}" for p in range(2, total_pages + 1)]
+    # остальные страницы параллельно
+    remaining_urls = [page_url(p) for p in range(2, total_pages + 1)]
     remaining = await async_fetch_pages(remaining_urls)
 
     all_rows = []
