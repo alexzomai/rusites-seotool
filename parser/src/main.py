@@ -1,12 +1,16 @@
 import asyncio
 import csv
+import gzip
 import json
+import os
 from datetime import date
-from io import StringIO
+from io import BytesIO, StringIO
 
 import aiohttp
 
 from config import (
+    BACKEND_URL,
+    BACKUP_DIR,
     BASE_URL,
     CSV_FILE,
     JSON_FILE,
@@ -64,6 +68,43 @@ def save_to_csv(records: list[dict], filename: str):
         writer.writerows(records)
 
 
+def save_to_csv_gz(records: list[dict], filename: str, keep: int = 30):
+    if not records:
+        return
+    os.makedirs(BACKUP_DIR, exist_ok=True)
+    path = os.path.join(BACKUP_DIR, filename)
+    buf = StringIO()
+    writer = csv.DictWriter(buf, fieldnames=records[0].keys())
+    writer.writeheader()
+    writer.writerows(records)
+    with gzip.open(path, "wb") as f:
+        f.write(buf.getvalue().encode("utf-8"))
+
+    files = sorted(
+        (f for f in os.scandir(BACKUP_DIR) if f.name.endswith(".gz")),
+        key=lambda f: f.stat().st_mtime,
+    )
+    for old in files[:-keep]:
+        os.remove(old.path)
+
+
+async def send_data(records: list[dict]):
+    if not records:
+        return
+    buf = StringIO()
+    writer = csv.DictWriter(buf, fieldnames=records[0].keys())
+    writer.writeheader()
+    writer.writerows(records)
+    csv_bytes = buf.getvalue().encode("utf-8")
+
+    async with aiohttp.ClientSession() as session:
+        data = aiohttp.FormData()
+        data.add_field("file", BytesIO(csv_bytes), filename="data.csv", content_type="text/csv")
+
+        async with session.post(f"http://{BACKEND_URL}/internal/upload_csv", data=data) as resp:
+            return await resp.json()
+
+
 @timeit
 async def main():
     print(f"Дата парсинга: {date.today()}")
@@ -86,10 +127,15 @@ async def main():
     for tsv in [first_tsv] + list(remaining):
         all_rows.extend(parse_tsv(tsv))
 
-    save_to_csv(all_rows, CSV_FILE)
+    loop = asyncio.get_event_loop()
+    result, _ = await asyncio.gather(
+        send_data(all_rows),
+        loop.run_in_executor(None, save_to_csv_gz, all_rows, CSV_FILE + ".gz"),
+    )
+    print(f"Ответ сервера: {result}")
 
     unique = len({row["id"] for row in all_rows})
-    print(f"Сохранено {len(all_rows)} строк, уникальных сайтов: {unique}")
+    print(f"Отправлено {len(all_rows)} строк, уникальных сайтов: {unique}")
 
 
 if __name__ == "__main__":

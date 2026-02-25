@@ -39,8 +39,10 @@ services:
   database:
     image: postgres:15
     restart: unless-stopped
-    expose:
-      - "5432"
+    ports:
+      - "5432:5432"
+    # expose:
+    #   - "5432"
     env_file:
       - .env
     volumes:
