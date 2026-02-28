@@ -9,6 +9,7 @@ dependencies = [
     "asyncpg>=0.31.0",
     "fastapi>=0.128.6",
     "pandas>=3.0.1",
+    "pandas-stubs>=3.0.0.260204",
     "pydantic>=2.12.5",
     "pydantic-settings>=2.12.0",
     "python-multipart>=0.0.22",

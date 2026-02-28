@@ -43,7 +43,7 @@ def parse_tsv(tsv_data: str) -> list[dict]:
             continue
         rows.append(
             {
-                "id": row[0],
+                "slug": row[0],
                 "domain": row[1],
                 "title": row[2].replace("&quot;", "'") if len(row) > 2 else None,
                 "visits": int(row[3]) if len(row) > 3 and row[3].isdigit() else 0,
@@ -134,7 +134,7 @@ async def main():
     )
     print(f"Ответ сервера: {result}")
 
-    unique = len({row["id"] for row in all_rows})
+    unique = len({row["slug"] for row in all_rows})
     print(f"Отправлено {len(all_rows)} строк, уникальных сайтов: {unique}")
 
 

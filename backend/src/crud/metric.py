@@ -1,4 +1,6 @@
-from sqlalchemy import select
+import datetime
+
+from sqlalchemy import func, select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from src.models.metric import Metric
@@ -32,6 +34,24 @@ async def update_metric(db: AsyncSession, metric_id: int, **kwargs) -> Metric | 
     await db.commit()
     await db.refresh(metric)
     return metric
+
+
+async def upsert_metric(db: AsyncSession, site_id: int, visits: int | None = None) -> tuple[Metric, bool]:
+    """Returns (metric, created) where created=True if a new record was inserted."""
+    today = datetime.datetime.now(datetime.UTC).date()
+    result = await db.execute(
+        select(Metric).where(
+            Metric.site_id == site_id,
+            func.date(Metric.created_at) == today,
+        )
+    )
+    metric = result.scalar_one_or_none()
+    if metric:
+        metric.visits = visits
+        await db.commit()
+        await db.refresh(metric)
+        return metric, False
+    return await create_metric(db, site_id=site_id, visits=visits), True
 
 
 async def delete_metric(db: AsyncSession, metric_id: int) -> bool:

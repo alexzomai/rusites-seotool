@@ -14,8 +14,9 @@ class Site(Base, TimestampMixin):
 
     id: Mapped[int] = mapped_column(primary_key=True)
 
-    system_id: Mapped[str] = mapped_column(String, index=True, unique=True)
+    slug: Mapped[str] = mapped_column(String, index=True, unique=True)
     domain: Mapped[str | None] = mapped_column(String)
     title: Mapped[str | None] = mapped_column(String)
+    hidden: Mapped[bool] = mapped_column(default=False)
 
     metrics: Mapped[list["Metric"]] = relationship(back_populates="site", cascade="all, delete-orphan")
