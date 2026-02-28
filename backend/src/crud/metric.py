@@ -1,4 +1,5 @@
 import datetime
+import zoneinfo
 
 from sqlalchemy import func, select
 from sqlalchemy.ext.asyncio import AsyncSession
@@ -38,7 +39,7 @@ async def update_metric(db: AsyncSession, metric_id: int, **kwargs) -> Metric | 
 
 async def upsert_metric(db: AsyncSession, site_id: int, visits: int | None = None) -> tuple[Metric, bool]:
     """Returns (metric, created) where created=True if a new record was inserted."""
-    today = datetime.datetime.now(datetime.UTC).date()
+    today = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Moscow")).date()
     result = await db.execute(
         select(Metric).where(
             Metric.site_id == site_id,

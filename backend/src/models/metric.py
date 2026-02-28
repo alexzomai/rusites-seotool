@@ -1,6 +1,6 @@
 from typing import TYPE_CHECKING
 
-from sqlalchemy import BigInteger, ForeignKey
+from sqlalchemy import ForeignKey, Integer
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from src.models.base import Base, TimestampMixin
@@ -15,6 +15,6 @@ class Metric(Base, TimestampMixin):
     id: Mapped[int] = mapped_column(primary_key=True)
     site_id: Mapped[int] = mapped_column(ForeignKey("sites.id", ondelete="CASCADE"), index=True)
 
-    visits: Mapped[int | None] = mapped_column(BigInteger)
+    visits: Mapped[int | None] = mapped_column(Integer)
 
     site: Mapped["Site"] = relationship(back_populates="metrics")
