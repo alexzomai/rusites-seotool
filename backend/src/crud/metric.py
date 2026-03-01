@@ -12,9 +12,10 @@ async def get_metric(db: AsyncSession, metric_id: int) -> Metric | None:
     return result.scalar_one_or_none()
 
 
-async def get_metrics_by_site(db: AsyncSession, site_id: int, skip: int = 0, limit: int = 100) -> list[Metric]:
-    result = await db.execute(select(Metric).where(Metric.site_id == site_id).offset(skip).limit(limit))
-    return list(result.scalars().all())
+async def get_metrics_by_site(db: AsyncSession, site_id: int) -> list[Metric]:
+    result = await db.execute(select(Metric).where(Metric.site_id == site_id).order_by(Metric.created_at))
+    metrics: list[Metric] = list(result.scalars().all())
+    return metrics
 
 
 async def create_metric(db: AsyncSession, site_id: int, visits: int | None = None) -> Metric:

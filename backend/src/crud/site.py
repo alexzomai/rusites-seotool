@@ -1,6 +1,10 @@
-from sqlalchemy import select
+import datetime
+import zoneinfo
+
+from sqlalchemy import func, select
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from src.models.metric import Metric
 from src.models.site import Site
 
 
@@ -14,15 +18,22 @@ async def get_sites(db: AsyncSession, skip: int = 0, limit: int = 100) -> list[S
     return list(result.scalars().all())
 
 
-async def search_sites(db: AsyncSession, q: str, skip: int = 0, limit: int = 20) -> list[Site]:
+async def search_sites(db: AsyncSession, q: str, skip: int = 0, limit: int = 20) -> list[dict[str, object]]:
+    today = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Moscow")).date()
+    today_visits = (
+        select(Metric.site_id, Metric.visits)
+        .where(func.date(Metric.created_at) == today)
+        .subquery()
+    )
     result = await db.execute(
-        select(Site)
+        select(Site, today_visits.c.visits)
+        .outerjoin(today_visits, today_visits.c.site_id == Site.id)
         .where(Site.title.ilike(f"%{q}%") | Site.slug.ilike(f"%{q}%"))
-        .order_by(Site.title)
+        .order_by(today_visits.c.visits.desc().nulls_last())
         .offset(skip)
         .limit(limit)
     )
-    return list(result.scalars().all())
+    return [{"site": site, "visits": visits} for site, visits in result.all()]
 
 
 async def get_sites_by_slugs(db: AsyncSession, slugs: list[str], chunk_size: int = 5000) -> list[Site]:
