@@ -29,9 +29,19 @@ interface MetricsResponse {
 }
 
 export default function Page() {
-  const { siteId, site } = useSiteContext();
+  const { siteId, site, setSite } = useSiteContext();
   const [data, setData] = useState<MetricsResponse | null>(null);
   const [loading, setLoading] = useState(false);
+
+  // Загружаем топ-1 сайт при первом открытии
+  useEffect(() => {
+    if (siteId != null) return;
+    fetch(`${API_URL}/api/top?limit=1`)
+      .then((res) => res.json())
+      .then((json) => {
+        if (json?.[0]?.site) setSite(json[0].site);
+      });
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     if (siteId == null) {
