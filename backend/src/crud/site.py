@@ -14,6 +14,17 @@ async def get_sites(db: AsyncSession, skip: int = 0, limit: int = 100) -> list[S
     return list(result.scalars().all())
 
 
+async def search_sites(db: AsyncSession, q: str, skip: int = 0, limit: int = 20) -> list[Site]:
+    result = await db.execute(
+        select(Site)
+        .where(Site.title.ilike(f"%{q}%") | Site.slug.ilike(f"%{q}%"))
+        .order_by(Site.title)
+        .offset(skip)
+        .limit(limit)
+    )
+    return list(result.scalars().all())
+
+
 async def get_sites_by_slugs(db: AsyncSession, slugs: list[str], chunk_size: int = 5000) -> list[Site]:
     sites: list[Site] = []
     for i in range(0, len(slugs), chunk_size):

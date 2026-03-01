@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from sqlalchemy import text
+
 from src.database import engine
 from src.models import Base
 from src.routes import main_router
@@ -27,6 +29,7 @@ async def read_root():
 @app.on_event("startup")
 async def on_startup():
     async with engine.begin() as conn:
+        await conn.execute(text("CREATE EXTENSION IF NOT EXISTS pg_trgm"))
         await conn.run_sync(Base.metadata.create_all)
 
 
