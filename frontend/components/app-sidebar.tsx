@@ -1,20 +1,10 @@
 "use client";
 
 import * as React from "react";
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuGroup,
-  DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu";
+import { Input } from "@/components/ui/input";
 import {
   Sidebar,
   SidebarContent,
-  SidebarFooter,
   SidebarGroup,
   SidebarGroupLabel,
   SidebarHeader,
@@ -25,228 +15,140 @@ import {
   SidebarTrigger,
   useSidebar,
 } from "@/components/ui/sidebar";
-import {
-  BadgeCheck,
-  Bell,
-  ChevronsUpDown,
-  CreditCard,
-  Globe,
-  LogOut,
-  Newspaper,
-  Rss,
-  Radio,
-  Tv,
-  BookOpen,
-  FileText,
-  Mic,
-  Podcast,
-  Sparkles,
-  Megaphone,
-  MessageSquare,
-  Pen,
-  ScrollText,
-  Signal,
-  Antenna,
-  Bookmark,
-  Hash,
-  AtSign,
-  Flame,
-  Zap,
-  Eye,
-  TrendingUp,
-  Search,
-  Laptop,
-  Shield,
-  Star,
-  Sun,
-  Moon,
-  Cloud,
-  Map,
-  Compass,
-  Anchor,
-  Bell as BellIcon,
-  Camera,
-  Coffee,
-  Heart,
-  Music,
-  Palette,
-  Plane,
-  Rocket,
-  Umbrella,
-  Waves,
-  Mountain,
-  TreePine,
-  Lightbulb,
-  Crown,
-  Diamond,
-  Feather,
-} from "lucide-react";
+import { Eye, Search } from "lucide-react";
+import Image from "next/image";
+import { useSiteContext } from "@/lib/site-context";
 
-const data = {
-  user: {
-    name: "shadcn",
-    email: "m@example.com",
-    avatar: "/avatars/shadcn.jpg",
-  },
-  sites: [
-    { name: "BBC News", url: "#", icon: Globe },
-    { name: "CNN", url: "#", icon: Tv },
-    { name: "Reuters", url: "#", icon: Newspaper },
-    { name: "The Guardian", url: "#", icon: BookOpen },
-    { name: "Al Jazeera", url: "#", icon: Radio },
-    { name: "Associated Press", url: "#", icon: FileText },
-    { name: "The New York Times", url: "#", icon: ScrollText },
-    { name: "Washington Post", url: "#", icon: Pen },
-    { name: "Bloomberg", url: "#", icon: TrendingUp },
-    { name: "The Economist", url: "#", icon: Bookmark },
-    { name: "NPR", url: "#", icon: Mic },
-    { name: "Vice News", url: "#", icon: Flame },
-    { name: "Politico", url: "#", icon: Megaphone },
-    { name: "BuzzFeed News", url: "#", icon: Zap },
-    { name: "The Verge", url: "#", icon: Signal },
-    { name: "TechCrunch", url: "#", icon: Rss },
-    { name: "Wired", url: "#", icon: Antenna },
-    { name: "Ars Technica", url: "#", icon: Hash },
-    { name: "The Atlantic", url: "#", icon: Eye },
-    { name: "Vox", url: "#", icon: MessageSquare },
-    { name: "Forbes", url: "#", icon: Search },
-    { name: "The Hill", url: "#", icon: AtSign },
-    { name: "Axios", url: "#", icon: Sparkles },
-    { name: "Medium", url: "#", icon: Podcast },
-    { name: "Substack", url: "#", icon: FileText },
-    { name: "Der Spiegel", url: "#", icon: Shield },
-    { name: "Le Monde", url: "#", icon: Star },
-    { name: "The Times", url: "#", icon: Sun },
-    { name: "Daily Mail", url: "#", icon: Moon },
-    { name: "Sky News", url: "#", icon: Cloud },
-    { name: "France 24", url: "#", icon: Map },
-    { name: "Deutsche Welle", url: "#", icon: Compass },
-    { name: "South China Morning Post", url: "#", icon: Anchor },
-    { name: "The Japan Times", url: "#", icon: Camera },
-    { name: "ABC News", url: "#", icon: Laptop },
-    { name: "CBS News", url: "#", icon: Coffee },
-    { name: "Fox News", url: "#", icon: Heart },
-    { name: "MSNBC", url: "#", icon: Music },
-    { name: "The Independent", url: "#", icon: Palette },
-    { name: "Financial Times", url: "#", icon: Plane },
-    { name: "Wall Street Journal", url: "#", icon: Rocket },
-    { name: "USA Today", url: "#", icon: Umbrella },
-    { name: "Los Angeles Times", url: "#", icon: Waves },
-    { name: "Chicago Tribune", url: "#", icon: Mountain },
-    { name: "Toronto Star", url: "#", icon: TreePine },
-    { name: "The Sydney Morning Herald", url: "#", icon: Lightbulb },
-    { name: "The Hindu", url: "#", icon: Crown },
-    { name: "Times of India", url: "#", icon: Diamond },
-    { name: "Haaretz", url: "#", icon: Feather },
-    { name: "RT News", url: "#", icon: BellIcon },
-  ],
-};
+const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
+const LIMIT = 20;
 
-function NavSites({
-  sites,
-}: {
-  sites: {
-    name: string;
-    url: string;
-    icon: React.ElementType;
-  }[];
-}) {
+interface Site {
+  id: number;
+  slug: string;
+  domain: string | null;
+  title: string | null;
+}
+
+interface SiteWithVisits {
+  site: Site;
+  visits: number | null;
+}
+
+function NavSites() {
+  const { state } = useSidebar();
+  const collapsed = state === "collapsed";
+  const { siteId, setSite } = useSiteContext();
+  const [query, setQuery] = React.useState("");
+  const [debouncedQuery, setDebouncedQuery] = React.useState("");
+  const [sites, setSites] = React.useState<SiteWithVisits[]>([]);
+  const [skip, setSkip] = React.useState(0);
+  const [hasMore, setHasMore] = React.useState(true);
+  const [loading, setLoading] = React.useState(false);
+  const sentinelRef = React.useRef<HTMLDivElement>(null);
+  const loadingRef = React.useRef(false);
+
+  // Debounce 300ms
+  React.useEffect(() => {
+    const timer = setTimeout(() => setDebouncedQuery(query), 300);
+    return () => clearTimeout(timer);
+  }, [query]);
+
+  // Сброс при новом запросе
+  React.useEffect(() => {
+    setSites([]);
+    setSkip(0);
+    setHasMore(true);
+  }, [debouncedQuery]);
+
+  const fetchSites = React.useCallback(async (currentSkip: number, q: string) => {
+    if (loadingRef.current) return;
+    loadingRef.current = true;
+    setLoading(true);
+    try {
+      const res = await fetch(
+        `${API_URL}/api/sites?q=${encodeURIComponent(q)}&skip=${currentSkip}&limit=${LIMIT}`
+      );
+      const batch: SiteWithVisits[] = await res.json();
+      setSites((prev) => (currentSkip === 0 ? batch : [...prev, ...batch]));
+      setSkip(currentSkip + batch.length);
+      setHasMore(batch.length === LIMIT);
+    } finally {
+      loadingRef.current = false;
+      setLoading(false);
+    }
+  }, []);
+
+  // Первая загрузка / при смене запроса
+  React.useEffect(() => {
+    fetchSites(0, debouncedQuery);
+  }, [debouncedQuery]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Инфинит скрол
+  React.useEffect(() => {
+    const el = sentinelRef.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting && hasMore && !loadingRef.current) {
+          fetchSites(skip, debouncedQuery);
+        }
+      },
+      { threshold: 0.1 }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [hasMore, skip, debouncedQuery, fetchSites]);
+
   return (
     <SidebarGroup>
       <SidebarGroupLabel>Сайты</SidebarGroupLabel>
+      {!collapsed && (
+        <div className="px-2 pb-2">
+          <div className="relative">
+            <Search className="absolute left-2 top-1/2 -translate-y-1/2 size-3.5 text-muted-foreground" />
+            <Input
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Поиск..."
+              className="h-7 pl-7 text-sm"
+            />
+          </div>
+        </div>
+      )}
       <SidebarMenu>
-        {sites.map((site) => (
-          <SidebarMenuItem key={site.name}>
-            <SidebarMenuButton asChild tooltip={site.name}>
-              <a href={site.url}>
-                <site.icon />
-                <span>{site.name}</span>
-              </a>
+        {sites.map((item) => (
+          <SidebarMenuItem key={item.site.id}>
+            <SidebarMenuButton
+              tooltip={item.site.domain ?? item.site.slug}
+              isActive={siteId === item.site.id}
+              onClick={() => setSite(item.site)}
+            >
+              <Image
+                src={`https://www.liveinternet.ru/favicon/${item.site.slug}.ico`}
+                alt=""
+                width={16}
+                height={16}
+                className="shrink-0 rounded-sm"
+                onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
+                unoptimized
+              />
+              <span className="truncate">{item.site.title ?? item.site.slug}</span>
+              {item.visits != null && (
+                <span className="ml-auto text-xs text-muted-foreground shrink-0">
+                  {item.visits.toLocaleString("ru")}
+                </span>
+              )}
             </SidebarMenuButton>
           </SidebarMenuItem>
         ))}
+        {loading && (
+          <SidebarMenuItem>
+            <span className="px-2 py-1 text-xs text-muted-foreground">Загрузка...</span>
+          </SidebarMenuItem>
+        )}
+        <div ref={sentinelRef} className="h-1" />
       </SidebarMenu>
     </SidebarGroup>
-  );
-}
-
-function NavUser({
-  user,
-}: {
-  user: {
-    name: string;
-    email: string;
-    avatar: string;
-  };
-}) {
-  const { isMobile } = useSidebar();
-
-  return (
-    <SidebarMenu>
-      <SidebarMenuItem>
-        <DropdownMenu>
-          <DropdownMenuTrigger asChild>
-            <SidebarMenuButton
-              size="lg"
-              className="data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground"
-            >
-              <Avatar className="h-8 w-8 rounded-lg">
-                <AvatarImage src={user.avatar} alt={user.name} />
-                <AvatarFallback className="rounded-lg">CN</AvatarFallback>
-              </Avatar>
-              <div className="grid flex-1 text-left text-sm leading-tight">
-                <span className="truncate font-medium">{user.name}</span>
-                <span className="truncate text-xs">{user.email}</span>
-              </div>
-              <ChevronsUpDown className="ml-auto size-4" />
-            </SidebarMenuButton>
-          </DropdownMenuTrigger>
-          <DropdownMenuContent
-            className="w-(--radix-dropdown-menu-trigger-width) min-w-56 rounded-lg"
-            side={isMobile ? "bottom" : "right"}
-            align="end"
-            sideOffset={4}
-          >
-            <DropdownMenuGroup>
-              <DropdownMenuLabel className="p-0 font-normal">
-                <div className="flex items-center gap-2 px-1 py-1.5 text-left text-sm">
-                  <Avatar className="h-8 w-8 rounded-lg">
-                    <AvatarImage src={user.avatar} alt={user.name} />
-                    <AvatarFallback className="rounded-lg">CN</AvatarFallback>
-                  </Avatar>
-                  <div className="grid flex-1 text-left text-sm leading-tight">
-                    <span className="truncate font-medium">{user.name}</span>
-                    <span className="truncate text-xs">{user.email}</span>
-                  </div>
-                </div>
-              </DropdownMenuLabel>
-            </DropdownMenuGroup>
-            <DropdownMenuSeparator />
-            <DropdownMenuGroup>
-              <DropdownMenuItem>
-                <BadgeCheck />
-                Аккаунт
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <CreditCard />
-                Оплата
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Bell />
-                Уведомления
-              </DropdownMenuItem>
-            </DropdownMenuGroup>
-            <DropdownMenuSeparator />
-            <DropdownMenuGroup>
-              <DropdownMenuItem>
-                <LogOut />
-                Выйти
-              </DropdownMenuItem>
-            </DropdownMenuGroup>
-          </DropdownMenuContent>
-        </DropdownMenu>
-      </SidebarMenuItem>
-    </SidebarMenu>
   );
 }
 
@@ -255,7 +157,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
     <Sidebar collapsible="icon" {...props}>
       <SidebarHeader className="flex flex-row items-center gap-0 p-4">
         <div className="flex flex-1 items-center gap-2 overflow-hidden">
-          <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-mdtext-sidebar-primary-foreground">
+          <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md text-sidebar-primary-foreground">
             <Eye className="size-4" />
           </div>
           <div className="grid leading-tight">
@@ -266,11 +168,8 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <SidebarTrigger className="shrink-0" />
       </SidebarHeader>
       <SidebarContent>
-        <NavSites sites={data.sites} />
+        <NavSites />
       </SidebarContent>
-      <SidebarFooter>
-        <NavUser user={data.user} />
-      </SidebarFooter>
       <SidebarRail />
     </Sidebar>
   );
