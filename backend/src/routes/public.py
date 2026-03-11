@@ -51,14 +51,20 @@ async def site_metrics(
     for i, m in enumerate(metrics):
         prev = metrics[i - 1] if i > 0 else None
         visits_diff = None
+        change_pct = None
         if prev is not None and m.visits is not None and prev.visits is not None:
             visits_diff = m.visits - prev.visits
-        metric_list.append(SiteMetricSchema(
-            date=m.created_at.date(),
-            weekday=m.created_at.strftime("%A"),
-            visits=m.visits,
-            visits_diff=visits_diff,
-        ))
+            if prev.visits != 0:
+                change_pct = round(visits_diff / prev.visits * 100, 1)
+        metric_list.append(
+            SiteMetricSchema(
+                date=m.created_at.date(),
+                weekday=m.created_at.strftime("%A"),
+                visits=m.visits,
+                visits_diff=visits_diff,
+                change_pct=change_pct,
+            )
+        )
     return SiteMetricsResponseSchema(
         analytics=SiteAnalyticsSchema(**analytics),
         metrics=metric_list,

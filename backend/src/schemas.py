@@ -24,10 +24,12 @@ class SiteMetricSchema(BaseModel):
     weekday: str
     visits: int | None
     visits_diff: int | None
+    change_pct: float | None
 
 
 class SiteAnalyticsSchema(BaseModel):
     visits_today: int | None
+    visits_diff: int | None
     change_pct: float | None
     rank_today: int | None
     best_weekday: str | None

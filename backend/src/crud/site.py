@@ -1,9 +1,7 @@
-import datetime
-import zoneinfo
-
 from sqlalchemy import func, select
 from sqlalchemy.ext.asyncio import AsyncSession
 
+from src.crud.analytics import _resolve_latest_date
 from src.models.metric import Metric
 from src.models.site import Site
 
@@ -19,12 +17,8 @@ async def get_sites(db: AsyncSession, skip: int = 0, limit: int = 100) -> list[S
 
 
 async def search_sites(db: AsyncSession, q: str, skip: int = 0, limit: int = 20) -> list[dict[str, object]]:
-    today = datetime.datetime.now(zoneinfo.ZoneInfo("Europe/Moscow")).date()
-    today_visits = (
-        select(Metric.site_id, Metric.visits)
-        .where(func.date(Metric.created_at) == today)
-        .subquery()
-    )
+    today = await _resolve_latest_date(db)
+    today_visits = select(Metric.site_id, Metric.visits).where(func.date(Metric.created_at) == today).subquery()
     result = await db.execute(
         select(Site, today_visits.c.visits)
         .outerjoin(today_visits, today_visits.c.site_id == Site.id)
