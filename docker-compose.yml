@@ -36,13 +36,35 @@ services:
       - .env
     restart: unless-stopped
 
+  parser:
+    build:
+      context: ./parser
+    depends_on:
+      - backend
+    env_file:
+      - .env
+    restart: "no"
+    labels:
+      ofelia.enabled: "true"
+      ofelia.job-run.parser.schedule: "0 55 23 * * *"
+      ofelia.job-run.parser.service: "parser"
+
+  ofelia:
+    image: mcuadros/ofelia:latest
+    restart: unless-stopped
+    depends_on:
+      - parser
+    command: daemon --docker
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+
   database:
     image: postgres:15
     restart: unless-stopped
-    ports:
-      - "5432:5432"
-    # expose:
-    #   - "5432"
+    # ports:
+    #   - "5432:5432"
+    expose:
+      - "5432"
     env_file:
       - .env
     volumes:
