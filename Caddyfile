@@ -1,3 +1,7 @@
+{
+    debug
+}
+
 {$DOMAIN} {
     @internal path /internal/*
     respond @internal 403
