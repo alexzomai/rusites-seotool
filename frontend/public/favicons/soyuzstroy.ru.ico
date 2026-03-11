@@ -1,0 +1,38 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+    <head>
+    
+        <meta http-equiv="content-type" content="text/html; charset=windows-1251">
+        <title>404 - Страница не найдена</title>
+<link rel="stylesheet" href="indexnew.css" type="text/css" media="screen">        
+<script type="text/javascript">function goBack(){window.history.back()}</script>
+</head>
+<body>
+
+    </head>
+    <body>
+        <table cellpadding="0" cellspacing="0" width="100%" height="100%">
+            <tr>
+                <td width="955" align="center">
+                    <h1>
+                        Ошибка 404
+                    </h1>
+                    <h2>
+                        Страница не найдена
+                    </h2>
+Возможно вы перешли по нерабочей ссылке или произошла ошибка.
+<br>                    
+
+<img src="http://soyuzstroy.ru/img/logo.png" border="0">
+<br><br>
+
+<input type="button" class=saba value="Вернуться" onclick="goBack()" />
+
+<input type="button" class=saba style="width:180px;" value="Перейти на главную" onclick='document.location.href="http://soyuzstroy.ru/"' />
+
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

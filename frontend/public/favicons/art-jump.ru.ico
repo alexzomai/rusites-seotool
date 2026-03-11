@@ -1,0 +1,32 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><title>Автоматический генератор ссылок по ГОСТ онлайн</title><link rel=stylesheet href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic"><link rel=stylesheet href="//fonts.googleapis.com/icon?family=Material+Icons"><script src=/tinymce.min.js></script><link href=/static/css/app.92278749324f7dccecd5c8eb1a7c0ca2.css rel=stylesheet></head><body><script type=text/javascript>(function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter47299251 = new Ya.Metrika({
+                        id:47299251,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src=https://mc.yandex.ru/watch/47299251 style="position:absolute; left:-9999px;" alt=""></div></noscript><script type=text/javascript>new Image().src = "//counter.yadro.ru/hit?r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";h"+escape(document.title.substring(0,150))+
+    ";"+Math.random();</script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-113311702-1"></script><script>window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-113311702-1');</script><div id=app></div><script type=text/javascript src=/static/js/manifest.3923c86415df79cc34da.js></script><script type=text/javascript src=/static/js/vendor.79871d90ea3510d9390d.js></script><script type=text/javascript src=/static/js/app.a63a5ffff266b46f0006.js></script></body></html>

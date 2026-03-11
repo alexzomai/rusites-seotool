@@ -1,0 +1,624 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<meta content="история хронология новая хронология Анатолий Фоменко Глеб Носовский Гарри Каспаров география новая история Империя Рим Византия карты старинные античность средние века Египет Русь Россия этруски поиск в Библии Дмитрий Калюжный Сергей Валянский Александр Жабинский Ярослав Кеслер Йордан Табов Евгений Габович форумы чудеса тайны НХ Царь Славян История Москвы История Стамбула Когда крестилась Киевская Русь аудиоматериалы аудио записи материалы интервью" name=subject>
+<meta content="история хронология новая хронология Анатолий Фоменко Глеб Носовский Гарри Каспаров география новая история Империя Рим Византия карты старинные античность средние века Египет Русь Россия этруски поиск в Библии Дмитрий Калюжный Сергей Валянский Александр Жабинский Ярослав Кеслер Йордан Табов Евгений Габович форумы чудеса тайны НХ Царь Славян История Москвы История Стамбула Когда крестилась Киевская Русь аудиоматериалы аудио записи материалы интервью" name=page-type>
+<meta content="история хронология новая хронология Анатолий Фоменко Глеб Носовский Гарри Каспаров география новая история Империя Рим Византия карты старинные античность средние века Египет Русь Россия этруски поиск в Библии Дмитрий Калюжный Сергей Валянский Александр Жабинский Ярослав Кеслер Йордан Табов Евгений Габович форумы чудеса тайны НХ Царь Славян История Москвы История Стамбула Когда крестилась Киевская Русь аудиоматериалы аудио записи материалы интервью" name=searchtitle>
+<meta content="история хронология новая хронология Анатолий Фоменко Глеб Носовский Гарри Каспаров география новая история Империя Рим Византия карты старинные античность средние века Египет Русь Россия этруски поиск в Библии Дмитрий Калюжный Сергей Валянский Александр Жабинский Ярослав Кеслер Йордан Табов Евгений Габович форумы чудеса тайны НХ Царь Славян История Москвы История Стамбула Когда крестилась Киевская Русь аудиоматериалы аудио записи материалы интервью" name=publisher>
+<meta http-equiv="content-language" content="ru">
+<meta name="url" content="http://forum.lirik.ru/">
+<meta name="classification" content="история хронология новая хронология Анатолий Фоменко Глеб Носовский Гарри Каспаров география новая история Империя Рим Византия карты старинные античность средние века Египет Русь Россия этруски поиск в Библии Дмитрий Калюжный Сергей Валянский Александр Жабинский Ярослав Кеслер Йордан Табов Евгений Габович форумы чудеса тайны НХ Царь Славян История Москвы История Стамбула Когда крестилась Киевская Русь аудиоматериалы аудио записи материалы интервью">
+<meta name="voluntary content rating" content="история хронология новая хронология Анатолий Фоменко Глеб Носовский Гарри Каспаров география новая история Империя Рим Византия карты старинные античность средние века Египет Русь Россия этруски поиск в Библии Дмитрий Калюжный Сергей Валянский Александр Жабинский Ярослав Кеслер Йордан Табов Евгений Габович форумы чудеса тайны НХ Царь Славян История Москвы История Стамбула Когда крестилась Киевская Русь аудиоматериалы аудио записи материалы интервью">
+
+
+<link rel="top" href="./index.php" title="Список форумов Форумы у Лирика" />
+<link rel="search" href="./search.php" title="Поиск" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Пользователи" />
+<title>Форумы у Лирика :: Главная</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<link rel="shortcut icon" href="http://forum.lirik.ru/forum/images/favicon.ico" />
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+
+body { 
+	background-color: #6D83AA;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+hr	{ height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #EFEFEF; }
+td.row2	{ background-color: #DEE3E7; }
+td.row3	{ background-color: #D1D7DC; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/subSilver/images/cellpic2.jpg);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #FFA34F; font-size: 11px; font-weight : bold; 
+	background-color: #006699; height: 25px;
+	background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/subSilver/images/cellpic1.gif);
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle		{ text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+a.nav			{ text-decoration: none; color : #006699; }
+a.nav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code { 
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+td.inlineadtitle {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid; border-width: 1px;
+}
+td.inlinead {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid; border-width: 1px; text-align: center;
+}
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css"); 
+
+/* Begin Simple Subforums MOD */
+a.topic-new, a.topic-new:visited { color: #DD6900; }
+a.topic-new:hover, a.topic-new:active { color: #006699; }
+/* End Simple Subforums MOD */
+
+div.slogik { font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;text-align: center;width:400px;}
+a.slogik		{ color: #444444; text-decoration: none;}
+a.slogik:hover { color: #000000; text-decoration: underline;}
+
+-->
+</style>
+
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<img src="http://counter.yadro.ru/hit?r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';i'+escape('Жж'+document.title)+';'+Math.random()+
+'" width=1 height=1 alt="">')//--></script><!--/LiveInternet-->
+
+
+
+<script language="javascript" type="text/javascript" src="templates/SMRcode.js"></script>
+
+
+</head>
+<body bgcolor="#6D83AA" text="#000000" link="#006699" vlink="#5493B4">
+<noindex><a href="lkv.php"></a></noindex>
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center"> 
+	<tr> 
+		<td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr> 
+				<td valign="top" nowrap>
+<center><a href="http://www.lirik.ru"><span class="maintitle">Форумы у Лирика</span></a><br /><br /></center>
+<a href="http://imperia.lirik.ru"><img src="templates/subSilver/images/logo_phpBB.gif" border="0" alt="Список форумов Форумы у Лирика" vspace="1" /></a>
+</td>
+				<td align="center" width="100%" valign="top">
+<!--span class="gen"><br />&nbsp; </span-->
+
+ 
+				<table cellspacing="0" cellpadding="2" border="0">
+					<tr> 
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"> 
+
+&nbsp;<a href="album.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_album.gif" width="12" height="13" border="0" alt="Альбом" hspace="3" />Альбом</a>&nbsp;						
+						&nbsp;<a href="faq.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Поиск" hspace="3" />Поиск</a>&nbsp; 
+						&nbsp;<a href="rules.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_rules.gif" width="12" height="13" border="0" alt="Правила форума" hspace="3" />Правила</a>&nbsp;
+&nbsp;<a href="http://forum.lirik.ru/vBANe.html" class="mainmenu"><img src="templates/subSilver/images/icon_mini_rules.gif" width="12" height="13" border="0" alt="Для тех, кто в БАНе" hspace="3" />Сейчас в БАНе</a>&nbsp;
+
+
+						</td>
+					</tr>
+					<tr>
+						<td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">
+<!--&nbsp;<a href="lenta.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Лента последних сообщений" hspace="3" />Лента</a>&nbsp; -->
+
+												&nbsp;<a href="profile.php?mode=register" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Регистрация" hspace="3" />Регистрация</a></span>&nbsp;
+						
+ &nbsp;<a href="login.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Вход" hspace="3" />Вход</a>&nbsp;</span>
+</td></tr>
+
+
+
+<tr>
+<td>
+
+
+</td>
+</tr>
+
+					
+				</table></td>
+			</tr>
+		</table>
+
+
+<!-- google_ad_section_start -->
+<table width="100%" cellspacing="0" cellpadding="2" border="0" align="center">
+  <tr> 
+	<td align="left" valign="bottom"><span class="gensmall">
+		Текущее время Вс Мар 01, 2026 10:40 pm<br /></span><span class="nav"><a href="index.php" class="nav">Список форумов Форумы у Лирика</a></span></td>
+	<td align="right" valign="bottom" class="gensmall">
+				<a href="search.php?search_id=unanswered" class="gensmall">Найти сообщения без ответов</a></td>
+  </tr>
+</table>
+
+	<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width=49% align=left valign=top>
+
+<table width=100% cellpadding=2 cellspacing=1 border=0 class=forumline>
+<tr><th colspan=2 class=thTop height=25>Это тоже интересно</th></tr>
+<tr> 
+<td class=row1><span class=gensmall>
+<a href="http://www.chronologia.org" target="_blank" title="Официальный сайт проекта НОВАЯ ХРОНОЛОГИЯ"><img src="http://chronologia.org/images/nx1.gif" width="88" 
+ height="31" border="0" alt="Официальный сайт проекта НОВАЯ ХРОНОЛОГИЯ"></a> 
+<a href="http://artifact.org.ru/" target="_blank" title="Электронный научный общественный альманах"><img height="31" alt="Электронный научный общественный альманах" src="http://artifact.org.ru/images/logo/AiF_btn_88x31.png" width="88" border="0"/></a> 
+<a href="http://chronology.org.ru/" target="_blank" title="Научная Хронология - викиэнциклопедия"><img height="31" alt="Научная Хронология - викиэнциклопедия" src="http://forum.lirik.ru/img/chronology_wikia_88x31.gif" width="88" border="0"/></a> 
+<a href="http://imperia.lirik.ru/" target="_blank" title="Империя - Новая научная хронология и концепция истории"><img height="31" alt="Империя - Новая научная хронология и концепция истории" src="http://imperia.lirik.ru/images/imp_btn_88x33.gif" width="88" border="0" /></a>
+<BR><BR>
+<a href="http://www.avianavigator.ru/" target="_blank" title="Авиа Навигатор"><img alt="Авиа Навигатор" src="http://www.avianavigator.ru/images/banners/AviaNavigator_88x31.gif" border="0"/></a> 
+<a href="http://www.anti-orange-ua.com.ru/" target="_blank" title="Проект Анти-Оранж"><img alt="НЕТ глобализации, ДА величию России." src="http://www.anti-orange-ua.com.ru/images/ao_banner/anti23.gif" border="0"/></a>
+
+<BR>
+
+</span></td>
+<td width=0>
+
+</td>
+</tr>
+</table>
+  
+</td>
+<td>&nbsp;</td>
+<td width=49% align=right valign=top>
+
+<table width=100% cellpadding=2 cellspacing=1 border=0 class=forumline>
+<tr><th colspan=2 class=thTop height=25>Последние обновления</th></tr>
+<tr>
+<td class=row1 valign=top>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td nowrap=nowrap valign=top><span class="genmed"><b>&#155;</b>&nbsp;</span></td>
+<td valign=top width=100%><a href="viewtopic.php?t=424" class=genmed>44 президент</a></td>
+</tr>
+<tr>
+<td nowrap=nowrap valign=top><span class="genmed"><b>&#155;</b>&nbsp;</span></td>
+<td valign=top width=100%><a href="viewtopic.php?t=2288" class=genmed>Ищу карту Тартарии Ортелия</a></td>
+</tr>
+<tr>
+<td nowrap=nowrap valign=top><span class="genmed"><b>&#155;</b>&nbsp;</span></td>
+<td valign=top width=100%><a href="viewtopic.php?t=523" class=genmed>Жанна д’Арк – пример исторического пиара</a></td>
+</tr>
+<tr>
+<td nowrap=nowrap valign=top><span class="genmed"><b>&#155;</b>&nbsp;</span></td>
+<td valign=top width=100%><a href="viewtopic.php?t=2402" class=genmed>Кулинария</a></td>
+</tr>
+<tr>
+<td nowrap=nowrap valign=top><span class="genmed"><b>&#155;</b>&nbsp;</span></td>
+<td valign=top width=100%><a href="viewtopic.php?t=2404" class=genmed>Дешифровка надписей на САНТИЯХ &quot;ДАКОВ&quot;</a></td>
+</tr>
+</table>
+
+</td>
+
+<td class=row1 valign=middle>
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td valign=top width=100% align=center><a href="http://forum.lirik.ru/forum/rss.php" class=genmed><img src="http://forum.lirik.ru/forum/templates/subSilver/images/rss20.gif"></a></td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+
+<table width="100%" cellpadding="2" cellspacing="1" border="0" class="forumline">
+  <tr> 
+	<th colspan="2" class="thCornerL" height="25" nowrap="nowrap">&nbsp;Форум&nbsp;</th>
+	<th width="50" class="thTop" nowrap="nowrap">&nbsp;Темы&nbsp;</th>
+	<th width="50" class="thTop" nowrap="nowrap">&nbsp;Сообщения&nbsp;</th>
+	<th class="thCornerR" nowrap="nowrap">&nbsp;Последнее сообщение&nbsp;</th>
+  </tr>
+    <tr> 
+	<td class="catLeft" colspan="2" height="28"><span class="cattitle"><a href="index.php?c=2" class="cattitle">История</a></span></td>
+	<td class="rowpic" colspan="3" align="right">&nbsp;</td>
+  </tr>
+      <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=2" class="forumlink">Империя</a><br />
+	  </span> <span class="genmed">Обсуждение вопросов, связанных с Новой Хронологией<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">477</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">5462</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Пт Янв 15, 2016 4:56 pm Станислав 2<br /><a href="viewtopic.php?t=523">Жанна д’Арк – пример историчес&hellip;</a>&nbsp;<a href="viewtopic.php?p=20873#20873"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=7" class="forumlink">Кунсткамера</a><br />
+	  </span> <span class="genmed">Новости истории и археологии. <BR>
+Обсуждение вопросов, не затрагивающих Новую Хронологию
+<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">257</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">1679</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Пн Дек 08, 2014 10:59 am Дмитрий<br /><a href="viewtopic.php?t=2409">Dead Morozz!</a>&nbsp;<a href="viewtopic.php?p=20720#20720"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=8" class="forumlink">Современная история</a><br />
+	  </span> <span class="genmed">Исторический форум (XX-XXI век)<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">316</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">4013</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Вт Янв 19, 2021 12:44 am Обыватель<br /><a href="viewtopic.php?t=424">44 президент</a>&nbsp;<a href="viewtopic.php?p=20876#20876"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=12" class="forumlink">Картография</a><br />
+	  </span> <span class="genmed">История картографии и старые карты<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">81</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">799</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Чт Июн 13, 2019 5:51 pm Гость<br /><a href="viewtopic.php?t=2288">Ищу карту Тартарии Ортелия</a>&nbsp;<a href="viewtopic.php?p=20875#20875"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=13" class="forumlink">Гербарика</a><br />
+	  </span> <span class="genmed">Обсуждение геральдики, гербов и прочих знаков отличия.<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">48</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">506</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Пт Окт 24, 2014 12:49 pm dhoom<br /><a href="viewtopic.php?t=1294">Геральдика Рыцарей Круглого ст&hellip;</a>&nbsp;<a href="viewtopic.php?p=20705#20705"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folders_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=9" class="forumlink">Линкотека</a><br />
+	  </span> <span class="genmed">Собрание тематических ссылок<br />
+	  </span>	  <span class="genmed">Подфорумы: <a href="viewtopic.php?p=19248#19248"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=15"  title="">Архитектура</a>, <a href="viewtopic.php?p=20682#20682"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=33"  title="Ссылки на книги и электронные библиотеки.">Библиотека</a>, <a href="viewtopic.php?p=20459#20459"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=16"  title="">Религии мира</a>, <img src="templates/subSilver/images/icon_minipost.gif" border="0" alt="Нет сообщений" title="Нет сообщений" /> <a href="viewforum.php?f=17"  title="">Геральдика и символистика</a>, <img src="templates/subSilver/images/icon_minipost.gif" border="0" alt="Нет сообщений" title="Нет сообщений" /> <a href="viewforum.php?f=18"  title="">События</a>, <a href="viewtopic.php?p=20574#20574"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=19"  title="">Личности</a>, <a href="viewtopic.php?p=20436#20436"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=20"  title="">Нумизматика</a>, <img src="templates/subSilver/images/icon_minipost.gif" border="0" alt="Нет сообщений" title="Нет сообщений" /> <a href="viewforum.php?f=21"  title="">Оружие</a>, <img src="templates/subSilver/images/icon_minipost.gif" border="0" alt="Нет сообщений" title="Нет сообщений" /> <a href="viewforum.php?f=22"  title="">Подделки</a>, <a href="viewtopic.php?p=18158#18158"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=23"  title="Предметы искусства, музеи, выставки, галереи">Музейное дело</a>, <a href="viewtopic.php?p=19437#19437"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=25"  title="">Топонимика</a>, <a href="viewtopic.php?p=20589#20589"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=24"  title="">Этнография</a>, <a href="viewtopic.php?p=20616#20616"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=26"  title="">Египет и Северная Африка</a>, <a href="viewtopic.php?p=20559#20559"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=27"  title="">Междуречье и Ближний Восток</a>, <a href="viewtopic.php?p=20671#20671"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=28"  title="">Византия, Греция и Рим</a>, <img src="templates/subSilver/images/icon_minipost.gif" border="0" alt="Нет сообщений" title="Нет сообщений" /> <a href="viewforum.php?f=29"  title="">Дальний Восток</a>, <a href="viewtopic.php?p=20618#20618"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=30"  title="">Славянский мир</a>, <img src="templates/subSilver/images/icon_minipost.gif" border="0" alt="Нет сообщений" title="Нет сообщений" /> <a href="viewforum.php?f=31"  title="">Америка</a>, <a href="viewtopic.php?p=19524#19524"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=32"  title="">Манускрипты</a>	  </span>	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">48</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">112</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Пн Июн 23, 2014 5:38 am ninusik31<br /><a href="viewtopic.php?t=2245">литература по археологии</a>&nbsp;<a href="viewtopic.php?p=20682#20682"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+                                                                                    <tr> 
+	<td class="catLeft" colspan="2" height="28"><span class="cattitle"><a href="index.php?c=6" class="cattitle">Альманах Арт&Факт</a></span></td>
+	<td class="rowpic" colspan="3" align="right">&nbsp;</td>
+  </tr>
+      <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=14" class="forumlink">Арт&Факт</a><br />
+	  </span> <span class="genmed">Электронный междисциплинарный научно-популярный общественный журнал http://artifact.org.ru/<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">29</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">506</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Чт Авг 18, 2011 8:24 pm rus20011<br /><a href="viewtopic.php?t=2338">Книга &quot;Царь Николай II  н&hellip;</a>&nbsp;<a href="viewtopic.php?p=20499#20499"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="catLeft" colspan="2" height="28"><span class="cattitle"><a href="index.php?c=5" class="cattitle">За жизнь</a></span></td>
+	<td class="rowpic" colspan="3" align="right">&nbsp;</td>
+  </tr>
+      <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=6" class="forumlink">За жизнь</a><br />
+	  </span> <span class="genmed">Ничто человеческое нам не чуждо<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">341</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">3277</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Пн Дек 28, 2015 9:39 am mimi<br /><a href="viewtopic.php?t=2402">Кулинария</a>&nbsp;<a href="viewtopic.php?p=20871#20871"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folder_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=11" class="forumlink">Песчаный карьер</a><br />
+	  </span> <span class="genmed">Уголок дурева ;о)<br />
+	  </span>	  	  	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">165</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">2136</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Сб Ноя 01, 2014 11:24 pm vibobita<br /><a href="viewtopic.php?t=2189">Границы Вселенной - есть ли он&hellip;</a>&nbsp;<a href="viewtopic.php?p=20712#20712"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+        <tr> 
+	<td class="catLeft" colspan="2" height="28"><span class="cattitle"><a href="index.php?c=3" class="cattitle">Тех. отдел</a></span></td>
+	<td class="rowpic" colspan="3" align="right">&nbsp;</td>
+  </tr>
+      <tr> 
+	<td class="row1" align="center" valign="middle" height="50"><img src="templates/subSilver/images/folders_big.gif" width="46" height="25" alt="Нет новых сообщений" title="Нет новых сообщений" /></td>
+	<td class="row1" width="100%" height="50"><span class="forumlink"> <a href="viewforum.php?f=3" class="forumlink">Тех. отдел</a><br />
+	  </span> <span class="genmed">Вопросы, проблемы, предложения по сайтам lirik.ru. Тестирование форума<br />
+	  </span>	  <span class="genmed">Подфорумы: <a href="viewtopic.php?p=18901#18901"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a> <a href="viewforum.php?f=10"  title="Информация о вынесенных администрацией предупреждениях и наказаниях ">зЛобное место</a>	  </span>	</td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">88</span></td>
+	<td class="row2" align="center" valign="middle" height="50"><span class="gensmall">911</span></td>
+
+	<td class="row2" align="center" valign="middle" height="50" nowrap="nowrap"> <span class="gensmall">Чт Сен 19, 2013 12:42 pm Гость<br /><a href="viewtopic.php?t=2196">Полисма</a>&nbsp;<a href="viewtopic.php?p=20639#20639"><img src="templates/subSilver/images/icon_latest_reply.gif" border="0" alt="Посмотреть последнее сообщение" title="Посмотреть последнее сообщение" /></a></span></td>
+  </tr>
+          </table>
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="2">
+  <tr> 
+ 	<td align="left">
+ 	 	</td>
+	<td align="right"><span class="gensmall">Часовой пояс: GMT + 3</span></td>
+  </tr>
+</table>
+
+<table width="100%" cellpadding="3" cellspacing="1" border="0" class="forumline">
+  <tr> 
+	<td class="catHead" colspan="2" height="28"><span class="cattitle"><a href="viewonline.php" class="cattitle">Кто сейчас на форуме</a></span></td>
+  </tr>
+  <tr> 
+	<td class="row1" align="center" valign="middle" rowspan="4"><img src="templates/subSilver/images/whosonline.gif" alt="Кто сейчас на форуме" /></td> 
+	<td class="row1" align="left" width="100%"><span class="gensmall">Наши пользователи оставили сообщений: <b>19401</b><br />Всего зарегистрированных пользователей: <b>163</b><br />Последний зарегистрированный пользователь: <b><a href="profile.php?mode=viewprofile&amp;u=860">mvhbcgio</a></b></span>
+	</td>
+  </tr>
+  <tr> 
+	<td class="row1" align="left"><span class="gensmall">Сейчас посетителей на форуме: <b>29</b>, из них зарегистрированных: 0, скрытых: 0 и гостей: 29 &nbsp; [ <span style="color:#FFA34F">Администратор</span> ] &nbsp; [ <span style="color:#006600">Модератор</span> ]<br />Больше всего посетителей (<b>463</b>) здесь было Пн Июн 30, 2025 12:47 pm<br />Зарегистрированные пользователи: Нет</span></td>
+</tr>
+  <tr>
+	<td class="row1" align="left"><span class="gensmall">Сейчас в чате <B>0</B>  пользователь(ей)&nbsp;&nbsp;&nbsp;
+		[ Войти в чат можно после авторизации ]
+			<br /><B></B>	</span>
+	</td>
+  </tr>
+   
+<tr> 
+<td class="row1" align="left"><span class="gensmall">Следующие 0 участника(ов) были здесь за последние 24 ч.: </span></td> 
+  </tr>
+</table>
+
+<table width="100%" cellpadding="1" cellspacing="1" border="0">
+<tr>
+	<td align="left" valign="top"><span class="gensmall">Эти данные основаны на активности пользователей за последние пять минут</span></td>
+</tr>
+</table>
+
+<form method="post" action="login.php">
+  <table width="100%" cellpadding="3" cellspacing="1" border="0" class="forumline">
+	<tr> 
+	  <td class="catHead" height="28"><a name="login"></a><span class="cattitle">Вход</span></td>
+	</tr>
+	<tr> 
+	  <td class="row1" align="center" valign="middle" height="28"><span class="gensmall">Имя: 
+		<input class="post" type="text" name="username" size="10" />
+		&nbsp;&nbsp;&nbsp;Пароль: 
+		<input class="post" type="password" name="password" size="10" maxlength="32" />
+				&nbsp;&nbsp; &nbsp;&nbsp;Автоматически входить при каждом посещении 
+		<input class="text" type="checkbox" name="autologin" />
+				&nbsp;&nbsp;&nbsp; 
+		<input type="submit" class="mainoption" name="login" value="Вход" />
+		</span> </td>
+	</tr>
+  </table>
+</form>
+
+<br clear="all" />
+
+<table cellspacing="3" border="0" align="center" cellpadding="0">
+  <tr> 
+	<td width="20" align="center"><img src="templates/subSilver/images/folder_new_big.gif" alt="Новые сообщения"/></td>
+	<td><span class="gensmall">Новые сообщения</span></td>
+	<td>&nbsp;&nbsp;</td>
+	<td width="20" align="center"><img src="templates/subSilver/images/folder_big.gif" alt="Нет новых сообщений" /></td>
+	<td><span class="gensmall">Нет новых сообщений</span></td>
+	<td>&nbsp;&nbsp;</td>
+	<td width="20" align="center"><img src="templates/subSilver/images/folder_locked_big.gif" alt="Форум закрыт" /></td>
+	<td><span class="gensmall">Форум закрыт</span></td>
+  </tr>
+</table>
+<!-- google_ad_section_end --><table  align="center">
+
+<tr><td width=100>
+<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click" target=_blank><img
+src="http://counter.yadro.ru/logo?27.10" border=0
+alt="liveinternet.ru: показано количество просмотров и посетителей"
+width=88 height=120 align=left></a><!--/LiveInternet-->
+
+
+
+</td><td width=100%>
+<div align="center">
+<span class="copyright"><br />  <br /><br /><br />
+
+<a href="http://forum.lirik.ru/" class="copyright">&copy; 2003-2024 forum.lirik.ru</a></span></div>
+		</td>
+<td  width=400 align=left><div class="slogik"><u>Реклама</u>: <br>- <script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script></div></td>
+
+	</tr>
+</table>
+
+</body>
+</html>

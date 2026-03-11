@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="Активный отдых на Колыме [Мой-Уруста]: пешеходный туризм,треккинг, рыбалка, outdoor activity in Kolyma [Moy-Urusta], trekking, fishing"/>
+<meta name="keywords" content="активный,отдых,Колыма,Мой-Уруста,путешествие,треккинг,outdoor,activity,Kolyma,Moy-Urusta,trip,trekking,extreme, journey"/>
+ 
+<link href="/css/kolymaextreme.css" rel="stylesheet" type="text/css" />
+
+<title>Отдых на Колыме, [Мой-Уруста]</title>
+<!--начало файлы JS --> 
+   <!--  Инициализация кнопка_наверх старт-->
+<script type="text/javascript" 
+    src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js">
+</script>
+<!--Инициализация кнопка_наверх финиш-->
+
+<!--соцсети старт-->
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+<!--соцсети финиш-->
+
+<!--отправка сообщения об ошибке-->
+<script type="text/javascript" src="/mistakes/mistakes.js"></script>
+<link href="/mistakes/mistakes.css" rel="stylesheet" type="text/css" />	
+<!--отправка сообщения об ошибке--><!-- конец файлы JS -->
+<!--метка страницы старт --> 
+<!--метка страницы финиш --> 
+</head>
+<body>
+<div id="container">
+
+<div id="header"><img src="i/index_IMG_5127.jpg" width="800" height="240" alt="Отдых на Колыме. [Мой-Уруста]"  /></div>
+
+<div id="navigation_container">
+<!--меню старт-->
+    <div id="menu_start_active">Главная</div><div id="menu_doroga">
+						<a href="/doroga.php" class="A_menu_otherLink">Дорога</a>
+					 </div><div id="menu_mountains">
+						<a href="/mountains.php" class="A_menu_otherLink">Горы</a>
+					 </div><div id="menu_active">
+					<a href="/active.php" class="A_menu_otherLink">Отдых</a>
+					</div><div id="menu_phototour">
+							<a href="/phototour.php" class="A_menu_otherLink">Фототуры</a>
+							</div><div id="menu_gallery">
+							<a href="/gallery/" class="A_menu_otherLink">Галерея</a>
+							</div><div id="menu_moyurusta">
+							<a href="/moyurusta.php" class="A_menu_otherLink">Мой-Уруста</a>
+							</div><div id="menu_souvenirs">
+							<a href="/souvenirs.php" class="A_menu_otherLink">Сувениры</a>
+							</div><div id="menu_communication">
+							<a href="/communication.php" class="A_menu_otherLink">Связь</a>
+							</div>    <!--меню конец -->
+</div>
+
+<div id="content">
+
+<h1>Отдых на Колыме - <br />
+это интересно, красиво и запоминается на всю жизнь!</h1> 
+<div class="text_basic">Приветствем вас, уважаемый любитель путешестий! <br />
+У вас скоро отпуск. Вы решили провести его	 вдали от мегаполисов, отдохнуть от суеты, побывать в красивом месте и привезти много-много красивых фотографий. Если вы хотите познакомиться с необъятными просторами нашей Родины, то предлагаем вам познакомиться с удивительным местом - Мой-Уруста, который расположен на реке Колыма в центральном районе Магаданской области. Для знакомства посмотрите эти фотографии, которые вам сами подскажут, что на Колыме стоит побывать!</div>
+
+<!-- старт галерея-презентация -->
+<!--START JUICEBOX EMBED-->
+<script src="jbcore/juicebox.js"></script>
+<script>
+new juicebox({
+containerId: "juicebox-container",
+galleryWidth: "800",
+galleryHeight: "625",
+backgroundColor: "rgba(255,255,255,1)"
+});
+</script>
+<div id="juicebox-container">
+<!-- Image gallery content for non-javascript devices -->
+<noscript>
+<h1></h1>
+<p></p>
+<p><img src="images/vlastny_IMG_2066.jpg" title="Приподняв свою шапку-неведимку   пик Властный приветсвует вас!" alt="Приподняв свою шапку-неведимку   пик Властный приветсвует вас!" /><br>Приподняв свою шапку-неведимку   пик Властный приветсвует вас! </p>
+<p><img src="images/IMG_4278.jpg" title="На Колыме есть всё - звёзды для романтиков!" alt="На Колыме есть всё - звёзды для романтиков!" /><br>На Колыме есть всё - звёзды для романтиков! </p>
+<p><img src="images/zakat_IMG_5793.jpg" title="Есть закаты для влюблённых!" alt="Есть закаты для влюблённых!" /><br>Есть закаты для влюблённых! </p>
+<p><img src="images/IMG_9495.jpg" title="Есть закаты для  счастливых!" alt="Есть закаты для  счастливых!" /><br>Есть закаты для  счастливых! </p>
+<p><img src="images/priboi_IMG_5475.jpg" title="Есть даже море (правда не солёное), но прибой настоящий!" alt="Есть даже море (правда не солёное), но прибой настоящий!" /><br>Есть даже море (правда не солёное), но прибой настоящий! </p>
+<p><img src="images/rain_IMG_1457.jpg" title="Есть занавески от замков из дождя!" alt="Есть занавески от замков из дождя!" /><br>Есть занавески от замков из дождя! </p>
+<p><img src="images/raduga_IMG_2263.jpg" title="Радуга - рядом!" alt="Радуга - рядом!" /><br>Радуга - рядом! </p>
+<p><img src="images/rainbow2_img430.jpg" title="А если повезёт, то  можно и двойной вариант радуги увидеть!" alt="А если повезёт, то  можно и двойной вариант радуги увидеть!" /><br>А если повезёт, то  можно и двойной вариант радуги увидеть! </p>
+<p><img src="images/IMG_1547.jpg" title="До облаков рукой подать!" alt="До облаков рукой подать" /><br>До облаков рукой подать! </p>
+<p><img src="images/IMG_5323.jpg" title="Хочется чего-то непонятного - посмотрите на облака и всё встанет на свои места!" alt="Хочется чего-то непонятного - посмотрите на облака и всё встанет на свои места!" /><br>Хочется чего-то непонятного - посмотрите на облака и всё встанет на свои места! </p>
+<p><img src="images/kuchevka_IMG_3077.jpg" title="Облака - белогривые лошадки! На лошадок не похоже, но замес крутой получился!" alt="Облака - белогривые лошадки! На лошадок не похоже, но замес крутой получился!" /><br>Облака - белогривые лошадки! На лошадок не похоже, но замес крутой получился! </p>
+<p><img src="images/IMG_3212-2.jpg" title="Угадайте, где живут облака? Правильно, сразу за сопкой!" alt="Угадайте, где живут облака? Правильно, сразу за сопкой!" /><br>Угадайте, где живут облака? Правильно, сразу за сопкой! </p>
+<p><img src="images/hleb_IMG_8738.jpg" title="Хлеб - всему голова! Самый вкусный хлеб на свете! Не черствеет десять дней. Но не каждая булка доживает до этого срока - ибо съедается за один присест." alt="Хлеб - всему голова! Самый вкусный хлеб на свете! Не черствеет десять дней. Но не каждая булка доживает до этого срока - ибо съедается за один присест." /><br>Хлеб - всему голова! Самый вкусный хлеб на свете! Не черствеет десять дней. Но не каждая булка доживает до этого срока - ибо съедается за один присест. </p>
+<p><img src="images/uha_IMG_2061.jpg" title="Настоящая колымская уха &quot;по-щучьему велению&quot;! =)" alt="Настоящая колымская уха &quot;по-щучьему велению&quot;! =)" /><br>Настоящая колымская уха "по-щучьему велению"! =) </p>
+<p><img src="images/fish_IMG_1595.jpg" title="Деликатес &#8212; вяленый  хариус!" alt="Деликатес &#8212; вяленый  хариус!" /><br>Деликатес -вяленый  хариус! </p>
+<p><img src="images/87790027.jpg" title="Грибы надо собирать, а не искать! =)" alt="Грибы надо собирать, а не искать! =)" /><br>Грибы надо собирать, а не искать! =) </p>
+<p><img src="images/grib_sush_IMG_0828.jpg" title="Грибочки  сушёные и копчёные - пальчики оближешь. Эх,  фотография не передаёт аромата!" alt="Грибочки  сушёные и копчёные - пальчики оближешь. Эх,  фотография не передаёт аромата!" /><br>Грибочки  сушёные и копчёные - пальчики оближешь. Эх,  фотография не передаёт аромата! </p>
+<p><img src="images/IMG_4146.jpg" title="Как в сказке &quot;Двенадцать месяцев&quot; - весенние цветы в августе!" alt="Как в сказке &quot;Двенадцать месяцев&quot; - весенние цветы в августе!" /><br>Как в сказке "Двенадцать месяцев" - весенние цветы в августе! </p>
+<p><img src="images/IMG_1800.jpg" title="Брусника подкалиберная." alt="Брусника подкалиберная." /><br>Брусника подкалиберная. </p>
+<p><img src="images/mozhevelnik_87730005.jpg" title="Для любителей джина и можжевеловых веточек." alt="Для любителей джина и можжевеловых веточек." /><br>Для любителей джина и можжевеловых веточек. </p>
+<p><img src="images/IMG_9377.jpg" title="Колыма ждёт вас! Приезжайте на Мой-Уруста! Welcome to Moy-Urusta!" alt="Колыма ждёт вас! Приезжайте на Мой-Уруста! Welcome to Moy-Urusta!" /><br>Колыма ждёт вас! Приезжайте на Мой-Уруста! Welcome to Moy-Urusta! </p>
+</noscript>
+</div>
+<!--END JUICEBOX EMBED--><!--финиш галерея-презентация -->
+ <div class="text_basic">Если увиденное вас не впечатлило, то попробуем убедить силой слова!</div>
+<h1>И так, есть две главных причины для поездки на Мой-Уруста</h1>
+<div class="text_basic"><strong>1.Вы ни разу не были на Колыме.</strong><br /><br />
+Ну и что тут такого, скажете вы. Прилечу в Магадан - вот и побываю на Колыме. Так не получится. Магадан это не Колыма, а всего лишь столица Колымского края. От Магадана до реки Колымы по прямой - 240 километров! А если выбрать маршрут по основной трассе <strong>R-504-Колыма</strong>, то получится 448 километров в одну сторону.</div><br />
+<div class="text_basic"><strong>2.Поездка на Мой-Уруста - это возможность участвовать в уникальном многоплановом событии.</strong>
+<br/><br />
+<em>Во-первых</em>, "просто так" до Мой-Уруста не доехать. Даже имея транспорт главной преградой в заключительной части маршрута на пути из <a href="doroga.php#step3" target="_blank">райцентра Усть-Омчуг</a> станет Колымское водохранилище. Централизованная переправа отсутствует. Поэтому просто сам факт приезда на Мой-Уруста можно назвать <strong>знаковым событием</strong>. Дорога до посёлка весьма разнообразна (по суше и воде), эмоциональна и не оставит равнодушным даже искушённого путешественника.<br/>
+<br />
+<em>Во-вторых</em>, в <strong>тихой</strong> и <strong>неспешной</strong> обстановке вы сможете познакомится с хрупкой и притягательной северной природой. Большинство <a href="http://kolymaextreme.ru/active3_trekking.php#trekking" target="_blank">туристических объектов</a> находится <strong>в зоне прямой видимости и пешей доступности</strong>. Приехав в августе вы сможете принять участие в сборе <a href="active.php" title="Сбор даров природы" target="_blank">даров природы</a> и конечно привезти домой вкусные северные гостинцы.<br/><br/>
+<em>В-третьих</em>, приехав на Мой-Уруста вы сможете расширить свой гастономический опыт. Вас ждут: самый вкусный белый хлеб, известный по всей Магаданской области, неповторимые рыбные котлеты из нескольких видов рыбы, настоящая колымская уха и вялено-копчёные деликатесы из рыбы. <br /><br />
+<em>И ещё, гвоздь программы каждой субботы:</em> в любую погоду, не смотря ни на что вас ждёт <strong>настоящая колымская баня!</strong>
+	</div>
+    <h2>Будете у нас на Колыме - милости просим! (&copy;)</h2>
+
+</div>
+<div id="social">
+<!-- inc_social_net.php старт -->
+   <div class="ya-share2" data-services="vkontakte,odnoklassniki,facebook,moimir,gplus,twitter,linkedin,lj,tumblr" data-size="s" va></div><!-- inc_social_net.php конец -->
+</div>
+
+<!-- Кнопка прокрутки вверх  СТАРТ -->
+    <!-- start up-button end -->    
+    <div id="upbutton"></div>
+
+<script type="text/javascript" >
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 100) {
+      if ($('#upbutton').is(':hidden')) {
+        $('#upbutton').css({
+          opacity : 1
+        }).fadeIn('slow');
+      }
+    } else {
+      $('#upbutton').stop(true, false).fadeOut('fast');
+    }
+  });
+  $('#upbutton').click(function() {
+    $('html, body').stop().animate({
+      scrollTop : 0
+    }, 300);
+  });
+</script>
+
+<style type="text/css">
+  #upbutton {
+    background: url("i/up_button.png") no-repeat scroll;
+    height: 60px;
+    width: 60px;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+    display: none;
+    overflow: hidden;
+    position: fixed;
+    z-index: 9999;
+  }
+</style>
+    <!-- end up-button end --><!-- Кнопка прокрутки вверх  ФИНИШ -->
+
+<div id="copyleft_block">
+<!-- copyleft старт -->
+   <!-- start up-button end -->
+    
+    <div id="upbutton"></div>
+
+ <!-- end up-button end -->
+ <div class="copyleft_link"> &copy;2016-2026<a href="http://kolymaextreme.ru/" class="copyleft">kolymaextreme.ru</a><br>
+   Использование любых материалов с сайта <br>
+   только после согласования с правообладателем!
+ </div>
+ <div id="stat_blok">
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2763983", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2763983;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+
+<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2763983">
+<img src="//top-fwz1.mail.ru/counter?id=2763983;t=428;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+
+
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?4409395"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/4409395/">
+<img src="http://counter.rambler.ru/top100.cnt?4409395" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t21.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+ <!-- HotLog -->
+<span id="hotlog_counter"></span>
+<span id="hotlog_dyn"></span>
+<script type="text/javascript">
+var hot_s = document.createElement('script');
+hot_s.type = 'text/javascript'; hot_s.async = true;
+hot_s.src = 'http://js.hotlog.ru/dcounter/2522062.js';
+hot_d = document.getElementById('hotlog_dyn');
+hot_d.appendChild(hot_s);
+</script>
+<noscript>
+<a href="http://click.hotlog.ru/?2522062" target="_blank"><img
+src="http://hit34.hotlog.ru/cgi-bin/hotlog/count?s=2522062&amp;im=700" border="0"
+alt="HotLog"></a>
+</noscript>
+<!-- /HotLog --></div><!-- copyleft конец -->
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,312 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<title>Турбаза Радужный берег: отдых в Горном Алтае на турбазе, детский отдых на Алтае, на озере Ая</title>
+<script type='text/javascript' src='js/jquery.min.js'></script>
+<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.1.1.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script>
+$(document).ready(function() {
+$('#s1').cycle({ 
+    fx:      'fade',
+    timeout:  5000,
+    pager: '#nav'
+}); 
+});
+</script>
+
+</head>
+
+<body>
+
+<script type="text/javascript"><!--
+document.write('<img src="http://counter.yadro.ru/hit?r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" width=1 height=1 alt="">')//--></script>
+
+
+
+
+<table border=0 width=100% height=100%><tr><td align=center>
+
+<div id=maindiv>
+<table border=0 height=100% width=990 cellspacing=0 cellpadding=0 align=center><tr>
+<td width=15 valign=top nowrap style="background: url(pics/left.png) left repeat-y;">
+</td><td id=sitetd width=960>
+
+<div style="z-index:10; position: absolute; left: 50%; width: 410px;">
+	<table border=0 width=100% cellspacing=0 cellpadding=0 style="border-collapse: collapse;">	
+	<tr><td id=topmenu>
+	<a href="about.php">О Горном Алтае</a>
+	<a href="weather.php">Погода на Алтае</a> 
+	<a href="photo.php?a=3">Фото Горного Алтая</a> 
+	</td></tr></table>
+	</div>
+
+
+
+<div style="position: relative; z-index: 0; margin-right: auto; margin-left: auto;">
+<table border=0 height=400 align=center cellpadding=0 cellspacing=0 style="border-collapse: collapse; background: #56a67a;">
+<tr><td height=20>
+                
+</td></tr><td style="background: #b9dac9" valign=top>
+	<noindex>
+	<div id="s1">
+	
+<div style="position: absolute; left: 0; top: 0;"><img class=bord src="pics/01.jpg" width=960 height=400></div><div style="position: absolute; left: 0; top: 0;"><img class=bord src="pics/02.jpg" width=960 height=400></div>
+
+	</div>
+	</noindex>
+</td></tr></table>
+</div>
+
+
+<div style="position: absolute; z-index: 1; width: 966px; top: 0; margin-right: auto; margin-left: auto; border: 0px solid red;">
+<table border=0 align=center width=900 border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse;">
+<tr><td>
+	<div id=logo>
+	<a href="/"><img src="pics/logo.png"></a>
+	</div>
+</td></tr>
+<tr><td>
+	<div id="mainmenuContainer">
+		<div id="mainmenu">
+			<div class="menudiv"><a href="/">Главная</a></div>
+			<div class="menudiv"><a href="service.php">Услуги, цены 2026</a></div>
+			<div class="menudiv"><a href="service.php#cottage">Круглогодичный <br/> отдых</a></div>
+			<div class="menudiv"><a href="group.php">Групповое размещение</a></div>
+			<div class="menudiv"><a href="guest.php">Отзывы <br/> о нас</a></div>
+			<div class="menudiv"><a href="photo.php">Наши фото</a></div>
+			<div class="menudiv"><a href="contacts.php">Наши контакты</a></div>
+			<div class="menudiv"><a href="sheme.php">Как добраться</a></div>
+		</div>
+	</div>
+</td></tr>
+<tr><td>
+
+
+
+
+
+
+
+
+</td></tr>
+</table>
+</div>
+
+<table width=960 border=0 align=center border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse; background: #fff url(pics/bg_table.jpg) top repeat-x;">
+<tr><td id=content align=left>
+
+	<table width=100% border=0 height=100%><tr><td width=100% valign=top style="padding-right:15px; padding-left:15px; ">
+
+<h1>Отдых &laquo;На Радужном берегу&raquo; - Выбор Вашей души!</h1>
+
+<h2>У нас комфортно:</h2>
+<p class=main><b>Удобное расположение базы отдыха:</b> <br/>
+- в 70-ти метрах от р. Катунь;<br/>
+- в 2 км от озера Ая, самого большого бассейного комплекса АлтАйская Ривьера;<br/>
+- в 5 км от пруда Айчонок;<br/>
+- в 300 метрах от парка детских развлечений, торговых точек;<br/>
+- вблизи популярных туристических объектов, мест отдыха</p>
+
+<p class=main>
+<b>Идеальное место</b> для семейного отдыха и корпоративных заездов по оптимальной цене.<br/>
+<b>Уютная  территория</b> с разделением на спальную и пикниковую зоны.</p>
+
+
+
+<h2>С нами просто:</h2>
+<p class=main>
+<b>Бронирование проживания</b> без предварительной оплаты, расчет производится на месте;<br/>
+<b>Возможность</b> наличного и безналичного расчета;<br/>
+<b>Предложение комплексного питания:</b> полупансион, пансион, завтраки либо без питания;<br/>
+<b>Организация экскурсионной программы</b> по Вашему желанию.</p>
+
+
+<h2>У нас выгодно:</h2>
+<p class=main>
+<b>Каталог</b> дополнительных бесплатных услуг;</br>
+<b>Скидка</b> на проживание для постоянных гостей 7%;<br/>
+<b>Максимальные скидки</b> для группового размещения.</p>
+
+<h2>Мы предлагаем:</h2>
+<p class=main>
+<b>Проживание</b> по оптимальным ценам в летних благоустроенных и неблагоустроенных  домиках.<br/>
+<b>На территории</b> летняя открытая столовая, баня с бассейном, душ с горячей водой, благоустроенный санблок, спортивная площадка, детская площадка, беседка для отдыха (с летним камином для барбекю), мангалы, бассейн для детей, летний шатер (50 м2).<br/>
+<b>Питание:</b> Вкусная еда – хороший отдых!<br/>
+Разнообразные завтраки, сытные, вкусные обеды и ужины  по-домашнему <b>(домашняя кухня)</b>.</p>
+
+
+<h2>Дополнительные бесплатные услуги:</h2>
+<p class=main>
+<b>Летний шатер</b> для проведения семинаров, занятий и различных мероприятий (50 м2); <br/>
+<b>Уютные беседки</b>, обустроенные мангалом, барбекю, печью (вместимостью от 4 до 20 человек); <br/>
+<b>Спортивная площадка:</b> волейбол, турник, настольный теннис; <br/>
+<b>Детская площадка:</b> качели,  бассейн, мячи,  бадминтон, настольные игры; <br/>
+<b>Парковка</b> на территории. </p>
+
+<h2>Дополнительные платные услуги:</h2>
+<p class=main>
+- баня с холодным бассейном; <br/>
+- дрова для камина; <br/>
+- стиральная машина; <br/>
+- батут для детей.</p>
+
+<br/>
+<h2>Об отдыхе на Алтае</h2>
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td width=360>
+<div class="shadow325container">
+	<div class="shadow325top"><img src="pics/shadow325top.png" /></div>
+	<div class="shadow325"><a href="photo.php?a=3&p=11"><img src="pics/main1.jpg" width="299" /></a><strong>Горный Алтай, ледник Ак-Тру.</strong></div>
+	<div class="shadow325bottom"><img src="pics/shadow325bottom.png" /></div>
+</div>
+</td>
+<td>
+<div class="shadow600container">
+	<div class="shadow600top"><img src="pics/shadow600top.png" /></div>
+	<div class="shadow600"><a href="photo.php?a=3&p=42"><img src="pics/main2.jpg" width="574" /></a><strong>Горный Алтай. Цветет маральник.</strong></div>
+	<div class="shadow600bottom"><img src="pics/shadow600bottom.png" /></div>
+</div>
+</td>
+</tr></table>
+
+
+<p>Отдых на Алтае, а особенно отдых в Горном Алтае, последние годы становится все более популярным среди российских и иностранных туристов и этому есть множество причин. Здесь очень красивая природа - горы, покрытые лесами, чистейшие реки, озера,  водопады, альпийские луга, пещеры, каньоны, целебный горный воздух:  Это список можно продолжать очень долго. Все вышеперечисленное есть, безусловно, и в других регионах нашей страны, но в Горном Алтае все это находится на относительно небольшой территории, что, безусловно, привлекает сюда туристов со всех уголков Земли. </p>
+
+
+<noindex>
+<table id=box1 border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse;">
+<tr>
+<td height=15 style="background: url(pics/box_top_325.png) top no-repeat;">
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 5px; background: url(pics/box_middle_325.png) top repeat-y;">
+
+	<img style="padding: 9px 5px 0px 15px;" align=left src="pics/vopr.png"><p class=boxtitle style="padding-top: 10px; padding-bottom: 5px;">Знаете ли Вы, что:</p><p>Если Вам во время Вашего отдыха понадобятся такие вещи, как <b>чайник</b>, или <b>утюг</b> - мы их предоставим Вам бесплатно!</p>
+	<p style="text-align: right; padding-right: 20px;"><a class="moreotz" href="/know.php">Узнать больше</a></p>
+
+	<img style="padding: 14px 5px 0px 15px;" align=left src="pics/voskl.png"><p class=boxtitle style="padding-top: 15px; padding-bottom: 5px;">Из книги отзывов:</p><p>Понравилось облуживание, хорошо работает администратор. Здоровая пища, всегда все свежее, хорошие порции. Единственное пожелание - больше зелени к столу.</p> <p>На базе очень чисто и красиво. Спасибо за гостеприимство, за приют. Желаем успехов вам всем, здоровья и хороших клиентов и заработков.</p> <p>г. Куйбышев, Новосибирская область <br/> июль 2014 </p>
+	<p style="text-align: right; padding-right: 20px;"><a class="moreotz" href="/guest.php">Еще отзывы</a></p>
+
+
+</td></tr>
+<tr>
+<td valign=top height=15 style="padding-bottom: 0px;background: url(pics/box_bottom_325.png) bottom no-repeat;">
+
+</td></tr>
+</table>
+
+
+
+
+</noindex>
+ 
+
+<p>Алтай уникален тем, что на относительно небольшой территории собраны самые разные природные ландшафты а цивилизация соседствует с нетронутостью природы. Например, на Алтае, в течение одного дня можно побывать в степи и в дикой тайге, в сухой полупустыне и на красивых альпийских лугах, в пещерах в которых многие тысячи лет назад жили первобытные люди, и воочию увидеть древние наскальные рисунки и каменные изваяния. А заодно увидеть живописные горные реки и водопады, услышать пение птиц и увидеть бездонное небо, которое здесь, на Алтае кажется совсем близким!</p>
+
+<p><b>Отдых на Алтае летом...</b></p>
+<p>Безусловно, лето - лучшее время года для отдыха и путешествий, в том числе и для отдых на Алтае. Стоит отметить, что буквально пару десятков лет назад в Горном Алтае преобладал так называемый "дикий туризм", но за прошедшие годы туристская инфраструктура шагнула далеко вперед -  сотни турбаз, кемпингов, баз отдыха, отелей предлагают туристам комплекс услуг по размещению, питанию, экскурсионным и развлекательным программам на любой вкус.</p>
+<p>Базы отдыха на Алтае привлекают туристов в первую очередь своим комфортом. Здесь у Вас всегда есть крыша над головой, чистая постель, горячая и холодная вода, душ, полноценное питание, сотовая связь, интернет, всевозможные развлечения и прочие атрибуты цивилизации. Многие не представляют себе, как можно прожить хоть пару дней без всего вышеперечисленного.</p>
+<p>Но есть и большое число туристов, которые для отдыха выбирают активные <a style="text-decoration: none;" target="_blank" href="http://www.altaitravel.ru/">туры на Алтай</a>. Отправляясь в поход, и намеренно жертвуя многими благами цивилизации, взамен они получают намного больше впечатлений от посещения диких мест Горного Алтая, от единения с природой и от красот, которые никогда не увидишь, путешествуя исключительно на автомобиле.  Вы легко можете отправиться в активный тур по Алтаю, воспользовавшись одним из многочисленных предложений туроператоров. Будет этот тур конным, водным, пешим или комбинированным решать только Вам.</p>
+<p>Если же Вы не готовы расстаться с цивилизацией и полностью окунуться в атмосферу активного тура, можно попытаться совместить все преимущества отдыха на турбазе с плюсами активных туров. Отдыхая, например, на нашей турбазе, Вы сможете воспользоваться богатой экскурсионной программой. Экскурсии совершаются в самые разные точки Горного Алтая и позволяют увидеть несравненно больше, чем можно увидеть, отдыхая на одном месте. Вы сможете побывать во многих интересных местах Горного Алтая, именно тех, которые выберите Вы сами. Во всех экскурсиях Вас будут сопровождать профессиональные гиды, которые смогут Вам показать и рассказать о Горном Алтае много интересного!</p>
+
+
+
+
+
+<table align=right border=0><tr><td style="background:#fff;">
+ 
+	<table align=center style="margin: 0px 1px 0px 1px;"><tr><td style="border: 0px solid #bbc;">
+	<div class=shadow325container>
+
+		<div class=shadow325top><img src="pics/shadow325top.png"></div>
+
+		<div class=shadow325><a href="photo.php?a=3&p=100"><img vspace=5 src="photoalbum/3/100sm300.jpg" width=300></a><br><strong>Зимние пейзажи в районе турбазы Радужный берег
+</strong></div>
+
+		<div class=shadow325bottom><img src="pics/shadow325bottom.png"></div>
+	</div>
+	</td></tr></table>
+</td></tr></table>
+<p><b>Отдых на Алтае зимой...</b></p>
+
+<p>Последние годы на Алтае, особенно в его предгорьях, активно развивается зимний отдых. В первую очередь этому способствует особый микроклимат предгорий. Зима здесь мягче, в отличие от высокогорной и степной частей Алтая, а снежный покров, как правило, больше. В настоящее время в предгорьях Алтая действует множество горнолыжных комплексов. Так, например, в Белокурихе, действует несколько бугельных (каждый по 700-900 м) и один кресельный (2040 м) подъемников. Есть где покататься на горных лыжах и в районе нашей турбазы. Например, горнолыжный комплекс на горе Веселой находится от турбазы буквально в паре километров. </p>
+<p>Поэтому в зимнее время наши гости могут не только комфортно отдохнуть в теплом благоустроенном коттедже, но и покататься на горных лыжах, сноубордах и коньках. Если хочется чего-нибудь попроще, можно просто покататься на ледянках или сноупланах с большой ледяной горки, это не менее интересно даже для взрослых! А еще можно просто погулять по заснеженному лесу и подышать чистейшим зимним горным воздухом!</p>
+<p>Можно много говорить о Горном Алтае, но недаром говорят - лучше один раз увидеть чем сто раз услышать, поэтому ждем Вас в гости! Кстати, отсутствие комаров и мошек делает отдых в Горном Алтае особенно привлекательным!</p>
+
+
+
+
+</td></tr></table>
+
+
+<img style="padding-top: 10px; padding-bottom: 15px;" src="pics/gray.png" width=960 height=1>
+
+</td>
+
+
+</tr>
+<tr>
+	
+<td id=bottom height=100 valign=top align=center style="padding-top: 15px;">
+
+<div style="border: 0px solid red;" id="bottomshadContainer">
+<div style="width: 923px; height: 70px; border: 0px solid black; background: #fff; text-align: left;">
+	<table border=0>
+	<tr><td style="padding: 10px 10px 5px 10px;">
+		<a href="/" title="Отдых на Алтае на турбазе На радужном берегу"><img align=left src="pics/logo55.png"></a>
+	</td><td align=right style="padding: 0px 0px 0px 20px; font-family: verdana; font-size: 18px; color: #1b486b;">
+		Телефоны турбазы: <strong>8-903-074-01-41<br/><!-- 8-903-919-57-82 --></strong>
+<div id=webm>
+
+</div>
+	</td><td align=center valign=middle style="padding: 0px 0px 0px 90px;">
+		<a href="sheme.php"><img align=left src="pics/compass.jpg"></a>
+	</td><td align=center valign=middle style="padding: 0px 0px 2px 5px;">
+		<a class=maplink href="sheme.php">Схема проезда</a>
+	</td></tr>
+	</table>
+
+</div>
+</div>
+
+</td></tr>
+<tr><td id=bottom2>
+<table border=0 cellspacing=0 cellpadding=0 style="border-collapse: collapse;">
+<tr><td width=400 id=webm_b align=left>
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>
+</td><td width=460 nowrap id=webm_c>
+&copy <a href="/">&laquo;На радужном берегу&raquo;</a> 2003-2026</td><td width=100 nowrap id=webm_b>
+	<img  src="http://counter.yadro.ru/logo?26.2" border=0" width=88 height=15>
+</td></tr></table>
+
+</td></tr>
+</table>
+
+</td>
+<td width=15 align=right valign=top nowrap style="background: url(pics/right.png) right repeat-y;">
+</td></tr></table>
+
+
+</td></tr></table>
+
+</body>
+</html>

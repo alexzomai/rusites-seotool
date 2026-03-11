@@ -1,0 +1,690 @@
+
+
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+	
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link href="/bitrix/cache/css/s1/adaptive/template_f6655cea32c30cbb3ab8c1a86f331930/template_f6655cea32c30cbb3ab8c1a86f331930_v1.css?175491754018458" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script  src="/bitrix/cache/js/s1/adaptive/template_3af6b61cdaef1597621b8de295d50603/template_3af6b61cdaef1597621b8de295d50603_v1.js?1718621939815"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "a9f0d4966ff00d988fac48ae789ab061"]); _ba.push(["host", "www.gorod-kropotkin.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	
+        <meta charset="windows-1251" />
+		
+<title>Официальный сайт администрации города Кропоткина :: 404</title>
+
+        <meta name="viewport" content="width=device-width">
+        <link href="/bitrix/templates/adaptive/css/main.css?r=1755627802" rel="stylesheet"/>
+        <link href="/bitrix/templates/adaptive/css/select2.css" rel="stylesheet"/>
+        <link href="/bitrix/templates/adaptive/css/slick.css" rel="stylesheet"/>
+        <link href="/bitrix/templates/adaptive/css/jquery.fancybox.css" rel="stylesheet"/>
+        <link href="/bitrix/templates/adaptive/css/jquery-ui.css" rel="stylesheet"/>
+        <link href="/bitrix/templates/adaptive/css/jquery-ui.structure.css" rel="stylesheet"/>
+        <link href="/bitrix/templates/adaptive/css/jquery-ui.theme.css" rel="stylesheet"/>
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+	
+	<div id="panel" class="hidden-print"></div>
+	
+        <div class="wrap_320">
+        <div class="header c-width">
+            <a class="header-logo" href="/">
+                <img src="/bitrix/templates/adaptive/img/logo.png" alt="" class="header-logo_img">
+                <div class="header-logo_txt">
+                    <span class="desc">Город воинской доблести</span>
+                    <span class="city">КРОПОТКИН</span>
+                    <span class="desc">Кавказский район Краснодарского края <span>Официальный сайт администрации города<!-- Кропоткина--></span></span>
+                </div>
+            </a>
+            <form action="/search/" class="header-search">
+                <input type="text" placeholder="Поиск по сайту" name="q">
+                <button class="header-search_btn" type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+                    <path id="Composite_Path" data-name="Composite Path" style="fill: #8b909d;fill-rule: evenodd;" d="M1457.88,54.906l-2.25-2.248a0.378,0.378,0,0,0-.53,0l-0.12.116-0.16-.169-0.64-.639h0l-0.16-.161a6.731,6.731,0,1,0-1.23,1.224l0.16,0.159h0l0.81,0.81,0.18-.183-0.3.3a0.387,0.387,0,0,0,0,.53l2.26,2.247a0.376,0.376,0,0,0,.53,0l0.72-.726,0.73-.73A0.368,0.368,0,0,0,1457.88,54.906Zm-5.66-3.666a4.984,4.984,0,1,1,0-7.048A4.992,4.992,0,0,1,1452.22,51.24Z" transform="translate(-1442 -41)"/>
+                    </svg></button>
+            </form>
+            <div class="header-search_mob-btn"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+                <path id="Composite_Path" data-name="Composite Path" style="fill: #8b909d;fill-rule: evenodd;" d="M1457.88,54.906l-2.25-2.248a0.378,0.378,0,0,0-.53,0l-0.12.116-0.16-.169-0.64-.639h0l-0.16-.161a6.731,6.731,0,1,0-1.23,1.224l0.16,0.159h0l0.81,0.81,0.18-.183-0.3.3a0.387,0.387,0,0,0,0,.53l2.26,2.247a0.376,0.376,0,0,0,.53,0l0.72-.726,0.73-.73A0.368,0.368,0,0,0,1457.88,54.906Zm-5.66-3.666a4.984,4.984,0,1,1,0-7.048A4.992,4.992,0,0,1,1452.22,51.24Z" transform="translate(-1442 -41)"/>
+            </svg></div>
+            <div class="header-social">
+                <a href="https://t.me/admkropotkingorod" target="_blank" class="header-social_link btn tg"></a>
+                <a href="https://vk.com/kropotkin_adm" target="_blank" class="header-social_link btn vk"></a>
+                <!--a href="https://www.facebook.com/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3-%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D0%B0-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D1%80%D0%B0%D1%8F-595653140845213/" target="_blank" class="header-social_link btn facebook"></a-->
+                <a href="https://twitter.com/kropotkingorod" target="_blank" class="header-social_link btn twitter"></a>
+                <!--a href="https://www.instagram.com/kropotkingorod/" target="_blank" class="header-social_link btn instagram"></a-->
+                <a href="https://ok.ru/kropotkingorod" target="_blank" class="header-social_link btn odnokl"></a>
+                <a href="/rss_news.php" class="header-social_link btn rss"></a>
+            </div>
+            <a href="?stype=special" class="header-visually_impaired btn"></a>
+            <div class="header-mob_btn">
+                <button class="header-menu_ico"><span></span></button>
+            </div>
+            <a href="/administratsiya/internet-priemnaya/" class="virtual_btn">Виртуальная <br>приемная</a>
+        </div>
+
+		
+        <div class="header-index flex c-width">
+            <div class="c-left">
+                <nav class="nav">
+				
+
+                    <ul class="nav-list">
+
+
+
+		
+						
+                        <li>
+                            <a href="/" class="second-tab">ГЛАВНАЯ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="/o-gorode/" class="second-tab">О ГОРОДЕ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="/administratsiya/" class="second-tab">АДМИНИСТРАЦИЯ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="https://gorod-kropotkin.ru/administratsiya/normativnye-dokumenty-administratsii-goroda-kropotkina/docs/" class="second-tab">ДОКУМЕНТЫ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="/sovet/" class="second-tab">СОВЕТ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="http://gorod-kropotkin.ru/administratsiya/obshchestv-priemnaya/" class="second-tab">ПРИЕМ ОБРАЩЕНИЙ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="/territorialnaya-izbiratelnaya-komissiya-kropotkinskaya/" class="second-tab">ТИК  Кропоткинская</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="http://gorod-kropotkin.ru/o-gorode/objav/" class="second-tab">ОБЪЯВЛЕНИЯ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+
+		
+						
+                        <li>
+                            <a href="https://gorod-kropotkin.ru/administratsiya/novosti/" class="second-tab">ОТКРЫТЫЕ ДАННЫЕ</a>
+								                        </li>        
+			
+			
+		
+
+	
+
+                    </ul>
+
+					
+
+				
+                    <div class="footer__social">
+                        <div class="footer__social-flex">
+			                <a href="https://t.me/admkropotkingorod" target="_blank" class="tg"></a>
+			                <a href="https://vk.com/kropotkin_adm" target="_blank" class="vk"></a>
+                            <!--a href="https://www.facebook.com/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3-%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D0%B0-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D1%80%D0%B0%D1%8F-595653140845213/" target="_blank" class="facebook"><svg xmlns="http://www.w3.org/2000/svg" width="8.6" height="16.438" viewBox="0 0 8.6 16.438">
+                                <path id="facebook" class="footer-social__ico" d="M1515.81,49.219v7.105l3.57,0.028-0.01-7.154,2.21-.014,0.61-3.084h-2.82V43.822a0.745,0.745,0,0,1,.62-0.856L1521.63,43l-0.05-3.085-3.26-.014a3.029,3.029,0,0,0-2.51,2.88l-0.03,3.307-2.19.042v3.081Z" transform="translate(-1513.59 -39.906)"/>
+                                </svg></a-->
+                            <a href="https://twitter.com/kropotkingorod" target="_blank" class="twitter"><svg xmlns="http://www.w3.org/2000/svg" width="18.53" height="14.938" viewBox="0 0 18.53 14.938">
+                                <path id="twitter" class="footer-social__ico" d="M1569.6,42.678a7.62,7.62,0,0,1-2.18.594,3.836,3.836,0,0,0,1.67-2.087,7.687,7.687,0,0,1-2.42.915,3.8,3.8,0,0,0-6.57,2.581,3.488,3.488,0,0,0,.1.86,10.8,10.8,0,0,1-7.83-3.941,3.707,3.707,0,0,0-.52,1.9,3.762,3.762,0,0,0,1.69,3.14,3.823,3.823,0,0,1-1.72-.472v0.047a3.782,3.782,0,0,0,3.05,3.7,3.81,3.81,0,0,1-1,.133,3.9,3.9,0,0,1-.72-0.068,3.811,3.811,0,0,0,3.55,2.62,7.66,7.66,0,0,1-4.72,1.614,7.854,7.854,0,0,1-.9-0.052,10.814,10.814,0,0,0,5.82,1.695,10.7,10.7,0,0,0,10.81-10.734c0-.164,0-0.325-0.01-0.487a7.6,7.6,0,0,0,1.9-1.953h0Z" transform="translate(-1551.06 -40.906)"/>
+                                </svg></a>
+                            <!--a href="https://www.instagram.com/kropotkingorod/" target="_blank" class="instagram"></a-->
+							<a href="https://ok.ru/kropotkingorod" target="_blank" class="odnokl"></a>
+                            <a href="/rss_news.php" class="rss"></a>
+                        </div>
+                    </div>
+                </nav>
+
+
+
+
+
+	
+                <a href="https://национальныепроекты.рф/mediaProjects/antipozhary/#2" class="banner_left" title="берегилес"><img src="/upload/iblock/2eb/1wh73yqsk5kpa8w0p8gvhdo5xmbrrylv/poster_6X3_RGB%20%281%29.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href=" https://russia.ru/" class="banner_left" title="Путешествие по России "><img src="/upload/iblock/367/ojoiewt2r2yl3mhceqsq1bycgmyivtrd/Travel_digital_1920%D1%851080.png" alt=""></a>
+
+	
+
+
+	
+                <a href="https://smokk.ru" class="banner_left" title="СМОКК"><img src="/upload/iblock/32f/uvdf11uy1mhfm65tsz6sw5n1ox28xnev/124521.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="https://guk.mil.ru/kontrakt" class="banner_left" title="Служба по контракту"><img src="/upload/iblock/6a1/khi2m7v33r59gp0hjett760rwqb2jfxf/image.png" alt=""></a>
+
+	
+
+
+	
+                <a href="https://gorod-kropotkin.ru/o-gorode/objav/pamyatka-dlya-grazhdan-vynuzhdenno-pokinuvshikh-territoriyu-ukrainy-donetskoy-narodnoy-respubliki-lu/" class="banner_left" title="Памятка для граждан, вынужденно покинувших территорию Украины, ДНР, ЛНР и прибывшим на территорию Краснодарского края"><img src="/upload/iblock/469/Pam%20ukr.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="https://gorod-kropotkin.ru/administratsiya/vyyavlenie-pravoobladatelya-ranee-uchtennogo-obekta-nedvizhimosti/" class="banner_left" title="Выявление правообладателя объекта недвижимости"><img src="/upload/iblock/657/%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BE%D0%B1%D0%BB%D0%B0%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="https://gorod-kropotkin.ru/administratsiya/gradostr-deyatelnost/predotvrashchenie-i-presechenie-samovolnogo-stroitelstva-na-territorii-g-kropotkina/" class="banner_left" title="Незаконное строительство"><img src="/upload/iblock/86d/nmcz9yeot0ycr9p9o0rc2zdxsnebsell/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-11212%20%D0%9E%D0%A2%2023-03-2023.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="http://www.gorod-kropotkin.ru/administratsiya/byudzhet/rekvizity-dlya-zachisleniya-denezhnykh-sredstv-v-byudzhet/" class="banner_left" title="Реквизиты администрации города для перечислений в бюджет"><img src="/upload/iblock/9e8/REKVISITI.jpg" alt=""></a>
+
+	
+
+
+
+
+
+
+
+
+	
+                <a href="https://gosurburo.krasnodar.ru/" class="banner_left" title="Бесплатная юридическая помощь"><img src="/upload/iblock/7d3/buro.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href=" https://forms.krasnodar.ru/opros-naseleniya/?municipality=18" class="banner_left" title="Опрос населения об эффективности деятельности руководителей органов местного самоуправления"><img src="/upload/iblock/58f/5621854.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="https://ofd.nalog.ru/index.html" class="banner_left" title="Единый реестр субъектов малого и среднего предпринимательства - получателей поддержки"><img src="/upload/iblock/dd2/pvlnn9j7mof3kxrbes30e2qj3a4zvz4v/521256325.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="https://gorod-kropotkin.ru/administratsiya/gradostr-deyatelnost/pamyatka-dlya-grazhdan-zhelayushchikh-priobresti-zhile-v-dolevom-stroitelstve.php" class="banner_left" title="Долевое строительство - Памятка"><img src="/upload/iblock/a7a/27vxgihwumk07wyazkdeld2v0mqlqgth/5426453.jpg" alt=""></a>
+
+	
+
+
+	
+                <a href="https://gorod-kropotkin.ru/administratsiya/go-i-chs/grazhdanskaya-oborona/" class="banner_left" title="Сигнал - внимание всем"><img src="/upload/iblock/766/ubjsevelqa49o4wb4xihp0ihkdw7oysg/deystviya-pri-signale-vnimanie-vsem_16221124541347944025__2000x2000.jpg" alt=""></a>
+
+	
+
+
+
+
+            </div>
+            <div class="c-right">
+		
+	
+	
+
+					
+
+                <div class="breadcrumb">
+                    <a href="/" class="breadcrumb__link">Главная</a>
+<a href="/" title="Кропоткин" class="breadcrumb__link">Кропоткин</a><span class="breadcrumb__stat">404</span></div> 	  
+
+                <div class="inner-content">
+
+					<h1>404</h1>
+
+
+
+
+
+
+
+
+<p>Страница не найдена. Возможно, она была удалена или перемещена                                                            
+
+
+
+                </div>
+            </div>
+        </div>
+
+		
+        <div class="c-index__usefull-link-bg">
+            <div class="flex c-width">
+                <div class="c-left no-1280"></div>
+                <div class="c-right wid100">
+                    <div class="headline-flex">
+                        <h2 class="usefull-link_headline">Полезные ссылки</h2>
+                        <div class="usefull-link__more btn"></div>
+                    </div>
+					
+
+
+                    <div class="usefull-link_flex">
+                
+
+
+	
+                        <a id="bx_1373509569_3555" href="http://www.cikrf.ru/" target="_blank" title="Сайт ЦИК РФ" class="usefull-link__item">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Сайт ЦИК РФ</span>
+                                <span class="link">http://www.cikrf.ru/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_4439" href="https://vashifinancy.ru/" target="_blank" title="Портал финансовой грамотности" class="usefull-link__item">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Портал финансовой грамотности</span>
+                                <span class="link">https://vashifinancy.ru/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_4440" href="https://gosurburo.krasnodar.ru/" target="_blank" title="ГосЮрБюро Краснодарского края " class="usefull-link__item">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">ГосЮрБюро Краснодарского края </span>
+                                <span class="link">Бесплатная юридическая помощь</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_4441" href="https://product-of-kuban.ru/" target="_blank" title="Сделано на Кубани" class="usefull-link__item no-1280">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Сделано на Кубани</span>
+                                <span class="link">Продукты Кубани</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_4442" href="https://kubanombudsman.org/" target="_blank" title="Уполномоченный по правам человека в Краснодарском крае" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Уполномоченный по правам человека в Краснодарском крае</span>
+                                <span class="link">https://kubanombudsman.org/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_6123" href="https://www.gosuslugi.ru/" target="_blank" title="Госуслуги" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Госуслуги</span>
+                                <span class="link">Госуслуги</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_6124" href="http://pravo.gov.ru/" target="_blank" title="Интернет-портал правовой информации" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Интернет-портал правовой информации</span>
+                                <span class="link">Интернет-портал</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_7535" href="https://mbkuban.ru/" target="_blank" title="Поддержка малого и среднего бизнеса" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Поддержка малого и среднего бизнеса</span>
+                                <span class="link">https://mbkuban.ru/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_7536" href="https://investkuban.ru/invest/" target="_blank" title="Инвестиционный портал Краснодарского края" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Инвестиционный портал Краснодарского края</span>
+                                <span class="link">https://investkuban.ru/invest/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_7537" href="https://www.kavraion.ru/administratsiya/munitsipalnyy-tsentr-podderzhki-predprinimatelstva/" target="_blank" title="Муниципальный центр поддержки предпринимательства Кавказского района" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Муниципальный центр поддержки предпринимательства Кавказского района</span>
+                                <span class="link">https://www.kavraion.ru/administratsiya/munitsipalnyy-tsentr-podderzhki-predprinimatelstva/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_7538" href="https://moibiz93.ru/" target="_blank" title="Мой бизнес Краснодарский край" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Мой бизнес Краснодарский край</span>
+                                <span class="link">https://moibiz93.ru/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_7539" href="https://smbn.ru/msp.htm" target="_blank" title="Зеркальный реестр проверок" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Зеркальный реестр проверок</span>
+                                <span class="link">https://smbn.ru/msp.htm</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_7540" href="http://kubaninvest.ru/" target="_blank" title="Департамент инвестиций и развития малого и среднего предпринимательства Крансодарского края" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Департамент инвестиций и развития малого и среднего предпринимательства Крансодарского края</span>
+                                <span class="link">http://kubaninvest.ru/</span>
+                            </span>
+                        </a>
+	
+	
+
+	
+                        <a id="bx_1373509569_3277" href="https://xn--80ajghhoc2aj1c8b.xn--p1ai/" target="_blank" title="Честный знак&quot; - национальная система цифровой маркировки" class="usefull-link__item hide">
+                            <span class="usefull-link__item-flex">
+                                <span class="name">Честный знак&quot; - национальная система цифровой маркировки</span>
+                                <span class="link">https://xn--80ajghhoc2aj1c8b.xn--p1ai/</span>
+                            </span>
+                        </a>
+	
+	
+
+
+                    </div>
+
+
+
+
+
+                    <div class="usefull__mob-all-btn"><span>Показать все</span></div>
+					
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <div class="flex c-width">
+                <div class="footer__left-col">
+                    <div class="footer-logo">
+                        <img src="/bitrix/templates/adaptive/img/logo.png" alt="" class="header-logo_img">
+                        <div class="footer-logo_txt">
+                            <span class="city">КРОПОТКИН</span>
+                            <span class="desc">Кавказский район Краснодарского края<span>Официальный сайт администрации города Кропоткина</span></span>
+                        </div>
+                    </div>
+                    <div class="footer__social">
+                        <p class="footer__social-headline">Следуйте за нами</p>
+                        <div class="footer__social-flex">
+            			    <a href="https://t.me/admkropotkingorod" target="_blank" class="tg"></a>
+			                <a href="https://vk.com/kropotkin_adm" target="_blank" class="vk"></a>
+                            <!--a href="https://www.facebook.com/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3-%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D0%B0-%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D1%80%D0%B0%D1%8F-595653140845213/" target="_blank" class="facebook"><svg xmlns="http://www.w3.org/2000/svg" width="8.6" height="16.438" viewBox="0 0 8.6 16.438">
+                                <path id="facebook" class="footer-social__ico" d="M1515.81,49.219v7.105l3.57,0.028-0.01-7.154,2.21-.014,0.61-3.084h-2.82V43.822a0.745,0.745,0,0,1,.62-0.856L1521.63,43l-0.05-3.085-3.26-.014a3.029,3.029,0,0,0-2.51,2.88l-0.03,3.307-2.19.042v3.081Z" transform="translate(-1513.59 -39.906)"/>
+                                </svg></a-->
+                            <a href="https://twitter.com/kropotkingorod" target="_blank" class="twitter"><svg xmlns="http://www.w3.org/2000/svg" width="18.53" height="14.938" viewBox="0 0 18.53 14.938">
+                                <path id="twitter" class="footer-social__ico" d="M1569.6,42.678a7.62,7.62,0,0,1-2.18.594,3.836,3.836,0,0,0,1.67-2.087,7.687,7.687,0,0,1-2.42.915,3.8,3.8,0,0,0-6.57,2.581,3.488,3.488,0,0,0,.1.86,10.8,10.8,0,0,1-7.83-3.941,3.707,3.707,0,0,0-.52,1.9,3.762,3.762,0,0,0,1.69,3.14,3.823,3.823,0,0,1-1.72-.472v0.047a3.782,3.782,0,0,0,3.05,3.7,3.81,3.81,0,0,1-1,.133,3.9,3.9,0,0,1-.72-0.068,3.811,3.811,0,0,0,3.55,2.62,7.66,7.66,0,0,1-4.72,1.614,7.854,7.854,0,0,1-.9-0.052,10.814,10.814,0,0,0,5.82,1.695,10.7,10.7,0,0,0,10.81-10.734c0-.164,0-0.325-0.01-0.487a7.6,7.6,0,0,0,1.9-1.953h0Z" transform="translate(-1551.06 -40.906)"/>
+                                </svg></a>
+                            <!--a href="https://www.instagram.com/kropotkingorod/" target="_blank" class="instagram"></a-->
+                            <a href="https://ok.ru/kropotkingorod" target="_blank" class="odnokl"></a>
+                            <a href="/rss_news.php" class="rss"></a>
+                        </div>
+                    </div>
+                    <p class="footer-copyright"><a href="http://www.internetimage.ru/">Разработка сайта</a>: <a href="http://www.internetimage.ru/">Интернет-Имидж</a></p>
+                </div>
+                <div class="footer__right-col">
+                    <p class="footer-contact__headline">Администрация города Кропоткина:</p>
+                    <p class="footer-contact__txt">352380, Краснодарский край,<br> город Кропоткин, ул. Красная,37,<br> тел.: 8(86138)6-47-14,<br> e-mail: <a href="mailto:kropadm@mail.ru">kropadm@mail.ru</a></p>
+                    <p class="footer-contact__headline">Администратор сайта:</p>
+                    <p class="footer-contact__txt">8(86138)6-40-12</p>
+					<p>
+					
+					
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t17.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+					
+                </div>
+                <p class="footer-copyright-mob"><a href="http://www.internetimage.ru/">Разработка сайта</a>: <a href="http://www.internetimage.ru/">Интернет-Имидж</a></p>
+            </div>
+        </footer>
+        </div>
+        <!-- SCRIPTS -->
+        <script src="/bitrix/templates/adaptive/js/jquery-3.3.1.min.js"></script>
+        <script src="/bitrix/templates/adaptive/js/select2.full.min.js"></script>
+        <script src="/bitrix/templates/adaptive/js/slick.min.js"></script>
+        <script src="/bitrix/templates/adaptive/js/jquery.fancybox.min.js"></script>
+        <script src="/bitrix/templates/adaptive/js/jquery.maskedinput.js"></script>
+        <script src="/bitrix/templates/adaptive/js/dragscroll.js"></script>
+        <script src="/bitrix/templates/adaptive/js/main.js?r=1672004892"></script>
+
+        <!--script src="/bitrix/templates/adaptive/js/resize-tester.js"></script-->
+        <!-- SCRIPTS -->
+
+
+
+
+<style>
+
+.cookie-notification {
+            position: fixed;
+            background-color: rgba(31, 66, 154, .8);
+            bottom: 0;
+            width: 100%;
+            color: white;
+            padding: 25px;
+		z-index: 1000;
+        }
+        .cookie-notification_hidden_yes {
+            display: none;
+        }
+        .cookie-notification__header {
+            margin-bottom: 20px;
+            font-size: 23px;
+        }
+        .cookie-notification__body p{
+            margin-bottom: 20px;
+		color: #eee;
+        }
+        .cookie-notification__body a{
+            color: #ffffff;
+		text-decoration: underline;
+        }
+
+.cookie-notification__buttons {
+	margin-top: 20px;
+}
+.cookie-notification__button {
+width: 182px;
+height: 45px;
+font-size: 16px;
+font-weight: 600;
+background: #2855c2;
+display: block;
+text-align: center;
+text-decoration: none;
+line-height: 43px;
+color: #fff;
+-webkit-transition: all linear .2s;
+transition: all linear .2s;
+border: none;
+cursor: pointer;
+}
+.cookie-notification__button:hover{
+    background: #fff;
+    color: #000;
+}
+</style>
+
+
+<div class="cookie-notification cookie-notification_hidden_yes">
+        <!--div class="cookie-notification__header">Мы используем Яндекс Метрику</div-->
+        <div class="cookie-notification__body">
+            <p>Мы используем cookie-файлы. При посещении сайта Вы соглашаетесь с условиями их использования, которые размещены <a href="/administratsiya/politika-v-oblasti-personalnykh-dannykh/">здесь</a>. В случае несогласия, просим Вас произвести соответствующие настройки своего браузера.</p>
+        </div>
+        <div class="cookie-notification__buttons">
+            <button class="cookie-notification__button" id="yes">Принять</button>
+        </div>
+    </div>
+
+
+        <script src="/bitrix/templates/adaptive/js/js.cookie.js"></script>
+
+
+<script type="text/javascript">
+        var messageElement = document.querySelector('.cookie-notification');
+        // Если нет cookies, то показываем плашку
+        if (!Cookies.get('agreement')) {
+            showMessage();
+        } else {
+            initCounter();
+        }
+        // Функция добавляет класс к DOM-элементу. Вы можете использовать библиотеку jQuery или другой фреймворк
+        function addClass (o, c) {
+            var re = new RegExp("(^|\\s)" + c + "(\\s|$)", "g");
+            if (!o || re.test(o.className)) {
+                return;
+            }
+            o.className = (o.className + " " + c).replace(/\s+/g, " ").replace(/(^ | $)/g, "");
+        }
+        // Функция удаляет класс из DOM-элемента. Вы можете использовать библиотеку jQuery или другой фреймворк
+        function removeClass (o, c) {
+            var re = new RegExp('(^|\\s)' + c + '(\\s|$)', 'g');
+            if (!o) {
+                return;
+            }
+            o.className = o.className.replace(re, '$1').replace(/\s+/g, ' ').replace(/(^ | $)/g, '');
+        }
+        // Функция, которая прячет предупреждение
+        function hideMessage () {
+            addClass(messageElement, 'cookie-notification_hidden_yes');
+        }
+        // Функция, которая показывает предупреждение
+        function showMessage () {
+            removeClass(messageElement, 'cookie-notification_hidden_yes');
+        }
+        function saveAnswer () {
+            // Прячем предупреждение
+            hideMessage();
+
+            // Ставим cookies
+            Cookies.set('agreement', '1');
+        }
+        function initCounter () {
+            /*ym(0000000, 'init', {
+	        clickmap:true,
+	        trackLinks:true,
+	        accurateTrackBounce:true,
+	        webvisor:true
+            });*/
+            saveAnswer();
+        }
+        // Нажатие кнопки "Я согласен"
+        document.querySelector('#yes').addEventListener('click', function () {
+            initCounter();
+        });
+    </script>
+
+
+    </body>
+</html>
+

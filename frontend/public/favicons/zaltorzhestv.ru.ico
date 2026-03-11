@@ -1,0 +1,824 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+     <title>Зал торжеств</title>
+     <meta name="description" content="Зал торжеств" />
+     <meta name="keywords" content="зал торжеств" />
+     <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+     <meta http-equiv="Content-Language" content="ru">
+     <link href="./css/style.css" rel="stylesheet" type="text/css">
+	 <!-- PhotoZoom -->
+  <script type="text/javascript" src="../highslide/highslide-full.js"></script>
+  <link rel="stylesheet" type="text/css" href="../highslide/highslide.css" />
+  <script type="text/javascript">
+hs.graphicsDir = '../highslide/graphics/';
+hs.outlineType = 'rounded-white';
+hs.align = 'center';
+hs.showCredits = false;
+hs.wrapperClassName = 'draggable-header';
+hs.transitions = ['expand', 'crossfade'];
+hs.fadeInOut = true;
+//hs.dimmingOpacity = 0.75;
+
+// Add the controlbar
+hs.addSlideshow({
+	slideshowGroup: 'group1',
+	interval: 5000,
+	repeat: false,
+	useControls: true,
+	fixedControls: 'fit',
+	overlayOptions: {
+		opacity: 0.75,
+		position: 'bottom center',
+		hideOnMouseOut: true
+	}
+});
+
+  </script>
+
+  <!-- /PhotoZoom --></head>
+<body>
+  <table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+  <td>
+    <div class="shapka">
+	  <table align="center">
+	    <tr><td><div class="zagolovok"><a class="link_b" href="./index.php">Зал торжеств</a></div></td></tr>
+	  </table>
+	</div>
+  </td>
+  </tr>
+  
+  
+  <tr>
+  <td>
+    
+	   <div class="redline">
+	     <div class="lefter">Прекрасно, что случаются торжества!</div>
+		 <div class="righter">Все залы торжеств: <a class="link_w" href="./index.php">www.zaltorzhestv.ru</a></div>
+	   </div> 
+  </td>
+  </tr>
+  
+  
+  <tr>
+  <td align="center">
+    <!--<b style="color:red;font-size:18px;line-height:30px;">Скажите при звонке в Зал Торжеств пароль &laquo;1% с сайта &laquo;Зал торжеств&raquo; и получите скидку 1% на заказ зала!</b>
+-->
+  </td>
+  </tr>
+  
+  
+  
+  <tr>
+  <td>
+	<div class="page"> 
+      <div class="osnova">
+            <div style="display:inline; float:right;font-size:17px;font-weight:normal;text-align:left; margin:5px;margin-top:10px;">
+               <a href="http://www.zaltorzhestv.ru/svadedniy_limuzin/"><img src="./pics/banner_limuzin.jpg" width="400" height="174"></a>
+            </div>
+	    <h2 style="margin-top:40px;">Добро пожаловать!</h2>
+	    
+	    <div class="clear"></div>
+	    
+
+	    
+	    
+	    <p style="text-align:justify;">
+	    
+            Люди женятся, рождаются дети, компании отмечают успехи в делах, встречаются выпускники и старые друзья… Сайт «ЗАЛ ТОРЖЕСТВ» поможет найти наиболее подходящий для Вашего праздника, свадьбы, банкета ресторан, зал торжеств, банкетный зал - по вместимости, расположению, интерьеру, цене... Вместо того, чтобы обзванивать и объезжать рестораны и кафе Владикавказа и Осетии для свадьбы, теперь достаточно зайти на сайт <a class="link" href="./index.php">www.zaltorzhestv.ru</a> и вся нужная информация будет к Вашим услугам! Ресторан для свадьбы! Кафе для проведения свадьбы! Банкетные залы Владикавказа! Всё это - здесь!
+	    
+	    
+	    </p>
+	    
+	    
+	    <p style="text-align:justify;">
+	    
+            
+	    Кроме Залов торжеств мы можем помочь Вам найти 
+               свадебные прически, свадебные платья, свадебные 
+               салоны, свадебных фотографов и видео-операторов, 
+               свадебные машины, свадебные торты и свадебные магазины,
+               просто звоните (8672) 91-43-20 (10-21 час.)<br>
+               <b>Внимание! Бронированием столиков мы не занимаемся!</b>
+	    
+	    </p>
+	    
+	    
+	    
+		
+		<div class="clear"></div>
+		<div class="righter" style="margin-top:0px;margin-right:0px;">Команда сайта <a class="link" href="./index.php">&laquo;ЗАЛ ТОРЖЕСТВ. РУ&raquo;</a></div>
+		<div class="clear"></div>
+		
+		
+		
+		<!--
+		<div style="margin-top:30px;border:3px solid red;width:850px;">
+		<div style="margin:15px;">
+		 <b style="color:red;">Внимание! Важная информация по залам торжеств!</b><br>
+		 На 26 апреля <b style="font-variant:small-caps;">свободны три зала:</b>  150 мест, 400 мест,500 мест и выше!<br>
+		 На 27 апреля <b style="font-variant:small-caps;">свободны три зала:</b>  300 мест, 400 мест,500 мест и выше!
+                </div>
+		</div>
+		-->
+		
+		<div style="margin-top:30px;">
+		<table cellspacing="0">
+                
+                
+                
+                <tr><td valign="top" align="left"><a href="./astoria/"><img src="./pics/ico_zal_52.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Астория&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./astoria/">Зал торжеств &laquo;Астория&raquo;</a><br>
+		    Тел. (8672) 92-77-61 , 8-918-822-77-61, 8-928-934-44-63<br>
+		    Адрес: г. Владикавказ, ул.Красногвардейская, д. 2<br>
+		    Вместимость: до 650 персон (500+100+50).
+                    
+		  </td>
+		  </tr>
+		  
+		  
+		  
+		      
+                
+<tr><td valign="top" align="left"><a href="./ay_dusha/"><img src="./pics/ico_zal_30.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Ай, душа&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./ay_dusha/">Зал торжеств &laquo;Ай, душа&raquo;</a><br>
+		    Тел. (8672) 55-29-24 , 98-93-80 , 8-918-828-93-80<br>
+		    Адрес: г. Владикавказ, угол ул. Островского, 23 / Ардонская, 192<br>
+		    Вместимость: до 170 персон.
+		  </td>
+		  </tr>
+                
+                
+                
+                
+                 <tr><td valign="top" align="left"><a href="./elli/"><img src="./pics/ico_zal_51.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Виктория&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./elli/">Зал торжеств &laquo;Элли&raquo;</a><br>
+		    Тел. (8672) 52-48-76<br>
+		    Адрес: г. Владикавказ, пр. Доватора, д. 8<br>
+		    Вместимость: до 300 персон (летом) и до 260 (зимой).
+		  </td>
+		  </tr>
+                
+                
+                
+                
+                  <tr><td valign="top" align="left"><a href="./yar/"><img src="./pics/ico_zal_50.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Яр&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./yar/">Ресторан &laquo;Яр&raquo;</a><br>
+		    Тел. (8672) 95-21-28, 55-33-22, 8-918-825-21-28<br>
+		    Адрес: г. Владикавказ, ул. Карла Маркса, д. 100-Б<br>
+		    Вместимость до 1000 персон летом и до 800 персон зимой<br>
+                    
+		  </td>
+		  </tr>
+                
+                
+                
+                
+                
+                  <tr><td valign="top" align="left"><a href="./versal/"><img src="./pics/ico_zal_43.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Версаль&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./versal/">Зал торжеств &laquo;Версаль&raquo;</a><br>
+		    Тел. (8672) 922-688, 943-444, 8-918-822-26-88<br>
+                    Адрес: г. Владикавказ, пр. Доватора, 8<br>
+                    Вместимость: до 520 персон. 
+		  </td>
+		  </tr>
+                
+                
+                
+
+                
+            
+	   
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              
+                
+                
+                
+                
+               
+                
+                
+             
+                
+                
+                
+	
+<tr><td valign="top" align="left"><a href="./victoria/"><img src="./pics/ico_zal_11.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Виктория&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./victoria/">Зал торжеств &laquo;Виктория&raquo;</a><br>
+		    Тел. 8-918-839-05-91,  8-961-825-78-83<br>
+		    Адрес: г. Владикавказ, ул. Первомайская, 44<br>
+		    Вместимость: до 600 персон.
+		  </td>
+		  </tr>
+
+                
+  
+                
+                
+	  
+		  <tr><td valign="top" align="left"><a href="./parusa/"><img src="./pics/ico_zal_04.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Алые паруса&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./parusa/">Зал торжеств &laquo;Алые паруса&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  
+                
+                 <tr><td valign="top" align="left"><a href="./elena/"><img src="./pics/ico_zal_12.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Елена&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./elena/">Зал торжеств &laquo;Елена&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  
+		  
+		  
+		  
+		  
+		  
+		   <tr><td valign="top" align="left"><a href="./metelitsa/"><img src="./pics/ico_zal_17.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Метелица&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./metelitsa/">Зал торжеств &laquo;Метелица&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+                
+                
+              
+		  
+		  
+
+                
+                
+                                
+                
+                 
+		
+		
+		
+		
+		
+		
+		
+		 
+		  
+		  
+		  		  
+		  
+		  
+		  
+		
+		  
+		  
+		  
+		  
+		  
+
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  		  
+		  
+		  
+		  		  		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./bogema/"><img src="./pics/ico_zal_44.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Богема&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./bogema/">Зал торжеств &laquo;Богема&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		
+		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./gold/"><img src="./pics/ico_zal_39.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Голд&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./gold/">Зал торжеств &laquo;Голд&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  
+		  <!--	23-12-2015	  
+                  <tr><td valign="top" align="left"><a href="./volna/"><img src="./pics/ico_zal_05.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Волна&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./volna/">Зал торжеств - ресторан &laquo;Волна&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: рядом с г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  <!-- 16-10-2013
+	          <tr><td valign="top" align="left"><a href="./victoria2/"><img src="./pics/ico_zal_18.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Victoria&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./victoria2/">Зал торжеств &laquo;Victoria&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+
+		  
+		  		  
+		  
+		 
+		  
+		  
+		  
+		  <!-- ++++++++++++++++++++++++++++ /закрепление ++++++++++++++++++++++++++++++++++ -->
+		  
+		  		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  		  
+		  		  
+		  
+		  
+		  
+		  		  
+		  
+		  
+		  
+		  
+		  
+		  		  
+		  
+		  
+		  
+		  
+		  
+		  		  
+		  		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./dar/"><img src="./pics/ico_zal_24.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Дар&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./dar/">Зал торжеств &laquo;Дар&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./sad/"><img src="./pics/ico_zal_23.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Сад&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./sad/">Зал торжеств &laquo;Сад&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  
+		  
+		  		  
+		  
+		  
+		  
+		  
+		  		  
+		  
+		  
+		 
+		  
+		  
+		  
+
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./tsin/"><img src="./pics/ico_zal_16.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Цин&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./tsin/">Зал торжеств &laquo;Цин&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./merkuriy/"><img src="./pics/ico_zal_14.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;Меркурий&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./merkuriy/">Зал торжеств &laquo;Меркурий&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  
+		  		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./farn/"><img src="./pics/ico_zal_10.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;FARN&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./farn/">Зал торжеств &laquo;FARN&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  		  
+		  
+		  
+		  		  
+		  
+		  
+		  
+		  
+		  
+		  
+	
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./troya/"><img src="./pics/ico_zal_06.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;ТРОЯ&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./troya/">Зал торжеств &laquo;ТРОЯ&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  
+		  
+		  <!-- Временно убрано с главной (08-05-2013)
+		  <tr><td valign="top" align="left"><a href="./veterok/"><img src="./pics/ico_zal_07.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;ВЕТЕРОК&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./veterok/">Зал торжеств - ресторан &laquo;ВЕТЕРОК&raquo;</a><br>
+		    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+		    Адрес: рядом с г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  		  
+		  
+		  
+		  
+		  <!-- Самый низ -->
+		  
+		  
+		  
+		  
+		  <!--
+		  <tr><td valign="top" align="left"><a href="./amond/"><img src="./pics/ico_zal_02.jpg" width="250" height="150" border="0" style="margin:20px;margin-left:0px;margin-top:0px;" title="Зал торжеств &laquo;АМОНД&raquo;"></a></td>
+		  <td valign="top" align="left">
+		    <a href="./amond/">Зал торжеств &laquo;Амонд&raquo;</a><br>
+                    Количество мест, свободные дни и стоимость уточняйте заранее по телефону<br>
+                    Адрес: г. Владикавказ
+		  </td>
+		  </tr>
+		  -->
+		  
+		  
+		 
+		  
+		  
+		  
+		  
+		</table>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<div style="margin-top:30px;">
+		  <a href="http://zaltorzhestv.ru/send.php" target="_blank">Оставить отзыв о зале,  пожелания молодожёнам и т.д.</a>
+		</div>
+		
+		<div style="margin-top:30px;border-top:4px dotted white;">
+		<h2>Отзывы гостей залов торжеств</h2>
+		
+		
+		
+
+<div class="clear"></div>
+
+
+<!-- ОТЗЫВЫ -->
+<div class="highslide-gallery">
+
+
+
+
+
+
+
+<div class="otz_box1">
+<img class="empt1" src="../pics/otz/otz_empty_preview.jpg" ></div>
+<div class="otz_box2">
+<a href="../ay_dusha/">Ай, душа</a><br>
+Отличный зал для свадеб и любых др.торжеств. кухня классная!!­! У меня там была свадьба, скоро там же будет и у брата!<br>
+Елена<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+
+
+
+
+
+
+
+
+
+<!-- ===================================================================================================== -->
+
+<div class="otz_box1">
+<img class="empt1" src="../pics/otz/otz_empty_preview.jpg" ></div>
+<div class="otz_box2">
+<a href="../v/">Зал торжеств</a><br>
+По пятибалльной шкале ставлю пятёрку.<br>
+Абаев Василий<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+<!-- ===================================================================================================== -->
+<!-- ===================================================================================================== -->
+
+
+<!-- ===================================================================================================== -->
+
+<div class="otz_box1">
+<div class="foto1">  <a  href="../pics/otz/otz_007.jpg" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'group1', dimmingOpacity: .75, numberPosition: 'caption'})">  <img src="../pics/otz/otz_007_preview.jpg" title="Щёлкните для увеличения" /></a>  <div class="highslide-caption">Отзывы гостей залов торжеств</div>  </div></div>
+<div class="otz_box2">
+<a href="../parusa/">Алые паруса</a><br>
+Мы поздно пришли, но нам всё понравилось! Оформление зала и остальное. Невесте желаю быть самой счастливой!<br>
+Анжела Байсангурова (с девочкой на руках)<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+
+<div class="otz_box1">
+<div class="foto1">  <a  href="../pics/otz/otz_006.jpg" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'group1', dimmingOpacity: .75, numberPosition: 'caption'})">  <img src="../pics/otz/otz_006_preview.jpg" title="Щёлкните для увеличения" /></a>  <div class="highslide-caption">Отзывы гостей залов торжеств</div>  </div></div>
+<div class="otz_box2">
+<a href="../parusa/">Алые паруса</a><br>
+Мы даже не знали, что там такой зал! Всё хорошо, так много было гостей, что стоянку бы побольше!<br>
+Дзебисов Гамлет, Газзаев Владимир<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+
+<div class="otz_box1">
+<div class="foto1">  <a  href="../pics/otz/otz_005.jpg" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'group1', dimmingOpacity: .75, numberPosition: 'caption'})">  <img src="../pics/otz/otz_005_preview.jpg" title="Щёлкните для увеличения" /></a>  <div class="highslide-caption">Отзывы гостей залов торжеств</div>  </div></div>
+<div class="otz_box2">
+<a href="../parusa/">Алые паруса</a><br>
+Всё было «чики-чики»! Отменно, изысканно! Цены вам нет 2 раза! Обожаем вас на миллионы долларов США!<br>
+Алан (слева)<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+
+<div class="otz_box1">
+<div class="foto1">  <a  href="../pics/otz/otz_004.jpg" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'group1', dimmingOpacity: .75, numberPosition: 'caption'})">  <img src="../pics/otz/otz_004_preview.jpg" title="Щёлкните для увеличения" /></a>  <div class="highslide-caption">Отзывы гостей залов торжеств</div>  </div></div>
+<div class="otz_box2">
+<a href="../parusa/">Алые паруса</a><br>
+По большому счету здесь всё очень прекрасно! Пироги с картошкой шикарные, побольше бы сюда молодежи!<br>
+Гогаев Казбек (справа), хороший парень, своё ИП (по словам друга Газаева Рамазана (слева)<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+
+<div class="otz_box1">
+<img class="empt1" src="../pics/otz/otz_empty_preview.jpg" ></div>
+<div class="otz_box2">
+<a href="../v/">Зал торжеств</a><br>
+Хорошо, отлично! Кухня Хорошая, нормально здесь!<br>
+Гаглоев Тамерлан<br>
+
+</div>
+<div class="clear"></div>
+<!-- ===================================================================================================== -->
+
+
+
+</div>
+<!-- /ОТЗЫВЫ -->
+</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+      </div>
+	</div>
+  </td>
+  </tr>
+  
+  <tr>
+  <td align="center" valign="top">
+      <div style="margin:15px;">
+    Заказать <a class="link" href="http://www.zaltorzhestv.ru/">ЗАЛ ТОРЖЕСТВ</a>  (услуги по подбору зала бесплатны):<br>
+    Тел. (8672) 91-43-20, E-mail: <a class="link" href="mailto:zaltorzhestv@ya.ru">zaltorzhestv@ya.ru</a><br>
+    <b>Внимание! Бронированием столиков мы не занимаемся!</b>
+    </div>
+    
+    <script language=JavaScript>
+<!--
+var message="";
+function clickIE() {if (document.all) {(message);return false;}}
+function clickNS(e) {if
+(document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3) {(message);return false;}}}
+if (document.layers)
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+document.oncontextmenu=new Function("return false")
+// -->
+</script>  </td>
+  </tr>
+  
+  
+  
+  
+  </table>
+  
+  <div class="clear"></div>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+ 
+<td align="center" valign="top" width="95">
+  <img src="http://www.yandex.ru/cycounter?www.zaltorzhestv.ru/" height="31" width="88" border="0">
+</td>
+
+<td align="center" valign="top" width="95">
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var a='',js=10;try{a+=';r='+escape(document.referrer);}catch(e){}try{a+=';j='+navigator.javaEnabled();js=11;}catch(e){}
+try{s=screen;a+=';s='+s.width+'*'+s.height;a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;}catch(e){}
+try{if(typeof((new Array).push('t'))==="number")js=13;}catch(e){}
+try{document.write('<a href="http://top.mail.ru/jump?from=2237268">'+
+'<img src="http://d3.c2.b2.a2.top.mail.ru/counter?id=2237268;t=60;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru" style="border:0;" height="31" width="88" \/><\/a>');}catch(e){}//]]></script>
+<noscript><p><a href="http://top.mail.ru/jump?from=2237268">
+<img src="http://d3.c2.b2.a2.top.mail.ru/counter?js=na;id=2237268;t=60" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a></p></noscript>
+<!-- //Rating@Mail.ru counter -->
+</td>
+
+
+<td align="center" valign="top" width="95">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.7;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'><\/a>")
+//--></script><!--/LiveInternet-->
+</td>
+
+
+<td align="center" valign="top" width="95">
+<!--Openstat-->
+<span id="openstat2272403"></span>
+<script type="text/javascript">
+var openstat = { counter: 2272403, image: 5083, color: "ff86fb", next: openstat };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script>
+<!--/Openstat-->
+</td>
+
+
+
+
+
+<td align="center" valign="top" width="95">
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2759908"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2759908/">
+<img src="http://counter.rambler.ru/top100.cnt?2759908" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+</td>
+
+
+
+
+</tr>
+</table>  
+  
+</body>
+</html>

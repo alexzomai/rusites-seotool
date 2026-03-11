@@ -1,0 +1,434 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Заметки ITшника - linux, freebsd, mikrotik, cisco и др.</title>
+    <meta name="description" content="Полезная информация для тех кто занимается в сфере IT.">
+    <link rel="stylesheet" href="https://qinet.ru/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://qinet.ru/css/mstyle.css">
+    <meta name="google-site-verification" content="fFDDcnUUfrOY5wwsnvL5D4YeDrgYmQR_Wb2jVXethn8" />
+    <meta name="yandex-verification" content="0e5abfa875327083" />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script data-ad-client="ca-pub-3683716344477985" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <meta name="msvalidate.01" content="02DF06A75F222E1A28DB4995DA42703C" />
+</head>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow sticky-top">
+    <a class="navbar-brand" href="https://qinet.ru">Заметки ITшника</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar1">
+	<ul class="navbar-nav mx-auto">
+    	<li class="nav-item">
+	    <a class="nav-link" href="/ipcalc/">IPcalc</a>
+	</li>
+	<li class="nav-item">
+	    <a class="nav-link" href="/whoami/">Мой IP</a>
+    	</li>
+	<li class="nav-item">
+	    <a class="nav-link" href="/status_code/">Код ответа страницы</a>
+	</li>
+	    <li class="nav-item">
+	
+	    </li>
+
+	</ul>
+    </div>
+</nav>
+
+<div class="main">
+    <div class="container">
+	<div class="row">
+	    <div class="col-md-10">
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2025/10/1731/">Релиз Python 3.14</a></h1>
+
+
+<p><p>Новые функции и изменения в Python 3.14 по сравнению с версией 3.13.</p></p>
+
+<p>10.10.2025</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2025/01/1730/">PostgreSQL 15 установка и первичная настройка на Debian 12</a></h1>
+
+
+<p><p>Заметка по первичной настройки Postgresql v.15. Все действия проводились на Debian 12<p></p>
+
+<p>27.01.2025</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/11/1729/">Многопоточность в Python (threading и concurrent.futures)</a></h1>
+
+
+<p><p> Многопоточность — это концепция, позволяющая выполнять несколько потоков одновременно в рамках одного процесса.</p></p>
+
+<p>30.11.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/11/1728/">Релиз PHP 8.4</a></h1>
+
+
+<p><p>Спустя год разработки вышел релиз PHP 8.4</p></p>
+
+<p>21.11.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/09/1727/">PySNMP7 error Ciphering services not available</a></h1>
+
+
+<p><p>После обновления до версии python 3.13, обновилась библиотека до версии 7, то что было раньше перестало работать.</p></p>
+
+<p>30.09.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/09/1725/">Релиз Linux Kernel 6.11
+</a></h1>
+
+
+<p><p>Среди основных особенностей Linux 6.11 - новая подсистема драйверов, обеспечивающая поддержку чипов Bluetooth/WLAN на платформах Qualcomm, поддержка getrandom() для vDSO на системах x86, добавление нового типа отображения в mmap(2), позволяющего ядру обнулять страницы в любое время под давлением памяти, поддержка горячего подключения виртуального процессора для систем AArch64 (ARM64) ACPI и новый механизм для создания доменов прерываний.</p></p>
+
+<p>15.09.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/04/1724/">Релиз Ubuntu 24.04 LTS: Noble Numbat</a></h1>
+
+
+<p><p> Ubuntu 24.04 LTS (кодовое название "Noble Numbat") включает в себя богатый набор новых функций, начиная от улучшенного установщика рабочего стола и новейшего рабочего стола GNOME до игровых улучшений и нового ядра Linux. </p></p>
+
+<p>26.04.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/04/1723/">Вышла в свет стабильная версия nginx 1.26.0 с поддержкой HTTP/3</a></h1>
+
+
+<p><p> Вышла стабильная версия nginx-1.26.0, в которую вошли новые функции и исправления ошибок из основной ветки 1.25.x, включая экспериментальную поддержку HTTP/3, HTTP/2. </p></p>
+
+<p>24.04.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/03/1722/">Представлен FreeBSD 13.3</a></h1>
+
+
+<p>Спустя 11 месяцев  опубликован релиз FreeBSD 13.3. 
+
+Ветка FreeBSD 13.x развивается параллельно веткой FreeBSD 14, для которой осенью был сформирован релиз 14.0, и продолжит сопровождаться до конца января 2026 года. Примерно через год ожидается формирование выпуска FreeBSD 13.4.</p>
+
+<p>08.03.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/01/1721/">Ядро Linux 6.8. Производительность TCP выросла на 40%
+</a></h1>
+
+
+<p><p> Ядро Linux 6.8 получило важные обновления, которые значительно ускоряют работу TCP-стека. Благодаря этим изменениям производительность при обработке множества параллельных TCP-соединений может вырасти на 40%. </p></p>
+
+<p>16.01.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2024/01/1720/">Состоялся релиз MX Linux Raspberry Pi Edition для Raspberry Pi 4 и 5</a></h1>
+
+
+<p><p> Состоялся релиз дистрибутива MX Linux, основанного на Debian, данная версию для  для тех, кто хочет запустить операционную систему на одноплатных компьютерах Raspberry Pi.
+<br />
+<div align="center"><img src="/wp-content/uploads/2024/mx_linux_030124.png" alt="MX Linux Raspberry Pi Edition"></div>
+</p>
+
+</p>
+
+<p>03.01.2024</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/10/1719/">Релиз мобильной платформы Android 14</a></h1>
+
+
+<p><p>Google выпустила <strong>Android 14</strong>.</p></p>
+
+<p>04.10.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/09/1718/">Шпаргалка по journalctl (просмотр и анализ логов)</a></h1>
+
+
+<p><p>Небольшая заметка по использованию journalctl </p></p>
+
+<p>13.09.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/08/1717/">CUPS управление печатью в Linux</a></h1>
+
+
+<p><p>Небольшая заметка по управлению принтерами в CUPS через командную строку.</p></p>
+
+<p>05.08.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/06/1716/">Сравнение протоколов TACACS+ и RADIUS</a></h1>
+
+
+<p><p>Известно, наиболее популярными протоколами безопасности, используемыми для управления доступом к сетям, являются <strong>TACACS+ </strong> (Terminal Access Controller Access-Control System Plus) и <strong>RADIUS </strong> (Remote Authentication Dial-In User Service).</p></p>
+
+<p>11.06.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/06/1715/">Состоялся релиз Debian 12 Bookworm</a></h1>
+
+
+<p><p>После 1 года, 9 месяцев и 28 дней разработки проект Debian представил свою новую стабильную версию 12 (кодовое имя bookworm).</p>
+
+<p><strong>Debian 12</strong> будет поддерживаться в течение следующих 5 лет благодаря совместной работе команды безопасности Debian и команды долгосрочной поддержки Debian.</p>
+
+</p>
+
+<p>10.06.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/05/1714/">Apple представила Final Cut Pro и Logic Pro для iPad</a></h1>
+
+
+<p><p> Может ли iPad быть заменой ПК? Теперь, представив <strong>Final Cut Pro</strong> и <strong>Logic Pro</strong> для iPad, компания Apple привела еще более весомый аргумент в пользу того, что ее планшет является реальной заменой ПК.</p>
+
+<img src="/wp-content/uploads/2023/ipad_final_cut_logic.png">
+
+</p>
+
+<p>11.05.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/05/1713/">BGP. Управление трафиком с помощью атрибута MED</a></h1>
+
+
+<p><p> Атрибут <strong>BGP MED (Multi-Exit Discriminator)</strong> используется для выбора пути трафика в BGP, поступающего в автономную систему (AS) с несколькими точками выхода. Атрибут MED используется принимающей AS для выбора лучшего пути среди нескольких для достижения конкретного пункта назначения, анонсируемого соседней AS. Меньшее значение MED предпочтительнее большего значения MED. </p></p>
+
+<p>10.05.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/03/1712/">BGP. Управление трафиком с помощью атрибута AS_Path.</a></h1>
+
+
+<p><p>Управление трафиком с помощью <strong>атрибута AS_PATH</strong> (один из обязательных атрибутов BGP) используется для указания пути, по которому прошло update message, чтобы достичь принимающего маршрутизатора BGP.</p></p>
+
+<p>23.03.2023</p>
+
+</div>
+
+
+
+<div class="shadow p-3 mb-5 bg-white">
+
+<h1 class="p_title"><a href="/2023/03/1711/">BGP. Управление трафиком с помощью атрибута Local Preference.</a></h1>
+
+
+<p><p>Управление трафиком с помощью атрибута <strong>Local Preference в BGP</strong> (Border Gateway Protocol) - это техника, используемая для управления потоком трафика в сети путем установки значения Local Preference для маршрута BGP. Local Preference - это хорошо известный обязательный атрибут BGP, который используется для влияния на выбор пути входящего трафика в автономную систему (AS).</p></p>
+
+<p>21.03.2023</p>
+
+</div>
+
+
+
+</div>
+
+<div class="col-md-2">
+    <div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-2 col-md-2 col-lg-1 col-xl-1">
+            <nav class="navbar navbar-light navbar-expand-sm px-0 flex-row flex-nowrap">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarWEX" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                 <div class="navbar-collapse collapse" id="navbarWEX">
+                    <div class="nav flex-sm-column flex-row">
+
+    <a href="/category/hard/cisco/" class="nav-item nav-link">
+Cisco</a>
+
+<a href="/category/hard/dlink/" class="nav-item nav-link">
+Dlink</a>
+
+<a href="/category/hard/mikrotik/" class="nav-item nav-link">
+Mikrotik</a>
+
+<a href="/category/hard/ubiquiti/" class="nav-item nav-link">
+Ubiquiti</a>
+
+    <a href="/category/mobile/android/" class="nav-item nav-link">
+Android</a>
+
+<a href="/category/mobile/apple/" class="nav-item nav-link">
+Apple</a>
+
+    <a href="/category/os/linux/" class="nav-item nav-link">
+Linux</a>
+
+<a href="/category/os/solaris/" class="nav-item nav-link">
+Solaris</a>
+
+<a href="/category/os/freebsd/" class="nav-item nav-link">
+FreeBSD</a>
+
+<a href="/category/os/windows/" class="nav-item nav-link">
+Windows</a>
+
+    <a href="/category/soft/servers/" class="nav-item nav-link">
+HTTP Servers</a>
+
+<a href="/category/soft/diff/" class="nav-item nav-link">
+Разное ПО</a>
+
+<a href="/category/soft/mail_system/" class="nav-item nav-link">
+Mail</a>
+
+    <a href="/category/databases/sql/" class="nav-item nav-link">
+SQL</a>
+
+    <a href="/category/programming/php/" class="nav-item nav-link">
+PHP</a>
+
+<a href="/category/programming/python/" class="nav-item nav-link">
+Python</a>
+
+    <a href="/category/networks/all/" class="nav-item nav-link">
+Networks</a>
+
+    <a href="/category/virtualization/all/" class="nav-item nav-link">
+Виртуализация</a>
+
+    <a href="/category/general/all/" class="nav-item nav-link">
+Общие вопросы</a>
+
+    <a href="/category/news/all/" class="nav-item nav-link">
+Новости</a>
+
+    <a href="/category/monitoring/all/" class="nav-item nav-link">
+Мониторинг</a>
+
+
+ </div>
+                </div>
+            </nav>
+        </div></div>
+
+
+	</div>
+    </div>
+</div>
+
+
+<div class="footer p-3 mb-5">
+
+<div align="right">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t21.12;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+<br />
+2025 - Qinet.ru
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+	<title></title>
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<link rel="StyleSheet" type="text/css" href="/css/main.css" />
+	<meta rel="icon" href="/favicon.ico" type="image/x-icon" />
+	<meta rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<script rel="nofollow, noindex" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+	<script src="/js/jcarousellite_1.0.1.pack.js"></script>
+	<script src="/js/other.js"></script>
+	<link href="/css/style.css" class="piro_style" media="screen" title="white" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/js/pirobox.min.js"></script>
+	<script rel="nofollow, noindex" type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript" rel="nofollow, noindex">
+$(document).ready(function() {
+	$().piroBox({
+			my_speed: 400, //animation speed
+			bg_alpha: 0.3, //background opacity
+			slideShow : true, // true == slideshow on, false == slideshow off
+			slideSpeed : 4, //slideshow duration in seconds(3 to 6 Recommended)
+			close_all : '.piro_close,.piro_overlay'// add class .piro_overlay(with comma)if you want overlay click close piroBox
+
+	});
+});
+</script>
+</head>
+
+<body>
+<div id="all">
+<table width="1000" class="hei">
+	<tr>
+		<td id="header">			
+			<div id="logo"><a href="/"><img style="margin-top: 33px;" border="0" src="/img/logo.jpg" title="создание web сайтов, разработка сайтов, изготовление сайтов" alt="создание web сайтов, разработка сайтов, изготовление сайтов" /></a></div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="t100" id="center_block">
+				<tr>
+					<td id="left_block" width="160">
+						<div class="blok-menu">
+							<ul>
+								<li><a href="/" >Главная</a></li><li><a href="/about.html">О компании</a></li><li><a href="/portfolio.html">Портфолио</a></li><li><a href="/price.html">Цены</a></li><li><a href="/service.html">Услуги</a></li><li><a href="/contacts.html">Контакты</a></li><li><a href="/all-articles.html">Статьи</a></li>							</ul>
+						</div>
+					</td>
+					<td id="center">
+																			<noindex>
+							<div style="margin:10px 0">
+							<!-- AddThis Button BEGIN -->
+				<div class="addthis_toolbox addthis_default_style " rel="nofollow, noindex">
+				<a class="addthis_button_vk"></a>
+				<a class="addthis_button_facebook"></a>
+				<a class="addthis_button_odnoklassniki_ru"></a>
+				<a class="addthis_button_twitter"></a>
+				<a class="addthis_button_livejournal"></a>
+				<a class="addthis_button_moikrug"></a>
+				<a class="addthis_button_mymailru"></a>
+				<a class="addthis_button_vkrugudruzei"></a>
+				<a class="addthis_button_google"></a>
+				<a class="addthis_button_gmail"></a>
+				<a class="addthis_button_googlereader"></a>
+				<a class="addthis_button_bobrdobr"></a>
+				<a class="addthis_button_memori"></a>
+				<a class="addthis_button_moemesto"></a>
+				<a class="addthis_button_misterwong"></a>
+				<a class="addthis_button_wordpress"></a>
+				<a class="addthis_button_smiru"></a>
+				<a class="addthis_button_zakladoknet"></a>
+				<a class="addthis_button_webnews"></a>
+				<a class="addthis_button_myspace"></a>
+				<a class="addthis_button_delicious"></a>
+				<a class="addthis_button_blogger"></a>
+				<a class="addthis_button_favorites"></a>
+				<a class="addthis_button_compact"></a>
+				<a class="addthis_counter addthis_bubble_style"></a>
+				<g:plusone size="medium"></g:plusone>
+				</div>
+				<script rel="nofollow, noindex" type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=msv09"></script>
+				<!-- AddThis Button END -->
+							
+							</div></noindex>
+							<div class="HA3BAHUE"><h6></h6></div>
+							<div class="content">
+								
+							</div>
+							<div class="blok-article-article"><span><a href="/all-articles.html">Полезные статьи</a></span></div>
+	<div class="blok-article">							
+		<ul>
+		<li><h2><a title="Делаем ЧПУ у новостей в webasyst" href="articles/delaem-chpu-u-novostey-v-webasyst.html">Делаем ЧПУ у новостей в webasyst</a></h2><p>Очень часто нас спрашивают или просят сделать изменения в движке интернет магазина ВебАсист в области модуля новостей/блога. </p></li>
+			<li><h2><a title="Как установить программу WebMoney?" href="articles/kak-ustanovit-programmu-WebMoney.html">Как установить программу WebMoney?</a></h2><p>Очень многие посетители, клиенты и просто люди нам задают часто один и тот же вопрос, вроде бы как казалось на первый взгляд простую вещь.</p></li>
+			</ul>
+			<ul><li><h2><a title="Как добавить дополнительное поле в Webasyst?" href="articles/kak-dobavit-dopolnitelnoe-pole-v-webasyst.html">Как добавить дополнительное поле в Webasyst?</a></h2><p>Добавляем новое дополнительное поле в категории для магазина на системе управления WebAsyst.
+
+</p></li>
+			<li><h2><a title="Описание текстового редактора" href="articles/opisanie-tekstovogo-redaktora.html">Описание текстового редактора</a></h2><p>Недавно мы рассказывали, что такое визуальный редактор wysiwyg на сайте. В этой статье мы постараемся узнать, что он может, какие функции предусмотрены, и что вообще здесь располагается.</p></li>
+			</ul>
+			<ul><li><h2><a title="Что такое редактор?" href="articles/chto-takoe-redaktor.html">Что такое редактор?</a></h2><p>Вы получили готовый, рабочий сайт и принялись его наполнять, но не знаете, с чего начать и как этим пользоваться? Мы постараемся не много Вам помочь в этом и подсказать, благодаря чему работа по наполнению сайтов уже не будет для Вас проблемой.
+
+</p></li>
+			<li><h2><a title="WebAsyst - оптимальное решение для создания интернет магазина" href="articles/webasyst-optimalnoe-reshenie-dlya-sozdaniya-internet-magazina.html">WebAsyst - оптимальное решение для создания интернет магазина</a></h2><p>Система управления WebAsyst является одной из самых распространенных движков для интернет магазина, на нем создано уже более десятка тысяч магазинов, если не больше. Такой спрос может только подтверждать, его удобство, качество и простоту в общении с ним.
+</p></li>
+			</ul>
+			<ul></ul>
+		<hr />
+	</div>                    </td>
+					<td id="right_block">
+						<div class="blok-right">
+							<h6>График работы:</h6>
+							<div class="blok-grafik">								
+								<p class="myoclock">Будни: <span>с 10 до 22 (мск.)</span><i>Выходные: <span>с 11<sup>30</sup> до 21<sup>30</sup> (мск.)</span></i></p>
+							</div>
+						</div>
+						<div class="blok-right">
+							<h6>Новости:</h6>
+							<div class="blok-news">								
+								<div class="news"><div class="news-date">20.12.2017</div>			
+			<h4><a href="/news-102.html">Яндекс закрывает раздел Яндекс.Каталог</a></h4>
+			 Яндекс.Каталог был запущен в 2000 году и быстро стал одним из самых популярных сайтов Рунета, на который постоянно заходили миллионы пользователей			
+			</div><div class="news"><div class="news-date">05.01.2015</div>			
+			<h4><a href="/news-101.html">Ежегодная традиционная скидка на услуги</a></h4>
+			Отгремели салюты, фейерверки и звон бокалов Ежегодная акция стартует			
+			</div><div class="news"><div class="news-date">29.10.2014</div>			
+			<h4><a href="/news-100.html">Обновление портфолио</a></h4>
+			Завершены несколько сайтов и добавлены в портфолио			
+			</div>							</div>
+							<p class="news-arx">&rarr; <a href="/allnews.html">все новости</a></p>
+							<noindex><p class="news-arx" style="text-align:center; margin:10px 0px">Подпишитесь на новости<br><a rel="nofollow, noindex" href="http://feeds.feedburner.com/vamsiteru"><img src="http://feeds.feedburner.com/~fc/vamsiteru?bg=f3fde4&amp;fg=444444&amp;anim=1" height="26" width="88" rel="nofollow, noindex" style="border:0" alt="" /></a></p></noindex>
+						</div>
+                    </td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>		
+		<td id="brand_clients">
+			<noindex><p>Случайные работы</p><div class="b_clients">
+          <div class="arrow-right"><a><img src="/img/arrow-right.png" alt="" /></a></div>
+          <div class="arrow-left"><a><img src="/img/arrow-left.png" alt="" /></a></div><ul class="b_c"><li><a href="/sozdanie-saitov/magazin-santehniki.html"><img src="/img/works/1/min_foto_20120925193856.jpg" alt="Магазин сантехники"></a></li><li><a href="/sozdanie-saitov/sayt-avtoteplo.html"><img src="/img/works/1/min_foto_20150105133342.jpg" alt="сайт Автотепло"></a></li><li><a href="/sozdanie-saitov/restoran-ukrainskiy-dvorik.html"><img src="/img/works/1/min_foto_20111027115320.jpg" alt="Ресторан &quot;Украинский дворик&quot;!"></a></li><li><a href="/sozdanie-saitov/magazin-brendovyh-sumok-shopbagsru.html"><img src="/img/works/1/min_foto_20130125203553.jpg" alt="Магазин брендовых сумок shopbags.ru"></a></li><li><a href="/sozdanie-saitov/aliansprof.html"><img src="/img/works/1/min_foto_20111025100448.jpg" alt="Простой сайт о бухгалтерских услугах"></a></li><li><a href="/sozdanie-saitov/Luxbikibi-informacionnyy-sayt-dlya-pokupateley.html"><img src="/img/works/1/min_foto_20130125210331.jpg" alt="Luxbikibi - информационный сайт для покупателей"></a></li><li><a href="/sozdanie-saitov/internet-magazin-sistem-otopleniya-teplo4you.html"><img src="/img/works/1/min_foto_20120120111211.jpg" alt="Интернет магазин систем отопления teplo4you"></a></li><li><a href="/sozdanie-saitov/salon-krasoty-versays.html"><img src="/img/works/1/min_foto_20120120110130.jpg" alt="Салон красоты &quot;Версайс&quot;"></a></li><li><a href="/sozdanie-saitov/kasko-m.html"><img src="/img/works/1/min_foto_20111024195747.jpg" alt="Страховой брокер &quot;Каско-М&quot; "></a></li><li><a href="/sozdanie-saitov/prasdnici.html"><img src="/img/works/1/min_foto_20111024180534.jpg" alt="Студия праздника Мистера Пимперли"></a></li><li><a href="/sozdanie-saitov/tribune.html"><img src="/img/works/1/min_foto_20111024220543.jpg" alt="Bar &amp; restaurant TRIBUNE"></a></li><li><a href="/sozdanie-saitov/East-group-okno-v-evropu.html"><img src="/img/works/1/min_foto_20111020222651.jpg" alt="East group - Окно в Европу"></a></li><li><a href="/sozdanie-saitov/conturmebel.html"><img src="/img/works/1/min_foto_20111020212948.jpg" alt="Изготовление мебели под заказ у компании &quot;Контур мебель&quot;"></a></li><li><a href="/sozdanie-saitov/magazin-avtomobilnyh-zapchastey-dlya-renault-reno.html"><img src="/img/works/1/min_foto_20120203135111.jpg" alt="Магазин автомобильных запчастей для Renault (Рено)"></a></li><li><a href="/sozdanie-saitov/kniga-snov.html"><img src="/img/works/1/min_foto_20111020211159.jpg" alt="Книга Снов (Online Сонник) "></a></li></ul>
+           <hr></div><p class="item_clients"><a href="/portfolio.html">Наше полное портфолио</a></p></noindex>
+		</td>
+	</tr>
+	<tr>
+		<td height="78">
+		  <table class="dw">
+			<tr>
+			 
+			  <td width="80" style="background:#e2e2e2 url(img/dw_nz.gif) repeat-x">&nbsp;</td>
+			  <td style="padding-left:10px;">Электронная почта: info@vamsite.ru<br />
+			  <a href="/contacts.html"><u>обратная связь</u></a><br />
+	&copy; 2007 - 2014 <a href="http://vamsite.ru">разработка сайтов москва</a>, <br /><a href="/">разработка интернет сайтов</a>, <a href="/creation-site.html">создание интернет сайта</a>  "VamSite"
+			  </td>
+			  <td>
+
+			  </td>
+			  <td width="100">
+<noindex>			  
+				<!--LiveInternet counter--><script rel="nofollow, noindex" type="text/javascript"><!--
+	document.write('<a rel="nofollow, noindex" href="http://www.liveinternet.ru/click" '+
+	'target=_blank><img rel="nofollow, noindex" src="http://counter.yadro.ru/hit?t16.1;r'+
+	escape(document.referrer)+((typeof(screen)=='undefined')?'':
+	';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+	screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+	';'+Math.random()+
+	'" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+	'border=0 width=88 height=31><\/a>')//--></script><!--/LiveInternet-->
+	<!-- begin of Top100 code -->
+
+	<script rel="nofollow, noindex" id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1358889"></script>
+	<noscript rel="nofollow, noindex">
+	<img rel="nofollow, noindex" src="http://counter.rambler.ru/top100.cnt?1358889" alt="" width="1" height="1" border="0" />
+
+	</noscript>
+	<!-- end of Top100 code -->
+
+	<!-- begin of Top100 logo -->
+	<a rel="nofollow, noindex" href="http://top100.rambler.ru/home?id=1358889">
+	<img rel="nofollow, noindex" src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100"
+	width="1" height="1" border="0" /></a>
+	<!-- end of Top100 logo -->
+
+</noindex>
+	<div align="center">| <a href="/links.php">ссылки</a></div>
+			  </td>
+			</tr>
+		  </table>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+
+$(document).ready(function(){
+ $('.blok-article ul:odd').addClass('odd'); 
+});
+
+</script>
+
+</div>
+
+</body>
+
+</html>

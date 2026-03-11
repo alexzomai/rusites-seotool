@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+    <head>
+	
+		<!--Meta-->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="Description" content="Мастерская художественной ковки Александра Ражина. Кованые люстры, светильники и фонари (https://light-premium.ru), кованая мебель ,садовые опоры (https://sadopora.ru). Изготовление на заказ с отправкой по всей России." />
+		<meta name="Keywords" content="кованые люстры на заказ  ,кованые светильники на заказ,   кованые фонари для улицы  светильники на заказ , кованая мебель ,Санкт‑Петербург ,  садовые опоры для растений  , кованые опоры для вьющихся растений  , мастерская художественной ковки Санкт‑Петербург , кованые изделия на заказ с отправкой по России" />    
+		<meta name="Robots" content="all" />
+		<meta name="Rating" content="General" />
+		<meta name="Author" content="<Клуб интеллектуалов" />
+		<!--End Meta-->
+		
+		<title>Кованые люстры, светильники , фонари, мебель и садовые опоры | Мастерская Александра Ражина</title>  
+		
+		<!--CSS-->
+		<link href="style/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="style/jquery.navgoco.css" rel="stylesheet" />
+		<link href="style/style.css" rel="stylesheet" />
+		<link href="style/jquery.lightbox-0.5.css" rel="stylesheet" />
+		<!--End CSS-->
+		
+		<!--Fonts-->
+		<link href='http://fonts.googleapis.com/css?family=Marck+Script&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+		<!--End Fonts-->
+		
+		<!--Favicon-->  
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<!--End Favicon-->
+
+		<!--Java scripts-->
+		<script type="text/javascript" src="admin/js/jquery/jquery-1.11.3.js"></script>
+		<script type="text/javascript" src="admin/js/jquery/jquery.cookie.js"></script>
+		<script type="text/javascript" src="admin/js/jquery/jquery.navgoco.js"></script>
+		<script type="text/javascript" src="admin/js/jquery/jquery.lightbox-0.5.js"></script>
+		<!--End Java scripts-->
+		
+		<!--Bootstrap-->
+		<script src="admin/js/bootstrap/bootstrap.min.js"></script>		
+		<!--End Bootstrap-->		
+        		
+    </head>
+	
+	<body >
+	
+		<!--Facebook-->
+
+		<!--EndFacebook-->
+		
+		
+   <div class="container">
+   
+            <div class="row">
+        		<div class="col-md-5">
+					<i class="icon-phone icon-large"> </i> +7(921)751-54-50 |
+                <i class="icon-envelope-alt icon-large"> </i> <a href="http://art-metall.ru/?id=4">и пишите</a>
+				</div>
+				<div class="col-md-2 col-md-offset-5">
+				<i class="icon-legal icon-large"> </i> Работаем с 1993 г.				</div>
+				
+				<div class="col-md-12">
+					<h1 class="logotext">Мастерская художественной ковки Александра Ражина</h1>
+					<h5 class="slogan">Предлагаем не вещи, а семейные реликвии. Послужат детям, внукам, и даже правнукам. Надежность, прочность, эксклюзивность, красота и элегантность</h5>
+				</div>
+            </div>
+            
+            <div class="row">
+                <div class="col-md-12">					
+                    <div id="custom-bootstrap-menu" class="navbar navbar-default" role="navigation">
+						<div class="container">
+							
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>									
+									</button>
+									<a class="navbar-brand" href="#">МЕНЮ</a>
+								</div>							 
+
+								<div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">								  
+									<ul class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle" data-target="#" href="http://art-metall.ru/?id=1"><i class="icon-home icon-large"> </i> Главная</a></li><li class="dropdown"><a class="dropdown-toggle" data-target="#" href="http://art-metall.ru/?id=7"><i class="icon-credit-card icon-large"> </i> Как заказать</a></li><li class="dropdown"><a class="dropdown-toggle" data-target="#" href="http://art-metall.ru/?id=148"><i class="icon-truck icon-large"> </i> Доставка РФ</a></li></ul>
+<!--форма поиска-->
+<form class="navbar-form navbar-right" role="search" method="POST">
+        <div class="input-group search">
+			<input name="search" type="text" class="form-control" placeholder="Поиск">
+			<span class="input-group-btn">
+				<button type="submit" class="btn btn-default"><i class="icon-search icon-small"> </i></button>
+			</span>
+		</div>
+</form>
+
+<a class="language" href = "?lang=en&amp;id=2"><img title="английская версия сайта"alt="ru" src="upload/images/en.png" /></a>
+								  						
+								</div><!--navbar-collapse -->							
+							
+						</div><!--container--> 
+                    </div>           	           
+                </div>
+            </div>
+
+    		<div class="row"> 			 
+				<div class="col-md-4">
+
+							<ul id="demo1" class="nav"><li><a href=""><i class=" "> </i> Кованые люстры,фонари, светильники , бра для дома и улицы. Люстра колесо.</a><ul><li><a href="http://art-metall.ru/?id=192"><i class="| icon-large"> </i> Уникальные  каскадные,  многоярусные , спиральные, эксклюзивные  люстры для помещений с высоким потолком</a></li><li><a href="http://art-metall.ru/?id=119"><i class=" "> </i> Двухъярусная кованая люстра с дубовыми кольцами – элегантность и благородство</a></li><li><a href="http://art-metall.ru/?id=194"><i class=" icon-large"> </i>  Кованая люстра на дубовом основании. Эксклюзивный дизайн.</a></li><li><a href="http://art-metall.ru/?id=179"><i class=" icon-large"> </i> Эксклюзивная деревянная люстра ручной работы из дуба и сосны с коваными элементами</a></li><li><a href="http://art-metall.ru/?id=181"><i class=" icon-large"> </i> Светильник факел</a></li><li><a href="http://art-metall.ru/?id=120"><i class=" "> </i> Светильники, люстры, бра</a></li><li><a href="http://art-metall.ru/?id=121"><i class=" "> </i> Уличные фонари, прожектора, светильники</a></li><li><a href="http://art-metall.ru/?id=189"><i class=" icon-large"> </i> Настольные лампы, торшеры.</a></li><li><a href="http://art-metall.ru/?id=142"><i class=" icon-large"> </i> Люстры флористика с коваными цветами</a></li><li><a href="http://art-metall.ru/?id=190"><i class=" icon-large"> </i> Кованые настенные бра, светильники.</a></li></ul></li><li><a href=""><i class=" "> </i> Мебель для дома, квартиры,  кафе, ванной комнаты..</a><ul><li><a href="http://art-metall.ru/?id=104"><i class=" "> </i> Вешалки</a></li><li><a href="http://art-metall.ru/?id=105"><i class=" "> </i> Полки для обуви</a></li><li><a href="http://art-metall.ru/?id=106"><i class=" "> </i> Кровати, прикроватные столики</a></li><li><a href="http://art-metall.ru/?id=107"><i class=" "> </i> Банкетки, диванчики, стулья, табуреты</a></li><li><a href="http://art-metall.ru/?id=170"><i class=" icon-large"> </i> Этажерки.</a></li><li><a href="http://art-metall.ru/?id=108"><i class=" "> </i> Столы</a></li><li><a href="http://art-metall.ru/?id=110"><i class=" "> </i>  Мебель для ванной комнаты. Подставки под раковину, полки</a></li><li><a href="http://art-metall.ru/?id=113"><i class=" "> </i> Ковка для кафе, ресторана, клуба</a></li></ul></li><li><a href=""><i class=" icon-large"> </i> Кованые карнизы для штор, рамки для зеркал, мебельная фурнитура, петли, ручки. Накладки на электрощиток.</a><ul><li><a href="http://art-metall.ru/?id=111"><i class=" "> </i>  Карнизы для штор</a></li><li><a href="http://art-metall.ru/?id=109"><i class=" "> </i> Рамки для зеркал</a></li><li><a href="http://art-metall.ru/?id=117"><i class=" "> </i> Мебельная фурнитура, петли, ручки, крючки</a></li><li><a href="http://art-metall.ru/?id=112"><i class=" "> </i> Декоративные накладки на электрощиток</a></li></ul></li><li><a href=""><i class=" icon-large"> </i> Каминные наборы, дровницы, экраны, кованые часы, подсвечники.</a><ul><li><a href="http://art-metall.ru/?id=180"><i class=" icon-large"> </i> Кованые часы</a></li><li><a href="http://art-metall.ru/?id=115"><i class=" "> </i> Каминные наборы, дровницы, экраны</a></li><li><a href="http://art-metall.ru/?id=114"><i class=" "> </i> Кованые  подсвечники</a></li></ul></li><li><a href=""><i class=" icon-large"> </i> Изделия из эпоксидной смолы.</a><ul><li><a href="http://art-metall.ru/?id=211"><i class=" icon-large"> </i> Столы из эпоксидной смолы</a></li><li><a href="http://art-metall.ru/?id=212"><i class=" icon-large"> </i> Часы из эпоксидной смолы.</a></li></ul></li><li><a href=""><i class=" "> </i> Кованая уличная мебель. Скамейки, столы, качели. Флюгеры, беседки, мостики.Мангалы, барбекю.</a><ul><li><a href="http://art-metall.ru/?id=185"><i class=" icon-large"> </i> Садовые качели</a></li><li><a href="http://art-metall.ru/?id=186"><i class=" icon-large"> </i> Садовые скамейки , столы.</a></li><li><a href="http://art-metall.ru/?id=187"><i class=" icon-large"> </i> Мангалы, барбекю.</a></li><li><a href="http://art-metall.ru/?id=124"><i class=" "> </i> Флюгера, гербы, декоративные накладки</a></li><li><a href="http://art-metall.ru/?id=188"><i class=" icon-large"> </i> Беседки .</a></li><li><a href="http://art-metall.ru/?id=123"><i class=" "> </i> Полезные вещи для сада, мусорные бачки.</a></li></ul></li><li><a href="http://art-metall.ru/?id=125"><i class=" "> </i> Лестницы, лестничные ограждения</a></li><li><a href="http://art-metall.ru/?id=134"><i class=" "> </i> Садовые опоры для цветов и растений. Шпалеры, перголы, арки.</a><ul><li><a href="http://art-metall.ru/?id=209"><i class=" icon-large"> </i> Опоры  под розы, штамбовые розы</a></li><li><a href="http://art-metall.ru/?id=214"><i class=" icon-large"> </i> Садовые опоры под клематисы, плетистые розы, вьющиеся растения</a></li><li><a href="http://art-metall.ru/?id=213"><i class=" icon-large"> </i> Опоры под пионы, лилии, георгины, флоксы, дельфиниумы.</a></li><li><a href="http://art-metall.ru/?id=195"><i class=" icon-large"> </i> Садовая перголы, шпалеры, арки..</a></li></ul></li><li><a href="http://art-metall.ru/?id=116"><i class=" "> </i> Подставки под цветочные горшки, кашпо</a></li><li><a href=""><i class=" "> </i> Балконы, заборы, ворота, навесы, решетки на окна, крыльцо, могилы, кованые кресты</a><ul><li><a href="http://art-metall.ru/?id=127"><i class=" "> </i> Козырьки, навесы</a></li><li><a href="http://art-metall.ru/?id=128"><i class=" "> </i> Заборы, ворота, калитки.</a></li><li><a href="http://art-metall.ru/?id=129"><i class=" "> </i> Балконы, крыльцо</a></li><li><a href="http://art-metall.ru/?id=130"><i class=" "> </i> Решетки на окна</a></li><li><a href="http://art-metall.ru/?id=131"><i class=" "> </i> Могилы, могильные ограждения, кресты</a></li></ul></li><li><a href=""><i class=" "> </i> Галерея украденных работ с нашего сайта</a><ul><li><a href="http://art-metall.ru/?id=144"><i class=" icon-large"> </i> 1</a></li><li><a href="http://art-metall.ru/?id=145"><i class=" icon-large"> </i> 2</a></li><li><a href="http://art-metall.ru/?id=146"><i class=" icon-large"> </i> 3</a></li></ul></li><li><a href="http://art-metall.ru/?id=133"><i class=" "> </i> Металл с деревом</a></li><li><a href="http://art-metall.ru/?id=143"><i class=" icon-large"> </i> Растительные мотивы</a></li></ul>   							<!--Настройки бокового меню-->
+							<script type="text/javascript">
+								$(document).ready(function() {
+									$('#demo1').navgoco({
+										caretHtml: '<i class="some-random-icon-class"></i>',
+										accordion: false,
+										openClass: 'open',
+										save: true,
+										cookie: {
+											name: 'navgoco',
+											expires: false,
+											path: '/'
+										  },
+										slide: {
+											duration: 400,
+											easing: 'swing'
+										}
+									});
+									
+									$("#collapseAll").click(function(e) {
+										e.preventDefault();
+										$('#demo1').navgoco('toggle', false);
+									});
+
+									$("#expandAll").click(function(e) {
+										e.preventDefault();
+										$('#demo1').navgoco('toggle', true);
+									});
+								});								
+								
+							</script>
+							
+							<p class="external">
+								<a href="#" id="expandAll">Посмотреть все</a> | <a href="#" id="collapseAll">Закрыть все</a>
+							</p>
+				</div>
+				<div class="col-md-8">					
+                    <div id="content_zone">
+						Запрашиваемая вами страница не существует, проверьте корректность написания в адресной строке<script type="text/javascript">
+  $(function(){
+    $('#myCarousel').carousel({
+interval: 4000
+});
+  })
+</script><script type="text/javascript">
+	jQuery(function(){
+	     jQuery("#gallery a").lightBox();
+	});
+</script>					</div>
+					<h5 class="text-center">Сертификат ГОСТ ISO 9001-2011</h5>
+					<div class="text-center" id="gallery">
+						
+							<div class="col-md-6">
+								<div class="col-md-6 col-md-offset-6 text-center thumbnail">
+									<a alt="" href="http://art-metall.ru/upload/images/sertificate.jpg"><img  alt="" src="upload/images/sertificate.jpg" /></a>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="col-md-6 text-center thumbnail">
+									<a alt="" href="http://art-metall.ru/upload/images/resolution.jpg"><img  alt="" src="upload/images/resolution.jpg" /></a>
+								</div>
+							</div>
+					</div>
+
+					<!--Добавляем баннер RBK на главную страницу-->
+					<div class="text-center">
+	Принимаем к оплате банковские карты через интернет:<br /><br />
+</div>
+<div class="text-center">
+<link rel="stylesheet"  href="http://www.rbkmoney.ru/sites/default/files/banner/rectangular_files/css_rectangle.css"  type="text/css" media="all"/>
+    <div class="rw-banner">
+			<div class="rw-b-inner">
+				<div class="rw-head">
+					<div class="rw-h-text">
+                        Мы принимаем					</div>
+					<div class="rw-h-logo"></div>
+				</div>
+				<div class="rw-body">
+					<div class="rw-b-part">
+                        <a href="javascript:;" class="rw-icon"  onmouseover="tH(this);"></a>
+                        <a href="javascript:;" class="rw-text"  onmouseover="tH(this);">банковские карты</a>
+					</div>
+					<div class="rw-helper" onMouseOut="hH(this,event);" id="h0">
+                        <div class="rwh-arrow"></div>
+                        <div class="rwh-head">Банковские карты</div>
+                        <div class="rwh-text">Оплатите покупку в интернет-магазине банковскими картами VISA и Mastercard любого банка.</div>
+                        <a  href="http://www.rbkmoney.ru/oplata-bankovskimi-kartami" target="_blank" class="rwh-link">узнать больше</a>
+					</div>
+					<div class="rw-b-part">
+                        <a href="javascript:;" class="rw-icon rw-icon-1" onmouseover="tH(this);"></a>
+                        <a href="javascript:;" class="rw-text" onmouseover="tH(this);">электронный кошелек</a>
+					</div>
+					<div class="rw-helper" onMouseOut="hH(this,event);" id="h1">
+                        <div class="rwh-arrow"></div>
+                        <div class="rwh-head">Электронный кошелек</div>
+                        <div class="rwh-text">Моментальная оплата покупок с помощью вашего электронного кошелька RBK Money.</div>
+                        <a href="http://www.rbkmoney.ru/oplata-pokupok-v-internet-magazinakh-s-koshelka-rbk-money" target="_blank" class="rwh-link">узнать больше</a>
+					</div>
+					<div class="rw-b-part">
+                        <a href="javascript:;" class="rw-icon rw-icon-2" onmouseover="tH(this);"></a>
+                        <a href="javascript:;" class="rw-text" onmouseover="tH(this);">банковский платеж</a>
+					</div>
+					<div class="rw-helper" onMouseOut="hH(this,event);" id="h2">
+                        <div class="rwh-arrow"></div>
+                        <div class="rwh-head">Банковский платеж</div>
+                        <div class="rwh-text">Оплатите покупку в любом российском банке. Срок зачисления средств на счет - 3-5 рабочих дней.</div>
+                        <a href="http://www.rbkmoney.ru/popolnenie-bankovskim-platezhom" target="_blank" class="rwh-link">узнать больше</a>
+					</div>
+					<div class="rw-b-part">
+                        <a href="javascript:;" class="rw-icon rw-icon-3" onmouseover="tH(this);"></a>
+                        <a href="javascript:;" class="rw-text" onmouseover="tH(this);">денежные переводы</a>
+					</div>
+					<div class="rw-helper" onMouseOut="hH(this,event);" id="h3">
+                        <div class="rwh-arrow"></div>
+                        <div class="rwh-head">Денежные переводы</div>
+                        <div class="rwh-text">Оплата покупок через крупнейшие системы денежных переводов CONTACT и Unistream.</div>
+                        <a href="http://www.rbkmoney.ru/sistemy-denezhnykh-perevodov" target="_blank" class="rwh-link">узнать больше</a>
+					</div>
+					<div class="rw-b-part">
+                        <a href="javascript:;" class="rw-icon rw-icon-4" onmouseover="tH(this);"></a>
+                        <a href="javascript:;" class="rw-text" onmouseover="tH(this);">почтовые переводы</a>
+					</div>
+					<div class="rw-helper" onMouseOut="hH(this,event);" id="h4">
+                        <div class="rwh-arrow"></div>
+                        <div class="rwh-head">Почтовые переводы</div>
+                        <div class="rwh-text">Оплатите покупку в любом отделении Почты России. Срок зачисления платежа - 3-4 рабочих дня.</div>
+                        <a href="http://www.rbkmoney.ru/popolnenie-elektronnogo-koshelka-cherez-fgup-pochta-rossii" target="_blank" class="rwh-link">узнать больше</a>
+					</div>
+					<div class="rw-b-part">
+                        <a href="javascript:;" class="rw-icon rw-icon-5" onmouseover="tH(this);"></a>
+                        <a href="javascript:;" class="rw-text" onmouseover="tH(this);">платежные терминалы</a>
+					</div>
+					<div class="rw-helper" onMouseOut="hH(this,event);" id="h5">
+                        <div class="rwh-arrow"></div>
+                        <div class="rwh-head">Платежные терминалы</div>
+                        <div class="rwh-text">Оплата покупок   в терминалах крупнейших платежных систем в любом городе России - быстро и без комиссии.</div>
+                        <a href="http://www.rbkmoney.ru/popolnenie-cherez-platezhnye-terminaly" target="_blank" class="rwh-link">узнать больше</a>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+		<script type="text/javascript">
+          function tH(el){
+               var p = el.parentNode,
+                   next = p.nextSibling;
+               while (next.nodeType != 1) next = next.nextSibling;
+               next.style.left = p.offsetLeft+'px';
+               next.style.top = p.offsetTop+'px';
+               for (var i = 0;i < 6; i++) 
+ document.getElementById('h'+i).style.display = 'none';
+               next.style.display = 'block';
+          }
+          function hH(el,ev){
+               if (ev.stopPropagation) ev.stopPropagation();
+               else ev.cancelBubble = true;
+               var target = ev.relatedTarget || ev.srcElement,
+                   cssClass = target.getAttribute('class');
+               if ((!cssClass && el.tagName.toLowerCase != 'div') || 
+ cssClass.indexOf('rwh-') == -1) {
+                   el.style.display = 'none';
+               }
+          }
+		</script>        <br />					
+        		</div>				
+            </div>
+
+	<div id="footer-container">
+        <div class="row">
+						
+					<div class="col-md-12 footer">
+						<div class="counter">
+							<!--Rating@Mail.ru COUNTER-->
+<script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<IMG src="http://d2.cc.bf.a0.top.list.ru/counter'+
+'?id=1032895;js='+js+a+';rand='+Math.random()+
+'" height=1 width=1/>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><img
+src="http://d2.cc.bf.a0.top.list.ru/counter?js=na;id=1032895"
+height=1 width=1 alt=""/></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script>
+<!--/COUNTER-->
+ 
+<!--Rating@Mail.ru LOGO-->
+<a target=_blank
+href="http://top.mail.ru/jump?from=1032895"><img src="http://d2.cc.bf.a0.top.list.ru/counter?id=1032895;t=150;l=1" border=0 height=31 width=88 alt="Рейтинг@Mail.ru"/></a> 
+<!--/LOGO-->
+
+
+
+<a href="http://www.linkfinest.ru/ref.php?id=228789" target="_blank"> 
+</a> <noscript>
+<noscript></a>
+</noscript>     
+
+<!--LiveInternet counter-->
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t52.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border=0 width=88 height=31><\/a>")//--></script>
+<!--/LiveInternet-->
+
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=7091626&amp;from=informer" target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/7091626/3_1_FF3737FF_F01717FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a> 
+<!-- /Yandex.Metrika informer -->
+
+<a href="http://yandex.ru/cy?base=0&amp;host=art-metall.ru" target="_blank"><img src="http://www.yandex.ru/cycounter?art-metall.ru" width="88" height="31" alt="Яндекс цитирования" border="0" /></a> 
+</noscript> <p align="center"> <a href="http://top.rre.ru/cgi/top/rankem.cgi?id=mra620"
+target="_parent"> </a>              
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7091626 = new Ya.Metrika({id:7091626,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        }
+        catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script>
+</div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script> 
+<noscript>
+<div><img src="//mc.yandex.ru/watch/7091626"  alt="" /></div>
+</noscript> 
+<!-- /Yandex.Metrika counter -->						</div>
+						<p class="pull-right"><a href="#"><button type="button" class="btn btn-custom"><i class="icon-angle-up icon-large"> </i></button></a></p>
+						<p>Принимаем к оплате банковские карты через интернет <img src="img/mastercard.png" /><img src="img/visa.png" /></p>
+						<p>©1993-2026 Мастерская художественной ковки Александра Ражина</p>
+						<p>Не является публичной офертой</p>
+					</div>
+    			
+    	</div>
+	</div>
+</div>   
+</body>
+</html>

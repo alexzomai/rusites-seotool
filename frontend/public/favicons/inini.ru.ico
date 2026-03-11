@@ -1,0 +1,302 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<title>На сайте ничего не нашлось - Информационная индустрия рекомендует зайти на сайт позже</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+                <base href="//inini.ru/" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name='viewport' content='width=device-width,initial-scale=1'/>
+        <meta content='true' name='HandheldFriendly'/>
+        <meta content='width' name='MobileOptimized'/>
+        <meta content='yes' name='apple-mobile-web-app-capable'/>
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<script src="scripts/accordion/js/modernizr.custom.29473.js"></script>
+		<link rel="stylesheet" href="css/skel.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/style-desktop.css" />
+		<link rel="stylesheet" href="scripts/accordion/css/demo.css" />
+		<link rel="stylesheet" href="scripts/accordion/css/style.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+        <script type="text/javascript" src="//vk.com/js/api/openapi.js?139"></script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-4335763947587781",
+            enable_page_level_ads: true
+          });
+        </script>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109903026-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-109903026-1');
+        </script>	</head>
+	<body class="right-sidebar">
+		<!-- Header -->
+			<!-- Pixel -->
+<script type="text/javascript">
+    (function (d, w) {
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://qoopler.ru/index.php?ref="+d.referrer+"&page=" + encodeURIComponent(w.location.href);
+            n.parentNode.insertBefore(s, n);
+    })(document, window);
+</script>
+<!-- /Pixel -->
+<!-- Пиксель от аналитического приложения inini's first app -->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '558711141241906',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v3.1'
+    });
+  
+    FB.AppEvents.logPageView();
+  
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!--
+Facebook Analytics поддерживает до 1 000 уникальных событий для приложения или сайта, поэтому вы можете создать свои индивидуально настроенные события. Хотите попробовать? Тогда добавьте кнопку на свою страницу, на которой регистрируется пользовательское событие:
+<button onclick='FB.AppEvents.logEvent("buttonClicked")'>
+  Клик кнопки
+</button>
+что бы отслеживать клики по кнопкам-ссылкам, нужно будет поднять скрипт в начало сайта сразу после тега body
+-->
+
+			<div id="header-wrapper">
+				<div id="header" class="container">
+					<!-- Logo -->
+						<span id="logo"><a href="index.php">Инфоиндустрия</a></span>
+						<p>Знания без воды. Поделимся уроками и ничего лишнего.</p>
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a class="icon fa-home" href="index.php"><span>Суть</span></a></li>
+								<li>
+									<a name="articles" class="icon fa-book"><span>Статьи</span></a>
+									<ul>
+										<li><a href="articles-sitebuild.php">Сайтостроение</a></li>
+										<li><a href="articles-designe.php">Дизайн и графика</a></li>
+										<li><a href="articles-lichnostnyi-rost.php">Личностный рост</a></li>
+										<li>
+											<a name="pr-marketing"><strong>PR</strong> маркетинг</a>
+											<ul>
+												<li><a href="#">Аналитика</a></li>
+												<li><a href="articles-promotion.php">Продвижение</a></li>
+												<li><a href="#">Без купюр</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Инфобизнесмены</a></li>
+										<li><a href="articles-program-script.php">Программы и скрипты</a></li>
+									</ul>
+								</li>
+								<li><a class="icon fa-file-movie-o" href="lesons.php"><span>Уроки</span></a></li>
+								<li><a class="icon fa-check" href="recomendation.php"><span>Рекомендуем</span></a></li>
+								<li><a class="icon fa-user" href="we.php"><span>Это мы</span></a></li>
+							</ul>
+						</nav>
+				</div>
+			</div>		<!-- Main -->
+			<div id="main-wrapper">
+				<div id="main" class="container">
+					<div class="row">
+						<!-- Content -->
+							<div id="content" class="8u">
+								<!-- Post -->
+									<article class="box post">
+										<header>
+											<h2>Ничего не нашлось! Мы работаем над этим, ищем все возможности помочь вам с поиском нужной информации.</h2>
+										</header>
+										<span class="image featured"><img src="images/oops.jpg" alt="ничего не нашлось" /></span>
+									</article>
+							</div>
+														<!-- Sidebar -->
+							<div id="sidebar" class="4u">
+								<!-- Excerpts -->
+									<section>
+										<ul class="divided">
+											<li>
+												<!-- Highlight -->
+													<article class="box highlight">
+														<header>
+															<h3><a href="https://yadi.sk/d/ezhfltMt3Jeo8k" target="_blank">Миникурс «Домен и Хостинг»</a></h3>
+														</header>
+														<a href="https://yadi.sk/d/ezhfltMt3Jeo8k" target="_blank"><img src="images/partnerka/domen_hosting_new_evpopov-180x201.jpg" alt="Миникурс «Домен и Хостинг»" /></a>
+														<p>33 видеоурока в обновленной версии бесплатного курса <strong>«Домен и Хостинг»</strong>. Добавлены уроки по набирающему популярность <strong>VPS/VDS-хостингу</strong>.</p>
+														<p>Курс предназначен для двух категорий людей: тем, кто еще только мечтает о том, чтобы создать свой сайт. Для вас этот курс будет отличной базой; тем, кто уже имеет хотя бы один сайт, но до текущего момента пользовался только обычным виртуальным хостингом начального уровня.</p>
+														<ul class="actions">
+															<li><a href="https://yadi.sk/d/ezhfltMt3Jeo8k" class="button icon fa-download" target="_blank">Скачать</a></li>
+														</ul>
+													</article>
+											</li>
+										</ul><br /><br /><br /><br />
+                                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                                        <!-- inini_adapt_right -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-4335763947587781"
+                                             data-ad-slot="8502365894"
+                                             data-ad-format="auto"></ins>
+                                        <script>
+                                        (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+									</section>
+                            </div>														<!-- Sidebar -->
+							<div id="sidebar" class="4u">
+								<!-- Highlights -->
+									<section>
+										<ul class="divided">
+											<li>
+												<!-- Highlight -->
+													<article class="box highlight">
+														<header>
+															<h3><a href="articles/books/psikhologiya-potrebitelya-kto-chto-i-kak-pokupaet-v-seti.php">Психология потребителя: кто, что и как покупает в сети</a></h3>
+														</header>
+														<a href="articles/books/psikhologiya-potrebitelya-kto-chto-i-kak-pokupaet-v-seti.php"><img src="articles/images/psihologiya-potrebitelya-180x274.png" alt="Книга «Психология потребителя: кто, что и как покупает в сети»" /></a>
+														<p>Чего на самом деле хотят посетители вашего сайта? Можно ли манипулировать пользователями в интересах вашего бизнеса? Как изменилось поведение покупателей в эпоху электронной коммерции?</p>
+														<p>Чтобы всё это узнать читайте книгу о поведении покупателей в сети, созданную инженерным психологом, основателем UsabilityLab Дмитрием Сатиным и экспертами Ingate Digital Agency.</p>
+														<ul class="actions">
+															<li><a href="articles/books/psikhologiya-potrebitelya-kto-chto-i-kak-pokupaet-v-seti.php" class="button icon fa-file">Прочесть</a></li>
+														</ul>
+													</article>
+											</li>
+										</ul>
+									</section>
+                            </div>							</div>
+					</div>
+				</div>
+			</div>
+		<!-- Footer -->
+						<div id="footer-wrapper">
+				<div id="footer" class="container">
+<script language="javascript">
+function email_correct()
+{
+    if (document.getElementById('email').value.indexOf('.', 0) == -1 || document.getElementById('email').value.indexOf('@', 0) == -1) {
+        document.getElementById('info_user').innerHTML = 'Некорректный E-Mail!';}
+    else {
+        if (document.getElementById('name').value == '' || document.getElementById('message').value == ''){
+            document.getElementById('info_user').innerHTML = 'Вы заполнили НЕ все поля!';
+        }
+        else {
+            document.getElementById('send_q').submit();
+        }   
+    }
+};
+</script>
+					<header>
+						<h2>Остались вопросы? <strong>Есть пожелания? Выслушаем:</strong></h2>
+					</header>
+					<div class="row">
+						<div class="6u">
+							<section><a name="faq"></a>
+								<script src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script>
+<iframe src="https://forms.yandex.ru/u/5f9c5a90dfd14c8280d9b4a0/?iframe=1" frameborder="0" name="ya-form-5f9c5a90dfd14c8280d9b4a0" width="650"></iframe>							</section>
+						</div>
+						<div class="6u">
+							<section>
+								<p>ООО «Информационная индустрия» имеет юридический адрес, но в мире онлайн бизнеса Вам нет необходимости ехать к нам в офис. При необходимости и при заключении с нами договора Вы получите все необходимые реквизиты нашей компании.</p>
+								<div class="row">
+									<div class="6u">
+										<ul class="icons">
+											<li class="icon fa-home">
+												ООО «Информационная индустрия»<br />
+												ОГРН 1062318001965<br />
+												ИНН/КПП 2318031565/231801001
+											</li>
+											<li class="icon fa-phone">
+												<a href="tel:+79183082191">+7 (918) 308-21-91</a>
+											</li>
+											<li class="icon fa-envelope">
+												<a href="mailto:admin@inini.ru">admin@inini.ru</a>
+											</li>
+                                            <li>
+                                            <!--LiveInternet counter--><script type="text/javascript">
+                                            document.write("<a href='//www.liveinternet.ru/click' "+
+                                            "target=_blank><img src='//counter.yadro.ru/hit?t26.3;r"+
+                                            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                                            ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                                            screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                                            ";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+                                            "' alt='' title='LiveInternet: показано число посетителей за"+
+                                            " сегодня' "+
+                                            "border='0' width='88' height='15'><\/a>")
+                                            </script><!--/LiveInternet-->
+                                            </li>
+										</ul>
+									</div>
+									<div class="6u">
+										<ul class="icons">
+											<li class="icon fa-facebook">
+												<a href="https://www.facebook.com/inini.ru/" target="_blank">facebook.com/inini.ru</a>
+											</li>
+											<li class="icon fa-vk">
+												<a href="https://vk.com/inini_biz" target="_blank" title="ВКонтакте">vk.com/inini_biz</a>
+											</li>
+											<li class="icon fa-twitter">
+												<a href="https://twitter.com/info_industry" target="_blank" title="Твиттер">@info_industry</a>
+											</li>
+											<li class="icon fa-youtube">
+												<a href="https://www.youtube.com/channel/UCQHGq-q9cBqiI-JxX--yMTg" target="_blank" title="Youtube">Youtube канал</a>
+											</li>
+											<li class="icon fa-skype">
+												<a href="skype:inini.biz" title="Выйти в Скайп">inini.biz</a>
+											</li>
+											<li class="icon fa-info-circle">
+												<a href="https://xn--80aamnbbb0aidacfd0akqsrh0c8ni.xn--p1ai" target="_blank" title="Сборник проектов Информационной индустрии">Проекты</a>
+											</li>
+											<li class="icon fa-star-o">
+												<a href="base_script/index.php" title="Подборка скриптов и сайтов для скачивания">Полезное</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</section>
+						</div>
+					</div>
+				</div>
+				<div id="copyright" class="container">
+					<ul class="links">
+						<li>&copy; 2026. Мы будем признательны, если вы разместите нашу информацию со ссылкой на нас.</li><li><a href="polytic.php" style="color: #444;">Политика конфиденциальности</a></li>
+					</ul>
+				</div>
+			</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(42679009, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/42679009" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	</body>
+</html>

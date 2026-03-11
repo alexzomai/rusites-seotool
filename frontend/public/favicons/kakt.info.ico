@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title></title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="1 days" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://kakt.info/engine/opensearch.php" title="" />
+<link rel="alternate" type="application/rss+xml" title="" href="https://kakt.info/rss.xml" />
+<script type="text/javascript" src="/engine/classes/js/jquery.js"></script>
+<script type="text/javascript" src="/engine/classes/js/jqueryui.js"></script>
+<script type="text/javascript" src="/engine/classes/js/dle_js.js"></script>
+<script type="text/javascript" src="/engine/classes/highslide/highslide.js"></script>
+
+<link media="screen" href="/templates/kakt/style/styles.css" type="text/css" rel="stylesheet" />
+<link media="screen" href="/templates/kakt/style/engine.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/templates/kakt/js/libs.js"></script>
+<!-- SAPE RTB JS -->
+<script
+    async="async"
+    src="https://cdn-rtb.sape.ru/rtb-b/js/750/2/12750.js"
+    type="text/javascript">
+</script>
+<!-- SAPE RTB END -->
+</head>
+<body>
+<div id="loading-layer" style="display:none"><div id="loading-layer-text">Загрузка. Пожалуйста, подождите...</div></div>
+<script language="javascript" type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'kakt';
+var dle_wysiwyg    = 'no';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена"];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_complaint  = 'Укажите текст вашей жалобы для администрации:';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_del_news   = 'Удалить статью';
+var allow_dle_delete_news   = false;
+var dle_search_delay   = false;
+var dle_search_value   = '';
+$(function(){
+	FastSearch();
+});//-->
+</script><script language="javascript" type="text/javascript">  
+<!--  
+	hs.graphicsDir = '/engine/classes/highslide/graphics/';
+	hs.outlineType = 'rounded-white';
+	hs.numberOfImagesToPreload = 0;
+	hs.showCredits = false;
+	
+	hs.lang = {
+		loadingText :     'Загрузка...',
+		playTitle :       'Просмотр слайдшоу (пробел)',
+		pauseTitle:       'Пауза',
+		previousTitle :   'Предыдущее изображение',
+		nextTitle :       'Следующее изображение',
+		moveTitle :       'Переместить',
+		closeTitle :      'Закрыть (Esc)',
+		fullExpandTitle : 'Развернуть до полного размера',
+		restoreTitle :    'Кликните для закрытия картинки, нажмите и удерживайте для перемещения',
+		focusTitle :      'Сфокусировать',
+		loadingTitle :    'Нажмите для отмены'
+	};
+	
+//-->
+</script>
+<div class="dirt" align="center"><a href="/" class="logo"></a></div>
+<div class="wrapper">
+	<!--topmenu-->
+    	<div id="topmenu" align="center">
+	<table cellpadding="0" cellspacing="0" border="0">
+    	<tr>
+        	<td><a href="/">Главная</a></td>
+            <td><a href="/novosti/">Новости</a></td>
+            <td><a href="/stati/">Статьи</a></td>
+            <td><a href="/galereja/">Галерея</a></td>
+            <td><a href="/">Карта сайта</a></td>
+        </tr>
+    </table>
+    </div>
+	<!--/topmenu-->
+</div>
+  
+<!--image--><div align="center"><div class="img_main"></div></div> <!--/image-->
+    <div align="center"></div>
+<div class="wrapper">
+    <!--content-->
+    <div class="content">
+    	
+        
+    	<img src="/templates/kakt/images/my.png" align="left" style="margin: 0px 20px 0px 0px;" /> Здравствуйте! С Вами по-прежнему я, Светлана Лунёва из северного города Череповца. И, конечно же, мои кактусы - колючие дети пустыни. Если Вы впервые попали на этот ресурс - добро пожаловать!<br /><br />
+        Начнём с ознакомительной экскурсии.<br /> Здесь Вы сможете вместе со мной пройти весь путь от посева кактусов до получения собственных семян. Вы познакомитесь с коллекцией, состоящей исключительно из представителей семейства Cactaceae, полюбуетесь цветущими растениями, оцените их великолепные колючки. Вы сможете выбрать среди моих кактусов наиболее интересные для Вас виды и узнать о них побольше в комментариях, сопровождающих каждое наименование в фотогалерее.<br /><br />
+        Здесь найдутся и целые статьи, посвящённые отдельным родам и даже видам, особенно интересующим автора. Кроме того, у Вас есть возможность пополнить собственную коллекцию - для этого на сайте размещены каталоги семян и растений. Если же такое стремление у Вас отсутствует - всё-таки не уходите с пустыми руками: сделайте прекрасный подарок своему монитору, установив на рабочий стол понравившиеся обои с изображением цветущего кактуса. <br /><br />
+        Польза для здоровья от этого будет несомненной - и нам, от созерцания красивой картинки, и спасённому от горькой участи живому кактусу, который мог бы влачить жалкое существование в полутьме на компьютерном столике, в то время как на самом деле нуждается в... А впрочем, давайте просто войдём на сайт и начнём упорядоченное знакомство с кактусами - колючими детьми пустыни, которые, оказывается, вполне могут прижиться в любом доме.<br /><br />
+        Достаточно знать основные правила ухода за суккулентными растениями, каковыми и являются Cactaceae, и иметь желание обеспечить своих питомцев всем необходимым для полноценной жизни. Если у Вас останутся вопросы после ознакомления с имеющейся на сайте информацией о кактусах - Вы можете задать их в гостевой книге.<br /><br />
+        Итак - добро пожаловать на сайт, посвящённый кактусам!
+        
+		<div id='dle-content'>    
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/novosti/1711-kak-vybrat-molbert.html"><!--TBegin--><a href="http://kakt.info/uploads/posts/2020-01/1579610847_819807_8950.jpeg" onclick="return hs.expand(this)" ><img align="left" src="http://kakt.info/uploads/posts/2020-01/thumbs/1579610847_819807_8950.jpeg" alt='' title=''  /></a><!--TEnd--><br /></a></div>
+        <h2><a href="https://kakt.info/novosti/1711-kak-vybrat-molbert.html">Как выбрать мольберт?</a></h2>
+        <div id="news-id-1711" style="display:inline;">По видам все мольберты подразделяют на: мольберт-тренога, магнитная доска, стационарный мольберт, мольберт-хлопушку, настольный мольберт, мольберт-планшет. Необходимо учитывать сколько у художника места и где он сможет расположить мольберт. Мольберт должен быть устойчивым, иначе художник все время будет отвлекаться и не сможет сконцентрировать свое внимание на рисунке.<br /></div>
+        <br><b>21 янв 2020</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/main/1707-harakteristiki-dizelnogo-topliva.html"></a></div>
+        <h2><a href="https://kakt.info/main/1707-harakteristiki-dizelnogo-topliva.html">Характеристики дизельного топлива</a></h2>
+        <div id="news-id-1707" style="display:inline;"><!--TBegin--><a href="http://kakt.info/uploads/posts/2018-12/1545911080_1667611.jpg" onclick="return hs.expand(this)" ><img align="left" src="http://kakt.info/uploads/posts/2018-12/thumbs/1545911080_1667611.jpg" alt='' title=''  /></a><!--TEnd-->Дизельное топливо – один из популярных продуктов нефтепереработки, нашедший применение в двигателях наземной и водной техники. Подобные моторы характеризуются высокой степенью сжатия, что обеспечивает уменьшение расхода горючего на 30% по сравнению с бензиновыми собратьями.<br /></div>
+        <br><b>27 дек 2018</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/main/1706-vydayuschiesya-dostoprimechatelnosti-belarusi.html"></a></div>
+        <h2><a href="https://kakt.info/main/1706-vydayuschiesya-dostoprimechatelnosti-belarusi.html">Выдающиеся достопримечательности Беларуси</a></h2>
+        <div id="news-id-1706" style="display:inline;"><!--TBegin--><a href="http://kakt.info/uploads/posts/2018-11/1543206205_brest4.jpg" onclick="return hs.expand(this)" ><img align="left" src="http://kakt.info/uploads/posts/2018-11/thumbs/1543206205_brest4.jpg" alt='' title=''  /></a><!--TEnd--> Тем, кто никогда не был в Беларуси, обязательно стоит посетить эту удивительную страну. Здесь есть на что посмотреть. Старинные костелы и церкви, часовни и замки, монастыри и храмы, усадьбы и ратуши поражают своим великолепием. Но многих туристов, которые помнят что значит СССР, интересуют такие выдающиеся объекты, как Брест и Брестская крепость.<br /></div>
+        <br><b>26 ноя 2018</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/main/1705-akvapark-otdyh-na-vode-v-lyuboe-vremya-goda.html"></a></div>
+        <h2><a href="https://kakt.info/main/1705-akvapark-otdyh-na-vode-v-lyuboe-vremya-goda.html">Аквапарк - отдых на воде в любое время года!</a></h2>
+        <div id="news-id-1705" style="display:inline;"><!--dle_image_begin:http://kakt.info/uploads/posts/2018-11/1543166567_822.jpeg|left--><img src="/uploads/posts/2018-11/1543166567_822.jpeg" align="left" alt="" title=""  /><!--dle_image_end-->  Аквапарки любят и дети, и взрослые. Они дают нам возможность в любой сезон года полноценно отдохнуть и получить много ярких эмоций. Для некоторых посещение аквапарка становится экстремальным событием в жизни, для других возможностью провести весело время в кругу семьи. Летом поход в аквапарк поможет избавиться от невыносимой жары, не покидая черту города, а зимой аквапарк позволяет вспомнить все прелести пляжного сезона. <br /></div>
+        <br><b>25 ноя 2018</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/stati/1704-kak-vybrat-podarok-malchiku-na-10-let.html"><!--dle_image_begin:http://kakt.info/uploads/posts/2018-05/1527709536_1527618321_732945-8125.jpg|left--><img src="/uploads/posts/2018-05/1527709536_1527618321_732945-8125.jpg" align="left" alt="" title=""  /><!--dle_image_end--><br /></a></div>
+        <h2><a href="https://kakt.info/stati/1704-kak-vybrat-podarok-malchiku-na-10-let.html">Как выбрать подарок мальчику на 10 лет?</a></h2>
+        <div id="news-id-1704" style="display:inline;">Те родители, в чьих семьях подрастают маленькие дети, знают как важно правильно выбрать подарок на День рождения малыша или по другому поводу. Но если Вы идете в гости на детский День рождения и не уверены в выборе подарка, то стоит поискать информацию в интернете. У каждого из нас есть друзья с маленькими детьми, покрестники, племянники, которым нужно выбрать подходящий подарок.</div>
+        <br><b>30 мая 2018</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/novosti/1625-kak-vybrat-kozhanuyu-zhenskuyu-kurtku.html"><br /></a></div>
+        <h2><a href="https://kakt.info/novosti/1625-kak-vybrat-kozhanuyu-zhenskuyu-kurtku.html">Как выбрать кожаную женскую куртку?</a></h2>
+        <div id="news-id-1625" style="display:inline;"><!--dle_image_begin:http://kakt.info/uploads/posts/2017-08/1501788593_1907-129.jpg|left--><img src="/uploads/posts/2017-08/1501788593_1907-129.jpg" align="left" alt="" title=""  /><!--dle_image_end--> Нет ничего более практичного в женском гардеробе, чем кожаная куртка. Эту одежду носят абсолютно все. Весной и осенью, а также в прохладные летние вечера без кожаной куртки подходящего фасона не обойтись. Кожаные куртки бывают мужские и женские. Но женских всегда намного больший выбор. В продаже можно увидеть кожаные куртки самых разных моделей, оттенков, размеров. Бывают утепленные кожаные куртки на меху, которые можно носить зимой. Куртки на тканевой подкладке подходят для демисезонной носки.</div>
+        <br><b>03 авг 2017</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/stati/1603-timbilding-otlichnyy-sposob-splocheniya-kollektiva-i-uvlekatelnoe-vremyaprovozhdenie.html"><!--TBegin--><a href="http://kakt.info/uploads/posts/2017-06/1497725240_5735ca978de3a115056696.jpg" onclick="return hs.expand(this)" ><img align="left" src="http://kakt.info/uploads/posts/2017-06/thumbs/1497725240_5735ca978de3a115056696.jpg" alt='' title=''  /></a><!--TEnd--></a></div>
+        <h2><a href="https://kakt.info/stati/1603-timbilding-otlichnyy-sposob-splocheniya-kollektiva-i-uvlekatelnoe-vremyaprovozhdenie.html">Тимбилдинг - отличный способ сплочения коллектива и увлекательное времяпровождение!</a></h2>
+        <div id="news-id-1603" style="display:inline;">Те из нас, кто работает в крупных компаниях, знают что такое тимбилдинг и скорее всего в восторге от этого понятия. Активный корпоративный отдых, целью которого является налаживание внутриколлективных отношений - это и есть тимбилдинг.<br /></div>
+        <br><b>17 июн 2017</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/novosti/1522-vybiraem-fidernoe-udilische.html"><!--TBegin--><a href="http://kakt.info/uploads/posts/2017-01/1485008837_page_kak-vyibrat-fidernyie-udilishha-1-553_w870_h580.jpg" onclick="return hs.expand(this)" ><img align="left" src="http://kakt.info/uploads/posts/2017-01/thumbs/1485008837_page_kak-vyibrat-fidernyie-udilishha-1-553_w870_h580.jpg" alt='' title=''  /></a><!--TEnd--><br /></a></div>
+        <h2><a href="https://kakt.info/novosti/1522-vybiraem-fidernoe-udilische.html">Выбираем фидерное удилище</a></h2>
+        <div id="news-id-1522" style="display:inline;">Многие мужчины имеют определенное хобби, помогающее им расслабиться после тяжелой рабочей недели. Одни отправляются в спортзал на тренировку, а другие с друзьями на охоту или рыбалку. Рыболовов больше всего среди моих знакомых. Поэтому поговорим сегодня о рыбалке. <br />Практически не осталось рыболовов, которые вылавливают рыбу по-старинке - на обычную, самую простую бамбуковую удочку.</div>
+        <br><b>21 янв 2017</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/novosti/1492-kak-sdelat-mylo-originalnoy-formy-na-naturalnoy-osnove-samostoyatelno.html"><!--TBegin--><a href="http://kakt.info/uploads/posts/2016-11/1479369428_1-1.jpg" onclick="return hs.expand(this)" ><img align="left" src="http://kakt.info/uploads/posts/2016-11/thumbs/1479369428_1-1.jpg" alt='' title=''  /></a><!--TEnd--><br /></a></div>
+        <h2><a href="https://kakt.info/novosti/1492-kak-sdelat-mylo-originalnoy-formy-na-naturalnoy-osnove-samostoyatelno.html">Как сделать мыло оригинальной формы на натуральной основе самостоятельно?</a></h2>
+        <div id="news-id-1492" style="display:inline;"><p />Мыло, сваренное в домашних условиях содержит много полезных компонентов, именно поэтому Ваша коже сразу ощущает результат. Мыло может иметь скрабирующий эффект, увлажнять и питать кожу. Некоторые виды мыла содержат эфирные масла и заставляют расслабиться после тяжелого рабочего дня. Красивая форма и яркий цвет, натуральные вкрапления делают это мыло оригинальным на вид и приятным в использовании. Именно поэтому так часто мы дарим друг другу мыло ручной работы в подарок.</div>
+        <br><b>17 ноя 2016</b><br>
+      </div>
+      
+        
+      <div class="news">
+        <div class="shortstory_img"><a href="https://kakt.info/novosti/1490-gde-i-kak-mozhno-bystro-oformit-mikrokredit.html"><!--dle_image_begin:http://kakt.info/uploads/posts/2016-11/1479210961_srochniy-zaim.jpg|left--><img src="/uploads/posts/2016-11/1479210961_srochniy-zaim.jpg" align="left" alt="" title=""  /><!--dle_image_end--><br /></a></div>
+        <h2><a href="https://kakt.info/novosti/1490-gde-i-kak-mozhno-bystro-oformit-mikrokredit.html">Где и как можно быстро оформить микрокредит?</a></h2>
+        <div id="news-id-1490" style="display:inline;"><p />С каждым бывают ситуации, когда нужна экстренная финансовая помощь. Не всегда есть друзья или родственники, к которым удобно обратиться и одолжить деньги. Если отправиться в банк за кредитом, то это займет очень много времени. Сегодня многих людей спасает интернет. В сети могут предоставить краткосрочные займы под любые цели. Важно найти проверенную компанию, которая специализируется на этом виде деятельности. Отыскать ее можно по отзывам в сети.</div>
+        <br><b>15 ноя 2016</b><br>
+      </div>
+      
+            <div class="navogation">
+            Страницы: &nbsp;&nbsp; « <span>предыдущая</span> &nbsp;&nbsp; <a href="https://kakt.info/page/2/">следующая</a> »
+            <div class="page"><span>1</span> <a href="https://kakt.info/page/2/">2</a> <a href="https://kakt.info/page/3/">3</a> <a href="https://kakt.info/page/4/">4</a> <a href="https://kakt.info/page/5/">5</a> <a href="https://kakt.info/page/6/">6</a> <a href="https://kakt.info/page/7/">7</a> <a href="https://kakt.info/page/8/">8</a> <a href="https://kakt.info/page/9/">9</a> <a href="https://kakt.info/page/10/">10</a> <span class="nav_ext">...</span> <a href="https://kakt.info/page/63/">63</a></div>
+        </div></div>
+        <div class="sapecont"><script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script></div>
+        <div class="sapecont"><script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=tl9d272ba9219972b048d476e537efa72440cd5e31" type="text/javascript"></script></div>
+        <div class="sapecont"></div>
+
+    </div>
+    <!--/content-->
+</div>
+
+<!--footer-->
+<div id="footer">
+	<div class="wrapper">
+    	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+        	<tr>
+            	<td>&copy; «Колючие дети пустыни» <a href="/">Светлана Лунёва</a></td>
+            	<td align="right" class="counter"><!--LiveInternet counter--><script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t11.1;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'><\/a>")</script><!--/LiveInternet--></td>
+            <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter32382775 = new Ya.Metrika({
+                    id:32382775,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32382775" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=1657471" type="text/javascript"></script>
+</tr>
+        </table>
+        <div class="footer_info">
+        	На данном сайте размещены авторские материалы. Копирование и перепечатка для любой публикации возможны только после согласования с администратором, при условии обязательного указания автора и наличия прямой ссылки на сайт <a href="/">Колючие дети пустыни</a>.<br>{mnt}<br />
+        </div>
+    </div>
+</div>
+<!--/footer-->
+</body>
+</html>
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

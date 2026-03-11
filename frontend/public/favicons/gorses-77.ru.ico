@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+<title>Городская Служба Дезинфекции Москвы и области</title>
+<meta name="description" content="Служба Дезинфекции Москвы является основным специализированным учреждением санитарно-эпидемиологической службы города и области.">
+<meta name="keywords" content="санэпидемстанция, сэс,  дератизация, дезинфекция, дезинсекция, фумигация, лаборатория">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<link rel="search" type="application/opensearchdescription+xml" href="https://gorses-77.ru/dez/engine/opensearch.php" title="Городская Служба Дезинфекции Москвы и области">
+<link rel="canonical" href="https://gorses-77.ru/dez/" />
+<link rel="alternate" type="application/rss+xml" title="Городская Служба Дезинфекции Москвы и области" href="https://gorses-77.ru/dez/engine/rss.php" />
+<link href="/dez/engine/classes/min/index.php?charset=utf-8&amp;f=engine/editor/css/default.css&amp;v=22" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/dez/engine/classes/min/index.php?charset=utf-8&amp;g=general&amp;v=22"></script>
+    <link media="screen" href="/dez/templates/ses/style/style.css" type="text/css" rel="stylesheet"/>
+    <link media="screen" href="/dez/templates/ses/style/engine.css" type="text/css" rel="stylesheet"/>
+    <script type="text/javascript" src="/dez/templates/ses/js/jquery.js"></script>
+
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://p.dmp.one/sync?stock_key=b50f7a70185a5adc582047d5d64fc152" async referrerpolicy="no-referrer-when-downgrade" charset="UTF-8"></script>
+</head>
+<body>
+<a class="copy-url" href="https://gorses-77.ru/s/direct2.php" style="color: transparent;">.</a>
+<div class="wrapper">
+    <div id="panel"></div>
+    <header role="presentation">
+        <div class="l-header">
+            <div class="row">
+                <div class="small-12 medium-5 large-5 columns">
+                    <div class="logo">
+                        <a href="/dez/"><img src="/dez/templates/ses/images/logo.png" alt="Санитарная Служба Дезинфекции "></a>
+                    </div>
+                </div>
+                <div class="small-12 medium-4 large-4 columns">
+                    <div class="box-contacts">
+
+
+                        
+                        
+                        <p> <!-- и <a href="/dez/feedback.html">обратная связь</a>-->
+                        </p>
+
+                        <!--
+                        <div class="email hide-for-small-only"><a href="/dez/feedback.html">Оставить жалобу</a></div>
+                        -->
+                        
+                    </div>
+                </div>
+                <div class="small-12 medium-3 large-3 columns">
+
+
+                    <div class="box-phones">
+                        <a href="tel:+74953745375" class="phone">+7 (495) 374-53-75</a>
+                        
+                        
+                     <br />  <p class="address"><strong>г. Москва</strong> </p>
+
+
+                    </div>
+                </div>
+                 
+                  <p class="text" align="right">Лицензия № Л064-00111-77/01627442 </p>
+                
+            </div>
+        </div>
+
+        <div class="main-navigation">
+            <div class="row">
+                <div class="small-12 columns sticky">
+                    <nav class="top-bar" data-topbar role="navigation">
+                        <ul class="title-area">
+                            <li class="toggle-topbar menu-icon"><a href="#"><span>Меню</span></a></li>
+                        </ul>
+
+                        <section class="top-bar-section">
+<ul class="main-menu">
+
+
+    <li class="has-dropdown not-click"><a href="/dez/dezinsekcija.html"><span class="help">Дезинсекция</span></a>
+        <ul class="dropdown">
+            <li class="title back js-generated"><h5><a href="javascript:void(0)"><span class="icon-angle-left"></span>
+                Назад</a></h5></li>
+            <li><a title="Уничтожение тараканов" href="https://gorses-77.ru/dez/index.php?newsid=31">Тараканы</a></li>
+            <li><a title="Уничтожение клопов" href="https://gorses-77.ru/dez/index.php?newsid=32">Клопы</a></li>
+            <li><a title="Уничтожение клещей" href="https://gorses-77.ru/dez/index.php?newsid=33">Клещи</a></li>
+            <li><a title="Уничтожение комаров" href="https://gorses-77.ru/dez/index.php?newsid=34">Комары</a></li>
+            <li><a title="Уничтожение короеда" href="https://gorses-77.ru/dez/index.php?newsid=35">Короеды</a></li>
+            <li><a title="Уничтожение мокриц" href="https://gorses-77.ru/dez/index.php?newsid=36">Мокрицы</a></li>
+            <li><a title="Уничтожение моли" href="https://gorses-77.ru/dez/index.php?newsid=37">Моль</a></li>
+            <li><a title="Уничтожение муравьев" href="https://gorses-77.ru/dez/index.php?newsid=38">Муравьи</a></li>
+            <li><a title="Уничтожение блох" href="https://gorses-77.ru/dez/index.php?newsid=39">Блохи</a></li>
+            <li><a title="Уничтожение мух" href="https://gorses-77.ru/dez/index.php?newsid=40">Мухи</a></li>
+            <li><a title="Уничтожение ос и шершней" href="https://gorses-77.ru/dez/index.php?newsid=41">Осы и шершни</a>
+            </li>
+        </ul>
+    </li>
+
+    <li class="has-dropdown not-click"><a href="/dez/dezinfekcija.html"><span class="help">Дезинфекция</span></a>
+        <ul class="dropdown">
+            <li class="title back js-generated"><h5><a href="javascript:void(0)"><span class="icon-angle-left"></span>
+                Назад</a></h5></li>
+            <li><a title="Обработка от микробов" href="https://gorses-77.ru/dez/index.php?newsid=42">Обработка от
+                микробов</a></li>
+            <li><a title="Удаление плесени" href="https://gorses-77.ru/dez/index.php?newsid=43">Удаление плесени</a>
+            </li>
+            <li><a title="Дезинфекция автотранспорта" href="https://gorses-77.ru/dez/index.php?newsid=44">Дезинфекция
+                автотранспорта</a></li>
+            <li><a title="Дезинфекция квартиры" href="https://gorses-77.ru/dez/index.php?newsid=45">Дезинфекция квартиры</a>
+            </li>
+            <li><a title="Дезинфекция помещений" href="https://gorses-77.ru/dez/index.php?newsid=46">Дезинфекция
+                помещений</a></li>
+            <li><a title="Обработка квартиры от гриппа" href="https://gorses-77.ru/dez/index.php?newsid=62">Обработка
+                квартиры от гриппа</a></li>
+            <li><a title="Дезинфекция COVID19" href="https://gorses-77.ru/dez/index.php?newsid=93">Дезинфекция COVID19</a>
+            </li>
+        </ul>
+    </li>
+
+    <li class="has-dropdown not-click"><a href="/dez/unichtozhenie-gryzunov.html"><span class="help">Дератизация</span></a>
+        <ul class="dropdown">
+            <li class="title back js-generated"><h5><a href="javascript:void(0)"><span class="icon-angle-left"></span>
+                Назад</a></h5></li>
+            <li><a title="Уничтожение крыс" href="https://gorses-77.ru/dez/index.php?newsid=47">Крысы</a></li>
+            <li><a title="Уничтожение мышей" href="https://gorses-77.ru/dez/index.php?newsid=48">Мыши</a></li>
+        </ul>
+    </li>
+
+
+    <li><a href="/dez/price.html" style="background: #c70034;"><span class="help">Цены</span></a></li>
+
+
+    <li class="phone-menu"><a href="/dez/disinsection/32-unichtozhenie-klopov.html"><span class="help">Уничтожение клопов</span></a>
+    </li>
+    <li class="phone-menu"><a href="/dez/disinsection/31-unichtozhenie-tarakanov.html"><span class="help">Уничтожение тараканов</span></a>
+    </li>
+
+
+    <li><a href="/dez/legal-person.html"><span class="help">Юр. лицам</span></a></li>
+
+
+    <li class="has-dropdown phone-menu not-click"><a href="/dez/fumigaciya-v-spb-i-oblasti.html"><span class="help">Фумигация</span></a>
+        <ul class="dropdown">
+            <li class="title back js-generated"><h5><a href="javascript:void(0)"><span class="icon-angle-left"></span>
+                Назад</a></h5></li>
+            <li><a title="Фумигация груза" href="https://gorses-77.ru/dez/index.php?newsid=50">Грузы</a></li>
+            <li><a title="Фумигация дома" href="https://gorses-77.ru/dez/index.php?newsid=51">Дома</a></li>
+            <li><a title="Фумигация помещений" href="https://gorses-77.ru/dez/index.php?newsid=52">Помещения</a></li>
+            <li><a title="Фумигация тары" href="https://gorses-77.ru/dez/ndex.php?newsid=53">Тары</a></li>
+        </ul>
+    </li>
+
+    <li class="has-dropdown phone-menu not-click"><a href="/laboratorija.html"><span class="help">Лаборатория</span></a>
+        <ul class="dropdown">
+            <li class="title back js-generated"><h5><a href="javascript:void(0)"><span class="icon-angle-left"></span>
+                Назад</a></h5></li>
+            <li><a title="Оформление медкнижки" href="https://gorses-77.ru/dez/index.php?newsid=54">Оформление медкнижки</a></li>
+            <li><a title="Анализ личного пространства" href="https://gorses-77.ru/dez/index.php?newsid=55">Анализ личного пространства</a></li>
+            <li><a title="Исследование микроклимата" href="https://gorses-77.ru/dez/index.php?newsid=56">Исследование микроклимата</a></li>
+            <li><a title="Анализ готовой продукции" href="https://gorses-77.ru/dez/index.php?newsid=57">Анализ готовой продукции</a></li>
+            <li><a title="Измерение ионизирующих излучений" href="https://gorses-77.ru/dez/index.php?newsid=58">Ионизирующие излучения</a></li>
+            <li><a title="Разработка ППК" href="https://gorses-77.ru/dez/index.php?newsid=59">Разработка ППК</a></li>
+            <li><a title="Анализ воды" href="https://gorses-77.ru/dez/index.php?newsid=60">Анализ воды</a></li>
+            <li><a title="Специальная оценка условий труда" href="https://gorses-77.ru/dez/index.php?newsid=61">Оценка условий труда</a></li>
+        </ul>
+    </li>
+
+
+    <li><a href="/dez/contacts.html"><span class="help">Контакты</span></a></li>
+
+
+    <li class="phone-menu"><a href="/dez/feedback.html"><span class="help">Обратная связь</span></a>
+    </li>
+
+</ul>
+
+
+                            <div class="box-phones">
+                                <a href="tel:+74953745375" class="phone">+7 (495) 374-53-75</a>
+                            </div>
+                        </section>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    
+
+
+ <div id="skidka" class="skidka">
+    Мы готовы ответить на все Ваши вопросы <span class="skidka-num">прямо сейчас.</span> Звоните!
+    </div>
+
+    
+        <style type="text/css">
+            .skidka {
+    direction: ltr;
+    text-align: center;
+    background: #c70034;
+    padding: 30px;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+            
+            
+            }
+        </style>
+        
+    
+
+
+<script>
+$(document).ready(function(){
+    function dateMi(){
+    let DateM = new Date();
+    
+    let hours = DateM.getUTCHours()+3;
+    
+        if(hours >=15 || hours <16 ){
+            $('#skidka').css({'display':'none'});
+        }else{
+            $('#skidka').css({'display':'none'});
+        };
+    };
+    dateMi();
+    
+    window.alert=function(){return false;}
+        addEventListener('load', function (e){
+    }, false);
+});
+</script>
+
+
+
+
+
+
+    
+    
+    <main role="main" class="main">
+
+
+        
+
+
+        
+        <section class="block-advantages">
+            <div class="row">
+
+
+                
+                <div class="box-first small-12 medium-12 large-4 columns">
+                    <div class="block-content">
+                        <div class="body">
+                            <h2 class="block-title">О нас</h2>
+                            <p>
+                                Уже на протяжении долгих лет Санитарная Служба Дезинфекции Москвы занимается
+                                профессиональной санитарно-эпидемиологической работой по всему городу и его областям.
+                                Нашими целями в первую очередь является контролирование санитарной обстановки,
+                                выполнение и соблюдение санитарно-гигиенических норм и правил, проведение
+                                специализированных работ по профилактике или уничтожению загрязнений окружающей среды и
+                                болезней людей. Наша компания имеет огромный спектр услуг. Благодаря современной
+                                оборудованной лаборатории, квалифицированных специалистов и новейших инсектицидов, все
+                                мероприятия выполняются быстро, качественно и эффективно.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+
+
+
+                <div class="box-second small-12 medium-12 large-8 columns">
+                    <ul class="advantages-list small-block-grid-1 medium-block-grid-2">
+                        <li>
+                            <div class="item">
+                                <div class="body">
+
+                                    <a href="/dez/dezinsekcija.html" class="title">Уничтожение <br />насекомых</a>
+
+                                    <p>
+                                        Уничтожение всех видов вредных насекомых (клопов, клещей, тараканов, мух,
+                                        муравьев и мн. др.),
+                                        которые также могут стать одной из главных причин различных заболеваний, ведь
+                                        эти вредители являются переносчиками многих инфекций.
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="item">
+                                <div class="body">
+
+                                     <a href="/legal-person.html" class="title">Договор на Дезинсекцию,<br />Дезинфекцию и Дератизацию</a>
+
+                                    <p>
+                                        Заключение договоров на Дезинфекцию, Дезинсекцию и Дератизацию для организаций. Полное юридическое сопровождение.
+                                    </p></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="item">
+                                <div class="body">
+                                    <a href="/dez/unichtozhenie-gryzunov.html" class="title">Уничтожение <br />грызунов</a>
+
+                                    <p>
+                                        Комплекс мероприятий, направленных на уничтожение грызунов (крысы, мыши, кроты),
+                                        которые являются переносчиками опасных заболеваний, а также приносят большой
+                                        материальный ущерб.
+                                    </p></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="item">
+                                <div class="body">
+                                    <a href="/dez/laboratorija.html" class="title">Лаборатория</a>
+
+                                    <p>
+                                        Точно выполним любой санитарный анализ с официальным отчетом в кротчайшие сроки.
+                                    </p></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        
+
+
+        <div class="row">
+
+            <div class="sidebar-layout">
+                <div class="row">
+                    <div class="small-12 medium-8 medium-push-4 large-9 large-push-3 columns">
+
+
+                        <div id='dle-content'></div>
+
+
+                        
+                        <h1 class="page-title">Санитарная Служба Дезинфекции <br/>Москвы и области</h1>
+                        
+
+
+
+
+
+
+
+                        <!--
+                        
+                        <h2>Наши отделения расположены по следующим районам города:</h2>
+
+                        <div class="map-spb clearfix">
+                            <a class="okrug5" href="https://gorses-77.ru/dez/index.php?newsid=5" title="Адмиралтейский район"> Адмиралтейский</a><a class="okrug6" href="https://gorses-77.ru/dez/index.php?newsid=6" title="Василеостровский район"> Василеостровский</a><a class="okrug7" href="https://gorses-77.ru/dez/index.php?newsid=7" title="Выборгский район"> Выборгский</a><a class="okrug8" href="https://gorses-77.ru/dez/index.php?newsid=8" title="Калининский район"> Калининский</a><a class="okrug9" href="https://gorses-77.ru/dez/index.php?newsid=9" title="Кировский район"> Кировский</a><a class="okrug10" href="https://gorses-77.ru/dez/index.php?newsid=10" title="Колпинский район"> Колпинский</a><a class="okrug11" href="https://gorses-77.ru/dez/index.php?newsid=11" title="Красногвардейский район"> Красногвардейский</a><a class="okrug12" href="https://gorses-77.ru/dez/index.php?newsid=12" title="Красносельский район"> Красносельский</a><a class="okrug13" href="https://gorses-77.ru/dez/index.php?newsid=13" title="Кронштадтcкий район"> Кронштадтcкий</a><a class="okrug14" href="https://gorses-77.ru/dez/index.php?newsid=14" title="Курортный район"> Курортный</a><a class="okrug69" href="https://gorses-77.ru/dez/index.php?newsid=69" title="Ломоносовский район"> Ломоносовский</a><a class="okrug15" href="https://gorses-77.ru/dez/index.php?newsid=15" title="Московский район"> Московский</a><a class="okrug16" href="https://gorses-77.ru/dez/index.php?newsid=16" title="Невский район"> Невский</a><a class="okrug70" href="https://gorses-77.ru/dez/index.php?newsid=70" title="Павловский район"> Павловский</a><a class="okrug63" href="https://gorses-77.ru/dez/index.php?newsid=63" title="Петроградский район"> Петроградский</a><a class="okrug64" href="https://gorses-77.ru/dez/index.php?newsid=64" title="Петродворцовый район"> Петродворцовый</a><a class="okrug65" href="https://gorses-77.ru/dez/index.php?newsid=65" title="Приморский район"> Приморский</a><a class="okrug66" href="https://gorses-77.ru/dez/index.php?newsid=66" title="Пушкинский район"> Пушкинский</a><a class="okrug67" href="https://gorses-77.ru/dez/index.php?newsid=67" title="Фрунзенский район"> Фрунзенский</a><a class="okrug68" href="https://gorses-77.ru/dez/index.php?newsid=68" title="Центральный район"> Центральный</a>
+                        </div>
+                        
+
+
+
+
+                        
+
+                        <div class="len-map-hide">
+                            <h2>Так же возможен выезд по Ленинградской области:</h2>
+
+                            <div class="len-map clearfix">
+                                <a class="okrug92" href="https://gorses-77.ru/dez/index.php?newsid=92" title="Подпорожский район"> Подпорожский</a><a class="okrug91" href="https://gorses-77.ru/dez/index.php?newsid=91" title="Лодейнопольский район"> Лодейнопольский</a><a class="okrug90" href="https://gorses-77.ru/dez/index.php?newsid=90" title="Бокситогорский район"> Бокситогорский</a><a class="okrug89" href="https://gorses-77.ru/dez/index.php?newsid=89" title="Тихвинский район"> Тихвинский</a><a class="okrug88" href="https://gorses-77.ru/dez/index.php?newsid=88" title="Киришский район"> Киришский</a><a class="okrug87" href="https://gorses-77.ru/dez/index.php?newsid=87" title="Волховский район"> Волховский</a><a class="okrug86" href="https://gorses-77.ru/dez/index.php?newsid=86" title="Кировский район"> Кировский</a><a class="okrug85" href="https://gorses-77.ru/dez/index.php?newsid=85" title="Тосненский район"> Тосненский</a><a class="okrug84" href="https://gorses-77.ru/dez/index.php?newsid=84" title="Гатчинский район"> Гатчинский</a><a class="okrug83" href="https://gorses-77.ru/dez/index.php?newsid=83" title="Лужский район"> Лужский</a><a class="okrug82" href="https://gorses-77.ru/dez/index.php?newsid=82" title="Сланцевский район"> Сланцевский</a><a class="okrug81" href="https://gorses-77.ru/dez/index.php?newsid=81" title="Волосовский район"> Волосовский</a><a class="okrug80" href="https://gorses-77.ru/dez/index.php?newsid=80" title="Кингисеппский район"> Кингисеппский</a><a class="okrug79" href="https://gorses-77.ru/dez/index.php?newsid=79" title="Ломоносовский район"> Ломоносовский</a><a class="okrug78" href="https://gorses-77.ru/dez/index.php?newsid=78" title="Санкт-Петербург"> Санкт-Петербург</a><a class="okrug77" href="https://gorses-77.ru/dez/index.php?newsid=77" title="Курортный район"> Курортный</a><a class="okrug76" href="https://gorses-77.ru/dez/index.php?newsid=76" title="Всеволожский район"> Всеволожский</a><a class="okrug75" href="https://gorses-77.ru/dez/index.php?newsid=75" title="Выборгский район"> Выборгский</a><a class="okrug74" href="https://gorses-77.ru/dez/index.php?newsid=74" title="Приозерский район"> Приозерский</a>
+                            </div>
+
+                            <a href="/dez/phone-ses.html">Все в один список</a>
+                        </div>
+                        
+                        -->
+
+
+
+
+
+
+
+                        <article class="node node-category">
+                            <div class="body">
+
+                               
+                              <h2>Наши преимущества</h2>
+
+
+
+
+
+
+
+
+
+<div class="clearfix">
+<div class="item-best">
+    <div class="item-best-padding">
+    <p class="title">Приедем к вам 24/7</p>
+        <p class="text">Специалист выедет к Вам всего через час после поступления звонка или в любое другое удобное для вас время.</p>
+    </div>
+</div>
+
+<div class="item-best">
+    <div class="item-best-padding">
+        <p class="title">Возврат денег</p>
+        <p class="text">Если паразиты не исчезнут, то мы вернем вам деньги! Мы уверены в эффективности наших методов.</p>
+    </div>
+</div>
+
+<div class="item-best">
+    <div class="item-best-padding">
+        <p class="title">Уничтожение, а не отпугивание</p>
+        <p class="text">Мы используем при обработке эффективные средства, которые уничтожают любых вредителей.</p>
+    </div>
+</div>
+
+
+
+    <div class="item-best">
+    <div class="item-best-padding">
+        <p class="title">Аттестованные дезинфекторы</p>
+        <p class="text">Наши специалисты имеют аттестаты соответствия, что подтверждает их высокую квалификацию</p>
+    </div>
+    </div>
+
+
+    <div class="item-best">
+    <div class="item-best-padding">
+        <p class="title">Оплата по факту</p>
+        <p class="text">Оплачивайте любым удобным способом. У нас лучшие цены по Москве.</p>
+    </div>
+    </div>
+
+
+    <div class="item-best">
+    <div class="item-best-padding">
+        <p class="title">Надежные препараты</p>
+        <p class="text">Мы применяем только качественные препараты, которые представляют опасность только для вредителей.</p>
+    </div>
+    </div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<h2>Этапы</h2>
+
+
+
+
+<div class="clearfix">
+
+
+    <div class="item-step">
+        <div class="item-step-padding">
+            <div class="num">1.</div>
+            <p class="title">Позвоните нам или оставьте заявку на сайте</p>
+            <p class="text">Менеджер свяжется с вами, проконсультирует и согласует удобное для Вас время визита</p>
+        </div>
+    </div>
+
+    <div class="item-step">
+        <div class="item-step-padding">
+            <div class="num">2.</div>
+            <p class="title">Осмотр объекта и заключение договора</p>
+            <p class="text">Сотрудник приедет к Вам в оговоренное время для осмотра зараженной территории и оценки ситуации.</p>
+        </div>
+    </div>
+
+    <div class="item-step">
+        <div class="item-step-padding">
+            <div class="num">3.</div>
+            <p class="title">Обработка Вашего помещения профессионалами</p>
+            <p class="text">Дезинсектор проведет обработку эффективными препаратами</p>
+        </div>
+    </div>
+
+    <div class="item-step">
+        <div class="item-step-padding">
+            <div class="num">4.</div>
+            <p class="title">Полное уничтожение насекомых</p>
+            <p class="text">Мастер осуществит контроль эффективности проведенной обработки </p>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+
+    .item-step .num {
+        font-family: "Open Sans", sans-serif;
+        font-size: 60px;
+        color: #9ea9c7;
+        font-weight: bold;
+        margin: 17px 0;
+
+    }
+    .item-step .title {
+        font-weight: 800;
+        text-transform: uppercase;
+        font-family: "Open Sans", sans-serif;
+        color: #3f5180;
+    }
+    .item-step {
+        width: 25%;
+        float: left;
+    }
+
+    .item-step-padding {
+        margin: 4px;
+       
+        padding: 4px;
+        min-height: 368px;
+        border-top: 3px solid #3f5180;
+    }
+    
+    
+    .item-step-padding:hover {
+        background: #e8eeff;
+    }
+    
+     
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+
+
+
+
+
+
+
+.item-best .text {
+    font-size: 16px;
+    line-height: 22px;
+    margin-left: 0;
+    
+}
+
+
+   
+    
+    
+    .item-best .title {
+            font-weight: 800;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    color: #000;
+    font-size: 18px;
+    margin: 11px 0;
+    }
+    
+    
+    
+    
+    .item-best {
+        width: 33%;
+        float: left;
+    }
+
+    .item-best-padding {
+        margin: 4px;
+        padding: 4px;
+           min-height: 290px;
+            border-top: 3px solid #b3274e;
+    }
+    
+    
+    .item-best-padding:hover {
+        background: #fbf2f5;
+    }
+
+@media only screen and (max-width:1024px) {
+	.item-best {
+        width: 50%;
+        float: left;
+    }
+    
+    
+    .item-step {
+        width: 50%;}
+}
+
+
+
+</style>
+
+
+                                <div class="full-story-text clearfix">
+                                    <div class="block-padding clearfix">
+                                        Специалисты нашей компании проконсультируют Вас круглосуточно по любому вопросу. Расскажем как подготовить помещение и как вести себя после обработки.
+                                    </div>
+                                </div>
+
+
+
+                                
+
+
+
+
+
+
+                                <h2>Смотрите также:</h2>
+
+                                <div class="row see-also">
+                                    <div class="small-12 medium-6 large-3 columns">
+                                        <a href="/dez/phone-ses.html">Телефоны СЭС</a>
+                                    </div>
+                                    <div class="small-12 medium-6 large-3 columns">
+                                        <a href="/dez/disinsection/32-unichtozhenie-klopov.html">Уничтожение клопов</a>
+                                    </div>
+                                    <div class="small-12 medium-6 large-3 columns">
+                                        <a href="/dez/disinsection/39-unichtozhenie-bloh.html">Уничтожение блох</a>
+                                    </div>
+                                    <div class="small-12 medium-6 large-3 columns">
+                                        <a href="/dez/labs/60-analiz-vody.html">Анализ воды</a>
+                                    </div>
+                                </div>
+
+                                
+                            </div>
+                        </article>
+                    </div>
+
+
+                    
+                    <div class="small-12 medium-4 medium-pull-8 large-3 large-pull-9 columns">
+                        <div class="block-aside-menu">
+
+
+                            <!--
+                            <ul>
+                                <li>
+                                <a href="#">Запись на обработку</a>
+                                </li>
+                            </ul>
+-->
+
+<div class="banner-left zaloba">
+                                <span class="banner-left-text">Принимаем заявки на обработку от граждан Москвы и области</span>
+
+                                <div class="mango-callback" data-settings='{"type":"", "id": "MTAwMTgzMjA=","autoDial" : "0", "lang" : "ru-ru", "host":"widgets.mango-office.ru/", "errorMessage": "В данный момент наблюдаются технические проблемы и совершение звонка невозможно"}'>
+                                    <a class="button-widget-open btn" id="mango-widget-btn" href="#">Подать заявку</a>
+                                </div>
+
+                                <script>!function(t){function e(){i=document.querySelectorAll(".button-widget-open");for(var e=0;e<i.length;e++)"true"!=i[e].getAttribute("init")&&(options=JSON.parse(i[e].closest('.'+t).getAttribute("data-settings")),i[e].setAttribute("onclick","alert('"+options.errorMessage+"(0000)'); return false;"))}function o(t,e,o,n,i,r){var s=document.createElement(t);for(var a in e)s.setAttribute(a,e[a]);s.readyState?s.onreadystatechange=o:(s.onload=n,s.onerror=i),r(s)}function n(){for(var t=0;t<i.length;t++){var e=i[t];if("true"!=e.getAttribute("init")){options=JSON.parse(e.getAttribute("data-settings"));var o=new MangoWidget({host:window.location.protocol+'//'+options.host,id:options.id,elem:e,message:options.errorMessage});o.initWidget(),e.setAttribute("init","true"),i[t].setAttribute("onclick","")}}}host=window.location.protocol+"//widgets.mango-office.ru/";var i=document.getElementsByClassName(t);o("link",{rel:"stylesheet",type:"text/css",href:host+"css/widget-button.css"},function(){},function(){},e,function(t){var headTag=document.querySelector('head');headTag.insertBefore(t,headTag.firstChild)}),o("script",{type:"text/javascript",src:host+"widgets/mango-callback.js"},function(){("complete"==this.readyState||"loaded"==this.readyState)&&n()},n,e,function(t){document.documentElement.appendChild(t)})}("mango-callback");</script>
+
+
+
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                            <div class="banner-left obrabotka-covid">
+                                <span class="banner-left-text">Договор на Дезинфекцию Дезинсекцию Дератизацию</span>
+                                <a class="btn" href="/legal-person.html">Заключить договор</a>
+                            </div>
+
+
+
+                            <div class="obrabotka banner-left">
+                                <span class="banner-left-text">Опытные профессионалы города по обработке от насекомых</span>
+                            </div>
+
+
+                        </div>
+                    </div>
+                    
+
+
+                </div>
+
+            </div>
+        </div>
+
+
+</div>
+</main>
+</div>
+<footer role="contentinfo">
+    <div class="top-footer">
+        <div class="row">
+            <div class="small-12 medium-12 columns">
+                <div class="block-phones">
+                    <ul class="phone-list">
+                        <li>
+                        
+                            <a href="tel:+74953745375" class="phone pc-phone">+7 (495) 374-53-75</a>
+                         <a href="tel:+74953745375" class="phone  mobile-phone">+7 (495) 374-53-75</a>
+                            
+                            
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="l-footer">
+        <div class="row">
+            <div class="small-12 medium-12 large-3 columns">
+                <div class="logo">
+                    <a href="/dez/"><img src="/dez/templates/ses/images/logo.png" alt="Санитарная Служба Дезинфекции "></a></div>
+                <div class="politika">
+                    <a href="/dez/privacypolicy.html">Политика конфиденциальности</a> <br /><br />
+                    <a href="/dez/index.php?do=static&amp;page=requisites" style="
+    text-decoration: none
+">Реквизиты организации</a>
+                    
+                </div>
+             
+            </div>
+            <div class="small-12 medium-4 large-3 columns">
+                <div class="block-info">
+                    <div class="work-time">работаем<br/> круглосуточно</div>
+                </div>
+            </div>
+            <div class="small-12 medium-4 large-3 columns">
+                <div class="block-address">
+                    <p class="address"><strong>г. Москва,</strong> Маршала Соколовского д. 3</p>
+                </div>
+            </div>
+
+
+            <div class="small-12 medium-12 large-12 columns">
+                <div class="dev-link">
+
+
+                    © 2009–2026 Санитарная Служба Дезинфекции<br>
+
+                    <p style="font-size: 12px; color: #fff;">
+                        Содержание сайта не является рекомендацией или офертой<br>
+                        и носит информационно-справочный характер. Ни при каких условиях не является публичной офертой, определяемой положениями Статьи 437 п.2</p>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+<a href="#" class="btn-scroll-top"></a>
+
+<div class="modal fade" id="modal-call" tabindex="-1" role="dialog" aria-labelledby="callLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="#" class="close" data-dismiss="modal" aria-label="Close"><span class="icon-close">✕</span></a>
+                <h4 class="modal-title" id="callLabel">Перезвоним за 5 минут и ответим на все вопросы,<br/> оставьте
+                    телефон ниже.</h4>
+            </div>
+            <div class="modal-body">
+                <div class="modal-info">
+                    <div id="comp_d7478080c3c6f1a70cf44adcf3a970f2">
+
+
+                        <div id="form_166492_1"></div>
+<script type="text/javascript">
+   (function (d, w, c) {
+       (w[c] = w[c] || []).push({formId:166492,host:"formdesigner.ru",formHeight:100, el: "form_166492_1",center: 1,scroll: 0});
+       var s = d.createElement("script"), g = "getElementsByTagName";
+       s.type = "text/javascript"; s.charset="UTF-8"; s.async = true;
+       s.src = (d.location.protocol == "https:" ? "https:" : "http:")+"//formdesigner.ru/js/iform.js?v=0.0.3";
+       var h=d[g]("head")[0] || d[g]("body")[0];
+       h.appendChild(s);
+   })(document, window, "fdforms");
+</script>
+
+                        
+                        
+
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript" src="/dez/templates/ses/js/russCarton.lib.min.js"></script>
+<script type="text/javascript" src="/dez/templates/ses/js/config.js"></script>
+
+
+    <script>(function () { var widget = document.createElement('script'); widget.defer = true; widget.dataset.pfId = 'c0eea4e7-519c-4e0e-b2b7-0ddb876cc5ce'; widget.src = 'https://widget.yourgood.app/script/widget.js?id=c0eea4e7-519c-4e0e-b2b7-0ddb876cc5ce&now='+Date.now(); document.head.appendChild(widget); })()</script>
+   
+   
+      
+
+    <div class="mango-callback" data-settings='{"type":"", "id": "MTAwMTgzMjA=","autoDial" : "0", "lang" : "ru-ru", "host":"widgets.mango-office.ru/", "errorMessage": "В данный момент наблюдаются технические проблемы и совершение звонка невозможно"}'>
+	
+	<a href="#" class="button-widget-open pulse" id="mango-widget-btn" style="
+    bottom: 71px;
+">
+        <i class="fa fa-phone"></i>  
+</a>
+
+</div>
+<script>!function(t){function e(){i=document.querySelectorAll(".button-widget-open");for(var e=0;e<i.length;e++)"true"!=i[e].getAttribute("init")&&(options=JSON.parse(i[e].closest('.'+t).getAttribute("data-settings")),i[e].setAttribute("onclick","alert('"+options.errorMessage+"(0000)'); return false;"))}function o(t,e,o,n,i,r){var s=document.createElement(t);for(var a in e)s.setAttribute(a,e[a]);s.readyState?s.onreadystatechange=o:(s.onload=n,s.onerror=i),r(s)}function n(){for(var t=0;t<i.length;t++){var e=i[t];if("true"!=e.getAttribute("init")){options=JSON.parse(e.getAttribute("data-settings"));var o=new MangoWidget({host:window.location.protocol+'//'+options.host,id:options.id,elem:e,message:options.errorMessage});o.initWidget(),e.setAttribute("init","true"),i[t].setAttribute("onclick","")}}}host=window.location.protocol+"//widgets.mango-office.ru/";var i=document.getElementsByClassName(t);o("link",{rel:"stylesheet",type:"text/css",href:host+"css/widget-button.css"},function(){},function(){},e,function(t){var headTag=document.querySelector('head');headTag.insertBefore(t,headTag.firstChild)}),o("script",{type:"text/javascript",src:host+"widgets/mango-callback.js"},function(){("complete"==this.readyState||"loaded"==this.readyState)&&n()},n,e,function(t){document.documentElement.appendChild(t)})}("mango-callback");</script>
+
+    
+    
+    
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(86153651, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/86153651" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+    
+    
+    
+
+</body>
+</html>
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

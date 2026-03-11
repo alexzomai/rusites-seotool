@@ -1,0 +1,86 @@
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lightense-images@1.0.17/dist/lightense.min.js"></script>
+<script>window.addEventListener('load', function () {Lightense('img:not(.no-lightense),.lightense');}, false);</script>
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD>
+<META http-equiv=content-type content="text/html; charset=windows-1251">
+<META content="" name=keywords>
+<META content="" name=description>
+<title>Гальванотехника. Золочение, серебрение, платинирование, изготовление электролитов и оборудования</title>
+<link href="/bitrix/templates/galvan/styles.css" type="text/css" rel="stylesheet" />
+<link href="/bitrix/templates/galvan/template_styles.css" type="text/css" rel="stylesheet" />
+<SCRIPT src="galvanotechnic.files/image.js" type=text/javascript></SCRIPT>
+
+<META content="MSHTML 6.00.2900.3562" name=GENERATOR></HEAD>
+<BODY>
+<div id="panel"></div>
+<DIV id=page_wrapper>
+<DIV id=page_logo><A href="/"><IMG alt="" 
+src="/bitrix/templates/galvan/img/logo.gif"></A></DIV>
+<DIV id=page_top>
+<DIV id=page_contact>
+<P>телефон: 8 (495) 508-40-46<BR>email: 
+info@galvanotechnic.ru</P></DIV></DIV>
+<DIV id=page_search>
+<FORM action="/search/index.php"><LABEL for=search_text>Поиск</LABEL><BR>
+<input type="text" name="q" style="width: 240px" /><br>
+<input type="submit" value="Искать" />
+
+</FORM></DIV>
+<DIV id=page_layout>
+<TABLE class=page_col width="100%">
+  <TBODY>
+  <TR>
+    <TD width=280>
+      <DIV class=page_col_left>
+      <UL class=page_vmenu>
+        <LI><A 
+        href="/oborudovanie_izgotovlenie_i_postavka/">Оборудование<BR>изготовление 
+        и поставка </A>
+        <LI class=elec><A 
+        href="/elektrolity/">Электролиты </A>
+        <LI class=pokr><A 
+        href="/nanesenie_pokrytij/">Нанесение покрытий 
+        </A>
+        <LI><A href="/anodnye_materialy/">Анодные 
+        материалы </A>
+        <LI class=podg><A class=last 
+        href="/rasxodnye_materialy_i_podgotovka_poverxnosti/">Расходные 
+        материалы и подготовка поверхности </A></LI></UL></DIV></TD>
+    <TD class=page_col_center>
+      <DIV id=page_menu>
+      <UL class=page_hmenu>
+        <LI><A class=select href="/">Главная </A>
+        <LI><A href="/price/">Стоимость </A>
+        <LI><A href="/contact/">Контакты </A>
+        <LI><A href="/form/">Заявка </A>
+        <LI><A class=last href="/works/">Наши работы и 
+        технологии </A></LI></UL></DIV>
+      <DIV id=page_content><h1>О нашем предприятии.</h1>
+
+<p><img style="PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px" alt="" src="http://galvanotechnic.ru/upload/image001.jpg" width="140" height="105" />Научно-производственное предприятие &laquo;Гальванотехника&raquo; специализируется в разработке и применении современных технологий электрохимических производств с использованием драгоценных металлов. Нами осуществляются работы по нанесению гальванических покрытий с использованием драгоценных металлов, изготовлению оборудования для гальванических и химических производств, использующих драгоценные металлы, разработке и внедрению технологических процессов.</p>
+
+<p><img style="PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: right; PADDING-TOP: 10px" alt="" src="http://galvanotechnic.ru/upload/details.jpg" width="140" height="105" data-lightense-padding="40" data-lightense-cubic-bezier="cubic-bezier(.2, 0, .1, 1)" data-lightense-background="rgba(255, 255, 255, .98)" data-lightense-z-index="2147483647"/>Наше предприятие наносит защитные и специальные покрытия золотом, серебром, платиной, родием, палладием и их сплавами на изделия технического назначения, а также декоративные покрытия ювелирных изделий, предметов интерьера и т.д. Мы осуществляем химическую и электрохимическую обработку драгоценных металлов и их сплавов. Осуществляем защитные покрытия на них, в том числе консервационные. Проводим работы по реставрации изделий с покрытиями.</p>
+
+<p><img style="PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px" alt="" src="http://galvanotechnic.ru/upload/dsc00070.jpg" width="105" height="140" />НПП «Гальванотехника», проводя работы по внедрению и совершенствованию типовых гальванических процессов, непрерывно ведет разработку новых, более совершенных технологий, в том числе по замене существующих цианистых процессов на бесцианистые. Поэтому мы знаем, что основным препятствием для распространения электролитов, не содержащих свободный циан, являются либо недостаточные физико-механические характеристики получаемых покрытий, либо низкие эксплуатационные свойства электролитов, в том числе стабильность.  Разработанные нами технологии и электролиты позволяют получать покрытия, сохраняющие достоинства, характерные для осадков, полученных в электролитах, содержащих свободный циан. При этом они существенно превосходят известные, не содержащие свободный циан, электролиты по эксплуатационным свойствам.</p>
+
+<p>Разработанные составы и технологии много лет успешно применяются на нашем и сторонних производствах для процессов традиционного гальванического нанесения покрытий, иммерсионных покрытий, локального нанесения без погружения изделий в ванну с электролитом и электрохимической полировки сплавов драгоценных металлов.</p>
+
+<p>Внедряя технологический процесс, мы проводим адаптацию технологического процесса под изделия Заказчика и конкретные задачи, включая рекомендации по оптимальному использованию имеющегося в наличии оборудования Заказчика или изготовлению нового.</p>
+
+<p><img style="PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 10px" alt="" src="http://galvanotechnic.ru/upload/image007.jpg" width="140" height="105" />Одним из основных видов деятельности НПП «Гальванотехника» является проектирование и изготовление оборудования для электрохимических и гальванических производств, решающее, в том числе, эксклюзивные задачи и задачи производства средств производства. Наша компания специализируется в изготовлении предназначенного для работ с драгоценными металлами оборудования, отвечающего современным требованиям. Такая специализация обусловлена специфическими требованиями к применяемым материалам, источникам питания, комплектации оборудования и т.д.</p>
+
+<p>Ввиду особенностей и разномасштабности производств, обрабатывающих или извлекающих драгоценные металлы, где практически отсутствуют однотипные технологические требования, мы считаем необходимым  изготавливать оборудование индивидуально для каждого потребителя.</p>
+</DIV></TD></TR></TBODY></TABLE></DIV>
+<DIV id=page_empty></DIV></DIV>
+<DIV id=page_footer>
+<DIV id=page_footer_center><!--LiveInternet counter-->
+<SCRIPT type=text/javascript><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t44.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=31 height=31><\/a>")//--></SCRIPT>
+<!--/LiveInternet-->&nbsp;&nbsp;©&nbsp;ООО НПП «Гальванотехника», 2011 
+</DIV></DIV></BODY></HTML>

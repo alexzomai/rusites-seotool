@@ -1,0 +1,626 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="yandex-verification" content="6dcc842448632e12" />
+<title>Примеры программирования микроконтроллеров, создание схем на микроконтроллерах, микроконтроллеры для начинающих</title>
+
+<meta name="description" content="Gogetlinks122333 На нашем сайте рассмотрены различные примеры программирования микроконтроллеров  и микропроцессорных систем . Подробно рассматриваются примеры программирования микроконтроллеров популярных компаний: Microchip, AVR и многие другие. Особое внимание уделяется программированию микроконтроллеров для начинающих. Рассмотрены основы микропроцессорной техники, электроники, полупроводниковой электроники, схемотехники. Подробно рассматривается создание схем на микроконтроллерах, схемы на PIC и AVR микроконтроллерах. Особое внимание уделено разделу микроконтроллеры для начинающих">
+
+<meta name="keywords" content="микроконтроллер, программирование, микроконтроллеров, примеры, программирования, микроконтроллеров, программирование, микроконтроллеров, для начинающих, учебный материал по микроконтроллерам, справочный материал по микроконтроллерам, видеоуроки по программированию микроконтроллеров, книги по программированию микроконтроллеров, микропроцессор, микропроцессорные системы, книги по программированию микропроцессорных систем, микроконтроолеры для начинающих, схемы на микроконтроллерах, схемы на микроконтроллерах PIC, схемы на микроконтроллерах AVR">
+<link rel="shortcut icon" href="img/icon.png" type="image/x-icon">
+<link href="style_mculab.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div align="center">
+<table width="1200" border="0" cellspacing="0" cellpadding="0"
+  class="main_border">
+  <tr>
+    <td width="1200" height="300" align=""  valign="top" colspan="3" background ="img/header.png" class="main_border_header"><div class="block1" title="Верхний header">
+<p class="" align="center"></p>
+</div>
+
+<div class="block1">
+<p class="" align="center">
+ <a class="class11" title="Главная" href="index.php">Главная</a>
+ <a class="class11" title="Новости" href="news.php">Новости</a>
+ <a class="class11" title="Контакты" href="contacts.php">Контакты</a>
+ <a class="class11" title="Карта" href="map.php">Карта</a>
+ <a class="class11" title="Информация" href="law.php">Информация</a>
+ <a class="class11" title="Правила публикации" href="rules.php">Правила публикации</a>
+ <a class="class11" title="Ссылки" href="links.php">Ссылки</a>
+</p>
+</div>
+
+<div class="block2">
+<p class="" align="center">
+<div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'/search.php','arrow':false,'bg':'#66b2ff','fontsize':12,'fg':'#000000','language':'ru','logo':'rb','publicname':'Поиск по сайту mculab.ru','suggest':true,'target':'_self','tld':'ru','type':2,'searchid':2109363,'webopt':false,'websearch':false,'input_fg':'#000000','input_bg':'#cce5ff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':null,'input_placeholderColor':'#000000','input_borderColor':'#3399ff'}"><form action="http://yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2109363"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="text" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='http:'?'http:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+</p>
+</div>
+
+<div class="block3">
+<p class="" align="center">
+<a href="./index.php" title="mculab.ru"><img src="./img/mcu_label.png">
+</p>
+</div>
+
+<div class="block4">
+
+ <a class="class1" title="Язык Си" href="view_article_compil.php?name_chapter=langc">| Язык Си |</a>
+ <a class="class1" title="Примеры программировая микроконтроллерорв  MikroC" href="view_article_compil.php?name_chapter=mikroc">| MikroC |</a>
+ <a class="class1" title="Примеры программировая микроконтроллерорв  MicroLab" href="view_article_compil.php?name_chapter=mplab">| MicroLab |</a>
+ <a class="class1" title="Примеры программировая микроконтроллерорв  AVR Studio" href="view_article_compil.php?name_chapter=avrstudio">| AVR Studio |</a>
+ <a class="class1" title="Примеры программировая микроконтроллерорв  FloweCode" href="view_article_compil.php?name_chapter=flowecode">| FloweCode |</a>
+
+</div>
+
+<div class="block5">
+	Вы вошли на сайт, как Гость<br><form action="index.php" method="post">
+<input name="user_login" type="text" class="form_input" value="">
+<input name="user_pass" type="password" class="form_input" value="">
+<input type="image" alt="" title="Авторизация" src="./img/kn.png" style=" vertical-align:middle" name="image"></input>
+</form>
+<a class="class5" title="Регистрация нового пользователя" href="registration.php">Регистрация </a>
+</div>
+
+<div class="block6">
+
+ <a class="class10" title="Схемы на микроконтроллерах" href="view_personal_artall.php?section=scheme_mk">Схемы на микроконтроллерах</a>
+ <a class="class10" title="Радиолюбительские схемы" href="view_personal_artall.php?section=scheme_radio">Радиолюбительские схемы</a>
+ <a class="class10" title="Полезные статьи об электронике" href="view_personal_artall.php?section=scheme_different">Полезные статьи об электронике</a>
+ <a class="class10" title="Авторский блог радиолюбителя" href="view_personal_artall.php?section=authors_blog">Авторский блог радиолюбителя</a>
+
+</div>
+
+<div class="block7">
+<div align="center">
+<p class="money" >Бюджет</p>
+<a href="#" title=""><img  width="30%" src="./img/money1000.png">
+
+
+<p class="money">Новых статей: 100000 руб.</p>
+</div>
+</div></td>
+  </tr>
+    
+    <tr>
+      <td>
+      <table width="1200" height="1050" border="0" cellspacing="0" cellpadding="0" class="main_border_body">
+        <tr>
+          <td width="200px" valign="top" class="left">
+
+<div class="blocklm_1" >
+<p class="l_menu_top_x1" align="center">Моделирование схем</p>
+<p class="l_menu_bottom_y1" align="left">
+<a class="class4" title="Multisim" href="view_article_compil.php?name_chapter=multisim">Multisim</a>
+<a class="class4" title="Proteus" href="view_article_compil.php?name_chapter=proteus">Proteus</a>
+<a class="class4" title="P-CAD" href="view_article.php?id=151">P-CAD</a>
+<a class="class4" title="OrCAD" href="view_article.php?id=149">OrCAD</a>
+<a class="class4" title="NI Ultiboard" href="view_article_compil.php?name_chapter=ultiboard">NI Ultiboard</a>
+</p>
+</div>
+
+<div class="blocklm_2" >
+<p class="l_menu_top" align="center">Софт разработчика</p>
+<p class="l_menu_bottom" align="left">
+<a class="class4" title="CAD-софт" href="view_soft.php?block_id=cad">CAD-софт</a>
+<a class="class4" title="PCB-софт" href="view_soft.php?block_id=pcb">PCB-софт</a>
+<a class="class4" title="Черчение схем" href="view_soft.php?block_id=plan">Черчение схем</a>
+<a class="class4" title="Микроконтроллеры" href="view_soft.php?block_id=mk">Микроконтроллеры</a>
+<a class="class4" title="Расчёты" href="view_soft.php?block_id=calc">Расчёты</a>
+<a class="class4" title="Измерения" href="view_soft.php?block_id=measure">Измерения</a>
+<a class="class4" title="Полезный софт" href="view_soft.php?block_id=other">Полезный софт</a>
+</p>
+</div>
+
+<div align="center">
+
+</div>
+
+<div class="blocklm_4" >
+<p class="l_menu_top_x1" align="center">Справочник МК</p>
+<p class="l_menu_bottom_y1" align="left">
+<a class="class4" title="Справочник МК PIC" href="view_article.php?id=152">Справочник МК PIC</a>
+<a class="class4" title="Справочник МК AVR" href="view_article.php?id=153">Справочник МК AVR</a>
+<a class="class4" title="Справочник Motorolla" href="view_article.php?id=154">Справочник Motorolla</a>
+<a class="class4" title="Справочник Philips" href="view_article.php?id=155">Справочник Philips</a>
+<a class="class4" title="Справочник Siemens" href="view_article.php?id=156">Справочник Siemens</a>
+</p>
+</div>
+
+<div class="blocklm_5" >
+<p class="r_menu_top" align="center">Случайная книга</p>
+
+ 
+ 
+<table align='center' border='' width='170' class='news_table' cellspacing='0' cellpadding='0'><tr>
+	  <td width='100' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <img src='../img/books_title/17.jpg'  width='60%'>
+	  </td>
+	  </tr><tr>
+      <td width='100' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <a class='class4' href='books_view.php?id=18'>Смотреть книгу  >>></a>
+	  <a class='class4' href='books.php'>Смотреть все книги</a>
+	  </td>
+	  </tr></table> 
+</div>
+
+
+</td> 
+          <td width="798px" valign="top" class="center">
+
+<div>
+<h1>Примеры программирования микроконтроллеров</h1>
+
+<div align="center">
+
+
+
+</div>
+
+<p class="title_box">Новостная лента</p>
+
+ 
+ 
+<table align='center' border='' width='790' class='news_table' cellspacing='0' cellpadding='0'><tr> 
+      <td width='790' colspan='3' align='left' bgcolor='#BED7DC' class='border_none'><p class='b_1_1'>Microchip расширяет экосистему Arduino-совместимой отладочной платформы chipKIT</p></td> 
+	  </tr><tr>
+	  <td width='150' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <img src='img/news/news_28.jpg' width='95%'></a>
+	  </td>
+	  <td width='640' align='justify' colspan='3' class='border_news_cent'>
+	  <p class='text_news'>
+	  Компания Microchip сообщила о расширении экосистемы отладочной платформы chipKIT. В состав Arduino-совместимой платформы chipKIT вошла высокоинтегрированная отладочная плата с Wi-Fi модулем и плата расширения для управления электродвигателями, разработанные  компанией Digilent.
+	  <a class='class3_0' href='view_news.php?id=39'>Подробнее >>></a></p>
+	  </td>
+	  
+	  </tr><tr>
+      <td width='150' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Источник: <a class='class9' href='/'>http://www.rlocman.ru</a></p></td>
+	  <td width='250' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Просмотров: 28590</p></td>
+	  <td width='200' align='' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Дата добавления: 02.10.2014</p></td>
+	  </tr></table><table align='center' border='' width='790' class='news_table' cellspacing='0' cellpadding='0'><tr> 
+      <td width='790' colspan='3' align='left' bgcolor='#BED7DC' class='border_none'><p class='b_1_1'>MicroView - супер миниатюрная Arduino-совместимая отладочная плата с OLED дисплеем</p></td> 
+	  </tr><tr>
+	  <td width='150' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <img src='img/news/news_27.jpg' width='95%'></a>
+	  </td>
+	  <td width='640' align='justify' colspan='3' class='border_news_cent'>
+	  <p class='text_news'>
+	  На портале Kickstarter представлен проект супер миниатюрной отладочной платформы Arduino, выполненной в форм-факторе 16-выводного корпуса DIP и имеющей встроенный OLED дисплей с разрешением 64&#215;48 точек. Несмотря на то, что отладочная плата является полностью завершенным решением, она может устанавливаться на макетную плату или непосредственно впаиваться в печатную плату для расширения функционала и управления внешней периферией.
+	  <a class='class3_0' href='view_news.php?id=34'>Подробнее >>></a></p>
+	  </td>
+	  
+	  </tr><tr>
+      <td width='150' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Источник: <a class='class9' href='/'>http://www.rlocman.ru</a></p></td>
+	  <td width='250' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Просмотров: 27934</p></td>
+	  <td width='200' align='' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Дата добавления: 17.04.2014</p></td>
+	  </tr></table><table align='center' border='' width='790' class='news_table' cellspacing='0' cellpadding='0'><tr> 
+      <td width='790' colspan='3' align='left' bgcolor='#BED7DC' class='border_none'><p class='b_1_1'>Размеры самого миниатюрного в мире ARM-микроконтроллера Freescale сократила еще на 15%</p></td> 
+	  </tr><tr>
+	  <td width='150' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <img src='img/news/news_26.jpg' width='95%'></a>
+	  </td>
+	  <td width='640' align='justify' colspan='3' class='border_news_cent'>
+	  <p class='text_news'>
+	  Freescale Semiconductor совершила новый технологический прорыв, добавив к семейству Kinetis самый миниатюрный и энергоэффективный в мире 32-разрядный микроконтроллер Kinetis KL03 с архитектурой ARM. Основанный на микроконтроллере предыдущего поколения Kinetis KL02, новый прибор получил дополнительную периферию, стал намного проще в использовании, и при этом сократился в размерах до 1.6 &#215; 2.0 мм.
+	  <a class='class3_0' href='view_news.php?id=33'>Подробнее >>></a></p>
+	  </td>
+	  
+	  </tr><tr>
+      <td width='150' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Источник: <a class='class9' href='/'>http://www.rlocman.ru</a></p></td>
+	  <td width='250' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Просмотров: 1871</p></td>
+	  <td width='200' align='' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Дата добавления: 17.04.2014</p></td>
+	  </tr></table><table align='center' border='' width='790' class='news_table' cellspacing='0' cellpadding='0'><tr> 
+      <td width='790' colspan='3' align='left' bgcolor='#BED7DC' class='border_none'><p class='b_1_1'> Как вырастить микросхему с помощью белка</p></td> 
+	  </tr><tr>
+	  <td width='150' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <img src='img/news/news_25.png' width='95%'></a>
+	  </td>
+	  <td width='640' align='justify' colspan='3' class='border_news_cent'>
+	  <p class='text_news'>
+	  Без кремния немыслимо производство полупроводников, где он буквально нарасхват. При этом, естественно, большое значение имеют чистота вещества и строение кристаллов кремниевых соединений. Исследователи из Университета Лидса (Великобритания) предлагают способ выращивания таких кристаллов с помощью молекулярной биологии. По их мнению, это позволит создавать электронные микросхемы более высокого качества.
+	  <a class='class3_0' href='view_news.php?id=32'>Подробнее >>></a></p>
+	  </td>
+	  
+	  </tr><tr>
+      <td width='150' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Источник: <a class='class9' href='/'>http://www.newscientist.com/</a></p></td>
+	  <td width='250' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Просмотров: 3019</p></td>
+	  <td width='200' align='' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Дата добавления: 06.03.2014</p></td>
+	  </tr></table><table align='center' border='' width='790' class='news_table' cellspacing='0' cellpadding='0'><tr> 
+      <td width='790' colspan='3' align='left' bgcolor='#BED7DC' class='border_none'><p class='b_1_1'>Открытие нового раздела на сайте MCULAB.RU </p></td> 
+	  </tr><tr>
+	  <td width='150' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <img src='img/news/news_24.png' width='95%'></a>
+	  </td>
+	  <td width='640' align='justify' colspan='3' class='border_news_cent'>
+	  <p class='text_news'>
+	  На нашем сайте открыт новый раздел. Раздел посвящён моделированию различных схем по сопряжению микроконтроллеров и датчиков. Освещается схемотехника подключения к МК внешних устройств. В данной области до сих пор отсутствует систематизация, поэтому сделана попытка создать банк типовых решений, который в дальнейшем может дополняться, уточняться, расширяться.
+	  <a class='class3_0' href='view_news.php?id=30'>Подробнее >>></a></p>
+	  </td>
+	  
+	  </tr><tr>
+      <td width='150' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Источник: <a class='class9' href='/'>/</a></p></td>
+	  <td width='250' align='right' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Просмотров: 129718</p></td>
+	  <td width='200' align='' bgcolor='#BED7DC' class='border_none'><p class='b_5'>Дата добавления: 04.02.2014</p></td>
+	  </tr></table> 
+
+</div>
+
+
+<div>
+<p align="justify" class="text">
+На сайте представлены <strong>примеры программирования</strong>, которые будут полезны как для опытного разработчика схем на микроконтроллерах, так и для новичка. Особо рассматривается <strong>программирование микроконтроллеров</strong> для начинающих пользователей. Программные <strong>примеры программирования</strong> разбиты на различные разделы. Основную массу составляют примеры программирования микроконтроллеров avr и микроконтроллеров microchip. Пользователю предлагается познакомиться с различными <strong>примерами программирования</strong> и различными средами программирования: MicroLab, AVRStudio, MikroC, FloweCode.
+Представлены схемы на микроконтроллерах ведущих производителей: PIC и AVR. Рассматривается огромное количество схем для начинающих разработчиков. Если Вы начинающий радиолюбитель, то для Вас мы приготовили раздел микроконтроллеры для начинающих.
+</p>
+</div>
+
+<div>
+<p align="justify" class="text">
+Современные микроконтроллеры относятся к классу микропроцессорных устройств. В основе принципа действия таких элементов лежит исполнение последовательного потока команд, называемого программой. Микроконтроллер получает программные команды в виде отдельных машинных кодов. Известно, что для создания и отладки программ, машинные коды подходят плохо, так как трудно воспринимаются человеком. Этот факт привел к появлению различных языков программирования и огромного количества различных компиляторов.</p>
+
+<p align="justify" class="text">
+В основе <strong>языков программирования микроконтроллеров</strong> лежат классические языки для компьютеров. Единственным отличием становится ориентированность на работу со встроенными периферийными устройствами. Архитектура микроконтроллеров требует, например, наличия битово-ориентированных команд. Последние выполняют работу с отдельными линиями портов ввода/вывода или флагами регистров. Подобные команды отсутствуют в большинстве крупных архитектур. Например, ядро ARM, активно применяемое в микроконтроллерах, не содержит битовых команд, вследствие чего разработчикам пришлось создавать специальные методы битового доступа.</p>
+</p>
+</div>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td background="../img/fon_mikroc.png">
+<div>
+<p class="title_box">Популярное в разделе "MikroC"</p>
+
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=18'>1. Использование таймера</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=24'>2. Использование ЖК дисплея (LCD)</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=20'>3. Модуль CCP1 как ШИМ генератор (PWM)</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=21'>4. Использование аналого-цифрового преобразователя</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=26'>5. Измерение температуры при помощи датчика</a></td>
+      </tr></table> 
+
+</div>
+    </td>
+    <td background="../img/fon_flowecode.png">
+<div>
+<p class="title_box">Популярное в разделе "FloweCode"</p>
+
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=1'>1. Мигание светодиодом</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=9'>2. Вывод числа на 7-ми сегментный индикатор</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=4'>3. Простые математические операции с переменной</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=3'>4. Зажигаем светодиоды по одному в 4-х битах порта</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=7'>5. Бинарный счетчик</a></td>
+      </tr></table> 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td background="../img/fon_mplab.png">
+<div>
+<p class="title_box">Популярное в разделе "MicroLab"</p>
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=34'>1. Обмен данными по шине CAN</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=29'>2. Управление частотой мерцания светодиодов</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=31'>3. Секундомер</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=28'>4. Отображение состояния выводов порта</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=32'>5. Обмен данными в режиме PSP</a></td>
+      </tr></table> 
+
+</div>
+    </td>
+    <td background="../img/fon_avrstudio.png">
+<div>
+<p class="title_box">Популярное в разделе "AVR Studio"</p>
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=43'>1. Управление яркостью свечения светодиода</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=46'>2. Измерение скорости вращения двигателя</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=36'>3. Вывод некоторого числа по нажатию кнопки</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=38'>4. Индикатор, мигающий каждую секунду</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=37'>5. Бегающие "глаза"</a></td>
+      </tr></table> 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td background="../img/fon_toe.png">
+<div>
+<p class="title_box">Популярное в разделе "Теоретические основы эл-ки"</p>
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=66'>1. Пассивные фильтры</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=64'>2. Основные схемы на операционных усилителей</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=67'>3. Активные фильтры</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=65'>4. Компораторы и триггер Шмитта</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=58'>5. Некоторые типичные транзисторные схемы</a></td>
+      </tr></table> 
+
+</div>
+    </td>
+    <td background="../img/fon_omt.png">
+<div>
+<p class="title_box">Популярное в разделе "Основы МП техники"</p>
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=94'>1. Функции процессора</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=90'>2. Архитектура микропроцессорных систем</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=87'>3. Микропроцессор</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=91'>4. Типы микропроцессорных систем</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=89'>5. Режимы работы микропроцессорной системы</a></td>
+      </tr></table> 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td background="../img/fon_adc.png">
+<div>
+<p class="title_box">Популярное в разделе "Аналоговый и цифровой сигнал"</p>
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=72'>1. Аналоговый ввод</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=73'>2. Аналого-цифровой преобразователь (АЦП)</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=69'>3. Измерительные преобразователи (датчики)</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=70'>4. Сигналы</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=71'>5. Параметры систем АЦП </a></td>
+      </tr></table> 
+
+</div>
+    </td>
+    <td background="../img/fon_digittech.png">
+<div>
+<p class="title_box">Популярное в разделе "Цифровая схемотехника"</p>
+  
+<table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=83'>1. Регистры</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=76'>2. Комбинационные МС: дешифратор и шифратор</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=75'>3. Простейшие логические элементы</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=82'>4. Триггеры</a></td>
+      </tr></table><table align='center' width='395' class=''><tr> 
+      <td width='395' align='left'><a class='class6' href='view_article.php?id=74'>5. Базовые понятия цифровой электроники </a></td>
+      </tr></table> 
+
+</div>
+
+    </td>
+  </tr>
+</table>
+<div>
+<p align="justify" class="text">
+<strong>Примеры программирования</strong> микроконтроллеров будут представлены на хорошо всем известном языке Си. А перед тем как постигать азы <strong>программирования микроконтроллеров</strong> и схемотехнику устройств на микроконтроллерах, авторам предлагается ещё раз вспомнить основы микропроцессорной техники, основы электроники, полупроводниковую электронику, аналоговую и цифровую схемотехнику, а так же азы аналогового и цифрового представления сигнала. Для тех, кому хочется получить новые знания в области современного программирования, можно будет познакомиться с графическим языком программирования LabView.
+</p>
+</div>
+<div>
+<p align="justify" class="text">
+Выбор <strong>языка программирования</strong> зависит от множества факторов. В первую очередь, типо решаемых задач и необходимым качеством кода. Если Вы ведёте разработку малых по объёму и несложных программ, то можно использовать практически любой язык. Для компактного кода подойдет Ассемблер, а если ставятся серьезные задачи, то альтернативы С/С++ практически нет. Также необходимо учитывать доступность компилятора. В итоге самым универсальным решением можно назвать связку Ассемблера и  C/C++. Для простого освоения языков, можно воспользоваться примерами программ для микроконтроллера. Использование примеров программирования упростит и ускорит процесс освоения <strong>программирования микроконтроллеров</strong>.
+</p>
+<p align="justify" class="text">
+<strong>Схемы на микроконтроллерах</strong> позволят начинающим разработчикам освоить тонкости проектирования, моделирования и программирования микроконтроллеров.
+</p>
+</div>
+
+
+</td>
+
+
+
+          <td width="200px" valign="top" class="right">
+
+<div class="blockrm_0" >
+<p class="r_menu_top" align="center">Случайное видео</p>
+ 
+ 
+<table align='center' border='' width='100' class='news_table' cellspacing='0' cellpadding='0'><tr>
+	  <td width='100' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <iframe  width='170' height='120' src='http://www.youtube.com/embed/DSR8yoVjkMY' frameborder='0' allowfullscreen></iframe>
+	  </td>
+	  </tr><tr>
+      <td width='100' align='center' bgcolor='#E4EEEF' class='border_news_cent'>
+	  <a class='class4' href='video_view.php?id=7'>Смотреть видео  >>></a>
+	  <a class='class4' href='video.php'>Смотреть всё видео</a>
+	  </td>
+	  </tr></table> 
+</div>
+
+<div class="blockrm_1" >
+<p class="r_menu_top" align="center">Схемы с датчиками</p>
+<p class="r_menu_bottom_2" align="left">
+<a class="class4" title="Датчики напряжения" href="view_narticle_compil.php?id_chap=datnap">Датчики напряжения</a>
+<a class="class4" title="Входные усилители сигналов" href="view_narticle_compil.php?id_chap=ampdat">Входные усилители</a>
+<a class="class4" title="Механические датчики" href="view_narticle_compil.php?id_chap=mechdat">Механические датчики</a>
+<a class="class4" title="Ёмкостные датчики" href="view_narticle_compil.php?id_chap=capdat">Ёмкостные датчики</a>
+<a class="class4" title="Акустические датчики" href="view_narticle_compil.php?id_chap=acudat">Акустические датчики</a>
+<a class="class4" title="Оптические датчики" href="view_narticle_compil.php?id_chap=opticdat">Оптические датчики</a>
+<a class="class4" title="Индуктивные датчики" href="view_narticle_compil.php?id_chap=inddat">Индуктивные датчики</a>
+<a class="class4" title="Температурные датчики" href="view_narticle_compil.php?id_chap=tempdat">Температурные датчики</a>
+<a class="class4" title="Датчики тока" href="view_narticle_compil.php?id_chap=currendat">Датчики тока</a>
+<a class="class4" title="Датчики магнитного поля" href="view_narticle_compil.php?id_chap=magnitdat">Датчики поля</a>
+<a class="class4" title="Разные датчики" href="view_narticle_compil.php?id_chap=somedat">Разные датчики</a>
+</p>
+</div>
+
+<div align="center">
+
+</div>
+
+<div class="blockrm_1" >
+<p class="r_menu_top" align="center">Программа LabVIEW</p>
+<p class="r_menu_bottom_2" align="left">
+<a class="class4" title="Первая программа" href="view_article.php?id=107">1. Первая программа</a>
+<a class="class4" title="Справочные ресурсы LabVIEW" href="view_article.php?id=108">2. Справочные ресурсы LabVIEW</a>
+<a class="class4" title="Отладка программы" href="view_article.php?id=109">3. Отладка программы</a>
+<a class="class4" title="Полезные советы" href="view_article.php?id=110">4. Полезные советы</a>
+<a class="class4" title="Пример: создаем SubVI" href="view_article.php?id=111">5. Пример: создаем SubVI</a>
+<a class="class4" title="Цикл While" href="view_article.php?id=112">6. Цикл While</a>
+<a class="class4" title="Цикл For" href="view_article.php?id=113">7. Цикл For</a>
+<a class="class4" title="Сдвиговые регистры" href="view_article.php?id=114">8. Сдвиговые регистры</a>
+<a class="class4" title="Массивы" href="view_article.php?id=115">9. Массивы</a>
+<a class="class4" title="Кластеры" href="view_article.php?id=116">10. Кластеры</a>
+<a class="class4" title="График Waveform Chart" href="view_article.php?id=117">11. График Waveform Chart</a>
+<a class="class4" title="Ветвления" href="view_article.php?id=118">12. Ветвления</a>
+<a class="class4" title="Case Structures" href="view_article.php?id=119">13. Case Structures</a>
+<a class="class4" title="Formula Node" href="view_article.php?id=120">14. Formula Node</a>
+<a class="class4" title="Строки" href="view_article.php?id=121">15. Строки</a>
+<a class="class4" title="Файлы" href="view_article.php?id=122">16. Файлы</a>
+</p>
+</div>
+
+<div class="blockrm_1">
+</div>
+</td> 
+        </tr>
+      </table>
+    </td>      
+    </tr>
+    <tr>
+   <td height="250" colspan="3" background="img/footer.png" class="main_border_main"> 
+
+<div class="blockf_1">
+<p class="f_menu_top" align="center">Теоретические основы<br> электроники</p>
+<p class="f_menu_bottom" align="left">
+<a class="class3" title="Основы электроники" href="view_article_varia.php?name_chapter=toe&numofchap=1">1. Основы электроники</a>
+<a class="class3" title="Транзисторы" href="view_article_varia.php?name_chapter=toe&numofchap=2">2. Транзисторы</a>
+<a class="class3" title="Полевые транзисторы" href="view_article_varia.php?name_chapter=toe&numofchap=3">3. Полевые транзисторы</a>
+<a class="class3" title="Обратная связь и ОУ" href="view_article_varia.php?name_chapter=toe&numofchap=4">4. Обратная связь и ОУ</a>
+<a class="class3" title="Пассивные и активные фильтры" href="view_article_varia.php?name_chapter=toe&numofchap=5">5. Пассивные и активные фильтры</a>
+</p>
+</div>
+
+<div class="blockf_2" >
+<p class="f_menu_top" align="center">Аналоговое и цифровое представление сигнала</p>
+<p class="f_menu_bottom" align="left">
+<a class="class3" title="Измерительные преобразователи (датчики)" href="view_article.php?id=69">1. Измерительные преобразователи (датчики)</a>
+<a class="class3" title="Сигналы" href="view_article.php?id=70">2. Сигналы</a>
+<a class="class3" title="Параметры систем АЦП" href="view_article.php?id=71">3. Параметры систем АЦП</a>
+<a class="class3" title="Аналоговый ввод" href="view_article.php?id=72">4. Аналоговый ввод</a>
+<a class="class3" title="Аналого-цифровой преобразователь (АЦП)" href="view_article.php?id=73">5. Аналого-цифровой преобразователь (АЦП)</a>
+</p>
+</div>
+
+<div class="blockf_3" >
+<p class="f_menu_top" align="center">Теоретические основы микропроцессорной техники</p>
+<p class="f_menu_bottom" align="left">
+<a class="class3" title="Философия МП техники" href="view_article_varia.php?name_chapter=omt&numofchap=1">1. Философия МП техники</a>
+<a class="class3" title="Шины МП системы" href="view_article_varia.php?name_chapter=omt&numofchap=2">2. Шины МП системы</a>
+<a class="class3" title="Функции магистрали" href="view_article_varia.php?name_chapter=omt&numofchap=3">3. Функции магистрали</a>
+<a class="class3" title="Адресация операндов" href="view_article_varia.php?name_chapter=omt&numofchap=4">4. Адресация операндов</a>
+<a class="class3" title="Регистры процессора" href="view_article_varia.php?name_chapter=omt&numofchap=5">5. Регистры процессора</a>
+<a class="class3" title="Система команд процессора" href="view_article_varia.php?name_chapter=omt&numofchap=6">6. Система команд процессора</a>
+</p>
+</div>
+
+<div class="blockf_4" >
+<p class="f_menu_top" align="center">Введение в <br>цифровую схемотехнику ч.1</p>
+<p class="f_menu_bottom" align="left">
+<a class="class3" title="Базовые понятия" href="view_article.php?id=74">1. Базовые понятия</a>
+<a class="class3" title="Логические элементы" href="view_article.php?id=75">2. Логические элементы</a>
+<a class="class3" title="Дешифратор и шифратор<" href="view_article.php?id=76">3. Дешифратор и шифратор</a>
+<a class="class3" title="Мультиплексор" href="view_article.php?id=77">4. Мультиплексор</a>
+<a class="class3" title="Компараторы кодов" href="view_article.php?id=78">5. Компараторы кодов</a>
+<a class="class3" title="Сумматоры" href="view_article.php?id=80">6. Сумматоры</a>
+</p>
+</div>
+
+<div class="blockf_5" >
+<p class="f_menu_top" align="center">Введение в <br>цифровую схемотехнику ч.2</p>
+<p class="f_menu_bottom" align="left">
+<a class="class3" title="Преобразователи кодов" href="view_article.php?id=81">7. Преобразователи кодов</a>
+<a class="class3" title="Триггеры" href="view_article.php?id=82">8. Триггеры</a>
+<a class="class3" title="Регистры" href="view_article.php?id=83">9. Регистры</a>
+<a class="class3" title="Асинхронные счётчики" href="view_article.php?id=84">10. Асинхронные счётчики</a>
+<a class="class3" title="Счётчики с переносом" href="view_article.php?id=85">11. Счётчики с переносом</a>
+<a class="class3" title="Синхронные счетчики" href="view_article.php?id=86">12. Синхронные счетчики</a>
+</p>
+</div>
+
+</td>
+   </tr>
+   <tr>
+   <td height="40" colspan="2" background="img/mini_foot.png" class="main_border_main" > 
+<p class="info_text_footer">
+2013-2015 © Сайт - Лаборатория электроники и микропроцессорной техники. Программирование микроконтроллеров и микропроцессорных систем для начинающих. На нашем сайте всегда представлены материалы рассматривающие программирование микроконтроллеров для начинающих и опытных пользователей. Большинство примеров программирования  микроконтроллеров приведены на языке Си. Схемы на микроконтроллерах. Микроконтроллеры для начинающих. Примеры программирования представлены для различных микроконтроллеров, в том числе хорошо всем известные микроконтроллеры avr и microchip - <a href="index.php" class="class9" >mculab.ru</a>
+</p>
+</td>
+
+<td height="40" colspan="1" background="img/mini_foot.png" class="main_border_main" align="center"> 
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-46669991-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('http:' == document.location.protocol ? 'http://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</td>   </tr>
+  </table>
+</div>
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(68984332, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/68984332" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></body>
+</html>

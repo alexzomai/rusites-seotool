@@ -1,0 +1,591 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<title>Комитет по культуре и национальной политике администрации Новокузнецкого муниципального округа ::</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<link rel="STYLESHEET" type="text/css" href="/templates/css/styles.css">
+		<script type="text/javascript" src="/templates/js/common.js"></script>
+		<script src="/templates/js/jquery.js"></script>
+		<script type="text/javascript" src="/templates/js/flowplayer-3.js"></script>
+		<!--[if lte IE 6]><link rel="STYLESHEET" type="text/css" href="/templates/css/stylesie6.css"><![endif]-->
+		<!--[if IE 7]><link rel="STYLESHEET" type="text/css" href="/templates/css/stylesie7.css"><![endif]-->
+	</head>
+<body>
+<style>
+ #hpvgd,.h-mdiv,.h-mdiv2,.h-ldiv,.h-rdiv {background:#EAEAEA; color:#6D6D6D;}
+ #hpvgd {width:100%; z-index:100; width:100%; border-bottom:2px solid rgb(230,230,230);}
+ .h-mdiv {display:none; position:relative; margin:auto; text-alegn:center;}
+ .h-mdiv2 {display:none; position:fixed; margin:auto; text-alegn:center; width:400px; height:200px;}
+ .h-ldiv {float:left; padding:7px 10px 7px 0px;}
+ .h-rdiv {position:absolute; top:7px; right:0px; text-align:right;}
+ .h-ni {display:none !important;}
+ a.hcmaf {color:red; margin-left:5px; font-size:20px; font-weight:bold;}
+ a.h-anl {color:#2a72cc;}
+ a.h-al {color:#ED664B;}
+ .h-fi {font-weight:bold; border-radius:50%; padding:0px 8px; margin-right:5px; font-size:19px;}
+ .h-background-1 {color:#fff !important; background:#000 !important;}
+ .h-background-2 {color:#000 !important; background:#fff !important;}
+</style>
+
+<script src="/templates/js/uhpv-full.min-1251_from2021year.js"></script>
+<!--
+<script s_rc="/templates/js/uhpv-full-1251.min.js"></script>
+<script>
+var 	uhe 	= 2,
+	lng 	= 'ru',
+	has 	= 0,
+	imgs 	= 1,
+	bg 	= 1,
+	hwidth 	= 0,
+	bgs 	= ['1','2'],
+	fonts 	= ['17','19','21'];
+$(document).ready(function(){uhpv(has)});
+</script>
+-->
+	<div id="main">
+		<table class="main" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td id="header">
+
+
+						<div class="uimages" style="margin:0; ">
+							<div style="margin: 0 21px 0 21px; height:109px; width: 958px; ">
+								<div style="overflow:hidden; width:438px; float:left; background: url(&quot;/image/kemer-map5.png&quot;) no-repeat scroll 360px 30px transparent; b_order:1px solid red">
+									<div class="uleft" style="margin:0; ">
+										<a href="/"><img src="/image/gerb-nr2.jpg" alt="" style="height:105px; margin:2px 5px 2px 2px"></a>
+										<div class="u1" style="margin-top:0;color:#0070bb">Комитет по культуре и<br>национальной политике</div>
+										<div class="u2" style="margin-top:3px; color:#0070bb">администрации Новокузнецкого муниципального округа</div>
+									</div>
+								</div>
+
+							
+								<div style="height:109px; width:520px;float:right">
+									<div id="uimages" style="width:520px; height:109px; background: url(&quot;/image/uimages/001.jpg&quot;) no-repeat scroll 0% 0% transparent;"><img style="opacity: 0.2;" src="/image/uimages/001.jpg" alt="" width="520" height="109"></div>
+<div id="header_right" class="" style="font-size: 21px;position:relative;top:50px; left:365px; width:150px"><a id="specialButton" href="javascript://" o_nclick="uvcl()" class="" style="font-size: 21px;"><img  style="width:150px" src="/templates/i/oko.png" alt="Версия для слабовидящих"></a></div>
+								</div>
+							</div>
+						</div>
+
+						<div id="menu"  class="nohpv">
+							<table cellpadding="0" cellspacing="0">
+								<tbody>
+									<tr>
+										<td>
+											<ul>
+												<li><a class="sel" href="/main/"><b>Главная</b></a></li>
+												<li><a  href="/novosti/"><b>Новости</b></a></li>
+												<li><a  href="/struktura/"><b>Структура</b></a></li>
+												<li><a  href="/kontakty/"><b>Контакты</b></a></li>
+												<li><a  href="/Cultural_heritage_of_Kuzbass/"><b>Объекты культурного наследия</b></a></li>
+												<li><a  href="/nashi_pobedy/"><b>Наши победы</b></a></li>
+												<li><a  href="/narod_i_obrazcovie_kollektiv/"><b>Народные коллективы</b></a></li>
+<!--
+												<li><a href="/" class="sel"><b>Главная</b></a></li>
+												<li><a href="/o_komitete/"><b>О Комитете</b></a></li>
+												<li><a href="/novosti/"><b>Новости</b></a></li>
+												<li><a href="/afisha/"><b>Афиша</b></a></li>
+												<li><a href="/culture/"><b>Культура</b></a></li>
+												<li><a href="/pamyatniki/"><b>Памятники</b></a></li>
+												<li><a href="/uslugi/"><b>Услуги</b></a></li>
+												<li><a href="/vacanci/"><b>Вакансии</b></a></li>
+												<li><a href="/contacts/"><b>Контакты</b></a></li>
+-->
+												<li class="sep"><img src="/templates/img/menu-sep.gif" alt="" width="3" height="17"></li>
+											</ul>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</td>
+				</tr>
+
+				<tr>
+					<td style="vertical-align: top;" height="100%">
+						<table id="center" cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td style="vertical-align: top;">
+
+										<div id="lmenu">
+											<ul>
+        										<li ><a href="/main/national_policy/"><b>Национальная политика</b></a></li>
+        										<li ><a href="/main/poster/"><b>АФИША</b></a></li>
+        										<li ><a href="/main/80_let_pobede/"><b>81 лет Победы</b></a></li>
+        										<li ><a href="/main/fotogal/"><b>Фотогалерея</b></a></li>
+        										<li ><a href="/main/inform/"><b>Важная информация</b></a></li>
+        										<li ><a href="/main/virt_pri/"><b>Виртуальная приемная</b></a></li>
+        										<li ><a href="/main/reestr/"><b>Реестр муниципальных услуг</b></a></li>
+        										<li ><a href="/main/otchety_o_rezultatah_deiatelnosti/"><b>Отчеты о результатах деятельности</b></a></li>
+        										<li ><a href="/main/nezavasimaia_ocenka/"><b>Независимая оценка качества оказания услуг организациями культуры</b></a></li>
+        										<li ><a href="/main/tourist_routes/"><b>Туристические маршруты</b></a></li>
+        										<li ><a href="/main/protivodeistvie_korrupcii/"><b>Противодействие коррупции</b></a></li>
+        										<li ><a href="/main/Plany_FHD/"><b>Планы финансово-хозяйственной деятельности</b></a></li>
+        										<li ><a href="/main/tarify/"><b>Тарифы на платные услуги</b></a></li>
+<!--        										
+        										<li><a href="/culture/main/"><b>Культура и закон</b></a></li>
+
+
+												<li><a href="/culture/main/"><b>Музеи</b></a></li>
+												<li><a href="/culture/main/"><b>Детские школы искусств</b></a></li>
+            									<li class="sub"><a href="/culture/oblastnye_uchrez/detskaya_yunoshe/"><b>Чистогорская школа искусств №35</b></a></li>
+            									<li class="sub"><a target="_blank" href="http://www.ms13.kuzreg.ru"><b>Детская школа искусств №13 с.Сосновка</b></a></li>
+												<li><a href="/culture/main/"><b>РЦБС Новокузнецкого района</b></a></li>
+            									<li class="sub"><a target="_blank" href="http://cbs-nr.ru"><b>Центральная районная библиотека</b></a></li>
+            									<li class="sub"><a href="/culture/oblastnye_uchrez/dvorec_kultury_a/"><b>Атамановская сельская библиотека-филиал</b></a></li>
+            									<li class="sub"><a href="/culture/oblastnye_uchrez/dvorec_kultury_a/"><b>Ашмаринская сельская библиотека-филиал</b></a></li>
+												<li><a href="/culture/main/"><b>Центр нар. творч. и досуга</b></a></li>
+            									<li><a href="/culture/oblastnye_uchrez/specialnaya_bibl/" class="sel"><b>Положения конкурсов</b></a></li>
+
+
+            									<li><a href="/culture/_god___god_kultu/"><b>Фотогалерея</b></a></li>
+            									<li><a href="/culture/_god___god_kultu/"><b>Видео-галерея</b></a></li>
+            									<li><a href="/culture/_god___god_kultu/"><b>Виртуальная приемная</b></a></li>
+            									<li><a href="/culture/oblastnye_uchrez/kraevedcheskiy_m/"><b>Реестр муниципальных услуг</b></a></li>
+-->
+
+<!--												<li><a href="/culture/main/"><b>Афиша</b></a></li> -->
+											</ul>
+										</div>
+
+<!--
+										<form class="search-form" method="post" action="/search/">
+  											<input class="search-input" name="stext" value="Поиск" onfocus="this.value='';" type="text"><button class="search-button" type="submit"></button>
+										</form>
+-->
+
+										<table style="width: 254px;" border="0">
+											<tbody>
+												<tr><td>&nbsp;</td></tr>
+												
+												<tr><td align="middle"><p><a href="http://www.kremlin.ru/" title="Президент России"><img style="width: 240px;height: 80px;" src="https://cntid-nr.kuzreg.ru/banners/kremlin_rect.gif" alt="Президент России"></a></p></td></tr>
+												<tr><td align="middle"><p><a target="_blank" href="https://gosuslugi.ru/"><img border="0" src="/image/gosuslugi_banner.jpg" width="240" height="349" alt="Баннер госуслуги" title="Баннер госуслуги" style="float:left"></a></p></td></tr>
+
+												<tr><td align="middle"><p>
+<script src="https://pos.gosuslugi.ru/bin/script.min.js"></script> <style>
+@font-face {
+font-family: "Als Ekibastuz Heavy";
+src: url('https://pos.gosuslugi.ru/bin/banner/als_ekibastuz_heavy-webfont.woff2')
+format("woff2"),
+url('https://pos.gosuslugi.ru/bin/banner/als_ekibastuz_heavy-webfont.woff')
+format("woff");
+font-weight: normal;
+font-style: normal;
+}
+:root {
+--pos-banner-width: 100%;
+--pos-banner-height: 100%;
+--pos-banner-padding: 10px;
+--pos-banner-title-size: 24px;
+--pos-banner-title-align: center;
+--pos-banner-bg-size: 70%;
+--pos-banner-bg-pos-x: left;
+}
+#pos-container-width {
+width: 100%;
+max-width: 400px;
+min-width: 200px;
+min-height: 300px;
+display: block;
+background-color: transparent;
+}
+#pos-container-height {
+position: relative;
+width: 100%;
+height: 0;
+padding-bottom: calc(600px - 100%);
+display: block;
+background-color: transparent;
+}
+#pos-banner {
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+width: var(--pos-banner-width);
+height: var(--pos-banner-height);
+min-height: 300px;
+background-image: url('https://pos.gosuslugi.ru/bin/banner/pos-bg-min.png');
+background-repeat: no-repeat;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+padding-left: var(--pos-banner-padding);
+padding-right: var(--pos-banner-padding);
+padding-bottom: 25px;
+box-sizing: border-box;
+background-color: #e3e8ec !important;
+background-size: var(--pos-banner-bg-size);
+background-position-x: var(--pos-banner-bg-pos-x);
+}
+#pos-banner-icon {
+background-image: url('https://pos.gosuslugi.ru/bin/banner/pos-gos-logo.png');
+width: 130px;
+height: 130px;
+background-repeat: no-repeat;
+background-position: center;
+align-self: flex-end;
+background-color: transparent;
+}
+.pos-banner-btn {
+font-family: "Arial", sans-serif;
+padding: 10px;
+width: 100%;
+max-width: 290px;
+text-align: center;
+background: #0063b0 !important;
+color: white !important;
+border-radius: 4px;
+margin-top: 20px;
+align-self: center;
+box-sizing: border-box;
+cursor: pointer;
+user-select: none;
+font-size: 15px !important;
+font-weight: normal !important;
+line-height: 1.2 !important;
+}
+#pos-banner-title {
+font-family: "Als Ekibastuz Heavy", sans-serif;
+color: #0063b0 !important;
+font-style: normal;
+font-weight: bold;
+text-align: var(--pos-banner-title-align);
+font-size: var(--pos-banner-title-size) !important;
+background-color: transparent;
+line-height: 1.2 !important;
+}
+.pos-banner-title-item {
+display: inline-block;
+background-color: transparent !important;
+font-size: var(--pos-banner-title-size) !important;
+font-weight: bold !important;
+line-height: 1.2 !important;
+}
+#pos-banner-hint-icon {
+font-family: "Arial", sans-serif;
+background-color: white !important;
+width: 22px;
+height: 22px;
+border: 1px solid grey;
+border-radius: 50%;
+text-align: center;
+padding: -2px;
+box-sizing: border-box;
+display: flex;
+justify-content: center;
+cursor: pointer;
+position: absolute;
+right: 10px;
+top: 20px;
+font-size: 12px !important;
+align-items: center;
+font-weight: bold;
+color: black !important;
+}
+#pos-banner-hint-icon-item {
+background-color: transparent;
+font-weight: normal;
+font-size: 14px;
+}
+#pos-banner-hint-message {
+font-family: "Arial", sans-serif;
+font-size: 11px !important;
+font-weight: normal !important;
+display: none;
+position: absolute;
+right: 5px;
+top: 55px;
+background-color: white;
+width: 85%;
+padding: 10px;
+box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+color: black !important;
+line-height: 1.2;
+}
+#pos-banner-hint-message::after {
+content: "";
+position: absolute;
+width: 10px;
+height: 10px;
+background: #ffffff;
+border-radius: 1px;
+transform: matrix(-0.7, -0.8, 0.63, -0.7, 0, 0);
+top: -5px;
+right: 10px;
+}
+#pos-banner-hint-icon:hover ~ #pos-banner-hint-message {
+display: block;
+animation: fadeInFromNone 0.5s ease-out;
+}
+@keyframes fadeInFromNone {
+0% {
+display: none;
+opacity: 0;
+}
+1% {
+display: block;
+opacity: 0;
+}
+100% {
+display: block;
+opacity: 1;
+}
+}
+</style>
+<div id="pos-container-width">
+<div id="pos-container-height">
+<div id="pos-banner">
+<div id="pos-banner-hint-icon">
+<span id="pos-banner-hint-icon-item">?</span>
+</div>
+<div id="pos-banner-hint-message">
+Направляемые сообщения не являются обращениями граждан,
+рассматриваемыми в порядке, установленном Федеральным законом от 2
+мая 2006 г. № 59-ФЗ «О порядке рассмотрения обращений граждан
+Российской Федерации».
+</div>
+<div id="pos-banner-icon"></div>
+<div id="pos-banner-title">
+<span class="pos-banner-title-item">Расскажите&nbsp;</span
+><span class="pos-banner-title-item">о проблеме</span>
+</div>
+<div class="pos-banner-btn" id="js-show-iframe-wrapper">
+Написать сообщение
+</div>
+</div>
+</div>
+</div>
+<script>
+let root = document.documentElement;
+let banner = document.getElementById("pos-banner");
+function displayWindowSize() {
+let width = banner.offsetWidth;
+if (width <= 220) {
+root.style.setProperty("--pos-banner-padding", "10px");
+root.style.setProperty("--pos-banner-title-size", "22px");
+root.style.setProperty("--pos-banner-title-align", "left");
+root.style.setProperty("--pos-banner-bg-size", "180%");
+root.style.setProperty("--pos-banner-bg-pos-x", "center");
+}
+if (220 < width && width <= 310) {
+root.style.setProperty("--pos-banner-padding", "15px");
+root.style.setProperty("--pos-banner-title-size", "22px");
+root.style.setProperty("--pos-banner-title-align", "left");
+root.style.setProperty("--pos-banner-bg-size", "110%");
+root.style.setProperty("--pos-banner-bg-pos-x", "left");
+}
+if (width > 310 && width < 360) {
+root.style.setProperty("--pos-banner-padding", "15px");
+root.style.setProperty("--pos-banner-title-size", "24px");
+root.style.setProperty("--pos-banner-title-align", "center");
+root.style.setProperty("--pos-banner-bg-size", "70%");
+root.style.setProperty("--pos-banner-bg-pos-x", "left");
+}
+}
+window.addEventListener("resize", displayWindowSize);
+displayWindowSize();
+</script> <script>Widget("https://pos.gosuslugi.ru/form", 215807)</script>
+
+
+												</p></td></tr>
+
+												<tr><td align="middle"><p><a href=" https://culture.gov.ru/" target="_blank"><img src="/image/36_36_minkultury1.jpg" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="http://pravo.gov.ru/" target="_blank"><img src="/image/pravo.png" style="width: 240px;height: 60px;" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+												
+												<tr><td align="middle"><p><a href="http://bus.gov.ru/pub/independentRating/list" target="_blank"><img src="/image/indep_rating.jpg" style="width: 240px;height: 60px;" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+											
+												
+												<tr><td align="middle"><p><a href="http://www.admnkr.ru/" target="_blank" title="Администрация Новокузнецкого района"><img style="width: 240px;height: 80px;" src="/image/admin_nvk.jpg" alt="Администрация Новокузнецкого района"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="http://rcbs-nmr.kuzreg.ru//" target="_blank"><img style="width: 240px;height: 70px;" src="/banners/ban_mbuk_rcbs_nmr2024.jpg"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="https://grants.culture.ru/"><img style="width: 240px;" src="/banners/banner-grants-133x133.png"></a></p></td></tr>
+												<tr><td><a href="http://zakupki.gov.ru/" rel="nofollow" target="_blank"><img src="/image/36_goszakupki1.jpg" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a><a href="http://www.givc.ru/" target="_blank"></a></td></tr>
+												
+												<tr><td align="middle"><p><a href="http://mincult-kuzbass.ru/" target="_blank"><img style="width: 240px;height: 120px;" src="/image/depkult.jpg"></a></p></td></tr>
+												
+												<tr><td align="middle"><p><a href="https://opac-global.ru/" target="_blank"><img style="width: 240px;height: 80px;" src="/image/elektron_katalog.jpg"></a></p></td></tr>
+												<tr><td align="middle"><p>
+													<a href="http://muzkult.ru/"><img style="width: 240px;" src="/image/muzkult_logo.jpg" alt=""></a>
+												</p></td></tr>
+
+												
+												
+											</tbody>
+										</table>
+									</td>
+
+									<td id="content" style="text-align:justify">
+										<link rel="STYLESHEET" type="text/css" href="/css/content.css">
+										<div id="content" style="width:710px; overflow:hidden">
+									
+<link rel="STYLESHEET" type="text/css" href="/css/content.css">
+		<h1 class="mname">
+			<div class="m1">
+				<div class="m2" style="padding-right:15px"><b style="overflow:hidden;">Главная</b></div>
+			</div>
+		</h1>
+		<p align="center"><strong>&nbsp;Комитет по культуре и национальной политике администрации Новокузнецкого МО перенес свой канал из мессенджера Телеграм в мессенджер Мах. Теперь вся информация о культурной жизни округа будет публиковаться там. </strong></p>
+<p align="center"><strong>Подписывайтесь - и&nbsp;</strong><strong>будете узнавать наши новости первыми!</strong><strong>&nbsp;<a href="https://vk.com/away.php?to=https%3A%2F%2Fmax.ru%2Fid4238003171_gos&amp;utf=1" target="_blank" rel="nofollow noopener">max.ru/id42380031...</a></strong></p>
+<p align="center"><strong>*****</strong></p>
+<p>&nbsp;</p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="https://www.culture.ru/" target="_blank" rel="noopener"><img src="../store/40387_ChatGPT Image 7 дек. 2025 г., 13_20_40.png" alt="" width="700" height="378" /></a></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;" align="center"><strong><span style="font-size: 12.0pt; font-family: 1Tahoma\\\',sans-serif; mso-fareast-font-family: 1Times New Roman\\\'; color: #3a3a3a; mso-fareast-language: RU;">WWW.КУЛЬТУРА.РФ &ndash; твой гид по культуре</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;" align="center"><span style="font-size: 12.0pt; font-family: 1Tahoma\\\',sans-serif; mso-fareast-font-family: 1Times New Roman\\\'; color: #3a3a3a; mso-fareast-language: RU;">Узнайте больше об истории страны и искусстве, смотрите фильмы и</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;" align="center"><span style="font-size: 12.0pt; font-family: 1Tahoma\\\',sans-serif; mso-fareast-font-family: 1Times New Roman\\\'; color: #3a3a3a; mso-fareast-language: RU;">планируйте культурные выходные на портале Культура.рф &ndash; флагманском</span></p>
+<p class="MsoNormal" style="margin-bottom: 0cm; line-height: normal; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;" align="center"><span style="font-size: 12.0pt; font-family: 1Tahoma\\\',sans-serif; mso-fareast-font-family: 1Times New Roman\\\'; color: #3a3a3a; mso-fareast-language: RU;">проекте Минкультуры России.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center">*****&nbsp;</p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40595_960х720_Новый%20порядок урегулирования споров.png" target="_blank" rel="noopener"><img src="../store/40595_960х720_Новый порядок урегулирования споров.png" alt="" width="700" height="525" /></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center">*****</p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>Подробную информацию ОБО ВСЕХ МЕРОПРИЯТИЯХ В СФЕРЕ КУЛЬТУРЫ Новокузнецкого муниципального округа читайте в Телеграм-канале&nbsp;&nbsp;<a href="https://t.me/kultura_nvkz" target="_blank" rel="noopener">https://t.me/kultura_nvkz</a></strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>ПОДПИСЫВАЙТЕСЬ! И ВСЕГДА БУДЕТЕ ПЕРВЫМИ УЗНАВАТЬ ВСЕ НАШИ НОВОСТИ!</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40377_ПДС.jpg"><strong><img src="../store/40377_ПДС.jpg" width="498" height="700" /></strong></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40400_Приложение%20№2 к обращение от Луневой&nbsp;Т.А_(v1).pdf" target="_blank" rel="noopener"><strong><img src="../store/40401_1.jpg" alt="" width="700" height="394" /></strong></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40396_Памятка%20для мигрантов Кузбасс 1.png" target="_blank" rel="noopener"><img src="../store/40396_Памятка для мигрантов Кузбасс 1.png" alt="" width="348" height="269" /></a>&nbsp;<a href="../store/40397_Памятка%20для мигрантов Кузбасс 2.png" target="_blank" rel="noopener"><img src="../store/40397_Памятка для мигрантов Кузбасс 2.png" alt="" width="348" height="269" /></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40388_вертикаль.jpg" target="_blank" rel="noopener"><strong><img src="../store/40388_вертикаль.jpg" alt="" width="700" height="990" /></strong></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong></p>
+<p>&nbsp;<a href="&lt;i/store/40304_Чек-лист%20пушкинская карта (pdf.io).jpg"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="../store/40304_Чек-лист пушкинская карта (pdf.io).jpg" width="701" height="498" /></strong></a></p>
+<p style="text-align: center;"><strong>***</strong></p>
+<p style="text-align: center;"><a href="https://admnkr.ru/sobytiya/novosti-po-razdelam/novosti-administratsii/11373-investirujte-v-budushchee-sokhranyaya-proshloe" target="_blank" rel="noopener"><img src="../store/40379_2 1646х926.png" alt="" width="700" height="394" /></a></p>
+<p style="text-align: center;"><strong>***</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40055_Афиша%20И.И. Шишкин.jpg"><img src="../store/40055_Афиша И.И. Шишкин.jpg" width="497" height="704" /></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong>&nbsp;</p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40122_МАХ.jpg"><img src="../store/40122_МАХ.jpg" width="495" height="701" /></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/40056_CAT_PLAKAT_vertical(smal)_page-0001%20(1).jpg" target="_blank" rel="noopener"><img src="../store/40056_CAT_PLAKAT_vertical(smal)_page-0001 (1).jpg" alt="" width="700" height="1050" /></a></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><strong>***</strong>&nbsp;</p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="../store/39801_Служи%20по контракту 26.06.jpg"><img style="display: block; margin-left: auto; margin-right: auto;" src="../store/39801_Служи по контракту 26.06.jpg" width="701" height="480" /></a><strong>***</strong>&nbsp;</p>
+<h2 style="text-align: center;">&nbsp;<strong>Вы можете пройти пешеходным патриотическим маршрутом "Память поколений", созданном в рамках Всекузбасского патриотического проекта, приуроченного к 80-летию Великой Победы!&nbsp;</strong></h2>
+<h1 class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><strong>ссылка на маршрут: <a href="../main/80_let_pobede/VictoryRoute/" target="_blank" rel="noopener">https://kkdm.kuzreg.ru/main/80_let_pobede/VictoryRoute/</a></strong></h1>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="https://may9.ru/" target="_blank" rel="noopener"><img src="../store/38673_Баннер 80 лет ПОбеды.jpg" width="701" height="466" /></a></p>
+<h2 style="text-align: center;"><span style="font-size: 14px; font-weight: 400;">*****</span></h2>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><span style="color: #3a3a3a;"><span style="font-size: 12px;"><u><img src="../store/38804_Телефон доверия.jpg" width="450" height="257" /></u></span></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center">&nbsp;<a href="../store/37468_материалы%20по финансовой грамотности_page-0001.jpg"><strong><img src="../store/37468_материалы по финансовой грамотности_page-0001.jpg" width="153" height="215" /></strong></a><span style="font-size: 12px;"><a href="&lt;img%20src=/store/37573_Типовой план для МО_page-0001 (1).jpg"><span style="color: #3a3a3a;"><strong><u><img src="../store/37573_Типовой план для МО_page-0001 (1).jpg" width="154" height="215" />&nbsp;&nbsp;</u></strong></span></a></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: center; line-height: normal;" align="center"><a href="&lt;img%20/store/37401_Ответственность за наркотики.png"><strong><img src="../store/37401_Ответственность за наркотики.png" width="230" height="165" /></strong></a>&nbsp;<a href="../store/37402_Ответственность%20за наркотики2.png"><strong><img src="../store/37402_Ответственность за наркотики2.png" width="230" height="165" /></strong></a>&nbsp;</p>
+		<div style="clear:both;"></div>
+		<h1 class="mname">
+			<div class="m1">
+				<div class="m2" style="padding-right:15px"><b style="overflow:hidden;">Новости</b></div>
+			</div>
+		</h1>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=4101">
+						<img style="width:100px; height:75px" src="/store/40699_Культура по Максимуму.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">25 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=4101">Культура поMAХимуму</a>
+        			</div>
+        			Кузбасс присоединился к масштабной всероссийский акции для льготных категорий граждан
+        			<a href="/novosti/?id=4101" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=4100">
+						<img style="width:100px; height:75px" src="/store/40692_QV7fqpIDJoBmTh1GqTxxKcJXmyk0a2FpHuZ2n0nVlyup_QnQu19rZDo1BuX2fkjfLywRzenKlMKRg-xoSfE86AUR.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">24 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=4100">Широкая Масленица</a>
+        			</div>
+        			Учреждения культуры Новокузнецкого МО отпраздновали Широкую Масленицу - мастер-классами и посиделками, тематическими фольклорными мероприятиями и народными гуляниями.
+        			<a href="/novosti/?id=4100" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=4103">
+						<img style="width:100px; height:75px" src="/store/40708_группа зал - 2.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">23 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=4103">Готов к труду и обороне!</a>
+        			</div>
+        			В Кемерово на базе Ледового дворца спорта «Кузбасс» и Лыжного комплекса «Локомотив» прошел очередной зимний областной фестиваль ВФСК
+        			<a href="/novosti/?id=4103" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=4099">
+						<img style="width:100px; height:75px" src="/store/40689_MpdQ8Sa0CtgnvRRmrDeHo9qAVXvhbi3t5L__ZDuEaPrghgrHXaCOrOafXYRbQPIVipq7-_OsQFW7hu_suQUbFicA.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">23 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=4099">День защитников Отечества</a>
+        			</div>
+        			В учреждениях культуры Новокузнецкого МО прошли мастер-классы, памятные мероприятия и праздничные концерты
+        			<a href="/novosti/?id=4099" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=4098">
+						<img style="width:100px; height:75px" src="/store/40680_IMG20260219150832_01.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">19 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=4098">Сила в единстве!</a>
+        			</div>
+        			Праздничное мероприятие, посвященное Дню Защитника Отечества и открытию Года Единства народов России, состоялось девятнадцатого февраля в Сосновском доме культуры.
+        			<a href="/novosti/?id=4098" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+
+
+
+
+
+											<div style="text-align:center; margin-top:30px; clear:both"><a href="#">В начало</a></div>
+										</div>
+
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td style="height: 20px;"></td>
+				</tr>
+				<tr>
+					<td id="footer">
+						<div class="f1" style="vertical-align:middle">
+<div style="float:left; width:100px">
+					<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t52.15;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</div>
+						
+						© 2014 Комитет по культуре и делам молодежи Новокузнецкого муниципального района</div>
+						<div class="f2"><a href="/login.php?action=logfrm">Admin</a></div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>

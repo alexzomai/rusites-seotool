@@ -1,0 +1,1484 @@
+<!doctype html>
+<html class="no-js" lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>&#x414;&#x415;&#x41C;.&#x418;&#x41D;&#x424;&#x41E;&#x420;&#x41C; - &#x43F;&#x435;&#x440;&#x432;&#x43E;&#x435; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x435; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x43E;&#x435; &#x430;&#x433;&#x435;&#x43D;&#x442;&#x441;&#x442;&#x432;&#x43E; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438;</title>
+        <meta content="" name="description">
+        <meta content="" name="keywords">
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, maximum-scale=1.0">
+        <meta content="telephone=no" name="format-detection">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="theme-color" content="#ffffff">
+
+        
+        
+        
+        
+
+        <script>
+            (function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)
+        </script>
+        <script>window.themeUrlPrefix = '/TheIod/'</script>
+        
+        
+        <link href="/TheIod/css/main.min.css?v=Q2jz70sGd26dgA6okRqZHKyv9D0_y15Q4MGfJHD3wpo" rel="stylesheet" type="text/css" />
+<link href="/TheIod/css/lib.css?v=GUdJsBKEdHeFphwHYlVBA19WrCNtt5ru2xfJtKDWlR0" rel="stylesheet" type="text/css" />
+        
+        
+    </head>
+    <body dir="ltr">
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript">
+           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+           m[i].l=1*new Date();
+           for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+           k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+           ym(94307322, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/94307322" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+        <!--LiveInternet counter-->
+        <script>
+            new Image().src = "https://counter.yadro.ru/hit?r" +
+                escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+                    ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                        screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+                ";h" + escape(document.title.substring(0, 150)) +
+                ";" + Math.random();
+        </script>
+        <!--/LiveInternet-->
+        <div class="page">
+            <div class="page__container">
+                <header class="page__header">
+                    <div class="header">
+                        <div class="header__wrap">
+                            <div class="header-main">
+                                <div class="header-main__wrap inner">
+                                    <div class="header-main__container">
+                                        <div class="header-main__wrapper">
+                                            <div class="header-main__box header-main__box--left">
+                                                <div class="header-main__mob-nav">
+                                                    <div class="nav-m-link">
+                                                        <button type="button" class="nav-m-link__btn js-nav-m-link">
+                                                            <span></span>
+                                                            <span></span>
+                                                            <span></span>
+                                                        </button>
+                                                    </div>
+                                                </div>
+                                                <div class="header-main__logo">
+                                                    <div class="logo">
+                                                        <a href="/" class="logo__link">
+                                                            <picture>
+                                                                <img src="/TheIod/img/general/logo.svg" alt="">
+                                                            </picture>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="header-main__nav">
+                                                    <div class="nav">
+                                                        <nav class="nav-list">
+                                                            <div class="nav-list__wrapper">
+                                                                <div class="nav-list__box">
+                                                                    <a href="/" class="nav-list__link">Главная</a>
+                                                                </div>
+                                                                <div class="nav-list__box">
+                                                                    <a href="/interview" class="nav-list__link">Интервью</a>
+                                                                </div>
+                                                                <div class="nav-list__box">
+                                                                    <a href="/tribune" class="nav-list__link">Прямая речь</a>
+                                                                </div>
+                                                                <div class="nav-list__box">
+                                                                    <a href="/analytics" class="nav-list__link">Аналитика</a>
+                                                                </div>
+                                                                <div class="nav-list__box">
+                                                                    <a href="/thing" class="nav-list__link">Люди и вещи</a>
+                                                                </div>
+                                                                <div class="nav-list__box">
+                                                                    <a href="/ekgrating" class="nav-list__link">ЭКГ-рейтинг</a>
+                                                                </div>
+                                                            </div>
+                                                        </nav>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="header-main__box header-main__box--main">
+                                                    <div class="header-main__news">
+                                                        <button class="header-main__news-btn btn btn--type-1 js-header-main-news" type="button">Новости</button>
+                                                    </div>
+                                                <div class="header-main__search">
+                                                    <div class="search">
+                                                        <form action="/search" method="post" autocomplete="off" class="search-form">
+                                                            <button type="button" class="search-form__btn btn js-search-pop-btn">
+                                                                <span class="icon-search"></span>
+                                                            </button>
+                                                            <div class="search-form__input-box">
+                                                                <input type="text" name="query" class="search-form__input js-search-pop-action" placeholder="Поиск" required>
+                                                                <input type="hidden" name="sortByDate" value="true">
+                                                                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8KtgybMj4OdAgkON9uM5kArbQGAHZvqfjusrkdU0DxlGwjU9JFsThQSWYXsuD1o-KeejOmen6BZuXFIuPggMiSntoXKH3LSoxA_WmIedFobOu-j_OhyAKIm2B2I4e4SJEfB2UEaTRpucySSzNaumB1g" />
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                        <div class="search-pop js-search-pop">
+                            <div class="search-pop__wrap inner">
+                                <div class="search-pop__wrapper">
+                                    <div class="search-pop-form">
+                                        <form action="/search" method="post" class="search-pop-form__form">
+                                            <div class="search-pop-form__input-box">
+                                                <span class="search-pop-form__icon-btn">
+                                                    <span class="search-pop-form__icon icon-search"></span>
+                                                </span>
+                                                <input type="text" name="query" autocomplete="off" placeholder="Поиск по сайту" data-symbol-run="3" class="search-pop-form__input js-search-pop-input" required>
+                                                <input type="hidden" name="sortByDate" value="true">
+                                                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8KtgybMj4OdAgkON9uM5kArbQGAHZvqfjusrkdU0DxlGwjU9JFsThQSWYXsuD1o-KeejOmen6BZuXFIuPggMiSntoXKH3LSoxA_WmIedFobOu-j_OhyAKIm2B2I4e4SJEfB2UEaTRpucySSzNaumB1g" />
+                                                <div class="search-pop-form__submit-box">
+                                                    <button class="search-pop-form__submit-close btn js-search-pop-close" type="button">
+                                                        <span class="icon-close"></span>
+                                                    </button>
+                                                    <button type="submit" class="search-pop-form__submit-btn btn js-search-pop-btn" disabled>Найти</button>
+                                                </div>
+                                                
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </header>
+
+                <main class="page__main js-page-main">
+                    <div class="main">
+                        <div class="main__wrap inner">
+                            
+<div class="main__wrapper">
+    <div class="main__col">
+        <div class="main-col">
+            <div class="main-col__wrap" id="desktopNewsFeedPlaceholder">
+                
+<div class="main-col-header">
+    <div class="main-col-header__wrapper" id="latestNewsHeaders">
+        <div class="main-col-header__box">
+            <button class="main-col-header__btn _active btn js-main-col-link" data-id="#pin-news" type="button" data-is-partner="false" data-is-active="true">
+                <span>Новости</span>
+            </button>
+        </div>
+        <div class="main-col-header__box">
+            <button class="main-col-header__btn  btn js-main-col-link" data-id="#pin-partners" data-parent="_transform" type="button" data-is-partner="true" data-is-active="false">
+                <span>Новости ЭКГ</span>
+            </button>
+        </div>
+    </div>
+    <div class="main-col-header__close">
+        <button class="main-col-header__close-btn btn js-m-news-close" type="button">
+            <span class="icon-close-b"></span>
+        </button>
+    </div>
+</div>
+<div class="main-col__content js-main-col-content ">
+    <div id="pin-news" class="main-col__content-box js-main-col-box _active">
+        <div class="main-col-list" id="latestNewsScrollArea">
+            <div class="main-col-list__wrap" id="latestNewsContent">
+                    <div class="main-col-list__box" data-item-time="639079635848169315">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/programmu-regionalnogo-matkapitala-v-chukotskom-avtonomnom-okruge-prodlili-do-kontsa-desyatiletiya">
+                <div class="main-col-el__title">&#x41F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x443; &#x440;&#x435;&#x433;&#x438;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x433;&#x43E; &#x43C;&#x430;&#x442;&#x43A;&#x430;&#x43F;&#x438;&#x442;&#x430;&#x43B;&#x430; &#x432; &#x427;&#x443;&#x43A;&#x43E;&#x442;&#x441;&#x43A;&#x43E;&#x43C; &#x430;&#x432;&#x442;&#x43E;&#x43D;&#x43E;&#x43C;&#x43D;&#x43E;&#x43C; &#x43E;&#x43A;&#x440;&#x443;&#x433;&#x435; &#x43F;&#x440;&#x43E;&#x434;&#x43B;&#x438;&#x43B;&#x438; &#x434;&#x43E; &#x43A;&#x43E;&#x43D;&#x446;&#x430; &#x434;&#x435;&#x441;&#x44F;&#x442;&#x438;&#x43B;&#x435;&#x442;&#x438;&#x44F; </div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        7 &#x447;&#x430;&#x441;&#x43E;&#x432; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639079468197831803">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/v-obshchestvennoy-palate-predlozhili-vvesti-sertifikat-zdorovogo-pitaniya-rebyonka-pervaya-tysyacha-dney">
+                <div class="main-col-el__title">&#x412; &#x41E;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x439; &#x43F;&#x430;&#x43B;&#x430;&#x442;&#x435; &#x43F;&#x440;&#x435;&#x434;&#x43B;&#x43E;&#x436;&#x438;&#x43B;&#x438; &#x432;&#x432;&#x435;&#x441;&#x442;&#x438; &#x441;&#x435;&#x440;&#x442;&#x438;&#x444;&#x438;&#x43A;&#x430;&#x442; &#x437;&#x434;&#x43E;&#x440;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x43F;&#x438;&#x442;&#x430;&#x43D;&#x438;&#x44F; &#x440;&#x435;&#x431;&#x451;&#x43D;&#x43A;&#x430; &#xAB;&#x41F;&#x435;&#x440;&#x432;&#x430;&#x44F; &#x442;&#x44B;&#x441;&#x44F;&#x447;&#x430; &#x434;&#x43D;&#x435;&#x439;&#xBB;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        12 &#x447;&#x430;&#x441;&#x43E;&#x432; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639078579025686363">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/bolee-dvadtsati-besplatnykh-katkov-moskovskikh-sezonov-budut-rabotat-do-mezhdunarodnogo-zhenskogo-dnya">
+                <div class="main-col-el__title">&#x411;&#x435;&#x441;&#x43F;&#x43B;&#x430;&#x442;&#x43D;&#x44B;&#x435; &#x43A;&#x430;&#x442;&#x43A;&#x438; &#x43D;&#x430; &#x43F;&#x43B;&#x43E;&#x449;&#x430;&#x434;&#x43A;&#x430;&#x445; &#xAB;&#x41C;&#x43E;&#x441;&#x43A;&#x43E;&#x432;&#x441;&#x43A;&#x438;&#x445; &#x441;&#x435;&#x437;&#x43E;&#x43D;&#x43E;&#x432;&#xBB; &#x431;&#x443;&#x434;&#x443;&#x442; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x442;&#x44C; &#x434;&#x43E; &#x41C;&#x435;&#x436;&#x434;&#x443;&#x43D;&#x430;&#x440;&#x43E;&#x434;&#x43D;&#x43E;&#x433;&#x43E; &#x436;&#x435;&#x43D;&#x441;&#x43A;&#x43E;&#x433;&#x43E; &#x434;&#x43D;&#x44F; </div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        1 &#x434;&#x435;&#x43D;&#x44C; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639078562417678611">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/deputaty-gosdumy-predlozhili-vvesti-federalny-standart-dlya-molochnykh-kukhon-i-ne-zamenyat-naturalnuyu-formu-vydachi-produktov-vyplatami">
+                <div class="main-col-el__title">&#x412; &#x413;&#x43E;&#x441;&#x434;&#x443;&#x43C;&#x435; &#x43F;&#x440;&#x435;&#x434;&#x43B;&#x43E;&#x436;&#x438;&#x43B;&#x438; &#x432;&#x432;&#x435;&#x441;&#x442;&#x438; &#x444;&#x435;&#x434;&#x435;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x441;&#x442;&#x430;&#x43D;&#x434;&#x430;&#x440;&#x442; &#x434;&#x43B;&#x44F; &#x43C;&#x43E;&#x43B;&#x43E;&#x447;&#x43D;&#x44B;&#x445; &#x43A;&#x443;&#x445;&#x43E;&#x43D;&#x44C; &#x438; &#x43D;&#x435; &#x437;&#x430;&#x43C;&#x435;&#x43D;&#x44F;&#x442;&#x44C; &#x43D;&#x430;&#x442;&#x443;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x443;&#x44E; &#x444;&#x43E;&#x440;&#x43C;&#x443; &#x432;&#x44B;&#x434;&#x430;&#x447;&#x438; &#x43F;&#x440;&#x43E;&#x434;&#x443;&#x43A;&#x442;&#x43E;&#x432; &#x432;&#x44B;&#x43F;&#x43B;&#x430;&#x442;&#x430;&#x43C;&#x438;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        1 &#x434;&#x435;&#x43D;&#x44C; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639077896331425334">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/prodleniye-dekretnykh-vyplat-do-tryokh-let-kosnetsya-millionov-rossiyan">
+                <div class="main-col-el__title">&#x41F;&#x440;&#x43E;&#x434;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x434;&#x435;&#x43A;&#x440;&#x435;&#x442;&#x43D;&#x44B;&#x445; &#x432;&#x44B;&#x43F;&#x43B;&#x430;&#x442; &#x434;&#x43E; &#x442;&#x440;&#x451;&#x445; &#x43B;&#x435;&#x442; &#x43A;&#x43E;&#x441;&#x43D;&#x451;&#x442;&#x441;&#x44F; &#x43C;&#x438;&#x43B;&#x43B;&#x438;&#x43E;&#x43D;&#x43E;&#x432; &#x440;&#x43E;&#x441;&#x441;&#x438;&#x44F;&#x43D;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        2 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639077876762057948">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/bibliografichesky-spisok-trudov-po-voprosam-demografii-145">
+                <div class="main-col-el__title">&#x411;&#x438;&#x431;&#x43B;&#x438;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x439; &#x441;&#x43F;&#x438;&#x441;&#x43E;&#x43A; &#x442;&#x440;&#x443;&#x434;&#x43E;&#x432; &#x43F;&#x43E; &#x432;&#x43E;&#x43F;&#x440;&#x43E;&#x441;&#x430;&#x43C; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x438; </div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        2 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639077836641948132">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/sergey-kravtsov-perechni-igrushek-multfilmov-i-literatury-dlya-detsadov-budut-primenyatsya-s-novogo-uchebnogo-goda">
+                <div class="main-col-el__title">&#x421;&#x435;&#x440;&#x433;&#x435;&#x439; &#x41A;&#x440;&#x430;&#x432;&#x446;&#x43E;&#x432;: &#x43F;&#x435;&#x440;&#x435;&#x447;&#x43D;&#x438; &#x440;&#x435;&#x43A;&#x43E;&#x43C;&#x435;&#x43D;&#x434;&#x43E;&#x432;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x438;&#x433;&#x440;&#x443;&#x448;&#x435;&#x43A;, &#x43C;&#x443;&#x43B;&#x44C;&#x442;&#x444;&#x438;&#x43B;&#x44C;&#x43C;&#x43E;&#x432; &#x438; &#x43B;&#x438;&#x442;&#x435;&#x440;&#x430;&#x442;&#x443;&#x440;&#x44B; &#x434;&#x43B;&#x44F; &#x434;&#x435;&#x442;&#x441;&#x430;&#x434;&#x43E;&#x432; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x44E;&#x442; &#x43A; &#x43D;&#x43E;&#x432;&#x43E;&#x43C;&#x443; &#x443;&#x447;&#x435;&#x431;&#x43D;&#x43E;&#x43C;&#x443; &#x433;&#x43E;&#x434;&#x443; </div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        2 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639077824335869951">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/aktualnye-sotsialno-demograficheskiye-protsessy-v-tsfo-733">
+                <div class="main-col-el__title">&#x410;&#x43A;&#x442;&#x443;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x441;&#x43E;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;-&#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441;&#x44B; &#x432; &#x426;&#x424;&#x41E; </div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        2 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639077702657161814">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/glava-gosudarstva-poruchil-rassmotret-vozmozhnost-prodleniya-do-trekh-let-perioda-vyplaty-po-ukhodu-za-rebyonkom">
+                <div class="main-col-el__title">&#x413;&#x43B;&#x430;&#x432;&#x430; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x430; &#x43F;&#x43E;&#x440;&#x443;&#x447;&#x438;&#x43B; &#x440;&#x430;&#x441;&#x441;&#x43C;&#x43E;&#x442;&#x440;&#x435;&#x442;&#x44C; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x43F;&#x440;&#x43E;&#x434;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x434;&#x43E; &#x442;&#x440;&#x451;&#x445; &#x43B;&#x435;&#x442; &#x43F;&#x435;&#x440;&#x438;&#x43E;&#x434;&#x430; &#x432;&#x44B;&#x43F;&#x43B;&#x430;&#x442;&#x44B; &#x43F;&#x43E; &#x443;&#x445;&#x43E;&#x434;&#x443; &#x437;&#x430; &#x440;&#x435;&#x431;&#x451;&#x43D;&#x43A;&#x43E;&#x43C;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        2 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639077688108952391">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/vladimir-putin-poruchil-podgotovit-predlozheniya-po-podderzhke-rabotayushchikh-roditeley">
+                <div class="main-col-el__title">&#x412;&#x43B;&#x430;&#x434;&#x438;&#x43C;&#x438;&#x440; &#x41F;&#x443;&#x442;&#x438;&#x43D; &#x43F;&#x43E;&#x440;&#x443;&#x447;&#x438;&#x43B; &#x43F;&#x43E;&#x434;&#x433;&#x43E;&#x442;&#x43E;&#x432;&#x438;&#x442;&#x44C; &#x43F;&#x440;&#x435;&#x434;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x44F; &#x43F;&#x43E; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x435; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x44E;&#x449;&#x438;&#x445; &#x440;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x435;&#x439;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        2 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="pin-partners" class="main-col__content-box js-main-col-box ">
+        <div class="main-col-list" id="latestPartnerNewsScrollArea">
+            <div class="main-col-list__wrap" id="latestPartnerNewsContent">
+                    <div class="main-col-list__box" data-item-time="639076258970593865">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/pervy-v-strane-kadrovy-tsentr-rabota-molodyozhi-rossii-otkrylsya-v-omske">
+                <div class="main-col-el__title">&#x41F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x432; &#x441;&#x442;&#x440;&#x430;&#x43D;&#x435; &#x43A;&#x430;&#x434;&#x440;&#x43E;&#x432;&#x44B;&#x439; &#x446;&#x435;&#x43D;&#x442;&#x440; &#xAB;&#x420;&#x430;&#x431;&#x43E;&#x442;&#x430; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x451;&#x436;&#x438; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438;&#xBB; &#x43E;&#x442;&#x43A;&#x440;&#x44B;&#x43B;&#x441;&#x44F; &#x432; &#x41E;&#x43C;&#x441;&#x43A;&#x435;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        4 &#x434;&#x43D;&#x44F; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639071910558989080">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/na-sayte-ekg-reytinga-dostupny-razmeshchennye-na-hh-ru-vakansii-kompany">
+                <div class="main-col-el__title">&#x411;&#x43E;&#x43B;&#x435;&#x435; &#x434;&#x432;&#x430;&#x434;&#x446;&#x430;&#x442;&#x438; &#x442;&#x44B;&#x441;&#x44F;&#x447; &#x430;&#x43A;&#x442;&#x443;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x432;&#x430;&#x43A;&#x430;&#x43D;&#x441;&#x438;&#x439; &#x441;&#x442;&#x430;&#x43B;&#x438; &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x43D;&#x44B; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44F;&#x43C; &#x43D;&#x430; &#x441;&#x430;&#x439;&#x442;&#x435; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x430;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        9 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639070800509174165">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/niu-vshe-vypustil-novy-daydzhest-ob-otvetstvennom-vedenii-biznesa-1">
+                <div class="main-col-el__title">&#x41D;&#x418;&#x423; &#x412;&#x428;&#x42D; &#x432;&#x44B;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x43B; &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44C;&#x441;&#x43A;&#x438;&#x439; &#x434;&#x430;&#x439;&#x434;&#x436;&#x435;&#x441;&#x442; &#x43E;&#x431; &#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x43C; &#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x438; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x430;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        10 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639068517013243488">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/gruppa-kompany-delo-rasshiryayet-korporativnuyu-demograficheskuyu-programmu-dlya-mnogodetnykh-sotrudnikov">
+                <div class="main-col-el__title">&#x413;&#x440;&#x443;&#x43F;&#x43F;&#x430; &#x43A;&#x43E;&#x43C;&#x43F;&#x430;&#x43D;&#x438;&#x439; &#xAB;&#x414;&#x435;&#x43B;&#x43E;&#xBB; &#x440;&#x430;&#x441;&#x448;&#x438;&#x440;&#x44F;&#x435;&#x442; &#x43A;&#x43E;&#x440;&#x43F;&#x43E;&#x440;&#x430;&#x442;&#x438;&#x432;&#x43D;&#x443;&#x44E; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x443;&#x44E; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x443; &#x434;&#x43B;&#x44F; &#x43C;&#x43D;&#x43E;&#x433;&#x43E;&#x434;&#x435;&#x442;&#x43D;&#x44B;&#x445; &#x441;&#x43E;&#x442;&#x440;&#x443;&#x434;&#x43D;&#x438;&#x43A;&#x43E;&#x432;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        13 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639064960575036486">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/ekg-reyting-naglyadno-pokazyvayet-kak-biznes-vyglyadit-v-glazakh-gosudarstva-menyaya-paradigmu-vzaimootnosheny">
+                <div class="main-col-el__title">&#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433; &#x43D;&#x430;&#x433;&#x43B;&#x44F;&#x434;&#x43D;&#x43E; &#x43F;&#x43E;&#x43A;&#x430;&#x437;&#x44B;&#x432;&#x430;&#x435;&#x442;, &#x43A;&#x430;&#x43A; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441; &#x432;&#x44B;&#x433;&#x43B;&#x44F;&#x434;&#x438;&#x442; &#x432; &#x433;&#x43B;&#x430;&#x437;&#x430;&#x445; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x430;, &#x43C;&#x435;&#x43D;&#x44F;&#x44F; &#x43F;&#x430;&#x440;&#x430;&#x434;&#x438;&#x433;&#x43C;&#x443; &#x432;&#x437;&#x430;&#x438;&#x43C;&#x43E;&#x43E;&#x442;&#x43D;&#x43E;&#x448;&#x435;&#x43D;&#x438;&#x439;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        17 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639057975843067999">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/lider-ekg-reytinga-prodolzhayet-razvitiye-inzhenernogo-obrazovaniya-v-sibiri">
+                <div class="main-col-el__title">&#x41B;&#x438;&#x434;&#x435;&#x440; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x430; &#x43F;&#x440;&#x43E;&#x434;&#x43E;&#x43B;&#x436;&#x430;&#x435;&#x442; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x435; &#x438;&#x43D;&#x436;&#x435;&#x43D;&#x435;&#x440;&#x43D;&#x43E;&#x433;&#x43E; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x432; &#x421;&#x438;&#x431;&#x438;&#x440;&#x438;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        25 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639057247521505444">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/v-rossii-opredelili-liderov-ekg-reytinga-za-yanvar">
+                <div class="main-col-el__title">&#x412; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438; &#x43E;&#x43F;&#x440;&#x435;&#x434;&#x435;&#x43B;&#x438;&#x43B;&#x438; &#x43B;&#x438;&#x434;&#x435;&#x440;&#x43E;&#x432; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x430; &#x437;&#x430; &#x44F;&#x43D;&#x432;&#x430;&#x440;&#x44C;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        26 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639053614256743502">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/uchastnik-ekg-reytinga-vvel-novuyu-meru-podderzhki-mnogodetnykh-sotrudnikov">
+                <div class="main-col-el__title">&#x423;&#x447;&#x430;&#x441;&#x442;&#x43D;&#x438;&#x43A; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x430; &#x432;&#x432;&#x451;&#x43B; &#x43D;&#x43E;&#x432;&#x443;&#x44E; &#x43C;&#x435;&#x440;&#x443; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x438; &#x43C;&#x43D;&#x43E;&#x433;&#x43E;&#x434;&#x435;&#x442;&#x43D;&#x44B;&#x445; &#x441;&#x43E;&#x442;&#x440;&#x443;&#x434;&#x43D;&#x438;&#x43A;&#x43E;&#x432;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        30 &#x434;&#x43D;&#x435;&#x439; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639045972159097249">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/lider-ekg-reytinga-voshel-v-top-20-luchshikh-rabotodateley-rossii-po-versii-headhunter">
+                <div class="main-col-el__title">&#x41B;&#x438;&#x434;&#x435;&#x440; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x430; &#x432;&#x43E;&#x448;&#x435;&#x43B; &#x432; &#x442;&#x43E;&#x43F;-20 &#x43B;&#x443;&#x447;&#x448;&#x438;&#x445; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x43E;&#x434;&#x430;&#x442;&#x435;&#x43B;&#x435;&#x439; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438; &#x43F;&#x43E; &#x432;&#x435;&#x440;&#x441;&#x438;&#x438; HeadHunter</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        1 &#x43C;&#x435;&#x441;&#x44F;&#x446; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="main-col-list__box" data-item-time="639045141175981804">
+        <div class="main-col-el">
+            <a class="main-col-el__item" href="/news/v-niu-vshe-vypustili-novy-daydzhest-ob-otvetstvennom-vedenii-biznesa">
+                <div class="main-col-el__title">&#x412; &#x41D;&#x418;&#x423; &#x412;&#x428;&#x42D; &#x432;&#x44B;&#x43F;&#x443;&#x441;&#x442;&#x438;&#x43B;&#x438; &#x44F;&#x43D;&#x432;&#x430;&#x440;&#x441;&#x43A;&#x438;&#x439; &#x434;&#x430;&#x439;&#x434;&#x436;&#x435;&#x441;&#x442; &#x43E;&#x431; &#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x43C; &#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x438; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x430;</div>
+                <div class="main-col-el__footer">
+                    <div class="main-col-el__time">
+                        <span class="icon-clock"></span> 
+                        1 &#x43C;&#x435;&#x441;&#x44F;&#x446; &#x43D;&#x430;&#x437;&#x430;&#x434;
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="main__container">
+        <div class="main__section main__section--news">
+            <div class="main-news">
+                <div class="main-news__wrapper">
+                    <div class="main-news__index">
+                        <div class="main-news-index">
+                                <div class="main-news-index__header">
+                                    <div class="main-news-index__category h-title">Материал дня</div>
+                                </div>
+                                <a class="main-news-index__item" href="/news/glava-gosudarstva-poruchil-rassmotret-vozmozhnost-prodleniya-do-trekh-let-perioda-vyplaty-po-ukhodu-za-rebyonkom">
+                                    <div class="main-news-index__img-box">
+                                        <picture class="main-news-index__img">
+                                                <img src="/media/&#x422;&#x430;&#x442;&#x44C;&#x44F;&#x43D;&#x430; 2/&#x422;&#x430;&#x442;&#x44C;&#x44F;&#x43D;&#x430;_26_1/IMG_0631.jpeg" alt="">
+                                        </picture>
+                                    </div>
+                                    <div class="main-news-index__content">
+                                        <div class="main-news-index__title">&#x413;&#x43B;&#x430;&#x432;&#x430; &#x433;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x430; &#x43F;&#x43E;&#x440;&#x443;&#x447;&#x438;&#x43B; &#x440;&#x430;&#x441;&#x441;&#x43C;&#x43E;&#x442;&#x440;&#x435;&#x442;&#x44C; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x43F;&#x440;&#x43E;&#x434;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x434;&#x43E; &#x442;&#x440;&#x451;&#x445; &#x43B;&#x435;&#x442; &#x43F;&#x435;&#x440;&#x438;&#x43E;&#x434;&#x430; &#x432;&#x44B;&#x43F;&#x43B;&#x430;&#x442;&#x44B; &#x43F;&#x43E; &#x443;&#x445;&#x43E;&#x434;&#x443; &#x437;&#x430; &#x440;&#x435;&#x431;&#x451;&#x43D;&#x43A;&#x43E;&#x43C;</div>
+                                            <div class="main-news-index__desc">&#x417;&#x430;&#x434;&#x430;&#x447;&#x443; &#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x43E; &#x432;&#x44B;&#x43F;&#x43E;&#x43B;&#x43D;&#x438;&#x442;&#x44C; &#x41F;&#x440;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x43E; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438;</div>
+                                    </div>
+                                </a>
+                        </div>
+                    </div>
+                    <div class="main-news__banner" style="position:relative; width:100%;">
+    <div class="banner-el">
+        <div class="banner-el__wrap">
+            <div class="banner-el__header">
+                <div class="banner-el__title h-title">&#x420;&#x435;&#x43A;&#x43B;&#x430;&#x43C;&#x430;</div>
+            </div>
+            <div class="banner-el__content">
+                    <a href="/adlink/48yv8h1v1rmw72w4ktrnqwwjc5" target="_blank" rel="nofollow">
+                    <picture>
+                        <img src="/ad-link/i/48yv8h1v1rmw72w4ktrnqwwjc5" alt="">
+                    </picture>
+                </a>
+            </div>
+        </div>
+    </div>
+                    </div>
+                    <div class="main-news__list">
+                        <div class="main-news-list">
+    <div class="main-news-list__header">
+        <div class="main-news-list__title h-title">Самые читаемые новости</div>
+    </div>
+    <div class="main-news-list__content">
+            <div class="main-news-list__box">
+                <div class="main-news-el">
+                    <a class="main-news-el__item" href="/news/novye-zakony-po-demografii-142">
+                        <div class="main-news-el__title">&#x41D;&#x43E;&#x432;&#x44B;&#x435; &#x437;&#x430;&#x43A;&#x43E;&#x43D;&#x44B; &#x43F;&#x43E; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x438;</div>
+                        <div class="main-news-el-footer">
+                            <div class="main-news-el-footer__wrapper">
+                                <div class="main-news-el-footer__box main-news-el-footer__box--date">
+                                    <div class="main-news-el__date">
+                                        24 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                    </div>
+                                    <div class="main-news-el__time">
+                                        <span class="icon-clock"></span>
+                                        14:36
+                                    </div>
+                                </div>
+                                <div class="main-news-el-footer__box main-news-el-footer__box--read">
+                                    <div class="main-news-el__read">
+                                        <span style="height:20px"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="main-news-list__box">
+                <div class="main-news-el">
+                    <a class="main-news-el__item" href="/news/v-borbe-za-personal-biznes-v-poltora-raza-narastil-raskhody-na-dobrovolnoye-medstrakhovaniye">
+                        <div class="main-news-el__title">&#x412; &#x431;&#x43E;&#x440;&#x44C;&#x431;&#x435; &#x437;&#x430; &#x43F;&#x435;&#x440;&#x441;&#x43E;&#x43D;&#x430;&#x43B; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441; &#x432; &#x43F;&#x43E;&#x43B;&#x442;&#x43E;&#x440;&#x430; &#x440;&#x430;&#x437;&#x430; &#x43D;&#x430;&#x440;&#x430;&#x441;&#x442;&#x438;&#x43B; &#x440;&#x430;&#x441;&#x445;&#x43E;&#x434;&#x44B; &#x43D;&#x430; &#x434;&#x43E;&#x431;&#x440;&#x43E;&#x432;&#x43E;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x43C;&#x435;&#x434;&#x441;&#x442;&#x440;&#x430;&#x445;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435; </div>
+                        <div class="main-news-el-footer">
+                            <div class="main-news-el-footer__wrapper">
+                                <div class="main-news-el-footer__box main-news-el-footer__box--date">
+                                    <div class="main-news-el__date">
+                                        24 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                    </div>
+                                    <div class="main-news-el__time">
+                                        <span class="icon-clock"></span>
+                                        11:48
+                                    </div>
+                                </div>
+                                <div class="main-news-el-footer__box main-news-el-footer__box--read">
+                                    <div class="main-news-el__read">
+                                        <span style="height:20px"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="main-news-list__box">
+                <div class="main-news-el">
+                    <a class="main-news-el__item" href="/news/v-ryazanskoy-dobroteke-berut-v-prokat-videonyani">
+                        <div class="main-news-el__title">&#x412; &#x440;&#x44F;&#x437;&#x430;&#x43D;&#x441;&#x43A;&#x43E;&#x439; &#xAB;&#x414;&#x43E;&#x431;&#x440;&#x43E;&#x442;&#x435;&#x43A;&#x435;&#xBB; &#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x44E;&#x442;&#x441;&#x44F; &#x441;&#x43F;&#x440;&#x43E;&#x441;&#x43E;&#x43C; &#x432;&#x438;&#x434;&#x435;&#x43E;&#x43D;&#x44F;&#x43D;&#x438;</div>
+                        <div class="main-news-el-footer">
+                            <div class="main-news-el-footer__wrapper">
+                                <div class="main-news-el-footer__box main-news-el-footer__box--date">
+                                    <div class="main-news-el__date">
+                                        25 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                    </div>
+                                    <div class="main-news-el__time">
+                                        <span class="icon-clock"></span>
+                                        09:27
+                                    </div>
+                                </div>
+                                <div class="main-news-el-footer__box main-news-el-footer__box--read">
+                                    <div class="main-news-el__read">
+                                        <span style="height:20px"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="main-news-list__box">
+                <div class="main-news-el">
+                    <a class="main-news-el__item" href="/news/k-uchastiyu-v-letnikh-trudovykh-proyektakh-rosatoma-privlekayetsya-bolee-polutora-tysyach-studentov">
+                        <div class="main-news-el__title">&#x41A; &#x443;&#x447;&#x430;&#x441;&#x442;&#x438;&#x44E; &#x432; &#x43B;&#x435;&#x442;&#x43D;&#x438;&#x445; &#x442;&#x440;&#x443;&#x434;&#x43E;&#x432;&#x44B;&#x445; &#x43F;&#x440;&#x43E;&#x435;&#x43A;&#x442;&#x430;&#x445; &#x420;&#x43E;&#x441;&#x430;&#x442;&#x43E;&#x43C;&#x430; &#x43F;&#x440;&#x438;&#x432;&#x43B;&#x435;&#x43A;&#x430;&#x44E;&#x442;&#x441;&#x44F; &#x431;&#x43E;&#x43B;&#x435;&#x435; &#x43F;&#x43E;&#x43B;&#x443;&#x442;&#x43E;&#x440;&#x430; &#x442;&#x44B;&#x441;&#x44F;&#x447; &#x441;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;&#x43E;&#x432;</div>
+                        <div class="main-news-el-footer">
+                            <div class="main-news-el-footer__wrapper">
+                                <div class="main-news-el-footer__box main-news-el-footer__box--date">
+                                    <div class="main-news-el__date">
+                                        24 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                    </div>
+                                    <div class="main-news-el__time">
+                                        <span class="icon-clock"></span>
+                                        17:03
+                                    </div>
+                                </div>
+                                <div class="main-news-el-footer__box main-news-el-footer__box--read">
+                                    <div class="main-news-el__read">
+                                        <span style="height:20px"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main__section main__section--banner" style="position:relative; width:100%;">
+        </div>
+
+        <div class="main__section main__section--category">
+            <div class="main-category">
+                <div class="main-category__wrapper">
+                    <div class="main-category__index">
+                        <div class="main-category-group">
+                                <div class="main-category-group__title h-title">Интервью</div>
+                                <div class="main-category-group__content">
+                                    <div class="main-category-list">
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/interview/yury-podolyaka-esli-molodoy-chelovek-svoimi-rukami-postroil-dom-on-prevrashchayetsya-v-nastoyashchego-muzhchinu-kotoromu-stanovitsya-vsyo-po-plechu">
+                                                            <div class="main-category-el__img-box">
+                                                                <picture class="main-category-el__img">
+                                                                    <img src="/media/&#x412;&#x43B;&#x430;&#x434;&#x438;&#x43C;&#x438;&#x440;/&#x418;&#x44E;&#x43B;&#x44C;24/&#x410;&#x43F;&#x440;&#x435;&#x43B;&#x44C;25/5.png" alt="">
+                                                                </picture>
+                                                            </div>
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x42E;&#x440;&#x438;&#x439; &#x41F;&#x43E;&#x434;&#x43E;&#x43B;&#x44F;&#x43A;&#x430;: &#xAB;&#x415;&#x441;&#x43B;&#x438; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x43E;&#x439; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A; &#x441;&#x432;&#x43E;&#x438;&#x43C;&#x438; &#x440;&#x443;&#x43A;&#x430;&#x43C;&#x438; &#x43F;&#x43E;&#x441;&#x442;&#x440;&#x43E;&#x438;&#x43B; &#x434;&#x43E;&#x43C;, &#x43E;&#x43D; &#x43F;&#x440;&#x435;&#x432;&#x440;&#x430;&#x449;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x432; &#x43D;&#x430;&#x441;&#x442;&#x43E;&#x44F;&#x449;&#x435;&#x433;&#x43E; &#x43C;&#x443;&#x436;&#x447;&#x438;&#x43D;&#x443;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x43E;&#x43C;&#x443; &#x442;&#x435;&#x43F;&#x435;&#x440;&#x44C; &#x432;&#x441;&#x451; &#x43F;&#x43E; &#x43F;&#x43B;&#x435;&#x447;&#x443;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x418;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E; &#x441; &#x431;&#x43B;&#x43E;&#x433;&#x435;&#x440;&#x43E;&#x43C; &#x42E;&#x440;&#x438;&#x435;&#x43C; &#x41F;&#x43E;&#x434;&#x43E;&#x43B;&#x44F;&#x43A;&#x43E;&#x439;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        20 &#x430;&#x43F;&#x440;&#x435;&#x43B;&#x44F; 2025
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        14:17
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/interview/liliya-ovcharova-dlya-proryva-v-demografii-nuzhen-rost-zarplat-dostupnoye-zhilyo-i-uvazheniye-k-semye-na-rabote">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41B;&#x438;&#x43B;&#x438;&#x44F; &#x41E;&#x432;&#x447;&#x430;&#x440;&#x43E;&#x432;&#x430;: &#xAB;&#x414;&#x43B;&#x44F; &#x43F;&#x440;&#x43E;&#x440;&#x44B;&#x432;&#x430; &#x432; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x438; &#x43D;&#x443;&#x436;&#x435;&#x43D; &#x440;&#x43E;&#x441;&#x442; &#x437;&#x430;&#x440;&#x43F;&#x43B;&#x430;&#x442;, &#x434;&#x43E;&#x441;&#x442;&#x443;&#x43F;&#x43D;&#x43E;&#x435; &#x436;&#x438;&#x43B;&#x44C;&#x451; &#x438; &#x443;&#x432;&#x430;&#x436;&#x435;&#x43D;&#x438;&#x435; &#x43A; &#x441;&#x435;&#x43C;&#x44C;&#x435; &#x43D;&#x430; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x435;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x418;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E; &#x441; &#x43F;&#x440;&#x43E;&#x440;&#x435;&#x43A;&#x442;&#x43E;&#x440;&#x43E;&#x43C; &#x41D;&#x430;&#x443;&#x447;&#x43D;&#x43E;&#x433;&#x43E; &#x438;&#x441;&#x441;&#x43B;&#x435;&#x434;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x433;&#x43E; &#x443;&#x43D;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442;&#x430; &#xAB;&#x412;&#x44B;&#x441;&#x448;&#x430;&#x44F; &#x448;&#x43A;&#x43E;&#x43B;&#x430; &#x44D;&#x43A;&#x43E;&#x43D;&#x43E;&#x43C;&#x438;&#x43A;&#x438;&#xBB;, &#x43F;&#x440;&#x43E;&#x444;&#x435;&#x441;&#x441;&#x43E;&#x440;&#x43E;&#x43C;, &#x434;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x43E;&#x43C; &#x44D;&#x43A;&#x43E;&#x43D;&#x43E;&#x43C;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x445; &#x43D;&#x430;&#x443;&#x43A; &#x41B;&#x438;&#x43B;&#x438;&#x435;&#x439; &#x41E;&#x432;&#x447;&#x430;&#x440;&#x43E;&#x432;&#x43E;&#x439;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        26 &#x43C;&#x430;&#x440;&#x442;&#x430; 2025
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        17:32
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/interview/valery-fyodorov-yasnost-v-myslyakh-tochnost-v-deystviyakh-vot-chto-nuzhno-dlya-pereloma-demograficheskoy-situatsii">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x412;&#x430;&#x43B;&#x435;&#x440;&#x438;&#x439; &#x424;&#x451;&#x434;&#x43E;&#x440;&#x43E;&#x432;: &#xAB;&#x42F;&#x441;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x432; &#x43C;&#x44B;&#x441;&#x43B;&#x44F;&#x445;, &#x442;&#x43E;&#x447;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x432; &#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x44F;&#x445; &#x2013; &#x432;&#x43E;&#x442; &#x447;&#x442;&#x43E; &#x43D;&#x443;&#x436;&#x43D;&#x43E; &#x434;&#x43B;&#x44F; &#x43F;&#x435;&#x440;&#x435;&#x43B;&#x43E;&#x43C;&#x430; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x439; &#x441;&#x438;&#x442;&#x443;&#x430;&#x446;&#x438;&#x438;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x418;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E; &#x441; &#x433;&#x435;&#x43D;&#x435;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x43C; &#x434;&#x438;&#x440;&#x435;&#x43A;&#x442;&#x43E;&#x440;&#x43E;&#x43C; &#x412;&#x441;&#x435;&#x440;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x43E;&#x433;&#x43E; &#x446;&#x435;&#x43D;&#x442;&#x440;&#x430; &#x438;&#x437;&#x443;&#x447;&#x435;&#x43D;&#x438;&#x44F; &#x43E;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x433;&#x43E; &#x43C;&#x43D;&#x435;&#x43D;&#x438;&#x44F; (&#x412;&#x426;&#x418;&#x41E;&#x41C;), &#x434;&#x435;&#x43A;&#x430;&#x43D;&#x43E;&#x43C; &#x444;&#x430;&#x43A;&#x443;&#x43B;&#x44C;&#x442;&#x435;&#x442;&#x430; &#x441;&#x43E;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43D;&#x430;&#x443;&#x43A; &#x438; &#x43C;&#x430;&#x441;&#x441;&#x43E;&#x432;&#x44B;&#x445; &#x43A;&#x43E;&#x43C;&#x43C;&#x443;&#x43D;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x439; &#x424;&#x438;&#x43D;&#x430;&#x43D;&#x441;&#x43E;&#x432;&#x43E;&#x433;&#x43E; &#x443;&#x43D;&#x438;&#x432;&#x435;&#x440;&#x441;&#x438;&#x442;&#x435;&#x442;&#x430; &#x43F;&#x440;&#x438; &#x41F;&#x440;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x435; &#x420;&#x424;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        27 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2025
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        18:26
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/interview/oleg-apolikhin-muzhskoye-zdorovye-v-zhenskikh-rukakh">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41E;&#x43B;&#x435;&#x433; &#x410;&#x43F;&#x43E;&#x43B;&#x438;&#x445;&#x438;&#x43D;: &#xAB;&#x41C;&#x443;&#x436;&#x441;&#x43A;&#x43E;&#x435; &#x437;&#x434;&#x43E;&#x440;&#x43E;&#x432;&#x44C;&#x435; &#x432; &#x436;&#x435;&#x43D;&#x441;&#x43A;&#x438;&#x445; &#x440;&#x443;&#x43A;&#x430;&#x445;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x418;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E; &#x441; &#x437;&#x430;&#x43C;&#x435;&#x441;&#x442;&#x438;&#x442;&#x435;&#x43B;&#x435;&#x43C; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x435;&#x434;&#x430;&#x442;&#x435;&#x43B;&#x44F; &#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x438; &#x41E;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x439; &#x43F;&#x430;&#x43B;&#x430;&#x442;&#x44B; &#x420;&#x424; &#x43F;&#x43E; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x438;, &#x437;&#x430;&#x449;&#x438;&#x442;&#x435; &#x441;&#x435;&#x43C;&#x44C;&#x438;, &#x434;&#x435;&#x442;&#x435;&#x439; &#x438; &#x442;&#x440;&#x430;&#x434;&#x438;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x44B;&#x445; &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x44B;&#x445; &#x446;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x435;&#x439;, &#x434;&#x438;&#x440;&#x435;&#x43A;&#x442;&#x43E;&#x440;&#x43E;&#x43C; &#x41D;&#x418;&#x418; &#x443;&#x440;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x438; &#x438; &#x438;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x435;&#x43D;&#x446;&#x438;&#x43E;&#x43D;&#x43D;&#x43E;&#x439; &#x440;&#x430;&#x434;&#x438;&#x43E;&#x43B;&#x43E;&#x433;&#x438;&#x438; &#x438;&#x43C;&#x435;&#x43D;&#x438; &#x41D;. &#x410;. &#x41B;&#x43E;&#x43F;&#x430;&#x442;&#x43A;&#x438;&#x43D;&#x430;, &#x447;&#x43B;&#x435;&#x43D;&#x43E;&#x43C;-&#x43A;&#x43E;&#x440;&#x440;&#x435;&#x441;&#x43F;&#x43E;&#x43D;&#x434;&#x435;&#x43D;&#x442;&#x43E;&#x43C; &#x420;&#x410;&#x41D;, &#x433;&#x43B;&#x430;&#x432;&#x43D;&#x44B;&#x43C; &#x441;&#x43F;&#x435;&#x446;&#x438;&#x430;&#x43B;&#x438;&#x441;&#x442;&#x43E;&#x43C; &#x43F;&#x43E; &#x440;&#x435;&#x43F;&#x440;&#x43E;&#x434;&#x443;&#x43A;&#x442;&#x438;&#x432;&#x43D;&#x43E;&#x43C;&#x443; &#x437;&#x434;&#x43E;&#x440;&#x43E;&#x432;&#x44C;&#x44E; &#x41C;&#x438;&#x43D;&#x438;&#x441;&#x442;&#x435;&#x440;&#x441;&#x442;&#x432;&#x430; &#x437;&#x434;&#x440;&#x430;&#x432;&#x43E;&#x43E;&#x445;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438;, &#x434;&#x43E;&#x43A;&#x442;&#x43E;&#x440;&#x43E;&#x43C; &#x43C;&#x435;&#x434;&#x438;&#x446;&#x438;&#x43D;&#x441;&#x43A;&#x438;&#x445; &#x43D;&#x430;&#x443;&#x43A;, &#x43F;&#x440;&#x43E;&#x444;&#x435;&#x441;&#x441;&#x43E;&#x440;&#x43E;&#x43C; &#x41E;&#x43B;&#x435;&#x433;&#x43E;&#x43C; &#x418;&#x432;&#x430;&#x43D;&#x43E;&#x432;&#x438;&#x447;&#x435;&#x43C; &#x410;&#x43F;&#x43E;&#x43B;&#x438;&#x445;&#x438;&#x43D;&#x44B;&#x43C;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        26 &#x438;&#x44E;&#x43D;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        17:31
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="main-category__col">
+                            <div class="main-category__col-box">
+        <div class="banner-el">
+            <div class="banner-el__wrap">
+                <div class="banner-el__header">
+                    <div class="banner-el__title h-title">&#x420;&#x435;&#x43A;&#x43B;&#x430;&#x43C;&#x430;</div>
+                </div>
+                <div class="banner-el__content">
+                        <a href="/adlink/48yv8h1v1rmw72w4ktrnqwwjc5" target="_blank" rel="nofollow">
+                        <picture>
+                            <img src="/ad-link/i/48yv8h1v1rmw72w4ktrnqwwjc5" alt="">
+                        </picture>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main__section main__section--banner">
+        </div>
+        <div class="main__section main__section--category">
+            <div class="main-category">
+                <div class="main-category__wrapper">
+                    <div class="main-category__index">
+                        <div class="main-category-group">
+                                <div class="main-category-group__title h-title">Прямая речь</div>
+                                <div class="main-category-group__content">
+                                    <div class="main-category-list">
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/tribune/chtoby-uluchshit-usloviya-prozhivaniya-za-god-kreditnymi-sredstvami-vospolzovalos-svyshe-960-tysyach-grazhdan-v-osnovnom-semeynoy-ipotekoy">
+                                                            <div class="main-category-el__img-box">
+                                                                <picture class="main-category-el__img">
+                                                                    <img src="/media/&#x412;&#x43B;&#x430;&#x434;&#x438;&#x43C;&#x438;&#x440;/&#x418;&#x44E;&#x43B;&#x44C;24/&#x424;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44C;26/27_&#x43F;&#x440;&#x44F;&#x43C;&#x430;&#x44F; &#x440;&#x435;&#x447;&#x44C; -&#x41C;&#x438;&#x448;&#x443;&#x441;&#x442;&#x438;&#x43D;_&#x413;&#x414;.jpg" alt="">
+                                                                </picture>
+                                                            </div>
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#xAB;&#x427;&#x442;&#x43E;&#x431;&#x44B; &#x443;&#x43B;&#x443;&#x447;&#x448;&#x438;&#x442;&#x44C; &#x443;&#x441;&#x43B;&#x43E;&#x432;&#x438;&#x44F; &#x43F;&#x440;&#x43E;&#x436;&#x438;&#x432;&#x430;&#x43D;&#x438;&#x44F;, &#x437;&#x430; &#x433;&#x43E;&#x434; &#x43A;&#x440;&#x435;&#x434;&#x438;&#x442;&#x43D;&#x44B;&#x43C;&#x438; &#x441;&#x440;&#x435;&#x434;&#x441;&#x442;&#x432;&#x430;&#x43C;&#x438; &#x432;&#x43E;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x43B;&#x43E;&#x441;&#x44C; &#x441;&#x432;&#x44B;&#x448;&#x435; 960 &#x442;&#x44B;&#x441;&#x44F;&#x447; &#x433;&#x440;&#x430;&#x436;&#x434;&#x430;&#x43D;, &#x432; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x43E;&#x43C; &#x2013; &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x43E;&#x439; &#x438;&#x43F;&#x43E;&#x442;&#x435;&#x43A;&#x43E;&#x439;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x41C;&#x438;&#x445;&#x430;&#x438;&#x43B; &#x41C;&#x438;&#x448;&#x443;&#x441;&#x442;&#x438;&#x43D;, &#x41F;&#x440;&#x435;&#x434;&#x441;&#x435;&#x434;&#x430;&#x442;&#x435;&#x43B;&#x44C; &#x41F;&#x440;&#x430;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x442;&#x432;&#x430; &#x420;&#x424;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        27 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        17:55
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/tribune/to-chto-my-zanyalis-semeynymi-studencheskimi-obshchezhitiyami-prinyali-zakon-po-kotoromu-semyam-vydelyayetsya-otdelnaya-komnata-eto-ochen-vazhno">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#xAB;&#x422;&#x43E;, &#x447;&#x442;&#x43E; &#x43C;&#x44B; &#x437;&#x430;&#x43D;&#x44F;&#x43B;&#x438;&#x441;&#x44C; &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x44B;&#x43C;&#x438; &#x441;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x43C;&#x438; &#x43E;&#x431;&#x449;&#x435;&#x436;&#x438;&#x442;&#x438;&#x44F;&#x43C;&#x438;, &#x2013; &#x44D;&#x442;&#x43E; &#x432;&#x430;&#x436;&#x43D;&#x43E;. &#x41D;&#x43E; &#x43D;&#x435;&#x43B;&#x44C;&#x437;&#x44F; &#x437;&#x430;&#x431;&#x44B;&#x432;&#x430;&#x442;&#x44C; &#x43E; &#x441;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;&#x430;&#x445;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x435; &#x438; &#x436;&#x438;&#x432;&#x443;&#x442;, &#x438; &#x443;&#x447;&#x430;&#x442;&#x441;&#x44F; &#x432; &#x441;&#x432;&#x43E;&#x451;&#x43C; &#x433;&#x43E;&#x440;&#x43E;&#x434;&#x435;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x422;&#x430;&#x442;&#x44C;&#x44F;&#x43D;&#x430; &#x411;&#x443;&#x446;&#x43A;&#x430;&#x44F;, &#x43F;&#x435;&#x440;&#x432;&#x44B;&#x439; &#x437;&#x430;&#x43C;&#x435;&#x441;&#x442;&#x438;&#x442;&#x435;&#x43B;&#x44C; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x435;&#x434;&#x430;&#x442;&#x435;&#x43B;&#x44F; &#x41A;&#x43E;&#x43C;&#x438;&#x442;&#x435;&#x442;&#x430; &#x413;&#x43E;&#x441;&#x443;&#x434;&#x430;&#x440;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x439; &#x414;&#x443;&#x43C;&#x44B; &#x43F;&#x43E; &#x437;&#x430;&#x449;&#x438;&#x442;&#x435; &#x441;&#x435;&#x43C;&#x44C;&#x438;, &#x432;&#x43E;&#x43F;&#x440;&#x43E;&#x441;&#x430;&#x43C; &#x43E;&#x442;&#x446;&#x43E;&#x432;&#x441;&#x442;&#x432;&#x430;, &#x43C;&#x430;&#x442;&#x435;&#x440;&#x438;&#x43D;&#x441;&#x442;&#x432;&#x430; &#x438; &#x434;&#x435;&#x442;&#x441;&#x442;&#x432;&#x430;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        20 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        14:13
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/tribune/v-kachestve-sotsialnykh-nyan-my-vybrali-spetsialistov-kotorye-bolee-pyati-desyati-let-rabotayut-v-nashikh-krizisnykh-tsentrakh-s-detkami-umeyut-s-nimi-zanimatsya">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#xAB;&#x412; &#x43A;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435; &#xAB;&#x441;&#x43E;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x43D;&#x44F;&#x43D;&#x44C;&#xBB; &#x43C;&#x44B; &#x432;&#x44B;&#x431;&#x440;&#x430;&#x43B;&#x438; &#x441;&#x43F;&#x435;&#x446;&#x438;&#x430;&#x43B;&#x438;&#x441;&#x442;&#x43E;&#x432;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x435; &#x431;&#x43E;&#x43B;&#x435;&#x435; &#x43F;&#x44F;&#x442;&#x438; &#x2013; &#x434;&#x435;&#x441;&#x44F;&#x442;&#x438; &#x43B;&#x435;&#x442; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x44E;&#x442; &#x432; &#x43D;&#x430;&#x448;&#x438;&#x445; &#x43A;&#x440;&#x438;&#x437;&#x438;&#x441;&#x43D;&#x44B;&#x445; &#x446;&#x435;&#x43D;&#x442;&#x440;&#x430;&#x445; &#x441; &#x434;&#x435;&#x442;&#x43A;&#x430;&#x43C;&#x438;, &#x443;&#x43C;&#x435;&#x44E;&#x442; &#x441; &#x43D;&#x438;&#x43C;&#x438; &#x437;&#x430;&#x43D;&#x438;&#x43C;&#x430;&#x442;&#x44C;&#x441;&#x44F;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x41E;&#x43B;&#x44C;&#x433;&#x430; &#x421;&#x435;&#x440;&#x433;&#x435;&#x435;&#x432;&#x430;, &#x43C;&#x438;&#x43D;&#x438;&#x441;&#x442;&#x440; &#x441;&#x43E;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x439; &#x437;&#x430;&#x449;&#x438;&#x442;&#x44B; &#x412;&#x43E;&#x440;&#x43E;&#x43D;&#x435;&#x436;&#x441;&#x43A;&#x43E;&#x439; &#x43E;&#x431;&#x43B;&#x430;&#x441;&#x442;&#x438;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        13 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        16:34
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/tribune/samoye-vazhnoye-na-vystavke-naydennye-avtorami-rabot-schastlivye-momenty-v-zhizni-svoyey-semyi-v-svoyom-detstve">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#xAB;&#x421;&#x430;&#x43C;&#x43E;&#x435; &#x432;&#x430;&#x436;&#x43D;&#x43E;&#x435; &#x43D;&#x430; &#x432;&#x44B;&#x441;&#x442;&#x430;&#x432;&#x43A;&#x435; &#x2013; &#x44D;&#x442;&#x43E; &#x441;&#x447;&#x430;&#x441;&#x442;&#x43B;&#x438;&#x432;&#x44B;&#x435; &#x43C;&#x43E;&#x43C;&#x435;&#x43D;&#x442;&#x44B; &#x432; &#x436;&#x438;&#x437;&#x43D;&#x438; &#x441;&#x432;&#x43E;&#x435;&#x439; &#x441;&#x435;&#x43C;&#x44C;&#x438;, &#x432; &#x441;&#x432;&#x43E;&#x451;&#x43C; &#x434;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#xBB;</div>
+                                                                <div class="main-category-el__desc">&#x410;&#x43B;&#x438;&#x43D;&#x430; &#x41A;&#x43E;&#x432;&#x430;&#x43B;&#x435;&#x43D;&#x43A;&#x43E;, &#x43A;&#x443;&#x440;&#x430;&#x442;&#x43E;&#x440; &#x432;&#x44B;&#x441;&#x442;&#x430;&#x432;&#x43A;&#x438; &#xAB;&#x41F;&#x440;&#x43E;&#x441;&#x442;&#x43E; &#x434;&#x435;&#x442;&#x441;&#x442;&#x432;&#x43E;&#xBB; &#x432; &#x413;&#x430;&#x43B;&#x435;&#x440;&#x435;&#x435; &#x43D;&#x430; &#x421;&#x43E;&#x43B;&#x44F;&#x43D;&#x43A;&#x435; (&#x41C;&#x43E;&#x441;&#x43A;&#x432;&#x430;)</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        06 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        16:16
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    <div class="main-category__col">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main__section main__section--banner">
+        </div>
+
+        <div class="main__section main__section--category">
+            <div class="main-category">
+                <div class="main-category__wrapper">
+                    <div class="main-category__index">
+                        <div class="main-category-group">
+                                <div class="main-category-group__title h-title">
+                                    Аналитика
+                                </div>
+                                <div class="main-category-group__content">
+                                    <div class="main-category-list">
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/analytics/-3">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x424;&#x430;&#x43A;&#x442;&#x43E;&#x440;&#x44B; &#x442;&#x435;&#x440;&#x440;&#x438;&#x442;&#x43E;&#x440;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x440;&#x430;&#x437;&#x43B;&#x438;&#x447;&#x438;&#x439; &#x43E;&#x442;&#x442;&#x43E;&#x43A;&#x430; &#x438; &#x432;&#x43E;&#x437;&#x432;&#x440;&#x430;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x441;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x451;&#x436;&#x438; &#x432; &#x43F;&#x43E;&#x441;&#x442;&#x441;&#x43E;&#x432;&#x435;&#x442;&#x441;&#x43A;&#x43E;&#x439; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438;</div>
+                                                                <div class="main-category-el__desc">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x437; &#x43E;&#x441;&#x43E;&#x431;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x435;&#x439; &#x43F;&#x43E;&#x441;&#x442;&#x441;&#x43E;&#x432;&#x435;&#x442;&#x441;&#x43A;&#x43E;&#x439; &#x43C;&#x438;&#x433;&#x440;&#x430;&#x446;&#x438;&#x438; &#x441;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x439; &#x43C;&#x43E;&#x43B;&#x43E;&#x434;&#x451;&#x436;&#x438; &#x432; &#x440;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x438;&#x445; &#x440;&#x435;&#x433;&#x438;&#x43E;&#x43D;&#x430;&#x445; &#x43D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x441;&#x442;&#x430;&#x442;&#x438;&#x441;&#x442;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x445; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x438; &#x440;&#x435;&#x437;&#x443;&#x43B;&#x44C;&#x442;&#x430;&#x442;&#x43E;&#x432; &#x438;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        25 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        16:11
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/analytics/semeyny-biznes-kak-semeynaya-tsennost">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x421;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x44B;&#x439; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441; &#x43A;&#x430;&#x43A; &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x430;&#x44F; &#x446;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x44C; </div>
+                                                                <div class="main-category-el__desc">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x437; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x435;&#x439; &#x434;&#x43B;&#x44F; &#x441;&#x442;&#x438;&#x43C;&#x443;&#x43B;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x44F; &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x43E;&#x433;&#x43E; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x430; &#x432; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x43E;&#x439; &#x424;&#x435;&#x434;&#x435;&#x440;&#x430;&#x446;&#x438;&#x438;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        18 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        16:25
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/analytics/modelirovaniye-i-realnye-demograficheskiye-protsessy-v-selskikh-poseleniyakh-tambovskoy-oblasti-v-2010-2020-godakh">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41C;&#x43E;&#x434;&#x435;&#x43B;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x435; &#x438; &#x440;&#x435;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441;&#x44B; &#x432; &#x441;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x438;&#x445; &#x43F;&#x43E;&#x441;&#x435;&#x43B;&#x435;&#x43D;&#x438;&#x44F;&#x445; &#x422;&#x430;&#x43C;&#x431;&#x43E;&#x432;&#x441;&#x43A;&#x43E;&#x439; &#x43E;&#x431;&#x43B;&#x430;&#x441;&#x442;&#x438; &#x432; 2010 &#x2013; 2020 &#x433;&#x43E;&#x434;&#x430;&#x445; </div>
+                                                                <div class="main-category-el__desc">&#x420;&#x435;&#x43A;&#x43E;&#x43D;&#x441;&#x442;&#x440;&#x443;&#x43A;&#x446;&#x438;&#x44F; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x445; &#x441;&#x442;&#x440;&#x430;&#x442;&#x435;&#x433;&#x438;&#x439; &#x43A;&#x440;&#x435;&#x441;&#x442;&#x44C;&#x44F;&#x43D;&#x441;&#x43A;&#x438;&#x445; &#x43C;&#x438;&#x43A;&#x440;&#x43E;&#x441;&#x43E;&#x446;&#x438;&#x443;&#x43C;&#x43E;&#x432; &#x422;&#x430;&#x43C;&#x431;&#x43E;&#x432;&#x441;&#x43A;&#x43E;&#x439; &#x43E;&#x431;&#x43B;&#x430;&#x441;&#x442;&#x438; </div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        11 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        16:03
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/analytics/kultura-berezhlivogo-otnosheniya-muzhchin-k-svoyemu-zdorovyu-v-kontekste-upravleniya-demograficheskimi-protsessami">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41A;&#x443;&#x43B;&#x44C;&#x442;&#x443;&#x440;&#x430; &#x431;&#x435;&#x440;&#x435;&#x436;&#x43B;&#x438;&#x432;&#x43E;&#x433;&#x43E; &#x43E;&#x442;&#x43D;&#x43E;&#x448;&#x435;&#x43D;&#x438;&#x44F; &#x43C;&#x443;&#x436;&#x447;&#x438;&#x43D; &#x43A; &#x441;&#x432;&#x43E;&#x435;&#x43C;&#x443; &#x437;&#x434;&#x43E;&#x440;&#x43E;&#x432;&#x44C;&#x44E; &#x432; &#x43A;&#x43E;&#x43D;&#x442;&#x435;&#x43A;&#x441;&#x442;&#x435; &#x443;&#x43F;&#x440;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x43C;&#x438; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441;&#x430;&#x43C;&#x438;</div>
+                                                                <div class="main-category-el__desc">&#x41E;&#x446;&#x435;&#x43D;&#x43A;&#x430; &#x43A;&#x440;&#x438;&#x437;&#x438;&#x441;&#x43D;&#x43E;&#x433;&#x43E; &#x445;&#x430;&#x440;&#x430;&#x43A;&#x442;&#x435;&#x440;&#x430; &#x434;&#x435;&#x43C;&#x43E;&#x433;&#x440;&#x430;&#x444;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x445; &#x43F;&#x440;&#x43E;&#x446;&#x435;&#x441;&#x441;&#x43E;&#x432; &#x432; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x438; &#x432; &#x446;&#x435;&#x43B;&#x43E;&#x43C; &#x438; &#x43C;&#x443;&#x436;&#x447;&#x438;&#x43D; &#x43A;&#x430;&#x43A; &#x433;&#x440;&#x443;&#x43F;&#x43F;&#x44B; &#x440;&#x438;&#x441;&#x43A;&#x430; &#x43F;&#x440;&#x435;&#x436;&#x434;&#x435;&#x432;&#x440;&#x435;&#x43C;&#x435;&#x43D;&#x43D;&#x43E;&#x439; &#x441;&#x43C;&#x435;&#x440;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x432; &#x447;&#x430;&#x441;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x438;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        04 &#x444;&#x435;&#x432;&#x440;&#x430;&#x43B;&#x44F; 2026
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        14:53
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main__section main__section--category">
+            <div class="main-category">
+                <div class="main-category__wrapper">
+                    <div class="main-category__index">
+                        <div class="main-category-group">
+                                <div class="main-category-group__title h-title">Люди и вещи</div>
+                                <div class="main-category-group__content">
+                                    <div class="main-category-list">
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/thing/tverskaya-shkola-khudozhestvennogo-stekla-semeynye-traditsii">
+                                                            <div class="main-category-el__img-box">
+                                                                <picture class="main-category-el__img">
+                                                                    <img src="/media/&#x41B;&#x44E;&#x434;&#x438; &#x438; &#x412;&#x435;&#x449;&#x438;/&#x421;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x44B;&#x439; &#x43C;&#x443;&#x437;&#x435;&#x439; &#x441;&#x442;&#x435;&#x43A;&#x43B;&#x430; &#x438;&#x437; &#x422;&#x432;&#x435;&#x440;&#x441;&#x43A;&#x43E;&#x439; &#x43E;&#x431;&#x43B;&#x430;&#x441;&#x442;&#x438;/Group 894.png" alt="">
+                                                                </picture>
+                                                            </div>
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x422;&#x432;&#x435;&#x440;&#x441;&#x43A;&#x430;&#x44F; &#x448;&#x43A;&#x43E;&#x43B;&#x430; &#x445;&#x443;&#x434;&#x43E;&#x436;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x433;&#x43E; &#x441;&#x442;&#x435;&#x43A;&#x43B;&#x430;: &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x44B;&#x435; &#x442;&#x440;&#x430;&#x434;&#x438;&#x446;&#x438;&#x438;</div>
+                                                                <div class="main-category-el__desc">&#x42D;&#x43A;&#x441;&#x43A;&#x443;&#x440;&#x441;&#x438;&#x44F; &#x43F;&#x43E; &#x43C;&#x443;&#x437;&#x435;&#x44E; &#x434;&#x438;&#x43D;&#x430;&#x441;&#x442;&#x438;&#x438; &#x41C;&#x430;&#x440;&#x448;&#x443;&#x43C;&#x43E;&#x432;&#x44B;&#x445;  </div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        18 &#x441;&#x435;&#x43D;&#x442;&#x44F;&#x431;&#x440;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        20:05
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/thing/fabrika-derevyannoy-igrushki-semeyny-biznes-iz-podmoskovya">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x424;&#x430;&#x431;&#x440;&#x438;&#x43A;&#x430; &#x434;&#x435;&#x440;&#x435;&#x432;&#x44F;&#x43D;&#x43D;&#x43E;&#x439; &#x438;&#x433;&#x440;&#x443;&#x448;&#x43A;&#x438;: &#x441;&#x435;&#x43C;&#x435;&#x439;&#x43D;&#x44B;&#x439; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441; &#x438;&#x437; &#x41F;&#x43E;&#x434;&#x43C;&#x43E;&#x441;&#x43A;&#x43E;&#x432;&#x44C;&#x44F; </div>
+                                                                <div class="main-category-el__desc">&#x41A;&#x430;&#x43A; &#x430;&#x440;&#x445;&#x438;&#x442;&#x435;&#x43A;&#x442;&#x43E;&#x440; &#x410;&#x43B;&#x435;&#x43A;&#x441;&#x435;&#x439; &#x411;&#x43E;&#x447;&#x430;&#x440;&#x43E;&#x432; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x451;&#x442; &#x43A;&#x430;&#x447;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x443;&#x44E; &#x43F;&#x440;&#x43E;&#x434;&#x443;&#x43A;&#x446;&#x438;&#x44E; &#x434;&#x43B;&#x44F; &#x434;&#x435;&#x442;&#x435;&#x439; </div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        21 &#x430;&#x432;&#x433;&#x443;&#x441;&#x442;&#x430; 2024
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        17:28
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/thing/mesto-krasit-chelovek-kak-mnogodetny-lipchanin-berezhyot-istoriyu-goroda">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41C;&#x435;&#x441;&#x442;&#x43E; &#x43A;&#x440;&#x430;&#x441;&#x438;&#x442; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A;: &#x43A;&#x430;&#x43A; &#x43C;&#x43D;&#x43E;&#x433;&#x43E;&#x434;&#x435;&#x442;&#x43D;&#x44B;&#x439; &#x43B;&#x438;&#x43F;&#x447;&#x430;&#x43D;&#x438;&#x43D; &#x431;&#x435;&#x440;&#x435;&#x436;&#x451;&#x442; &#x438;&#x441;&#x442;&#x43E;&#x440;&#x438;&#x44E; &#x433;&#x43E;&#x440;&#x43E;&#x434;&#x430;</div>
+                                                                <div class="main-category-el__desc">&#x41F;&#x440;&#x43E;&#x433;&#x443;&#x43B;&#x43A;&#x430; &#x43F;&#x43E; &#x41B;&#x435;&#x431;&#x435;&#x434;&#x44F;&#x43D;&#x438; &#x441; &#x412;&#x430;&#x43B;&#x435;&#x440;&#x438;&#x435;&#x43C; &#x410;&#x43A;&#x438;&#x43C;&#x43E;&#x432;&#x44B;&#x43C;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        17 &#x438;&#x44E;&#x43B;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        18:31
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/thing/delo-v-metalle-iskusstvo-vladimirskogo-mastera">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x414;&#x435;&#x43B;&#x43E; &#x432; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x435;: &#x438;&#x441;&#x43A;&#x443;&#x441;&#x441;&#x442;&#x432;&#x43E; &#x432;&#x43B;&#x430;&#x434;&#x438;&#x43C;&#x438;&#x440;&#x441;&#x43A;&#x43E;&#x433;&#x43E; &#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x430;</div>
+                                                                <div class="main-category-el__desc">&#x41A;&#x430;&#x43A; &#x436;&#x438;&#x442;&#x435;&#x43B;&#x44C; &#x412;&#x43B;&#x430;&#x434;&#x438;&#x43C;&#x438;&#x440;&#x430; &#x41C;&#x438;&#x445;&#x430;&#x438;&#x43B; &#x411;&#x43B;&#x438;&#x43D;&#x43E;&#x432; &#x441;&#x43E;&#x437;&#x434;&#x430;&#x451;&#x442; &#x443;&#x43D;&#x438;&#x43A;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x43C;&#x435;&#x442;&#x430;&#x43B;&#x43B;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x441;&#x43A;&#x443;&#x43B;&#x44C;&#x43F;&#x442;&#x443;&#x440;&#x44B; </div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-news-el__date">
+                                                                        15 &#x43C;&#x430;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-news-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        17:41
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main__section main__section--category">
+            <div class="main-category">
+                <div class="main-category__wrapper">
+                    <div class="main-category__index">
+                        <div class="main-category-group">
+                                <div class="main-category-group__title h-title">
+                                    ЭКГ-рейтинг
+                                </div>
+                                <div class="main-category-group__content">
+                                    <div class="main-category-list">
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/ekgrating/v-vysshey-shkole-ekonomiki-obsudili-osobennosti-otvetstvennogo-vedeniya-biznesa-v-kitaye">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x412; &#x412;&#x44B;&#x441;&#x448;&#x435;&#x439; &#x448;&#x43A;&#x43E;&#x43B;&#x435; &#x44D;&#x43A;&#x43E;&#x43D;&#x43E;&#x43C;&#x438;&#x43A;&#x438; &#x43E;&#x431;&#x441;&#x443;&#x434;&#x438;&#x43B;&#x438; &#x43E;&#x441;&#x43E;&#x431;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x433;&#x43E; &#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x44F; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x430; &#x432; &#x41A;&#x438;&#x442;&#x430;&#x435;</div>
+                                                                <div class="main-category-el__desc">&#x41A;&#x430;&#x43A; &#x445;&#x430;&#x440;&#x430;&#x43A;&#x442;&#x435;&#x440;&#x438;&#x437;&#x443;&#x435;&#x442;&#x441;&#x44F; &#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441; &#x432; &#x41A;&#x438;&#x442;&#x430;&#x435; &#x438; &#x43D;&#x430; &#x43A;&#x430;&#x43A;&#x438;&#x435; &#x43F;&#x440;&#x435;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438; &#x43E;&#x43D; &#x43C;&#x43E;&#x436;&#x435;&#x442; &#x440;&#x430;&#x441;&#x441;&#x447;&#x438;&#x442;&#x44B;&#x432;&#x430;&#x442;&#x44C;, &#x43E;&#x431;&#x441;&#x443;&#x434;&#x438;&#x43B;&#x438; &#x432; &#x440;&#x430;&#x43C;&#x43A;&#x430;&#x445; &#x441;&#x435;&#x43C;&#x438;&#x43D;&#x430;&#x440;&#x430; &#xAB;&#x41E;&#x441;&#x43E;&#x431;&#x435;&#x43D;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x433;&#x43E; &#x432;&#x435;&#x434;&#x435;&#x43D;&#x438;&#x44F; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x430; &#x432; &#x41A;&#x438;&#x442;&#x430;&#x435;&#xBB;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        24 &#x43E;&#x43A;&#x442;&#x44F;&#x431;&#x440;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        18:45
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/ekgrating/na-iii-vserossiyskoy-konferentsii-v-sfere-goszakupok-obsudili-dobrosovestnost-uchastnikov-zakupok">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41D;&#x430; III &#x412;&#x441;&#x435;&#x440;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x43E;&#x439; &#x43A;&#x43E;&#x43D;&#x444;&#x435;&#x440;&#x435;&#x43D;&#x446;&#x438;&#x438; &#x432; &#x441;&#x444;&#x435;&#x440;&#x435; &#x433;&#x43E;&#x441;&#x437;&#x430;&#x43A;&#x443;&#x43F;&#x43E;&#x43A; &#x43E;&#x431;&#x441;&#x443;&#x434;&#x438;&#x43B;&#x438; &#x434;&#x43E;&#x431;&#x440;&#x43E;&#x441;&#x43E;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x43E;&#x441;&#x442;&#x44C; &#x443;&#x447;&#x430;&#x441;&#x442;&#x43D;&#x438;&#x43A;&#x43E;&#x432; &#x437;&#x430;&#x43A;&#x443;&#x43F;&#x43E;&#x43A;</div>
+                                                                <div class="main-category-el__desc">&#x421;&#x435;&#x433;&#x43E;&#x434;&#x43D;&#x44F; &#x432; &#x421;&#x43E;&#x447;&#x438; &#x433;&#x43E;&#x432;&#x43E;&#x440;&#x438;&#x43B;&#x438; &#x43E; &#x43D;&#x435;&#x43E;&#x431;&#x445;&#x43E;&#x434;&#x438;&#x43C;&#x43E;&#x441;&#x442;&#x438; &#x43A;&#x43E;&#x43D;&#x446;&#x435;&#x43D;&#x442;&#x440;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x44B;&#x435; &#x443;&#x441;&#x438;&#x43B;&#x438;&#x44F; &#x43D;&#x430; &#x434;&#x43E;&#x431;&#x440;&#x43E;&#x441;&#x43E;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x43E;&#x43C; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x435;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        11 &#x43E;&#x43A;&#x442;&#x44F;&#x431;&#x440;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        17:32
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/ekgrating/na-globalnom-forume-ecumene-rasskazali-ob-ekg-reytinge">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41D;&#x430; &#x413;&#x43B;&#x43E;&#x431;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x43C; &#x444;&#x43E;&#x440;&#x443;&#x43C;&#x435; Ecumene &#x440;&#x430;&#x441;&#x441;&#x43A;&#x430;&#x437;&#x430;&#x43B;&#x438; &#x43E;&#x431; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x435;</div>
+                                                                <div class="main-category-el__desc">&#x410;&#x443;&#x434;&#x438;&#x442;&#x43E;&#x440; &#x421;&#x447;&#x451;&#x442;&#x43D;&#x43E;&#x439; &#x43F;&#x430;&#x43B;&#x430;&#x442;&#x44B; &#x420;&#x424; &#x414;&#x43C;&#x438;&#x442;&#x440;&#x438;&#x439; &#x417;&#x430;&#x439;&#x446;&#x435;&#x432; &#x43F;&#x440;&#x438;&#x43D;&#x44F;&#x43B; &#x443;&#x447;&#x430;&#x441;&#x442;&#x438;&#x435; &#x432; &#x413;&#x43B;&#x43E;&#x431;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x43C; &#x444;&#x43E;&#x440;&#x443;&#x43C;&#x435; Ecumene &#x43F;&#x43E; &#x43F;&#x440;&#x43E;&#x431;&#x43B;&#x435;&#x43C;&#x430;&#x43C; &#x434;&#x43E;&#x43B;&#x433;&#x43E;&#x441;&#x440;&#x43E;&#x447;&#x43D;&#x43E;&#x433;&#x43E; &#x443;&#x441;&#x442;&#x43E;&#x439;&#x447;&#x438;&#x432;&#x43E;&#x433;&#x43E; &#x440;&#x430;&#x437;&#x432;&#x438;&#x442;&#x438;&#x44F; &#x43C;&#x438;&#x440;&#x43E;&#x432;&#x43E;&#x439; &#x44D;&#x43A;&#x43E;&#x43D;&#x43E;&#x43C;&#x438;&#x43A;&#x438;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        26 &#x441;&#x435;&#x43D;&#x442;&#x44F;&#x431;&#x440;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        18:02
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="main-category-list__box">
+                                                <div class="main-category-el">
+                                                    <a class="main-category-el__item" href="/ekgrating/obrazovatelnye-organizatsii-vnedryayut-ekg-reyting-v-svoyu-rabotu">
+                                                        <div class="main-category-el__content">
+                                                            <div class="main-category-el__title">&#x41E;&#x431;&#x440;&#x430;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x43E;&#x440;&#x433;&#x430;&#x43D;&#x438;&#x437;&#x430;&#x446;&#x438;&#x438; &#x432;&#x43D;&#x435;&#x434;&#x440;&#x44F;&#x44E;&#x442; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433; &#x432; &#x441;&#x432;&#x43E;&#x44E; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x443;</div>
+                                                                <div class="main-category-el__desc">&#x415;&#x449;&#x451; &#x43E;&#x434;&#x438;&#x43D; &#x444;&#x435;&#x434;&#x435;&#x440;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x432;&#x443;&#x437; &#x43F;&#x440;&#x438;&#x441;&#x442;&#x443;&#x43F;&#x438;&#x43B; &#x43A; &#x43E;&#x431;&#x443;&#x447;&#x435;&#x43D;&#x438;&#x44E; &#x441;&#x442;&#x443;&#x434;&#x435;&#x43D;&#x442;&#x43E;&#x432; &#x43E;&#x442;&#x432;&#x435;&#x442;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x43E;&#x43C;&#x443; &#x431;&#x438;&#x437;&#x43D;&#x435;&#x441;&#x443; &#x43D;&#x430; &#x431;&#x430;&#x437;&#x435; &#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;&#x430;</div>
+                                                        </div>
+                                                        <div class="main-category-el-footer">
+                                                            <div class="main-category-el-footer__wrapper">
+                                                                <div class="main-category-el-footer__box main-category-el-footer__box--date">
+                                                                    <div class="main-category-el__date">
+                                                                        12 &#x441;&#x435;&#x43D;&#x442;&#x44F;&#x431;&#x440;&#x44F; 2024
+                                                                    </div>
+                                                                    <div class="main-category-el__time">
+                                                                        <span class="icon-clock"></span>
+                                                                        18:32
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main__section main__section--category main__section--banner-full">
+            
+
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                </main>
+
+                <footer class="page__footer js-page-footer">
+    <div class="footer">
+        <div class="footer__wrap inner">
+            <div class="footer__container">
+                <div class="footer-section">
+                    <div class="footer-section__inner">
+                        <div class="footer-section__wrapper">
+                            <div class="footer-section__box">
+                                <div class="footer-section__header">
+                                    <div class="footer-section__title">О нас</div>
+                                </div>
+                                <div class="footer-section__content">
+                                    <div class="footer-section-list">
+                                            <div class="footer-section-list__box">
+                                                <a href="/dem-info" class="footer-section-list__item">&#x420;&#x435;&#x434;&#x430;&#x43A;&#x446;&#x438;&#x44F;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="https://indemp.ru" class="footer-section-list__item">&#x423;&#x447;&#x440;&#x435;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/contacts" class="footer-section-list__item">&#x41A;&#x43E;&#x43D;&#x442;&#x430;&#x43A;&#x442;&#x44B;</a>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="footer-section__box">
+                                <div class="footer-section__header">
+                                    <div class="footer-section__title">Социальные сети</div>
+                                </div>
+                                <div class="footer-section__content">
+                                    <div class="footer-section-list">
+
+                                            <div class="footer-section-list__box">
+                                                <a href="https://t.me/deminform" class="footer-section-list__item">Telegram</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="https://rutube.ru/channel/29678794/" class="footer-section-list__item">Rutube</a>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="footer-section__box">
+                                <div class="footer-section__header">
+                                    <div class="footer-section__title">Рубрики</div>
+                                </div>
+                                <div class="footer-section__content">
+                                    <div class="footer-section-list">
+                                            <div class="footer-section-list__box">
+                                                <a href="/interview" class="footer-section-list__item">&#x418;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/tribune" class="footer-section-list__item">&#x41F;&#x440;&#x44F;&#x43C;&#x430;&#x44F; &#x440;&#x435;&#x447;&#x44C;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/analytics" class="footer-section-list__item">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/thing" class="footer-section-list__item">&#x41B;&#x44E;&#x434;&#x438; &#x438; &#x432;&#x435;&#x449;&#x438;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/ekgrating" class="footer-section-list__item">&#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;</a>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="footer-section__box">
+                                <div class="footer-section__header">
+                                    <div class="footer-section__title">Юридическая информация</div>
+                                </div>
+                                <div class="footer-section__content">
+                                    <div class="footer-section-list">
+                                            <div class="footer-section-list__box">
+                                                <a href="/restrictions" class="footer-section-list__item">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x43E;&#x431; &#x43E;&#x433;&#x440;&#x430;&#x43D;&#x438;&#x447;&#x435;&#x43D;&#x438;&#x44F;&#x445;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/legal" class="footer-section-list__item">&#x41F;&#x440;&#x430;&#x432;&#x43E;&#x432;&#x430;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/copyright" class="footer-section-list__item">&#x41E; &#x441;&#x43E;&#x431;&#x43B;&#x44E;&#x434;&#x435;&#x43D;&#x438;&#x438; &#x430;&#x432;&#x442;&#x43E;&#x440;&#x441;&#x43A;&#x438;&#x445; &#x43F;&#x440;&#x430;&#x432;</a>
+                                            </div>
+                                            <div class="footer-section-list__box">
+                                                <a href="/privacy" class="footer-section-list__item">&#x41F;&#x43E;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430; &#x43E;&#x431;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x43A;&#x438; &#x43F;&#x435;&#x440;&#x441;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445;</a>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="footer-section__box">
+                                <div class="footer-section__header">
+                                    <div class="footer-section__title">Реквизиты</div>
+                                </div>
+                                <div class="footer-section__content">
+                                    <div class="footer-section__typography">
+<div class="">
+    <div class="widget-body">
+        
+
+<div class="field field-type-htmlfield field-name-paragraph-content">
+    <p>© Национальное демографическое агентство ДЕМ.ИНФОРМ (зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 05.08.2022 за номером ЭЛ № ФС77 - 83672); 12+</p><p>© Учредитель: АНО «Институт демографической политики имени Д.&nbsp;И.&nbsp;Менделеева»</p>
+<p>109012, г. Москва, ул. Никольская, дом 10, офис 601
+<br>тел.:&nbsp;+ 7 (495) 221-69-91, e-mail:&nbsp;info@deminform.ru
+<br>ИНН / КПП 9710097667 / 771001001 ОГРН 1227700225829</p><p><br></p>
+</div>
+
+    </div>
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--LiveInternet logo-->
+            <!--/LiveInternet-->
+
+        </div>
+    </div>
+</footer>
+
+
+            </div>
+        </div>
+        <div class="nav-mob js-nav-mob">
+    <div class="nav-mob__wrap inner">
+        <div class="nav-mob__inner">
+            <div class="nav-mob__wrapper">
+                <div class="nav-mob__box">
+                    <div class="nav-mob__item">
+                        <div class="nav-mob__category">Рубрики</div>
+                        <div class="nav-mob__list">
+                            <div class="nav-mob-list">
+                                    <div class="nav-mob-list__box">
+                                        <a href="/interview" class="nav-mob-list__item">&#x418;&#x43D;&#x442;&#x435;&#x440;&#x432;&#x44C;&#x44E;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/tribune" class="nav-mob-list__item">&#x41F;&#x440;&#x44F;&#x43C;&#x430;&#x44F; &#x440;&#x435;&#x447;&#x44C;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/analytics" class="nav-mob-list__item">&#x410;&#x43D;&#x430;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/thing" class="nav-mob-list__item">&#x41B;&#x44E;&#x434;&#x438; &#x438; &#x432;&#x435;&#x449;&#x438;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/ekgrating" class="nav-mob-list__item">&#x42D;&#x41A;&#x413;-&#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-mob__box">
+                    <div class="nav-mob__item">
+                        <div class="nav-mob__category">О нас</div>
+                        <div class="nav-mob__list">
+                            <div class="nav-mob-list">
+                                    <div class="nav-mob-list__box">
+                                        <a href="/dem-info" class="nav-mob-list__item">&#x420;&#x435;&#x434;&#x430;&#x43A;&#x446;&#x438;&#x44F;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="https://indemp.ru" class="nav-mob-list__item">&#x423;&#x447;&#x440;&#x435;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/contacts" class="nav-mob-list__item">&#x41A;&#x43E;&#x43D;&#x442;&#x430;&#x43A;&#x442;&#x44B;</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-mob__box">
+                    <div class="nav-mob__item">
+                        <div class="nav-mob__category">Юридическая информация</div>
+                        <div class="nav-mob__list">
+                            <div class="nav-mob-list">
+                                    <div class="nav-mob-list__box">
+                                        <a href="/restrictions" class="nav-mob-list__item">&#x418;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F; &#x43E;&#x431; &#x43E;&#x433;&#x440;&#x430;&#x43D;&#x438;&#x447;&#x435;&#x43D;&#x438;&#x44F;&#x445;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/legal" class="nav-mob-list__item">&#x41F;&#x440;&#x430;&#x432;&#x43E;&#x432;&#x430;&#x44F; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44F;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/copyright" class="nav-mob-list__item">&#x41E; &#x441;&#x43E;&#x431;&#x43B;&#x44E;&#x434;&#x435;&#x43D;&#x438;&#x438; &#x430;&#x432;&#x442;&#x43E;&#x440;&#x441;&#x43A;&#x438;&#x445; &#x43F;&#x440;&#x430;&#x432;</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="/privacy" class="nav-mob-list__item">&#x41F;&#x43E;&#x43B;&#x438;&#x442;&#x438;&#x43A;&#x430; &#x43E;&#x431;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x43A;&#x438; &#x43F;&#x435;&#x440;&#x441;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x445; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445;</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-mob__box">
+                    <div class="nav-mob__item">
+                        <div class="nav-mob__category">Социальные сети</div>
+                        <div class="nav-mob__list">
+                            <div class="nav-mob-list">
+                                    <div class="nav-mob-list__box">
+                                        <a href="https://t.me/deminform" class="nav-mob-list__item">Telegram</a>
+                                    </div>
+                                    <div class="nav-mob-list__box">
+                                        <a href="https://rutube.ru/channel/29678794/" class="nav-mob-list__item">Rutube</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+            <div class="m-news js-m-news">
+                <div class="m-news__wrap inner">
+                    <div class="main-col">
+                        <div class="main-col__wrap" id="mobileNewsFeedPlaceholder">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <div class="cookie-banner" style="display: none;">
+            <div class="policy-info">
+                <div class="policy-info__title">На сайте используются файлы cookie</div>
+            <div class="policy-info__text">Оставаясь на сайте, вы выражаете свое <a href="/TheIod/docs/Согласие на обработку персональных данных (deminform).pdf" target="_blank">согласие</a> на обработку персональных данных в соответствии с <a href="/TheIod/docs/personal_data_policy.pdf" target="_blank">политикой</a> АНО «ИДП им. Д. И. Менделеева»</div>
+        </div>
+            <button class="accept_btn btn btn--type-1">Принять</button>
+        </div>
+
+        
+
+        <script src="https://api-maps.yandex.ru/2.1/?lang=ru-RU"></script>
+        <script src="/TheIod/js/main.min.js?v=whqrtfpvR0BfYa5vtljqmk5aNkuCjDw0-NbfnnPx--s"></script>
+<script src="/TheIod/js/lib.js?v=C0T0d--GWd8o9vYN-X994J-7FmfeeVaRYd8GhaIqQL0"></script>
+<script>
+    $.iod.newsWidget({
+        header: {
+            selector: "#latestNewsHeaders",
+            buttonSelector: ".main-col-header__btn"
+        },
+        newsContent: {
+            selector: "#latestNewsContent",
+            scrollSelector: "#latestNewsScrollArea",
+            itemSelector: ".main-col-list__box"
+        },
+        partnerNewsContent: {
+            selector: "#latestPartnerNewsContent",
+            scrollSelector: "#latestPartnerNewsScrollArea",
+            itemSelector: ".main-col-list__box"
+        },
+        requestUrl: "/news/feed",
+        mobileView: {
+            mobilePlaceholder: "#mobileNewsFeedPlaceholder",
+            desktopPlaceholder: "#desktopNewsFeedPlaceholder",
+            switchWidth: "1200px"
+        }
+    });
+</script>
+<script>$(".js-search-pop-input").submitOnEnter()</script>
+<script>
+$.iod.cookieBanner({
+    banner: '.cookie-banner',
+    acceptBtn: '.cookie-banner > .accept_btn'
+});
+        </script>
+        <script src="/TheIod/js/js.cookie.min.js"></script>
+        <script src="/TheIod/js/jquery.base64.min.js"></script>
+    </body>
+</html>

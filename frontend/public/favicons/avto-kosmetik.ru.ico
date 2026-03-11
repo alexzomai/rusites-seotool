@@ -1,0 +1,3196 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru">
+<head>
+<meta charset="UTF-8" />
+<title>Авто Косметик: автокосметика и автохимия: автошампунь, полироль для авто, моющие средства, химия для автомоек</title>
+<base href="https://avto-kosmetik.ru/" />
+<meta name="description" content="автокосметика, автохимия, автошампунь, полироль для авто, моющие средства для автомоек, химия для моек, чернение резины, бесконтактная мойка, горячий воск, холодный воск, универсальный очиститель, растворитель битумных пятен. Купить в интернет-магазине" />
+<meta name="keywords" content="автокосметика, автохимия, автошампунь, полироль для авто, моющие средства для автомоек, химия для моек, чернение резины, бесконтактная мойка, горячий воск, холодный воск, универсальный очиститель, растворитель битумных пятен. Купить в интернет-магазине" />
+<meta property="og:title" content="Авто Косметик: автокосметика и автохимия: автошампунь, полироль для авто, моющие средства, химия для автомоек" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://avto-kosmetik.ru/" />
+<meta property="og:image" content="https://avto-kosmetik.ru/image/data/logo.png" />
+<meta property="og:site_name" content="Авто-Косметик" />
+
+			<!-- start - ipl extension - dbassa -->
+			
+			<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/dbassa_intelligent_product_labels.css" />
+
+			<!-- end - ipl extension - dbassa -->
+			
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/stylesheet.css" />
+
+			
+        <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/free_popup_cart.css" />
+			
+			
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/category-menu.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ocfilter/ocfilter.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/featured_categories.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/blog/colorbox/css/0/colorbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/blog.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/wysibb/theme/default/wbbtheme.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/blog/rating/jquery.rating.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/proscroller.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/carousel.css" media="screen" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jv_quickorder/jquery.validate.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jv_quickorder/jquery.maskedinput-1.3.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jv_quickorder/jv_quickorder.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jv_bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+
+			
+				<script type="text/javascript" src="catalog/view/javascript/free_popup_cart.js"></script>
+			
+			
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('.spoiler-body').hide();
+    $('.spoiler-title').click(function(){
+        $(this).toggleClass('opened').toggleClass('closed').next().slideToggle();
+    });    
+    $('.spoiler-body-info').hide();
+    $('.spoiler-title-info').click(function(){
+        $(this).toggleClass('opened').toggleClass('closed').prev().slideToggle();
+        if($(this).hasClass('opened')) {
+            $(this).html('Свернуть');
+        }
+        else {
+            $(this).html('Узнать больше');
+        }
+    });
+	 });
+</script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/category_menu/category-menu.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/category_menu/jquery.menu-aim.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/ocfilter/ocfilter.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/ocfilter/trackbar.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/colorbox/lang/jquery.colorbox-ru.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/blog.color.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/wysibb/jquery.wysibb.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/blog.bbimage.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/rating/jquery.MetaData.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/rating/jquery.rating.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.cycle.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
+<!--[if IE 7]> 
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+<script type="text/javascript" src="catalog/view/javascript/jquery/scrolltopcontrol.js"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script src="catalog/view/javascript/checkbox/jquery.checkbox.min.js"></script>
+<script>  
+(function($) {  
+$(function() {  
+  $('input.styled').checkbox();  
+})  
+})(jQuery)  
+</script>   
+<script type="text/javascript" src="catalog/view/javascript/oforms/oforms_ajax.js"></script>
+<script type="text/javascript" src="/catalog/view/javascript/jquery-eu-cookie-law-popup.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/featured_att.js"></script>
+<script type="text/javascript">
+      $(document).ready(function(){
+        $('a[title]').qtip({
+position: {
+corner: {
+target: 'bottomRight',
+tooltip: 'leftMiddle'
+}
+},
+style: {
+name: 'light',
+padding: '7px 13px',
+width: {
+max: 300,
+min: 0
+},
+tip: true
+}
+});
+});
+</script>
+
+			<!-- start - ipl extension - dbassa -->
+
+			<script type="text/javascript" src="catalog/view/javascript/modernizr/modernizr.custom.10918.js"></script>
+
+			<!--[if lt IE 9]>
+			  <script type="text/javascript" src="catalog/view/javascript/PIE-1.0.0/PIE.js"></script>
+			<![endif]-->
+
+			<!-- end - ipl extension - dbassa -->
+			
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/html_product_attribute.css" />
+</head>
+<body>
+<div id="container">
+<div id="header" class="eupopup">
+<div id="top">	
+</div>
+    <div id="logo">
+  <a href="/"><img src="https://avto-kosmetik.ru/image/data/logo.png" title="Авто-Косметик" alt="Авто-Косметик" /></a>
+  </div>
+    <div id="cart">
+  <div class="heading">
+    <a title="Корзина покупок"><span id="cart-total">В корзине <span>0</span> <span style="font-weight:normal; font-size:13px; color:#7A7A7A;">товаров</span> <span>(0.00 руб.)</span></span></a></div>
+  <div class="content">
+        <div class="empty">В корзине пусто!</div>
+      </div>
+</div>
+			<script type='text/javascript'>
+                if (typeof getURLVar != 'function') {
+                    var getURLVar = function(urlVarName) {
+                    	var urlHalves = String(document.location).toLowerCase().split('?');
+                    	var urlVarValue = '';
+                    	
+                    	if (urlHalves[1]) {
+                    		var urlVars = urlHalves[1].split('&');
+                    
+                    		for (var i = 0; i <= (urlVars.length); i++) {
+                    			if (urlVars[i]) {
+                    				var urlVarPair = urlVars[i].split('=');
+                    				
+                    				if (urlVarPair[0] && urlVarPair[0] == urlVarName.toLowerCase()) {
+                    					urlVarValue = urlVarPair[1];
+                    				}
+                    			}
+                    		}
+                    	}
+                    	
+                    	return urlVarValue;
+                    } 
+                }
+
+                function pm_update_cart(key, quantity) {
+                    $.ajax({
+                		url: 'index.php?route=module/cart',
+                		type: 'post',
+                		data: 'quantity[' + key + ']='+quantity,
+                		success: function(data) {
+                            var cart = $(data);
+                            if (getURLVar('route') == 'checkout/cart' || getURLVar('route') == 'checkout/checkout') {
+                                location.reload();
+                                return;
+                            }
+                			$('#cart').html(cart.html());
+                            	
+                            if ($('#cart-box-list').length) {
+                                var cart_info = $('.mini-cart-info', cart);
+                                if (cart_info.length) {
+                                    $('#cart-box-list').html(cart_info.html());
+                                } else {
+                                    $('#cart-box-list').html($('.content', cart).html());
+                                }
+                            }
+                            if ($('#cart-box-total').length) {
+				                $('#cart-box-total').html($('.mini-cart-total', cart).html());
+                            }
+                            if (typeof load_simplecheckout === 'function') {
+                                load_simplecheckout();
+                            }
+                		}
+                	});
+                }
+            </script>
+			  <div id="toptxt">Интернет-магазин автокосметики и автохимии для мойки</div>
+  <div id="btxt">Работаем каждый день с 10.00 до 19.00  Заказы на сайте принимаются круглосуточно.</div>
+  <div id="telephone">
+  <a href="tel:8-495-215-51-40" class="tel">8 (495) 215-51-40</a>
+  <div class="request"><a onclick="oformsAjax(8)">Заказать звонок</a></div>
+  <div class="teltext">Нажмите и мы Вам перезвоним</div>
+  </div>
+  <div id="search">
+    <div class="button-search">Найти</div>
+    <input type="text" name="search" placeholder="Какая автохимия или автокосметика Вам нужна?" value="" />
+  </div>
+  <div class="links">
+  <ul>
+  <li><a href="/o-kompanii" title="О компании">О компании</a>
+	  <div>
+        <ul>
+          <li><a href="/o-nas">О нас</a></li>
+		  <li><a href="/nashi-preimushestva">Наши преимущества</a></li>
+		  
+		</ul> 		
+      </div></li>
+	<li><a href="/dostavka-i-oplata" title="Доставка и оплата">Доставка и оплата</a>
+	  <div>
+        <ul>
+        <li><a href="/kak-oformit-zakaz">Как оформить заказ</a></li>
+          <li><a href="/dostavka">Доставка</a></li>
+		  <li><a href="/sposoby_oplaty">Способы оплаты</a></li>
+		  <li><a href="/pravila_vozvrata_denezhnyh_sredstv_i_tovarov">Правила возврата</a></li>
+		</ul> 		
+      </div></li>
+	<li><a href="/ustanovka-i-garantiya" title="Установка и гарантия">Установка и гарантия</a>
+	  <div>
+        <ul>
+          <li><a href="/ustanovka_pitevyh_filtrov">Установка питьевых фильтров</a></li>
+		  <li><a href="/ustanovka_magistralnyh_filtrov">Установка магистральных фильтров</a></li>
+		  <li><a href="/ustanovka_filtrov_dlya_organizaciy">Установка фильтров и кулеров для организаций</a></li>
+          <li><a href="/garantiynye_usloviya">Гарантийные условия</a></li>
+          <li><a href="/nashi_sertifikaty">Наши сертификаты</a></li>
+          
+          
+		</ul> 		
+      </div></li>
+<li class="menu_lihover"><a href="/sotrudnichestvo" title="Сотрудничество">Сотрудничество</a></li>
+<li class="menu_lihover"><a href="/vakansii" title="Вакансии">Вакансии</a></li>
+<li class="menu_lihover"><a href="/voprosy-i-otvety" title="Вопросы и ответы">Вопросы и ответы</a></li>
+<li class="menu_lihover"><a href="/otzyvy/otzivi/" title="Отзывы о магазине">Отзывы о магазине</a></li>
+<li class="menu_lihover"><a href="/kontakty" title="Контакты">Контакты</a></li>
+  </ul>
+  </div>
+</div>
+
+<div class="menu">
+  <ul> 
+    <li>
+	<a href="/avtohimiya" title="Автохимия">Автохимия</a>
+      <div>
+        <ul>
+          <li><a href="/avtoshampuni"><img alt="" src="catalog/view/theme/default/image/small-autoshampoon.png" /><span>Автошампуни</span><p>Описание категории.</p></a></li>
+          <li><a href="/beskontaktnaya-himiya"><img alt="" src="catalog/view/theme/default/image/small-beskontact.png" /><span>Бесконтактная химия</span><p>Описание категории.</p></a></li>
+          <li><a href="/voski"><img alt="" src="catalog/view/theme/default/image/small-wax.png" /><span>Воски</span><p>Описание категории.</p></a></li>
+          <li><a href="/nano-mojka-nanohimiya"><img alt="" src="catalog/view/theme/default/image/small-nano.png" /><span>Нано мойка (нанохимия)</span><p>Описание категории.</p></a></li>
+          <li><a href="/chernenie-reziny-cherniteli-bamperov-i-shin-sredstva-dlya-sh"><img alt="" src="catalog/view/theme/default/image/small-shiny.png" /><span>Чернение резины (чернители бамперов и шин), средства для шин</span><p>Описание категории.</p></a></li>
+          <li><a href="/evro-mojka"><img alt="" src="catalog/view/theme/default/image/small-euro.png" /><span>Евро мойка</span><p>Описание категории.</p></a></li>
+          <li><a href="/nabory-dlya-polirovki"><img alt="" src="catalog/view/theme/default/image/small-polish.png" /><span>Наборы для полировки</span><p>Описание категории.</p></a></li>
+          <li><a href="/ochistiteli-kuzova"><img alt="" src="catalog/view/theme/default/image/small-ochist_kuzova.png" /><span>Очистители кузова</span><p>Описание категории.</p></a></li>
+          <li><a href="/ochistiteli-tkani-kozhi-plastika-salona"><img alt="" src="catalog/view/theme/default/image/small-leather.png" /><span>Очистители ткани, кожи, пластика салона</span><p>Описание категории.</p></a></li>
+          <li><a href="/ochistiteli-kolesnyh-diskov"><img alt="" src="catalog/view/theme/default/image/small-ochist_diskov.png" /><span>Очистители колесных дисков</span><p>Описание категории.</p></a></li>
+          <li><a href="/pasty-dlya-ochistki-ruk"><img alt="" src="catalog/view/theme/default/image/small-hands.png" /><span>Пасты для очистки рук</span><p>Описание категории.</p></a></li>
+        </ul>
+        <ul>
+          <li><a href="/polirovalnye-pasty"><img alt="" src="catalog/view/theme/default/image/small-polir_pasti.png" /><span>Полировальные пасты</span><p>Описание категории.</p></a></li>
+          <li><a href="/poliroli-kuzova"><img alt="" src="catalog/view/theme/default/image/small-polir_kuzov.png" /><span>Полироли кузова</span><p>Описание категории.</p></a></li>
+          <li><a href="/poliroli-plastika-vinila-kozhi"><img alt="" src="catalog/view/theme/default/image/small-polirol.png" /><span>Полироли пластика, винила, кожи</span><p>Описание категории.</p></a></li>
+          <li><a href="/kondicionery-kozhi"><img alt="" src="catalog/view/theme/default/image/small-polirol_kozha.png" /><span>Кондиционеры кожи</span><p>Описание категории.</p></a></li>
+          <li><a href="/sredstva-dlya-mojki-dvigatelya-ochistiteli-dvigatelya"><img alt="" src="catalog/view/theme/default/image/small-dvigatel.png" /><span>Средства для мойки двигателя (очистители двигателя)</span><p>Описание категории.</p></a></li>
+          <li><a href="/sredstva-dlya-ochistki-stekol-uhod-za-steklom"><img alt="" src="catalog/view/theme/default/image/small-steklo.png" /><span>Средства для очистки стекол, Уход за стеклом</span><p>Описание категории.</p></a></li>
+          <li><a href="/sredstva-dlya-cirkulyacionnoj-mojki"><img alt="" src="catalog/view/theme/default/image/small-cirkul.png" /><span>Средства для циркуляционной мойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/sredstva-dlya-chistki-salona"><img alt="" src="catalog/view/theme/default/image/small-salon.png" /><span>Средства для чистки салона</span><p>Описание категории.</p></a></li>
+          <li><a href="/ochistitel-obivki"><img alt="" src="catalog/view/theme/default/image/small-obivka.png" /><span>Очиститель обивки</span><p>Описание категории.</p></a></li>
+          <li><a href="/udalenie-bitumnyh-pyaten"><img alt="" src="catalog/view/theme/default/image/small-bitum.png" /><span>Удаление битумных пятен</span><p>Описание категории.</p></a></li>
+          <li><a href="/udalenie-sledov-nasekomyh"><img alt="" src="catalog/view/theme/default/image/small-nasek.png" /><span>Удаление следов насекомых</span><p>Описание категории.</p></a></li>
+        </ul> 		
+      </div>
+    </li>
+    <li>
+  <a href="/avtokosmetika" title="Автокосметика">Автокосметика</a>
+      <div>
+        <ul>
+          <li><a href="/nanopokrytiya"><img alt="" src="catalog/view/theme/default/image/small-nanopokritia.png" /><span>Нанопокрытия</span><p>Описание категории.</p></a></li>
+          <li><a href="/vosstanoviteli-kuzova"><img alt="" src="catalog/view/theme/default/image/small-kuzov.png" /><span>Восстановители кузова</span><p>Описание категории.</p></a></li>
+          <li><a href="/aromatizatory-salona"><img alt="" src="catalog/view/theme/default/image/small-aromat.png" /><span>Ароматизаторы салона</span><p>Описание категории.</p></a></li>
+          <li><a href="/nejtralizatory-zapahov"><img alt="" src="catalog/view/theme/default/image/small-neutraliz.png" /><span>Нейтрализаторы запахов</span><p>Описание категории.</p></a></li>
+          <li><a href="/silikony-smazki-razmorazhivateli"><img alt="" src="catalog/view/theme/default/image/small-smazki.png" /><span>Силиконы, Смазки, Размораживатели</span><p>Описание категории.</p></a></li>
+          <li><a href="/antinakipin"><img alt="" src="catalog/view/theme/default/image/small-antinakip.png" /><span>Антинакипин</span><p>Описание категории.</p></a></li>
+        </ul>
+        <ul>
+          <li><a href="/nezamerzayushie-zhidkosti-dlya-omyvaniya-stekol-nezamerzajka"><img alt="" src="catalog/view/theme/default/image/small-nezamerzaika.png" /><span>Незамерзающие жидкости для омывания стекол (незамерзайка)</span><p>Описание категории.</p></a></li>
+          <li><a href="/antizapotevatel-dlya-stekol-i-zerkal"><img alt="" src="catalog/view/theme/default/image/small-antizapotevatel.png" /><span>Антизапотеватель для стекол и зеркал</span><p>Описание категории.</p></a></li>
+          <li><a href="/antidozhdantiled"><img alt="" src="catalog/view/theme/default/image/small-antidozhd.png" /><span>Антидождь/Антилед</span><p>Описание категории.</p></a></li>
+          <li><a href="/antikonservaciya"><img alt="" src="catalog/view/theme/default/image/small-antikonserv.png" /><span>Антиконсервация</span><p>Описание категории.</p></a></li>
+          <li><a href="/dlya-motociklov-skuterov-velosipedov"><img alt="" src="catalog/view/theme/default/image/small-moto.png" /><span>Для мотоциклов, скутеров, велосипедов</span><p>Описание категории.</p></a></li>
+        </ul>     
+      </div>
+    </li>
+    <li>
+  <a href="/soputstvuyushie-tovary" title="Сопутствующие товары">Сопутствующие товары</a>
+      <div style="right: 0;">
+        <ul>
+          <!-- <li><a href="/aksessuary-dlya-avtomobilya"><img alt="" src="catalog/view/theme/default/image/small-aksess.png" /><span>Аксессуары для автомобиля</span><p>Описание категории.</p></a></li> -->
+          <li><a href="/aksessuary-dlya-mojki"><img alt="" src="catalog/view/theme/default/image/small-acsess.png" /><span>Аксессуары для мойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/protirochnye-materialy"><img alt="" src="catalog/view/theme/default/image/small-gubka.png" /><span>Протирочные материалы</span><p>Описание категории.</p></a></li>
+          <li><a href="/raspyliteli"><img alt="" src="catalog/view/theme/default/image/small-raspiliteli.png" /><span>Распылители</span><p>Описание категории.</p></a></li>
+          <li><a href="/sgony"><img alt="" src="catalog/view/theme/default/image/small-sgon.png" /><span>Сгоны</span><p>Описание категории.</p></a></li>
+        </ul>
+        <ul>
+          <li><a href="/specodezhda"><img alt="" src="catalog/view/theme/default/image/small-odezhda.png" /><span>Спецодежда</span><p>Описание категории.</p></a></li>
+          <li><a href="/triggery"><img alt="" src="catalog/view/theme/default/image/small-trigger.png" /><span>Триггеры</span><p>Описание категории.</p></a></li>
+          <li><a href="/urny-i-kontejnery"><img alt="" src="catalog/view/theme/default/image/small-urni.png" /><span>Урны и контейнеры</span><p>Описание категории.</p></a></li>
+          <li><a href="/shetki"><img alt="" src="catalog/view/theme/default/image/small-shetki.png" /><span>Щетки</span><p>Описание категории.</p></a></li>
+        </ul>     
+      </div>
+    </li>
+    <li>
+  <a href="/oborudovanie-dlya-avtomoek" title="Оборудование для автомоек">Оборудование для автомоек</a>
+      <div style="right: 0;">
+        <ul>
+          <li><a href="/apparaty-vysokogo-davleniya"><img alt="" src="catalog/view/theme/default/image/small-avd.png" /><span>Аппараты высокого давления</span><p>Описание категории.</p></a></li>
+          <li><a href="/zapchasti-i-remkomplekty-dlya-avd"><img alt="" src="catalog/view/theme/default/image/small-avd_aksess.png" /><span>Запчасти и ремкомплекты для АВД</span><p>Описание категории.</p></a></li>
+          <li><a href="/nasosy-vysokogo-davleniya"><img alt="" src="catalog/view/theme/default/image/small-nasos.png" /><span>Насосы высокого давления</span><p>Описание категории.</p></a></li>
+          <li><a href="/regulyatory-davleniya"><img alt="" src="catalog/view/theme/default/image/small-regulator.png" /><span>Регуляторы давления</span><p>Описание категории.</p></a></li>
+          <li><a href="/predohranitelnye-klapana"><img alt="" src="catalog/view/theme/default/image/small-klapan.png" /><span>Предохранительные клапана</span><p>Описание категории.</p></a></li>
+          <li><a href="/pylevodososy-dlya-avtomojki"><img alt="" src="catalog/view/theme/default/image/small-pilevodososy.png" /><span>Пылеводососы для автомойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/aksessuary-dlya-avtomoek"><img alt="" src="catalog/view/theme/default/image/small-filtr.png" /><span>Аксессуары для автомоек</span><p>Описание категории.</p></a></li>
+          <li><a href="/sistemy-ochistki-vody"><img alt="" src="catalog/view/theme/default/image/small-system.png" /><span>Системы очистки воды</span><p>Описание категории.</p></a></li>
+          <li><a href="/kompressory"><img alt="" src="catalog/view/theme/default/image/small-compress.png" /><span>Компрессоры</span><p>Описание категории.</p></a></li>
+          <li><a href="/konsoli-potolochnye"><img alt="" src="catalog/view/theme/default/image/small-Konsol.png" /><span>Консоли потолочные</span><p>Описание категории.</p></a></li>
+        </ul>
+        <ul>
+          <li><a href="/montazhnye-komplekty-dlya-avtomoek"><img alt="" src="catalog/view/theme/default/image/small-montazh.png" /><span>Монтажные комплекты для автомоек</span><p>Описание категории.</p></a></li>
+          <li><a href="/pennoe-oborudovanie"><img alt="" src="catalog/view/theme/default/image/small-pennoe.png" /><span>Пенное оборудование</span><p>Описание категории.</p></a></li>
+          <li><a href="/barabany-dlya-avtomojki"><img alt="" src="catalog/view/theme/default/image/small-baraban.png" /><span>Барабаны для автомойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/shlangi-dlya-avtomojki"><img alt="" src="catalog/view/theme/default/image/small-shlang.png" /><span>Шланги для автомойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/shtory-dlya-avtomojki"><img alt="" src="catalog/view/theme/default/image/small-Shtora.png" /><span>Шторы для автомойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/derzhateli-pistoletov-shlangov-kovrikov"><img alt="" src="catalog/view/theme/default/image/small-derzhatel.png" /><span>Держатели, пистолетов, шлангов, ковриков</span><p>Описание категории.</p></a></li>
+          <li><a href="/distancionnoe-upravlenie-apparatov-vysokogo-davleniya"><img alt="" src="catalog/view/theme/default/image/small-pult_distantsionnogo_upravleniya.png" /><span>Дистанционное управление аппаратов высокого давления</span><p>Описание категории.</p></a></li>
+          <li><a href="/dozatory-dlya-avtomojki"><img alt="" src="catalog/view/theme/default/image/small-Dozatron.png" /><span>Дозаторы для автомойки</span><p>Описание категории.</p></a></li>
+          <li><a href="/teplovye-zavesy-dlya-avtomoek"><img alt="" src="catalog/view/theme/default/image/small-Teplovye_zavesy.png" /><span>Тепловые завесы для автомоек</span><p>Описание категории.</p></a></li>
+          <li><a href="/videonablyudenie-na-avtomojke"><img alt="" src="catalog/view/theme/default/image/small-video.png" /><span>Видеонаблюдение на автомойке</span><p>Описание категории.</p></a></li>
+        </ul>     
+      </div>
+    </li>
+  </ul>
+</div>
+<div id="notification"></div>	<div id="homepage">
+		<div id="column-left">
+    <div id="cmpro-1" class="box">
+    <div class="box-heading">Каталог</div>
+    <div class="box-content">
+    <ul class="cmpro-accordion ">
+            <li class="cid-2">
+        <div> <a href="http://avto-kosmetik.ru/avtohimiya/" class="tb-item">
+                    <span>Автохимия</span></a>
+                    <span class="toggle-btn"></span>
+                  </div>
+                <ul>
+                              <li class="cid-2-1">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/" class=""><span>Автошампуни</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-3">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/beskontaktnaya-himiya/" class=""><span>Бесконтактная химия</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-4">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/voski/" class=""><span>Воски</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-5">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/nano-mojka-nanohimiya/" class=""><span>Нано мойка (нанохимия)</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-6">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/chernenie-reziny-cherniteli-bamperov-i-shin-sredstva-dlya-sh/" class=""><span>Чернение резины (чернители бамперов и шин), средства для шин</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-7">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/evro-mojka/" class=""><span>Евро мойка</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-8">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/nabory-dlya-polirovki/" class=""><span>Наборы для полировки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-9">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-kuzova/" class=""><span>Очистители кузова</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-10">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-tkani-kozhi-plastika-salona/" class=""><span>Очистители ткани, кожи, пластика салона</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-11">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-kolesnyh-diskov/" class=""><span>Очистители колесных дисков</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-12">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/pasty-dlya-ochistki-ruk/" class=""><span>Пасты для очистки рук</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-13">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/polirovalnye-pasty/" class=""><span>Полировальные пасты</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-14">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/poliroli-kuzova/" class=""><span>Полироли кузова</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-15">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/poliroli-plastika-vinila-kozhi/" class=""><span>Полироли пластика, винила, кожи</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-16">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/kondicionery-kozhi/" class=""><span>Кондиционеры кожи</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-17">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-mojki-dvigatelya-ochistiteli-dvigatelya/" class=""><span>Средства для мойки двигателя (очистители двигателя)</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-18">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-ochistki-stekol-uhod-za-steklom/" class=""><span>Средства для очистки стекол, Уход за стеклом</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-19">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-cirkulyacionnoj-mojki/" class=""><span>Средства для циркуляционной мойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-20">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-chistki-salona/" class=""><span>Средства для чистки салона</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-21">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/ochistitel-obivki/" class=""><span>Очиститель обивки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-22">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/udalenie-bitumnyh-pyaten/" class=""><span>Удаление битумных пятен</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-2-23">
+            <div> <a href="http://avto-kosmetik.ru/avtohimiya/udalenie-sledov-nasekomyh/" class=""><span>Удаление следов насекомых</span></a>
+                          </div>
+                      </li>
+                  </ul>
+              </li>
+            <li class="cid-24">
+        <div> <a href="http://avto-kosmetik.ru/avtokosmetika/" class="tb-item">
+                    <span>Автокосметика</span></a>
+                    <span class="toggle-btn"></span>
+                  </div>
+                <ul>
+                              <li class="cid-24-25">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/nanopokrytiya/" class=""><span>Нанопокрытия</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-26">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/vosstanoviteli-kuzova/" class=""><span>Восстановители кузова</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-27">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/aromatizatory-salona/" class=""><span>Ароматизаторы салона</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-28">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/nejtralizatory-zapahov/" class=""><span>Нейтрализаторы запахов</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-29">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/silikony-smazki-razmorazhivateli/" class=""><span>Силиконы, Смазки, Размораживатели</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-30">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/antinakipin/" class=""><span>Антинакипин</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-31">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/nezamerzayushie-zhidkosti-dlya-omyvaniya-stekol-nezamerzajka/" class=""><span>Незамерзающие жидкости для омывания стекол (незамерзайка)</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-32">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/antizapotevatel-dlya-stekol-i-zerkal/" class=""><span>Антизапотеватель для стекол и зеркал</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-33">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/antidozhdantiled/" class=""><span>Антидождь/Антилед</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-34">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/antikonservaciya/" class=""><span>Антиконсервация</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-24-35">
+            <div> <a href="http://avto-kosmetik.ru/avtokosmetika/dlya-motociklov-skuterov-velosipedov/" class=""><span>Для мотоциклов, скутеров, велосипедов</span></a>
+                          </div>
+                      </li>
+                  </ul>
+              </li>
+            <li class="cid-36">
+        <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/" class="tb-item">
+                    <span>Сопутствующие товары</span></a>
+                    <span class="toggle-btn"></span>
+                  </div>
+                <ul>
+                              <li class="cid-36-38">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/aksessuary-dlya-mojki/" class=""><span>Аксессуары для мойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-39">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/" class=""><span>Протирочные материалы</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-40">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/raspyliteli/" class=""><span>Распылители</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-41">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/sgony/" class=""><span>Сгоны</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-42">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/specodezhda/" class=""><span>Спецодежда</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-43">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/triggery/" class=""><span>Триггеры</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-44">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/urny-i-kontejnery/" class=""><span>Урны и контейнеры</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-36-45">
+            <div> <a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/shetki/" class=""><span>Щетки</span></a>
+                          </div>
+                      </li>
+                  </ul>
+              </li>
+            <li class="cid-46">
+        <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/" class="tb-item">
+                    <span>Оборудование для автомоек</span></a>
+                    <span class="toggle-btn"></span>
+                  </div>
+                <ul>
+                              <li class="cid-46-47">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/apparaty-vysokogo-davleniya/" class=""><span>Аппараты высокого давления</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-48">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/zapchasti-i-remkomplekty-dlya-avd/" class=""><span>Запчасти и ремкомплекты для АВД</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-49">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/nasosy-vysokogo-davleniya/" class=""><span>Насосы высокого давления</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-50">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/regulyatory-davleniya/" class=""><span>Регуляторы давления</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-51">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/predohranitelnye-klapana/" class=""><span>Предохранительные клапана</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-52">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/pylevodososy-dlya-avtomojki/" class=""><span>Пылеводососы для автомойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-53">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/aksessuary-dlya-avtomoek/" class=""><span>Аксессуары для автомоек</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-54">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/sistemy-ochistki-vody/" class=""><span>Системы очистки воды</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-55">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/kompressory/" class=""><span>Компрессоры</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-56">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/konsoli-potolochnye/" class=""><span>Консоли потолочные</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-57">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/montazhnye-komplekty-dlya-avtomoek/" class=""><span>Монтажные комплекты для автомоек</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-58">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/pennoe-oborudovanie/" class=""><span>Пенное оборудование</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-59">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/barabany-dlya-avtomojki/" class=""><span>Барабаны для автомойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-60">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/shlangi-dlya-avtomojki/" class=""><span>Шланги для автомойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-61">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/shtory-dlya-avtomojki/" class=""><span>Шторы для автомойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-62">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/derzhateli-pistoletov-shlangov-kovrikov/" class=""><span>Держатели, пистолетов, шлангов, ковриков</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-63">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/distancionnoe-upravlenie-apparatov-vysokogo-davleniya/" class=""><span>Дистанционное управление аппаратов высокого давления</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-64">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/dozatory-dlya-avtomojki/" class=""><span>Дозаторы для автомойки</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-65">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/teplovye-zavesy-dlya-avtomoek/" class=""><span>Тепловые завесы для автомоек</span></a>
+                          </div>
+                      </li>
+                    <li class="cid-46-66">
+            <div> <a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/videonablyudenie-na-avtomojke/" class=""><span>Видеонаблюдение на автомойке</span></a>
+                          </div>
+                      </li>
+                  </ul>
+              </li>
+            <li class="cid-67">
+        <div> <a href="http://avto-kosmetik.ru/specpredlozheniya/" class="">
+                    <span>Спецпредложения</span></a>
+                  </div>
+              </li>
+                            </ul>
+  </div>
+</div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+  $('#cmpro-1 ul.cmpro-flyout,#cmpro-1 ul.cmpro-flyout ul').menuAim({
+     
+    submenuDirection: 'right',
+        activate: function(item){
+    $(item).find('> ul').fadeIn(100);
+    },
+    deactivate: function(item){
+    $(item).find('> ul').fadeOut(100);
+    },
+    exitMenu: function(item) {
+    $(item).find('> ul').fadeOut(100);
+    return true;
+    }
+  });
+});
+//--></script> 
+    <div class="box ocfilter ocfilter-column-left" id="ocfilter-0">
+  <div class="filhead">Выбор по параметрам</div>
+  <div class="box-content">
+    <div class="relative-wrapper">
+			<div class="button-float" id="button-float-0"><a href="#" id="button-submit-0">Укажите параметры</a></div>
+		</div>
+    <form action="">
+      
+            <div class="ocfilter-option">
+
+
+        <div class="option-values priceblock">
+          					<div id="scale-price-0" class="scale scale-0 ocf-target">
+						<div class="trackbar" onSelectStart="return false;">
+							<div class="handler-block left-block"><div class="trackbar-handler left-handler" onDragStart="return false;"></div></div>
+							<div class="handler-block right-block"><div class="trackbar-handler right-handler" onDragStart="return false;"></div></div>
+            </div>
+					</div>
+                  				<div class="specblock" id="fields-price-0">
+					От&nbsp;<input name="price[min]" value="3" type="text" size="6" id="min-price-value-0" class="enabled" />&nbsp;До&nbsp;<input name="price[max]" value="1156800" type="text" size="6" id="max-price-value-0" class="enabled" />&nbsp;
+				</div>
+									
+					        </div>
+      </div>
+      
+      
+			
+				<div class="ocfilter-option" id="option-m0">
+	        <div class="option-name">
+	          Производитель
+						
+            						
+							        </div>
+
+	        <div class="option-values">
+            
+						
+	          
+						
+	            
+	            
+									          <label id="v-m310"><input type="checkbox" name="option[m]" value="m:31" class="ocf-target styled" />2903948<small>(1)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m90"><input type="checkbox" name="option[m]" value="m:9" class="ocf-target styled" />3M<small>(6)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m370"><input type="checkbox" name="option[m]" value="m:37" class="ocf-target styled" />3ton<small>(96)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m60"><input type="checkbox" name="option[m]" value="m:6" class="ocf-target styled" />Adolf Bucher<small>(7)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m350"><input type="checkbox" name="option[m]" value="m:35" class="ocf-target styled" />AE&T<small>(5)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m480"><input type="checkbox" name="option[m]" value="m:48" class="ocf-target styled" />AION<small>(21)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m220"><input type="checkbox" name="option[m]" value="m:22" class="ocf-target styled" />Alberti<small>(3)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m80"><input type="checkbox" name="option[m]" value="m:8" class="ocf-target styled" />Allegrini<small>(73)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m230"><input type="checkbox" name="option[m]" value="m:23" class="ocf-target styled" />AR Annovi Reverberi<small>(16)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m360"><input type="checkbox" name="option[m]" value="m:36" class="ocf-target styled" />Astrohim<small>(187)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m10"><input type="checkbox" name="option[m]" value="m:1" class="ocf-target styled" />Atas<small>(34)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m520"><input type="checkbox" name="option[m]" value="m:52" class="ocf-target styled" />AUG<small>(14)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m210"><input type="checkbox" name="option[m]" value="m:21" class="ocf-target styled" />Autech<small>(12)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m110"><input type="checkbox" name="option[m]" value="m:11" class="ocf-target styled" />Auto magic<small>(118)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m400"><input type="checkbox" name="option[m]" value="m:40" class="ocf-target styled" />Autosol<small>(162)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m290"><input type="checkbox" name="option[m]" value="m:29" class="ocf-target styled" />Beiffe<small>(16)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m530"><input type="checkbox" name="option[m]" value="m:53" class="ocf-target styled" />CAREX<small>(2)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m500"><input type="checkbox" name="option[m]" value="m:50" class="ocf-target styled" />CARMATE<small>(100)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m270"><input type="checkbox" name="option[m]" value="m:27" class="ocf-target styled" />Chao Bao<small>(11)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m450"><input type="checkbox" name="option[m]" value="m:45" class="ocf-target styled" />Clingo<small>(51)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m140"><input type="checkbox" name="option[m]" value="m:14" class="ocf-target styled" />COBRA<small>(110)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m320"><input type="checkbox" name="option[m]" value="m:32" class="ocf-target styled" />Dinitrol<small>(1)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m470"><input type="checkbox" name="option[m]" value="m:47" class="ocf-target styled" />EIKOSHA<small>(43)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m340"><input type="checkbox" name="option[m]" value="m:34" class="ocf-target styled" />Fiac<small>(4)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m160"><input type="checkbox" name="option[m]" value="m:16" class="ocf-target styled" />Fortela<small>(114)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m560"><input type="checkbox" name="option[m]" value="m:56" class="ocf-target styled" />Gazoiler<small>(16)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m40"><input type="checkbox" name="option[m]" value="m:4" class="ocf-target styled" />GRASS<small>(124)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m570"><input type="checkbox" name="option[m]" value="m:57" class="ocf-target styled" />GTECHNIQ<small>(22)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m440"><input type="checkbox" name="option[m]" value="m:44" class="ocf-target styled" />iSky<small>(18)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m430"><input type="checkbox" name="option[m]" value="m:43" class="ocf-target styled" />KANGAROO<small>(65)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m550"><input type="checkbox" name="option[m]" value="m:55" class="ocf-target styled" />Karcher<small>(161)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m50"><input type="checkbox" name="option[m]" value="m:5" class="ocf-target styled" />KENT<small>(111)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m20"><input type="checkbox" name="option[m]" value="m:2" class="ocf-target styled" />Koch Chemie Unna<small>(168)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m510"><input type="checkbox" name="option[m]" value="m:51" class="ocf-target styled" />Koyo<small>(4)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m390"><input type="checkbox" name="option[m]" value="m:39" class="ocf-target styled" />LAVR<small>(90)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m130"><input type="checkbox" name="option[m]" value="m:13" class="ocf-target styled" />Liquimoly<small>(177)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m250"><input type="checkbox" name="option[m]" value="m:25" class="ocf-target styled" />Meclube<small>(5)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m70"><input type="checkbox" name="option[m]" value="m:7" class="ocf-target styled" />Meguiar's<small>(64)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m580"><input type="checkbox" name="option[m]" value="m:58" class="ocf-target styled" />Nanoshine<small>(13)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m260"><input type="checkbox" name="option[m]" value="m:26" class="ocf-target styled" />PA<small>(18)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m410"><input type="checkbox" name="option[m]" value="m:41" class="ocf-target styled" />Poorboy's World<small>(126)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m200"><input type="checkbox" name="option[m]" value="m:20" class="ocf-target styled" />Portotecnica<small>(16)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m180"><input type="checkbox" name="option[m]" value="m:18" class="ocf-target styled" />Pro-Tec<small>(2)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m380"><input type="checkbox" name="option[m]" value="m:38" class="ocf-target styled" />Profi Clean<small>(12)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m190"><input type="checkbox" name="option[m]" value="m:19" class="ocf-target styled" />PROFI Max<small>(12)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m540"><input type="checkbox" name="option[m]" value="m:54" class="ocf-target styled" />PROSTAFF<small>(5)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m240"><input type="checkbox" name="option[m]" value="m:24" class="ocf-target styled" />Pulitecno<small>(6)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m330"><input type="checkbox" name="option[m]" value="m:33" class="ocf-target styled" />Remeza<small>(19)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m420"><input type="checkbox" name="option[m]" value="m:42" class="ocf-target styled" />Soft99<small>(128)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m280"><input type="checkbox" name="option[m]" value="m:28" class="ocf-target styled" />Soteco<small>(20)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m300"><input type="checkbox" name="option[m]" value="m:30" class="ocf-target styled" />Vikan<small>(7)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m100"><input type="checkbox" name="option[m]" value="m:10" class="ocf-target styled" />Willson<small>(17)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m150"><input type="checkbox" name="option[m]" value="m:15" class="ocf-target styled" />Комета<small>(23)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m170"><input type="checkbox" name="option[m]" value="m:17" class="ocf-target styled" />Мультимэйд<small>(46)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m460"><input type="checkbox" name="option[m]" value="m:46" class="ocf-target styled" />ПиАйСи<small>(3)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m30"><input type="checkbox" name="option[m]" value="m:3" class="ocf-target styled" />Сикмо (Plex)<small>(19)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m490"><input type="checkbox" name="option[m]" value="m:49" class="ocf-target styled" />ЧиZто<small>(11)</small></label>
+							
+            
+	          
+						
+	            
+	            
+									          <label id="v-m120"><input type="checkbox" name="option[m]" value="m:12" class="ocf-target styled" />Эл-транс<small>(81)</small></label>
+							
+            
+	          
+	          
+            	        </div>
+
+	        	        <div class="option-description"><div>Выберите производителя товаров</div><dd></dd></div>
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-50">
+	        <div class="option-name">
+	          Где применяется
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[5]" class="ocf-target">
+								            	            <option value="" id="v-cancel-50" selected="selected">Все</option>
+	            	            	            	            <option value="5:287180976" id="v-52871809760">фары</option>
+	            	            	            	            <option value="5:455582087" id="v-54555820870">общего назначения</option>
+	            	            	            	            <option value="5:836100603" id="v-58361006030">бампер</option>
+	            	            	            	            <option value="5:367850188" id="v-53678501880">для двигателя</option>
+	            	            	            	            <option value="5:392701826" id="v-53927018260">кондиционер</option>
+	            	            	            	            <option value="5:343895752" id="v-53438957520">электроконтакты</option>
+	            	            	            	            <option value="5:425987923" id="v-54259879230">двигатель</option>
+	            	            	            	            <option value="5:364641477" id="v-53646414770">тормозные диски</option>
+	            	            	            	            <option value="5:304641422" id="v-53046414220">пластк</option>
+	            	            	            	            <option value="5:339324982" id="v-53393249820">для оборудования</option>
+	            	            	            	            <option value="5:278925363" id="v-52789253630">кожа</option>
+	            	            	            	            <option value="5:245855901" id="v-52458559010">проводка</option>
+	            	            	            	            <option value="5:181438679" id="v-51814386790">замки</option>
+	            	            	            	            <option value="5:245572144" id="v-52455721440">диски</option>
+	            	            	            	            <option value="5:337139480" id="v-53371394800">шины</option>
+	            	            	            	            <option value="5:178068920" id="v-51780689200">для хрома и алюминия</option>
+	            	            	            	            <option value="5:301087628" id="v-53010876280">для текстиля</option>
+	            	            	            	            <option value="5:177613297" id="v-51776132970">АВД</option>
+	            	            	            	            <option value="5:407737323" id="v-54077373230">для винила</option>
+	            	            	            	            <option value="5:269738693" id="v-52697386930">для рук</option>
+	            	            	            	            <option value="5:949141609" id="v-59491416090">двери</option>
+	            	            	            	            <option value="5:380028073" id="v-53800280730">стекло</option>
+	            	            	            	            <option value="5:356855242" id="v-53568552420">тормозная система</option>
+	            	            	            	            <option value="5:405120553" id="v-54051205530">выхлопная система</option>
+	            	            	            	            <option value="5:330638058" id="v-53306380580">цепи</option>
+	            	            	            	            <option value="5:210520344" id="v-52105203440">салон</option>
+	            	            	            	            <option value="5:105189376" id="v-51051893760">кузов</option>
+	            	            	            	            <option value="5:330430958" id="v-53304309580">радиатор</option>
+	            	            	            	            <option value="5:551999956" id="v-55519999560">шлем</option>
+	            	            	            	            <option value="5:377835589" id="v-53778355890">ситема охлаждения</option>
+	            	            	            	            <option value="5:530478610" id="v-55304786100">для удаления пятен</option>
+	            	            	            	            <option value="5:350060331" id="v-53500603310">силовые цепи</option>
+	            	            	            	            <option value="5:263920617" id="v-52639206170">универсальные составы</option>
+	            	            	            	            <option value="5:232446878" id="v-52324468780">пластик</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-130">
+	        <div class="option-name">
+	          Пенокомплект
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[13]" class="ocf-target">
+								            	            <option value="" id="v-cancel-130" selected="selected">Все</option>
+	            	            	            	            <option value="13:120390060" id="v-131203900600">1:3</option>
+	            	            	            	            <option value="13:4244917" id="v-1342449170">1:7</option>
+	            	            	            	            <option value="13:257173607" id="v-132571736070">1:4</option>
+	            	            	            	            <option value="13:428506977" id="v-134285069770">1:10</option>
+	            	            	            	            <option value="13:389184939" id="v-133891849390">1:9</option>
+	            	            	            	            <option value="13:188181330" id="v-131881813300">1:2</option>
+	            	            	            	            <option value="13:112078647" id="v-131120786470">1:25</option>
+	            	            	            	            <option value="13:415263086" id="v-134152630860">1:12</option>
+	            	            	            	            <option value="13:243268611" id="v-132432686110">1:8</option>
+	            	            	            	            <option value="13:215608085" id="v-132156080850">1:13</option>
+	            	            	            	            <option value="13:177632356" id="v-131776323560">1:15</option>
+	            	            	            	            <option value="13:169433782" id="v-131694337820">1:40</option>
+	            	            	            	            <option value="13:404185762" id="v-134041857620">1:16</option>
+	            	            	            	            <option value="13:518503288" id="v-135185032880">1:14</option>
+	            	            	            	            <option value="13:200120451" id="v-132001204510">1:6</option>
+	            	            	            	            <option value="13:399813135" id="v-133998131350">1:5</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-140">
+	        <div class="option-name">
+	          Пеногенератор
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[14]" class="ocf-target">
+								            	            <option value="" id="v-cancel-140" selected="selected">Все</option>
+	            	            	            	            <option value="14:321575807" id="v-143215758070">1:55</option>
+	            	            	            	            <option value="14:257718731" id="v-142577187310">1:30</option>
+	            	            	            	            <option value="14:426036555" id="v-144260365550">1:70</option>
+	            	            	            	            <option value="14:307225834" id="v-143072258340">1:140</option>
+	            	            	            	            <option value="14:223402897" id="v-142234028970">1:160</option>
+	            	            	            	            <option value="14:279705285" id="v-142797052850">1:45</option>
+	            	            	            	            <option value="14:249153157" id="v-142491531570">1:65</option>
+	            	            	            	            <option value="14:339588029" id="v-143395880290">1:110</option>
+	            	            	            	            <option value="14:416700209" id="v-144167002090">1:130</option>
+	            	            	            	            <option value="14:243575248" id="v-142435752480">1:125</option>
+	            	            	            	            <option value="14:360483000" id="v-143604830000">1:40</option>
+	            	            	            	            <option value="14:384061995" id="v-143840619950">1:60</option>
+	            	            	            	            <option value="14:377935223" id="v-143779352230">1:120</option>
+	            	            	            	            <option value="14:354747703" id="v-143547477030">1:100</option>
+	            	            	            	            <option value="14:404206495" id="v-144042064950">1:25</option>
+	            	            	            	            <option value="14:291961252" id="v-142919612520">1:150</option>
+	            	            	            	            <option value="14:205364229" id="v-142053642290">1:80</option>
+	            	            	            	            <option value="14:166849164" id="v-141668491640">1:90</option>
+	            	            	            	            <option value="14:350988145" id="v-143509881450">1:200</option>
+	            	            	            	            <option value="14:348588606" id="v-143485886060">1:50</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-60">
+	        <div class="option-name">
+	          Назначение
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[6]" class="ocf-target">
+								            	            <option value="" id="v-cancel-60" selected="selected">Все</option>
+	            	            	            	            <option value="6:161975714" id="v-61619757140">пылеводосос</option>
+	            	            	            	            <option value="6:123607120" id="v-61236071200">нагрев</option>
+	            	            	            	            <option value="6:121318345" id="v-61213183450">антидождь</option>
+	            	            	            	            <option value="6:30981791" id="v-6309817910">консоль потолочная</option>
+	            	            	            	            <option value="6:121281693" id="v-61212816930">компрессор</option>
+	            	            	            	            <option value="6:346891954" id="v-63468919540">химчистка</option>
+	            	            	            	            <option value="6:326193697" id="v-63261936970">антилед</option>
+	            	            	            	            <option value="6:345749563" id="v-63457495630">тепловая завеса</option>
+	            	            	            	            <option value="6:447356471" id="v-64473564710">смазка</option>
+	            	            	            	            <option value="6:195647168" id="v-61956471680">держатель</option>
+	            	            	            	            <option value="6:818334436" id="v-68183344360">пеногенератор</option>
+	            	            	            	            <option value="6:227141531" id="v-62271415310">мойка</option>
+	            	            	            	            <option value="6:344131435" id="v-63441314350">антизапотеватель</option>
+	            	            	            	            <option value="6:156114817" id="v-61561148170">удаление запахов</option>
+	            	            	            	            <option value="6:190998581" id="v-61909985810">держатель пистолета</option>
+	            	            	            	            <option value="6:117714317" id="v-61177143170">антискользящее покрытие</option>
+	            	            	            	            <option value="6:117660174" id="v-61176601740">защита</option>
+	            	            	            	            <option value="6:282566702" id="v-62825667020">аксессуар</option>
+	            	            	            	            <option value="6:189199085" id="v-61891990850">помпа</option>
+	            	            	            	            <option value="6:365988445" id="v-63659884450">усилитель</option>
+	            	            	            	            <option value="6:343402175" id="v-63434021750">уход</option>
+	            	            	            	            <option value="6:280567323" id="v-62805673230">очистка</option>
+	            	            	            	            <option value="6:425330612" id="v-64253306120">герметизация</option>
+	            	            	            	            <option value="6:188213389" id="v-61882133890">дистанционное управление</option>
+	            	            	            	            <option value="6:388670014" id="v-63886700140">восстановление цвета</option>
+	            	            	            	            <option value="6:342534576" id="v-63425345760">растворитель</option>
+	            	            	            	            <option value="6:785499508" id="v-67854995080">барабан для автомойки</option>
+	            	            	            	            <option value="6:385962614" id="v-63859626140">водопылесос</option>
+	            	            	            	            <option value="6:113230320" id="v-61132303200">пенокомплект</option>
+	            	            	            	            <option value="6:385645112" id="v-63856451120">сушка</option>
+	            	            	            	            <option value="6:360964663" id="v-63609646630">полировка</option>
+	            	            	            	            <option value="6:703977152" id="v-67039771520">протирочные материалы</option>
+	            	            	            	            <option value="6:112056065" id="v-61120560650">скребок</option>
+	            	            	            	            <option value="6:358867617" id="v-63588676170">насос</option>
+	            	            	            	            <option value="6:335939891" id="v-63359398910">парогенератор</option>
+	            	            	            	            <option value="6:975011493" id="v-69750114930">ароматизация</option>
+	            	            	            	            <option value="6:239251561" id="v-62392515610">очистка воды</option>
+	            	            	            	            <option value="6:407691080" id="v-64076910800">регулятор давления</option>
+	            	            	            	            <option value="6:587117550" id="v-65871175500">консервация</option>
+	            	            	            	            <option value="6:295930214" id="v-62959302140">промывка</option>
+	            	            	            	            <option value="6:128709477" id="v-61287094770">чернение резины</option>
+	            	            	            	            <option value="6:330458935" id="v-63304589350">пеногаситель</option>
+	            	            	            	            <option value="6:295859617" id="v-62958596170">удаление царапин</option>
+	            	            	            	            <option value="6:100356908" id="v-61003569080">расконсервация</option>
+	            	            	            	            <option value="6:330165375" id="v-63301653750">щетка</option>
+	            	            	            	            <option value="6:164930404" id="v-61649304040">разморозка</option>
+	            	            	            	            <option value="6:862272026" id="v-68622720260">шторы</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-70">
+	        <div class="option-name">
+	          Вес/Объем
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[7]" class="ocf-target">
+								            	            <option value="" id="v-cancel-70" selected="selected">Все</option>
+	            	            	            	            <option value="7:328010005" id="v-73280100050">1 кг</option>
+	            	            	            	            <option value="7:202079582" id="v-72020795820">1 л</option>
+	            	            	            	            <option value="7:347306502" id="v-73473065020">1.2 кг</option>
+	            	            	            	            <option value="7:425404254" id="v-74254042540">1.4 кг</option>
+	            	            	            	            <option value="7:352373682" id="v-73523736820">1.5 кг</option>
+	            	            	            	            <option value="7:243520114" id="v-72435201140">1.8 л</option>
+	            	            	            	            <option value="7:115908005" id="v-71159080050">2 кг</option>
+	            	            	            	            <option value="7:179144559" id="v-71791445590">2 л</option>
+	            	            	            	            <option value="7:109980969" id="v-71099809690">2.2 кг</option>
+	            	            	            	            <option value="7:385617562" id="v-73856175620">2.5 л</option>
+	            	            	            	            <option value="7:289427987" id="v-72894279870">2.7 кг</option>
+	            	            	            	            <option value="7:238727880" id="v-72387278800">3 кг</option>
+	            	            	            	            <option value="7:353128787" id="v-73531287870">3 л</option>
+	            	            	            	            <option value="7:232715001" id="v-72327150010">3.35 л</option>
+	            	            	            	            <option value="7:241820967" id="v-72418209670">3.5 кг</option>
+	            	            	            	            <option value="7:394295121" id="v-73942951210">3.78 кг</option>
+	            	            	            	            <option value="7:237181431" id="v-72371814310">3.78 л</option>
+	            	            	            	            <option value="7:904094914" id="v-79040949140">3.79 л</option>
+	            	            	            	            <option value="7:247148017" id="v-72471480170">4 кг</option>
+	            	            	            	            <option value="7:133667776" id="v-71336677760">4 л</option>
+	            	            	            	            <option value="7:147764654" id="v-71477646540">5 кг</option>
+	            	            	            	            <option value="7:414505033" id="v-74145050330">5 л</option>
+	            	            	            	            <option value="7:144795084" id="v-71447950840">5.5 кг</option>
+	            	            	            	            <option value="7:393975651" id="v-73939756510">5.8 кг</option>
+	            	            	            	            <option value="7:373341654" id="v-73733416540">6 кг</option>
+	            	            	            	            <option value="7:331820578" id="v-73318205780">6.2 кг</option>
+	            	            	            	            <option value="7:363665763" id="v-73636657630">6.5 кг</option>
+	            	            	            	            <option value="7:366721477" id="v-73667214770">7 кг</option>
+	            	            	            	            <option value="7:383444865" id="v-73834448650">8 кг</option>
+	            	            	            	            <option value="7:400739521" id="v-74007395210">8 мл</option>
+	            	            	            	            <option value="7:344410926" id="v-73444109260">8.5 кг</option>
+	            	            	            	            <option value="7:215589244" id="v-72155892440">8.7 кг</option>
+	            	            	            	            <option value="7:474539572" id="v-74745395720">10 кг</option>
+	            	            	            	            <option value="7:801808104" id="v-78018081040">10 г</option>
+	            	            	            	            <option value="7:304208638" id="v-73042086380">10 гр</option>
+	            	            	            	            <option value="7:554768090" id="v-75547680900">10 л</option>
+	            	            	            	            <option value="7:371069620" id="v-73710696200">10 мл</option>
+	            	            	            	            <option value="7:254115674" id="v-72541156740">11 г</option>
+	            	            	            	            <option value="7:360842587" id="v-73608425870">11 кг</option>
+	            	            	            	            <option value="7:783378664" id="v-77833786640">11.5 кг</option>
+	            	            	            	            <option value="7:136736134" id="v-71367361340">12 кг</option>
+	            	            	            	            <option value="7:100133609" id="v-71001336090">12.1 кг</option>
+	            	            	            	            <option value="7:404848569" id="v-74048485690">12.5 л</option>
+	            	            	            	            <option value="7:118826675" id="v-71188266750">15 мл</option>
+	            	            	            	            <option value="7:286860238" id="v-72868602380">15.5 кг</option>
+	            	            	            	            <option value="7:339011306" id="v-73390113060">16 кг</option>
+	            	            	            	            <option value="7:21878412" id="v-7218784120">17 кг</option>
+	            	            	            	            <option value="7:383603461" id="v-73836034610">18 л</option>
+	            	            	            	            <option value="7:838759363" id="v-78387593630">18.5 кг</option>
+	            	            	            	            <option value="7:191515055" id="v-71915150550">18.75 л</option>
+	            	            	            	            <option value="7:344079532" id="v-73440795320">18.95 л</option>
+	            	            	            	            <option value="7:994555900" id="v-79945559000">19 кг</option>
+	            	            	            	            <option value="7:376342218" id="v-73763422180">19.2 кг</option>
+	            	            	            	            <option value="7:765525161" id="v-77655251610">20 кг</option>
+	            	            	            	            <option value="7:670435369" id="v-76704353690">20 мл</option>
+	            	            	            	            <option value="7:172290356" id="v-71722903560">20 л</option>
+	            	            	            	            <option value="7:387528679" id="v-73875286790">21 кг</option>
+	            	            	            	            <option value="7:161745245" id="v-71617452450">22 кг</option>
+	            	            	            	            <option value="7:287234816" id="v-72872348160">23 кг</option>
+	            	            	            	            <option value="7:305671340" id="v-73056713400">24 кг</option>
+	            	            	            	            <option value="7:136626898" id="v-71366268980">25 л</option>
+	            	            	            	            <option value="7:210432335" id="v-72104323350">25 кг</option>
+	            	            	            	            <option value="7:422740779" id="v-74227407790">26 кг</option>
+	            	            	            	            <option value="7:129195926" id="v-71291959260">26 г</option>
+	            	            	            	            <option value="7:154044153" id="v-71540441530">30 л</option>
+	            	            	            	            <option value="7:234618652" id="v-72346186520">30 кг</option>
+	            	            	            	            <option value="7:342737781" id="v-73427377810">32 мл</option>
+	            	            	            	            <option value="7:332394242" id="v-73323942420">32 кг</option>
+	            	            	            	            <option value="7:222528947" id="v-72225289470">33 кг</option>
+	            	            	            	            <option value="7:367594052" id="v-73675940520">35 кг</option>
+	            	            	            	            <option value="7:671252994" id="v-76712529940">39 г</option>
+	            	            	            	            <option value="7:114335669" id="v-71143356690">40 мл</option>
+	            	            	            	            <option value="7:387829391" id="v-73878293910">40 г</option>
+	            	            	            	            <option value="7:337043334" id="v-73370433340">43 кг</option>
+	            	            	            	            <option value="7:358832832" id="v-73588328320">44 кг</option>
+	            	            	            	            <option value="7:272022220" id="v-72720222200">48 кг</option>
+	            	            	            	            <option value="7:366229712" id="v-73662297120">50 г</option>
+	            	            	            	            <option value="7:389282256" id="v-73892822560">50 кг</option>
+	            	            	            	            <option value="7:379697322" id="v-73796973220">50 мл</option>
+	            	            	            	            <option value="7:278183198" id="v-72781831980">52 кг</option>
+	            	            	            	            <option value="7:231636953" id="v-72316369530">52.9 кг</option>
+	            	            	            	            <option value="7:185517274" id="v-71855172740">53 кг</option>
+	            	            	            	            <option value="7:235058378" id="v-72350583780">58 мл</option>
+	            	            	            	            <option value="7:365637445" id="v-73656374450">60 кг</option>
+	            	            	            	            <option value="7:355212805" id="v-73552128050">60 мл</option>
+	            	            	            	            <option value="7:263601063" id="v-72636010630">66 кг</option>
+	            	            	            	            <option value="7:330372915" id="v-73303729150">67 кг</option>
+	            	            	            	            <option value="7:197644481" id="v-71976444810">70 мл</option>
+	            	            	            	            <option value="7:214072193" id="v-72140721930">70 кг</option>
+	            	            	            	            <option value="7:269342599" id="v-72693425990">70 г</option>
+	            	            	            	            <option value="7:303274410" id="v-73032744100">71 кг</option>
+	            	            	            	            <option value="7:794116797" id="v-77941167970">75 кг</option>
+	            	            	            	            <option value="7:621000253" id="v-76210002530">75 мл</option>
+	            	            	            	            <option value="7:220661949" id="v-72206619490">80 мл</option>
+	            	            	            	            <option value="7:584776857" id="v-75847768570">80 г</option>
+	            	            	            	            <option value="7:364256930" id="v-73642569300">85 кг</option>
+	            	            	            	            <option value="7:160283058" id="v-71602830580">86 кг</option>
+	            	            	            	            <option value="7:799516755" id="v-77995167550">90 кг</option>
+	            	            	            	            <option value="7:636574931" id="v-76365749310">90 мл</option>
+	            	            	            	            <option value="7:165144405" id="v-71651444050">92 кг</option>
+	            	            	            	            <option value="7:283874790" id="v-72838747900">93 кг</option>
+	            	            	            	            <option value="7:302349779" id="v-73023497790">94 кг</option>
+	            	            	            	            <option value="7:213766806" id="v-72137668060">95 кг</option>
+	            	            	            	            <option value="7:321267055" id="v-73212670550">100 мл</option>
+	            	            	            	            <option value="7:224144211" id="v-72241442110">100 г</option>
+	            	            	            	            <option value="7:797997519" id="v-77979975190">102 г</option>
+	            	            	            	            <option value="7:420117999" id="v-74201179990">110 мл</option>
+	            	            	            	            <option value="7:113358255" id="v-71133582550">115 кг</option>
+	            	            	            	            <option value="7:123783894" id="v-71237838940">115 мл</option>
+	            	            	            	            <option value="7:411631603" id="v-74116316030">118 мл</option>
+	            	            	            	            <option value="7:685926258" id="v-76859262580">120 мл</option>
+	            	            	            	            <option value="7:192053305" id="v-71920533050">125 кг</option>
+	            	            	            	            <option value="7:201640928" id="v-72016409280">125 мл</option>
+	            	            	            	            <option value="7:209848785" id="v-72098487850">135 гр</option>
+	            	            	            	            <option value="7:109711533" id="v-71097115330">140 кг</option>
+	            	            	            	            <option value="7:126158906" id="v-71261589060">140 мл</option>
+	            	            	            	            <option value="7:231895588" id="v-72318955880">141 кг</option>
+	            	            	            	            <option value="7:186087827" id="v-71860878270">143 гр</option>
+	            	            	            	            <option value="7:367354799" id="v-73673547990">144 кг</option>
+	            	            	            	            <option value="7:296302459" id="v-72963024590">145 кг</option>
+	            	            	            	            <option value="7:398074521" id="v-73980745210">150 мл</option>
+	            	            	            	            <option value="7:129979141" id="v-71299791410">150 г</option>
+	            	            	            	            <option value="7:336577844" id="v-73365778440">153 гр</option>
+	            	            	            	            <option value="7:226104441" id="v-72261044410">180 кг</option>
+	            	            	            	            <option value="7:305201011" id="v-73052010110">180 г</option>
+	            	            	            	            <option value="7:235839289" id="v-72358392890">180 мл</option>
+	            	            	            	            <option value="7:369725684" id="v-73697256840">185 мл</option>
+	            	            	            	            <option value="7:188732793" id="v-71887327930">195 кг</option>
+	            	            	            	            <option value="7:232147928" id="v-72321479280">200 л</option>
+	            	            	            	            <option value="7:837972408" id="v-78379724080">200 мл</option>
+	            	            	            	            <option value="7:100063775" id="v-71000637750">200 кг</option>
+	            	            	            	            <option value="7:51233770" id="v-7512337700">200 г</option>
+	            	            	            	            <option value="7:404280694" id="v-74042806940">201 кг</option>
+	            	            	            	            <option value="7:198679864" id="v-71986798640">202 кг</option>
+	            	            	            	            <option value="7:399280694" id="v-73992806940">206 кг</option>
+	            	            	            	            <option value="7:254210714" id="v-72542107140">210 мл</option>
+	            	            	            	            <option value="7:264788750" id="v-72647887500">210 кг</option>
+	            	            	            	            <option value="7:279218600" id="v-72792186000">220 мл</option>
+	            	            	            	            <option value="7:396426682" id="v-73964266820">238 мл</option>
+	            	            	            	            <option value="7:431112758" id="v-74311127580">246 кг</option>
+	            	            	            	            <option value="7:342132649" id="v-73421326490">250 г</option>
+	            	            	            	            <option value="7:167420675" id="v-71674206750">250 мл</option>
+	            	            	            	            <option value="7:409923154" id="v-74099231540">270 мл</option>
+	            	            	            	            <option value="7:35471327" id="v-7354713270">280 мл</option>
+	            	            	            	            <option value="7:863864875" id="v-78638648750">280 г</option>
+	            	            	            	            <option value="7:275842365" id="v-72758423650">290 мл</option>
+	            	            	            	            <option value="7:425043178" id="v-74250431780">300 мл</option>
+	            	            	            	            <option value="7:336075579" id="v-73360755790">300 г</option>
+	            	            	            	            <option value="7:906273411" id="v-79062734110">301 мл</option>
+	            	            	            	            <option value="7:152983822" id="v-71529838220">310 мл</option>
+	            	            	            	            <option value="7:381089547" id="v-73810895470">320г</option>
+	            	            	            	            <option value="7:162015348" id="v-71620153480">320 кг</option>
+	            	            	            	            <option value="7:343411397" id="v-73434113970">330 мл</option>
+	            	            	            	            <option value="7:174416862" id="v-71744168620">330мл</option>
+	            	            	            	            <option value="7:262550170" id="v-72625501700">335 мл</option>
+	            	            	            	            <option value="7:11640639" id="v-7116406390">350 г</option>
+	            	            	            	            <option value="7:888216727" id="v-78882167270">354 мл</option>
+	            	            	            	            <option value="7:265973046" id="v-72659730460">360 мл</option>
+	            	            	            	            <option value="7:328958801" id="v-73289588010">365 кг</option>
+	            	            	            	            <option value="7:219190400" id="v-72191904000">368 г</option>
+	            	            	            	            <option value="7:415429228" id="v-74154292280">400 мл</option>
+	            	            	            	            <option value="7:357906047" id="v-73579060470">400 г</option>
+	            	            	            	            <option value="7:161077071" id="v-71610770710">420 мл</option>
+	            	            	            	            <option value="7:277907650" id="v-72779076500">450 мл</option>
+	            	            	            	            <option value="7:498380679" id="v-74983806790">450 г</option>
+	            	            	            	            <option value="7:842679985" id="v-78426799850">470 мл</option>
+	            	            	            	            <option value="7:303131548" id="v-73031315480">473 мл</option>
+	            	            	            	            <option value="7:384436920" id="v-73844369200">480 г</option>
+	            	            	            	            <option value="7:329581935" id="v-73295819350">480 мл</option>
+	            	            	            	            <option value="7:377914842" id="v-73779148420">495 л</option>
+	            	            	            	            <option value="7:852012127" id="v-78520121270">495 мл</option>
+	            	            	            	            <option value="7:993491105" id="v-79934911050">500 мл</option>
+	            	            	            	            <option value="7:503903058" id="v-75039030580">500 г</option>
+	            	            	            	            <option value="7:289671821" id="v-72896718210">520 мл</option>
+	            	            	            	            <option value="7:614516232" id="v-76145162320">539 г</option>
+	            	            	            	            <option value="7:176261299" id="v-71762612990">550 мл</option>
+	            	            	            	            <option value="7:138737897" id="v-71387378970">560 кг</option>
+	            	            	            	            <option value="7:256039372" id="v-72560393720">600 г</option>
+	            	            	            	            <option value="7:304876729" id="v-73048767290">600 мл</option>
+	            	            	            	            <option value="7:388394621" id="v-73883946210">650 мл</option>
+	            	            	            	            <option value="7:135030746" id="v-71350307460">650 г</option>
+	            	            	            	            <option value="7:140511292" id="v-71405112920">700 г</option>
+	            	            	            	            <option value="7:687866169" id="v-76878661690">720 г</option>
+	            	            	            	            <option value="7:400224638" id="v-74002246380">720 мл</option>
+	            	            	            	            <option value="7:260262224" id="v-72602622240">750 г</option>
+	            	            	            	            <option value="7:724193403" id="v-77241934030">750 мл</option>
+	            	            	            	            <option value="7:125810732" id="v-71258107320">780 мл</option>
+	            	            	            	            <option value="7:272779687" id="v-72727796870">800 г</option>
+	            	            	            	            <option value="7:177485904" id="v-71774859040">900 г</option>
+	            	            	            	            <option value="7:131797270" id="v-71317972700">946 мл</option>
+	            	            	            	            <option value="7:256399572" id="v-72563995720">960 мл</option>
+	            	            	            	            <option value="7:249725613" id="v-72497256130">964 мл</option>
+	            	            	            	            <option value="7:243373620" id="v-72433736200">1100 г</option>
+	            	            	            	            <option value="7:178166811" id="v-71781668110">1500 г</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-80">
+	        <div class="option-name">
+	          Разбавление
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[8]" class="ocf-target">
+								            	            <option value="" id="v-cancel-80" selected="selected">Все</option>
+	            	            	            	            <option value="8:490599652" id="v-84905996520">1:3000</option>
+	            	            	            	            <option value="8:369177780" id="v-83691777800">1:2</option>
+	            	            	            	            <option value="8:286964111" id="v-82869641110">1:3</option>
+	            	            	            	            <option value="8:368061928" id="v-83680619280">1:6</option>
+	            	            	            	            <option value="8:258142054" id="v-82581420540">1:60</option>
+	            	            	            	            <option value="8:392112910" id="v-83921129100">1:65</option>
+	            	            	            	            <option value="8:313575394" id="v-83135753940">1:128</option>
+	            	            	            	            <option value="8:224881162" id="v-82248811620">1:100</option>
+	            	            	            	            <option value="8:308232666" id="v-83082326660">1:320</option>
+	            	            	            	            <option value="8:425627622" id="v-84256276220">1:20</option>
+	            	            	            	            <option value="8:307365387" id="v-83073653870">1:1000</option>
+	            	            	            	            <option value="8:115797983" id="v-81157979830">1:1</option>
+	            	            	            	            <option value="8:224073728" id="v-82240737280">1:300</option>
+	            	            	            	            <option value="8:280115412" id="v-82801154120">1:15</option>
+	            	            	            	            <option value="8:249563412" id="v-82495634120">1:35</option>
+	            	            	            	            <option value="8:221961272" id="v-82219612720">1:200</option>
+	            	            	            	            <option value="8:417706912" id="v-84177069120">1:350</option>
+	            	            	            	            <option value="8:218990818" id="v-82189908180">1:700</option>
+	            	            	            	            <option value="8:178573160" id="v-81785731600">1:32</option>
+	            	            	            	            <option value="8:302384919" id="v-83023849190">1:120</option>
+	            	            	            	            <option value="8:277673254" id="v-82776732540">1:2000</option>
+	            	            	            	            <option value="8:216449349" id="v-82164493490">1:500</option>
+	            	            	            	            <option value="8:360060026" id="v-83600600260">1:10</option>
+	            	            	            	            <option value="8:216019110" id="v-82160191100">1:400</option>
+	            	            	            	            <option value="8:383639098" id="v-83836390980">1:30</option>
+	            	            	            	            <option value="8:111415159" id="v-81114151590">1:5</option>
+	            	            	            	            <option value="8:300207558" id="v-83002075580">1:50</option>
+	            	            	            	            <option value="8:210789990" id="v-82107899900">1:33</option>
+	            	            	            	            <option value="8:237996737" id="v-82379967370">1:25</option>
+	            	            	            	            <option value="8:127289510" id="v-81272895100">1:9</option>
+	            	            	            	            <option value="8:102091317" id="v-81020913170">1:8</option>
+	            	            	            	            <option value="8:292995987" id="v-82929959870">1:330</option>
+	            	            	            	            <option value="8:896510521" id="v-88965105210">1:4</option>
+	            	            	            	            <option value="8:266237493" id="v-82662374930">1:64</option>
+	            	            	            	            <option value="8:349493758" id="v-83494937580">1:160</option>
+	            	            	            	            <option value="8:329401610" id="v-83294016100">1:125</option>
+	            	            	            	            <option value="8:289243021" id="v-82892430210">1:7</option>
+	            	            	            	            <option value="8:123631503" id="v-81236315030">1:80</option>
+	            	            	            	            <option value="8:288431936" id="v-82884319360">1:40</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-90">
+	        <div class="option-name">
+	          Тара
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[9]" class="ocf-target">
+								            	            <option value="" id="v-cancel-90" selected="selected">Все</option>
+	            	            	            	            <option value="9:285647560" id="v-92856475600">тюбик</option>
+	            	            	            	            <option value="9:120339055" id="v-91203390550">бидон</option>
+	            	            	            	            <option value="9:284820130" id="v-92848201300">флакон</option>
+	            	            	            	            <option value="9:321057757" id="v-93210577570">стакан</option>
+	            	            	            	            <option value="9:815385287" id="v-98153852870">бочка</option>
+	            	            	            	            <option value="9:189676634" id="v-91896766340">тригер</option>
+	            	            	            	            <option value="9:153331026" id="v-91533310260">набор</option>
+	            	            	            	            <option value="9:114634565" id="v-91146345650">канистра</option>
+	            	            	            	            <option value="9:279115762" id="v-92791157620">мешок</option>
+	            	            	            	            <option value="9:361165901" id="v-93611659010">бочок</option>
+	            	            	            	            <option value="9:111501701" id="v-91115017010">жестяная канистра</option>
+	            	            	            	            <option value="9:359755443" id="v-93597554430">баллон</option>
+	            	            	            	            <option value="9:134575543" id="v-91345755430">ведро</option>
+	            	            	            	            <option value="9:409116654" id="v-94091166540">бутылка</option>
+	            	            	            	            <option value="9:108080386" id="v-91080803860">банка</option>
+	            	            	            	            <option value="9:105692795" id="v-91056927950">коробка</option>
+	            	            	            	            <option value="9:266928431" id="v-92669284310">пластиковая упаковка</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-100">
+	        <div class="option-name">
+	          Сезон
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[10]" class="ocf-target">
+								            	            <option value="" id="v-cancel-100" selected="selected">Все</option>
+	            	            	            	            <option value="10:196745552" id="v-101967455520">лето</option>
+	            	            	            	            <option value="10:225831719" id="v-102258317190">всесезонный</option>
+	            	            	            	            <option value="10:249488790" id="v-102494887900">весна/осень</option>
+	            	            	            	            <option value="10:998625556" id="v-109986255560">зима</option>
+	            	            	            	            <option value="10:83474389" id="v-10834743890">весна/лето</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	
+			
+				<div class="ocfilter-option" id="option-110">
+	        <div class="option-name">
+	          Использование
+						
+            	        </div>
+
+	        <div class="option-values">
+            
+						
+						<select name="option[11]" class="ocf-target">
+								            	            <option value="" id="v-cancel-110" selected="selected">Все</option>
+	            	            	            	            <option value="11:327221681" id="v-113272216810">профессиональный</option>
+	            	            	            	            <option value="11:283686487" id="v-112836864870">бесконтактная мойка</option>
+	            	            	            	            <option value="11:281414610" id="v-112814146100">бытовой</option>
+	            	            	            	            <option value="11:224099140" id="v-112240991400">ручная мойка</option>
+	            	            	            	            <option value="11:151121316" id="v-111511213160">для автоматических установок</option>
+	            	            	            	            <option value="11:299540360" id="v-112995403600">универсальный</option>
+	            	            	            	            <option value="11:125130727" id="v-111251307270">ручное распыление</option>
+	            	            	          </select>
+
+            
+            	        </div>
+
+	        	      </div>
+
+      
+    	    </form>
+  </div>
+  	<script type="text/javascript"><!--
+		var options = {
+      element: {
+			  priceScale     : $('#scale-price-0'), // Slide scale element
+			  priceMin       : $('#min-price-value-0'),  // Price min field
+			  priceMax       : $('#max-price-value-0'),  // Price max field
+			  priceFrom      : $('#price-from-0'),// Price from elemenet
+			  priceTo        : $('#price-to-0'),  // Price to elemenet
+			  submitButton   : $('#button-submit-0'),
+			  floatButton    : $('#button-float-0'),
+        scales         : $('.scale-0')
+			},
+      php: {
+				module       : 0,
+				minPrice     : 3,
+				maxPrice     : 1156800,
+				minPriceValue: 3,
+				maxPriceValue: 1156800,
+		    showButton   : 1,
+		    showPrice    : 1,
+		    showCounter  : 1,
+				manualPrice  : 1,
+		    total        : 3016,
+        link         : 'http://avto-kosmetik.ru/vse-tovary/',
+		    path         : '70',
+		    params       : '',
+		    index        : 'filter_ocfilter'
+		  },
+      text: {
+		    show_all: 'Показать все',
+		    hide    : 'Скрыть',
+		    load    : 'Загрузка...',
+				any     : 'Все',
+		    select  : 'Укажите параметры'
+		  },
+			sliders      : []
+		};
+
+																																										
+    $('#ocfilter-0').ocfilter(options);
+	//--></script>
+</div>
+  </div>
+ 
+		<div id="column-right">
+	
+    <div class="box featbox">
+    <div class="featured-categories-box-heading">Автохимия</div>
+    <div class="featured-categories-box-content">
+    <div class="featured-categories-box-category">
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/autoshampoon-105x90.jpg" alt="Автошампуни" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/">Автошампуни</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/beskontaktnaya-himiya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/beskontact-105x90.jpg" alt="Бесконтактная химия" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/beskontaktnaya-himiya/">Бесконтактная химия</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/voski/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/wax-105x90.jpg" alt="Воски" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/voski/">Воски</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/nano-mojka-nanohimiya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/nano-105x90.jpg" alt="Нано мойка (нанохимия)" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/nano-mojka-nanohimiya/">Нано мойка (нанохимия)</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/chernenie-reziny-cherniteli-bamperov-i-shin-sredstva-dlya-sh/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/shiny-105x90.jpg" alt="Чернение резины (чернители бамперов и шин), средства для шин" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/chernenie-reziny-cherniteli-bamperov-i-shin-sredstva-dlya-sh/">Чернение резины (чернители бамперов и шин), средства для шин</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/evro-mojka/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/euro-105x90.jpg" alt="Евро мойка" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/evro-mojka/">Евро мойка</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/nabory-dlya-polirovki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/polish-105x90.jpeg" alt="Наборы для полировки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/nabory-dlya-polirovki/">Наборы для полировки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-kuzova/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/ochist_kuzova-105x90.jpg" alt="Очистители кузова" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-kuzova/">Очистители кузова</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-tkani-kozhi-plastika-salona/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/leather-105x90.jpg" alt="Очистители ткани, кожи, пластика салона" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-tkani-kozhi-plastika-salona/">Очистители ткани, кожи, пластика салона</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-kolesnyh-diskov/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/ochist_diskov-105x90.jpg" alt="Очистители колесных дисков" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/ochistiteli-kolesnyh-diskov/">Очистители колесных дисков</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/pasty-dlya-ochistki-ruk/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/hands-105x90.jpg" alt="Пасты для очистки рук" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/pasty-dlya-ochistki-ruk/">Пасты для очистки рук</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/polirovalnye-pasty/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/polir_pasti-105x90.jpg" alt="Полировальные пасты" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/polirovalnye-pasty/">Полировальные пасты</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/poliroli-kuzova/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/polir_kuzov-105x90.jpg" alt="Полироли кузова" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/poliroli-kuzova/">Полироли кузова</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/poliroli-plastika-vinila-kozhi/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/polirol-105x90.jpg" alt="Полироли пластика, винила, кожи" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/poliroli-plastika-vinila-kozhi/">Полироли пластика, винила, кожи</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/kondicionery-kozhi/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/polirol_kozha-105x90.jpg" alt="Кондиционеры кожи" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/kondicionery-kozhi/">Кондиционеры кожи</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-mojki-dvigatelya-ochistiteli-dvigatelya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/dvigatel-105x90.jpg" alt="Средства для мойки двигателя (очистители двигателя)" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-mojki-dvigatelya-ochistiteli-dvigatelya/">Средства для мойки двигателя (очистители двигателя)</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-ochistki-stekol-uhod-za-steklom/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/steklo-105x90.jpg" alt="Средства для очистки стекол, Уход за стеклом" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-ochistki-stekol-uhod-za-steklom/">Средства для очистки стекол, Уход за стеклом</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-cirkulyacionnoj-mojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/cirkul-105x90.jpg" alt="Средства для циркуляционной мойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-cirkulyacionnoj-mojki/">Средства для циркуляционной мойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-chistki-salona/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/salon-105x90.png" alt="Средства для чистки салона" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-chistki-salona/">Средства для чистки салона</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/ochistitel-obivki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/obivka-105x90.jpg" alt="Очиститель обивки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/ochistitel-obivki/">Очиститель обивки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/udalenie-bitumnyh-pyaten/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/bitum-105x90.jpg" alt="Удаление битумных пятен" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/udalenie-bitumnyh-pyaten/">Удаление битумных пятен</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/udalenie-sledov-nasekomyh/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/nasek-105x90.jpg" alt="Удаление следов насекомых" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/udalenie-sledov-nasekomyh/">Удаление следов насекомых</a></div>
+      </div>
+          </div>
+  </div><div style="clear:both"></div>
+</div>
+    <div class="box featbox">
+    <div class="featured-categories-box-heading">Автокосметика</div>
+    <div class="featured-categories-box-content">
+    <div class="featured-categories-box-category">
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/nanopokrytiya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/nanopokritia-105x90.jpg" alt="Нанопокрытия" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/nanopokrytiya/">Нанопокрытия</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/vosstanoviteli-kuzova/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/kuzov-105x90.jpg" alt="Восстановители кузова" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/vosstanoviteli-kuzova/">Восстановители кузова</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/aromatizatory-salona/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/aromat-105x90.jpg" alt="Ароматизаторы салона" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/aromatizatory-salona/">Ароматизаторы салона</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/nejtralizatory-zapahov/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/neutraliz-105x90.jpg" alt="Нейтрализаторы запахов" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/nejtralizatory-zapahov/">Нейтрализаторы запахов</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/silikony-smazki-razmorazhivateli/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/smazki-105x90.jpg" alt="Силиконы, Смазки, Размораживатели" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/silikony-smazki-razmorazhivateli/">Силиконы, Смазки, Размораживатели</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/antinakipin/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/antinakip-105x90.jpg" alt="Антинакипин" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/antinakipin/">Антинакипин</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/nezamerzayushie-zhidkosti-dlya-omyvaniya-stekol-nezamerzajka/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/nezamerzaika-105x90.jpg" alt="Незамерзающие жидкости для омывания стекол (незамерзайка)" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/nezamerzayushie-zhidkosti-dlya-omyvaniya-stekol-nezamerzajka/">Незамерзающие жидкости для омывания стекол (незамерзайка)</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/antizapotevatel-dlya-stekol-i-zerkal/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/antizapotevatel-105x90.jpg" alt="Антизапотеватель для стекол и зеркал" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/antizapotevatel-dlya-stekol-i-zerkal/">Антизапотеватель для стекол и зеркал</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/antidozhdantiled/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/antidozhd-105x90.jpg" alt="Антидождь/Антилед" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/antidozhdantiled/">Антидождь/Антилед</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/antikonservaciya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/antikonserv-105x90.png" alt="Антиконсервация" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/antikonservaciya/">Антиконсервация</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/dlya-motociklov-skuterov-velosipedov/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/moto-105x90.jpg" alt="Для мотоциклов, скутеров, велосипедов" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/dlya-motociklov-skuterov-velosipedov/">Для мотоциклов, скутеров, велосипедов</a></div>
+      </div>
+          </div>
+  </div><div style="clear:both"></div>
+</div>
+    <div class="box featbox">
+    <div class="featured-categories-box-heading">Сопутствующие товары</div>
+    <div class="featured-categories-box-content">
+    <div class="featured-categories-box-category">
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/aksessuary-dlya-mojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/acsess-105x90.jpeg" alt="Аксессуары для мойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/aksessuary-dlya-mojki/">Аксессуары для мойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/gubka-105x90.jpg" alt="Протирочные материалы" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/">Протирочные материалы</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/raspyliteli/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/raspiliteli-105x90.jpg" alt="Распылители" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/raspyliteli/">Распылители</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/sgony/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/sgon-105x90.jpg" alt="Сгоны" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/sgony/">Сгоны</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/specodezhda/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/odezhda-105x90.jpg" alt="Спецодежда" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/specodezhda/">Спецодежда</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/triggery/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/trigger-105x90.jpg" alt="Триггеры" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/triggery/">Триггеры</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/urny-i-kontejnery/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/urni-105x90.jpg" alt="Урны и контейнеры" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/urny-i-kontejnery/">Урны и контейнеры</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/shetki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/shetki-105x90.jpg" alt="Щетки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/shetki/">Щетки</a></div>
+      </div>
+          </div>
+  </div><div style="clear:both"></div>
+</div>
+    <div class="box featbox">
+    <div class="featured-categories-box-heading">Оборудование для автомоек</div>
+    <div class="featured-categories-box-content">
+    <div class="featured-categories-box-category">
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/apparaty-vysokogo-davleniya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/avd-105x90.jpg" alt="Аппараты высокого давления" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/apparaty-vysokogo-davleniya/">Аппараты высокого давления</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/zapchasti-i-remkomplekty-dlya-avd/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/avd_aksess-105x90.jpeg" alt="Запчасти и ремкомплекты для АВД" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/zapchasti-i-remkomplekty-dlya-avd/">Запчасти и ремкомплекты для АВД</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/nasosy-vysokogo-davleniya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/nasos-105x90.jpeg" alt="Насосы высокого давления" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/nasosy-vysokogo-davleniya/">Насосы высокого давления</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/regulyatory-davleniya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/regulator-105x90.jpg" alt="Регуляторы давления" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/regulyatory-davleniya/">Регуляторы давления</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/predohranitelnye-klapana/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/klapan-105x90.jpg" alt="Предохранительные клапана" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/predohranitelnye-klapana/">Предохранительные клапана</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/pylevodososy-dlya-avtomojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/pilevodososy-105x90.jpg" alt="Пылеводососы для автомойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/pylevodososy-dlya-avtomojki/">Пылеводососы для автомойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/aksessuary-dlya-avtomoek/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/filtr-105x90.jpg" alt="Аксессуары для автомоек" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/aksessuary-dlya-avtomoek/">Аксессуары для автомоек</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/sistemy-ochistki-vody/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/system-105x90.jpg" alt="Системы очистки воды" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/sistemy-ochistki-vody/">Системы очистки воды</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/kompressory/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/compress-105x90.jpg" alt="Компрессоры" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/kompressory/">Компрессоры</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/konsoli-potolochnye/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/Konsol-105x90.jpg" alt="Консоли потолочные" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/konsoli-potolochnye/">Консоли потолочные</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/montazhnye-komplekty-dlya-avtomoek/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/montazh-105x90.jpg" alt="Монтажные комплекты для автомоек" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/montazhnye-komplekty-dlya-avtomoek/">Монтажные комплекты для автомоек</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/pennoe-oborudovanie/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/pennoe-105x90.jpg" alt="Пенное оборудование" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/pennoe-oborudovanie/">Пенное оборудование</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/barabany-dlya-avtomojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/baraban-105x90.jpg" alt="Барабаны для автомойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/barabany-dlya-avtomojki/">Барабаны для автомойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/shlangi-dlya-avtomojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/shlang-105x90.jpg" alt="Шланги для автомойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/shlangi-dlya-avtomojki/">Шланги для автомойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/shtory-dlya-avtomojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/Shtora-105x90.jpg" alt="Шторы для автомойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/shtory-dlya-avtomojki/">Шторы для автомойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/derzhateli-pistoletov-shlangov-kovrikov/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/derzhatel-105x90.jpeg" alt="Держатели, пистолетов, шлангов, ковриков" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/derzhateli-pistoletov-shlangov-kovrikov/">Держатели, пистолетов, шлангов, ковриков</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/distancionnoe-upravlenie-apparatov-vysokogo-davleniya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/pult_distantsionnogo_upravleniya-105x90.jpg" alt="Дистанционное управление аппаратов высокого давления" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/distancionnoe-upravlenie-apparatov-vysokogo-davleniya/">Дистанционное управление аппаратов высокого давления</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/dozatory-dlya-avtomojki/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/Dozatron-105x90.jpg" alt="Дозаторы для автомойки" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/dozatory-dlya-avtomojki/">Дозаторы для автомойки</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/teplovye-zavesy-dlya-avtomoek/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/Teplovye_zavesy-105x90.jpg" alt="Тепловые завесы для автомоек" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/teplovye-zavesy-dlya-avtomoek/">Тепловые завесы для автомоек</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/videonablyudenie-na-avtomojke/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/video-105x90.jpg" alt="Видеонаблюдение на автомойке" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/videonablyudenie-na-avtomojke/">Видеонаблюдение на автомойке</a></div>
+      </div>
+            <div>
+                <div class="image"><a href="http://avto-kosmetik.ru/specpredlozheniya/"><img src="https://avto-kosmetik.ru/image/cache/data/cat/Sale-105x90.jpg" alt="Спецпредложения" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/specpredlozheniya/">Спецпредложения</a></div>
+      </div>
+          </div>
+  </div><div style="clear:both"></div>
+</div>
+  </div>
+		<div style="clear:both;"></div>
+
+		<div id="content">
+			<div class="main-top"><div class="box">
+  <div class="box-heading"><span>Преимущества</span></div>
+	<div class="box-content">
+		<div class="preim">
+<a href="/5-let-na-rinke/"><div class="pblock" style="margin-top:15px;"><img src="/catalog/view/theme/default/image/i-1.png" alt=""><p style="width:110px;"><span>5 лет на рынке</span>более 10 000 покупателей</p></div></a>
+<a href="/svoi-otdel-servisa-i-montazha/"><div class="pblock"><img src="/catalog/view/theme/default/image/i-2.png" alt=""><p><span>Свой отдел сервиса</span>и монтажа</p></div></a>
+<a href="/pervaya-zamena-kartridzhey-besplatno/"><div class="pblock"><img src="/catalog/view/theme/default/image/i-3.png" alt=""><p><span>Первая замена</span>картриджей бесплатно</p></div></a>
+<a href="/besplatnaya-dostavka-i-montazh/"><div class="pblock"><img src="/catalog/view/theme/default/image/i-4.png" alt=""><p><span>Бесплатная доставка</span>и монтаж</p></div></a>
+<a href="/napominanie-o-zamene-kartridzhey/"><div class="pblock"><img src="/catalog/view/theme/default/image/i-5.png" alt=""><p><span>Напоминание</span>о замене картриджей</p></div></a>
+</div>	</div>
+</div><div id="banner0" class="banner">
+      <div><a href="/"><img src="https://avto-kosmetik.ru/image/cache/data/f_18153b0f7b2055f1-708x166.jpg" alt="Баннер" title="Баннер" /></a></div>
+    </div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner0 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner0').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script><div id="banner1" class="banner">
+      <div><a href="/"><img src="https://avto-kosmetik.ru/image/cache/data/f_46653b0f7b2120e1-478x166.jpg" alt="Баннер" title="Баннер" /></a></div>
+    </div>
+<script type="text/javascript"><!--
+$(document).ready(function() {
+	$('#banner1 div:first-child').css('display', 'block');
+});
+
+var banner = function() {
+	$('#banner1').cycle({
+		before: function(current, next) {
+			$(next).parent().height($(next).outerHeight());
+		}
+	});
+}
+
+setTimeout(banner, 2000);
+//--></script><div class="box">
+<div class="box-heading"><span>Распродажа</span></div>
+<div class="box-content">
+
+					
+<div id="scroller_0" class="scroller">
+	<ul class="jcarousel-skin-opencart scroller">
+					<li>
+				<div>						<div class="image spec_img"><a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-lavr-auto-shampoo-light-art-ln2273.html"><!-- star ipl --><span class="horizontal position_manual small-db" style="background-image:url(https://avto-kosmetik.ru/image/data/label1.png);background-repeat:no-repeat;background-position:center center;background-size:auto;color:#F8F8F8;box-shadow:none;left:-6%;right: none;top:-3%;bottom: none;opacity:1;font-size:1em;font-weight:normal;width:120px;height:90px;"></span><!-- end ipl --><img class="jcimg" src="https://avto-kosmetik.ru/image/cache/data/lavr/ash-light-20l-gdisplay-230x170.png" alt="Автошампунь LAVR Auto Shampoo Light" /></a></div>
+																<div class="name">
+						<a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-lavr-auto-shampoo-light-art-ln2273.html">Автошампунь LAVR Auto Shampoo Light</a>
+						</div>
+						<span class="code_b2">Код: Art Ln2273</span>
+																							<div class="price">
+															1 483.00 руб.														
+																					
+											<div class="cart scrlcart"><a class="button" onclick="addToCart('2041');"><span>В корзину</span></a>
+						</div></div>
+									</div>		
+			</li>
+					<li>
+				<div>						<div class="image spec_img"><a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-.html"><!-- star ipl --><span class="horizontal position_manual small-db" style="background-image:url(https://avto-kosmetik.ru/image/data/label1.png);background-repeat:no-repeat;background-position:center center;background-size:auto;color:#F8F8F8;box-shadow:none;left:-6%;right: none;top:-3%;bottom: none;opacity:1;font-size:1em;font-weight:normal;width:120px;height:90px;"></span><!-- end ipl --><img class="jcimg" src="https://avto-kosmetik.ru/image/cache/data/lavr/ash-superconcentrate-20l-gdisplay-230x170.png" alt="Автошампунь «Суперконцентрат» LAVR Auto Shampoo Super Concentrate" /></a></div>
+																<div class="name">
+						<a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-.html">Автошампунь «Суперконцентрат» LAVR Auto Shampoo Super Concentrate</a>
+						</div>
+						<span class="code_b2">Код: Art Ln2288</span>
+																							<div class="price">
+															3 937.00 руб.														
+																					
+											<div class="cart scrlcart"><a class="button" onclick="addToCart('2044');"><span>В корзину</span></a>
+						</div></div>
+									</div>		
+			</li>
+					<li>
+				<div>						<div class="image spec_img"><a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-dlya-beskontaktnoj-mojki-v-zhestkoj-vode-lavr-sp-2.html"><!-- star ipl --><span class="horizontal position_manual small-db" style="background-image:url(https://avto-kosmetik.ru/image/data/label1.png);background-repeat:no-repeat;background-position:center center;background-size:auto;color:#F8F8F8;box-shadow:none;left:-6%;right: none;top:-3%;bottom: none;opacity:1;font-size:1em;font-weight:normal;width:120px;height:90px;"></span><!-- end ipl --><img class="jcimg" src="https://avto-kosmetik.ru/image/cache/data/lavr/ash-specialaction-20l-gdisplay-230x170.png" alt="Автошампунь для бесконтактной мойки в жесткой воде LAVR Special Action" /></a></div>
+																<div class="name">
+						<a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-dlya-beskontaktnoj-mojki-v-zhestkoj-vode-lavr-sp-2.html">Автошампунь для бесконтактной мойки в жесткой воде LAVR Special Action</a>
+						</div>
+						<span class="code_b2">Код: Art Ln2258</span>
+																							<div class="price">
+															3 337.00 руб.														
+																					
+											<div class="cart scrlcart"><a class="button" onclick="addToCart('2050');"><span>В корзину</span></a>
+						</div></div>
+									</div>		
+			</li>
+					<li>
+				<div>						<div class="image spec_img"><a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-.html"><!-- star ipl --><span class="horizontal position_manual small-db" style="background-image:url(https://avto-kosmetik.ru/image/data/label1.png);background-repeat:no-repeat;background-position:center center;background-size:auto;color:#F8F8F8;box-shadow:none;left:-6%;right: none;top:-3%;bottom: none;opacity:1;font-size:1em;font-weight:normal;width:120px;height:90px;"></span><!-- end ipl --><img class="jcimg" src="https://avto-kosmetik.ru/image/cache/data/lavr/ash-color-20l-gdisplay-230x170.png" alt="Автошампунь «Цветная пена» LAVR Auto Shampoo Color" /></a></div>
+																<div class="name">
+						<a href="http://avto-kosmetik.ru/avtohimiya/avtoshampuni/avtoshampun-.html">Автошампунь «Цветная пена» LAVR Auto Shampoo Color</a>
+						</div>
+						<span class="code_b2">Код: Art Ln2283</span>
+																							<div class="price">
+															2 836.00 руб.														
+																					
+											<div class="cart scrlcart"><a class="button" onclick="addToCart('2035');"><span>В корзину</span></a>
+						</div></div>
+									</div>		
+			</li>
+			</ul>
+</div>
+<script type="text/javascript">
+
+jQuery.easing['Effect']=function(p,t,b,c,d){
+t /= d;
+	t--;
+	return -c * (t*t*t*t - 1) + b;
+};
+
+</script>
+
+
+<script type="text/javascript"><!--
+function mycarousel_initCallback(carousel)
+{
+	    carousel.buttonNext.bind('click', function() {
+        carousel.startAuto(0);
+    });
+
+    carousel.buttonPrev.bind('click', function() {
+        carousel.startAuto(0);
+    });
+		
+	    carousel.clip.hover(function() {
+        carousel.stopAuto();
+    }, function() {
+        carousel.startAuto();
+    });};
+//--></script>
+
+<script type="text/javascript"><!--
+$('#scroller_0 ul').jcarousel({
+vertical: false,
+initCallback: mycarousel_initCallback,
+visible: 4,
+scroll: 1,
+auto: 0,
+//easing: 'Effect',
+animation: 1000,
+wrap: 'last'});
+//--></script>
+</div>
+</div><div class="box">
+  <div class="box-heading"><span>Наши клиенты</span></div>
+	<div class="box-content">
+			</div>
+</div><div id="carousel0">
+  <ul class="jcarousel-skin-opencart">
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/1318451-220x60.gif" alt="DKV" title="DKV" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/1250403-220x60.gif" alt="Sofistyle" title="Sofistyle" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/1283095-220x60.gif" alt="osnovaOK" title="osnovaOK" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/1291059-220x60.gif" alt="КВМ аква" title="КВМ аква" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/37245-220x60.gif" alt="Тануки" title="Тануки" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/1321821-220x60.gif" alt="EnSol" title="EnSol" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/demo/1314322-220x60.gif" alt="Ставр групп" title="Ставр групп" /></a></li>
+      </ul>
+</div>
+<script type="text/javascript"><!--
+$('#carousel0 ul').jcarousel({
+	vertical: false,
+	visible: 5,
+	scroll: 3});
+//--></script>  <div id="tabs-0" class="htabs">
+		<a href="#tab-latest-0">Новые поступления</a>
+			<a href="#tab-featured-0">Рекомендуемые</a>
+			<a href="#tab-bestseller-0">Лидеры продаж</a>
+		 </div>
+ <div id="tab-latest-0" class="tab-content">
+    <div class="box-product">
+            <div>
+															                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/triggery/750-ml-flakon-s-raspylitilem-gtechnicq0118.html"><img src="https://avto-kosmetik.ru/image/cache/data/other/245f06e21e53b0ad8942215031a32bdb_big-250x250.jpg" alt="750 мл. флакон с распылитилем" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/triggery/750-ml-flakon-s-raspylitilem-gtechnicq0118.html">750 мл. флакон с распылитилем</a></div>
+		<div class="code1">Код gtechnicq0118</div>
+                <div class="price">
+                    250.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('3002');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock">Качество<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Экономичность<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Удобство<img src="catalog/view/theme/default/image/rate5.png" alt="" /></div>
+																<div class="fblock">Экологичность<img src="catalog/view/theme/default/image/rate3.png" alt="" /></div>
+																												      
+	  </div>
+            <div>
+															                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/gtechniq-mf3-mikrofibra-zamshevaya-gtechnicq0119.html"><img src="https://avto-kosmetik.ru/image/cache/data/other/4a911faa35b9131a61efe87153334e23_big-250x250.jpg" alt="GTECHNIQ MF3 Микрофибра замшевая" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/gtechniq-mf3-mikrofibra-zamshevaya-gtechnicq0119.html">GTECHNIQ MF3 Микрофибра замшевая</a></div>
+		<div class="code1">Код gtechnicq0119</div>
+                <div class="price">
+                    290.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('3003');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock">Качество<img src="catalog/view/theme/default/image/rate5.png" alt="" /></div>
+																<div class="fblock">Экономичность<img src="catalog/view/theme/default/image/rate3.png" alt="" /></div>
+																<div class="fblock">Удобство<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Экологичность<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																												      
+	  </div>
+            <div>
+															                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/gtechniq-wm1-rukavica-iz-meha-merinosa-gtechnicq0120.html"><img src="https://avto-kosmetik.ru/image/cache/data/other/5e3eb159651a4b79986a01dc206aa811_big-250x250.jpg" alt="GTECHNIQ WM1 Рукавица из меха мериноса" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/gtechniq-wm1-rukavica-iz-meha-merinosa-gtechnicq0120.html">GTECHNIQ WM1 Рукавица из меха мериноса</a></div>
+		<div class="code1">Код gtechnicq0120</div>
+                <div class="price">
+                    1 300.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('3004');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock">Качество<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Экономичность<img src="catalog/view/theme/default/image/rate5.png" alt="" /></div>
+																<div class="fblock">Удобство<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Экологичность<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																												      
+	  </div>
+            <div>
+															                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/nanopokrytiya/exov2-50-ml-c1-50-ml-gtechnicq0121.html"><img src="https://avto-kosmetik.ru/image/cache/data/other/71ab6b673a0de0b44418578c97ff6e8c_big-250x250.jpg" alt="EXOv2 (50) мл.+ C1 (50) мл." /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/nanopokrytiya/exov2-50-ml-c1-50-ml-gtechnicq0121.html">EXOv2 (50) мл.+ C1 (50) мл.</a></div>
+		<div class="code1">Код gtechnicq0121</div>
+                <div class="price">
+                    8 800.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('3005');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock">Качество<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Экономичность<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Удобство<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																<div class="fblock">Экологичность<img src="catalog/view/theme/default/image/rate4.png" alt="" /></div>
+																												      
+	  </div>
+          </div>
+ </div>
+  <div id="tab-featured-0" class="tab-content">
+    <div class="box-product">
+            <div>
+	  												                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/aromatizatory-salona/aromatizator-kartonnyj-uzor-vanil-grass0070.html"><img src="https://avto-kosmetik.ru/image/cache/data/grass/858_1000-250x250.jpg" alt="Ароматизатор картонный Узор, ваниль" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/aromatizatory-salona/aromatizator-kartonnyj-uzor-vanil-grass0070.html">Ароматизатор картонный Узор, ваниль</a></div>
+		<div class="code1">Код kent0056</div>
+                <div class="price">
+                    40.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('65');" class="button" /></div>
+				<div style="clear:both;"></div>
+																																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Качество</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Экономичность</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Удобство</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Экологичность</div>
+																												        
+	  </div>
+          </div>
+ </div>
+
+ <div id="tab-bestseller-0" class="tab-content">
+    <div class="box-product">
+            <div>
+	  												                <div class="image"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-mojki-dvigatelya-ochistiteli-dvigatelya/ochistitel-kamery-sgoraniya-i-toplivnoj-sistemy-gzox-injecti.html"><img src="https://avto-kosmetik.ru/image/cache/data/uni/210_210_0_7081-250x250.jpg" alt="Очиститель камеры сгорания и топливной системы G?ZOX INJECTION &amp; CARB CLEANER" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtohimiya/sredstva-dlya-mojki-dvigatelya-ochistiteli-dvigatelya/ochistitel-kamery-sgoraniya-i-toplivnoj-sistemy-gzox-injecti.html">Очиститель камеры сгорания и топливной системы G?ZOX INJECTION &amp; CARB CLEANER</a></div>
+		<div class="code1">Код 11101/03110</div>
+                <div class="price">
+                    330.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('2612');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock"><img src="catalog/view/theme/default/image/rate3.png" alt="" />Качество</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Экономичность</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Удобство</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Экологичность</div>
+																												        
+	  </div>
+            <div>
+	  												                <div class="image"><a href="http://avto-kosmetik.ru/avtokosmetika/vosstanoviteli-kuzova/zhidkij-polimer-hydro-shine-automagic0242.html"><img src="https://avto-kosmetik.ru/image/cache/data/magic/vosk-hydro-shine-250x250.jpg" alt="Жидкий полимер Hydro Shine" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/avtokosmetika/vosstanoviteli-kuzova/zhidkij-polimer-hydro-shine-automagic0242.html">Жидкий полимер Hydro Shine</a></div>
+		<div class="code1">Код automagic0242</div>
+                <div class="price">
+                    850.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('284');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Качество</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Экономичность</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Удобство</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate3.png" alt="" />Экологичность</div>
+																												        
+	  </div>
+            <div>
+	  									                <div class="image"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/zapchasti-i-remkomplekty-dlya-avd/remkomplekt-manzhet-pompy-tml-1520-bertolini-kit-76-art-0798.html"><img src="https://avto-kosmetik.ru/image/cache/data/REMKOMPLEKTY/kit%2076_1-250x250.jpg" alt="Ремкомплект манжет помпы TML 1520 Bertolini KIT 76 (арт. 07.9807.97.3)" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/oborudovanie-dlya-avtomoek/zapchasti-i-remkomplekty-dlya-avd/remkomplekt-manzhet-pompy-tml-1520-bertolini-kit-76-art-0798.html">Ремкомплект манжет помпы TML 1520 Bertolini KIT 76 (арт. 07.9807.97.3)</a></div>
+		<div class="code1">Код KIT 76</div>
+                <div class="price">
+                    3 850.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('1649');" class="button" /></div>
+				<div style="clear:both;"></div>																				<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Качество</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Экономичность</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Удобство</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Экологичность</div>
+																												        
+	  </div>
+            <div>
+	  												                <div class="image"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/mikrofibra-extra-large-dlya-sushki-avtomobilya-800x620-mm-q6.html"><img src="https://avto-kosmetik.ru/image/cache/data/main/009633_big-250x250.jpg" alt="Микрофибра Extra Large для сушки автомобиля, 800x620 мм, Q6100, KENT" /></a></div>
+                <div class="name"><a href="http://avto-kosmetik.ru/soputstvuyushie-tovary/protirochnye-materialy/mikrofibra-extra-large-dlya-sushki-avtomobilya-800x620-mm-q6.html">Микрофибра Extra Large для сушки автомобиля, 800x620 мм, Q6100, KENT</a></div>
+		<div class="code1">Код kent0056</div>
+                <div class="price">
+                    275.00 руб.                  </div>
+                <div class="cart"><input type="button" value="В корзину" onclick="addToCart('177');" class="button" /></div>
+				<div style="clear:both;"></div>																												<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Качество</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate4.png" alt="" />Экономичность</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Удобство</div>
+																<div class="fblock"><img src="catalog/view/theme/default/image/rate5.png" alt="" />Экологичность</div>
+																												        
+	  </div>
+          </div>
+ </div>
+
+
+<script type="text/javascript">
+$('#tabs-0 a').tabs();
+</script> <div id="carousel1">
+  <ul class="jcarousel-skin-opencart">
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/akvafor-c-logo-color-220x60.png" alt="Аквафор" title="Аквафор" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/aquafilter-c-logo-color-220x60.png" alt="aquafilter" title="aquafilter" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/aqua-line-c-logo-color-220x60.png" alt="aqua line" title="aqua line" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/atoll-c-logo-color-220x60.png" alt="atoll" title="atoll" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/blufilters-c-logo-color-220x60.png" alt="blue" title="blue" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/c-logo-color-bluespring-220x60.png" alt="BlueSpring" title="BlueSpring" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/c-logo-color-bwt-220x60.png" alt="BWT" title="BWT" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/comfort-c-logo-color-220x60.png" alt="comfort" title="comfort" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/ecosoft-c-logo-color-220x60.png" alt="ecosoft" title="ecosoft" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/f1-c-logo-color-220x60.png" alt="f1" title="f1" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/fitaqua-c-logo-color-220x60.png" alt="FITaqua" title="FITaqua" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/geuzer-c-logo-color-220x60.png" alt="Гейзер" title="Гейзер" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/global-wather-c-logo-color-220x60.png" alt="Global Water" title="Global Water" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/leader-c-logo-color-220x60.png" alt="Leader" title="Leader" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/nasha-voda-c-logo-color-220x60.png" alt="Наша Вода" title="Наша Вода" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/organic-c-logo-color-220x60.png" alt="Organic" title="Organic" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/raifil-c-logo-color-220x60.png" alt="RAIFIL" title="RAIFIL" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/raifil-c-logo-color_0001-220x60.png" alt="Honeywell" title="Honeywell" /></a></li>
+        <li><a href=""><img src="https://avto-kosmetik.ru/image/cache/data/tonguang-c-logo-color-220x60.png" alt="TYG" title="TYG" /></a></li>
+      </ul>
+</div>
+<script type="text/javascript"><!--
+$('#carousel1 ul').jcarousel({
+	vertical: false,
+	visible: 5,
+	scroll: 3});
+//--></script></div>
+			<div class="main-bott"><div class="box">
+  <div class="box-heading"><span>Обзоры, Акции, Отзывы</span></div>
+	<div class="box-content">
+		<div class="st_case">
+<a href="/otzyvy/otzivi/"><div class="st_case1">Все отзывы</div></a>
+<a href="/obzori/"><div class="st_case2">Все обзоры</div></a>
+<a href="/aktsii/"><div class="st_case3">Все акции</div></a>
+</div>	</div>
+</div><div class="box box_reviews_content_bottom" style="display: block">
+  <div class="box-heading"><span>Отзывы</span></div>
+	<div class="box-content">
+  		<div class="blog-record-list-small">
+			<div id="pagewrap">
+				<div class="wrapper grid4">
+
+   					    				<article class="col col_reviews_content_bottom">
+
+      				
+
+				   	<div class="blogdescription  margintop5">
+				   					      				        <a href="http://avto-kosmetik.ru/otzyvy/otzivi/#comment_link_20"><div class="blog-author"><h5>Дмитрий</h5></div></a>
+				      				      
+				   	Я купил в этом магазине проточный фильтр Atoll A-211E. Покупкой доволен, фильтр качественный и выглядет отлично. Хотя особо на внешний вид не делал уклон при выборе, главное, чтобы хорошо очищал и был недорогим)). Служба доставки в мага				         	<a href="http://avto-kosmetik.ru/otzyvy/otzivi/#comment_link_20" class="description blog-further">читать далее</a>
+					</div>
+
+					<div class="name marginbottom5">
+					 <div>
+
+				    
+
+				    
+     				<div>
+
+
+
+
+
+
+					<div>
+
+					    
+                        
+    				</div>
+
+
+				       
+
+
+				        
+
+
+
+				     </div>
+
+      				<div class="overflowhidden lineheight1">&nbsp;</div>
+	    		</div>
+
+
+  				<div class="blog-child_divider">&nbsp;</div>
+    			</div>
+    		</article>
+    	    				<article class="col col_reviews_content_bottom">
+
+      				
+
+				   	<div class="blogdescription  margintop5">
+				   					      				        <a href="http://avto-kosmetik.ru/otzyvy/otzivi/#comment_link_19"><div class="blog-author"><h5>Сергей</h5></div></a>
+				      				      
+				   	Очень быстро смог выбрать и купить себе фильтр в этом магазине. Выбрал atoll. Пользуюсь им немного, и пока не разочаровался в выборе. Пункт самовывоза оказался удобен для меня, поэтому я решил доставку не оформлять. Забрать смог уже на сл				         	<a href="http://avto-kosmetik.ru/otzyvy/otzivi/#comment_link_19" class="description blog-further">читать далее</a>
+					</div>
+
+					<div class="name marginbottom5">
+					 <div>
+
+				    
+
+				    
+     				<div>
+
+
+
+
+
+
+					<div>
+
+					    
+                        
+    				</div>
+
+
+				       
+
+
+				        
+
+
+
+				     </div>
+
+      				<div class="overflowhidden lineheight1">&nbsp;</div>
+	    		</div>
+
+
+  				<div class="blog-child_divider">&nbsp;</div>
+    			</div>
+    		</article>
+    	    				<article class="col col_reviews_content_bottom">
+
+      				
+
+				   	<div class="blogdescription  margintop5">
+				   					      				        <a href="http://avto-kosmetik.ru/otzyvy/otzivi/#comment_link_18"><div class="blog-author"><h5>Мария</h5></div></a>
+				      				      
+				   	 Заказывали в этом интернет-магазине промывочный фильтр Honeywell. Привезли через пару дней, полностью провели всю установку под ключ очень качественно и профессионально. На фильтр и работу оформлена гарантия. Очень довольна своим				         	<a href="http://avto-kosmetik.ru/otzyvy/otzivi/#comment_link_18" class="description blog-further">читать далее</a>
+					</div>
+
+					<div class="name marginbottom5">
+					 <div>
+
+				    
+
+				    
+     				<div>
+
+
+
+
+
+
+					<div>
+
+					    
+                        
+    				</div>
+
+
+				       
+
+
+				        
+
+
+
+				     </div>
+
+      				<div class="overflowhidden lineheight1">&nbsp;</div>
+	    		</div>
+
+
+  				<div class="blog-child_divider">&nbsp;</div>
+    			</div>
+    		</article>
+    	   		</div>
+	 </div>
+	</div>
+  </div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+
+var toone_content_bottom = function()
+{	rwidth_content_bottom = $('.box_reviews_content_bottom').width();
+	if  (rwidth_content_bottom < 300) {
+	$('.col:.col_reviews_content_bottom').addClass('col100');
+	}
+}
+	$(window).resize(function() {
+	  toone_content_bottom();
+	});
+
+	toone_content_bottom();
+});
+</script>
+ <div class="box">
+  <div class="box-heading"><span>Обзоры</span></div>
+	<div class="box-content">
+
+  <div class="blog-record-list-small">
+        <div>
+				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/obzori/ecosoft-fk-1252-filtr-kompleksnoj-ochistki-obzor/" class="blog-title">Ecosoft FK-1252 Фильтр комплексной очистки - обзор</a>
+
+     </div>
+ 				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        				        						
+				       					      					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	<span style="text-align: justify;">Ищете фильтр, который очищал бы воду одновременно для всего дома? Хотите, чтобы вода была умягчена, а также эффективно очищена от железа, марганца и аммиака? Мечтаете как можно реже менять материал загрузки?</span><br style="text-align: justify;" />
+	<span style="text-align: justify;">Тогда Ecosoft FK-1252 Фильтр комплексной очистки Вам подойдет.</span></p>
+          	<a href="http://avto-kosmetik.ru/obzori/ecosoft-fk-1252-filtr-kompleksnoj-ochistki-obzor/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/obzori/?record_id=36" class="blog-title">Аквафор Морион Фильтр обратного осмоса - обзор</a>
+
+     </div>
+ 				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        				        						
+				       					      					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p style="text-align: justify;">
+	Ищете компактную систему обратного осмоса с минерализатором? У вас жесткая вода и низкое давление в водопроводных трубах?</p>
+<p style="text-align: justify;">
+	Хотите, чтобы процедура обслуживания фильтра была максимально простой и быстрой? Тогда система Аквафор Морион&nbsp;<a href="/filtry-obratnogo-osmosa/">Фильтр обратного осмоса</a>&nbsp;создана именно для Вас!</p>
+          	<a href="http://avto-kosmetik.ru/obzori/?record_id=36" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/obzori/honeywell-fk06-aa-34-dlja-holodnoj-vody-s-reduktorom-mehanicheskij-filtr-obzor/" class="blog-title">HoneyWell FK06-AA 3/4 для холодной воды с редуктором Механический фильтр - обзор</a>
+
+     </div>
+ 				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        				        						
+				       					      					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	<span style="text-align: justify;">Если вы убедились, что в холодной воде, поставляемой посредством коммунального трубопровода, присутствует большое количество механических примесей, рекомендуем приобрести и установить специальный фильтр HoneyWell FK06-AA ¾, оснащенный редуктором.</span></p>
+          	<a href="http://avto-kosmetik.ru/obzori/honeywell-fk06-aa-34-dlja-holodnoj-vody-s-reduktorom-mehanicheskij-filtr-obzor/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+      </div>
+ </div>
+</div>
+   <div class="box">
+  <div class="box-heading"><span>Акции</span></div>
+	<div class="box-content">
+
+  <div class="blog-record-list-small">
+        <div>
+				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/aktsii/5-skidki-pri-zakaze-cherez-korzinu/" class="blog-title">5% Скидки при заказе через корзину</a>
+
+     </div>
+ 				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        				        						
+				       					      					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	<span style="text-align: justify;">Закажите через корзину – получите&nbsp;</span><strong style="text-align: justify;">5% скидки</strong><span style="text-align: justify;">!</span></p>
+          	<a href="http://avto-kosmetik.ru/aktsii/5-skidki-pri-zakaze-cherez-korzinu/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/aktsii/aktsija-7-podarkov-na-vybor/" class="blog-title">Акция! 7 подарков на выбор!</a>
+
+     </div>
+ 				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        				        						
+				       					      					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	При покупке фильтра от 6000 руб. у Вас есть возможность выбрать любой из семи подарков.</p>
+          	<a href="http://avto-kosmetik.ru/aktsii/aktsija-7-podarkov-na-vybor/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/aktsii/privedi-druga/" class="blog-title">Приведи друга</a>
+
+     </div>
+ 				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        				        						
+				       					      					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	<span style="text-align: justify;">Интернет-магазин&nbsp;</span><a href="http://akvatime.ru/" style="text-align: justify;">http://akvatime.ru/</a><span style="text-align: justify;">&nbsp;проводит акцию «Приведи друга», условия которой довольно просты и понятны. Вам необходимо уговорить своих знакомых или близких приобрести в нашем магазине систему очистки воды.</span></p>
+          	<a href="http://avto-kosmetik.ru/aktsii/privedi-druga/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+      </div>
+ </div>
+</div>
+  <div class="box">
+  <div class="box-heading"><span>Статьи</span></div>
+	<div class="box-content">
+		<a href="/poleznaya-informatsia"><div class="st_case4">Все статьи</div></a>	</div>
+</div><div class="box">
+  <div class="box-heading"><span>Полезная информация</span></div>
+	<div class="box-content">
+	  <div class="box-ul">
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Новости (1)</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Проблемы и методы борьбы</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Интересные факты (2)</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Советы (2)</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Технологии очистки (4)</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Обратный осмос</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Польза воды (1)</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Качество воды</a>
+ 			</li>
+		</ul>
+		<ul class="padding_0" style="">
+			<li><a href="http://avto-kosmetik.ru/poleznaya-informatsia/" class="">Загрязнения воды</a>
+ 			</li>
+		</ul>
+		</div>
+	</div>
+</div><div class="box">
+  <div class="box-heading"><span>Все статьи</span></div>
+	<div class="box-content">
+		<a href="/poleznaya-informatsia">Все публикации</a><a onclick="oformsAjax(6)">Предложить тему статьи</a>	</div>
+</div> <div class="box">
+  <div class="box-heading"><span>инфо</span></div>
+	<div class="box-content">
+
+  <div class="blog-record-list-small">
+        <div>
+      <div class="image blog-image"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/zachem-ochischat-vodu-osnovnye-nuzhdy-trebujuschie-ochistki-vody/"><img src="https://avto-kosmetik.ru/image/cache/data/drinks1-150x1001.jpg" title="Зачем очищать воду? Основные нужды, требующие очистки воды" alt="Зачем очищать воду? Основные нужды, требующие очистки воды" /></a></div>
+      				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/poleznaya-informatsia/zachem-ochischat-vodu-osnovnye-nuzhdy-trebujuschie-ochistki-vody/" class="blog-title">Зачем очищать воду? Основные нужды, требующие очистки воды</a>
+
+     </div>
+ 				    				      				        <div class="blog-date">20.06.14</div>
+				      				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        					      <div class="blog-light-small-text">2333</div>
+				        				        						
+				       					      					      					      <div class="blog-light-small-text"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/zachem-ochischat-vodu-osnovnye-nuzhdy-trebujuschie-ochistki-vody/">Комментариев  0</a></div>
+					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	Всем известно, что для нормальной работы организма, человеку ежедневно необходимо выпивать примерно 2 литра воды (точнее объем воды можно рассчитать по формуле). Пить можно только воду (не чай, не сок, не компот) и только высококачественную.</p>
+          	<a href="http://avto-kosmetik.ru/poleznaya-informatsia/zachem-ochischat-vodu-osnovnye-nuzhdy-trebujuschie-ochistki-vody/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+      <div class="image blog-image"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/hlorirovannaja-voda-realnyj-vred-i-metody-ochistki/"><img src="https://avto-kosmetik.ru/image/cache/data/khlor5_w153_h98-150x1001.jpg" title="Хлорированная вода. Реальный вред и методы очистки" alt="Хлорированная вода. Реальный вред и методы очистки" /></a></div>
+      				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/poleznaya-informatsia/hlorirovannaja-voda-realnyj-vred-i-metody-ochistki/" class="blog-title">Хлорированная вода. Реальный вред и методы очистки</a>
+
+     </div>
+ 				    				      				        <div class="blog-date">17.06.14</div>
+				      				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        					      <div class="blog-light-small-text">2099</div>
+				        				        						
+				       					      					      					      <div class="blog-light-small-text"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/hlorirovannaja-voda-realnyj-vred-i-metody-ochistki/">Комментариев  0</a></div>
+					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	Ни для кого не секрет, что на отечественных коммунальных очистных сооружениях для очистки и обеззараживания воды принято использовать хлор, хотя во многих странах мира данный метод давно запретили. Что не удивительно, ведь хлор, а также его соединения, которые образовываются в жидкости, могут нанести серьезный вред человеческому организму.</p>
+          	<a href="http://avto-kosmetik.ru/poleznaya-informatsia/hlorirovannaja-voda-realnyj-vred-i-metody-ochistki/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+      <div class="image blog-image"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/omagnichennaja-voda-i-ee-svojstva/"><img src="https://avto-kosmetik.ru/image/cache/data/magnit2_w153_h94-150x1001.jpg" title="Омагниченная вода и её свойства" alt="Омагниченная вода и её свойства" /></a></div>
+      				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/poleznaya-informatsia/omagnichennaja-voda-i-ee-svojstva/" class="blog-title">Омагниченная вода и её свойства</a>
+
+     </div>
+ 				    				      				        <div class="blog-date">13.06.14</div>
+				      				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        					      <div class="blog-light-small-text">2358</div>
+				        				        						
+				       					      					      					      <div class="blog-light-small-text"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/omagnichennaja-voda-i-ee-svojstva/">Комментариев  0</a></div>
+					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	Об изменении свойств воды при действии на неё магнита было известно алхимикам ещё в XIII веке. Но биологи и физики стали плотно интересоваться этим вопросом только в XX веке.</p>
+          	<a href="http://avto-kosmetik.ru/poleznaya-informatsia/omagnichennaja-voda-i-ee-svojstva/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+      <div class="image blog-image"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/a-vy-znaete-kak-prodlit-srok-sluzhby-stiralnoj-mashiny/"><img src="https://avto-kosmetik.ru/image/cache/data/first_foto_w153_h111-150x1001.jpg" title="А вы знаете, как продлить срок службы стиральной машины?" alt="А вы знаете, как продлить срок службы стиральной машины?" /></a></div>
+      				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/poleznaya-informatsia/a-vy-znaete-kak-prodlit-srok-sluzhby-stiralnoj-mashiny/" class="blog-title">А вы знаете, как продлить срок службы стиральной машины?</a>
+
+     </div>
+ 				    				      				        <div class="blog-date">10.06.14</div>
+				      				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        					      <div class="blog-light-small-text">2184</div>
+				        				        						
+				       					      					      					      <div class="blog-light-small-text"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/a-vy-znaete-kak-prodlit-srok-sluzhby-stiralnoj-mashiny/">Комментариев  0</a></div>
+					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	К счастью, времена, когда женщины стирали руками, натирая костяшки пальцев до крови, остались позади. Как и остались в прошлом стиральные машинки, после которых вещи нужно было вручную выжимать и ополаскивать.</p>
+          	<a href="http://avto-kosmetik.ru/poleznaya-informatsia/a-vy-znaete-kak-prodlit-srok-sluzhby-stiralnoj-mashiny/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+      <div class="image blog-image"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/kompaktnye-i-effektivnye-ustrojstva-dlja-kachestvennoj-ochistki-vody/"><img src="https://avto-kosmetik.ru/image/cache/data/7418506296253849_w153_h111-150x1001.jpg" title="Компактные и эффективные устройства для качественной очистки воды" alt="Компактные и эффективные устройства для качественной очистки воды" /></a></div>
+      				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/poleznaya-informatsia/kompaktnye-i-effektivnye-ustrojstva-dlja-kachestvennoj-ochistki-vody/" class="blog-title">Компактные и эффективные устройства для качественной очистки воды</a>
+
+     </div>
+ 				    				      				        <div class="blog-date">07.06.14</div>
+				      				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        					      <div class="blog-light-small-text">2162</div>
+				        				        						
+				       					      					      					      <div class="blog-light-small-text"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/kompaktnye-i-effektivnye-ustrojstva-dlja-kachestvennoj-ochistki-vody/">Комментариев  0</a></div>
+					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	Уровень загрязнения воды, поставляемой посредством коммунального трубопровода, достаточно высок, а потому все больше людей принимают решение приобретать качественные и эффективные системы очистки.</p>
+          	<a href="http://avto-kosmetik.ru/poleznaya-informatsia/kompaktnye-i-effektivnye-ustrojstva-dlja-kachestvennoj-ochistki-vody/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+        <div>
+      <div class="image blog-image"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/v-evrope-tozhe-hlorirujut-vodu-pochemu-tam-eto-ne-vredno/"><img src="https://avto-kosmetik.ru/image/cache/data/himiki_w153_h87-150x1001.jpg" title="В Европе тоже хлорируют воду? Почему там это не вредно?" alt="В Европе тоже хлорируют воду? Почему там это не вредно?" /></a></div>
+      				   
+
+
+     <div class="name marginbottom5">
+
+					    					    <a href="http://avto-kosmetik.ru/poleznaya-informatsia/v-evrope-tozhe-hlorirujut-vodu-pochemu-tam-eto-ne-vredno/" class="blog-title">В Европе тоже хлорируют воду? Почему там это не вредно?</a>
+
+     </div>
+ 				    				      				        <div class="blog-date">04.06.14</div>
+				      				    				         
+
+          
+
+      <div>
+
+
+				    				    				    
+     <div>
+						 				        					      <div class="blog-light-small-text">2289</div>
+				        				        						
+				       					      					      					      <div class="blog-light-small-text"><a href="http://avto-kosmetik.ru/poleznaya-informatsia/v-evrope-tozhe-hlorirujut-vodu-pochemu-tam-eto-ne-vredno/">Комментариев  0</a></div>
+					      				       				       
+				       
+      </div>
+
+      <div class="overflowhidden lineheight1">&nbsp;</div>
+      </div>
+	  	<div class="description"><p>
+	Всем известно, что хлорирование воды вредно и оно ведет к образованию токсичных побочных продуктов. Так почему же в Европе его тоже используют, но там это не считается вредным?</p>
+          	<a href="http://avto-kosmetik.ru/poleznaya-informatsia/v-evrope-tozhe-hlorirujut-vodu-pochemu-tam-eto-ne-vredno/" class="description blog-further">читать далее</a></div>
+
+ 	
+  <div class="blog-child_divider">&nbsp;</div>
+ <div class="overflowhidden lineheight1 width100">&nbsp;</div>
+    </div>
+      </div>
+ </div>
+</div>
+  </div>
+			<div style="clear:both;"></div>
+		</div>
+	</div>
+<div class="main-bott2">   <div class="welcome"></div>
+<h1 style="text-align:center">
+	Интернет-магазин фильтров для воды. Подбор и установка фильтров для воды.</h1>
+<p>
+	Все знают, что более чем на 80 процентов организм человека состоит из воды, поэтому стоит задуматься, какую воду мы пьем. Ответ более чем неутешителен: плохую, которая во многих случаях является причиной неважного самочувствия, а иногда и очень серьёзных болезней.</p>
+<p>
+	Даже современные промышленные очистительные системы несовершенны, что тогда говорить о давно устаревших сооружениях, которые совершенно не справляются со своей основной задачей – очисткой воды от болезнетворных бактерий, разного рода химических примесей, тяжёлых металлов и всем нам знакомой ржавчины. И всё это попадает в водопроводные краны вместе со ржавой водой – результатом плачевного состояния водопроводных труб.</p>
+<div class="spoiler-body-info">
+	<h2 style="text-align:center">
+		Фильтры для очистки воды – гарантия вашего здоровья и долголетия</h2>
+	<p>
+		Человек не хочет пить эту «мёртвую» воду, поэтому всё чаще пользуется специальными&nbsp;<strong>фильтрами</strong>&nbsp;<strong>для</strong>&nbsp;её&nbsp;<strong>очистки</strong>, разновидностей которых сегодня довольно много. Данные приборы – гарантия того, что вы будете здоровы и проживете долго. Это не громкие слова. Положительный эффект от их использования очевиден – он подтверждается врачами и целыми научно-исследовательскими институтами.</p>
+	<p>
+		Вообще, существует несколько типов&nbsp;<strong>фильтров,&nbsp;</strong>предназначенных<strong>&nbsp;для очистки воды</strong>. О них сейчас и пойдёт речь.</p>
+	<ul>
+		<li>
+			Фильтры-насадки. Чтобы процесс&nbsp;<strong>очистки воды</strong>&nbsp;был достаточно эффективным, их необходимо просто надеть на кран. Однако сказать, что эти приборы удобны в использовании, нельзя, да и скорость работы таких фильтров оставляет желать лучшего.</li>
+	</ul>
+	<ul>
+		<li>
+			Кувшинный тип является одним из самых популярных приборов. К немногим из его недостатков относят невысокую производительность. Для небольших семей такие модели – просто находка. Хлор, пестициды и различные механические загрязнения – всё это задерживает фильтрующий слой данных приборов. А ещё он избавляет воду от неприятных запахов. В фильтрах кувшинного типа элементом фильтрации выступает активированный уголь. Использовать эти устройства легко: они не врезаются в водопроводную сеть, просто в кувшин наливается вода, и вы ждёте, пока она пройдёт очистку. Что касается их ресурса, то он составляет до 500 л. Их стоимость нельзя назвать низкой, но благодаря компактности прибора и легкости замены фильтрующего элемента дополнительные затраты компенсируются. К тому же, данный фильтр можно взять в дорогу, и в отличном качестве воды вы будете полностью уверенными.</li>
+	</ul>
+	<ul>
+		<li>
+			Проточный тип фильтров имеет достаточно длительный рабочий ресурс (обычно, не менее 3 тыс. л.) и высокую производительность. Эти устройства –&nbsp;<strong>гарантия&nbsp;</strong>того, что&nbsp;<strong>очистка воды</strong>&nbsp;от механических загрязнений, а также хлора и пестицидов будет качественной, что положительно повлияет на ваше&nbsp;<strong>здоровье и долголетие</strong>. У всех них имеется кран, используемый для того, чтобы набирать уже очищенную воду. Выбор элементов фильтрации нужно осуществлять исходя из своих нужд. В комплекте могут быть активированный уголь, умягчители, обезжелезиватели и ещё много чего. С увеличением числа&nbsp;<strong>фильтров, вода</strong>&nbsp;становится более чистой.</li>
+	</ul>
+	<ul>
+		<li>
+			Среднюю степень&nbsp;<strong>очистки воды</strong>&nbsp;обеспечат настольные проточные&nbsp;<strong>фильтры</strong>&nbsp;с активированным углем и волокном из полипропилена в качестве элементов фильтрации. Нередко в целях лучшей очистки<strong>&nbsp;</strong>добавляются, например, такие элементы, как ионы серебра. Место бытовых фильтров – около мойки в кухне. Не стоит забывать подключать их к крану. Полторы тысячи литров – таков ресурс у этих изделий. В комплекте с ними, как правило, идут различного типа переходники. Продолжительность работы картриджа указана на упаковке, однако она во многом зависит от качества воды.</li>
+	</ul>
+	<ul>
+		<li>
+			В целях предварительной&nbsp;<strong>очистки</strong>&nbsp;поступающей&nbsp;<strong>воды</strong>&nbsp;используются префильтры механической очистки, устанавливаемые непосредственно на входе водопровода в квартиру. Они обеспечивают защиту сантехнических и других приборов от ржавчины и иных примесей, имеющихся в проточной воде. Главная задача данного устройства –облегчение функционирования&nbsp;<strong>фильтров</strong>&nbsp;тонкой&nbsp;<strong>очистки</strong>.</li>
+	</ul>
+	<h3 style="text-align:center">
+		Монтаж фильтров для очистки воды</h3>
+	<p>
+		Довольно внимательно рассмотрев особенности&nbsp;<strong>фильтров для очистки воды</strong>,<strong>&nbsp;</strong>мы предлагаем вам сделать выбор наиболее подходящего прибора. При выборе устройства не стоит экономить, ведь от него будет зависеть качество потребляемой вами воды, а значит, и ваше здоровье. Обращайтесь к нам, мы сможем не только подобрать лучший для Вас фильтр для очистки воды, но и сделать анализ воды до и после установки фильтра, а также выполнить монтаж фильтра.</p>
+</div>
+<div class="spoiler-title-info closed">
+	Узнать больше</div>
+</div>
+</div>
+<div id="footer">
+	<div class="footer-block">
+  <div class="column">
+	© 2005-2014 «AkvaTime.ru»<br>
+	г. Москва, ул. Генерала Тюленева, д. 25 А<br>
+	Напишите нам и мы быстро Вам ответим.<br>
+	E-mail: <a href="mailto:info@avto-kosmetik.ru">info@avto-kosmetik.ru</a>.<br>
+    
+   
+ 
+    <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet--> 
+
+    
+    
+    
+    
+  </div>
+  <div class="column">	
+	Время работы (по Москве):<br>
+	Пн. - Пт. с 9:00 до 19:00<br>
+	Заявки принимаются ежедневно и<br>
+	круглосуточно.
+   <br>
+   <a href="https://lavar.ru/catalog/sistemy-ochistki-vody-aros-sorv-18/" target="_blank" class="warrow-1"><div class="warrow">Очистные системы для автомоки АРОС</div></a>
+    
+    
+    
+  </div>
+  
+  
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter27708855 = new Ya.Metrika({id:27708855,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/27708855" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div id="telephone-b">
+  <a href="tel:8-495-215-51-40" class="tel">8 (495) 215-51-40</a>
+  <div class="request"><a onclick="oformsAjax(8)">Заказать звонок</a></div>
+  <div class="teltext">Нажмите и мы Вам перезвоним</div>
+  <a href="/politika-konfidencialnosti" class="polit">Политика конфиденциальности</a>
+  </div>
+  
+  <div class="links">
+  <a href="/o-kompanii">О компании</a>
+  <a href="/dostavka-i-oplata">Доставка и оплата</a>
+  <a href="/ustanovka-i-garantiya">Установка и гарантия</a>
+  <a href="/sotrudnichestvo">Сотрудничество</a>
+  <a href="/vakansii">Вакансии</a>
+  <a href="/voprosy-i-otvety">Вопросы и ответы</a>
+  <a href="/otzyvy/otzivi/">Отзывы о магазине</a>
+  <a href="/kontakty">Контакты</a>
+  </div> 
+</div>
+
+  </div>
+<!-- star ipl -->
+
+			<script type="text/javascript"><!--
+
+				$(document).on('ready', function(){
+					if (!Modernizr.csstransforms) {
+						$('.cut_rotated span').removeClass('rotated');
+						$('.cut_rotated span').addClass('horizontal');
+					}
+
+					if (!Modernizr.borderradius) {
+						if (window.PIE) {
+						    $('.round').each(function() {
+						        PIE.attach(this);
+						    });
+						}
+					}
+				});
+
+			//--></script>
+
+			<!-- end ipl -->
+</body></html>

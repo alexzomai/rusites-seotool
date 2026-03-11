@@ -1,0 +1,331 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="http://welldushaafriki.ru/img/icon.ico" type="image/x-icon" />
+<script type="text/javascript">window.s3438224500 = {};</script>
+<title>Страница не найдена</title>
+<link type="text/css" rel="StyleSheet" href="http://welldushaafriki.ru/services/404/css/404-all.css">
+<script type="text/javascript" src="http://welldushaafriki.ru/langs/rus/template/template/js.js"></script>
+<script type="text/javascript" src="http://welldushaafriki.ru/langs/rus/services/404/js.js"></script>
+<script type="text/javascript" src="http://welldushaafriki.ru/services/404/js/404-all.js"></script>
+<!-- SAPE RTB JS -->
+<script
+    async="async"
+    src="//cdn-rtb.sape.ru/rtb-b/js/750/2/118750.js"
+    type="text/javascript">
+</script>
+<!-- SAPE RTB END --></head>
+
+<body class="s3054375032">
+    <div id="s1363582061"></div>
+<div id="s1842973167" gl_sector="s2078874061"></div>
+<div class="s1734013774">
+    <div class="s2992986028" align="center">
+                <div class="s1391347742" align="left" onclick="var s2556971680 = event || window.event; s2556971680.stopPropagation ? s2556971680.stopPropagation() : (s2556971680.cancelBubble=true);">
+            <div class="s770747865">
+                <table
+                    class="s1941497063"
+                    width="100%"
+                    border="0"
+                    onmouseup="$(this).removeClass('s2576241396');"
+                    onmousedown="$(this).addClass('s2576241396');"
+                    onclick="$('#s248099723').toggle();"
+                >
+                    <tr>
+                        <td width="20">
+                            <div align="right">
+                                <img width="16" height="16" title="Русский" src="http://welldushaafriki.ru/img/template/template/langs/rus.png" />
+                            </div>
+                        </td>
+                        <td>
+                            <div class="s760152068">Русский</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="s248099723">
+                <div class="s1194688382"></div>
+                <table class="s1648778261" border="0">
+                                            <tr onclick="s3438224500.s284822353.s729960283('0');">
+                            <td width="20">
+                                <div align="right">
+                                    <img width="16" height="16" title="Русский" src="http://welldushaafriki.ru/img/template/template/langs/rus.png" />
+                                </div>
+                            </td>
+                            <td width="120">
+                                <div class="s1898530894">Русский</div>
+                            </td>
+                        </tr>
+                                            <tr onclick="s3438224500.s284822353.s729960283('1');">
+                            <td width="20">
+                                <div align="right">
+                                    <img width="16" height="16" title="English" src="http://welldushaafriki.ru/img/template/template/langs/usa.png" />
+                                </div>
+                            </td>
+                            <td width="120">
+                                <div class="s1898530894">English</div>
+                            </td>
+                        </tr>
+                                    </table>
+                <div class="s1546975871"></div>
+            </div>
+        </div>
+        <div class="s4128967114"></div>
+    </div>
+    <div class="s2761051624" align="center">
+        <div class="s263097075">
+            <ul>
+                <li><div><a href="http://welldushaafriki.ru/"><strong>Главная</strong></a></div></li>
+<li><div><a href="http://welldushaafriki.ru/gallery.html"><strong>Галлерея</strong></a></div></li>
+<li><div><a href="http://welldushaafriki.ru/forum.html"><strong>Форум</strong></a></div></li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="s1143566430" style="display:none;"></div>
+
+<div class="s1208883537 s951244694">
+    <div class="s2173616135">
+        <div class="s3883419869">
+            <div class="s1528579437">
+                <div class="s3118150029">
+                                        <div class="s2944570603">
+                        <script type="text/javascript" src="http://welldushaafriki.ru/langs/rus/template/auth/js.js"></script>
+                        <script type="text/javascript" src="http://welldushaafriki.ru/template/auth/js/auth.js"></script>
+                        <div class="s2691246607">Авторизация</div>
+                        <div align="center">
+                            <input id="s2890835338" type="text" value="Логин.." onfocus="if (this.value == 'Логин..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Логин..';}" />
+                            <input id="s2971857921" type="password" value="Пароль.." onfocus="if (this.value == 'Пароль..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Пароль..';}" />
+                        </div>
+                        <div class="s3780749493" onclick="s3438224500.s2944570603.s2278881841(this);">
+                            <div class="s772070484"></div>
+                            <div class="s3126646177">Ip-адрес</div>
+                        </div>
+                        <div align="center">
+                            <input type="button" class="s188311624" onclick="s3438224500.s2944570603.s3364955685();" value="Войти" />
+                        </div>
+                        <div class="s1699786077">
+                            <span class="s580588413"><a onclick="s3438224500.s2944570603.s3300197274();">Восстановление пароля</a></span>
+                        </div>
+                        <div class="s1660153732">
+                            <span class="s2649601209"><a target="_blank" href="http://welldushaafriki.ru/registration.html">Регистрация</a></span>
+                        </div>
+                    </div>
+                                        <div class="s2750579953">
+                        <div class="s2306051821"></div>
+                        <div class="s275810264"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="s2173616135 s3810266361">
+        <div class="s3883419869">
+            <div class="s1528579437">
+                <div class="s1908511597" onclick="s3438224500.s1576578259.s57498744(this);">
+                    <div class="s974005566">Статистика</div>
+                    <div class="s3370782097"></div>
+                </div>
+                <div class="s2190264690" style="display: none;"><div align="center" style="margin:5px 0;">
+
+<!--LiveInternet counter--><a href="//www.liveinternet.ru/click"
+target="_blank"><img id="licnt5F3C" width="88" height="120" style="border:0" 
+title="LiveInternet: показано количество просмотров и посетителей"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licnt5F3C").src=
+"//counter.yadro.ru/hit?t27.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+
+</div></div>
+                <div class="s1964560439" style="display: none;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="s2173616135">
+        <div class="s3883419869">
+            <div class="s1528579437">
+                <div class="s1908511597">
+                    <div class="s974005566">Реклама</div>
+                    <div class="s3370782097"></div>
+                </div>
+                <div class="s2190264690"><div align="center"><div align="center" style="overflow:hidden;">
+<!-- SAPE RTB DIV 160x600 -->
+<div id="SRTB_611892"></div>
+<!-- SAPE RTB END -->
+</div><script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><div style="margin-top:5px;">
+<div class="gl_mainlink_block">
+<ul>
+
+</ul>
+</div>
+</div>
+<style>
+.gl_mainlink_block{-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;border-radius:5px;background-color:#FFF;}
+.gl_mainlink_block ul{text-align:left;font-family:font-family:Verdana, Geneva, sans-serif;margin}
+.gl_mainlink_block ul li{margin-bottom:15px;padding:0 10px;}
+.gl_mainlink_block ul li:first-child{padding-top:10px;}
+.gl_mainlink_block ul li:last-child{padding-bottom:10px;margin-bottom:0;}
+.gl_mainlink_block ul li a{color:#000066!important;font-size:12px!important;font-weight:bold !important;text-decoration:underline !important;}
+</style><div style="margin-top:5px;">
+<div class="gl_linkfeed_block">
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=lfec19d17a1de34910222f1ca2339a2174f76c2184" type="text/javascript"></script>
+</div>
+</div>
+<style>
+.gl_linkfeed_block{-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;border-radius:5px;background-color:#FFF;text-align:left;font-family:Verdana, Geneva, sans-serif;font-size:12px;padding:0 10px;}
+.gl_linkfeed_block a{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;margin-top:10px;font-weight:bold;text-decoration:underline;}
+.gl_linkfeed_block a:first-child{padding-top:10px;margin-top:0;}
+.gl_linkfeed_block a:last-of-type{padding-bottom:10px;}
+</style></div></div>
+                <div class="s1964560439"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<div class="s3177417496 s629606868">
+        <h1 align="center">Страница не найдена</h1>
+        <div class="s3921241639" align="center">Вы будете перенаправлены на главную страницу через <span id="s2550325908"></span> секунд</div>
+        <div align="center" class="s2874702173">
+            <a href="http://welldushaafriki.ru/">Перейти сейчас..</a>
+        </div>
+	</div>
+<div class="s2493698937 s951244694">
+    <div id="s333001936">
+        <div class="s2173616135">
+            <div class="s3883419869">
+                <div class="s1528579437">
+                    <div class="s3303845810"></div>
+                    <div class="s1771762564">
+                        <h3 align="center">Категории</h3>
+                        <ul class="s1957217871">
+                            <li><a href="http://welldushaafriki.ru/category-21-obshchee.html">Общее (804)</a></li>
+<li><a href="http://welldushaafriki.ru/category-11-houzz-tury-novye-proekty.html">Houzz-туры (новые проекты) (112)</a></li>
+<li><a href="http://welldushaafriki.ru/category-16-po-gorodam.html">По городам (73)</a></li>
+<li><a href="http://welldushaafriki.ru/category-20-stati-pro-interery-kvartir.html">Статьи про интерьеры квартир (70)</a></li>
+<li><a href="http://welldushaafriki.ru/category-15-po-metraju.html">По метражу (64)</a></li>
+<li><a href="http://welldushaafriki.ru/category-23-stati-o-kuhnyah.html">Статьи о кухнях (56)</a></li>
+<li><a href="http://welldushaafriki.ru/category-27-dlya-pro.html">для Pro (53)</a></li>
+<li><a href="http://welldushaafriki.ru/category-9-mikrotrendy.html">Микротренды (50)</a></li>
+<li><a href="http://welldushaafriki.ru/category-18-po-stranam.html">По странам (44)</a></li>
+<li><a href="http://welldushaafriki.ru/category-49-bytovaya-tehnika.html">Бытовая техника (44)</a></li>
+<li><a href="http://welldushaafriki.ru/category-17-proekty-v-moskve.html">Проекты в Москве (43)</a></li>
+<li><a href="http://welldushaafriki.ru/category-41-statya-praktikuyushchego-dizaynera.html">Статья практикующего дизайнера (41)</a></li>
+<li><a href="http://welldushaafriki.ru/category-26-vystavki.html">Выставки (36)</a></li>
+<li><a href="http://welldushaafriki.ru/category-1-vannaya-i-tualet.html">Ванная и туалет (33)</a></li>
+<li><a href="http://welldushaafriki.ru/category-25-fotoohota.html">Фотоохота (28)</a></li>
+<li><a href="http://welldushaafriki.ru/category-29-proekt-nedeli.html">Проект недели (28)</a></li>
+<li><a href="http://welldushaafriki.ru/category-32-regulyarnye-rubriki.html">Регулярные рубрики (28)</a></li>
+<li><a href="http://welldushaafriki.ru/category-28-do-i-posle.html">До и после (27)</a></li>
+<li><a href="http://welldushaafriki.ru/category-43-poisk-planirovki.html">Поиск планировки (27)</a></li>
+<li><a href="http://welldushaafriki.ru/category-106-kuhnya-nedeli.html">Кухня недели (26)</a></li>
+<li><a href="http://welldushaafriki.ru/category-89-arhitektura-sovety-po-stroitelstvu.html">Архитектура, советы по строительству (24)</a></li>
+<li><a href="http://welldushaafriki.ru/category-72-sovety-po-remontu.html">Советы по ремонту (21)</a></li>
+<li><a href="http://welldushaafriki.ru/category-24-svyshe-100-kvm.html">свыше 100 кв.м (20)</a></li>
+<li><a href="http://welldushaafriki.ru/category-52-sovety-po-dekoru.html">Советы по декору (19)</a></li>
+<li><a href="http://welldushaafriki.ru/category-12-po-cvetam.html">По цветам (17)</a></li>
+<li><a href="http://welldushaafriki.ru/category-14--60-80-kvm.html">60-80 кв.м (17)</a></li>
+<li><a href="http://welldushaafriki.ru/category-39-v-gostyah-objitye-interery.html">В гостях (обжитые интерьеры) (17)</a></li>
+<li><a href="http://welldushaafriki.ru/category-92-stati-pro-sady.html">Статьи про сады (17)</a></li>
+<li><a href="http://welldushaafriki.ru/category-134-postoyannye-rubriki.html">Постоянные рубрики (17)</a></li>
+<li><a href="http://welldushaafriki.ru/category-36-stati-o-vannyh-komnatah.html">Статьи о ванных комнатах (16)</a></li>
+<li><a href="http://welldushaafriki.ru/category-51-novyy-god.html">Новый год (15)</a></li>
+<li><a href="http://welldushaafriki.ru/category-104-samoe-populyarnoe.html">Самое популярное (14)</a></li>
+<li><a href="http://welldushaafriki.ru/category-30-stati-o-gostinyh.html">Статьи о гостиных (13)</a></li>
+<li><a href="http://welldushaafriki.ru/category-22-byudjet.html">Бюджет (12)</a></li>
+<li><a href="http://welldushaafriki.ru/category-95-sovety-pro-sad-i-rasteniya.html">Советы про сад и растения (12)</a></li>
+<li><a href="http://welldushaafriki.ru/category-13-stati-o-yarkih-intererah.html">Статьи о ярких интерьерах (11)</a></li>
+<li><a href="http://welldushaafriki.ru/category-34-proekty-v-peterburge.html">Проекты в Петербурге (11)</a></li>
+<li><a href="http://welldushaafriki.ru/category-63-jile-dizaynera.html">Жилье дизайнера (11)</a></li>
+<li><a href="http://welldushaafriki.ru/category-78-stati-pro-navedenie-poryadka.html">Статьи про наведение порядка (11)</a></li>
+<li><a href="http://welldushaafriki.ru/category-81-sovety-pro-landshaftnyy-dizayn.html">Советы про ландшафтный дизайн (11)</a></li>
+<li><a href="http://welldushaafriki.ru/category-10-dizayn-debaty.html">Дизайн-дебаты (10)</a></li>
+<li><a href="http://welldushaafriki.ru/category-88-lichnyy-opyt.html">Личный опыт (10)</a></li>
+<li><a href="http://welldushaafriki.ru/category-131-zakazali-na-houzz.html">►Заказали на Houzz (10)</a></li>
+<li><a href="http://welldushaafriki.ru/category-37-malenkoe-jile.html">Маленькое жилье (9)</a></li>
+<li><a href="http://welldushaafriki.ru/category-71--80-100-kvm.html">80-100 кв.м (9)</a></li>
+<li><a href="http://welldushaafriki.ru/category-79--50-60-kvm.html">50-60 кв.м (9)</a></li>
+<li><a href="http://welldushaafriki.ru/category-73-stati-ob-oknah-i-dveryah.html">Статьи об окнах и дверях (8)</a></li>
+<li><a href="http://welldushaafriki.ru/category-83--40-50-kvm.html">40-50 кв.м (8)</a></li>
+<li><a href="http://welldushaafriki.ru/category-91-stati-o-detskih-komnatah.html">Статьи о детских комнатах (8)</a></li>
+<li><a href="http://welldushaafriki.ru/category-114-houzz-pro.html">Houzz PRO (8)</a></li>
+                            <li><a href="http://welldushaafriki.ru/category.html">Все категории</a></li>
+                        </ul>
+                    </div>
+                    <!--<div class="s3181916976"></div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="s2173616135">
+        <div class="s3883419869">
+            <div class="s1528579437">
+                <div class="s3303845810"></div>
+                <div class="s2190264690"></div>
+                <!--<div class="s1964560439"></div>-->
+            </div>
+        </div>
+        <div class="s3611960016">
+            <div align="center"><div align="center" style="overflow:hidden;">
+<!-- SAPE RTB DIV 160x600 -->
+<div id="SRTB_611894"></div>
+<!-- SAPE RTB END -->
+</div>
+<div align="center" style="overflow:hidden;">
+
+
+
+</div></div>        </div>
+        <div class="s2594818257"></div>
+    </div>
+    <div class="s2173616135 s302427927">
+        <div class="s3883419869">
+            <div class="s1528579437">
+                <div class="s3303845810"></div>
+                <div class="s2190264690">
+                    <h3 align="center">Последние комментарии</h3>
+                    <ul class="s480844499">
+                                            </ul>
+                </div>
+                <!--<div class="s1964560439"></div>-->
+            </div>
+        </div>
+    </div>
+</div>
+<!---->
+<div class="s3141963406">
+    <ul class="s3997985038">
+        <li><a href="http://welldushaafriki.ru/contacts.html">Контакты</a></li>
+<li><a onclick="s3438224500.s1576578259.s96478102();">Обнаружили ошибку</a></li>
+
+    </ul>
+    <div class="s4073220917">© 2006-2026, 	<a target="_blank" href="http://welldushaafriki.ru/">welldushaafriki.ru</a></div>
+    <div align="center" style="display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-justify-content:center;-ms-justify-content:center;justify-content:center;-webkit-align-items:center;-ms-align-items:center;align-items:center;">
+
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script>
+<div data-mobile-view="true" data-share-size="30" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1892584" data-mode="share" data-background-color="#ffffff" data-hover-effect="rotate-cw" data-share-shape="round-rectangle" data-share-counter-size="12" data-icon-color="#ffffff" data-mobile-sn-ids="fb.vk.tw.ok.wh.tm.vb." data-text-color="#000000" data-buttons-color="#FFFFFF" data-counter-background-color="#ffffff" data-share-counter-type="common" data-orientation="horizontal" data-following-enable="false" data-sn-ids="fb.vk.tw.ok.wh.tm.vb." data-preview-mobile="false" data-selection-enable="true" data-exclude-show-more="false" data-share-style="1" data-counter-background-alpha="1.0" data-top-button="false" class="uptolike-buttons" ></div>
+
+</div></div>
+</body>
+</html>

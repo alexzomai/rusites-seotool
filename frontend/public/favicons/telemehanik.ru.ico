@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+<title>Системы связи и телемеханики. Телевизоры и телевидение : О системах телемеханики</title>
+<meta name="description" content="Телемеханик - Системы связи и телемеханики. Телевизоры и телевидение о системах телемеханики"/>
+<meta name="keywords" content="телемеханика, телевизор, телевидение, о системах телемеханики"/>
+<link href="/themes/telemex/template.css" type="text/css" rel="stylesheet"/>
+<script language="javascript" src="/themes/mtools.js"></script>
+</head>
+<body>
+<div class="site_wrap">
+<div id="telemex_wrapp">
+<div id="realitive">
+<div id="adress">
+<div class="ourcnt"><div><a href="http://telemehanik.ru/feed-back/" title="Телемаханик.ру">Телемаханик.ру</a><b>Телемаханик - сайт о телевизорах и телевидении<br />
+</b></div></div>
+</div>
+</div>
+<a href="/" title="Телемеханик - Системы связи и телемеханики"><img id="telemex_header" src="/themes/telemex/img/telemex_head.jpg" border="0" title="Телемеханик - Системы связи и телемеханики" alt="Телемеханик - Системы связи и телемеханики" /></a><div id="preview_top">
+<div id="preview_1"><div class="tart"><a href="http://telemehanik.ru/sistemi_teleizmerenija.html" title="Системы телеизмерения">Системы телеизмерения</a>
+<noindex>Системы телеизмерения предназначены для передачи на расстояние значений различных электрических...</noindex></div></div>
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="666" id="text" align="left" valign="top">
+	<div id="worklinks">
+	<div class="wltext">
+	<ul>
+	<li class="current"><a href="/" title="">Главная</a></li>
+	<li class="current"><a href="http://telemehanik.ru/feed-back/" title="Для связи">Для связи</a></li>
+	<li class="current"><a href="http://telemehanik.ru/smap/" title="Сайтмэп">Сайтмэп</a></li>
+	<li class="current"></li>
+	<li class="current"></li>
+	</ul>
+	</div>
+	</div>
+	<span class="pgtitle">О системах телемеханики</span>
+	<div class="wbt">
+	Данный сайт имеет узкоспециализированную направленность и посвящен освещению технологий <b>телемеханики и современного телевидения</b>.<br />
+<br />
+Если говорить о телемеханике как о науке, то она подразумевает под собой управление и дистанционный контроль с возможностью передачей по определенному каналу связи закодированных электрических сигналов или радио сигналов, которые несут управляющую информацию о состоянии контролируемого объекта. Объектами телемеханического управления и контроля могут служить технологические процессы, машины, устройства, биологические системы. Средства телемеханики используются для телеизмерений и управления объектами энергосистем, газопроводов, атомных электростанций, химических предприятий, автоматических метеостанций и др. <br />
+<br />
+Передача управляющей или контрольной информации на расстояние через внешние линии связи называется дистанционной. Дистанционная передача может осуществляться путем непосредственного соединения каждого объекта управления (контроля) с соответствующим органом управления (ключом, кнопкой и т. п.) или с прибором воспроизведения информации (лампа, табло, цифровой индикатор и т. п.). <br />
+<br />
+В этом случае для передачи каждого сигнала требуется наличие специальной проводной линии связи соответствующего сечения. В связи с этим применение непосредственного дистанционного управления (контроля) экономически целесообразно лишь при небольших расстояниях между контролируемыми объектами и пунктом управления, а также при малом количестве контролируемых объектов. <br />
+<br />
+<img src="/themes/telemex/telemexanik_img_1.jpg" align="left" border="0" alt="О системах телемеханики" title="О системах телемеханики" style="margin:3px 7px 0px 0px"/>С увеличением расстояния передачи информации и количества контролируемых объектов особое значение приобретает необходимость сокращения затрат на сооружение соединительных линий, сохранения качества передаваемых сигналов и обеспечения быстродействия системы передачи. <br />
+<br />
+Эти задачи успешно решаются с помощью средств телемеханики, позволяющих наиболее экономно использовать линии связи и одновременно обеспечить надежную, точную и быструю передачу приказов, сигналов и измерений практически на любые расстояния. При передаче информации на расстояние с помощью средств телемеханики осуществляется предварительное преобразование контролируемых измерений и сигналов в электрические величины, передаваемые затем по электрическим каналам связи. <br />
+<br />
+На приемной стороне эти электрические сигналы подвергаются обратному преобразованию, в результате чего выдается исходное сообщение, осуществляется заданная операция или получается форма сообщения, удобная для ввода в управляющую машину. Соответственно каждая телемеханическая система состоит из передающего и приемного устройств (полукомплектов) и соединяющего их канала связи.<br />
+<br />
+По характеру выполняемых функций телемеханические системы делятся на системы телеуправления, телесигнализации и телеизмерения. Системы телеуправления передают с пункта управления (ПУ), иногда называемого также диспетчерским пунктом (ДП), на контролируемые пункты (КП) команды (сигналы), либо непосредственно воздействующие на исполнительные механизмы управляемых объектов (телеуправление- ТУ), либо воспринимаемые специальными сигнальными устройствами (телекомандование - ТК.).<br />
+<br />
+С помощью систем телеуправления осуществляется также вызов объектов телеизмерения (ВТИ), т. е. передача команд о подключении соответствующего датчика телеизмерения к каналу связи, и телерегулирование (TP), т. е. дистанционное плавное изменение установок автоматических регуляторов. Системы телесигнализации обеспечивают передачу с контролируемых пунктов на диспетчерский пункт телесигнализации (ТС) о положении или состоянии контролируемых объектов, о состоянии каналов связи ,и работе телемеханической аппаратуры, аварийных и предупреждающих сигналов.<br />
+<br />
+С помощью систем телеизмерения (ТИ) осуществляется передача на расстояние непрерывных значений различных контролируемых параметров, измеряемых специальными датчиками, для визуального наблюдения за этими величинами, их регистрации или ввода в устройства автоматики. Наряду с системами телемеханики, предназначенными для выполнения какой-либо одной из указанных выше функций, широко используются также комплексные системы телемеханики, выполняющие все перечисленные выше функции или различные их сочетания. <br />
+<br />
+В соответствии с указанными функциями систем телемеханики передаваемая ими информация делится на распорядительную (управляющую), поступающую с пункта управления на исполнительный пункт, и известительную (контрольную), передаваемую в обратном направлении.<br />
+<br />
+Как тот, так и другой виды информации могут иметь качественный или количественный характер. Качественная информация характеризует качественные изменения состояния контролируемого объекта (например, включение или отключение масляного выключателя) или хода технологического процесса, имеет двоичный вид (да - нет) и носит прерывистый (дискретный) характер. <br />
+<br />
+Количественная информация содержит текущие значения контролируемых величин или параметров, определяющих ход технологического процесса. Количественная информация характеризует только непрерывные во времени сообщения (например, величину электрического тока, напряжения, мощности, давления, расхода жидкости или газа и других физических или химических величин) Непрерывные величины могут также передаваться дискретными методами путем так называемого предварительного их квантования.
+	</div>
+	<div id="content_4"></div>
+	<div align="left"><div class="navig_class">След. страницы: <a href="http://telemehanik.ru/index.html" id="inlink">1</a> </div></div>
+	</td>
+    <td width="334" id="menu" align="left" valign="top">
+	<div id="lmb"><div class="clin" onclick="jquery_menu('1')" >Системы телемеханики</div><div style="display:none" id="j1">
+<a href="http://telemehanik.ru/index.html" title="О системах телемеханики" class="listlinks">О системах телемеханики</a>
+<a href="http://telemehanik.ru/mnogoprovodnie_sistemi.html" title="Многопроводные системы" class="listlinks">Многопроводные системы</a>
+<a href="http://telemehanik.ru/uzli_sistem_telemekhaniki.html" title="Узлы систем телемеханики" class="listlinks">Узлы систем телемеханики</a>
+<a href="http://telemehanik.ru/raspredeliteli.html" title="Распределители и распределительные узлы" class="listlinks">Распределители и распределительные узлы</a>
+<a href="http://telemehanik.ru/shifratori_i_deshifratori.html" title="Шифраторы и дешифраторы" class="listlinks">Шифраторы и дешифраторы</a>
+<a href="http://telemehanik.ru/istorija_vozniknovenija_televidenij.html" title="История возникновения телевидения" class="listlinks">История возникновения телевидения</a>
+<a href="http://telemehanik.ru/razvitie_cifrovogo_televidenija.html" title="Развитие цифрового телевидения" class="listlinks">Развитие цифрового телевидения</a>
+<a href="http://telemehanik.ru/funkcionalnaja_skhema_sovremennogo_.html" title="Функциональная схема современного оптического" class="listlinks">Функциональная схема современного оптического</a>
+<a href="http://telemehanik.ru/izobretatel_televidenija__v_zvori.html" title="Изобретатель телевидения  В Зворыкин" class="listlinks">Изобретатель телевидения  В Зворыкин</a>
+<a href="http://telemehanik.ru/tekhnika_televizionnogo_veshhanija.html" title="Техника телевизионного вещания" class="listlinks">Техника телевизионного вещания</a>
+<a href="http://telemehanik.ru/peredayushhie_televizionnie_trubki.html" title="Передающие телевизионные трубки иконоскопы" class="listlinks">Передающие телевизионные трубки иконоскопы</a>
+<a href="http://telemehanik.ru/progressivnaja_razvertka.html" title="Прогрессивная и чересстрочная развертка" class="listlinks">Прогрессивная и чересстрочная развертка</a>
+<a href="http://telemehanik.ru/vosproizvodjashhie_televizionnie_us.html" title="Воспроизводящие телевизионные устройства" class="listlinks">Воспроизводящие телевизионные устройства</a>
+<a href="http://telemehanik.ru/razvitie_kineskopov.html" title="Развитие кинескопов" class="listlinks">Развитие кинескопов</a>
+<a href="http://telemehanik.ru/mp3pleer_i_televizor_v_karmane.html" title="MP3плеер и телевизор в кармане" class="listlinks">MP3плеер и телевизор в кармане</a>
+<a href="http://telemehanik.ru/istorija_sozdanija_magnitofonov.html" title="История создания магнитофонов" class="listlinks">История создания магнитофонов</a>
+<a href="http://telemehanik.ru/vibor_televizora.html" title="Выбор телевизора" class="listlinks">Выбор телевизора</a>
+</div><div class="clin" onclick="jquery_menu('2')" >Промышленные системы</div><div style="display:none" id="j2">
+<a href="http://telemehanik.ru/promishlennie_sistemi_telemekhaniki.html" title="Промышленные системы телемеханики" class="listlinks">Промышленные системы телемеханики</a>
+<a href="http://telemehanik.ru/ustroistvo_tipa_tmje_1.html" title="Устройство типа ТМЭ 1" class="listlinks">Устройство типа ТМЭ 1</a>
+<a href="http://telemehanik.ru/ustroistvo_rtsm_1.html" title="Устройство РТСМ 1" class="listlinks">Устройство РТСМ 1</a>
+<a href="http://telemehanik.ru/ustroistvo_radius.html" title="Устройство Радиус" class="listlinks">Устройство Радиус</a>
+<a href="http://telemehanik.ru/primenenie_sistem_telemekhaniki.html" title="Применение систем телемеханики" class="listlinks">Применение систем телемеханики</a>
+<a href="http://telemehanik.ru/upravlenie_naruzhnim_osveshheniem.html" title="Управление наружным освещением" class="listlinks">Управление наружным освещением</a>
+</div><div class="clin" onclick="jquery_menu('3')" >Эксплуатация устройств</div><div style="display:none" id="j3">
+<a href="http://telemehanik.ru/jekspluatacija_ustroistv_telemekhan.html" title="Эксплуатация устройств телемеханики" class="listlinks">Эксплуатация устройств телемеханики</a>
+<a href="http://telemehanik.ru/sistemi_cvetnogo_televidenija.html" title="Системы цветного телевидения" class="listlinks">Системы цветного телевидения</a>
+<a href="http://telemehanik.ru/strukturnaja_skhema_televizora.html" title="Структурная схема телевизора" class="listlinks">Структурная схема телевизора</a>
+<a href="http://telemehanik.ru/izgotovlenie_preobrazovatelei.html" title="Изготовление преобразователей" class="listlinks">Изготовление преобразователей</a>
+<a href="http://telemehanik.ru/televizionnie_ustanovki.html" title="Телевизионные установки" class="listlinks">Телевизионные установки</a>
+<a href="http://telemehanik.ru/sistema_videozapisi.html" title="Система видеозаписи" class="listlinks">Система видеозаписи</a>
+<a href="http://telemehanik.ru/kosmicheskoe_televidenie.html" title="Космическое телевидение" class="listlinks">Космическое телевидение</a>
+<a href="http://telemehanik.ru/dvbt_tekhnologicheskoe_budushhee_.html" title="DVBT технологическое будущее эфирного ТВ" class="listlinks">DVBT технологическое будущее эфирного ТВ</a>
+<a href="http://telemehanik.ru/cifrovoe_3dtelevidenie.html" title="Цифровое 3D телевидение" class="listlinks">Цифровое 3D телевидение</a>
+<a href="http://telemehanik.ru/principi_stabilizacii_naprjazhenija.html" title="Принципы стабилизации напряжения" class="listlinks">Принципы стабилизации напряжения</a>
+<a href="http://telemehanik.ru/impulsnie_stabilizatori_i_preobrazo.html" title="Импульсные стабилизаторы и преобразователи" class="listlinks">Импульсные стабилизаторы и преобразователи</a>
+<a href="http://telemehanik.ru/struktura_spektra_televizionnogo_si.html" title="Структура спектра телевизионного сигнала" class="listlinks">Структура спектра телевизионного сигнала</a>
+<a href="http://telemehanik.ru/principi_postroenija_sistemi_cvetno.html" title="Принципы построения цветного телевидения" class="listlinks">Принципы построения цветного телевидения</a>
+<a href="http://telemehanik.ru/obshhaja_kharakteristika_chernobel.html" title="Общая характеристика черно белых телевизоров" class="listlinks">Общая характеристика черно белых телевизоров</a>
+<a href="http://telemehanik.ru/organi_nastroiki_i_regulirovki_cher.html" title="Органы настройки и регулировки телевизора" class="listlinks">Органы настройки и регулировки телевизора</a>
+<a href="http://telemehanik.ru/obshhie_kharakteristiki_cvetnikh_te.html" title="Общие характеристики цветных телевизоров" class="listlinks">Общие характеристики цветных телевизоров</a>
+<a href="http://telemehanik.ru/prikladnoe_televidenie.html" title="Прикладное телевидение" class="listlinks">Прикладное телевидение</a>
+<a href="http://telemehanik.ru/lazernii_televizor_issledovanija_i.html" title="Лазерный телевизор Исследования и проблемы" class="listlinks">Лазерный телевизор Исследования и проблемы</a>
+<a href="http://telemehanik.ru/kak_nastroit_starii_televizor.html" title="Как настроить старый телевизор" class="listlinks">Как настроить старый телевизор</a>
+<a href="http://telemehanik.ru/zhk__televizor_philips_58pfl9956.html" title="ЖК  телевизор Philips 58PFL9956" class="listlinks">ЖК  телевизор Philips 58PFL9956</a>
+<a href="http://telemehanik.ru/ledtelevizori_s_jekranom_diagonaly.html" title="LED ТЕЛЕВИЗОРЫ С ЭКРАНОМ ДИАГОНАЛЬЮ 55 ДЮЙМОВ" class="listlinks">LED ТЕЛЕВИЗОРЫ С ЭКРАНОМ ДИАГОНАЛЬЮ 55 ДЮЙМОВ</a>
+<a href="http://telemehanik.ru/prekrasnaja_kinomechta__televizor_.html" title="Прекрасная киномечта  телевизор Philips 37PF7" class="listlinks">Прекрасная киномечта  телевизор Philips 37PF7</a>
+<a href="http://telemehanik.ru/domashnii_kinoteatr.html" title="Домашний кинотеатр" class="listlinks">Домашний кинотеатр</a>
+<a href="http://telemehanik.ru/plazma_zhk_otlichiya.html" title="Пять отличий между "плазмой" и "ЖК" телевизор" class="listlinks">Пять отличий между "плазмой" и "ЖК" телевизор</a>
+<a href="http://telemehanik.ru/televidenir_future.html" title="Телевидение будущего" class="listlinks">Телевидение будущего</a>
+<a href="http://telemehanik.ru/sravnenie_lcd_televizorov_lg.html" title="Сравнение LCD телевизоров LG" class="listlinks">Сравнение LCD телевизоров LG</a>
+<a href="http://telemehanik.ru/plazmennie_televizori.html" title="Плазменные телевизоры" class="listlinks">Плазменные телевизоры</a>
+<a href="http://telemehanik.ru/reklama_na_televidenii_i_ee_osobenn.html" title="Реклама на телевидении и ее особенности" class="listlinks">Реклама на телевидении и ее особенности</a>
+<a href="http://telemehanik.ru/domashnii_kinoteatr__ot_pervogo_pr.html" title="Домашний кинотеатр  от первого приобретения д" class="listlinks">Домашний кинотеатр  от первого приобретения д</a>
+<a href="http://telemehanik.ru/zhidkokristallicheskie_televizori_f.html" title="Жидкокристаллические телевизоры Филипс" class="listlinks">Жидкокристаллические телевизоры Филипс</a>
+<a href="http://telemehanik.ru/radost_dlja_slukha_i_zrenija.html" title="Радость для слуха и зрения" class="listlinks">Радость для слуха и зрения</a>
+<a href="http://telemehanik.ru/vibiraem_televizor_dlja_kukhni.html" title="Выбираем телевизор для кухни" class="listlinks">Выбираем телевизор для кухни</a>
+<a href="http://telemehanik.ru/lcd_televizor_silnie_i_slabie_stor.html" title="LCD телевизор сильные и слабые стороны" class="listlinks">LCD телевизор сильные и слабые стороны</a>
+<a href="http://telemehanik.ru/umnie_televizori.html" title="Умные телевизоры" class="listlinks">Умные телевизоры</a>
+<a href="http://telemehanik.ru/jetot_neulovimii_pult_ot_televizora.html" title="Этот неуловимый пульт от телевизора" class="listlinks">Этот неуловимый пульт от телевизора</a>
+<a href="http://telemehanik.ru/vibiraem_nastennii_kronshtein_dlja_.html" title="Выбираем настенный кронштейн для ТВ" class="listlinks">Выбираем настенный кронштейн для ТВ</a>
+<a href="http://telemehanik.ru/noveishie_tekhnologii_na_sluzhbe_te.html" title="Новейшие технологии на службе телезрителей" class="listlinks">Новейшие технологии на службе телезрителей</a>
+<a href="http://telemehanik.ru/jefirnoe_televidenie_i_multirum.html" title="Эфирное телевидение и мультирум" class="listlinks">Эфирное телевидение и мультирум</a>
+<a href="http://telemehanik.ru/televizor_v_nashei_zhizni.html" title="Телевизор в нашей жизни" class="listlinks">Телевизор в нашей жизни</a>
+<a href="http://telemehanik.ru/televizori_budushhego_ot_sony.html" title="Телевизоры будущего от Sony" class="listlinks">Телевизоры будущего от Sony</a>
+<a href="http://telemehanik.ru/televizori_s_usb.html" title="Телевизоры с USB" class="listlinks">Телевизоры с USB</a>
+<a href="http://telemehanik.ru/ustarevshie_vidi_televizorov.html" title="ЭЛТ мониторы и проекционные телевизоры" class="listlinks">ЭЛТ мониторы и проекционные телевизоры</a>
+<a href="http://telemehanik.ru/razemi_televizorov.html" title="Разъемы телевизоров" class="listlinks">Разъемы телевизоров</a>
+</div><div class="clin" onclick="jquery_menu('4')" >Ремонт устройств и деталей</div><div style="display:none" id="j4">
+<a href="http://telemehanik.ru/vijavlenie_nepoladok_bipoljarnikh_t.html" title="Выявление неполадок биполярных транзисторов" class="listlinks">Выявление неполадок биполярных транзисторов</a>
+<a href="http://telemehanik.ru/mp3_pleer.html" title="MP3-плеер и телевизор в кармане" class="listlinks">MP3-плеер и телевизор в кармане</a>
+<a href="http://telemehanik.ru/vijavlenie_nepoladok_integralnikh_m.html" title="Выявление неполадок интегральных микросхем" class="listlinks">Выявление неполадок интегральных микросхем</a>
+<a href="http://telemehanik.ru/vijavlenie_nepoladok_jelektrolitich.html" title="Выявление неполадок конденсаторов" class="listlinks">Выявление неполадок конденсаторов</a>
+<a href="http://telemehanik.ru/nepoladki_magnitojelektricheskikh_a.html" title="Неполадки магнитоэлектрических амперметров" class="listlinks">Неполадки магнитоэлектрических амперметров</a>
+<a href="http://telemehanik.ru/remont_mekhanicheskoi_chasti_amperm.html" title="Ремонт механической части амперметров" class="listlinks">Ремонт механической части амперметров</a>
+<a href="http://telemehanik.ru/remont_jelektricheskoi_chasti_jelek.html" title="Ремонт электрической части амперметров" class="listlinks">Ремонт электрической части амперметров</a>
+<a href="http://telemehanik.ru/kogda_televizor_nuzhdaetsja_v_remon.html" title="Когда телевизор нуждается в ремонте" class="listlinks">Когда телевизор нуждается в ремонте</a>
+<a href="http://telemehanik.ru/delo_telemastera_boitsja.html" title="Дело телемастера боится" class="listlinks">Дело телемастера боится</a>
+<a href="http://telemehanik.ru/osobennosti_remonta_televizorov.html" title="Особенности ремонта телевизоров" class="listlinks">Особенности ремонта телевизоров</a>
+<a href="http://telemehanik.ru/remont_kineskopnikh_televizorov.html" title="Ремонт кинескопных телевизоров" class="listlinks">Ремонт кинескопных телевизоров</a>
+</div><div class="clin" onclick="jquery_menu('5')" >Вопросы и ответы</div><div style="display:none" id="j5">
+<a href="http://telemehanik.ru/izza_chego_vzrivayutsja_televizori.html" title="Почему взрываются телевизоры" class="listlinks">Почему взрываются телевизоры</a>
+<a href="http://telemehanik.ru/chem_plazmennii_televizor_luchshe_z.html" title="Чем плазменный телевизор лучше ЖК" class="listlinks">Чем плазменный телевизор лучше ЖК</a>
+<a href="http://telemehanik.ru/kak_proverit_zhktelevizor_pri_poku.html" title="Как проверить ЖК телевизор при покупке" class="listlinks">Как проверить ЖК телевизор при покупке</a>
+<a href="http://telemehanik.ru/analogovoi_ili_cifrovoi_tv.html" title="Аналоговой или цифровой ТВ" class="listlinks">Аналоговой или цифровой ТВ</a>
+<a href="http://telemehanik.ru/kak_vibrat_televizor.html" title="Как выбрать телевизор" class="listlinks">Как выбрать телевизор</a>
+<a href="http://telemehanik.ru/kakuyu_akustiku_kupit_dlja_lcd_tele.html" title="Какую акустику купить для LCD телевизора" class="listlinks">Какую акустику купить для LCD телевизора</a>
+<a href="http://telemehanik.ru/televizori_led_ili_zhk.html" title="Телевизоры LED или ЖК плюсы и минусы" class="listlinks">Телевизоры LED или ЖК плюсы и минусы</a>
+<a href="http://telemehanik.ru/v_kakikh_televizorakh_izobrazhenie.html" title="В каких ТВ изображение не меняется под углом" class="listlinks">В каких ТВ изображение не меняется под углом</a>
+<a href="http://telemehanik.ru/vibor_marki_televizora.html" title="Выбор марки телевизора" class="listlinks">Выбор марки телевизора</a>
+<a href="http://telemehanik.ru/kakaja_marka_televizorov_luchshe.html" title="Какая марка телевизоров лучше" class="listlinks">Какая марка телевизоров лучше</a>
+<a href="http://telemehanik.ru/datchiki_televizionnikh_signalov.html" title="Какими бывают датчики телевизионных сигналов" class="listlinks">Какими бывают датчики телевизионных сигналов</a>
+<a href="http://telemehanik.ru/chem_otlichaetsja_plazmennii_ot_zhk.html" title="Чем отличается плазменный телевизор от ЖК" class="listlinks">Чем отличается плазменный телевизор от ЖК</a>
+<a href="http://telemehanik.ru/kak_proverit_plazmennii_televizor.html" title="Как проверить плазменный телевизор" class="listlinks">Как проверить плазменный телевизор</a>
+<a href="http://telemehanik.ru/vibor_lcd_televizora.html" title="Выбор LCD телевизора для дома" class="listlinks">Выбор LCD телевизора для дома</a>
+<a href="http://telemehanik.ru/obzor_zhk_televizorov.html" title="Обзор ЖК  телевизоров и плазменных панелей" class="listlinks">Обзор ЖК  телевизоров и плазменных панелей</a>
+<a href="http://telemehanik.ru/stabilizator_televizora.html" title="Стабилизатор напряжения для телевизора" class="listlinks">Стабилизатор напряжения для телевизора</a>
+<a href="http://telemehanik.ru/lcd_tv_100gerc.html" title="Нужно ли LCD телевизору 100 Гц" class="listlinks">Нужно ли LCD телевизору 100 Гц</a>
+<a href="http://telemehanik.ru/vybrat_televizor.html" title="Как выбрать телевизор" class="listlinks">Как выбрать телевизор</a>
+<a href="http://telemehanik.ru/chto_vazhno_pri_vibore_kineskopnogo.html" title="Выбор кинескопного телевизора LG" class="listlinks">Выбор кинескопного телевизора LG</a>
+<a href="http://telemehanik.ru/kto_izobrjol_kinoapparat.html" title="Кто изобрёл киноаппарат" class="listlinks">Кто изобрёл киноаппарат</a>
+<a href="http://telemehanik.ru/chto_nuzhno_znat_pered_pokupkoi_tel.html" title="Что нужно знать перед покупкой телевизора" class="listlinks">Что нужно знать перед покупкой телевизора</a>
+<a href="http://telemehanik.ru/kak_vibrat_plazmu.html" title="Как выбрать плазму" class="listlinks">Как выбрать плазму</a>
+<a href="http://telemehanik.ru/kak_vibrat_plazmennii_televizor.html" title="Как выбрать плазменный телевизор" class="listlinks">Как выбрать плазменный телевизор</a>
+<a href="http://telemehanik.ru/kak_vibrat_televizor2.html" title="Как выбрать телевизор" class="listlinks">Как выбрать телевизор</a>
+<a href="http://telemehanik.ru/vibiraem_diagonal_televizora.html" title="Выбираем диагональ телевизора" class="listlinks">Выбираем диагональ телевизора</a>
+<a href="http://telemehanik.ru/kak_vibrat_zhktelevizor.html" title="Как выбрать ЖКтелевизор" class="listlinks">Как выбрать ЖКтелевизор</a>
+<a href="http://telemehanik.ru/zachem_stolko_razemov.html" title="Зачем столько разъемов" class="listlinks">Зачем столько разъемов</a>
+<a href="http://telemehanik.ru/televizori_trudnosti_vibora.html" title="Телевизоры трудности выбора" class="listlinks">Телевизоры трудности выбора</a>
+<a href="http://telemehanik.ru/vibiraem_televizor_ugli_obzora_zv.html" title="Выбираем телевизор углы обзора звук разъемы" class="listlinks">Выбираем телевизор углы обзора звук разъемы</a>
+<a href="http://telemehanik.ru/televizor_i_tvtyuner.html" title="Телевизор и ТВ тюнер" class="listlinks">Телевизор и ТВ тюнер</a>
+<a href="http://telemehanik.ru/vibiraem_televizor_marka_proizvodi.html" title="Выбираем телевизор марка производителя и цена" class="listlinks">Выбираем телевизор марка производителя и цена</a>
+<a href="http://telemehanik.ru/plazmennii_televizor_dlja_umnogo_do.html" title="Плазменный телевизор для умного дома" class="listlinks">Плазменный телевизор для умного дома</a>
+<a href="http://telemehanik.ru/sputnikovoe_televidenie.html" title="Спутниковое телевидение" class="listlinks">Спутниковое телевидение</a>
+<a href="http://telemehanik.ru/akusticheskie_sistemi_i_televidenie.html" title="Акустические системы и телевидение" class="listlinks">Акустические системы и телевидение</a>
+<a href="http://telemehanik.ru/chto_i_dlja_chego_v_sisteme_multiru.html" title="Что и для чего в системе мультирум" class="listlinks">Что и для чего в системе мультирум</a>
+<a href="http://telemehanik.ru/chto_vazhno_znat_pokupaja_televizo.html" title="Что важно знать покупая телевизор" class="listlinks">Что важно знать покупая телевизор</a>
+<a href="http://telemehanik.ru/kak_naiti_neispravnost_v_pulte_du.html" title="Как найти неисправность в пульте ДУ" class="listlinks">Как найти неисправность в пульте ДУ</a>
+<a href="http://telemehanik.ru/televizor_v_interere.html" title="Телевизор в интерьере" class="listlinks">Телевизор в интерьере</a>
+<a href="http://telemehanik.ru/vibor_domashnego_kinoteatra.html" title="Выбор домашнего кинотеатра" class="listlinks">Выбор домашнего кинотеатра</a>
+<a href="http://telemehanik.ru/otlichija_led_i_lcd_televizorov.html" title="Отличия LED и LCD телевизоров" class="listlinks">Отличия LED и LCD телевизоров</a>
+<a href="http://telemehanik.ru/vlijanie_televizora_na_cheloveka.html" title="Влияние телевизора на человека" class="listlinks">Влияние телевизора на человека</a>
+<a href="http://telemehanik.ru/podklyuchaem_jefirnoe_tv_samostojat.html" title="Подключаем эфирное ТВ самостоятельно" class="listlinks">Подключаем эфирное ТВ самостоятельно</a>
+<a href="http://telemehanik.ru/full_hd_televizor.html" title="Что такое Full HD телевизор" class="listlinks">Что такое Full HD телевизор</a>
+<a href="http://telemehanik.ru/podbiraem_televizor_na_kukhnyu.html" title="Подбираем телевизор на кухню" class="listlinks">Подбираем телевизор на кухню</a>
+<a href="http://telemehanik.ru/vibor_crtmonitora.html" title="Как выбрать CRTмонитор" class="listlinks">Как выбрать CRTмонитор</a>
+<a href="http://telemehanik.ru/vreden_li_televizor_dlja_detei.html" title="ВРЕДЕН ЛИ ТЕЛЕВИЗОР ДЛЯ ДЕТЕЙ" class="listlinks">ВРЕДЕН ЛИ ТЕЛЕВИЗОР ДЛЯ ДЕТЕЙ</a>
+<a href="http://telemehanik.ru/vibor_i_kharakteristika_televizorov.html" title="Выбор и характеристика телевизоров" class="listlinks">Выбор и характеристика телевизоров</a>
+<a href="http://telemehanik.ru/chto_nuzhno_znat_pri_vibore_sovreme.html" title="Что нужно знать при выборе современного телев" class="listlinks">Что нужно знать при выборе современного телев</a>
+<a href="http://telemehanik.ru/kak_vibrat_televizor_v_detskuyu_kom.html" title="Как выбрать телевизор в детскую комнату" class="listlinks">Как выбрать телевизор в детскую комнату</a>
+<a href="http://telemehanik.ru/televizor_v_kukhne_soveti_za_i_pro.html" title="Телевизор в кухне советы за и против" class="listlinks">Телевизор в кухне советы за и против</a>
+<a href="http://telemehanik.ru/kak_vibrat_domashnii_kinoteatr.html" title="Как выбрать домашний кинотеатр" class="listlinks">Как выбрать домашний кинотеатр</a>
+</div></div>
+	<div id="nav_box"></div>
+	<div class="lbn"><a href="http://telemehanik.ru/fazovie_iskazhenija.html" title="Фазовые искажения сигналов">Фазовые искажения сигналов</a>
+<a href="http://telemehanik.ru/fazovie_iskazhenija.html" title="Фазовые искажения сигналов"><img src="/themes/telemex/thumbs/prev_telemexanik_1.jpg" align="left" border="0" alt="Фазовые искажения"/></a><noindex>Фазовые искажения приводят к изменению цветового тона, появлению цветовых окантовок...</noindex></div>
+	<div class="lbn"><a href="http://telemehanik.ru/signali_cvetnogo_televidenija.html" title="Сигналы цветного телевидения">Сигналы цветного телевидения</a>
+<a href="http://telemehanik.ru/signali_cvetnogo_televidenija.html" title="Сигналы цветного телевидения"><img src="/themes/telemex/thumbs/prev_telemexanik_4.jpg" align="left" border="0" alt="Сигналы цветного телевидения"/></a><noindex>Сигнал яркости. Для обеспечения совместимости цветного и черно-белого изображений необходимо,...</noindex></div>
+	<div class="lbn"><a href="http://telemehanik.ru/pravilnoe_raspredelenie_signalov.html" title="Правильное распределение сигналов">Правильное распределение сигналов</a>
+<a href="http://telemehanik.ru/pravilnoe_raspredelenie_signalov.html" title="Правильное распределение сигналов"><img src="/themes/telemex/thumbs/prev_telemexanik_3.jpg" align="left" border="0" alt="Правильное распределение сигналов"/></a><noindex>Правильное распределение сигналов возможно при синфазной и синхронной работе коммутаторов...</noindex></div>
+	<div class="lbn"><a href="http://telemehanik.ru/kachestvennaja_informacija.html" title="Качественная информация">Качественная информация</a>
+<a href="http://telemehanik.ru/kachestvennaja_informacija.html" title="Качественная информация"><img src="/themes/telemex/thumbs/prev_telemexanik_1.jpg" align="left" border="0" alt="Качественная информация"/></a><noindex>Качественная информация обеспечивает функции телесигнализации и телеуправления,...</noindex></div>
+	<div class="newtags"><div><a href="http://telemehanik.ru/tags-clouds/" title="Облако тегов"><span>Облако тегов</span></a></div>
+
+ <a href="http://telemehanik.ru/tags-clouds/lcd/" style="font-size:88%;">lcd</a> 
+ <a href="http://telemehanik.ru/tags-clouds/lg/" style="font-size:54%;">lg</a> 
+ <a href="http://telemehanik.ru/tags-clouds/secam/" style="font-size:80%;">secam</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%E0%EF%EF%E0%F0%E0%F2%F3%F0%E0/" style="font-size:54%;">аппаратура</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%E4%E0%F2%F7%E8%EA/" style="font-size:54%;">датчик</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%E6%EA+%F2%E5%EB%E5%E2%E8%E7%EE%F0/" style="font-size:61%;">жк телевизор</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%E7%E2%F3%EA%EE%EF%F0%EE%E2%EE%E4/" style="font-size:54%;">звукопровод</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%E8%E7%EE%E1%F0%E0%E6%E5%ED%E8%E5/" style="font-size:80%;">изображение</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%E8%EC%EF%F3%EB%FC%F1/" style="font-size:80%;">импульс</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%EA%E8%ED%EE%F2%E5%E0%F2%F0/" style="font-size:88%;">кинотеатр</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%EF%EB%E0%E7%EC%E5%ED%ED%FB%E9+%F2%E5%EB%E5%E2%E8%E7%EE%F0/" style="font-size:80%;">плазменный телевизор</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%EF%F0%E5%EE%E1%F0%E0%E7%EE%E2%E0%F2%E5%EB%FC/" style="font-size:95%;">преобразователь</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%EF%F0%E8%E5%EC%ED%E8%EA/" style="font-size:61%;">приемник</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%EF%F3%EB%FC%F2/" style="font-size:54%;">пульт</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F0%E0%F1%EF%F0%E5%E4%E5%EB%E8%F2%E5%EB%E8/" style="font-size:54%;">распределители</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F0%E5%EC%EE%ED%F2+%F3%F1%F2%F0%EE%E9%F1%F2%E2/" style="font-size:95%;">ремонт устройств</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F1%E8%E3%ED%E0%EB/" style="font-size:61%;">сигнал</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F1%E8%F1%F2%E5%EC%E0/" style="font-size:61%;">система</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%E2%E8%E4%E5%ED%E8%E5/" style="font-size:190%;">телевидение</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%E2%E8%E7%EE%F0/" style="font-size:190%;">телевизор</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%E8%E7%EC%E5%F0%E5%ED%E8%E5/" style="font-size:61%;">телеизмерение</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%EC%E5%F5%E0%ED%E8%E7%E0%F6%E8%FF/" style="font-size:95%;">телемеханизация</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%EC%E5%F5%E0%ED%E8%EA%E0/" style="font-size:145%;">телемеханика</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%F1%E8%E3%ED%E0%EB%E8%E7%E0%F6%E8%FF/" style="font-size:95%;">телесигнализация</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F2%E5%EB%E5%F3%EF%F0%E0%E2%EB%E5%ED%E8%E5/" style="font-size:95%;">телеуправление</a> 
+ <a href="http://telemehanik.ru/tags-clouds/%F3%F1%F2%F0%EE%E9%F1%F2%E2%EE/" style="font-size:88%;">устройство</a> </div>
+	<div class="adv"></div>
+	</td>
+  </tr>
+</table>
+</div>
+<div id="footer">
+<div id="countnumers">&nbsp;
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t14.5;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+&nbsp;<!-- Top.Elec.Ru Counter -->
+<a href="http://www.elec.ru/" target="_blank"><script language="JavaScript"><!--
+ElNav = navigator; ElNavApp = ElNav.appName; ElDoc = document; ElDoc.cookie = "b=b";
+ElCookie = ElDoc.cookie ? 1 : 0; ElNsc = (ElNavApp.substring(0, 2) == "Mi") ? 0 : 1;
+ElScreen = screen; ElDepth = (ElNsc ==0 ) ? ElScreen.colorDepth : ElScreen.pixelDepth;
+document.write('<img src="http://top.elec.ru/cnt?' + 
+'id=12104&sc=1&' + 
+'scr=' + ElScreen.width + 'x' + ElScreen.height + 'x' + ElDepth + '&' +
+'cookie=' + ElCookie + '&' +
+'ref=' + escape(ElDoc.referrer) + '&' + 
+'r=' + Math.random() + '" ' +
+'width="88" height="31" border="0" alt="Top.Elec.Ru - Рейтинг и каталог электротехнических ресурсов">');
+// --></script><noscript><img src="http://top.elec.ru/cnt?id=12104&sc=1" 
+width="88" height="31" border="0" alt="Top.Elec.Ru - Рейтинг и каталог электротехнических ресурсов"></noscript></a>
+<!-- Top.Elec.Ru Counter --></div>
+<div align="right" id="footerclass"><small><b>2010 © Все права защищены<br />Копирование без разрешения администрации запрещено</b></small></div>
+</div>
+</div>
+</body>
+</html>

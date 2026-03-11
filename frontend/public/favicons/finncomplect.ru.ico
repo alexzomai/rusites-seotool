@@ -1,0 +1,313 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="design/css/all.css" />
+	<link rel="stylesheet" type="text/css" href="design/css/jquery.fancybox-1.3.4.css" />
+	<script type="text/javascript" src="design/js/jquery-1.6.4.min.js"></script>
+	<script type="text/javascript" src="design/js/jquery.fancybox-1.3.4.pack.js"></script>
+	<script type="text/javascript" src="design/js/jquery.main.js"></script>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+
+</head>
+<body>
+	<div class="wrapper">
+		<div class="holder width">
+			<div id="header">
+				<span class="tel01 tel">
+					<p>Санкт-Петербург</p>
+					(812) 44-919-44
+				</span>
+				<span class="tel02 tel">
+					<p>Великий Новгород</p>
+					(8162) 777-316
+				</span>
+				<span class="tel03 tel">
+					<p>Нижний Новгород</p>
+					(831) 217-14-98
+				</span>
+				<span class="tel04 tel">
+					<p>Екатеринбург</p>
+					(343) 371-01-00
+				</span>
+				<div class="block-logo">
+					<h2>Группа компаний</h2>
+					<strong class="logo"><a href="/">FinnComplect</a></strong>
+					<strong class="logo2"><a href="/">FinnMontage</a></strong>
+				</div>
+		</div>
+		</div>
+		<div class="nav">
+			
+<ul class="width">
+
+
+<li><a href="krepezh.html"><span>Крепеж оптом</span></a></li>
+
+
+<li><a href="instrumenty.html"><span>Инструмент</span></a></li>
+
+
+<li><a href="rezba.html"><span>Резьбонарезной инструмент</span></a></li>
+
+
+<li><a href="elektromontazh.html"><span>Электромонтаж</span></a></li>
+
+
+<li><a href="tehnicheskaya_himiya.html"><span>Техническая химия</span></a></li>
+
+
+<li><a href="hranenie_krepezha.html"><span>Хранение крепежа</span></a></li>
+
+
+<li><a href="rashodnye_materialy.html"><span>Расходные материалы</span></a></li>
+
+
+</ul>
+
+		</div>	
+		<div class="hold width">
+			
+<ul class="menu">
+
+
+<li><a href="about.html">О группе компаний</a></li>
+
+
+<li><a href="spec.html">Спецпредложения</a></li>
+
+
+<li><a href="tech_info.html">Техническая информация</a></li>
+
+
+<li><a href="news.html">Новости</a></li>
+
+
+<li><a href="contact.html">Контакты</a></li>
+
+
+<li><a href="about_pages_p_6.html">Заказать акты сверки</a></li>
+
+
+</ul>
+
+
+			
+		<script language="JavaScript" type="text/JavaScript">document.write('<form ac');document.write('tion=');document.write('"/search');document.write('.html">');</script>
+			<fieldset>
+				<span class="input"><script language="JavaScript" type="text/JavaScript">document.write('<inp');document.write('ut ty');document.write('pe="');document.write('text" n');document.write('ame="');document.write('sea');document.write('rch" ');document.write('placeho');document.write('lder="');document.write('Поиск"');document.write(' />');</script></span>
+				<span class="button"><script language="JavaScript" type="text/JavaScript">document.write('<input ');document.write('type=');document.write('"image');document.write('" src=');document.write('"design');document.write('/image');document.write('s/butt');document.write('on.pn');document.write('g" />');</script></span>
+			</fieldset>
+		</form>
+		</div>
+		<div class="content width">
+			
+			<!--script type="text/javascript">
+		$(function(){
+			$('.zoom').hover(function(){
+					$(this).attr('dwidth',$(this).width());
+					$(this).attr('dheight',$(this).height());
+					var newwidth=$(this).width()*2;
+					var newheight=$(this).height()*2;
+					$(this).css('z-index','99');
+					$(this).attr('preview',$(this).attr('src'));
+					$(this).attr('src',$(this).attr('view'));
+					$(this).stop().animate({width:newwidth,height:newheight,left:0,top:0}, 400);
+				},
+				function(){
+					var oldwidth=parseInt($(this).attr("dwidth"));
+					var oldheight=parseInt($(this).attr("dheight"));
+					$(this).stop().animate({width: oldwidth,height: oldheight,left:0,top:0}, 400);
+					$(this).attr('view',$(this).attr('src'));
+					$(this).attr('src',$(this).attr('preview'));
+					$(this).css('z-index','2');
+				});
+		});
+</script-->
+	<ul class="catalog">		
+		<li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=321'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319791282_nabandotv1_1352903426.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=321'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319791282_nabandotv1_1352903426.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=321"><img class="zoom" src="content/files/catalog1/tn/1319791282_nabandotv1_1352903426.jpg" view="content/files/catalog1/1319791282_nabandotv1_1352903426.jpg" alt="Трещоточная отвертка 19 в 1" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=321">Трещоточная отвертка 19 в 1</a></h4-->
+				<h4><a href="/item.html?itemid=321">Трещоточная отвертка 19 в 1</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAR1002</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=322'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319793058_nabandotv2_1352903468.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=322'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319793058_nabandotv2_1352903468.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=322"><img class="zoom" src="content/files/catalog1/tn/1319793058_nabandotv2_1352903468.jpg" view="content/files/catalog1/1319793058_nabandotv2_1352903468.jpg" alt="Трещоточная отвертка 4 в 1" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=322">Трещоточная отвертка 4 в 1</a></h4-->
+				<h4><a href="/item.html?itemid=322">Трещоточная отвертка 4 в 1</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAR0402</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=323'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1320632775_prochee59_1352903507.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=323'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1320632775_prochee59_1352903507.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=323"><img class="zoom" src="content/files/catalog1/tn/1320632775_prochee59_1352903507.jpg" view="content/files/catalog1/1320632775_prochee59_1352903507.jpg" alt="Ударно-поворотная отвертка + 4 насадки" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=323">Ударно-поворотная отвертка + 4 насадки</a></h4-->
+				<h4><a href="/item.html?itemid=323">Ударно-поворотная отвертка + 4 насадки</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAD0602</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=324'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319793538_nabandotv5_1352903558.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=324'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319793538_nabandotv5_1352903558.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=324"><img class="zoom" src="content/files/catalog1/tn/1319793538_nabandotv5_1352903558.jpg" view="content/files/catalog1/1319793538_nabandotv5_1352903558.jpg" alt="Набор отверток" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=324">Набор отверток</a></h4-->
+				<h4><a href="/item.html?itemid=324">Набор отверток</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAE0821</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=325'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/thumbphp_1352903596.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=325'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/thumbphp_1352903596.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=325"><img class="zoom" src="content/files/catalog1/tn/thumbphp_1352903596.jpg" view="content/files/catalog1/thumbphp_1352903596.jpg" alt="Набор отверток изолированных" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=325">Набор отверток изолированных</a></h4-->
+				<h4><a href="/item.html?itemid=325">Набор отверток изолированных</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAE0704</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=326'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319794252_nabandotv8_1352903645.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=326'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319794252_nabandotv8_1352903645.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=326"><img class="zoom" src="content/files/catalog1/tn/1319794252_nabandotv8_1352903645.jpg" view="content/files/catalog1/1319794252_nabandotv8_1352903645.jpg" alt="Набор отверток" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=326">Набор отверток</a></h4-->
+				<h4><a href="/item.html?itemid=326">Набор отверток</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAE0504</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=327'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1330486899_GAAE0506_1352903699.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=327'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1330486899_GAAE0506_1352903699.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=327"><img class="zoom" src="content/files/catalog1/tn/1330486899_GAAE0506_1352903699.jpg" view="content/files/catalog1/1330486899_GAAE0506_1352903699.jpg" alt="Набор отверток шлицевых и крестовых" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=327">Набор отверток шлицевых и крестовых</a></h4-->
+				<h4><a href="/item.html?itemid=327">Набор отверток шлицевых и крестовых</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAE0506</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=328'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1330487242_GAAW0803_1352903759.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=328'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1330487242_GAAW0803_1352903759.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=328"><img class="zoom" src="content/files/catalog1/tn/1330487242_GAAW0803_1352903759.jpg" view="content/files/catalog1/1330487242_GAAW0803_1352903759.jpg" alt="Набор отверток шлицевых, крестовых и TORX" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=328">Набор отверток шлицевых, крестовых и TORX</a></h4-->
+				<h4><a href="/item.html?itemid=328">Набор отверток шлицевых, крестовых и TORX</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAW0803</p></dd>
+				</dl>
+			</div>
+		</li><li>
+			<!--div class="pic" onclick="document.location.href='/item.html?itemid=329'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319794814_nabandotv12_1352903802.jpg)no-repeat 50% 50%"-->
+			<div class="pic" onclick="document.location.href='/item.html?itemid=329'" style="width:130px;height:110px;background:url(content/files/catalog1/tn/1319794814_nabandotv12_1352903802.jpg)no-repeat 50% 50%">
+				&nbsp;
+
+				<!--a href="/item.html?itemid=329"><img class="zoom" src="content/files/catalog1/tn/1319794814_nabandotv12_1352903802.jpg" view="content/files/catalog1/1319794814_nabandotv12_1352903802.jpg" alt="Набор отверток 14 в 1" /></a-->
+			</div>
+			<div class="opis">
+				<!--h4><a href="/item.html?itemid=329">Набор отверток 14 в 1</a></h4-->
+				<h4><a href="/item.html?itemid=329">Набор отверток 14 в 1</a></h4>
+				<dl>
+					<dt><strong>DIN/ГОСТ/ISO:</strong></dt>
+					<dd>//<strong></strong></dd>
+					<dt>Описание:</dt>
+					<dd style="font-size:12px;display:block;height:38px;overflow:hidden;"><p>Артикул №: GAAW0804</p></dd>
+				</dl>
+			</div>
+		</li>
+	</ul>
+	
+
+<!-- ****************************************** Шаблон товара ****************************************** -->
+		</div>
+	</div>
+	<div class="bg-banner">
+		<div class="width">
+			<div class="ban">
+				<a href="#" class="ban1"></a>
+				<a href="#" class="ban2"></a>
+				<a href="#" class="ban3"></a>
+				<a href="#" class="ban4"></a>
+				<a href="#" class="ban5"></a>
+				<a href="#" class="ban6"></a>
+				<a href="#" class="ban7"></a>
+				<a href="#" class="ban8"></a>
+				<a href="#" class="ban9"></a>
+			</div>
+		</div>
+	</div>
+	<div class="footer width">
+		<div class="copy">
+			<span>&copy; 2006—2011 «FinnComplect»</span>
+			<p>Широкий ассортимент крепежных изделий, кабельной арматуры, технической химии, слесарного и электромонтажного инструмента.</p>
+		</div>
+		<p class="logo"><a href="http://madeinmed.ru"></a> Сайт разработан в компании</p>
+	</div>
+</body>
+</html>

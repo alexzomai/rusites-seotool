@@ -1,0 +1,11 @@
+<codeColoring xmlns:MMString="http://www.macromedia.com/schemes/data/string/">
+	<scheme MMString:name="VBScript/scheme/name" id="VBScript" doctypes="VBScript" priority="20">
+		<ignoreCase>Yes</ignoreCase>
+		<ignoreTags>Yes</ignoreTags>
+		<defaultText MMString:name="CodeColor_VBScriptDefaultText/defaultText/name" id="CodeColor_VBScriptDefaultText" />
+		<blockStart doctypes="ASP-VB" scheme="customText" MMString:name="CodeColoring/CodeColoring/CodeColor_ASPDirBlock/blockStart/name" id="CodeColor_VBSBlock"><![CDATA[<%]]></blockStart>
+		<blockEnd><![CDATA[%>]]></blockEnd>
+		<blockStart doctypes="ASP-VB" scheme="outerTag"><![CDATA[<script\s+runat\s*=\s*"server">]]></blockStart>
+		<blockEnd><![CDATA[</script>]]></blockEnd>
+		<blockStart doctypes="ASP-JS,ASP-VB,ASP.NET_CSharp,ASP.NET_VB" scheme="outerTag"><![CDATA[<script\s+language\s*=\s*"VBScript"\s+runat\s*=\s*"server">]]></blockStart>
+		<blockEnd><![CDATA[</scrip

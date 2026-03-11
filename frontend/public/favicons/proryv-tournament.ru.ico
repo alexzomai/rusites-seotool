@@ -1,0 +1,221 @@
+
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>Турнир «Прорыв»</title>
+		<meta name="yandex-verification" content="092b12c6bfe34f17" />
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/css/main.css">
+	</head>
+	<body>
+
+		<div class="container" style="height: 72px;">
+			<div class="row">
+				<div class="col-12">
+					<img src="/images/marquee_c_left.png" class="tournamentClubsFaders tournamentClubsFL" alt="">
+					<img src="/images/marquee_c_right.png" class="tournamentClubsFaders tournamentClubsFR" alt="">
+
+					<div id="tournamentClubs">
+						<a href="/clubs/1-cska.html"><img src="/images/clubs/1.png" alt=""></a>
+						<a href="/clubs/6-krylya-sovetov.html"><img src="/images/clubs/6.png" alt=""></a>
+						<a href="/clubs/13-dynamo-moscow.html"><img src="/images/clubs/13.png" alt=""></a>
+						<a href="/clubs/51-traktor.html"><img src="/images/clubs/51.png" alt=""></a>
+						<a href="/clubs/53-torpedo.html"><img src="/images/clubs/53.png" alt=""></a>
+						<a href="/clubs/54-ak-bars.html"><img src="/images/clubs/54.png" alt=""></a>
+						<a href="/clubs/67-lokomotiv.html"><img src="/images/clubs/67.png" alt=""></a>
+						<a href="/clubs/101-spartak.html"><img src="/images/clubs/101.png" alt=""></a>
+						<a href="/clubs/106-dinamo-minsk.html"><img src="/images/clubs/106.png" alt=""></a>
+						<a href="/clubs/108-ska.html"><img src="/images/clubs/108.png" alt=""></a>
+						<a href="/clubs/111-admiral.html"><img src="/images/clubs/111.png" alt=""></a>
+						<a href="/clubs/125-himik.html"><img src="/images/clubs/125.png" alt=""></a>
+						<a href="/clubs/131-vityaz.html"><img src="/images/clubs/131.png" alt=""></a>
+						<a href="/clubs/191-riga.html"><img src="/images/clubs/191.png" alt=""></a>
+						<a href="/clubs/220-yugra.html"><img src="/images/clubs/220.png" alt=""></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container-fluid bg335888">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<nav class="navbar navbar-expand-lg navbar-dark bg335888">
+							<a class="navbar-brand" href="/" style="position;position: relative; width: 130px;">
+								<img src="/images/proryv_tournament_logo.png" class="proryv-logo">
+							</a>
+							
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+							</button>
+							
+							<div class="collapse navbar-collapse" id="navbarText">
+								<ul class="navbar-nav mr-auto">
+									<li class="nav-item ">
+										<a class="nav-link" href="/tournaments.html">Турниры</a>
+									</li>
+									<!--
+									<li class="nav-item ">
+										<a class="nav-link" href="/clubs.html">Клубы</a>
+									</li>
+									<li class="nav-item ">
+										<a class="nav-link" href="/players.html">Игроки</a>
+									</li>
+									-->
+									<li class="nav-item ">
+										<a class="nav-link" href="/albums.html">Фотоальбомы</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="/docs.html">Документы</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="/contacts.html">Контакты</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link" href="https://vkvideo.ru/@proryvhockey">VK Видео канал</a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+	<div style="background-image: url(/images/bg_2.jpg);" class="container-fluid top-block flex-fill">
+		<div class="container">
+			<h1>Такой страницы не существует =(</h1>
+			
+		</div>
+	</div>
+	
+<div class="container main-content mt-30">
+
+	<div class="container">
+	
+		
+		<h3>Запрашиваемая вами страница отсутствует.</h3>
+		<h5>Возможно, она была удалена или перемещена.</h5>
+		<h5>Перейдите на главную <a href="http://www.proryv-tournament.ru">www.Proryv-Tournament.ru</a> и попробуйте найти там нужную информацию.</h5>
+		
+	</div>
+	
+</div>
+
+		<div class="container-fluid  mt-30">
+			<div class="container">
+				<h6 class="t-tag">#ТурнирПрорыв</h6>
+			</div>
+		</div>
+		
+		<div class="container-fluid footer">
+		
+		
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<span>&copy; Турнир «Прорыв» 2015 &ndash; 2026</span>
+						<span>Все права защищены</span>
+					</div>
+					<div class="col-md-4">
+						<a href="/contacts.html">Контактная информация</a>
+					</div>
+					<div class="col-md-4">
+						<a href="/docs.html">Документы и бланки</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="container-fluid licounter">
+			<!--LiveInternet counter--><script type="text/javascript">
+			document.write('<a href="//www.liveinternet.ru/click" '+
+			'target="_blank"><img src="//counter.yadro.ru/hit?t26.11;r'+
+			escape(document.referrer)+((typeof(screen)=='undefined')?'':
+			';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+			screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+			';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+			'" alt="" title="LiveInternet: показано число посетителей за'+
+			' сегодня" '+
+			'border="0" width="88" height="15"><\/a>')
+			</script><!--/LiveInternet-->
+		</div>
+
+		<script src="/js/jquery-3.4.1.min.js"></script>
+		<script src="/js/popper.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		<script src="/js/endless_scroll.js"></script>
+
+		<script>
+
+			$(function() {
+			
+				$("#tournamentClubs").endlessScroll({ 
+					width: "100%",
+					height: "52px",
+					steps: -1,
+					speed: 50,
+					mousestop: true
+				});
+				
+
+				if(screen.height < 978) {
+					$('#hockey-data').addClass("table-responsive");
+					$('#player-awards').addClass("table-responsive");
+					$('.chess-table').addClass("table-responsive");
+					$('.goalie-table').addClass("table-responsive");
+				}
+				
+				setInterval(function(){
+					$("#tournament-online-").load("/__tournaments.php?getOnline=");
+					// alert("WWW");
+				}, 5000);
+				
+				$(".player-photo").animate({
+					width: "250px",
+					height: "250px",
+					opacity: 1,
+				});
+				
+				setTimeout(function(){
+					$(".player-clubs").slideDown();
+				}, 500);
+				
+				setTimeout(function(){
+					$(".player-statistics").slideDown();
+				}, 1000);
+				
+				setTimeout(function(){
+					$(".player-awards").slideDown();
+				}, 1500);
+				
+				
+			});
+			
+		</script>
+
+		<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   var z = null;m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(90096893, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/90096893" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+	</body>
+</html>

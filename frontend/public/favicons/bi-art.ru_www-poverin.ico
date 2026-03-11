@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+    <head>
+        <!-- Mobile Specific Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Always force latest IE rendering engine -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- Meta Keyword -->
+        <meta name="keywords" content="галерея керамика книги публикации оборудование технологии материалы обучение школа выставки">
+        <meta name="description" content="Сайт Александра Поверина, художника, скульптора, гончара, писателя">
+
+        <!-- meta character set -->
+        <meta charset="utf-8">
+
+        <!-- Site Title -->
+        <title>Сайт Александра Поверина</title>
+
+        <!--
+        Google Fonts
+        ============================================= -->
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+		
+        <!--
+        CSS
+        ============================================= -->
+        <!-- Fontawesome -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Fancybox -->
+        <link rel="stylesheet" href="css/jquery.fancybox.css">
+        <!-- owl carousel -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <!-- Animate -->
+        <link rel="stylesheet" href="css/animate.css">
+        <!-- Main Stylesheet -->
+        <link rel="stylesheet" href="css/main.css">
+        <!-- Main Responsive -->
+        <link rel="stylesheet" href="css/responsive.css">
+        
+		<link rel="stylesheet" type="text/css" href="css/book.css" />
+		
+		
+		<!-- Modernizer Script for old Browsers -->
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        
+        
+        
+
+        
+        
+		
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    </head>
+	
+<body>
+
+        <!--
+        Fixed Navigation
+        ==================================== -->
+        <header id="navigation" class="navbar-fixed-top">
+          <div class="container">
+          
+                <div class="navbar-header">
+                    <!-- responsive nav button -->
+                   <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!-- /responsive nav button -->
+
+
+
+                    </div>
+
+
+                    <!-- main nav -->
+                    <nav class="collapse navigation navbar-collapse navbar-center collapse text-center"  role="navigation">
+                    <div style="display: inline-block;">
+                        <ul id="nav" class="nav navbar-nav ">
+                            <li class="current"><a href="#home">Главная</a></li>
+                            <li><a href="theory.php">Теория</a></li>
+                            <li><a href="gallery.php">Галерея</a></li>
+                            <li><a href="books.php">Книги и публикации</a></li>
+                            <li><a href="exhibition.php">Выставки</a></li>
+                            <li><a href="school.php">Обучение</a></li>
+                            <li><a href="news.php">Новости</a></li>
+                            <li><a href="contacts.php">Контакты</a></li>
+
+                    </ul>
+                        </div>
+                    </nav>
+                    <!-- /main nav -->
+                </div>
+
+            </div>
+        </header>
+        <!--
+        End Fixed Navigation
+        ==================================== -->
+
+
+        <!--
+        Home Slider
+        ==================================== -->
+        <section id="home">     
+            <div id="home-carousel" class="carousel slide" data-interval="false">
+                <ol class="carousel-indicators">
+                    <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#home-carousel" data-slide-to="1"></li>
+                    <li data-target="#home-carousel" data-slide-to="2"></li>
+                    <li data-target="#home-carousel" data-slide-to="3"></li>
+                    <li data-target="#home-carousel" data-slide-to="4"></li>
+                    <li data-target="#home-carousel" data-slide-to="5"></li>
+					<li data-target="#home-carousel" data-slide-to="6"></li>
+
+                </ol>
+                <!--/.carousel-indicators-->
+
+                <div class="carousel-inner">
+
+                    <div class="item active"  style="background-image: url('img/slider/bg1.jpg')" >
+                        <div class="carousel-caption">
+                            <div class="animated bounceInRight">
+                                <h2><a href="about.php">Александр Поверин</a></h2>
+                                <p><a href="about.php">Художник декоративно-прикладного искусства, керамист, скульптор, писатель...</a></p>
+                            </div>
+                        </div>
+                    </div>              
+
+                    <div class="item" style="background-image: url('img/slider/bg2.jpg')">                
+                        <div class="carousel-caption">
+                            <div class="animated bounceInDown">
+                                <h2><a href="school.php">школа Александра Поверина</a></h2>
+                                <p><a href="school.php">Программа, расписание занятий, фотографии, отзывы учеников, запись на обучение...</a></p>
+                            </div>
+                        </div>
+                    </div>
+					
+					
+					 <div class="item" style="background-image: url('img/slider/bg8.jpg')">                
+                        <div class="carousel-caption">
+                            <div class="animated bounceInDown">
+                                <h2><a href="sirius.php">«Основы гончарного искусства»<br>в образовательном центре «Сириус»</a></h2>
+                                <p><a href="sirius.php">Интенсивное погружение в профессиональную атмосферу гончарной мастерской</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="item" style="background-image: url('img/slider/bg3.jpg')">                 
+                         <div class="carousel-caption">
+                            <div class="animated bounceInUp">
+                                <h2><a href="gallery.php">Галерея керамики</a></h2>
+                                <p><a href="gallery.php">Авторская керамика, блюда, вазы, кувшины, геометрические сосуды...</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                     <div class="item" style="background-image: url('img/slider/bg4.jpg')">                 
+                         <div class="carousel-caption">
+                            <div class="animated bounceInRight">
+                                <h2><a href="exhibition.php">Выставки</a></h2>
+                                <p><a href="exhibition.php">Персональные выставки, постоянные экспозиции гончарной керамики и скульптуры, мастер классы...</a></p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="item" style="background-image: url('img/slider/bg6.jpg')">                
+                        <div class="carousel-caption">
+                            <div class="animated bounceInDown">
+                                <h2><a href="theory.php">Теория</a></h2>
+                                <p><a href="theory.php">Керамика, оборудование, технологии и материалы...</a></p>
+                            </div>
+                        </div>
+                    </div>      
+                    
+                       <div class="item" style="background-image: url('img/slider/bg5.jpg')">                
+                        <div class="carousel-caption">
+                            <div class="animated bounceInUp">
+                                <h2><a href="books.php">книги и публикации А.Поверина</a></h2>
+                                <p><a href="books.php">Статьи, книги, энциклопедии по гончарному искусству...</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+                                        
+                                 
+                    
+                </div>
+                <!--/.carousel-inner-->
+                <nav id="nav-arrows" class="nav-arrows hidden-xs hidden-sm visible-md visible-lg">
+                    <a class="sl-prev hidden-xs" href="#home-carousel" data-slide="prev">
+                        <i class="fa fa-angle-left fa-3x"></i>
+                    </a>
+                    <a class="sl-next" href="#home-carousel" data-slide="next">
+                        <i class="fa fa-angle-right fa-3x"></i>
+                    </a>
+                </nav>
+
+            </div>
+        </section>
+        <!--
+        End #home Slider
+        ========================== -->
+
+        
+        <!--
+        #service
+        ========================== -->
+        <section id="service">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-title text-center wow fadeInDown">
+                            <h2>Теория</h2>    
+                            <p>&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    <div class="col-md-6 col-sm-12 wow fadeInLeft">
+                        <div class="media">
+                            <a href="ceramics.php" class="pull-left">
+                                <img src="img/icons/1.jpg" class="media-object" alt="Monitor">
+                            </a>
+                            <div class="media-body">
+                                <h3><a href="ceramics.php" class="linkh3">Керамика</a></h3>
+                                <p><a href="ceramics.php">техническая, шамотная, майолика, фаянс, фарфор, гончарная...</a></p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
+                        <div class="media">
+                            <a href="equipment.php" class="pull-left">
+                                <img src="img/icons/2.jpg" alt="Cog">
+                            </a>
+                            <div class="media-body">
+                                <h3><a href="equipment.php" class="linkh3">Оборудование</a></h3>
+                                <p><a href="equipment.php">Виды гончарных кругов, инструменты, разновидности печей...</a></p>
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <div class="col-md-6 col-sm-12 wow fadeInLeft">
+                        <div class="media">
+                            <a href="techniques.php" class="pull-left">
+                                <img src="img/icons/5.jpg" alt="Ruler">
+                            </a>
+                            <div class="media-body">
+                                <h3><a href="techniques.php" class="linkh3">Технологии</a></h3>
+                                <p><a href="techniques.php">Способы работы с глиной, обжиг, лощение, глазурирование...</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12 wow fadeInRight" data-wow-delay="0.2s">
+                        <div class="media">
+                            <a href="materials.php" class="pull-left">
+                                <img src="img/icons/4-.jpg" alt="Camera">
+                            </a>
+                            <div class="media-body">
+                                <h3><a href="materials.php" class="linkh3">Материалы</a></h3>
+                                <p><a href="materials.php">Разновидности глины, ее состав, подготовка...</a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div> <!-- end .row -->
+            </div> <!-- end .container -->
+        </section>
+        <!--
+        End #service
+        ========================== -->
+
+
+        <!--
+        #between
+        ========================== -->
+        <div class="container">
+            <div class="about-us text-center wow fadeInDown" align="center">
+                        <img src="img/b1.jpg" alt="About Us" class="img-responsive">
+                    </div>
+          </div>
+        <!--
+        End #between
+        ========================== -->
+
+        <!--
+        #Portfolio
+        ========================== -->
+        
+        <section id="portfolio">
+
+            <div class="section-title text-center wow fadeInDown">
+                <h2>Галерея</h2>    
+                <p>&nbsp;</p>
+            </div>
+            
+
+            <div id="projects" class="clearfix">
+
+                <figure class="mix portfolio-item app">
+                    <a href="author_utensils.php"><img class="img-responsive" src="img/portfolio/portfolio-1.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="author_utensils.php"><h4 align="center">Авторская керамика</h4></a>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item photography">
+                    <a href="dishes.php"><img class="img-responsive" src="img/portfolio/portfolio-2.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="dishes.php"><h4 align="center">Блюда</h4></a>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item web">
+                    <a href="vases_and_pitchers.php"><img class="img-responsive" src="img/portfolio/portfolio-3.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="vases_and_pitchers.php"><h4 align="center">Вазы и кувшины</h4></a>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item print">
+                    <a href="copies.php"><img class="img-responsive" src="img/portfolio/portfolio-4.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="copies.php"><h4 align="center">Копии гончарной керамики</h4></a>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item print web">
+                    <a href="anthropomorphic.php"><img class="img-responsive" src="img/portfolio/portfolio-8.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="anthropomorphic.php"><h4 align="center">Антропоморфная керамика</h4></a>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item photography">
+                    <a href="sets.php"><img class="img-responsive" src="img/portfolio/portfolio-6.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="sets.php"><h4 align="center">Сервизы</h4></a>
+                    </figcaption>
+                </figure>
+
+                <figure class="mix portfolio-item web app">
+                    <a href="geometric_pottery.php"><img class="img-responsive" src="img/portfolio/portfolio-7.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="geometric_pottery.php"><h4 align="center">Геометрические сосуды</h4></a>
+                    </figcaption>
+                </figure>
+
+
+                <figure class="mix portfolio-item app">
+                    <a href="sculpture.php"><img class="img-responsive" src="img/portfolio/portfolio-5.jpg" alt=""></a>
+                    <figcaption class="mask">
+                        <a href="sculpture.php"><h4 align="center">Скульптура</h4></a>
+                    </figcaption>
+                </figure>
+                
+            </div> <!-- end #projects -->
+
+        </section>
+        <!--
+        End #Portfolio
+        ========================== -->
+
+        <!--
+        #between
+        ========================== -->
+        <div class="container">
+            
+            <div class="about-us text-center wow fadeInDown" align="center">
+                        <img src="img/b2.jpg" alt="About Us" class="img-responsive">
+                    </div>
+            
+
+            </div>
+
+        <!--
+        End #between
+        ========================== -->
+
+
+        <!--
+        #books
+        ========================== -->
+							
+                            <!-- Pages -->
+                            
+              <section id="books">
+            <div class="container"> 
+            
+
+                    <div class="section-title text-center wow fadeInUp">
+                        <h2>Книги и публикации</h2>    
+                        <p>&nbsp;</p>
+                    </div>
+            
+                     
+			<div class="component">
+
+				<ul class="align">
+                
+                
+                <li>
+						<figure class='book'>
+                        
+						<ul class='hardcover_front'>
+								<li><span class="ribbon">NEW</span>
+
+									<img src="img/cover10.jpg" alt="" width="100%" height="100%">
+								</li>
+								<li></li>
+							</ul>
+
+						<!-- Pages -->
+
+							<ul class='page'>
+								<li></li>
+								<li>
+									<a class="btn" href="goncharnoe_delo.php">О книге</a>
+								</li>
+								<li></li>
+								<li></li>
+								<li></li>
+							</ul>
+
+						<!-- Back -->
+
+							<ul class='hardcover_back'>
+								<li></li>
+								<li></li>
+							</ul>
+							<ul class='book_spine'>
+								<li></li>
+								<li></li>
+							</ul>
+							<book-figcaption>
+								<h3><a href="goncharnoe_delo.php" class="linkh3">Гончарное дело. Техника. Приемы. Изделия.</a></h3>
+								<span>Александр Поверин</span>
+								<p>Издательство ХОББИТЕКА,<br>г. Москва, 2017г.</p>
+							</book-figcaption>
+						</figure>
+					</li>
+					
+                        
+                        
+                        
+					<li>
+						<figure class='book'>
+                        
+						<ul class='hardcover_front'>
+								<li><span class="ribbon">NEW</span>
+
+									<img src="img/cover.jpg" alt="" width="100%" height="100%">
+								</li>
+								<li></li>
+							</ul>
+
+						<!-- Pages -->
+
+							<ul class='page'>
+								<li></li>
+								<li>
+									<a class="btn" href="algebra_harmony.php">О книге</a>
+								</li>
+								<li></li>
+								<li></li>
+								<li></li>
+							</ul>
+
+						<!-- Back -->
+
+							<ul class='hardcover_back'>
+								<li></li>
+								<li></li>
+							</ul>
+							<ul class='book_spine'>
+								<li></li>
+								<li></li>
+							</ul>
+							<book-figcaption>
+								<h3><a href="algebra_harmony.php" class="linkh3">Алгебра гармонии</a></h3>
+								<span>Александр Поверин</span>
+								<p>Издательство Академии акварели и изящных искусств, г. Москва, 2015г.</p>
+							</book-figcaption>
+						</figure>
+					</li>
+					<li>
+						<figure class='book'>
+
+							<!-- Front -->
+
+						<ul class='hardcover_front'>
+								<li>
+									<img src="img/cover1.jpg" alt="" width="100%" height="100%">
+								</li>
+								<li></li>
+							</ul>
+
+						<!-- Pages -->
+
+							<ul class='page'>
+								<li></li>
+								<li>
+									<a class="btn" href="pottery.php">О книге</a>
+								</li>
+								<li></li>
+								<li></li>
+								<li></li>
+							</ul>
+
+						<!-- Back -->
+
+							<ul class='hardcover_back'>
+								<li></li>
+								<li></li>
+							</ul>
+							<ul class='book_spine'>
+								<li></li>
+								<li></li>
+							</ul>
+							<book-figcaption>
+								<h3><a href="pottery.php" class="linkh3">Гончарное дело (Техника Приемы Изделия)</a></h3>
+								<span>Александр Поверин</span>
+								<p>Издательство АСТ-ПРЕСС, г. Москва, 2015г.</p>
+							</book-figcaption>
+						</figure>
+					</li>
+					<li>
+						<figure class='book'>
+
+						<!-- Front -->
+
+						<ul class='hardcover_front'>
+								<li>
+									<img src="img/cover2.jpg" alt="" width="100%" height="100%">
+								</li>
+								<li></li>
+							</ul>
+
+						<!-- Pages -->
+
+							<ul class='page'>
+								<li></li>
+								<li>
+									<a class="btn" href="pottery_art.php">О книге</a>
+								</li>
+								<li></li>
+								<li></li>
+								<li></li>
+							</ul>
+
+						<!-- Back -->
+
+							<ul class='hardcover_back'>
+								<li></li>
+								<li></li>
+							</ul>
+							<ul class='book_spine'>
+								<li></li>
+								<li></li>
+							</ul>
+							<book-figcaption>
+								<h3><a href="pottery_art.php" class="linkh3">ГОНЧАРНОЕ ИСКУССТВО. Художественная керамика</a></h3>
+								<span>Александр Поверин</span>
+								<p>Издательский Дом МГУКИ, г. Москва, 2006г.</p>
+							</book-figcaption>
+						</figure>
+					</li>
+					
+				</ul>
+			</div>
+                            
+
+
+                            <h3 align="center"><a href="books.php">Все книги и публикации</a></h3>
+
+                   
+
+        </div>
+         </section>
+         
+         <!-- /container -->
+        <!--
+        End #books
+        ========================== -->
+        
+
+
+        <!--
+        #between
+        ========================== -->
+        <div class="container">
+            <div>
+                        <img src="img/b4.jpg" width="100%">
+                    </div>
+            </div>
+
+        <!--
+        End #between
+        ========================== -->
+
+
+        <!--
+        #ex
+        ========================== -->
+        <section id="ex">
+            <div class="container">
+                <div class="row">
+
+                    <div class="section-title text-center wow fadeInUp">
+                        <h2>Выставки</h2>    
+                        <p>&nbsp;</p>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">Московская государственная академия акварели и изящных искусств  Сергея Андрияки</span>
+                            </div>
+                            <ul class="text-center">
+                                <li><a href="ex_and.php">Гончарная чернолощеная керамика Александра Поверина представлена  в Московской государственной академии акварели и изящных искусств  Сергея Андрияки. Постоянная экспозиция  гончарной керамики состоит из  авторских работ и  реплик разнообразной утвари московской чернолощеной керамики XVII века.</a></li>
+
+                            </ul>
+                            
+                      </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">Сытный двор «Музее–заповеднике «Коломенское»</span>
+
+                        </div>
+                            <ul class="text-center">
+                                <li><a href="ex_kol.php">Авторская выставка Александра Поверина «Керамика  двух веков: XVII – XXI»  в Сытном дворе комплекса Государева двора в «Музее–заповеднике «Коломенское». На выставке представлены авторские работы и реплики разнообразной утвари московской чернолощеной керамики XVII века. На торжественном открытии состоялся мастер-класс.</a></li>
+                          </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">ГОСУДАРСТВЕННЫЙ МУЗЕЙ-УСАДЬБА «АРХАНГЕЛЬСКОЕ»</span>
+                            </div>
+                            <ul class="text-center">
+                                <li><a href="ex_arh.php">Выставка произведений Александра Поверина "МУЗЫКА ФОРМЫ. КЕРАМИКА — ХХI ВЕК". На выставке более 100 работ: скульптурные композиции, фигурные сосуды, сервизы, глиняная утварь. </a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.9s">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">Всероссийская выставка "РУССКИЙ СТИЛЬ"</span>
+                            </div>
+                            <ul class="text-center">
+                                <li> <a href="ex_rs.php">Презентация проекта «Московский Фестиваль Гончаров» и презентация книги Александра Поверина «ГОНЧАРНОЕ ИСКУССТВО. Художественная керамика» на Всероссийской выставке "РУССКИЙ СТИЛЬ" в Выставочном центр «Т-модуль» (ТЦ «Тишинка»).</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 wow fadeInUp">
+                        <div class="special-plan text-center">
+                            <p><a href="exhibition.php">Все выставки Александра Поверина</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--
+        End #ex
+        ========================== -->
+
+
+        <!--
+        #between
+        ========================== -->
+        <div class="container">
+            <div>
+                        <img src="img/b8.jpg" width="100%">
+          </div>
+    </div>
+
+        <!--
+        End #between
+        ========================== -->
+
+
+        <!--
+        #scool
+        ========================== -->
+        <section id="scool">
+            <div class="container">
+                    <div class="section-title text-center wow fadeInUp">
+                        <h2>Обучение</h2>    
+                    </div>
+              <div class="about-us text-center wow fadeInDown">
+                <p>&nbsp;</p>
+                     <p>Школа Александра Поверина приглашает всех желающих обучаться гончарному мастерству.</p>
+                        <p>Курс рассчитан на два  месяца, занятия проводятся один раз в неделю по шесть часов по субботам или воскресениям.</p>
+                        <h3>&nbsp; </h3>
+                        <h3>Цена курса 45.000 рублей. </h3>
+                        <p>Расходы на инструмент, оборудование и обжиг включены в стоимость обучения (кроме глины). </p>
+                        <p>&nbsp;</p>
+                        <h3>Расписание занятий:                          </h3>
+                        <p>Набор студентов проходит 2 раза в год:</p>
+                        <p>&nbsp;</p>
+                        <p align="center">Курс 2 месяца: ноябрь-декабрь </p>
+                        <p align="center">Курс 2 месяца: февраль-март</p>
+                        <p>&nbsp;</p>
+</div>
+            </div>
+
+        </section>
+
+
+        <!--
+        #quotes
+        ========================== -->
+        <section id="quotes">
+            <div class="container">
+                <div class="row wow zoomIn">
+                    <div class="col-lg-12">
+                        <div class="call-to-action text-center">
+                            <p>"ЕСЛИ В ВАС «ПОГИБАЕТ» ВЕЛИКИЙ ГОНЧАР – НЕ ДАЙТЕ ЕМУ УМЕРЕТЬ ОКОНЧАТЕЛЬНО"</p>
+                            <span>Александр Поверин</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--
+        End #quotes
+        ========================== -->
+
+        <!--
+        End #scool
+        ========================== -->
+
+        <!--
+        #between
+        ========================== -->
+       <div class="special-plan text-center">
+         <p><a href="school.php">Подробности в разделе "Школа Александра Поверина"</a></p>
+         </div> 
+         <div class="container">
+            <div>
+                        <img src="img/b7.jpg" width="100%">
+          </div>
+    </div>
+
+        <!--
+        End #between
+        ========================== -->
+
+                
+  
+   <section id="news">
+            <div class="container">
+                <div class="row">
+
+
+                    <div class="section-title text-center wow fadeInUp">
+                        <h2>Новости</h2>    
+                        <p>&nbsp;</p>
+                    </div>
+					
+							<div class="col-md-3 col-sm-6 col-xs-9 wow fadeInUp">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">15 / 02 / 2026</span>
+                            </div>
+                            <ul class="text-center">
+                                <li><a href="http://bi-art.ru/img/mk.pdf"   target="_blank">      В газете «Московский Комсомолец» опубликовано интервью с заслуженным мастером-ремесленником Республики Крым, народным мастером Союза художников России, гончаром, художником-керамистом, лауреатом российских и международных конкурсов декоративно-прикладного искусства, руководителем творческой резиденции керамики «ЛЕПОТА» Павлом Ермоленко.
+В статье также рассказывается о нашем ежегодном фестивале керамики, о том, как сохраняются ремесленные традиции, о креативном туризме и о многом другом.  </a></li>
+
+                            </ul>
+                             
+                      </div>
+                    </div>	
+					
+					
+						<div class="col-md-3 col-sm-6 col-xs-9 wow fadeInUp">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">10 / 12 / 2025</span>
+                            </div>
+                            <ul class="text-center">
+                                <li><a href="https://www.souzgoncharov.ru/sib2025"   target="_blank">С 10 ноября 2025 г. по 26 января 2026 г. в г. Новосибирске проходит <strong>XXI Международный Сибирский фестиваль керамики</strong>, объединяющий мастеров, художников, преподавателей и студентов из России и других стран. В программе — выставки, конкурсы, лекции, мастер-классы, ярмарка и встречи с ведущими керамистами.</a></li>
+
+                            </ul>
+                             
+                      </div>
+                    </div>	
+					
+						  	<div class="col-md-3 col-sm-6 col-xs-9 wow fadeInUp">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">07 / 11 / 2025</span>
+                            </div>
+                            <ul class="text-center">
+                                <li><a href="https://www.souzgoncharov.ru/nash_dom"   target="_blank">Приглашаем Вас принять участие во Всероссийском молодежном форуме «Россия – наш дом»!
+Даты проведения: 22-27 ноября 2025 года
+
+Четыре насыщенных дня (23-26 ноября) в Иркутске, чтобы:
+• Глубже погрузиться в одно из направлений: Медиа, Туризм, Ремесло или Культуру.
+• Перенять еще больше успешных практик у лидеров со всей России.
+• Внести свой вклад в развитие страны и найти команду для будущих проектов. </a></li>
+
+                            </ul>
+                             
+                      </div>
+                    </div>	
+					
+					<div class="col-md-3 col-sm-6 col-xs-9 wow fadeInUp">
+                        <div class="pricing-table text-center">
+                            <div class="price">
+                                <span class="plan">21 / 05 / 2025</span>
+                            </div>
+                            <ul class="text-center">
+                                <li><a href="https://vk.com/wall-213081105_124"   target="_blank">Гончарная студия Будущего YarO совместно с Александром Повериным проводит научно-практический семинар на тему:
+Алгебра гармонии гончарных форм и ее практическое применение.
+Семинар предназначен для всех, кто не представляет уже свою жизнь без Гончарного искусства и намерен посвятить ему всю свою жизнь.
+17-19 июня c 17:00 до 20:30 Гончарная студия Будущего YarO. Место проведения: Москва, проспект Мира, 150 (м. ВДНХ). </a></li>
+
+                            </ul>
+                             
+                      </div>
+                    </div>	
+					
+					 
+					
+					
+					
+					   
+					 	
+					   
+					 
+
+                
+                <div class="row">
+                    <div class="col-md-12 wow fadeInUp">
+                        <div class="special-plan text-center">
+                            <p><a href="news.php">Все новости</a></p>
+                        </div>
+                    </div>
+                    
+                
+                </div>
+     </div>  
+     </div>
+    </section>
+                
+ 
+         <!--
+        #between
+        ========================== -->
+        <div class="container">
+            <div>
+                        <img src="img/b6.jpg" width="100%">
+          </div>
+    </div>
+
+        <!--
+        End #between
+        ========================== -->               
+<!--
+        #contacts
+        ========================== -->
+        <section id="contacts">
+            <div class="container">
+                <div class="row">
+
+                    <div class="section-title text-center wow fadeInDown">
+                        <h2>Контакты</h2>
+                        <p>Чтобы отправить нам сообщение или задать вопрос, заполните, пожалуйста, поля формы.</p>
+                        <p>&nbsp;</p>
+                    </div>
+                    
+                    <div class="col-md-8 col-sm-9 wow fadeInLeft">
+                        <div class="contact-form clearfix">
+                            <form action="send.php" method="post">
+                                <div class="input-field">
+                                    <input type="text" class="form-control" name="name" placeholder="Ваше имя" required="">
+                                </div>
+                                <div class="input-field">
+                                    <input type="email" class="form-control" name="contact" placeholder="Ваш E-mail" required="">
+                                </div>
+                                <div class="input-field message">
+                                    <textarea name="message" class="form-control" placeholder="Ваше сообщение" required=""></textarea>
+                                </div>
+                               
+
+                                <input type="submit" class="btn-blue pull-right" value="ОТПРАВИТЬ" id="msg-submit" />
+                            </form>
+                        </div> <!-- end .contact-form -->
+                    </div> <!-- .col-md-8 -->
+
+                    <div class="col-md-4 col-sm-3 wow fadeInRight">
+                        <div class="contact-details">
+                            <span>Телефон:</span>
+                            
+                            
+                            <p>+7 (903) 164-00-74<br>
+                            </p>
+                        </div> <!-- end .contact-details -->
+
+                        <div class="contact-details">
+                            <span>E-mail:</span>
+                            <p>poverin@bi-art.ru</p>
+                            
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t50.18;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=1 height=1><\/a>")//--></script><!--/LiveInternet-->
+
+
+                        </div> <!-- end .contact-details -->
+                    </div> <!-- .col-md-4 -->
+
+                </div>
+            </div>
+        </section>
+        <!--
+        End #contacts
+        ========================== -->
+        
+
+        <!--
+        #footer
+        ========================== -->
+    <footer id="footer" class="text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+
+                        <div class="footer-logo wow fadeInDown">
+                            <a href="http://bi-group.ru" target="_blank" ><img src="img/logo.png" alt="logo"></a>
+                      </div>
+
+                        <div class="footer-social wow fadeInUp">
+                            <h3>Поделиться в социальных сетях</h3>
+                            <ul class="text-center list-inline">
+                                <li><script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+<div class="pluso" data-background="transparent" data-options="medium,square,line,horizontal,nocounter,theme=02" data-services="vkontakte,odnoklassniki,facebook,twitter,google,moimir,email,linkedin,livejournal,print"></div></li>
+
+                            </ul>
+                        </div>
+                        
+
+
+
+                        <div class="copyright">
+                           
+                            <p>Создание и поддержка сайта <a href="http://bi-group.ru" target="_blank">Bi-group</a></p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!--
+        End #footer
+        ========================== -->
+
+        <!--
+        JavaScripts
+        ========================== -->
+        
+        <!-- main jQuery -->
+        <script src="js/vendor/jquery-1.11.1.min.js"></script>
+        <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+        <!-- jquery.nav -->
+    <script src="js/jquery.nav.js"></script>
+        <!-- Portfolio Filtering -->
+    <script src="js/jquery.mixitup.min.js"></script>
+        <!-- Fancybox -->
+    <script src="js/jquery.fancybox.pack.js"></script>
+        <!-- Parallax sections -->
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+        <!-- jQuery Appear -->
+    <script src="js/jquery.appear.js"></script>
+        <!-- countTo -->
+    <script src="js/jquery-countTo.js"></script>
+        <!-- owl carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+        <!-- WOW script -->
+    <script src="js/wow.min.js"></script>
+        <!-- theme custom scripts -->
+    <script src="js/main.js"></script>
+        
+        
+        
+
+
+
+ 
+        
+    </body>
+</html>

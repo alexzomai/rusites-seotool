@@ -1,0 +1,1806 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+
+<title>Продажа автомобилей иностранного и отечественного производства, автосалоны, отзывы автовладельцев, отзывы владельцев авто</title>
+
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+
+<meta content="Продажа автомобилей иностранного и отечественного производства,  Auto Sale.ru - новые и подержанные авто" name=keywords>
+<meta content="Auto Sale.ru - новые и подержанные авто  Продажа автомобилей иностранного и отечественного производства" name=description>
+
+<link href="https://www.auto-sale.ru/templates/default/style/styles.css" type=text/css rel=STYLESHEET>
+<link href="https://www.auto-sale.ru/templates/default/modules/autocat/style/styles.css" type=text/css rel=stylesheet>
+
+
+<script type="text/javascript">
+//<![CDATA[
+ window.load = [];
+ function init(){
+  if(!window.inited){ window.inited = 1; return;}
+  for(var index = 0; index < window.load.length; index++){ window.load[index]();}
+ }
+//]]>
+</script>
+
+
+<script type="text/javascript" defer="defer" src="https://www.auto-sale.ru/templates/default/js/ajax/jshttp.js"></script>
+<script type="text/javascript" defer="defer" src="https://www.auto-sale.ru/templates/default/js/prototype.js"></script>
+<script type="text/javascript" defer="defer" src="https://www.auto-sale.ru/templates/default/js/ajax/select.js"></script>
+<script type="text/javascript" defer="defer" src="https://www.auto-sale.ru/templates/default/js/script.js"></script>
+<script type="text/javascript" defer="defer" src="https://www.auto-sale.ru/templates/default/js/bookmarks.js"></script>
+
+</head>
+
+<body style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">
+
+
+<!-- начало верхней части -->
+
+ 
+<div class="head">
+ Для профессиональных продавцов автомобилей, желающих зарегистрировать свой автосалон и размещать неограниченно объявления о продаже автомобилей:
+ <a href="https://www.auto-sale.ru/manager/login.html">Войти</a> | <a href="https://www.auto-sale.ru/manager/register.html">Регистрация</a>
+</div>
+<div class="minwidth">
+ <div id="header" class="clearfix">
+<table width="100%" height="180" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="800" height="180" align="left" valign="baseline" background="https://www.auto-sale.ru/templates/default/images/auto-sale_fon.gif"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="800" height="180" title="покупка-продажа автомобилей">
+  <param name="movie" value="https://www.auto-sale.ru/templates/default/images/auto-sale_ru.swf" />
+  <param name="quality" value="high" />
+  <embed src="https://www.auto-sale.ru/templates/default/images/auto-sale_ru.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="800" height="180"></embed>
+</object>
+
+<!-- начало верхней части --
+<div id="banner">
+<a href="https://www.auto-sale.ru/contacts/"><img src="https://www.auto-sale.ru/templates/default/images/rekl.gif" width="468" height="60" alt=""></a>
+</div>
+-- конец верхней части -->
+
+</td>
+
+<td width="50%" height="180" align="left" valign="top" background="https://www.auto-sale.ru/templates/default/images/auto-sale_fon.gif">
+</td>
+</tr>
+</table>
+  </div>
+
+
+
+
+<div id="hmenu">
+  <ul class="clearfix">
+  <li><a href="https://www.auto-sale.ru/" title="Автомобили">Автомобили</a></li>
+  <li><a href="https://www.auto-sale.ru/salon/" title="Автосалоны">Автосалоны</a></li>
+  <li><a href="https://www.auto-sale.ru/news/" title="Новости">Новости</a></li>
+  <li><a href="https://www.auto-sale.ru/article/" title="Автомир - автоспорт, автотюнинг, выбор авто">Автомир</a></li>
+  <li><a href="https://www.auto-sale.ru/obzor/" title="Автообзоры, обзоры автомобилей, отзывы автовладельцев, отзывы владельцев авто">Отзывы автовладельцев, обзоры</a></li>
+  <li><a href="https://www.auto-sale.ru/partner/" title="Автосайты">Автосайты</a></li>
+  <li><a href="https://www.auto-sale.ru/board/" title="Доска объявлений">Доска объявлений</a></li>
+  <li><a href="https://www.auto-sale.ru/feedback/" title="Обратная связь">Обратная связь</a></li>
+  <li><noindex><nofollow><a href="http://www.autoship.ru/contacts/" title="Выкуп авто" target=_blank><font color="#ff0000">Выкуп авто</font></a></noindex></nofollow></li>
+ </ul>
+</div>
+
+<div class="head_sha"></div>
+<!-- конец верхней части -->
+
+<table border="0" width="100%">
+ <tr>
+  <td valign="top">
+   <tr>
+
+<!-- начала левой части -->
+    <td vAlign="top"></td>
+    <td vAlign="top"></td>
+<!-- конец левой части -->
+
+
+<!-- начала центра страници -->
+    <td width="100%" valign="top">
+
+
+
+<script type="text/javascript">
+window.load[window.load.length] = function(){
+
+    var regions = new DependingSelect('regions', {
+      language: 'name',
+      multiple: false,
+      invitingOptionName: '- все города -'
+    });
+    var cities = new DependingSelect('cities', {
+      language: 'name',
+      multiple: false,
+      invitingOptionName: '- все города региона -',
+      command: 'https://www.auto-sale.ru/ajax_autocat.php?act=geo'
+    });
+    cities.bindToParent( regions );
+
+    var marka = new DependingSelect('marka', {
+      language: 'name',
+      multiple: false,
+      invitingOptionName: '- все модели -'
+    });
+    var model = new DependingSelect('model', {
+      language: 'name',
+      multiple: false,
+      invitingOptionName: '- все модели марки -',
+      command: 'https://www.auto-sale.ru/ajax_autocat.php?act=cat'
+    });
+    model.bindToParent( marka );
+};
+</script>
+
+
+
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+
+ <td valign="top" width="25%">
+
+
+
+ <div>
+  <h1 class="title"><font color="#FF9933">Н</font>овые предложения</h1>
+ </div>
+
+<index>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#D3D3D3">
+
+ <tr>
+  <td align="center" width="100" valign="top" class="tdbody">
+   <a class="thumb_h" href="https://www.auto-sale.ru/41/e_240/2103.html"><img class="thumb_h" src="https://www.auto-sale.ru/upload/autocat/1_2103_0.jpg"></a>
+  </td>
+  <td bgcolor="#ffffff" valign="top" class="tdbody">
+   — <a class="title" href="https://www.auto-sale.ru/41/e_240/2103.html"><b>Mercedes-Benz E 240</b></a><br>
+   <b>Год выпуска:</b> 1997</b> г.<br>
+   <b>Пробег:</b> 340000&nbsp;км<br>
+   <b>Город:</b> Воскресенск<br>
+   <b>Цена:</b> 3 000 USD <br>
+   …
+  </td>
+ </tr>
+ <tr>
+  <td class="linetr" colspan="2"></td>
+ </tr>
+
+ <tr>
+  <td align="center" width="100" valign="top" class="tdbody">
+   <a class="thumb_h" href="https://www.auto-sale.ru/6/318/2102.html"><img class="thumb_h" src="https://www.auto-sale.ru/upload/autocat/1_2102_0.jpg"></a>
+  </td>
+  <td bgcolor="#ffffff" valign="top" class="tdbody">
+   — <a class="title" href="https://www.auto-sale.ru/6/318/2102.html"><b>BMW 318</b></a><br>
+   <b>Год выпуска:</b> 2000</b> г.<br>
+   <b>Пробег:</b> 185000&nbsp;км<br>
+   <b>Город:</b> Москва<br>
+   <b>Цена:</b> 4 000 USD <br>
+   …
+  </td>
+ </tr>
+ <tr>
+  <td class="linetr" colspan="2"></td>
+ </tr>
+
+ <tr>
+  <td align="center" width="100" valign="top" class="tdbody">
+   <a class="thumb_h" href="https://www.auto-sale.ru/26/h1/2100.html"><img src="https://www.auto-sale.ru/templates/default/images/nopic.jpg"></a>
+  </td>
+  <td bgcolor="#ffffff" valign="top" class="tdbody">
+   — <a class="title" href="https://www.auto-sale.ru/26/h1/2100.html"><b>Hyundai H-1</b></a><br>
+   <b>Год выпуска:</b> 2011</b> г.<br>
+   <b>Пробег:</b> 0&nbsp;км<br>
+   <b>Город:</b> тверь<br>
+   <b>Цена:</b> 29 900 USD <br>
+   …
+  </td>
+ </tr>
+ <tr>
+  <td class="linetr" colspan="2"></td>
+ </tr>
+
+ <tr>
+  <td align="center" width="100" valign="top" class="tdbody">
+   <a class="thumb_h" href="https://www.auto-sale.ru/6/x3/2099.html"><img class="thumb_h" src="https://www.auto-sale.ru/upload/autocat/1_2099_0.jpg"></a>
+  </td>
+  <td bgcolor="#ffffff" valign="top" class="tdbody">
+   — <a class="title" href="https://www.auto-sale.ru/6/x3/2099.html"><b>BMW X3</b></a><br>
+   <b>Год выпуска:</b> 2009</b> г.<br>
+   <b>Пробег:</b> 150&nbsp;км<br>
+   <b>Город:</b> Санкт-Петербург<br>
+   <b>Цена:</b> 32 188 USD <br>
+   …
+  </td>
+ </tr>
+ <tr>
+  <td class="linetr" colspan="2"></td>
+ </tr>
+
+ <tr>
+  <td align="center" width="100" valign="top" class="tdbody">
+   <a class="thumb_h" href="https://www.auto-sale.ru/20/scorpio/2098.html"><img class="thumb_h" src="https://www.auto-sale.ru/upload/autocat/1_2098_0.jpg"></a>
+  </td>
+  <td bgcolor="#ffffff" valign="top" class="tdbody">
+   — <a class="title" href="https://www.auto-sale.ru/20/scorpio/2098.html"><b>Ford Scorpio</b></a><br>
+   <b>Год выпуска:</b> 1989</b> г.<br>
+   <b>Пробег:</b> 127000&nbsp;км<br>
+   <b>Город:</b> Мишкино<br>
+   <b>Цена:</b> 1 200 USD <br>
+   …
+  </td>
+ </tr>
+ <tr>
+  <td class="linetr" colspan="2"></td>
+ </tr>
+
+ <tr>
+  <td align="center" width="100" valign="top" class="tdbody">
+   <a class="thumb_h" href="https://www.auto-sale.ru/64/passat/2061.html"><img src="https://www.auto-sale.ru/templates/default/images/nopic.jpg"></a>
+  </td>
+  <td bgcolor="#ffffff" valign="top" class="tdbody">
+   — <a class="title" href="https://www.auto-sale.ru/64/passat/2061.html"><b>Volkswagen Passat</b></a><br>
+   <b>Год выпуска:</b> 1990</b> г.<br>
+   <b>Пробег:</b> 318000&nbsp;км<br>
+   <b>Город:</b> Тюмень<br>
+   <b>Цена:</b> 4 600 USD <br>
+   …
+  </td>
+ </tr>
+ <tr>
+  <td class="linetr" colspan="2"></td>
+ </tr>
+</table>
+
+</index>
+
+<br>
+
+
+
+
+
+ <td valign="top" width="2%"></td>
+ <td valign="top" width="57%">
+
+<div class="welcomeBlock">
+
+ <div class="welcomeText">
+  <b>Добро пожаловать! <br><br> Автопортал Auto-Sale.ru приветствует Вас!</b> Здесь Вы можете подобрать подходящий автомобиль, а так же оставить объявление о продаже своего авто, быть в курсе последних новостей автомобильного мира, читать отзывы автовладельцев, обзоры новинок автомира, отзывы владельцев автомобилей.   Если Вы являетесь представителем автосалона то Вы можете зарегистрировать автосалон что позволит Вам удобнее работать с размещением объявлений о продаже авто, а так же публиковать новости автосалона, обзоры машин, объявления о сопутствующих товарах.
+ 
+ </div>
+
+</div>
+
+ <div>
+  <h1 align="left" class="title"><font color="#FF9933">А</font>втомобили</h1>
+ </div>
+
+   <div class="mark">
+    <ul class="markTitle">
+     <table width="95%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td valign="top">
+<li><a class="cat_home" href="https://www.auto-sale.ru/1/">Acura</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/2_1/">Alfa Romeo</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/3/">Aston Martin</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/4/">Audi</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/5_1/">Bentley</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/6/">BMW</a><span>(8)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/7/">Buick</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/9/">Cadillac</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/10/">Chery</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/11/">Chevrolet</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/12/">Chrysler</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/13/">Citroen</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/14/">Daewoo</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/15/">Daihatsu</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/16/">Derways</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/17/">Dodge</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/18/">Ferrari</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/19/">Fiat</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/20/">Ford</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/21_1/">GMC</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/22/">Great Wall</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/23/">Holden</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/24/">Honda</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/25_1/">Hummer</a><span>(0)</span></li>
+
+</td>
+<td valign="top">
+<li><a class="cat_home" href="https://www.auto-sale.ru/26/">Hyundai</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/27/">Infiniti</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/28/">Isuzu</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/29/">Jaguar</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/30/">Jeep</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/31/">Kia</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/32/">Lamborghini</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/33_1/">Lancia</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/34/">Land Rover</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/35/">Lexus</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/36/">Lincoln</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/37/">Lotus</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/38/">Maserati</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/39/">Maybach</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/40/">Mazda</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/41/">Mercedes-Benz</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/42/">Mercury</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/43/">MG</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/44/">Mini</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/45/">Mitsubishi</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/46/">Nissan</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/47/">Opel</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/48/">Peugeot</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/49/">Pontiac</a><span>(0)</span></li>
+
+</td>
+<td valign="top">
+<li><a class="cat_home" href="https://www.auto-sale.ru/50/">Porsche</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/51/">Renault</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/52/">Rover</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/53/">Saab</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/54/">Saturn</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/55/">Scion</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/56/">Seat</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/57_1/">Skoda</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/58/">Smart</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/59/">SsangYong</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/60/">Subaru</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/61/">Suzuki</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/62_1/">Toyota</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/63/">TVR</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/64/">Volkswagen</a><span>(2)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/65/">Volvo</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/66/">ВАЗ</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/67/">ВИС</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/68/">ГАЗ</a><span>(1)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/69/">ЗАЗ</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/70/">ЗИЛ</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/71/">ИЖ</a><span>(0)</span></li>
+<li><a class="cat_home" href="https://www.auto-sale.ru/72/">УАЗ</a><span>(1)</span></li>
+
+</td>
+</tr></table><br>
+    </ul>
+   </div>
+
+<noindex><nofollow>
+<table cellSpacing=0 cellPadding=0 width="100%" border="0" class="head_table">
+ <tr>
+  <td align=center>
+
+
+
+
+
+
+   </td>
+ </tr>
+</table>
+</noindex></nofollow>
+
+
+  </td>
+  </td>
+
+ </tr>
+</table>
+
+
+
+
+
+
+<form action="https://www.auto-sale.ru/search/?" method="post">
+<table border="0" width="100%">
+ <tr>
+
+  <td valign="top" width="49%">
+
+  <div>
+   <h1 class="title"><font color="#FF9933">П</font>оиск автомобиля</h1>
+  </div>
+
+   <div class="hsearch_form">
+   <table width="92%" cellpadding="3" cellspacing="1" class="s_table">
+    <tr class="s_tr">
+     <td class="s_td">Марка:</td>
+     <td class="s_td2">
+      <select size="1" class="select2" id="marka" name="marka_id" style="width:225px;">
+        <option value="null" selected="selected">- Выберите марку -</option>
+        <option value=1>Acura</option>
+<option value=2>Alfa Romeo</option>
+<option value=3>Aston Martin</option>
+<option value=4>Audi</option>
+<option value=5>Bentley</option>
+<option value=6>BMW</option>
+<option value=7>Buick</option>
+<option value=9>Cadillac</option>
+<option value=10>Chery</option>
+<option value=11>Chevrolet</option>
+<option value=12>Chrysler</option>
+<option value=13>Citroen</option>
+<option value=14>Daewoo</option>
+<option value=15>Daihatsu</option>
+<option value=16>Derways</option>
+<option value=17>Dodge</option>
+<option value=18>Ferrari</option>
+<option value=19>Fiat</option>
+<option value=20>Ford</option>
+<option value=21>GMC</option>
+<option value=22>Great Wall</option>
+<option value=23>Holden</option>
+<option value=24>Honda</option>
+<option value=25>Hummer</option>
+<option value=26>Hyundai</option>
+<option value=27>Infiniti</option>
+<option value=28>Isuzu</option>
+<option value=29>Jaguar</option>
+<option value=30>Jeep</option>
+<option value=31>Kia</option>
+<option value=32>Lamborghini</option>
+<option value=33>Lancia</option>
+<option value=34>Land Rover</option>
+<option value=35>Lexus</option>
+<option value=36>Lincoln</option>
+<option value=37>Lotus</option>
+<option value=38>Maserati</option>
+<option value=39>Maybach</option>
+<option value=40>Mazda</option>
+<option value=41>Mercedes-Benz</option>
+<option value=42>Mercury</option>
+<option value=43>MG</option>
+<option value=44>Mini</option>
+<option value=45>Mitsubishi</option>
+<option value=46>Nissan</option>
+<option value=47>Opel</option>
+<option value=48>Peugeot</option>
+<option value=49>Pontiac</option>
+<option value=50>Porsche</option>
+<option value=51>Renault</option>
+<option value=52>Rover</option>
+<option value=53>Saab</option>
+<option value=54>Saturn</option>
+<option value=55>Scion</option>
+<option value=56>Seat</option>
+<option value=57>Skoda</option>
+<option value=58>Smart</option>
+<option value=59>SsangYong</option>
+<option value=60>Subaru</option>
+<option value=61>Suzuki</option>
+<option value=62>Toyota</option>
+<option value=63>TVR</option>
+<option value=64>Volkswagen</option>
+<option value=65>Volvo</option>
+<option value=66>ВАЗ</option>
+<option value=67>ВИС</option>
+<option value=68>ГАЗ</option>
+<option value=69>ЗАЗ</option>
+<option value=70>ЗИЛ</option>
+<option value=71>ИЖ</option>
+<option value=72>УАЗ</option>
+
+      </select>
+     </td>
+    </tr>
+    <tr class="s_tr">
+     <td class="s_td">Модель:</td>
+     <td class="s_td2">
+      <select size="1" id="model" name="model_id" style="width:225px;">
+        <option value="0" selected="selected">- все модели марки -</option>
+        
+      </select>
+     </td>
+    </tr>
+
+    <tr class="s_tr">
+     <td class="s_td">Цена:</td>
+     <td class="s_td2">
+      от <input name="price_from" type="text" style="width: 55px;" value=""> до <input name="price_to" type="text" style="width: 55px;" value="">
+      <select style="width:65px;" name="cy">
+          <option value="1">руб.</option>
+   <option value="2">$</option>
+   <option value="3">€</option>
+
+      </select>
+     </td>
+    </tr>
+
+    <tr class="s_tr">
+     <td class="s_td">Регион:</td>
+     <td class="s_td2">
+      <select size="1" class="select2" id="regions" name="region_id" style="width:225px;">
+        <option value="null" selected="selected">- Выберите регион -</option>
+        <option value=1>Адыгея республика</option>
+<option value=2>Алтайский край</option>
+<option value=3>Амурская область</option>
+<option value=4>Архангельская область</option>
+<option value=5>Астраханская область</option>
+<option value=6>Башкортостан республика</option>
+<option value=7>Белгородская область</option>
+<option value=8>Брянская область</option>
+<option value=9>Бурятия республика</option>
+<option value=10>Владимирская область</option>
+<option value=11>Волгоградская область</option>
+<option value=12>Вологодская область</option>
+<option value=13>Воронежская область</option>
+<option value=14>Дагестан республика</option>
+<option value=15>Ивановская область</option>
+<option value=16>Ингушетия республика</option>
+<option value=17>Иркутская область</option>
+<option value=18>Кабардино-Балкарская республика</option>
+<option value=19>Калининградская область</option>
+<option value=20>Калмыкия республика</option>
+<option value=21>Калужская область</option>
+<option value=22>Камчатская область</option>
+<option value=23>Карачаево-Черкессия республика</option>
+<option value=24>Карелия республика</option>
+<option value=25>Кемеровская область</option>
+<option value=26>Кировская область</option>
+<option value=27>Коми республика</option>
+<option value=28>Костромская область</option>
+<option value=29>Краснодарский край</option>
+<option value=30>Красноярский край</option>
+<option value=31>Курганская область</option>
+<option value=32>Курская область</option>
+<option value=33>Ленинградская область</option>
+<option value=34>Липецкая область</option>
+<option value=35>Магаданская область</option>
+<option value=36>Марий Эл республика</option>
+<option value=37>Мордовия республика</option>
+<option value=38>Москва</option>
+<option value=39>Московская область</option>
+<option value=40>Мурманская область</option>
+<option value=41>Нижегородская область</option>
+<option value=42>Новгородская область</option>
+<option value=43>Новосибирская область</option>
+<option value=44>Омская область</option>
+<option value=45>Оренбургская область</option>
+<option value=46>Орловская область</option>
+<option value=47>Пензенская область</option>
+<option value=48>Пермская область</option>
+<option value=49>Приморский край</option>
+<option value=50>Псковская область</option>
+<option value=51>Ростовская область</option>
+<option value=52>Рязанская область</option>
+<option value=53>Самарская область</option>
+<option value=54>Санкт-Петербург</option>
+<option value=55>Саратовская область</option>
+<option value=56>Саха (Якутия)</option>
+<option value=57>Сахалинская область</option>
+<option value=58>Свердловская область</option>
+<option value=59>Осетия-Алания республика</option>
+<option value=60>Смоленская область</option>
+<option value=61>Ставропольский край</option>
+<option value=62>Тамбовская область</option>
+<option value=63>Татарстан республика</option>
+<option value=64>Тверская область</option>
+<option value=65>Томская область</option>
+<option value=66>Тульская область</option>
+<option value=67>Тыва республика</option>
+<option value=68>Тюменская область</option>
+<option value=69>Удмуртская республика</option>
+<option value=70>Ульяновская область</option>
+<option value=71>Хабаровский край</option>
+<option value=72>Хакасия республика</option>
+<option value=73>Челябинская область</option>
+<option value=74>Чеченская республика</option>
+<option value=75>Читинская область</option>
+<option value=76>Чувашская республика</option>
+<option value=77>Чукотский АО</option>
+<option value=78>Ярославская область</option>
+
+      </select>
+     </td>
+    </tr>
+    <tr class="s_tr">
+     <td class="s_td">Город:</td>
+     <td class="s_td2">
+      <select size="1" id="cities" name="city_id" style="width:225px;">
+        <option value="0" selected="selected">- все города региона -</option>
+        
+      </select>
+     </td>
+    </tr>
+    <tr class="s_tr">
+     <td class="s_td">Пробег:</td>
+     <td class="s_td2">от <input name="probeg_from" type="text" style="width: 55px;" value=""> до  <input name="probeg_to" type="text" style="width: 55px;" value=""> тыс.км</td>
+    </tr>
+    <tr class="s_tr">
+     <td class="s_td">Год:</td>
+     <td class="s_td2">
+      от <select size="1" name="year_from" style="width: 55px;">
+<option value=''>____</option>
+<option value=2026>2026</option>
+<option value=2025>2025</option>
+<option value=2024>2024</option>
+<option value=2023>2023</option>
+<option value=2022>2022</option>
+<option value=2021>2021</option>
+<option value=2020>2020</option>
+<option value=2019>2019</option>
+<option value=2018>2018</option>
+<option value=2017>2017</option>
+<option value=2016>2016</option>
+<option value=2015>2015</option>
+<option value=2014>2014</option>
+<option value=2013>2013</option>
+<option value=2012>2012</option>
+<option value=2011>2011</option>
+<option value=2010>2010</option>
+<option value=2009>2009</option>
+<option value=2008>2008</option>
+<option value=2007>2007</option>
+<option value=2006>2006</option>
+<option value=2005>2005</option>
+<option value=2004>2004</option>
+<option value=2003>2003</option>
+<option value=2002>2002</option>
+<option value=2001>2001</option>
+<option value=2000>2000</option>
+<option value=1999>1999</option>
+<option value=1998>1998</option>
+<option value=1997>1997</option>
+<option value=1996>1996</option>
+<option value=1995>1995</option>
+<option value=1994>1994</option>
+<option value=1993>1993</option>
+<option value=1992>1992</option>
+<option value=1991>1991</option>
+<option value=1990>1990</option>
+<option value=1989>1989</option>
+<option value=1988>1988</option>
+<option value=1987>1987</option>
+<option value=1986>1986</option>
+<option value=1985>1985</option>
+<option value=1984>1984</option>
+<option value=1983>1983</option>
+<option value=1982>1982</option>
+<option value=1981>1981</option>
+<option value=1980>1980</option>
+<option value=1979>1979</option>
+<option value=1978>1978</option>
+<option value=1977>1977</option>
+<option value=1976>1976</option>
+<option value=1975>1975</option>
+<option value=1974>1974</option>
+<option value=1973>1973</option>
+<option value=1972>1972</option>
+<option value=1971>1971</option>
+<option value=1970>1970</option>
+<option value=1969>1969</option>
+<option value=1968>1968</option>
+<option value=1967>1967</option>
+<option value=1966>1966</option>
+<option value=1965>1965</option>
+<option value=1964>1964</option>
+<option value=1963>1963</option>
+<option value=1962>1962</option>
+<option value=1961>1961</option>
+<option value=1960>1960</option>
+<option value=1959>1959</option>
+<option value=1958>1958</option>
+<option value=1957>1957</option>
+<option value=1956>1956</option>
+<option value=1955>1955</option>
+<option value=1954>1954</option>
+<option value=1953>1953</option>
+<option value=1952>1952</option>
+<option value=1951>1951</option>
+<option value=1950>1950</option>
+<option value=1949>1949</option>
+<option value=1948>1948</option>
+<option value=1947>1947</option>
+<option value=1946>1946</option>
+<option value=1945>1945</option>
+<option value=1944>1944</option>
+<option value=1943>1943</option>
+<option value=1942>1942</option>
+<option value=1941>1941</option>
+<option value=1940>1940</option>
+
+</select>
+      до <select size="1" name="year_to" style="width: 55px;">
+<option value=''>____</option>
+<option value=2026>2026</option>
+<option value=2025>2025</option>
+<option value=2024>2024</option>
+<option value=2023>2023</option>
+<option value=2022>2022</option>
+<option value=2021>2021</option>
+<option value=2020>2020</option>
+<option value=2019>2019</option>
+<option value=2018>2018</option>
+<option value=2017>2017</option>
+<option value=2016>2016</option>
+<option value=2015>2015</option>
+<option value=2014>2014</option>
+<option value=2013>2013</option>
+<option value=2012>2012</option>
+<option value=2011>2011</option>
+<option value=2010>2010</option>
+<option value=2009>2009</option>
+<option value=2008>2008</option>
+<option value=2007>2007</option>
+<option value=2006>2006</option>
+<option value=2005>2005</option>
+<option value=2004>2004</option>
+<option value=2003>2003</option>
+<option value=2002>2002</option>
+<option value=2001>2001</option>
+<option value=2000>2000</option>
+<option value=1999>1999</option>
+<option value=1998>1998</option>
+<option value=1997>1997</option>
+<option value=1996>1996</option>
+<option value=1995>1995</option>
+<option value=1994>1994</option>
+<option value=1993>1993</option>
+<option value=1992>1992</option>
+<option value=1991>1991</option>
+<option value=1990>1990</option>
+<option value=1989>1989</option>
+<option value=1988>1988</option>
+<option value=1987>1987</option>
+<option value=1986>1986</option>
+<option value=1985>1985</option>
+<option value=1984>1984</option>
+<option value=1983>1983</option>
+<option value=1982>1982</option>
+<option value=1981>1981</option>
+<option value=1980>1980</option>
+<option value=1979>1979</option>
+<option value=1978>1978</option>
+<option value=1977>1977</option>
+<option value=1976>1976</option>
+<option value=1975>1975</option>
+<option value=1974>1974</option>
+<option value=1973>1973</option>
+<option value=1972>1972</option>
+<option value=1971>1971</option>
+<option value=1970>1970</option>
+<option value=1969>1969</option>
+<option value=1968>1968</option>
+<option value=1967>1967</option>
+<option value=1966>1966</option>
+<option value=1965>1965</option>
+<option value=1964>1964</option>
+<option value=1963>1963</option>
+<option value=1962>1962</option>
+<option value=1961>1961</option>
+<option value=1960>1960</option>
+<option value=1959>1959</option>
+<option value=1958>1958</option>
+<option value=1957>1957</option>
+<option value=1956>1956</option>
+<option value=1955>1955</option>
+<option value=1954>1954</option>
+<option value=1953>1953</option>
+<option value=1952>1952</option>
+<option value=1951>1951</option>
+<option value=1950>1950</option>
+<option value=1949>1949</option>
+<option value=1948>1948</option>
+<option value=1947>1947</option>
+<option value=1946>1946</option>
+<option value=1945>1945</option>
+<option value=1944>1944</option>
+<option value=1943>1943</option>
+<option value=1942>1942</option>
+<option value=1941>1941</option>
+<option value=1940>1940</option>
+
+</select> выпуска
+     </td>
+    </tr>
+    <tr class="s_tr">
+     <td class="s_td"></td>
+     <td align="right">
+     + <a href="https://www.auto-sale.ru/search/">Расширенный поиск</a>
+      <input type="submit" class="buttom" value="Поиск">
+     </td>
+    </tr>
+   </table>
+   </div>
+   
+   <table border="0" width="100%">
+    <tr>
+     <td height="20"></td>
+    </tr>
+    <tr>
+     <td>
+
+  <div>
+   <h1 class="title"><font color="#FF9933">А</font>втомир</h1>
+  </div>
+
+<table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+  <td height="7" colspan="3"></td>
+ </tr>
+ <tr>
+  <td>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/2/"><font color="green" size="-1">Автоспорт</font></a> <font color="#cccccc"><sup>24</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/3/"><font color="green" size="-1">Автомобиль и закон</font></a> <font color="#cccccc"><sup>15</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/4/"><font color="green" size="-1">Выбор автомобиля</font></a> <font color="#cccccc"><sup>67</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/5/"><font color="green" size="-1">Ремонт и эксплуатация</font></a> <font color="#cccccc"><sup>48</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/8/"><font color="green" size="-1">Бизнес</font></a> <font color="#cccccc"><sup>42</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/9/"><font color="green" size="-1">Недвижимость</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/10/"><font color="green" size="-1">Производство</font></a> <font color="#cccccc"><sup>41</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/article/11/"><font color="green" size="-1">Дом и офис</font></a> <font color="#cccccc"><sup>7</sup></font>
+ </td>
+ </tr>
+  </td>
+ </tr>
+ <tr>
+  <td height="3" colspan="3"><hr size="1"></td>
+ </tr>
+</table>
+
+<!-- начало записей -->
+<div class="itemslist">
+ <dl>
+  <dt><span class="date">12 December 2017</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/article/5/">Ремонт и эксплуатация</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/article/258.html">Как выбрать зимнюю резину?</a></strong><br>
+   Наступила зима. Погода все чаще радует автолюбителей снежком, а по утрам на дорогах имеются обледенелые участки. Все это заставляет задуматься над выбором комплекта зимних шин. Купить шины можно всегда на сайте http://goodshina23.ru, а о том как это сделать правильно, поможет определиться эта статья.
+
+Какие …
+  </dd>
+  <dt><span class="date">29 October 2017</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/article/5/">Ремонт и эксплуатация</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/article/257.html">Какой вид цепей для колес автомобиля лучше?</a></strong><br>
+   Зима всегда доставляет водителям проблем. Снегопады и гололедица – сильно усложняют езду. А потому, каждый автовладелец должен знать самые основные правила безопасной езды и принять для этого самые радикальные меры. Существенно повысить проходимость транспортного средства помогут цепи для колес.
+
+Цепи …
+  </dd>
+  <dt><span class="date">29 October 2017</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/article/5/">Ремонт и эксплуатация</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/article/256.html">Кузовной ремонт транспортного средства: рихтовка кузова</a></strong><br>
+   Если машина попала в ДТП или кузов авто повредился по иной причине, то необходимо своевременно его отрихтовать. Рихтовка, сегодня, одна из самых распространенных услуг, предоставляемых на СТО. Она позволяет быстро исправить повреждения на автомобильном кузове.
+
+Но, к сожалению, не всегда получается выпрямить вмятину …
+  </dd>
+  <dt><span class="date">29 October 2017</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/article/4/">Выбор автомобиля</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/article/255.html">Достоинства и недостатки покупки подержанного автомобиля у официального дилера</a></strong><br>
+   В наше время автомобиль не столько роскошь, сколько потребность. Автомобильный рынок сегодня перенасыщен всевозможными предложениями, и от автосалонов и от частников. Так что, в процессе выбора подходящего авто, покупателю придется хорошенько подумать.
+
+Первым делом следует расставить приоритеты, а именно, какая …
+  </dd>
+ </dl>
+</div>
+<!-- конец записей -->
+
+  <div>
+   <h1 class="title"><font color="#FF9933">О</font>тзывы автовладельцев, обзоры</h1>
+  </div>
+
+<table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+  <td height="7" colspan="3"></td>
+ </tr>
+ <tr>
+  <td>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/7/" title="отзывы владельцев Acura"><font color="green" size="-1">Acura</font></a> <font color="#cccccc"><sup>4</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/8/" title="отзывы владельцев Alfa Romeo"><font color="green" size="-1">Alfa Romeo</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/10/" title="отзывы владельцев Audi"><font color="green" size="-1">Audi</font></a> <font color="#cccccc"><sup>13</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/12/" title="отзывы владельцев BMW"><font color="green" size="-1">BMW</font></a> <font color="#cccccc"><sup>10</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/14/" title="отзывы владельцев Cadillac"><font color="green" size="-1">Cadillac</font></a> <font color="#cccccc"><sup>3</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/15/" title="отзывы владельцев Chery"><font color="green" size="-1">Chery</font></a> <font color="#cccccc"><sup>2</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/16/" title="отзывы владельцев Chevrolet"><font color="green" size="-1">Chevrolet</font></a> <font color="#cccccc"><sup>7</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/17/" title="отзывы владельцев Chrysler"><font color="green" size="-1">Chrysler</font></a> <font color="#cccccc"><sup>2</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/18/" title="отзывы владельцев Citroen"><font color="green" size="-1">Citroen</font></a> <font color="#cccccc"><sup>6</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/19/" title="отзывы владельцев Daewoo"><font color="green" size="-1">Daewoo</font></a> <font color="#cccccc"><sup>6</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/20/" title="отзывы владельцев Daihatsu"><font color="green" size="-1">Daihatsu</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/21/" title="отзывы владельцев Derways"><font color="green" size="-1">Derways</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/22/" title="отзывы владельцев Dodge"><font color="green" size="-1">Dodge</font></a> <font color="#cccccc"><sup>2</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/23/" title="отзывы владельцев Ferrari"><font color="green" size="-1">Ferrari</font></a> <font color="#cccccc"><sup>3</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/24/" title="отзывы владельцев Fiat"><font color="green" size="-1">Fiat</font></a> <font color="#cccccc"><sup>5</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/25/" title="отзывы владельцев Ford"><font color="green" size="-1">Ford</font></a> <font color="#cccccc"><sup>11</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/27/" title="отзывы владельцев Great Wall"><font color="green" size="-1">Great Wall</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/28/" title="отзывы владельцев Holden"><font color="green" size="-1">Holden</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/29/" title="отзывы владельцев Honda"><font color="green" size="-1">Honda</font></a> <font color="#cccccc"><sup>7</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/30/" title="отзывы владельцев Hummer"><font color="green" size="-1">Hummer</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/31/" title="отзывы владельцев Hyundai"><font color="green" size="-1">Hyundai</font></a> <font color="#cccccc"><sup>15</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/32/" title="отзывы владельцев Infiniti"><font color="green" size="-1">Infiniti</font></a> <font color="#cccccc"><sup>5</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/33/" title="отзывы владельцев Isuzu"><font color="green" size="-1">Isuzu</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/34/" title="отзывы владельцев Jaguar"><font color="green" size="-1">Jaguar</font></a> <font color="#cccccc"><sup>4</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/35/" title="отзывы владельцев Jeep"><font color="green" size="-1">Jeep</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/36/" title="отзывы владельцев Kia"><font color="green" size="-1">Kia</font></a> <font color="#cccccc"><sup>16</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/37/" title="отзывы владельцев Lamborghini"><font color="green" size="-1">Lamborghini</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/39/" title="отзывы владельцев Land Rover"><font color="green" size="-1">Land Rover</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/40/" title="отзывы владельцев Lexus"><font color="green" size="-1">Lexus</font></a> <font color="#cccccc"><sup>4</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/41/" title="отзывы владельцев Lincoln"><font color="green" size="-1">Lincoln</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/43/" title="отзывы владельцев Maserati"><font color="green" size="-1">Maserati</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/44/" title="отзывы владельцев Maybach"><font color="green" size="-1">Maybach</font></a> <font color="#cccccc"><sup>2</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/45/" title="отзывы владельцев Mazda"><font color="green" size="-1">Mazda</font></a> <font color="#cccccc"><sup>12</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/46/" title="отзывы владельцев Mercedes-Benz"><font color="green" size="-1">Mercedes-Benz</font></a> <font color="#cccccc"><sup>8</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/47/" title="отзывы владельцев Mercury"><font color="green" size="-1">Mercury</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/48/" title="отзывы владельцев MG"><font color="green" size="-1">MG</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/49/" title="отзывы владельцев Mini"><font color="green" size="-1">Mini</font></a> <font color="#cccccc"><sup>2</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/50/" title="отзывы владельцев Mitsubishi"><font color="green" size="-1">Mitsubishi</font></a> <font color="#cccccc"><sup>7</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/51/" title="отзывы владельцев Nissan"><font color="green" size="-1">Nissan</font></a> <font color="#cccccc"><sup>31</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/52/" title="отзывы владельцев Opel"><font color="green" size="-1">Opel</font></a> <font color="#cccccc"><sup>11</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/53/" title="отзывы владельцев Peugeot"><font color="green" size="-1">Peugeot</font></a> <font color="#cccccc"><sup>8</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/54/" title="отзывы владельцев Pontiac"><font color="green" size="-1">Pontiac</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/55/" title="отзывы владельцев Porsche"><font color="green" size="-1">Porsche</font></a> <font color="#cccccc"><sup>3</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/56/" title="отзывы владельцев Renault"><font color="green" size="-1">Renault</font></a> <font color="#cccccc"><sup>9</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/57/" title="отзывы владельцев Rover"><font color="green" size="-1">Rover</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/58/" title="отзывы владельцев Saab"><font color="green" size="-1">Saab</font></a> <font color="#cccccc"><sup>2</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/62/" title="отзывы владельцев Skoda"><font color="green" size="-1">Skoda</font></a> <font color="#cccccc"><sup>6</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/64/" title="отзывы владельцев SsangYong"><font color="green" size="-1">SsangYong</font></a> <font color="#cccccc"><sup>4</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/65/" title="отзывы владельцев Subaru"><font color="green" size="-1">Subaru</font></a> <font color="#cccccc"><sup>3</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/66/" title="отзывы владельцев Suzuki"><font color="green" size="-1">Suzuki</font></a> <font color="#cccccc"><sup>3</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/67/" title="отзывы владельцев Toyota"><font color="green" size="-1">Toyota</font></a> <font color="#cccccc"><sup>14</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/69/" title="отзывы владельцев Volkswagen"><font color="green" size="-1">Volkswagen</font></a> <font color="#cccccc"><sup>8</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/70/" title="отзывы владельцев Volvo"><font color="green" size="-1">Volvo</font></a> <font color="#cccccc"><sup>6</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/71/" title="отзывы владельцев ВАЗ"><font color="green" size="-1">ВАЗ</font></a> <font color="#cccccc"><sup>22</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/73/" title="отзывы владельцев ГАЗ"><font color="green" size="-1">ГАЗ</font></a> <font color="#cccccc"><sup>3</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/obzor/75/" title="отзывы владельцев ЗИЛ"><font color="green" size="-1">ЗИЛ</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ </tr>
+  </td>
+ </tr>
+ <tr>
+  <td height="3" colspan="3"><hr size="1"></td>
+ </tr>
+</table>
+
+<!-- начало записей -->
+<div class="itemslist">
+ <dl>
+  <dt><span class="date">23 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/obzor/67/">Toyota</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/obzor/299.html">Toyota Gaia 1998</a></strong><br>
+   Toyota Gaia – это семейный минивен, который имеет достаточно большое количество преимуществ. Не каждый автомобиль способен на такое, тем более, с учетом того, что этот автомобиль имеет много места внутри, а точнее в салоне. Данный автомобиль действительно практически совершенный. Он достаточно комфортабельный, который …
+  </dd>
+  <dt><span class="date">23 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/obzor/51/">Nissan</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/obzor/298.html">Nissan Largo 1998</a></strong><br>
+   Ниссан Ларго служит мне уже больше трех лет и пока у нас с ним теплая дружба. Приобретал именно этот минивэн, честно сказать, из-за скромного бюджета. Конечно же, когда появится возможность, сразу приобрету что-то более стильное и практичное, но в целом и этот автомобиль меня устраивает. Скорее всего, если будет …
+  </dd>
+  <dt><span class="date">17 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/obzor/29/">Honda</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/obzor/297.html">Honda Vamos 2003</a></strong><br>
+   Хонда Вамос была куплена мной, когда нам уже окончательно надоело ютиться в небольшом седане и для своих частых путешествий, мы с женой решили приобрести компактный минивэн. Слишком большой автомобиль нам был не нужен, так как путешествуем мы зачастую налегке, да и в городе пользоваться огромной машиной не всегда …
+  </dd>
+  <dt><span class="date">17 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/obzor/36/">Kia</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/obzor/296.html">Kia Sedona</a></strong><br>
+   Сразу скажу о том, что салон и внешний вид Седона очень красивый, и не по деньгам, модель смотрится очень дорого. Довольно мягкая обивка сидений, при этом она легко пачкается и царапается, отсюда можно сделать вывод того, что даже если машина и красивая, она не практичная и не удобная. 
+Также можно отметить то, что в …
+  </dd>
+ </dl>
+</div>
+<!-- конец записей -->
+
+     </td>
+    </tr>
+   </table>
+
+   </form>
+
+  <td valign="top" width="49%">
+
+  <div>
+   <h1 class="title"><font color="#FF9933">Н</font>овости</h1>
+  </div>
+
+<table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+  <td height="7" colspan="3"></td>
+ </tr>
+ <tr>
+  <td>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/news/avtovystavki/"><font color="green" size="-1">Автовыставки</font></a> <font color="#cccccc"><sup>25</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/news/avtosport/"><font color="green" size="-1">Автоспорт</font></a> <font color="#cccccc"><sup>10</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/news/rossijjskie_novosti/"><font color="green" size="-1">Российские новости</font></a> <font color="#cccccc"><sup>33</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/news/novosti_izza_rubezha/"><font color="green" size="-1">Новости из-за рубежа</font></a> <font color="#cccccc"><sup>80</sup></font>
+ </td>
+ </tr>
+  </td>
+ </tr>
+ <tr>
+  <td height="3" colspan="3"><hr size="1"></td>
+ </tr>
+</table>
+
+<!-- начало записей -->
+<div class="itemslist">
+ <dl>
+  <dt><span class="date">29 October 2017</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/238.html">Езда по бездорожью</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/news/mini/1_238.jpg" alt="Езда по бездорожью" align="left" hspace="5" vspace="5" border="0">   Каждому водителю, независимо от того как он водит автомобиль, приходится ездить по разным дорогам. Иногда, ее, как таковой, может и не быть. Жители больших городов, выезжающим за его пределы, запросто могут столкнуться с бездорожьем: ямами, лужами и ухабами. Любое из таких препятствий подстерегает водителя, который не знает, как надо ездить по проселочной дороге.
+
+Часто транспортному средству мешает преодолеть препятствие: низкий клиренс; плохое сцепление колёс с дорогой; недостаточная защищённость узлов от проникновения влаги; отсутствие достаточной …
+  </dd>
+  <dt><span class="date">29 October 2017</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/237.html">Есть ли смысл ставить ГБО на автомобиль?</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/news/mini/1_237.jpg" alt="Есть ли смысл ставить ГБО на автомобиль?" align="left" hspace="5" vspace="5" border="0">   Бензин все дорожает и дорожает, и автомобилисты уже боятся заезжать на АЗС. Именно поэтому, одни из них задумываются о смене своего столь прожорливого «железного коня», а другие решают перевести его на газ. Именно об этом в данной статье и пойдет речь.
+
+Разговоров и суждений о ГБО много. Интернет «богат» страшилками о взорвавшихся машинах, улетевших в нирвану владельцах автомобилей, нюхнувших газа, и пр,. Однако тех, кто встает на защиту альтернативного, такому как бензин, виду топлива, тоже не очень мало. Так что, следует попробовать посмотреть на …
+  </dd>
+  <dt><span class="date">10 February 2015</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/novosti_izza_rubezha/">Новости из-за рубежа</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/236.html">Seat обновит "горячий" Leon SC Cupra 280</a></strong><br>
+      Для тех, кто живет Нюрбургрингом
+"Сеат" представит на рынок  Великобритании новый и особый Leon SC Cupra 280 Ultimate Sub8 Performance Pack — это стандартный для начала хот-хэтч с набором не просто фирменных, но и  технических апгрейдов, который представлен,  как полагается для таких авто, с говорящей приставкой. 
+По сути же, данная модель  Леон, которая  в прошлом году и установила переднеприводный рекорд Нюрбургринга.
+Cupra-версия хэтча, мы, в свою очередь, напомним, представлена на знаменитом треке, длительностью в 8 минут — она прошла круг лишь за …
+  </dd>
+  <dt><span class="date">01 April 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/235.html">В центре столицы появятся бесплатные парковки</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/news/mini/1_235.jpg" alt="В центре столицы появятся бесплатные парковки" align="left" hspace="5" vspace="5" border="0">   Мэрия Москвы назвала первые 46 социальных учреждений в центре столицы с бесплатной парковкой. Соответствующая информация обнародована Центром организации дорожного движения.
+Более половины адресов в списке – православные храмы. Так, бесплатно поставить машину можно будет около Высоко-Петровского монастыря, у храма Успения Пресвятой Богородицы, у храма Святителя Николая Чудотворца и других. Стоянка около Храма Христа Спасителя останется платной.
+В список социальных учреждений с бесплатной парковкой вошли поликлиники и больницы. Среди них поликлиника МВД …
+  </dd>
+  <dt><span class="date">31 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/234.html">Московские парковки превратят в комплексные центры ТО автомобилей</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/news/mini/1_234.jpg" alt="Московские парковки превратят в комплексные центры ТО автомобилей" align="left" hspace="5" vspace="5" border="0">   Столичные чиновники намерены организовать автомойки и сервисные мастерские на перехватывающих парковках. В этом случае водители смогут на месте помыть автомобиль, заказать шиномонтажные работы или мелкий ремонт. Соответствующей информацией с журналистами поделился советник начальника службы эксплуатации парковок Московского метрополитена Надир Мамедов.
+Предполагается, что СТО и мойки разместят в мобильных помещениях. При необходимости сервисные службы смогут оперативно сменить место своего расположения. В планах мэрии – организация такой работы, когда …
+  </dd>
+  <dt><span class="date">28 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/233.html">Обновленная Versa была представлена в России</a></strong><br>
+      Недавно Toyota объявила о том, что в ближайшем времени на авторынке России начнутся продажи обновленного автомобиля Versa. 
+Автомобиль Versa получил огромное количество кардинальных изменений как в оснащении, так и в интерьере и экстерьере. Внешний вид обновленного автомобиля стал более выразительным, благодаря новым 16-дюймовым колесным дискам, которые доступны в двух комплектациях автомобиля Versa: «Элеганс» и «Комфорт Плюс». Автолюбителей очень привлекают новые цветовые решение кузова. Эффектный и оригинальный цвет «бронзовый металлик», который …
+  </dd>
+  <dt><span class="date">26 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/232.html">Процедуру прохождения техосмотра в России могут ужесточить</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/news/mini/1_232.jpg" alt="Процедуру прохождения техосмотра в России могут ужесточить" align="left" hspace="5" vspace="5" border="0">   Представители Российского союза автостраховщиков предложили ужесточить порядок прохождения технического осмотра транспортных средств. Соответствующие поправки в законодательство могут быть утверждены уже в этом году.
+Основной целью нового законопроекта является борьба с «серыми» схемами получения диагностических карт. Авторы поправок предлагают ввести жесткие нормы по оснащению технической базы операторов техосмотра. По мнению РСА, это исключит возможность продажи диагностических карт без фактической проверки состояния автомобиля.
+В случае принятия …
+  </dd>
+  <dt><span class="date">18 March 2014</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/news/rossijjskie_novosti/">Российские новости</a></dt>
+  <dd>
+   <strong><a href="https://www.auto-sale.ru/news/231.html">Страховщики: парктроники не гарантируют безопасную езду задним ходом</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/news/mini/1_231.jpg" alt="Страховщики: парктроники не гарантируют безопасную езду задним ходом" align="left" hspace="5" vspace="5" border="0">   Страховой институт дорожной безопасности США опубликовал результаты исследований, целью которых было определить, какие устройства обеспечивают наибольшую безопасность при езде автомобиля задним ходом. Результаты обескураживают – ни парктроник, ни видеокамера заднего вида не гарантируют отсутствия аварийных ситуаций на дороге. 
+Эксперты IIHS провели два теста. Первый проходил в закрытом помещении. В ходе испытания выявлялись «мертвые зоны». В качестве препятствий использовались столбы высотой с маленького ребенка. Самой опасной зоной было признано …
+  </dd>
+ </dl>
+</div>
+<!-- конец записей -->
+
+
+
+
+
+  <div>
+   <h1 class="title"><font color="#FF9933">А</font>втосайты</h1>
+  </div>
+
+<table valign="top" border="0" cellpadding="0" cellspacing="0" width="100%">
+ <tr>
+  <td height="7" colspan="3"></td>
+ </tr>
+ <tr>
+  <td>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avto_masla/"><font color="green" size="-1">Авто масла</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avtomagaziny/"><font color="green" size="-1">Авто-магазины</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avtokosmetika/"><font color="green" size="-1">Автокосметика</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avto_kluby/"><font color="green" size="-1">Авто клубы</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/aksessuary/"><font color="green" size="-1">Аксессуары</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avtozapchasti/"><font color="green" size="-1">Автозапчасти</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avtobiznes/"><font color="green" size="-1">Автобизнес</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avto_sport/"><font color="green" size="-1">Авто спорт</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/avto_forumy/"><font color="green" size="-1">Авто форумы</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/zakonypdd/"><font color="green" size="-1">Законы-ПДД</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/kupljaprodazha_avto/"><font color="green" size="-1">Купля-продажа авто</font></a> <font color="#cccccc"><sup>1</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/motocikly/"><font color="green" size="-1">Мотоциклы</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/obuchenie/"><font color="green" size="-1">Обучение</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/onlajjn_izdanija/"><font color="green" size="-1">Онлайн издания</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+ <tr>
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/servisyuslugi/"><font color="green" size="-1">Сервисы-услуги</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ 
+ 
+ <td valign="top">
+  · <a href="https://www.auto-sale.ru/partner/strakhovanie/"><font color="green" size="-1">Страхование</font></a> <font color="#cccccc"><sup>0</sup></font>
+ </td>
+ </tr>
+  </td>
+ </tr>
+ <tr>
+  <td height="3" colspan="3"><hr size="1"></td>
+ </tr>
+</table>
+
+
+<div class="itemslist">
+ <dl>
+   <dt><span class="date">13, December 2007</span> <span class="sep">|</span> <a class="list_1" href="https://www.auto-sale.ru/partner/kupljaprodazha_avto/">Купля-продажа авто</a></dt>
+   <dd>
+   <strong><a href="https://www.auto-sale.ru/partner/1.html">AutoStock - легковые автомобили от автосалонов и частных лиц</a></strong><br>
+   <img src="https://www.auto-sale.ru/upload/links/mini/1.jpg" alt="" align="left" hspace="5" vspace="5">
+   AutoStock - легковые автомобили от автосалонов и частных лиц - здесь вы можете разместить на продажу свое авто, читать автоновости, обзоры новых машин, а так же найдете массу полезной для автолюбителя информации. …
+  </dd>
+ </dl>
+</div>
+
+
+
+
+
+
+
+
+  </td>
+
+ </tr>
+</table>
+
+
+
+
+
+
+
+
+<br>
+
+    </td>
+<!-- конец центра страници -->
+
+
+<!-- начала правой части -->
+    <td vAlign=top>
+     
+
+<!-- начала основные разделы -->
+<table class="boxMenu" cellpadding="10" cellspacing="0" width="100%">
+ <tr>
+  <td>
+<div class="boxMenuHeader">Разделы</div>
+<div class="lineboxMenuHeader"></div>
+  <div>· <a href="https://www.auto-sale.ru/">Автомобили</a></div>
+  <div>· <a href="https://www.auto-sale.ru/salon/">Автосалоны</a></div>
+  <div>· <a href="https://www.auto-sale.ru/news/">Новости</a></div>
+  <div>· <a href="https://www.auto-sale.ru/article/">Автомир</a></div>
+  <div>· <a href="https://www.auto-sale.ru/obzor/">Обзоры</a></div>
+  <div>· <a href="https://www.auto-sale.ru/partner/">Автосайты</a></div>
+  <div>· <a href="https://www.auto-sale.ru/board/">Объявления</a></div>
+  <div>· <a href="https://www.auto-sale.ru/feedback/">Связь с нами</a></div>
+<div class="lineboxMenu"></div>
+   <div>Автомобили:</div>
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/geo/">Регионы</a></div>
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/add.html">Добавить авто</a></div>
+   <!-- <div> &nbsp; —  <a href="https://www.auto-sale.ru/settings/cities/">Выбор города</a></div> -->
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/search/">Расширенный поиск</a></div>
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/rss-list.html">RSS-каналы</a></div>
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/delete.html">Удалить объявление</a></div>
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/update.html">Продлить объявление</a></div>
+   <div> &nbsp; —  <a href="https://www.auto-sale.ru/settings/">Настройки просмотра</a></div>
+<div class="lineboxMenu"></div>
+  </td>
+ </tr>
+</table>
+<!-- конец основные разделы -->
+
+
+<table class="boxMenu" cellpadding="10" cellspacing="0" width="100%">
+ <tr>
+  <td>
+<div class="boxMenuHeader">Для автосалонов</div>
+<div class="lineboxMenuHeader"></div>
+
+<form method="post" action="https://www.auto-sale.ru/manager/login.html">
+<table cellpadding="2" width="100%" cellspacing="0" class="account">
+
+ <tr class="tr">
+  <td>Логин:</td>
+  <td><input name="user_login" type="text" size="18" class="input"></td>
+ </tr>
+
+ <tr class="tr">
+  <td>Пароль:</td>
+  <td><input name="user_password" type="text" size="18" class="input"></td>
+ </tr>
+
+ <tr class="tr">
+  <td colspan="2" class="td2"><input type="checkbox" name="rememberme" value="1"> Запомнить меня?</td>
+ </tr>
+
+
+ <tr class="tr">
+  <td colspan="2" class="td4"><input class="button" type="submit" value="Авторизоваться"></td>
+ </tr>
+
+ <tr class="tr">
+  <td colspan="2" class="td5">
+    — <a href="https://www.auto-sale.ru/manager/register.html">Зарегистрироваться</a><br>
+    — <a href="https://www.auto-sale.ru/manager/recover.html">Напомнить пароль</a>
+  </td>
+ </tr>
+
+</table>
+</form>
+
+  </td>
+ </tr>
+</table>
+
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>
+<div style="height: 10px;"></div>
+
+
+<span class="lnk">
+ </span>
+
+<div style="height: 10px;"></div>
+
+<!-- начала города -->
+<table class="boxMenu" cellpadding="10" cellspacing="0" width="100%">
+ <tr>
+  <td>
+<div class="boxMenuHeader">Просмотр по городам</div>
+<div class="lineboxMenuHeader"></div>
+  · <a class="city_side" href="https://www.auto-sale.ru/settings/city/?id=977">Железнодорожный</a><br>
+  · <a class="city_side" href="https://www.auto-sale.ru/settings/city/?id=963">Москва</a><br>
+  · <a class="city_side" href="https://www.auto-sale.ru/settings/city/?id=1469">Санкт-Петербург</a><br>
+ <div class="lineboxMenu"></div>
+ <a class="city_side" href="https://www.auto-sale.ru/geo/">Все города …</a>
+  </td>
+ </tr>
+</table>
+
+<!-- конец города -->
+
+<!-- Реклама -->
+<table class="boxMenu" cellpadding="10" cellspacing="0" width="100%">
+ <tr>
+  <td>
+<div class="boxMenuHeader">Реклама</div>
+<div class="lineboxMenuHeader"></div>
+ 
+
+<!-- Яндекс.Директ -->
+<script type="text/javascript"><!--
+yandex_partner_id = 136512;
+yandex_site_charset = 'windows-1251';
+yandex_ad_format = 'direct';
+yandex_font_size = 1;
+yandex_direct_type = 'vertical';
+yandex_direct_border_type = 'ad';
+yandex_direct_limit = 9;
+yandex_direct_bg_color = 'FFFFFF';
+yandex_direct_border_color = 'FBE5C0';
+yandex_direct_header_bg_color = 'FEEAC7';
+yandex_direct_title_color = 'CC3333';
+yandex_direct_url_color = '006600';
+yandex_direct_all_color = '999999';
+yandex_direct_text_color = '000000';
+yandex_direct_site_bg_color = 'FFFFFF';
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/resource/context.js?rnd=' + Math.round(Math.random() * 100000) + '"></sc'+'ript>');
+//--></script>
+
+
+
+  </td>
+ </tr>
+</table>
+
+<!-- конец реклама -->
+
+
+<table class="boxMenu" cellpadding="10" cellspacing="0" width="100%">
+ <tr>
+  <td>
+<div class="boxMenuHeader">Курсы валют</div>
+<div class="lineboxMenuHeader"></div>
+
+<table class="prog_val" cellpadding="2" width="100%" cellspacing="0">
+ <tr class="head">
+  <td>Валюта</td>
+  <td> &nbsp; &nbsp; &nbsp; Курс</td>
+  <td align="right">-/+</td>
+ </tr>
+ <tr class="curr">
+  <td>USD/RUB</td>
+  <td class="al"><b><span title="тенденция: ">30.96</span></b></td>
+  <td align="right"><span><font color="red"></font></span></td>
+ </tr>
+ <tr class="curr">
+  <td>EUR/RUB</td>
+  <td class="al"><b><span title="тенденция: ">40.12</span></b></td>
+  <td align="right"><span><font color="red"></font></span></td>
+ </tr>
+</table>
+  </td>
+ </tr>
+</table>
+
+
+
+<table class="boxMenu" cellpadding="10" cellspacing="0" width="100%">
+ <tr>
+  <td>
+<div class="boxMenuHeader">Характеристики автомобилей</div>
+<div class="lineboxMenuHeader"></div>
+
+<table class="prog_val" cellpadding="2" width="100%" cellspacing="0">
+ <t>
+  <td>
+
+ <li><a href="https://cartechnic.ru/brands" target="_blank">Характеристики авто:</a></li>
+ <li><a href="https://cartechnic.ru/vaz" target="_blank">LADA</a></li>
+ <li><a href="https://cartechnic.ru/audi" target="_blank">Audi</a></li>
+ <li><a href="https://cartechnic.ru/bmw" target="_blank">BMW</a></li>
+ <li><a href="https://cartechnic.ru/chery" target="_blank">Chery</a></li>
+ <li><a href="https://cartechnic.ru/chevrolet" target="_blank">Chevrolet</a></li>
+ <li><a href="https://cartechnic.ru/citroen" target="_blank">Citroen</a></li>
+ <li><a href="https://cartechnic.ru/daewoo" target="_blank">Daewoo</a></li>
+ <li><a href="https://cartechnic.ru/ford" target="_blank">Ford</a></li>
+ <li><a href="https://cartechnic.ru/honda" target="_blank">Honda</a></li>
+ <li><a href="https://cartechnic.ru/hyundai" target="_blank">Hyundai</a></li>
+ <li><a href="https://cartechnic.ru/infiniti" target="_blank">Infiniti</a></li>
+ <li><a href="https://cartechnic.ru/jeep" target="_blank">Jeep</a></li>
+ <li><a href="https://cartechnic.ru/kia" target="_blank">Kia</a></li>
+ <li><a href="https://cartechnic.ru/land_rover" target="_blank">Land Rover</a></li>
+ <li><a href="https://cartechnic.ru/lexus" target="_blank">Lexus</a></li>
+ <li><a href="https://cartechnic.ru/mazda" target="_blank">Mazda</a></li>
+ <li><a href="https://cartechnic.ru/mercedes-benz" target="_blank">Mercedes-Benz</a></li>
+ <li><a href="https://cartechnic.ru/mitsubishi" target="_blank">Mitsubishi</a></li>
+ <li><a href="https://cartechnic.ru/nissan" target="_blank">Nissan</a></li>
+ <li><a href="https://cartechnic.ru/opel" target="_blank">Opel</a></li>
+ <li><a href="https://cartechnic.ru/peugeot" target="_blank">Peugeot</a></li>
+ <li><a href="https://cartechnic.ru/porsche" target="_blank">Porsche</a></li>
+ <li><a href="https://cartechnic.ru/renault" target="_blank">Renault</a></li>
+ <li><a href="https://cartechnic.ru/skoda" target="_blank">Skoda</a></li>
+ <li><a href="https://cartechnic.ru/ssangyong" target="_blank">SsangYong</a></li>
+ <li><a href="https://cartechnic.ru/subaru" target="_blank">Subaru</a></li>
+ <li><a href="https://cartechnic.ru/suzuki" target="_blank">Suzuki</a></li>
+ <li><a href="https://cartechnic.ru/toyota" target="_blank">Toyota</a></li>
+ <li><a href="https://cartechnic.ru/volkswagen" target="_blank">Volkswagen</a></li>
+ <li><a href="https://cartechnic.ru/volvo" target="_blank">Volvo</a></li>
+ <li><a href="https://cartechnic.ru/gaz" target="_blank">ГАЗ</a></li>
+ <li><a href="https://cartechnic.ru/uaz" target="_blank">УАЗ</a></li>
+
+ </td>
+ </tr>
+</table>
+  </td>
+ </tr>
+</table>
+     <div style="width:210"></div>
+    </td>
+    <td vAlign="top" width="2%"></td>
+<!-- конец правой части -->
+
+
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+
+
+
+      <table cellpadding="0" cellspacing="0">
+       <tr>
+        <td width="100%" align="center">
+
+
+
+
+
+
+        </td>
+       </tr>
+       <tr>
+      </table>
+
+
+<!-- начала подвала -->
+  <table cellSpacing="0" cellPadding="0" width="100%" border="0" class="footer">
+   <tr valign="top">
+
+    <td style="padding-left: 30px" valign="top"><p class="smalltext" style="color:#000000; margin-bottom: 8px">поиск:</p>
+     <form action="https://www.auto-sale.ru/search/?" style="margin-top:0px; margin-bottom:0px" method="post">
+      <table cellpadding="0" cellspacing="0">
+       <tr>
+        <td width="60%"><input name="q" value="" size="25" maxlength="50" style="border: 1px solid #7E7E7E; width:160px"></td>
+        <td width="40%" align="left" style="padding-left: 10px" valign="top"><input type="image" src="https://www.auto-sale.ru/templates/default/images/search2.gif"></td>
+       </tr>
+       <tr>
+      </table>
+     </form>
+
+    <br><br><br>
+
+    </td>
+
+    <td width="100%" valign="top" colspan="3" style="padding-top:15px">
+     <table width="100%" cellpadding="0" cellspacing="0">
+       <tr>
+       <td align="left" style="padding-left: 30px; padding-bottom:20px;">
+
+
+        <p class="smalltext" style="color: #68696B;">Автомобильный портал Auto-Sale.Ru - покупка/продажа новых и подержанных авто в России, объявления о продаже автомобилей.</p>
+        <div><p class="smalltext" style="color: #68696B;"><a href="http://www.auto-sale.ru/">Auto-Sale.Ru</a> - Все права защищены. Воспроизведение материалов возможно при наличии активной ссылки на источник. </p></div>
+        <div><p class="smalltext" style="color: #68696B;">
+
+
+
+
+        </p></div>
+
+       </td>
+       <td>
+<noindex><nofollow>
+<!--LiveInternet counter--><script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='http://counter.yadro.ru/hit?t21.10;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=6 height=3 alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня'><\/a>")</script><!--/LiveInternet-->
+
+</noindex></nofollow>
+       </td>
+      </tr>
+     </table>
+    </td>
+
+   </tr>
+  </table>
+<!-- конец подвала -->
+
+
+<literal>
+
+<!-- GoodADVERT (Smart Banner in text) for auto-sale.ru -->
+<script type="text/javascript"><!--
+var _ga1_channel='100';
+// -->
+</script>
+<script type="text/javascript" src="http://files.goodadvert.ru/ga_1.js" charset="utf-8"></script>
+<!-- GoodADVERT -->
+
+<!-- GoodADVERT (Smart Screen) for auto-sale.ru -->
+<script type="text/javascript"><!--
+var _ga3_channel='101';
+// -->
+</script>
+<script type="text/javascript" src="http://files.goodadvert.ru/ga_3.js" charset="utf-8"></script>
+<!-- GoodADVERT -->
+
+</literal>
+</body>
+</html>
+
+
+<script type="text/javascript">//<![CDATA[
+init();
+//]]></script>
+
+

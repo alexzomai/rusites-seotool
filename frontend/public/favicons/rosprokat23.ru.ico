@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru-ru">
+<head>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter32584325 = new Ya.Metrika({
+                    id:32584325,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    ecommerce:"dataLayer"
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32584325" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->  
+  <meta name="google-site-verification" content="nhR_LRZsiL4QiZ0xWLEqIEdaYaGW5c4cFRa6d8T-9Jw" />
+  <meta name='yandex-verification' content='42a66b03a062efde' />
+  <meta name='yandex-verification' content='90022aabeccc525d' />
+  <meta name='wmail-verification' content='707395b9162ee695226ff8a28ee10589' />
+      <base href="https://www.rosprokat23.ru/favicon.ico" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="title" content="Главная" />
+  <title>Главная</title>
+  <link href="/templates/rossprokat2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="https://www.rosprokat23.ru/" rel="canonical" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vm-ltr-common.css?vmver=8771" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vm-ltr-site.css?vmver=8771" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vm-ltr-reviews.css?vmver=8771" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_slideshowck/themes/default/css/camera.css" type="text/css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans" type="text/css" />
+  <style type="text/css">
+#camera_wrap_285 .camera_pag_ul li img, #camera_wrap_285 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_285 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_285 .camera_caption > div {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;font-size: 12px;font-family:'Droid Sans';
+}
+#camera_wrap_285 .camera_caption > div div.slideshowck_description {
+	font-size: 10px;
+}
+
+  </style>
+  <script src="/components/com_virtuemart/assets/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.ui.autocomplete.html.js" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.noconflict.js" type="text/javascript" async="async"></script>
+  <script src="/components/com_virtuemart/assets/js/vmsite.js?vmver=8771" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});
+  </script>
+
+    <link rel="stylesheet" href="/templates/system/css/system.css" />
+    <link rel="stylesheet" href="/templates/system/css/general.css" />
+<meta name="google-site-verification" content="E8uzOsrL5hjnyaiabhvPF7KrVy75hca1snzNbvWMlf0" />
+   
+    <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>-->
+
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" href="/templates/rossprokat2/css/template.css" media="screen">
+    <!--[if lte IE 7]><link rel="stylesheet" href="/templates/rossprokat2/css/template.ie7.css" media="screen" /><![endif]-->
+
+
+    <script>if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+    
+    <script>jQuery.noConflict();</script>
+
+    <script src="/templates/rossprokat2/script.js"></script>
+    <script>if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+  
+  <!--
+  <script language="JavaScript" type="text/javascript">
+    var catView= $('.category-view');
+  </script>
+  -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-186268136-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-186268136-2');
+</script>
+
+
+</head>
+<body>
+<div id="sticky">
+<a href="/"><img style="margin-left:5%;" src="/images/logo32.png"></a>
+<div class="teles"><span class="tphones"><a href="tel:+78612012501"><img src="/images/phone-38.png">+7(861) 201-25-01</a></span>
+  <!--span style="font-size:16px; font-weight: bold;">+7(988)</span><span style="font-size:26px; font-weight: bold; color:#e85505;">242-45-80</span><br/-->
+  <span class="temails" style="font-size:10px;">email:</span><span class="temails" style="font-weight:bold;"><a class="hover_email" href="mailto:rosprokat23@mail.ru" title="Почта для связи" >rosprokat23@mail.ru</a></span><br/></div>
+</div> 
+<div id="main">
+<header class="header clearfix">  
+  <div class="object1546088429" data-left="0%" ><img style="top: 0px; width:100%; height:auto;" src="/templates/rossprokat2/css/../images/linetop.png"></div>
+  
+  <div style="height:190px; width:90%; margin:0 auto;">
+
+<div class="header-column">
+  <a href="/"><img id="logo1" style ="" src="/templates/rossprokat2/images/logo31.png"/></a>
+</div>
+<div class="header-column">
+    
+  <a href="/kontakty" style="text-decoration: none;"><div class="prokati1"><img src="/images/information_item.png" /></div>
+  <div class="prokati"><span class="hs" style="text-decoration:none !important;">5</span><span class="prokati2"> ПУНКТОВ ПРОКАТА В КРАСНОДАРЕ</span></div></a>
+   <div class="waiting" >
+      
+     <span style="font-size:14px;font-weight:bold;"><br>Ждем вас ежедневно<br> без перерывов и выходных<br>с 8:00 до 18:00 </span><span style="font-size:12px;"><br></span><span style="font-size:12px;"><br/><br/></span> 
+<span class="zalog"></span><span style="font-size:18px;font-weight:800"></span>
+    </div>
+</div>
+<div class="header-column">
+<div id="tel">
+ <div class="tele"><span class="tphone"><a href="tel:+78612012501"><img src="/images/phone-38.png">+7(861) 201-25-01</a><br /></span>
+  <!--span style="font-size:16px; font-weight: bold;">+7(988)</span><span style="font-size:26px; font-weight: bold; color:#e85505;">242-45-80</span><br/-->
+  <span class="temail" style="font-size:10px;">email:</span><span class="temail" style="font-weight:bold;"><a class="hover_email" href="mailto:rosprokat23@mail.ru" title="Почта для связи" >rosprokat23@mail.ru</a></span><br/></div>
+  <div class="newprokat" style="text-align: center;">  
+  <span class="prokatanet" style="font-size: 16px;"></span><br />
+  <span class="prokatanet"></span><br/>
+  <span class="prokatanet" style="font-size: 16px;"></span><br />
+    <span class="prokatanet"></span><br />
+  </div>
+</div>
+</div>
+    
+  </div>  
+              
+</header>
+
+<nav class="nav clearfix">
+    <div class="nav-inner">
+    
+<ul class="hmenu"><li class="item-174 current active"><a class=" active" href="/">Главная</a></li><li class="item-359"><a href="/vopros-otvet">Вопрос-ответ</a></li><li class="item-185"><a href="/otzyvy-klientov">Отзывы</a></li><li class="item-188"><a href="/kontakty">Контакты</a></li></ul> 
+        </div>
+    </nav>
+        <div class="searsh"><!-- begin nostyle -->
+<div class="nostyle">
+<!-- begin nostyle content -->
+<form action="/" class="search" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Поиск</label><div style="position: relative;"><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Поиск..."  onblur="if (this.value=='') this.value='Поиск...';" onfocus="if (this.value=='Поиск...') this.value='';" /><input type="submit" value class="search-button"></div>	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="174" />
+	</div>
+</form>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</div>
+     
+<div class="sheet clearfix">
+           
+<div class="content-layout"><div class="content-layout-row"><div class="layout-cell layout-sidebar-bg" style="width: 100%;"><div class="block clearfix"><div class="blockcontent"><!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><script type="text/javascript"> <!--
+       jQuery(function(){
+        jQuery('#camera_wrap_285').camera({
+                height: '25%',
+                minHeight: '',
+                pauseOnClick: false,
+                hover: 1,
+                fx: 'scrollLeft',
+                loader: 'pie',
+                pagination: 1,
+                thumbnails: 1,
+                thumbheight: 75,
+                thumbwidth: 100,
+                time: 5000,
+                transPeriod: 1500,
+                alignment: 'center',
+                autoAdvance: 1,
+                mobileAutoAdvance: 1,
+                portrait: 0,
+                barDirection: 'leftToRight',
+                imagePath: '/modules/mod_slideshowck/images/',
+                lightbox: 'mediaboxck',
+                fullpage: 0,
+				mobileimageresolution: '0',
+                navigationHover: true,
+                navigation: true,
+                playPause: true,
+                barPosition: 'bottom',
+				container: ''
+        });
+}); //--> </script><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_285">
+			<div data-thumb="/images/th/7a-min_th.jpg" data-src="/images/7a-min.jpg" >
+													 		</div>
+		<div data-thumb="/images/slider/NEW/th/dost-compressor-min_th.jpg" data-src="/images/slider/NEW/dost-compressor-min.jpg" >
+													 		</div>
+		<div data-thumb="/images/slider/NEW/th/3000-compressor-min_th.jpg" data-src="/images/slider/NEW/3000-compressor-min.jpg" >
+													 		</div>
+		<div data-thumb="/images/slider/NEW/th/nomoney-compressor-min_th.jpg" data-src="/images/slider/NEW/nomoney-compressor-min.jpg" >
+													 		</div>
+		<div data-thumb="/images/slider/NEW/th/notime-compressor-min_th.jpg" data-src="/images/slider/NEW/notime-compressor-min.jpg" >
+													 		</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK --></div></div></div></div></div><div class="layout-wrapper clearfix">
+                <div class="content-layout">
+                    <div class="content-layout-row">
+                        <div class="layout-cell sidebar1 clearfix">
+<div class="vmenublock clearfix"><div class="vmenublockcontent"><ul class="vmenu"><li class="item-179 deeper parent"><a href="/instrumenty-i-oborudovanie">Инструменты и оборудование</a><ul><li class="item-348"><a href="/instrumenty-i-oborudovanie/aeratory-skarifikatory">Аэраторы, скарификаторы</a></li><li class="item-306"><a href="/instrumenty-i-oborudovanie/apparaty-dlya-svarki-plastikovykh-trub">Аппараты для сварки пластиковых труб</a></li><li class="item-193"><a href="/instrumenty-i-oborudovanie/betonolomy">Бетоноломы</a></li><li class="item-298"><a href="/instrumenty-i-oborudovanie/pily-diskovye">Пилы дисковые</a></li><li class="item-194"><a href="/instrumenty-i-oborudovanie/betonomeshalki">Бетономешалки</a></li><li class="item-192"><a href="/instrumenty-i-oborudovanie/betonozatirochnye-mashiny">Бетонозатирочные машины</a></li><li class="item-289"><a href="/instrumenty-i-oborudovanie/pylesosy-promyshlennye">Пылесосы промышленные</a></li><li class="item-308"><a href="/instrumenty-i-oborudovanie/benzoopryskivateli">Бензоопрыскиватели</a></li><li class="item-295"><a href="/instrumenty-i-oborudovanie/ballony-gazovye">Баллоны газовые</a></li><li class="item-249"><a href="/instrumenty-i-oborudovanie/puskovye-i-zaryadnye-ustrojstva">Пусковые и зарядные устройства</a></li><li class="item-263"><a href="/instrumenty-i-oborudovanie/vibrorejki-vibratory-dlya-betona">Виброрейки для бетона</a></li><li class="item-250"><a href="/instrumenty-i-oborudovanie/polirovalnye-mashiny-universalnye">Полировальные машины универсальные</a></li><li class="item-286"><a href="/instrumenty-i-oborudovanie/vibratory-glubinnye">Вибраторы глубинные</a></li><li class="item-320"><a href="/instrumenty-i-oborudovanie/press-gidravlicheskij">Пресс гидравлический</a></li><li class="item-301"><a href="/instrumenty-i-oborudovanie/vysotorezy">Высоторезы</a></li><li class="item-321"><a href="/instrumenty-i-oborudovanie/prochie-raskhodnye-materialy">Прочие расходные материалы</a></li><li class="item-302"><a href="/instrumenty-i-oborudovanie/vyshki-tura">Вышки тура</a></li><li class="item-315"><a href="/instrumenty-i-oborudovanie/polirovalno-shlifovalnye-mashinki">Полировально-шлифовальные машинки</a></li><li class="item-195"><a href="/instrumenty-i-oborudovanie/vibroplity">Виброплиты</a></li><li class="item-205"><a href="/instrumenty-i-oborudovanie/parketno-shlifovalnye-mashiny">Паркетно-шлифовальные машины</a></li><li class="item-196"><a href="/instrumenty-i-oborudovanie/vibrotroambovki">Вибротрамбовки</a></li><li class="item-206"><a href="/instrumenty-i-oborudovanie/perforatory-dreli">Перфораторы, дрели</a></li><li class="item-290"><a href="/instrumenty-i-oborudovanie/gazorezhushchee-oborudovanie">Газорежущее оборудование</a></li><li class="item-208"><a href="/instrumenty-i-oborudovanie/pily-sabelnye">Пилы сабельные</a></li><li class="item-300"><a href="/instrumenty-i-oborudovanie/generatory-benzinovye">Генераторы бензиновые</a></li><li class="item-209"><a href="/instrumenty-i-oborudovanie/pily-tsepnye">Пилы цепные</a></li><li class="item-305"><a href="/instrumenty-i-oborudovanie/gazonokosilki">Газонокосилки</a></li><li class="item-210"><a href="/instrumenty-i-oborudovanie/presskleshchi">Прессклещи</a></li><li class="item-235"><a href="/instrumenty-i-oborudovanie/domkraty">Домкраты</a></li><li class="item-211"><a href="/instrumenty-i-oborudovanie/prozhektory">Прожекторы, освещение</a></li><li class="item-303"><a href="/instrumenty-i-oborudovanie/diski-i-frezy-almaznye">Диски и фрезы алмазные</a></li><li class="item-247"><a href="/instrumenty-i-oborudovanie/ruchnoj-instrument">Ручной инструмент</a></li><li class="item-327"><a href="/instrumenty-i-oborudovanie/rubanki">Рубанки</a></li><li class="item-251"><a href="/instrumenty-i-oborudovanie/kraskopulty">Краскопульты</a></li><li class="item-248"><a href="/instrumenty-i-oborudovanie/rokhlya-telezhka-gidravlicheskaya">Рохля, тележка гидравлическая</a></li><li class="item-319"><a href="/instrumenty-i-oborudovanie/koronki-na-almaznuyu-burovuyu">Коронки на алмазную буровую</a></li><li class="item-212"><a href="/instrumenty-i-oborudovanie/sadovaya-tekhnika-i-instrument">Садовая техника и инструмент</a></li><li class="item-304"><a href="/instrumenty-i-oborudovanie/kultivatory-motobloki">Культиваторы (мотоблоки)</a></li><li class="item-245"><a href="/instrumenty-i-oborudovanie/stanki-tokarnye">Станки токарные</a></li><li class="item-197"><a href="/instrumenty-i-oborudovanie/kompressory-elektricheskie">Компрессоры электрические</a></li><li class="item-246"><a href="/instrumenty-i-oborudovanie/svarochnye-apparty">Сварочные аппараты</a></li><li class="item-198"><a href="/instrumenty-i-oborudovanie/koronki-po-betony">Коронки по бетоны</a></li><li class="item-216"><a href="/instrumenty-i-oborudovanie/teplovye-pushki-dizelnye">Тепловые пушки дизельные</a></li><li class="item-237"><a href="/instrumenty-i-oborudovanie/lobziki">Лобзики</a></li><li class="item-214"><a href="/instrumenty-i-oborudovanie/teplovye-pushki-gazovye">Тепловые пушки газовые</a></li><li class="item-200"><a href="/instrumenty-i-oborudovanie/lestnitsy-alyuminievye">Лестницы алюминиевые</a></li><li class="item-244"><a href="/instrumenty-i-oborudovanie/tortsovo-usovochnye-pily">Торцово-усовочные пилы</a></li><li class="item-199"><a href="/instrumenty-i-oborudovanie/lesa-stroitelnye-vyshka-tura">Леса строительные, вышка тура</a></li><li class="item-213"><a href="/instrumenty-i-oborudovanie/tachki-sadovye">Тачки садовые</a></li><li class="item-329"><a href="/instrumenty-i-oborudovanie/lazernyj-dalnomer-ruletka">Лазерный дальномер, рулетка</a></li><li class="item-241"><a href="/instrumenty-i-oborudovanie/ushm-bolgarki">УШМ болгарки</a></li><li class="item-310"><a href="/instrumenty-i-oborudovanie/lebedki-elektricheskie-i-ruchnye">Лебедки электрические и ручные</a></li><li class="item-242"><a href="/instrumenty-i-oborudovanie/ustanovki-almaznogo-sverleniya">Установки алмазного сверления</a></li><li class="item-243"><a href="/instrumenty-i-oborudovanie/udliniteli">Удлинители</a></li><li class="item-240"><a href="/instrumenty-i-oborudovanie/feny-stroitelnye">Фены строительные</a></li><li class="item-287"><a href="/instrumenty-i-oborudovanie/lazernyj-uroven">Лазерный уровень</a></li><li class="item-278"><a href="/instrumenty-i-oborudovanie/miksery-stroitelnye-setevye">Миксеры строительные сетевые</a></li><li class="item-325"><a href="/instrumenty-i-oborudovanie/frezery">Фрезеры</a></li><li class="item-279"><a href="/instrumenty-i-oborudovanie/mozaichno-shlifovalnye-mashiny">Мозаично-шлифовальные машины</a></li><li class="item-218"><a href="/instrumenty-i-oborudovanie/shurupovjorty">Шуруповёрты</a></li><li class="item-313"><a href="/instrumenty-i-oborudovanie/metalloiskatel">Металлоискатели</a></li><li class="item-217"><a href="/instrumenty-i-oborudovanie/shtroborezy-borozdodely">Штроборезы, бороздоделы</a></li><li class="item-191"><a href="/instrumenty-i-oborudovanie/avtomojki-pylesosy-shlangi-polivochnye">Минимойки</a></li><li class="item-236"><a href="/instrumenty-i-oborudovanie/trubosgiby">Трубогибы</a></li><li class="item-201"><a href="/instrumenty-i-oborudovanie/metalloiskateli">Металлоискатели для проводки</a></li><li class="item-203"><a href="/instrumenty-i-oborudovanie/stojki-teleskopicheskie">Стойки телескопические</a></li><li class="item-233"><a href="/instrumenty-i-oborudovanie/motopompy">Мотопомпы</a></li><li class="item-238"><a href="/instrumenty-i-oborudovanie/niveliry-dalnomery-teodolity">Нивелиры</a></li><li class="item-311"><a href="/instrumenty-i-oborudovanie/rejsmusovyj-stanok">Рейсмусовый станок</a></li><li class="item-202"><a href="/instrumenty-i-oborudovanie/nozhnitsy-elektricheskie-ruchnye">Ножницы электрические, ручные</a></li><li class="item-317"><a href="/instrumenty-i-oborudovanie/pistolet-montazhnyj">Пистолет монтажный</a></li><li class="item-296"><a href="/instrumenty-i-oborudovanie/nasosy-opressovochnye">Насосы опрессовочные</a></li><li class="item-215"><a href="/instrumenty-i-oborudovanie/teplovye-pushki-elektricheskie">Тепловые пушки электрические</a></li><li class="item-219"><a href="/instrumenty-i-oborudovanie/yamobury">Ямобуры</a></li><li class="item-314"><a href="/instrumenty-i-oborudovanie/otreznye-mashiny-po-metallu">Отрезные машины по металлу</a></li><li class="item-204"><a href="/instrumenty-i-oborudovanie/otreznye-mashiny-benzorezy">Отрезные машины, бензорезы</a></li><li class="item-234"><a href="/instrumenty-i-oborudovanie/plitkorezy">Плиткорезы</a></li><li class="item-345"><a href="/instrumenty-i-oborudovanie/khopper-kovshi">Хоппер-ковши</a></li><li class="item-362"><a href="/instrumenty-i-oborudovanie/ekologicheskie-pribory">Экологические приборы</a></li><li class="item-343"><a href="/instrumenty-i-oborudovanie/shvonarezchiki">Швонарезчики</a></li><li class="item-363"><a href="/instrumenty-i-oborudovanie/pnevmaticheskij-instrument">Пневматический инструмент</a></li><li class="item-364"><a href="/instrumenty-i-oborudovanie/osushiteli">Осушители воздуха</a></li><li class="item-365"><a href="/instrumenty-i-oborudovanie/obsluzhivanie-konditsionerov">Обслуживание кондиционеров</a></li><li class="item-451"><a href="/instrumenty-i-oborudovanie/rezchik-dlya-myagkoj-krovli">Резчик для мягкой кровли</a></li><li class="item-453"><a href="/instrumenty-i-oborudovanie/dlya-obrabotki-armatury">Для обработки арматуры</a></li><li class="item-452"><a href="/instrumenty-i-oborudovanie/avto-pricep">Прицеп для автомобиля</a></li><li class="item-454"><a href="/instrumenty-i-oborudovanie/mobilnye-konditsionery">Мобильные кондиционеры</a></li><li class="item-455"><a href="/instrumenty-i-oborudovanie/vozdukhoduvki">Воздуходувки</a></li><li class="item-456"><a href="/instrumenty-i-oborudovanie/steplery">Степлеры</a></li><li class="item-457"><a href="/instrumenty-i-oborudovanie/parogeneratory">Парогенераторы</a></li><li class="item-458"><a href="/instrumenty-i-oborudovanie/instrument-dlya-prochistki-kanalizatsii">Инструмент для прочистки канализации</a></li><li class="item-459"><a href="/instrumenty-i-oborudovanie/truborez">Труборез</a></li><li class="item-460"><a href="/instrumenty-i-oborudovanie/tokovye-kleshchi-i-shumomery">Токовые клещи и шумомеры</a></li><li class="item-461"><a href="/instrumenty-i-oborudovanie/montazhnyj-instrument-rehau">Монтажный инструмент Rehau</a></li><li class="item-462"><a href="/instrumenty-i-oborudovanie/stabilizatory-napryazheniya">Стабилизаторы напряжения</a></li><li class="item-463"><a href="/instrumenty-i-oborudovanie/multifunktsionalnyj-instrument">Мультифункциональный инструмент</a></li><li class="item-464"><a href="/instrumenty-i-oborudovanie/frezy-i-kamni-shlifovalnye">Фрезы и камни шлифовальные</a></li><li class="item-465"><a href="/instrumenty-i-oborudovanie/tolshchinomery">Толщиномеры</a></li><li class="item-466"><a href="/instrumenty-i-oborudovanie/termometry">Термометры</a></li><li class="item-467"><a href="/instrumenty-i-oborudovanie/avtomobili">Автомобили</a></li><li class="item-468"><a href="/instrumenty-i-oborudovanie/frezery-osobogo-naznacheniya">Фрезеры особого назначения</a></li><li class="item-470"><a href="/instrumenty-i-oborudovanie/khoduli-stroitelnye">Ходули строительные</a></li><li class="item-471"><a href="/instrumenty-i-oborudovanie/elektromuftoviy-apparat">Электромуфтовый аппарат</a></li><li class="item-472"><a href="/instrumenty-i-oborudovanie/gruzovye-telezhki">Грузовые тележки</a></li></ul></li><li class="item-360"><a href="/nash-dogovor">Наш договор</a></li><li class="item-176"><a title="О нас | Роспрокат23-прокат инструмента в Краснодаре" href="/o-nas">О нас</a></li><li class="item-178"><a href="/informatsiya">Информация</a></li></ul></div></div><div class="block clearfixprokat"><div class="blockcontent"><div class="customprokat"  >
+	<div style="background-color: #363636;"><br />
+<p style="text-align: center;"><span style="font-size: 20px;"><a href="/kontakty" target="_self" style="font-size: 20px; font-family: 'Ubuntu', 'Trebuchet MS', Arial, Helvetica, Sans-Serif; text-align: center;" title="Найти ближайший пункт проката">НАШИ ПУНКТЫ ПРОКАТА в Краснодаре</a></span></p>
+<p>&nbsp;</p>
+</div>
+<p><a href="/kontakty" target="_self" style="text-align: center; font-size: 24px;" title="Найти ближайший пункт проката"><img style="margin: 0px; overflow: hidden;" src="/images/template-content/new_map_sev.png" alt="new map sev" /></a></p></div></div></div><div class="block clearfix"><div class="blockheader"><h3 class="t">Новости и информация</h3></div><div class="blockcontent"><div class="newsflash">
+	
+	<h5 class="newsflash-title">
+			<a href="/vidy-vibrotrambovok-i-kak-vybrat-vibrotrambovku">
+			ВИДЫ ВИБРОТРАМБОВОК И КАК ВЫБРАТЬ ВИБРОТРАМБОВКУ</a>
+		</h5>
+
+
+
+
+<img src="/images/stories/thumbnails/vidy-vibrotrambovok-i-kak-vybrat-vibrotrambovku.jpg" style="max-width: 150px; height: auto; float: left;" alt="" ">
+<p>Виды вибротрамбовок
+Вибротрамбовку можно разделить на четыре типа, в зависимости от установленного на ней типа двигателя:&bull; ручная вибротрамбовка &ndash; самый простой вид техники для уплотнения грунта. Рабочие пользуются этим оборудованием или в очень стесненных условиях или наоборот, если нужно обработать большой участок;
+</p>
+<a class="readmore" href="/vidy-vibrotrambovok-i-kak-vybrat-vibrotrambovku">Подробнее...</a>	
+	<h5 class="newsflash-title">
+			<a href="/zachem-brat-otbojnyj-molotok-v-arendu">
+			ЗАЧЕМ БРАТЬ ОТБОЙНЫЙ МОЛОТОК В АРЕНДУ?</a>
+		</h5>
+
+
+
+
+<img src="/images/stories/thumbnails/zachem-brat-otboiny-i-molotok-v-arendu.jpg" style="max-width: 150px; height: auto; float: left;" alt="" ">
+<p>
+ЗАЧЕМ БРАТЬ ОТБОЙНЫЙ МОЛОТОК В АРЕНДУ?
+Аренда отбойного молотка &ndash; это верный способ избавиться от старого асфальта, пробить лед или замерзшую землю без ущерба для бюджета. Современные модели отбойных молотков также позволяют производить рубку металла, демонтаж бетонных, каменных стен и другие тяжелые строительные работы.
+</p>
+<a class="readmore" href="/zachem-brat-otbojnyj-molotok-v-arendu">Подробнее...</a>	
+	<h5 class="newsflash-title">
+			<a href="/kak-udalit-staruyu-shtukaturku-so-steny">
+			КАК УДАЛИТЬ СТАРУЮ ШТУКАТУРКУ СО СТЕНЫ?</a>
+		</h5>
+
+
+
+
+<img src="/images/stories/thumbnails/kak-udalit-staruiu-shrukaturku-so-steny.jpg" style="max-width: 150px; height: auto; float: left;" alt="" ">
+<p>Первое, что нужно сделать &ndash; это обследовать стены на наличие скрытой проводки, определив масштабы работ и выявив участки подвергнувшиеся более всего разрушению, а так же участки поврежденные грибком или плесенью, любые жирные пятна.&nbsp;
+&nbsp;
+</p>
+<a class="readmore" href="/kak-udalit-staruyu-shtukaturku-so-steny">Подробнее...</a></div></div></div>
+
+
+
+                        </div>
+                        <div class="layout-cell content clearfix">
+        
+<label id="sbar" class="btn-menu" for="hmt">
+  <span class="first"></span>
+  <span class="second"></span>
+  <span class="third"></span>
+</label>
+<article class="post"><div class="postcontent clearfix">
+
+<div class="custom"  >
+	
+<h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-size: 24px; font-family: Ubuntu, 'Trebuchet MS', Arial, Helvetica, sans-serif; line-height: 28.8px; color: #f67800; background-color: rgba(255, 255, 255, 0.7);">Цены на сайте могут отличаться от существующих на прокатах. Уточняйте стоимость аренды по телефонам, указанным в разделе Контакты.</h3></div>
+</div></article><article class="post messages"><div class="postcontent clearfix">
+<div id="system-message-container">
+</div></div></article><article class="post"><div class="postcontent clearfix"><div class="category-view"> <div class="category_description">
+		
+
+</div>
+<div class="category-view">
+<div class="listsubcategory">
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/164/turgeneva" title="1">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/164/turgeneva" title="1">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/165/maya" title="2">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/165/maya" title="2">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/166/sormovskaya" title="3">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/166/sormovskaya" title="3">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/167/dzerjinskogo" title="4">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/167/dzerjinskogo" title="4">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 ">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/168/pobedy40" title="5">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/168/pobedy40" title="5">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/169/shossejnaya" title="6">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/169/shossejnaya" title="6">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/170/krpartizan" title="7">
+          <br />
+          <img src="https://www.rosprokat23.ru/components/com_virtuemart/assets/images/vmgeneral/noimage.gif" alt="Не настроено изображение "  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/170/krpartizan" title="7">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/171/расходные-материалы" title="Расходные материалы">
+          <br />
+          <img src="/images/stories/virtuemart/category/resized/roliki_188x.png" alt="Роликовые коньки  Прокат Аренда"  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/171/расходные-материалы" title="Расходные материалы">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/instrumenty-i-oborudovanie/aeratory-skarifikatory" title="Инструменты и оборудование">
+          <br />
+          <img src="/images/stories/virtuemart/category/resized/stripes2_188x.png" alt="stripes2" class=" instrument" />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/instrumenty-i-oborudovanie/aeratory-skarifikatory" title="Инструменты и оборудование">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 ">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/2/туристическое-оборудование" title="Туристическое оборудование">
+          <br />
+          <img src="/images/stories/virtuemart/category/resized/stripes_188x.png" alt="Туристическое оборудование"  />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/2/туристическое-оборудование" title="Туристическое оборудование">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/3/приставки-и-цифровое-оборудование" title="Приставки и цифровое оборудование напрокат">
+          <br />
+          <img src="/images/stories/virtuemart/category/resized/stripes1_188x.png" alt="Приставки и цифровое оборудование напрокат" class=" cifra" />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/3/приставки-и-цифровое-оборудование" title="Приставки и цифровое оборудование напрокат">
+					</a>
+      </div>
+    </div>
+    <div class="category floatleft width20 vertical-separator">
+      <div class="spacer spacersubcats">
+        <h2>
+          <a href="/5/санки" title="Cанки в аренду">
+          <br />
+          <img src="/images/stories/virtuemart/category/resized/stripes4_188x.png" alt="Лыжи, сноуборды и санки в аренду" class=" snow" />          </a>
+        </h2>
+		<a class="subcatnameIn" href="/5/санки" title="Cанки в аренду">
+					</a>
+      </div>
+    </div>
+</div>
+</div></div>
+
+<!-- end browse-view --><script id="vm.hover_js" defer="defer"  type="text/javascript">//<![CDATA[ 
+jQuery(document).ready(function () {
+	jQuery('.orderlistcontainer').hover(
+		function() { jQuery(this).find('.orderlist').stop().show()},
+		function() { jQuery(this).find('.orderlist').stop().hide()}
+	)
+}); //]]>
+</script><script id="ajaxContent_js" defer="defer"  type="text/javascript">//<![CDATA[ 
+Virtuemart.container = jQuery('.category-view');
+Virtuemart.containerSelector = '.category-view'; //]]>
+</script></div></article>
+
+                        </div>
+                                            </div>
+                </div>
+            </div>
+<!-- begin nostyle -->
+<div class="nostyle">
+<!-- begin nostyle content -->
+
+
+<div class="custom"  >
+	<div class="main-text">
+<table>
+<tbody>
+<tr>
+<td style="background-color: #f2be08; text-align: left; border: 2px solid lightgoldenrodyellow; width: 50%; padding: 20px 15px;"><strong><span style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px; line-height: 24px;">Почему компания "РосПрокат23"</span></strong></td>
+<td style="background-color: #f2be08; text-align: left; border: 2px solid lightgoldenrodyellow; width: 50%; padding: 20px 15px;"><strong><span style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px; line-height: 24px;">Финансовые преимущества</span></strong></td>
+</tr>
+<tr>
+<td style="text-align: left; border: 2px solid lightgoldenrodyellow; width: 50%; padding: 0 15px;">
+<ul style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;">
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Лидер рынка аренды инструментов и оборудования для любого этапа строительства в Краснодаре;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Обширный парк оборудования &ndash; более 3 000 единиц;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Прозрачная арендная концепция;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Широкая сеть пунктов проката в Краснодаре и Краснодарском крае;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Широкий спектр дополнительных услуг;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Комплексное предложение для расширения возможностей Вашего бизнеса;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Стабильность и высокие стандарты качества.</span></li>
+</ul>
+<p><span style="color: #000000;">&nbsp;<strong>Компания "РосПрокат23" предлагает широкий спектр дополнительных услуг, исходя из Ваших потребностей:</strong></span></p>
+<ul style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;">
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Транспортные услуги;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Ремонт оборудования;</span></li>
+</ul>
+</td>
+<td style="text-align: left; border: 2px solid lightgoldenrodyellow; width: 50%; padding: 0 15px;"><br />
+<ul style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;">
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Эффективное использование и перераспределение основных средств;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Минимизация стоимости активов и прозрачный контроль затрат;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Отсутствие эксплуатационных расходов;</span></li>
+</ul>
+<span style="color: #000000;"><strong>Преимущества в оборудовании и услугах:</strong></span>
+<ul style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;">
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Большое разнообразие новейшей современной техники и строительных инструментов;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Возможность использования оборудования, когда Вам необходимо;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Доставка на объект.</span></li>
+</ul>
+<span style="color: #000000;"><strong>Преимущества в безопасности использования оборудования:</strong></span>
+<ul style="margin-top: 14px; margin-bottom: 0px; margin-left: 0px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 24px;">
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Проверка безопасности оборудования перед арендой;</span></li>
+<li style="list-style-image: url('/images/vmenuitemicon.png'); margin-left: 30px;"><span style="color: #000000;">Соответствие техническим нормам;</span></li>
+</ul>
+&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<div class="content-layout-wrapper" style="padding: 35px; text-align: center;">
+<div class="content-layout" style="width: 100%;">
+<div class="content-layout-row">
+<div class="layout-cell sslikideco">
+<p style="text-align: center;">&nbsp;</p>
+</div>
+<div class="layout-cell sslikideco">
+<p style="text-align: center;"><a href="/" target="_self" class="ssilki" title="Каталог инструментов и оборудования в PDF">Каталог инструментов и оборудования</a></p>
+</div>
+<div class="layout-cell sslikideco">
+<p style="text-align: center;">&nbsp;&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+<hr id="system-readmore" />
+<p><a href="/kontakty">Специально для Вашего удобства мы открыли 5 пунктов проката инструментов и оборудования в г. Краснодар.</a></p>
+<h2 style="font-size: 150%;">Компания "РосПрокат23" предлагает экспресс прокат:</h2>
+<table style="width: 100%; font-size: 16px; padding: 10px 40px; background-color: #f1f1f1;">
+<tbody>
+<tr>
+<td>
+<ul>
+<li>строительных инструментов,</li>
+<li>строительного оборудования,</li>
+<li></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Строительные инструменты в аренду, прокат электроинструментов от компании "РосПрокат23"</h2>
+<p>К нам вы можете обратиться с целью узнать о производительности и мощности различной техники, для того чтобы определить оптимальный вариант, а также сроки аренды.</p>
+<p>В нашем каталоге Вы найдете инструменты на прокат от ведущих мировых производителей: отдаем предпочтение&nbsp;<strong>Makita Corporation</strong>,&nbsp;<strong>Bosch, Wacker Neuson, DeWalt, Hitachi, Fubag, STIHL</strong>, а также ряду отечественных изготовителей. &nbsp;</p>
+<h3>Прокат инструментов и оборудования в Краснодарском крае:</h3>
+<ul style="list-style-type: square;">
+<li>удобная и доступная услуга для вашего бизнеса;</li>
+<li>высокий уровень сервиса и индивидуальный подход к каждому клиенту выгодно отличает нас от конкурентов;</li>
+<li>мы экономим ваше время и позаботились о том, чтобы мобильный прокат в Краснодаре работал как можно быстрее и эффективнее.</li>
+</ul>
+<hr />
+<p style="text-align: center;"><span style="color: #808080; font-size: 20px;"><strong>Звоните нам прямо сейчас и узнайте все преимущества услуг по аренде строительных инструментов от нашей компании.</strong></span></p>
+<hr />
+<div class="customprokat"><a href="/"><img style="margin-top: 20px; margin-bottom: 20px;" src="/images/template-content/Brendi.png" alt="Brendi" width="100%" height="auto" /></a></div>
+<h2>&nbsp;</h2>
+</div></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+
+
+    </div>
+<footer class="footer clearfix"><!-- begin nostyle -->
+<div class="nostyle">
+<!-- begin nostyle content -->
+
+
+<div class="custom"  >
+	<p><img style="margin-top: 10px; margin-bottom: -5px;" src="/templates/rossprokat2/images/linetop.png" alt="linetop" width="100%" height="auto" /></p>
+<div class="footer-inner">
+<div class="content-layout">
+<div class="content-layout-row">
+<div class="layout-cell" style="width: 25%;">
+<p><a><img style="margin: 0px;" src="/images/template-content/logo33.png" alt="logo33" width="100%" height="auto" /></a></p>
+<br /> <!--p>Создание сайта:&nbsp;<a href="http://advicegr.ru/veb-studiya"><img style="margin-bottom: -5px;" src="/images/template-content/new1.png" alt="new1" width="77" height="24" /></a></p-->
+<p>&nbsp;</p>
+<div class="newdiv">&nbsp;</div>
+</div>
+<div class="layout-cell" style="width: 45%;">
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="/o-nas" target="_self" title="О&nbsp;нас">О&nbsp;НАС</a><a href="#"></a>&nbsp;<span style="color: #ffffff;">|</span>&nbsp;<a href="/?productsublayout=0" target="_self" title="Каталог">КАТАЛОГ</a>&nbsp;<span style="color: #ffffff;"></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&copy; 2015-23 Сайт компании "РосПрокат23". Все права защищены.</p>
+<p>Информация, предоставленная на сайте http://www.rosprokat23.ru/, не является публичной офертой. Всегда уточняйте всю информацию о товаре <a href="/kontakty">в магазинах</a> или по телефону +7 (861) 201-25-01.</p>
+</div>
+<div class="layout-cell" style="width: 30%;">
+<div class="vcard" style="text-align: left; font-size: 16px;">
+<div><span class="fn org">РосПрокат23</span></div>
+<div class="adr"><span class="locality">г. Краснодар</span>, <span class="street-address">ул. Северная, д. 223</span></div>
+<div class="tel">Телефон: <abbr class="value" title="+ 7 (861) 201-25-01">8 861 201-25-01</abbr></div>
+<div class="email"><span id="cloak58256">Этот адрес электронной почты защищен от спам-ботов. У вас должен быть включен JavaScript для просмотра.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak58256').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy58256 = 'r&#111;spr&#111;k&#97;t23' + '&#64;';
+ addy58256 = addy58256 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+ document.getElementById('cloak58256').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy58256 + '\'>' + addy58256+'<\/a>';
+ //-->
+ </script></div>
+<p style="text-align: left;"><a href="/kontakty" style="color: white; font-size: 13px;"><img class="photo" src="/images/template-content/logo33.png" alt="" width="1%" height="1%" />Наши пункты проката в Краснодаре</a><span style="color: #333333; font-size: 20px; text-align: left;"><br /></span></p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<!-- end nostyle content -->
+</div>
+<!-- end nostyle -->
+</footer>
+
+</div>
+</div>
+
+ 
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img class='metrikaimg' src='//counter.yadro.ru/hit?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='31' height='31' ><\/a>")
+//--></script><!--/LiveInternet-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67828565-1', 'auto');
+  ga('send', 'pageview');
+_gaq.push(['_addOrganic', 'go.mail.ru', 'q']);
+_gaq.push(['_addOrganic', 'nova.rambler.ru', 'query']);
+_gaq.push(['_addOrganic', 'nigma.ru', 's']);
+_gaq.push(['_addOrganic', 'webalta.ru', 'q']);
+_gaq.push(['_addOrganic', 'aport.ru', 'r']);
+_gaq.push(['_addOrganic', 'poisk.ru', 'text']);
+_gaq.push(['_addOrganic', 'km.ru', 'sq']);
+_gaq.push(['_addOrganic', 'liveinternet.ru', 'q']);
+_gaq.push(['_addOrganic', 'quintura.ru', 'request']);
+_gaq.push(['_addOrganic', 'search.qip.ru', 'query']);
+_gaq.push(['_addOrganic', 'gde.ru', 'keywords']);
+_gaq.push(['_addOrganic', 'ru.yahoo.com', 'p']);
+_gaq.push(['_addOrganic', 'market.yandex.ru', 'text', true]);
+_gaq.push(['_addOrganic', 'price.ru', 'query']);
+_gaq.push(['_addOrganic', 'tyndex.ru', 'pnam']);
+_gaq.push(['_addOrganic', 'torg.mail.ru', 'q']);
+_gaq.push(['_addOrganic', 'tiu.ru', 'search_term']);
+_gaq.push(['_addOrganic', 'tech2u.ru', 'text']);
+_gaq.push(['_addOrganic', 'goods.marketgid.com', 'query']);
+_gaq.push(['_addOrganic', 'poisk.ngs.ru', 'q']);
+_gaq.push(['_addOrganic', 'sravni.com', 'q']);
+_gaq.push(['_addOrganic', 'e-katalog.ru', 'search_']);
+
+</script>   
+<script>
+jQuery( "a[href^=tel]" ).click(function() {
+  yaCounter32584325.reachGoal('phone');
+  gtag('event', 'goal', {'event_category' : 'phone'});
+});
+jQuery( "a[href^=mailto]" ).click(function() {
+  yaCounter32584325.reachGoal('email');
+  gtag('event', 'goal', {'event_category' : 'email'});
+});
+jQuery( "#stickyz a" ).click(function() {
+  yaCounter32584325.reachGoal('callback_click');
+  gtag('config', 'UA-186268136-2', {'page_path': '/callback_click'});
+});
+jQuery( ".addtocart-button" ).click(function() {
+  yaCounter32584325.reachGoal('addtocart');
+  gtag('config', 'UA-186268136-2', {'page_path': '/addtocart'});
+});
+jQuery( "#checkoutFormSubmit" ).click(function() {
+if (jQuery('#checkoutFormSubmit span:contains("Подтвердить заказ")').length > 0) {
+    yaCounter32584325.reachGoal('checkoutFormSubmit');
+    gtag('config', 'UA-186268136-2', {'page_path': '/checkoutFormSubmit'});
+}  
+});
+</script>
+<span>
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=32584325&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/32584325/1_0_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:5px; height:5px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="32584325" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+</span>
+</body>
+</html>

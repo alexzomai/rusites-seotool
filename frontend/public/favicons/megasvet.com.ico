@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+    <title>  .:  Мегасвет</title>
+    <meta name="description" content="Компания &quot;МЕГАСВЕТ&quot; является эксклюзивным представителем в России ряда европейских фабрик-производителей светильников." />
+    <meta name="keywords" content="" />
+
+    <link href="/css/general.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="/css/thickbox.css" media="screen" />
+    <!--[if lte IE 6]><link href="/css/ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+
+    
+	<script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/thickbox.js"></script>
+    <script type="text/javascript">AC_FL_RunContent = 0;</script>
+
+
+    
+
+</head>
+
+<body>
+
+<table id="rootTable">
+    <tr><td id="header">
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1280" height="306" align="middle">
+	<param name="menu" value="false" />
+	<param name="wmode" value="transparent" />
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="/swf/head.swf" />
+	<param name="quality" value="high" />
+		<!--[if IE]>			
+		<![endif]-->
+		<!--[if !IE]> <-->
+		<object data="/swf/head.swf" width="1280" height="306" type="application/x-shockwave-flash">
+		<param name="quality" value="high" />
+		<param name="wmode" value="transparent" />
+		<param name="menu" value="false" />
+		<param name="pluginurl" value="http://www.macromedia.com/go/getflashplayer" />		
+		</object>
+		<!--> <![endif]-->
+		</object>
+    </td>
+  </tr>
+
+<!--Content-->
+    <tr><td id="body">
+
+<div id="bg_left_top">
+<div id="bg_right_top">
+<div id="bg_left_bottom">
+<div id="bg_right_bottom">
+
+        <table id="content">
+            <tr>
+
+<!--Left-->
+                <td id="left" >
+                    <div class="behavior"><img src="/img/catalog.png" width="207" height="95" class="behavior" alt="" /></div>
+                     <ul class="active left_menu">
+                     <li ><h2><a href="/category/svetilniki/" >Светильники</a></h2>
+</li> 
+<li ><h2><a href="/category/stoliki_pod_zerkalo/" >зеркала, консоли</a></h2>
+</li> 
+<li ><h2><a href="/category/kamin/" >Камины</a></h2>
+</li> 
+<li ><h2><a href="/category/predmety-interera/" >Предметы интерьера</a></h2>
+</li> 
+
+                     </ul>
+
+                     <div class="left_form">
+                     <h2>Фильтр:</h2>
+                     <form name="select" id="select" action="/catalogue/" >
+                        <select name="styles"><option value="">--Все стили--</option><option value="11"  >Ампир</option><option value="13"  >Арт-деко/неоклассика</option><option value="7"  >Барокко</option><option value="14"  >Кантри/ковка</option><option value="4"  >Классический стиль</option><option value="17"  >Современный</option><option value="15"  >Средиземноморский стиль</option><option value="18"  >Флористика</option><option value="6"  >Хай-тэк/минимализм</option></select><br />
+                        <select name="manufacturers"><option value="">--Все производители--</option><option value="25"  >Aghas, Италия</option><option value="26"  >Almerich, Испания</option><option value="77"  >Archeo, Италия</option><option value="27"  >Baga, Италия</option><option value="28"  >Banci, Италия</option><option value="29"  >Basilux, Италия</option><option value="30"  >BCS, Италия</option><option value="72"  >Beby, Италия</option><option value="80"  >Bejorama, Испания</option><option value="11"  >Belid, Швеция</option><option value="31"  >Bellart, Италия</option><option value="74"  >Brand van Egmond</option><option value="32"  >Ciulli, Италия</option><option value="33"  >Conte, Италия</option><option value="10"  >De Majo, Италия</option><option value="75"  >Egoluce, Италия</option><option value="65"  >EM, Италия</option><option value="8"  >Emme Pi Light, Италия</option><option value="79"  >EUROMARCHI, Италия</option><option value="34"  >Falb, Италия</option><option value="6"  >Faustig, Германия</option><option value="23"  >FD, Италия</option><option value="35"  >Fibo, Германия</option><option value="36"  >Flamina, Италия</option><option value="37"  >Flaver, Италия</option><option value="38"  >Franco Light, Италия</option><option value="39"  >Fratelli Braga, Италия</option><option value="40"  >G Moscatelli, Италия</option><option value="41"  >GL, Италия</option><option value="42"  >Il Paralume Marina</option><option value="43"  >Isa Corsi, Италия</option><option value="13"  >Kolarz, Австрия</option><option value="9"  >KREBS, Швеция</option><option value="64"  >KRS, Австрия</option><option value="12"  >L&B, Швеция</option><option value="67"  >L'Originale Италия</option><option value="44"  >La Luce, Италия</option><option value="45"  >LAM, Италия</option><option value="46"  >Lamp Intermational, Италия</option><option value="47"  >Lamp, Италия</option><option value="78"  >Lladro, Испания</option><option value="63"  >LMQ, Италия</option><option value="76"  >Lucecrea, Италия</option><option value="48"  >Mangani, Италия</option><option value="82"  >MARINER, Испания</option><option value="73"  >Martini, Италия</option><option value="49"  >Masca, Италия</option><option value="17"  >MASIERO, Италия</option><option value="50"  >Mechini, Италия</option><option value="51"  >Miniluce, Италия</option><option value="21"  >MM Lampadari, Италия</option><option value="4"  >MR, Испания</option><option value="52"  >Nervilamp, Италия</option><option value="53"  >Nuova Montart, Италия</option><option value="71"  >Orion Германия</option><option value="54"  >P&V Lighting, Италия</option><option value="7"  >Pataviumart, Италия</option><option value="55"  >Prearo, Италия</option><option value="56"  >RDV, Италия</option><option value="5"  >Riperlamp, Испания</option><option value="70"  >Sarri Италия</option><option value="59"  >Sferon, Россия</option><option value="57"  >Sil Lux, Италия</option><option value="69"  >Stil Lux Италия</option><option value="16"  >SWAROVSKI, Австрия</option><option value="58"  >Sylcom, Италия</option><option value="60"  >TCI, Россия</option><option value="81"  >Villari, Италия</option><option value="61"  >Vistosi, Италия</option><option value="62"  >Voltolina, Италия</option></select><br />
+
+                        <input value="Фильтровать" type="submit" />
+                     </form>
+                     </div>
+                     
+                     <div class="left_form">
+                     <h2>Поиск:</h2>
+                      <form action="/search/" method="get">
+                        <input type="text"  name="search" value="" class="search" /><br />
+                        <input value="Поиск" type="submit" />
+                     </form>
+                     </div>
+                     
+               
+
+              </td>
+<!--Center-->
+              <td id="center">
+                  <table id="menu">
+                      <tr><td><a href="/About/">О Компании</a></td><td><a href="/informaciya/">Информация</a></td><td><a href="/gallery/">Фотогалерея</a></td><td><a href="/articles/">Публикации</a></td><td><a href="/dizayneram/">Дизайнерам</a></td><td><a href="/kontakty/">Контакты</a></td></tr>
+                  </table>
+					
+					<div class="title"><h3><meta name='yandex-verification' content='51f3e0bc71394c6d' /></h3></div>
+					<div style="clear:both; margin-bottom:20px;"></div>
+					<div class="content"><p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;">Добро пожаловать на сайт компании МЕГАСВЕТ!<br /></span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;"><br />Компания МЕГАСВЕТ предлагает продукцию ведущих Европейских фабрик производителей:</span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;">света, мебели и предметов интерьера Премиум класса </span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;">в наличии и по каталогам на заказ.</span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;"><br />На сайте МЕГАСВЕТ представлена лишь часть ассортимента предлагаемой продукции, </span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;">если Вы не найдете того, что ищите, пожалуйста, напишите запрос или позвоните - </span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;">наши консультанты подберут и  пришлют  Вам предложение по Вашему запросу.</span></span></span></p>
+<p style="text-align: center;"><span style="color: #333399;"><span style="font-family: arial,helvetica,sans-serif;"><span style="font-size: medium;">Будем рады, если  сайт компании МЕГАСВЕТ поможет Вам с выбором!</span></span></span></p>
+<p style="padding-left: 30px;"><a href="/category/predmety-interera/" target="_blank"></a></p>
+<p><a href="/category/svetilniki/" target="_blank"><img style="margin: 5px;" src="/images/lights.jpg" alt="" width="219" height="130" /></a><a href="/category/mebel/" target="_blank"><img style="margin: 5px;" src="/images/lmebel.jpg" alt="" width="217" height="130" /></a><a href="/category/predmety-interera/" target="_blank"><img style="margin: 5px;" src="/images/lpr-int.jpg" alt="" width="217" height="130" /></a></p>
+<p style="text-align: left;"><strong><span style="font-size: medium;"><span style="font-family: arial,helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href="/category/svetilniki/" target="_blank">СВЕТИЛЬНИКИ</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; <a href="/category/mebel/" target="_blank">МЕБЕЛЬ</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <a href="/category/predmety-interera/" target="_blank">ПРЕДМЕТЫ ИНТЕРЬЕРА</a></span></span></strong></p></div>		
+          
+					
+					    </td>
+<!--Right-->
+
+                <td id="right">
+                    <p class="style5" align="center">+7 (812) 232-68-65</p>
+					<p class="style5" align="center"><a style="font-size:80%; text-decoration:none;" href="mailto:opt@megasvet.com">opt@megasvet.com</a></p>
+					<br />
+					<a id="to_main" href="/"><img class="behavior" src="/img/to_main.png" height="17" width="100" alt="" /></a><br /><p></p>
+                    <div id="news_pic"><img  class="behavior" src="/img/news.png" width="136" height="38" alt="" /></div>
+<!--News-->
+                    <table class="news">
+                        <tr><td ><img src="/img/bg_news_top.gif" width="233" height="14" alt="" /></td></tr>
+                        <tr>
+                            <td class="news_content" ><p class="style3">19.05.17</p>
+				<p><a href="/news/89/">СКИДКИ до 40% на товар в наличии !!!</a></p>
+    			<p><img src="/img/news_prev/small/89.jpg" alt="" style="float:left; padding-right:7px; margin-top:4px;"/><p/>Ждем вас в нашем салоне...</p><br/><p class="style3">13.03.17</p>
+				<p><a href="/news/88/">НОВОЕ ПОСТУПЛЕНИЕ ЛЮСТР ИТАЛЬЯНСКОЙ ФАБРИКИ EUROLUCE LAMPADARI !!!</a></p>
+    			<p><img src="/img/news_prev/small/88.jpg" alt="" style="float:left; padding-right:7px; margin-top:4px;"/><p/>Новое поступление элегантных, роскошных, изысканных люстр, произведенных в Италии фабрикой Euroluce Lampadari, не оставит Вас...</p><br/><p class="style3">06.03.17</p>
+				<p><a href="/news/87/">НОВОЕ ПОСТУПЛЕНИЕ МЕБЕЛИ ИТАЛЬЯНСКОЙ ФАБРИКИ  SEVEN SEDIE !!!</a></p>
+    			<p><img src="/img/news_prev/small/87.jpg" alt="" style="float:left; padding-right:7px; margin-top:4px;"/><p/>Интерьерный салон AURORA приглашает вас оценить великолепное исполнение истиной итальянской мебели фабрики Seven Sedie. ...</p><br/><p class="style3">18.01.17</p>
+				<p><a href="/news/86/">Акция KUTEK !!!</a></p>
+    			<p><img src="/img/news_prev/small/86.jpg" alt="" style="float:left; padding-right:7px; margin-top:4px;"/><p/>Акция на KUTEK - 20%...</p><br/>
+				<br />
+			<p align="right"><a href="/news/">Все новости</a></p></td>
+                        </tr>
+                        <tr><td><img src="/img/bg_news_bottom.gif" height="21" width="233" alt="" /></td></tr>
+                    </table>
+
+<!--Request-->
+                    <div class="someclass"><a href="/feedback/"><img src="/img/request.png" width="217" height="53" class="behavior" alt="" /></a></div>
+
+                    <div class="linc">
+                        <a href="/arhitekturnaya-studiya/">Архитектурная студия</a>
+                        <img src="/img/arch.png" alt="" id="arch"/>
+                        <br class="clear" />
+                    </div>
+
+              </td>
+
+
+            </tr>
+
+        </table>
+</div>
+</div>
+</div>
+</div>
+    </td></tr>
+
+
+<!--Footer-->
+    <tr><td id="footer">
+        <div id="footer_top">
+            
+        </div>
+
+        <div style="padding:5px 10px;">
+			<!--LiveInternet counter--><script type="text/javascript"><!--
+			document.write("<a href='http://www.liveinternet.ru/click' "+
+			"target=_blank><img src='http://counter.yadro.ru/hit?t18.5;r"+
+			escape(document.referrer)+((typeof(screen)=="undefined")?"":
+			";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+			screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+			";"+Math.random()+
+			"' alt='' title='LiveInternet: показано число просмотров за 24"+
+			" часа, посетителей за 24 часа и за сегодня' "+
+			"border='0' width='88' height='31'><\/a>")
+			//--></script><!--/LiveInternet-->
+		</div>
+
+    </td></tr>
+</table>
+
+</body>
+</html>

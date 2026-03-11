@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Продажа ЛКМ, Tikkurila, Symphony и отделочные работы.</title>
+<meta name="description" content="Продажа красок Тиккурила, Текнос, Симфония. Продажа ЛКМ и строительных материалов, организация и проведение строительных работ.">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link rel="stylesheet" type="text/css" href="/style.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script type="text/javascript" src="/java.js"></script>
+</head>
+<body>
+<table cellspacing=0 cellpadding=0 width=1000 height=100% align=center bgcolor=white>
+	<tr><td height=10 colspan=3 bgcolor="#EDECDA"></td></tr>
+	<tr><td height=8 colspan=3 bgcolor=black></td></tr>
+	<tr>
+		<td height=190 colspan=3 bgcolor='#F6F8F7'>
+			<table cellpadding=0 cellspacing=0 width="100%" height="100%">
+				<tr>
+					<td width="359" onclick="location.href='/';" style='background:url(/img/bg1.jpg); cursor:pointer;'></td>
+					<td width="641" style="background:url(/img/bg2_1.jpg);" onmouseover="this.style.backgroundImage = 'url(/img/bg2_2.jpg)';" onmouseout="this.style.backgroundImage = 'url(/img/bg2_1.jpg)';"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td colspan="3" class="breadcrumbs"><b>Вы здесь:</b> <a href="/">Главная</a></td></tr>
+	<tr valign=top>
+		<td width=165 style='border-right:1px solid #efefef; padding:10px 15px;'>
+			<table cellpadding=0 cellspacing=0 width=195><tr><td height=24><a href='/paints' rel='nofollow' class=razd>ЛАКОКРАСОЧНЫЕ МАТЕРИАЛЫ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/pokraska' rel='nofollow' class=razd>ПОКРАСКА ПОВЕРХНОСТЕЙ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/malyarnie-raboti' rel='nofollow' class=razd>МАЛЯРНЫЕ РАБОТЫ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/shtukaturnie-raboti' rel='nofollow' class=razd>ШТУКАТУРНЫЕ РАБОТЫ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/otdelochnie-raboti' rel='nofollow' class=razd>ОТДЕЛОЧНЫЕ РАБОТЫ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/podgotovitelnie-raboti' rel='nofollow' class=razd>ПОДГОТОВИТЕЛЬНЫЕ РАБОТЫ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/rastvori-i-truboprovod' rel='nofollow' class=razd>РАСТВОРЫ И ТРУБОПРОВОД</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/teplovie-rascheti' rel='nofollow' class=razd>ТЕПЛОВЫЕ РАСЧЕТЫ</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/oformlenie-zakaza' rel='nofollow' class=razd>ОФОРМЛЕНИЕ ЗАКАЗА</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr><tr><td height=24><a href='/sitemap' rel='nofollow' class=razd>КАРТА САЙТА</a></td><td width=10></td><td style='font-family:monospace; color:#bdbdbd; font-size:11px;'>></td></td></tr><tr><td height=1 colspan=3 background='/img/dash.gif'></td></tr>
+<script>
+jQuery(document).ready(function(){
+	var link = jQuery(".breadcrumbs a").eq(1).attr("href");
+	jQuery("a.razd[href='"+link+"']").css("color", "#eb7410").css("font-weight", "bold");
+	});
+</script>	
+</table>
+			<br><br><br>
+			<h2>Контакты:</h2>
+			МО, г.Реутов, &laquo;Владимирский тракт&raquo;<br>
+			Павильоны: П-17, П-18, П-19.<br><a href='/contacts'>подробнее &raquo;</a><br><br>
+
+			<h2>Телефон / Факс:</h2>
+			+7 (495) 156-18-53 (многоканальный)<br><br><br>
+
+			<span class=adv> 	</span>
+		</td>
+		
+		<td id='content'>
+	<h2>ПРОДАЖА ЛАКОКРАСОЧНЫХ МАТЕРИАЛОВ:</h2>
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td width="33%" align="center"><a href="/tikkurila" title="Лакокрасочные материалы Тиккурила (Tikkurila)" target=""><img src="/files/logo/tikkurila.jpg" alt="Каталог красок Тиккурила (Tikkurila)"></a></td>
+		<td width="33%" align="center"><a href="/teknos" title="Teknos (Текнос) ЛКМ для профессионалов" target=""><img src="/files/logo/teknos.jpg" alt="Каталог красок Текнос (Teknos)"></a></td>
+		<td width="33%" align="center"><a href="/symphony" title="Краски Symphony" target=""><img src="/files/logo/symphony.jpg" alt="Каталог красок Симфония (Symphony)"></a></td>
+	</tr>
+</tbody></table>
+
+
+<br>Наша компания, предоставляет полный спектр услуг и материалов для строительно-ремонтных проектов и любых объектов недвижимости. Мы осуществляем свою деятельность с 2002 года. За это время к числу наших клиентов присоединились многие крупные строительные предприятия. Кроме того, мы обеспечиваем строительными и отделочными материалами множество частных лиц.
+<br><br>Ассортимент продукции регулярно пополняется новинками. Ознакомиться с ними можно, посетив соответствующие разделы сайта. Менеджеры компании готовы предоставить дополнительную информацию о продукции по телефону или при личном общении. Каждому клиенту гарантирован индивидуальный подход, тщательный подбор качественных лакокрасочных материалов ведущих производителей.<br><br>У нас вы найдете все, что нужно строительства и ремонта как жилых, так и нежилых помещений.<br><br>Мы поставляем лучшие лакокрасочные материалы отечественных и зарубежных брендов про приемлемым ценам. Малярно-технические характеристики этих материалов не просто соответствуют стандартам, они подвергаются строгой проверке на качество. Особая структура лакокрасочной продукции, обеспечивающая минимальный расход, позволяет оптимизировать затраты на проведение строительства или ремонта.<br><br>Мы продаем лаки и краску с гарантией качества. Для школьных, дошкольных и медицинских учреждений выделена отдельная категория нетоксичных лакокрасочных материалов, пригодных также и для отделки детских комнат.<br><br>Также предлагаются полистирольные, поливинилацетатные, перхлорвиниловые краски. Их ассортимент постоянно обновляется.<br><br>Сотрудничество с нашей компанией открывает новые возможности. Ведь чем дольше вы являетесь нашим клиентом, тем значительнее скидка на покупку товара. Оптовые партии материалов отпускаются на льготных условиях. Мы осуществляем подбор лакокрасочной продукции, ее доставку к заказчику. При необходимости предоставляем услуги опытных маляров.<br><br>
+
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="200"><a href="/vodostochnaya-sistema-krishi" title="Водосточная система крыши" target=""><img alt="" border="0" src="/img/img1.jpg"></a></td>
+            <td width="20">&nbsp;</td>
+            <td width="200"><a href="/pokraska/venetsianskaya-shtukaturka" title="Венецианская штукатурка и технология ее нанесения" target=""><img alt="" border="0" src="/img/img2.jpg"></a></td>
+            <td width="20">&nbsp;</td>
+            <td width="200"><a href="/pokraska/vibiraem-odezhdu-dlya-sten" title="Выбор ЛКМ для стен. Что выбрать краску или обои?" target=""><img alt="" border="0" src="/img/img3.jpg"></a></td>
+        </tr>
+    </tbody>
+</table><br>
+
+<br>
+<h2>Строительство объекта и ремонт помещений</h2>
+Строительные и ремонтные работы должны быть выполнены качественно, своевременно и недорого. Именно на этих приоритетах основана деятельность компании.<br><br>
+Опытные специалисты готовы выполнить работу любой степени сложности. Строгое соблюдение графика не позволит нарушить срок сдачи объекта. Колоссальный опыт наших строителей и ремонтников позволяет с уверенностью говорить о гарантии качества предоставляемых услуг.<br><br>
+Мы оперативно осваиваем новинки строительного рынка. Лучшие из них пополняют ассортимент нашего каталога, не замещая, а дополняя линию товаров, проверенных временем.<br><br>
+Многие знают, что проведение строительных и отделочных работ в зимнее время может стать напрасной тратой времени и средств. Наши специалисты применяют особые подогретые растворы, приготовленные в утепленных узлах. Такая технология позволяет, вопреки зимней непогоде, не прерывать процесс стройки.<br><br>
+Не сможет остановить зима и запланированную покраску. Для отделки помещения в зимних условиях применяют специальную краску со значительно меньшей степенью вязкости.<br><br>
+Нам можно с уверенностью поручить подбор материалов и проведение ремонта. Уже более 15 лет мы осуществляем все виды строительных и ремонтных работ. Множество клиентов успешно сотрудничает с нами на постоянной основе. Приглашаем вас,  присоединиться к их числу. Оформляйте заявку на сайте, обращайтесь к нашим менеджерам, доверьте самую сложную работу нашим специалистам.<br>
+
+
+		</td>
+	</tr>
+	<tr bgcolor='#f5821f'>
+		<td colspan=3 height=54 style='color:#fff; background:url(/img/sun.gif) no-repeat;'>
+			<table cellpadding=0 cellspacing=0 width=100%>
+				<tr>
+					<td class="title">Продажа красок в Москве.<br />Строительные материалы и отделочные работы.</td>
+					<td style="text-align:right; padding-right:10px;">
+						<!--noindex-->
+
+						<!-- begin of Top100 code -->
+						<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2888668"></script>
+						<noscript><a href="http://top100.rambler.ru/navi/2888668/" rel="nofollow"><img src="http://counter.rambler.ru/top100.cnt?2888668" alt="Rambler's Top100" border="0" /></a></noscript>
+						<!-- end of Top100 code -->
+						&nbsp;&nbsp;
+
+						<!--LiveInternet counter--><script type="text/javascript"><!--
+						document.write("<a rel=nofollow href='http://www.liveinternet.ru/click' "+
+						"target=_blank><img src='http://counter.yadro.ru/hit?t18.6;r"+
+						escape(document.referrer)+((typeof(screen)=="undefined")?"":
+						";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+						screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+						";"+Math.random()+
+						"' alt='' title='LiveInternet: показано число просмотров за 24"+
+						" часа, посетителей за 24 часа и за сегодня' "+
+						"border=0 width=88 height=31 style='border:0px;'></a>")//--></script><!--/LiveInternet-->
+
+
+
+						<!--Openstat-->
+						<span id="openstat1"></span>
+						<script type="text/javascript">
+						var openstat = { counter: 1, next: openstat };
+						(function(d, t, p) {
+						var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+						j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+						var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+						})(document, "script", document.location.protocol);
+						</script>
+						<!--/Openstat-->
+
+						
+						<!-- Global site tag (gtag.js) - Google Analytics -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107092401-7"></script>
+						<script>
+						  window.dataLayer = window.dataLayer || [];
+						  function gtag(){dataLayer.push(arguments);}
+						  gtag('js', new Date());
+						  gtag('config', 'UA-107092401-7');
+						</script>
+
+						
+						<!--/noindex-->
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

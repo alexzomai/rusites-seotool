@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>404 Error! | Все экскурсии и достопримечательности Сочи, Адлера и Абхазии.</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
+<link href="https://excursion.ooo/theme/sochiss/cache/master_main.css" rel="stylesheet" type="text/css" />
+<link href="https://excursion.ooo/theme/sochiss/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="error-page">
+  <div class="wojo-grid">
+    <div class="logo"><a href="https://excursion.ooo"><img src="https://excursion.ooo/uploads/excursion.ooo.jpg" alt="+7-938-441-14-29" /></a> </div>
+    <h1>оооба на...</h1>
+    <a href="https://excursion.ooo/">
+    <div id="but" class="wojo info icon button"><i class="icon home"></i></div>
+    </a>
+    <h3 class="primary">Похоже страница, которую Вы ищите была перенесена или её не существовало</h3>
+    <h3>Убедитесь, что Вы набрали правильный URL-адрес, либо проследовали по правильной ссылке на эту страницу сайта.</h3>
+  </div>
+</div></body>
+</html>

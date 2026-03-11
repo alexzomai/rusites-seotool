@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html;charset=windows-1251">
+<title>Ошибка</title>
+
+<style type="text/css">
+P{font-family: Tahoma;font-size: 13px;}
+TD{font-family: Tahoma;font-size: 14px;font-weight: bold;}
+HR{color:darkblue;}
+</style>
+
+</head>
+
+<body>
+
+<h2>Ошибка 404</h2>
+
+<hr width="67%" align="left" size="1">
+
+<p>
+Запрошенная страница не существует.
+</p>
+
+<p>
+Рекомендуется проверить корректность запроса, а при положительном результате
+ связаться с администратором сайта.
+</p>
+
+
+<p>
+
+</p>
+<p><b><a href="/">На главную страницу</a></b></p>
+<hr width="67%" align="left" size="1">
+
+<!--LiveInternet counter-->
+<script type="text/javascript" language="javascript">
+<!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t19.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")
+//-->
+</script>
+<!--/LiveInternet-->
+
+<a href="http://validator.w3.org/check?uri=referer">
+<img src="http://www.w3.org/Icons/valid-html401-blue" alt="Valid HTML 4.01 Transitional"
+ height="31" width="88" border="0"></a>
+
+<hr width="100%" size="2">
+
+</body>
+</html>

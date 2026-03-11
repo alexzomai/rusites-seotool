@@ -1,0 +1,862 @@
+<body color="ff0000"><script>Widget("https://pos.gosuslugi.ru/form", 707)</script> </body>
+<html>
+<head>
+ <meta name="sputnik-verification" content="jbKHdjWqL4VcASNX" />
+<title>Архивный сайт администрации городского округа Семеновский </title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<META HTTP-EQUIV="EXPIRES" CONTENT="0">
+<META NAME="RESOURCE-TYPE" CONTENT="DOCUMENT">
+<META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+<META NAME="AUTHOR" CONTENT="Архивный сайт администрации городского округа Семеновский">
+<META NAME="COPYRIGHT" CONTENT="Copyright (c) by Архивный сайт администрации городского округа Семеновский">
+<META NAME="KEYWORDS" CONTENT="News, news, New, new.">
+<META NAME="DESCRIPTION" CONTENT="Администрация городского округа Семеновский. Семенов в Интернете. Semenov.">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="1 DAYS">
+<META NAME="RATING" CONTENT="GENERAL">
+<META NAME="GENERATOR" CONTENT="PHP-Nuke Copyright (c) 2005 by Francisco Burzi. This is free software, and you may redistribute it under the GPL. ">
+<link REL="shortcut icon" HREF="themes/RusNuke2003/images/favicon.ico" TYPE="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="backend.php">
+<LINK REL="StyleSheet" HREF="themes/RusNuke2003/style/style.css" TYPE="text/css">
+
+
+
+
+
+</head>
+
+<BODY bgColor="#ffffff" topmargin="0" leftmargin="20">
+<table border="0" cellpadding="0" width="100%"><tr>
+<tr width="100%"><td width="60%"><a href="modules.php?name=linkhtm&qlinkhtm=semradio/admin.htm"><img border="0" src="themes/RusNuke2003/images/logo.gif" alt="Администрация городского округа" width="200" height="55"></a>
+<a href="modules.php?name=Pages&pa=list_pag&cid=342"><img src="semradio/images/2017/ks.png" height="55" vspace="10" ><marquee direction="down" behavior="alternate" scrollAmount="1" width="30%" height="55px">
+<font size="2" color="SteelBlue">
+<p align="center"><b>Формирование современной городской
+среды на территории городского округа Семеновский<br><br></b></p></marquee></a>
+<td align="right" valign="bottom" width="60%" border="0"><img valign="top" border="0" src="images/button/123.gif" width="800">
+<br>
+<a href="index.php"><IMG name="vm" src="images/button/2button.png" onmouseout="document.vm.src='images/button/2button.png'" onmouseover="document.vm.src='images/button/2button_1.png'" BORDER="0"height="28"><a href="modules.php?name=Downloads"><IMG name="vm1" src="images/button/2button1.png" onmouseout="document.vm1.src='images/button/2button1.png'" onmouseover="document.vm1.src='images/button/2button1_1.png'" BORDER="0"height="28"><a href="modules.php?name=Pages"><IMG name="vm2" src="images/button/2button2.png" onmouseout="document.vm2.src='images/button/2button2.png'"onmouseover="document.vm2.src='images/button/2button2_1.png'"BORDER="0"height="28"><a href="modules.php?name=Web_Links"><IMG name="vm5" src="images/button/2button5.png" onmouseout="document.vm5.src='images/button/2button5.png'" onmouseover="document.vm5.src='images/button/2button5_1.png'" BORDER="0"height="28"><a href="modules.php?name=Forums"><IMG  name="vm4" src="images/button/2button4.png" onmouseout="document.vm4.src='images/button/2button4.png'" onmouseover="document.vm4.src='images/button/2button4_1.png'" BORDER="0"height="28"><a href="modules.php?name=Topics"><IMG  name="vm3" src="images/button/2button3.png"onmouseout="document.vm3.src='images/button/2button3.png'"onmouseover="document.vm3.src='images/button/2button3_1.png'"BORDER="0"height="28"></a></tr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20" bgColor=#2d496e height="20">
+<tr><td width="35%">
+<form action="modules.php?name=Your_Account" method="post"  style="display: inline">
+<input type="hidden" name="op" value="login">&nbsp; <font class=A_white>Логин:</font>
+<input type="text" name="username" maxlength="25">
+<input type="hidden" name="random_num" value="151551">
+<input type="hidden" name="gfx_check" value="473920">
+<font class=A_white>Пароль:</font> <input type="password" name="user_password" maxlength="20">
+<input type="submit" value="Вход"></form>
+<td align="center" width="40%"><font class=A_white><a href="" id="specialversion"><img src="images/button/slabovid2.png" align="center" height="100%" border="0"><font class=A_white><b>ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ</b></a><img src="images/button/vv_m.png" align="right" height="100%" border="0"></font></td></td><td width="5%"><p align="center"><font class=A_white><b><script type="text/javascript">
+
+<!--	 // Array ofmonth Names
+var monthNames = new Array( "Января","Февраля","Марта","Апреля","Мая","Июня","Июля","Августа","Сентября","Октября","Ноября","Декабря");
+var now = new Date();
+thisYear = now.getYear();
+if(thisYear < 1900) {thisYear += 1900}; // corrections if Y2K display problem
+document.write(now.getDate() + " " + monthNames[now.getMonth()] + ", " + thisYear + "&nbsp;года");
+// -->
+</script>
+</font></b>
+</td><td align="left" width="2%"><font class=A_white><img src="images/button/vv_m2.png" align="left" height="100%" border="0"></td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="100%" height="2">
+<tr><td width="100%"></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td align="center" width="30%" bgColor=#ffffff><table border=0 cellspacing=0 cellpadding=6><tr>
+<td>
+<a href="https://semenov.nobl.ru" target="_blank"><img src="images/button/ns.png" width="200" ></a>
+</td></tr></table></td><td width="70%">
+<center><a href="modules.php?name=linkhtm&qlinkhtm=semradio/Zaria_html/1.html">
+<img src="semradio/images/2017/zara.png" height="80" ></a>
+
+</center><br></center></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="2">
+<tr><td width="100%"></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgColor=#ff9900 height="20">
+<tr><td width="35%">
+<form action="modules.php?name=Search" method="post" style="display: inline">
+&nbsp;&nbsp;<font class=A_white>Поиск:</font>
+<input size="55" type="text" name="query" value="">
+&nbsp;<input type="submit" value="Искать"></form></td><td align="center" width="65%"><img src="images/button/lenta3.png" border="0" width="100%"></tr></table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td width="100%">
+</td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="10"></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="160" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Ваше мнение&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><div id="e329fb40-widget-pos" style="width: 205px; height: 450px; border: 1px solid gray;"></div>
+<script id="e329fb40" src="https://pos.gosuslugi.ru/og/widget/js/main.js" data-src-host="https://pos.gosuslugi.ru/og" data-org-id="246"></script> </font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">О нашем городском округе&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><br>
+<a href="modules.php?name=Pages&pa=showpage&pid=1210" class="button14">Нашим 
+гостям
+</a>
+
+<a href="/modules.php?name=Pages&pa=list_pag&cid=18" class="button14">История 
+и символика</a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=1" class="button14">Органы власти
+</a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1206" class="button14">Документы
+</a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1209" class="button14">Услуги
+</a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1211" class="button14">Экономика 
+и статистика </a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=2" class="button14">  Избирательная  
+комиссия </a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=29" class="button14">Социальное
+обслуживание </a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=403" class="button14">Прокуратура
+</a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1212" class="button14">МЧС и МВД </a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=54" class="button14">Средства
+массовой информации</a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=409" class="button14">English
+</a>
+
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Бюджет&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><strong>
+<a href="https://fin-semenov.ru/byudzhetnyy-protsess/byudzhet-dlya-grazhdan.html" target="blank"><img src="semradio/images/bb.jpg" alt="Бюджет для граждан" width="205" border=0 ></a>
+<br>
+<strong>
+<a href="https://fin-semenov.ru/citizens.html" target="blank"><img src="semradio/images/fingr.jpg" alt="Финансовая грамотность" width="205" border=0 ></a>
+
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Посещения&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><font class="tiny"><center>Просмотрено<br><b><a href="modules.php?name=Statistics">75343035</a></b><br>страниц сайта c 8 Августа 2006</center></font></font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Расписание движения общественного транспорта&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><img src="/images/poezd3.jpg"width="150" border="0">
+<p><a href="modules.php?name=linkhtm&qlinkhtm=semradio/transport/index.htm"> Электропоезд Семенов-Нижний Новгород </a></p>
+
+<p><a href="modules.php?name=linkhtm&qlinkhtm=semradio/transport/index2.htm">Электропоезд Нижний Новгород-Семенов</a></p>
+
+<img src="/images/busn.jpg"width="150" border="0">
+<p><a href="modules.php?name=Pages&pa=list_pages_categories&cid=171">Автобусные маршруты</a></p></font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Просмотр камеры ремонт пл. Соборная&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><iframe width="215" height="160"
+src="https://rtsp.cam/php/iframe.php?devcode=93cda3b19ed949768a783b8ac6371916"
+frameborder="0" allowfullscreen></iframe>
+
+</font></td></tr></table><br>
+<br><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="160" height="1"></td><td><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="10" height="1"></td><td valign="top" width="90%"><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#CCCCCC"><tr><td>
+<table width="100%" border="0" cellspacing="1" cellpadding="10" bgcolor="#ffffff"><tr><td>
+<center><font class="option"><b></b></font></center><br><!--<p style="text-align: center;"><a rel="noopener" href="http://playercdn.cdnvideo.ru/aloha/players/stvpro_player1.html" target="_blank"><img src="semradio/image/skt.jpg" alt="" width="548" height="274" /></a></p>
+<p style="text-align: center;"></p>-->
+
+<script src='https://pos.gosuslugi.ru/bin/script.min.js'></script> 
+<style>
+@charset "UTF-8";#js-show-iframe-wrapper{position:relative;display:flex;align-items:center;justify-content:center;width:100%;min-width:293px;max-width:100%;background:linear-gradient(138.4deg,#38bafe 26.49%,#2d73bc 79.45%);color:#fff; cursor: pointer;}#js-show-iframe-wrapper .pos-banner-fluid *{box-sizing:border-box}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2{display:block;width:195px;min-height:56px;font-size:18px;line-height:24px;cursor:pointer;background:#0d4cd3;color:#fff;border:none;border-radius:8px;outline:0}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:hover{background:#1d5deb}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:focus{background:#2a63ad}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:active{background:#2a63ad}@-webkit-keyframes fadeInFromNone{0%{display:none;opacity:0}1%{display:block;opacity:0}100%{display:block;opacity:1}}@keyframes fadeInFromNone{0%{display:none;opacity:0}1%{display:block;opacity:0}100%{display:block;opacity:1}}@font-face{font-family:LatoWebLight;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.ttf) format("truetype");font-style:normal;font-weight:400;text-rendering:optimizeLegibility}@font-face{font-family:LatoWeb;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.ttf) format("truetype");font-style:normal;font-weight:400;text-rendering:optimizeLegibility}@font-face{font-family:LatoWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.ttf) format("truetype");font-style:normal;font-weight:400;text-rendering:optimizeLegibility}
+</style>
+
+<style>
+#js-show-iframe-wrapper .bf-2{position:relative;display:grid;grid-template-columns:var(--pos-banner-fluid-2__grid-template-columns);grid-template-rows:var(--pos-banner-fluid-2__grid-template-rows);width:100%;max-width:1060px;font-family:LatoWeb,sans-serif;box-sizing:border-box}#js-show-iframe-wrapper .bf-2__decor{grid-column:var(--pos-banner-fluid-2__decor-grid-column);grid-row:var(--pos-banner-fluid-2__decor-grid-row);padding:var(--pos-banner-fluid-2__decor-padding);background:var(--pos-banner-fluid-2__bg-url) var(--pos-banner-fluid-2__bg-position) no-repeat;background-size:var(--pos-banner-fluid-2__bg-size)}#js-show-iframe-wrapper .bf-2__logo-wrap{position:absolute;top:var(--pos-banner-fluid-2__logo-wrap-top);bottom:var(--pos-banner-fluid-2__logo-wrap-bottom);right:0;display:flex;flex-direction:column;align-items:flex-end;padding:var(--pos-banner-fluid-2__logo-wrap-padding);background:#2d73bc;border-radius:var(--pos-banner-fluid-2__logo-wrap-border-radius)}#js-show-iframe-wrapper .bf-2__logo{width:128px}#js-show-iframe-wrapper .bf-2__slogan{font-family:LatoWebBold,sans-serif;font-size:var(--pos-banner-fluid-2__slogan-font-size);line-height:var(--pos-banner-fluid-2__slogan-line-height)}#js-show-iframe-wrapper .bf-2__content{padding:var(--pos-banner-fluid-2__content-padding)}#js-show-iframe-wrapper .bf-2__description{display:flex;flex-direction:column;margin-bottom:24px}#js-show-iframe-wrapper .bf-2__text{margin-bottom:12px;font-size:24px;line-height:32px;font-family:LatoWebBold,sans-serif}#js-show-iframe-wrapper .bf-2__text_small{margin-bottom:0;font-size:16px;line-height:24px;font-family:LatoWeb,sans-serif}#js-show-iframe-wrapper .bf-2__btn-wrap{display:flex;align-items:center;justify-content:center}
+</style >
+<div id='js-show-iframe-wrapper'>
+  <div class='pos-banner-fluid bf-2'>
+
+    <div class='bf-2__decor'>
+      <div class='bf-2__logo-wrap'>
+        <img
+          class='bf-2__logo'
+          src='https://pos.gosuslugi.ru/bin/banner-fluid/gosuslugi-logo.svg'
+          alt='Госуслуги'
+        />
+        <div class='bf-2__slogan'>Жалобы на всё</div >
+      </div >
+    </div >
+    <div class='bf-2__content'>
+
+      <div class='bf-2__description'>
+          <span class='bf-2__text'>
+            Не убран мусор, яма на дороге, не горит фонарь?
+<!--            Не убран мусор, яма на дороге, не горит фонарь?-->
+          </span >
+        <span class='pos-banner-fluid__text pos-banner-fluid__text_small'>
+            Столкнулись с проблемой — сообщите о ней!
+<!--          Столкнулись с проблемой — сообщите о ней!-->
+          </span >
+      </div >
+
+      <div class='bf-2__btn-wrap'>
+        <!-- pos-banner-btn_2 не удалять; другие классы не добавлять -->
+        <button
+          class='pos-banner-btn_2'
+          type='button'
+        >Подать жалобу
+        </button >
+      </div >
+
+    </div >
+
+  </div >
+</div >
+<script>
+"use strict";var root=document.documentElement,banner=document.getElementById("js-show-iframe-wrapper");function displayWindowSize(){var o=banner.offsetWidth;o<=405&&(root.style.setProperty("--pos-banner-fluid-2__grid-template-columns","100%"),root.style.setProperty("--pos-banner-fluid-2__grid-template-rows","310px auto"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-column","initial"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-row","initial"),root.style.setProperty("--pos-banner-fluid-2__decor-padding","30px 30px 0 30px"),root.style.setProperty("--pos-banner-fluid-2__content-padding","0 30px 30px 30px"),root.style.setProperty("--pos-banner-fluid-2__bg-url","url('https://pos.gosuslugi.ru/bin/banner-fluid/2/banner-fluid-bg-2-small.svg')"),root.style.setProperty("--pos-banner-fluid-2__bg-position","calc(10% + 64px) calc(100% - 20px)"),root.style.setProperty("--pos-banner-fluid-2__bg-size","cover"),root.style.setProperty("--pos-banner-fluid-2__slogan-font-size","20px"),root.style.setProperty("--pos-banner-fluid-2__slogan-line-height","32px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-padding","20px 30px 30px 40px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-top","0"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-bottom","initial"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-border-radius","0 0 0 80px")),o>405&&o<=500&&(root.style.setProperty("--pos-banner-fluid-2__grid-template-columns","100%"),root.style.setProperty("--pos-banner-fluid-2__grid-template-rows","310px auto"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-column","initial"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-row","initial"),root.style.setProperty("--pos-banner-fluid-2__decor-padding","30px 30px 0 30px"),root.style.setProperty("--pos-banner-fluid-2__content-padding","0 30px 30px 30px"),root.style.setProperty("--pos-banner-fluid-2__bg-url","url('https://pos.gosuslugi.ru/bin/banner-fluid/2/banner-fluid-bg-2-small.svg')"),root.style.setProperty("--pos-banner-fluid-2__bg-position","calc(10% + 64px) calc(100% - 20px)"),root.style.setProperty("--pos-banner-fluid-2__bg-size","cover"),root.style.setProperty("--pos-banner-fluid-2__slogan-font-size","24px"),root.style.setProperty("--pos-banner-fluid-2__slogan-line-height","32px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-padding","30px 50px 30px 70px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-top","0"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-bottom","initial"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-border-radius","0 0 0 80px")),o>500&&o<=585&&(root.style.setProperty("--pos-banner-fluid-2__grid-template-columns","min-content 1fr"),root.style.setProperty("--pos-banner-fluid-2__grid-template-rows","100%"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-column","2"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-row","1"),root.style.setProperty("--pos-banner-fluid-2__decor-padding","30px 30px 30px 0"),root.style.setProperty("--pos-banner-fluid-2__content-padding","30px"),root.style.setProperty("--pos-banner-fluid-2__bg-url","url('https://pos.gosuslugi.ru/bin/banner-fluid/2/banner-fluid-bg-2-small.svg')"),root.style.setProperty("--pos-banner-fluid-2__bg-position","0% calc(100% - 70px)"),root.style.setProperty("--pos-banner-fluid-2__bg-size","cover"),root.style.setProperty("--pos-banner-fluid-2__slogan-font-size","24px"),root.style.setProperty("--pos-banner-fluid-2__slogan-line-height","32px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-padding","30px 30px 24px 40px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-top","initial"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-bottom","0"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-border-radius","80px 0 0 0")),o>585&&o<=800&&(root.style.setProperty("--pos-banner-fluid-2__grid-template-columns","min-content 1fr"),root.style.setProperty("--pos-banner-fluid-2__grid-template-rows","100%"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-column","2"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-row","1"),root.style.setProperty("--pos-banner-fluid-2__decor-padding","30px 30px 30px 0"),root.style.setProperty("--pos-banner-fluid-2__content-padding","30px"),root.style.setProperty("--pos-banner-fluid-2__bg-url","url('https://pos.gosuslugi.ru/bin/banner-fluid/2/banner-fluid-bg-2-small.svg')"),root.style.setProperty("--pos-banner-fluid-2__bg-position","0% calc(100% - 6px)"),root.style.setProperty("--pos-banner-fluid-2__bg-size","cover"),root.style.setProperty("--pos-banner-fluid-2__slogan-font-size","24px"),root.style.setProperty("--pos-banner-fluid-2__slogan-line-height","32px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-padding","30px 30px 24px 40px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-top","initial"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-bottom","0"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-border-radius","80px 0 0 0")),o>800&&o<=1020&&(root.style.setProperty("--pos-banner-fluid-2__grid-template-columns","min-content 1fr"),root.style.setProperty("--pos-banner-fluid-2__grid-template-rows","100%"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-column","2"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-row","1"),root.style.setProperty("--pos-banner-fluid-2__decor-padding","30px 30px 30px 0"),root.style.setProperty("--pos-banner-fluid-2__content-padding","30px"),root.style.setProperty("--pos-banner-fluid-2__bg-url","url('https://pos.gosuslugi.ru/bin/banner-fluid/2/banner-fluid-bg-2.svg')"),root.style.setProperty("--pos-banner-fluid-2__bg-position","0% center"),root.style.setProperty("--pos-banner-fluid-2__bg-size","cover"),root.style.setProperty("--pos-banner-fluid-2__slogan-font-size","24px"),root.style.setProperty("--pos-banner-fluid-2__slogan-line-height","32px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-padding","30px 30px 24px 40px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-top","initial"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-bottom","0"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-border-radius","80px 0 0 0")),o>1020&&(root.style.setProperty("--pos-banner-fluid-2__grid-template-columns","min-content 1fr"),root.style.setProperty("--pos-banner-fluid-2__grid-template-rows","100%"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-column","2"),root.style.setProperty("--pos-banner-fluid-2__decor-grid-row","1"),root.style.setProperty("--pos-banner-fluid-2__decor-padding","30px 30px 30px 0"),root.style.setProperty("--pos-banner-fluid-2__content-padding","30px"),root.style.setProperty("--pos-banner-fluid-2__bg-url","url('https://pos.gosuslugi.ru/bin/banner-fluid/2/banner-fluid-bg-2.svg')"),root.style.setProperty("--pos-banner-fluid-2__bg-position","0% center"),root.style.setProperty("--pos-banner-fluid-2__bg-size","cover"),root.style.setProperty("--pos-banner-fluid-2__slogan-font-size","24px"),root.style.setProperty("--pos-banner-fluid-2__slogan-line-height","32px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-padding","30px 30px 24px 40px"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-top","initial"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-bottom","0"),root.style.setProperty("--pos-banner-fluid-2__logo-wrap-border-radius","80px 0 0 0"))}displayWindowSize();var resizeListener=window.addEventListener("resize",displayWindowSize);window.onunload=function(){window.removeEventListener("resize",resizeListener)};
+</script>
+ <script>Widget("https://pos.gosuslugi.ru/form", 707)</script></td></tr></table></td></tr></table>
+<br><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>НОВАЯ ВЕРСИЯ САЙТА</font><br>
+<font class=grey>[30/03/2022]</font>&nbsp;
+<font class="content"><html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="https://semenov.nobl.ru/" target="_blank">
+<img src="semradio/images/2022/20220329/00.jpg" width="200"  class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html><p ALIGN="JUSTIFY"><b>Новостная лента с данного сайта переехала на новую версию сайта, расположенную по адресу:<a href=" https://semenov.nobl.ru" target="_blank"> https://semenov.nobl.ru.</a>
+</b> </font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13234"><b>подробнее...</b></a> | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Ярмарки</font><br>
+<font class=grey>[30/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=mBiznes">mBiznes</a> написал "Информация о ярмарках «Покупайте нижегородское», организуемых в апреле 2022 года."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13233"><b>подробнее...</b></a> | 226 байтов еще | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Финансовая грамотность - залог безопасности и успеха!</font><br>
+<font class=grey>[29/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=prokuratura">prokuratura</a> написал "<p ALIGN="JUSTIFY">Можно условно выделить 5 признаков финансово грамотного человека:
+<br>У него всё под контролем.
+<br>Финансово грамотный человек ведёт учёт собственных доходов и расходов. Он строит краткосрочное и долгосрочное финансовое планирование."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13232"><b>подробнее...</b></a> | 7344 байтов еще | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>О преступлениях в сфере информационных технологий</font><br>
+<font class=grey>[29/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=prokuratura">prokuratura</a> написал "Преступления в сфере информационных технологий включают как распространение вредоносных программ, взлом паролей, кражу номеров банковских карт и других банковских реквизитов, так и распространение противоправной информации (клеветы, материалов порнографического характера, материалов, возбуждающих межнациональную и межрелигиозную вражду и т.д.) через Интернет, а также вредоносное вмешательство через компьютерные сети в работу различных систем."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13231"><b>подробнее...</b></a> | 1897 байтов еще | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Сбавьте скорость!!!</font><br>
+<font class=grey>[29/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=OMVD">OMVD</a> написал "<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="semradio/images/2022/20220329/03.jpg" target="_blank">
+<img src="semradio/images/2022/20220329/03.jpg" width="200"  class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html><p ALIGN="JUSTIFY">В целях профилактики детского травматизма при ДТП, а также тяжести последствий, сотрудниками ОГИБДД ОМВД России по Семеновскому городскому округу совместно с юными инспекторами дорожного движения из 7 «а» класса МБОУ школа №3 города Семенов проводится предупредительная работа с водителями."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13230"><b>подробнее...</b></a> | 1807 байтов еще | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>«Спешите делать добро»</font><br>
+<font class=grey>[29/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=rono">rono</a> написал "<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="semradio/images/2022/20220329/02.jpg" target="_blank">
+<img src="semradio/images/2022/20220329/02.jpg" width="200"  class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html><p ALIGN="JUSTIFY">Вместе с родителями и детьми старшей группы детского сада № 5 "Улыбка" под руководством воспитателя Одинцовой Ю.А.была организована и  проведена благотворительная  акция «Большая помощь маленькому другу». Добрые сердечки детей и их родителей не остались равнодушными к проблеме бездомных животных."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13229"><b>подробнее...</b></a> | 1794 байтов еще | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Предупреждение- ветер,снег</font><br>
+<font class=grey>[28/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=edds">edds</a> написал "<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p align="right"><a href="semradio/images/2016/edds.gif" target="_blank">
+<img src="semradio/images/2016/edds.gif" width="200"   class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html>
+<p ALIGN="JUSTIFY">По данным ФГБУ «Верхне-Волжское УГМС», в ближайшие 1-3 часа 28 марта 2022 г. по Нижегородской области ожидается снег, местами сильный,усиление юго-западного ветра 14-19 м/с, с сохранением ночью и в первую половину дня 29 марта.
+<br>Рекомендации населению:
+<br>Если сильный порывистый ветер застал вас на улице, старайтесь укрыться в ближайшем здании, держитесь в стороне от линий электропередач, деревьев, легких построек и слабоукрепленных конструкций, а также не оставляйте вблизи них свои автомобили.
+<br>Если Вы увидели оборванные провода, сообщите администрации населенного пункта о месте обрыва.
+<br>Проходя мимо зданий и сооружений, держитесь на безопасном расстоянии от стен, остерегайтесь нависшего снега и сосулек, обходите опасную зону при уборке снега с крыш.
+<br>Не разрешайте выходить на улицу детям без сопровождения взрослых. <br>Пожилым и больным людям рекомендуется воздержаться от прогулок в одиночку.
+<br>В условиях сильного снегопада ограничьте использование автотранспорта, по возможности воздержитесь от поездок по городу.
+<br>Управляя транспортным средством, соблюдайте достаточную дистанцию, максимально ограничьте скорость, исключите резкие торможения. У перекрестков и пешеходных переходов обязательно помните, что недисциплинированный пешеход представляет собой
+основную опасность.
+<br>На случай отключения электроэнергии в доме используйте в качестве источника света электрические фонари, будьте максимально осторожными в обращении с открытым огнем."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13228"><b>подробнее...</b></a> | 2096 байтов еще | Всего: 1)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Закрытие зимнего лыжного сезона</font><br>
+<font class=grey>[28/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=katyyaag">katyyaag</a> написал "<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="semradio/images/2022/20220325/05.jpg" target="_blank">
+<img src="semradio/images/2022/20220325/05.jpg" width="200"  class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html><p ALIGN="JUSTIFY">25 марта на лыжной базе состоялось торжественное закрытие зимнего лыжного сезона в Семеновской спортивной школе «Олимп». Ребята состязались на дистанциях 3 и 5 км.
+&#8291;
+"
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13227"><b>подробнее...</b></a> | 2200 байтов еще | Всего: 0)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Юбилейный V Международный фестиваль национального костюма и таланта «Моя Родина»</font><br>
+<font class=grey>[28/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=katyyaag">katyyaag</a> написал "<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="semradio/images/2022/20220325/03.jpg" target="_blank">
+<img src="semradio/images/2022/20220325/03.jpg" width="200"  class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html><p ALIGN="JUSTIFY">С 17 по 20 марта в Москве проходил Финальный этап Юбилейного V Международного фестиваля национального костюма и таланта «Моя Родина». Наш коллектив на фестивале представили Елена Чаховская и Ирина Засовкина."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13226"><b>подробнее...</b></a> | 1792 байтов еще | Всего: 0)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td width="100%"><p align="justify"><font class=storytitle>Программа кешбэка за детский отдых заработает с 1 мая 2022</font><br>
+<font class=grey>[28/03/2022]</font>&nbsp;
+<font class="content"><a href="modules.php?name=Your_Account&amp;op=userinfo&amp;username=katyyaag">katyyaag</a> написал "<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Новости администрации г.о.Семёновский</title>
+  <style>
+   .passe-partout {
+    padding: 2px; /* Ширина паспарту */
+    background: #FFFFFF; /* Цвет фона  паспарту */
+    border: 4px solid #FFA500; /* Параметры рамки */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p><a href="semradio/images/2022/20220325/02.jpg" target="_blank">
+<img src="semradio/images/2022/20220325/02.jpg" width="200"  class="passe-partout" align="right" BORDER=1 CELLPADDING=1 CELLSPACING=2 align="right" hspace="30" vspace="10"></a></p>
+ </body>
+</html><p ALIGN="JUSTIFY">Программа кешбэка за детский отдых, впервые запущенная в России в 2021 году, будет возобновлена в 2022-м. Родители снова смогут вернуть половину стоимости путёвок в детские лагеря."
+</font>
+<br><center>(<a href="modules.php?name=News&amp;file=article&amp;sid=13225"><b>подробнее...</b></a> | 3786 байтов еще | Всего: 0)</center></td></tr></table><br><hr size="1" color="#CCCCCC">
+<br><table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#CCCCCC"><tr><td>
+<table width="100%" border="0" cellspacing="1" cellpadding="10" bgcolor="#ffffff"><tr><td>
+<center>[ <b>1</b> | <a href="modules.php?name=News&pagenum=2">2</a> | <a href="modules.php?name=News&pagenum=3">3</a> | <a href="modules.php?name=News&pagenum=4">4</a> | <a href="modules.php?name=News&pagenum=5">5</a> | <a href="modules.php?name=News&pagenum=6">6</a> | <a href="modules.php?name=News&pagenum=7">7</a> | <a href="modules.php?name=News&pagenum=8">8</a> | <a href="modules.php?name=News&pagenum=9">9</a> | <a href="modules.php?name=News&pagenum=10">10</a> | <a href="modules.php?name=News&pagenum=11">11</a> | <a href="modules.php?name=News&pagenum=12">12</a> | <a href="modules.php?name=News&pagenum=13">13</a> | <a href="modules.php?name=News&pagenum=14">14</a> | <a href="modules.php?name=News&pagenum=15">15</a> | <a href="modules.php?name=News&pagenum=16">16</a> | <a href="modules.php?name=News&pagenum=17">17</a> | <a href="modules.php?name=News&pagenum=18">18</a> | <a href="modules.php?name=News&pagenum=19">19</a> | <a href="modules.php?name=News&pagenum=20">20</a> | <a href="modules.php?name=News&pagenum=21">21</a> | <a href="modules.php?name=News&pagenum=22">22</a> | <a href="modules.php?name=News&pagenum=23">23</a> | <a href="modules.php?name=News&pagenum=24">24</a> | <a href="modules.php?name=News&pagenum=25">25</a> | <a href="modules.php?name=News&pagenum=26">26</a> | <a href="modules.php?name=News&pagenum=27">27</a> | <a href="modules.php?name=News&pagenum=28">28</a> | <a href="modules.php?name=News&pagenum=29">29</a> | <a href="modules.php?name=News&pagenum=30">30</a> | <a href="modules.php?name=News&pagenum=31">31</a> | <a href="modules.php?name=News&pagenum=32">32</a> | <a href="modules.php?name=News&pagenum=33">33</a> | <a href="modules.php?name=News&pagenum=34">34</a> | <a href="modules.php?name=News&pagenum=35">35</a> | <a href="modules.php?name=News&pagenum=36">36</a> | <a href="modules.php?name=News&pagenum=37">37</a> | <a href="modules.php?name=News&pagenum=38">38</a> | <a href="modules.php?name=News&pagenum=39">39</a> | <a href="modules.php?name=News&pagenum=40">40</a> | <a href="modules.php?name=News&pagenum=41">41</a> | <a href="modules.php?name=News&pagenum=42">42</a> | <a href="modules.php?name=News&pagenum=43">43</a> | <a href="modules.php?name=News&pagenum=44">44</a> | <a href="modules.php?name=News&pagenum=45">45</a> | <a href="modules.php?name=News&pagenum=46">46</a> | <a href="modules.php?name=News&pagenum=47">47</a> | <a href="modules.php?name=News&pagenum=48">48</a> | <a href="modules.php?name=News&pagenum=49">49</a> | <a href="modules.php?name=News&pagenum=50">50</a> | <a href="modules.php?name=News&pagenum=51">51</a> | <a href="modules.php?name=News&pagenum=52">52</a> | <a href="modules.php?name=News&pagenum=53">53</a> | <a href="modules.php?name=News&pagenum=54">54</a> | <a href="modules.php?name=News&pagenum=55">55</a> | <a href="modules.php?name=News&pagenum=56">56</a> | <a href="modules.php?name=News&pagenum=57">57</a> | <a href="modules.php?name=News&pagenum=58">58</a> | <a href="modules.php?name=News&pagenum=59">59</a> | <a href="modules.php?name=News&pagenum=60">60</a> | <a href="modules.php?name=News&pagenum=61">61</a> | <a href="modules.php?name=News&pagenum=62">62</a> | <a href="modules.php?name=News&pagenum=63">63</a> | <a href="modules.php?name=News&pagenum=64">64</a> | <a href="modules.php?name=News&pagenum=65">65</a> | <a href="modules.php?name=News&pagenum=66">66</a> | <a href="modules.php?name=News&pagenum=67">67</a> | <a href="modules.php?name=News&pagenum=68">68</a> | <a href="modules.php?name=News&pagenum=69">69</a> | <a href="modules.php?name=News&pagenum=70">70</a> | <a href="modules.php?name=News&pagenum=71">71</a> | <a href="modules.php?name=News&pagenum=72">72</a> | <a href="modules.php?name=News&pagenum=73">73</a> | <a href="modules.php?name=News&pagenum=74">74</a> | <a href="modules.php?name=News&pagenum=75">75</a> | <a href="modules.php?name=News&pagenum=76">76</a> | <a href="modules.php?name=News&pagenum=77">77</a> | <a href="modules.php?name=News&pagenum=78">78</a> | <a href="modules.php?name=News&pagenum=79">79</a> | <a href="modules.php?name=News&pagenum=80">80</a> | <a href="modules.php?name=News&pagenum=81">81</a> | <a href="modules.php?name=News&pagenum=82">82</a> | <a href="modules.php?name=News&pagenum=83">83</a> | <a href="modules.php?name=News&pagenum=84">84</a> | <a href="modules.php?name=News&pagenum=85">85</a> | <a href="modules.php?name=News&pagenum=86">86</a> | <a href="modules.php?name=News&pagenum=87">87</a> | <a href="modules.php?name=News&pagenum=88">88</a> | <a href="modules.php?name=News&pagenum=89">89</a> | <a href="modules.php?name=News&pagenum=90">90</a> | <a href="modules.php?name=News&pagenum=91">91</a> | <a href="modules.php?name=News&pagenum=92">92</a> | <a href="modules.php?name=News&pagenum=93">93</a> | <a href="modules.php?name=News&pagenum=94">94</a> | <a href="modules.php?name=News&pagenum=95">95</a> | <a href="modules.php?name=News&pagenum=96">96</a> | <a href="modules.php?name=News&pagenum=97">97</a> | <a href="modules.php?name=News&pagenum=98">98</a> | <a href="modules.php?name=News&pagenum=99">99</a> | <a href="modules.php?name=News&pagenum=100">100</a> | <a href="modules.php?name=News&pagenum=101">101</a> | <a href="modules.php?name=News&pagenum=102">102</a> | <a href="modules.php?name=News&pagenum=103">103</a> | <a href="modules.php?name=News&pagenum=104">104</a> | <a href="modules.php?name=News&pagenum=105">105</a> | <a href="modules.php?name=News&pagenum=106">106</a> | <a href="modules.php?name=News&pagenum=107">107</a> | <a href="modules.php?name=News&pagenum=108">108</a> | <a href="modules.php?name=News&pagenum=109">109</a> | <a href="modules.php?name=News&pagenum=110">110</a> | <a href="modules.php?name=News&pagenum=111">111</a> | <a href="modules.php?name=News&pagenum=112">112</a> | <a href="modules.php?name=News&pagenum=113">113</a> | <a href="modules.php?name=News&pagenum=114">114</a> | <a href="modules.php?name=News&pagenum=115">115</a> | <a href="modules.php?name=News&pagenum=116">116</a> | <a href="modules.php?name=News&pagenum=117">117</a> | <a href="modules.php?name=News&pagenum=118">118</a> | <a href="modules.php?name=News&pagenum=119">119</a> | <a href="modules.php?name=News&pagenum=120">120</a> | <a href="modules.php?name=News&pagenum=121">121</a> | <a href="modules.php?name=News&pagenum=122">122</a> | <a href="modules.php?name=News&pagenum=123">123</a> | <a href="modules.php?name=News&pagenum=124">124</a> | <a href="modules.php?name=News&pagenum=125">125</a> | <a href="modules.php?name=News&pagenum=126">126</a> | <a href="modules.php?name=News&pagenum=127">127</a> | <a href="modules.php?name=News&pagenum=128">128</a> | <a href="modules.php?name=News&pagenum=129">129</a> | <a href="modules.php?name=News&pagenum=130">130</a> | <a href="modules.php?name=News&pagenum=131">131</a> | <a href="modules.php?name=News&pagenum=132">132</a> | <a href="modules.php?name=News&pagenum=133">133</a> | <a href="modules.php?name=News&pagenum=134">134</a> | <a href="modules.php?name=News&pagenum=135">135</a> | <a href="modules.php?name=News&pagenum=136">136</a> | <a href="modules.php?name=News&pagenum=137">137</a> | <a href="modules.php?name=News&pagenum=138">138</a> | <a href="modules.php?name=News&pagenum=139">139</a> | <a href="modules.php?name=News&pagenum=140">140</a> | <a href="modules.php?name=News&pagenum=141">141</a> | <a href="modules.php?name=News&pagenum=142">142</a> | <a href="modules.php?name=News&pagenum=143">143</a> | <a href="modules.php?name=News&pagenum=144">144</a> | <a href="modules.php?name=News&pagenum=145">145</a> | <a href="modules.php?name=News&pagenum=146">146</a> | <a href="modules.php?name=News&pagenum=147">147</a> | <a href="modules.php?name=News&pagenum=148">148</a> | <a href="modules.php?name=News&pagenum=149">149</a> | <a href="modules.php?name=News&pagenum=150">150</a> | <a href="modules.php?name=News&pagenum=151">151</a> | <a href="modules.php?name=News&pagenum=152">152</a> | <a href="modules.php?name=News&pagenum=153">153</a> | <a href="modules.php?name=News&pagenum=154">154</a> | <a href="modules.php?name=News&pagenum=155">155</a> | <a href="modules.php?name=News&pagenum=156">156</a> | <a href="modules.php?name=News&pagenum=157">157</a> | <a href="modules.php?name=News&pagenum=158">158</a> | <a href="modules.php?name=News&pagenum=159">159</a> | <a href="modules.php?name=News&pagenum=160">160</a> | <a href="modules.php?name=News&pagenum=161">161</a> | <a href="modules.php?name=News&pagenum=162">162</a> | <a href="modules.php?name=News&pagenum=163">163</a> | <a href="modules.php?name=News&pagenum=164">164</a> | <a href="modules.php?name=News&pagenum=165">165</a> | <a href="modules.php?name=News&pagenum=166">166</a> | <a href="modules.php?name=News&pagenum=167">167</a> | <a href="modules.php?name=News&pagenum=168">168</a> | <a href="modules.php?name=News&pagenum=169">169</a> | <a href="modules.php?name=News&pagenum=170">170</a> | <a href="modules.php?name=News&pagenum=171">171</a> | <a href="modules.php?name=News&pagenum=172">172</a> | <a href="modules.php?name=News&pagenum=173">173</a> | <a href="modules.php?name=News&pagenum=174">174</a> | <a href="modules.php?name=News&pagenum=175">175</a> | <a href="modules.php?name=News&pagenum=176">176</a> | <a href="modules.php?name=News&pagenum=177">177</a> | <a href="modules.php?name=News&pagenum=178">178</a> | <a href="modules.php?name=News&pagenum=179">179</a> | <a href="modules.php?name=News&pagenum=180">180</a> | <a href="modules.php?name=News&pagenum=181">181</a> | <a href="modules.php?name=News&pagenum=182">182</a> | <a href="modules.php?name=News&pagenum=183">183</a> | <a href="modules.php?name=News&pagenum=184">184</a> | <a href="modules.php?name=News&pagenum=185">185</a> | <a href="modules.php?name=News&pagenum=186">186</a> | <a href="modules.php?name=News&pagenum=187">187</a> | <a href="modules.php?name=News&pagenum=188">188</a> | <a href="modules.php?name=News&pagenum=189">189</a> | <a href="modules.php?name=News&pagenum=190">190</a> | <a href="modules.php?name=News&pagenum=191">191</a> | <a href="modules.php?name=News&pagenum=192">192</a> | <a href="modules.php?name=News&pagenum=193">193</a> | <a href="modules.php?name=News&pagenum=194">194</a> | <a href="modules.php?name=News&pagenum=195">195</a> | <a href="modules.php?name=News&pagenum=196">196</a> | <a href="modules.php?name=News&pagenum=197">197</a> | <a href="modules.php?name=News&pagenum=198">198</a> | <a href="modules.php?name=News&pagenum=199">199</a> | <a href="modules.php?name=News&pagenum=200">200</a> | <a href="modules.php?name=News&pagenum=201">201</a> | <a href="modules.php?name=News&pagenum=202">202</a> | <a href="modules.php?name=News&pagenum=203">203</a> | <a href="modules.php?name=News&pagenum=204">204</a> | <a href="modules.php?name=News&pagenum=205">205</a> | <a href="modules.php?name=News&pagenum=206">206</a> | <a href="modules.php?name=News&pagenum=207">207</a> | <a href="modules.php?name=News&pagenum=208">208</a> | <a href="modules.php?name=News&pagenum=209">209</a> | <a href="modules.php?name=News&pagenum=210">210</a> | <a href="modules.php?name=News&pagenum=211">211</a> | <a href="modules.php?name=News&pagenum=212">212</a> | <a href="modules.php?name=News&pagenum=213">213</a> | <a href="modules.php?name=News&pagenum=214">214</a> | <a href="modules.php?name=News&pagenum=215">215</a> | <a href="modules.php?name=News&pagenum=216">216</a> | <a href="modules.php?name=News&pagenum=217">217</a> | <a href="modules.php?name=News&pagenum=218">218</a> | <a href="modules.php?name=News&pagenum=219">219</a> | <a href="modules.php?name=News&pagenum=220">220</a> | <a href="modules.php?name=News&pagenum=221">221</a> | <a href="modules.php?name=News&pagenum=222">222</a> | <a href="modules.php?name=News&pagenum=223">223</a> | <a href="modules.php?name=News&pagenum=224">224</a> | <a href="modules.php?name=News&pagenum=225">225</a> | <a href="modules.php?name=News&pagenum=226">226</a> | <a href="modules.php?name=News&pagenum=227">227</a> | <a href="modules.php?name=News&pagenum=228">228</a> | <a href="modules.php?name=News&pagenum=229">229</a> | <a href="modules.php?name=News&pagenum=230">230</a> | <a href="modules.php?name=News&pagenum=231">231</a> | <a href="modules.php?name=News&pagenum=232">232</a> | <a href="modules.php?name=News&pagenum=233">233</a> | <a href="modules.php?name=News&pagenum=234">234</a> | <a href="modules.php?name=News&pagenum=235">235</a> | <a href="modules.php?name=News&pagenum=236">236</a> | <a href="modules.php?name=News&pagenum=237">237</a> | <a href="modules.php?name=News&pagenum=238">238</a> | <a href="modules.php?name=News&pagenum=239">239</a> | <a href="modules.php?name=News&pagenum=240">240</a> | <a href="modules.php?name=News&pagenum=241">241</a> | <a href="modules.php?name=News&pagenum=242">242</a> | <a href="modules.php?name=News&pagenum=243">243</a> | <a href="modules.php?name=News&pagenum=244">244</a> | <a href="modules.php?name=News&pagenum=245">245</a> | <a href="modules.php?name=News&pagenum=246">246</a> | <a href="modules.php?name=News&pagenum=247">247</a> | <a href="modules.php?name=News&pagenum=248">248</a> | <a href="modules.php?name=News&pagenum=249">249</a> | <a href="modules.php?name=News&pagenum=250">250</a> | <a href="modules.php?name=News&pagenum=251">251</a> | <a href="modules.php?name=News&pagenum=252">252</a> | <a href="modules.php?name=News&pagenum=253">253</a> | <a href="modules.php?name=News&pagenum=254">254</a> | <a href="modules.php?name=News&pagenum=255">255</a> | <a href="modules.php?name=News&pagenum=256">256</a> | <a href="modules.php?name=News&pagenum=257">257</a> | <a href="modules.php?name=News&pagenum=258">258</a> | <a href="modules.php?name=News&pagenum=259">259</a> | <a href="modules.php?name=News&pagenum=260">260</a> | <a href="modules.php?name=News&pagenum=261">261</a> | <a href="modules.php?name=News&pagenum=262">262</a> | <a href="modules.php?name=News&pagenum=263">263</a> | <a href="modules.php?name=News&pagenum=264">264</a> | <a href="modules.php?name=News&pagenum=265">265</a> | <a href="modules.php?name=News&pagenum=266">266</a> | <a href="modules.php?name=News&pagenum=267">267</a> | <a href="modules.php?name=News&pagenum=268">268</a> | <a href="modules.php?name=News&pagenum=269">269</a> | <a href="modules.php?name=News&pagenum=270">270</a> | <a href="modules.php?name=News&pagenum=271">271</a> | <a href="modules.php?name=News&pagenum=272">272</a> | <a href="modules.php?name=News&pagenum=273">273</a> | <a href="modules.php?name=News&pagenum=274">274</a> | <a href="modules.php?name=News&pagenum=275">275</a> | <a href="modules.php?name=News&pagenum=276">276</a> | <a href="modules.php?name=News&pagenum=277">277</a> | <a href="modules.php?name=News&pagenum=278">278</a> | <a href="modules.php?name=News&pagenum=279">279</a> | <a href="modules.php?name=News&pagenum=280">280</a> | <a href="modules.php?name=News&pagenum=281">281</a> | <a href="modules.php?name=News&pagenum=282">282</a> | <a href="modules.php?name=News&pagenum=283">283</a> | <a href="modules.php?name=News&pagenum=284">284</a> | <a href="modules.php?name=News&pagenum=285">285</a> | <a href="modules.php?name=News&pagenum=286">286</a> | <a href="modules.php?name=News&pagenum=287">287</a> | <a href="modules.php?name=News&pagenum=288">288</a> | <a href="modules.php?name=News&pagenum=289">289</a> | <a href="modules.php?name=News&pagenum=290">290</a> | <a href="modules.php?name=News&pagenum=291">291</a> | <a href="modules.php?name=News&pagenum=292">292</a> | <a href="modules.php?name=News&pagenum=293">293</a> | <a href="modules.php?name=News&pagenum=294">294</a> | <a href="modules.php?name=News&pagenum=295">295</a> | <a href="modules.php?name=News&pagenum=296">296</a> | <a href="modules.php?name=News&pagenum=297">297</a> | <a href="modules.php?name=News&pagenum=298">298</a> | <a href="modules.php?name=News&pagenum=299">299</a> | <a href="modules.php?name=News&pagenum=300">300</a> | <a href="modules.php?name=News&pagenum=301">301</a> | <a href="modules.php?name=News&pagenum=302">302</a> | <a href="modules.php?name=News&pagenum=303">303</a> | <a href="modules.php?name=News&pagenum=304">304</a> | <a href="modules.php?name=News&pagenum=305">305</a> | <a href="modules.php?name=News&pagenum=306">306</a> | <a href="modules.php?name=News&pagenum=307">307</a> | <a href="modules.php?name=News&pagenum=308">308</a> | <a href="modules.php?name=News&pagenum=309">309</a> | <a href="modules.php?name=News&pagenum=310">310</a> | <a href="modules.php?name=News&pagenum=311">311</a> | <a href="modules.php?name=News&pagenum=312">312</a> | <a href="modules.php?name=News&pagenum=313">313</a> | <a href="modules.php?name=News&pagenum=314">314</a> | <a href="modules.php?name=News&pagenum=315">315</a> | <a href="modules.php?name=News&pagenum=316">316</a> | <a href="modules.php?name=News&pagenum=317">317</a> | <a href="modules.php?name=News&pagenum=318">318</a> | <a href="modules.php?name=News&pagenum=319">319</a> | <a href="modules.php?name=News&pagenum=320">320</a> | <a href="modules.php?name=News&pagenum=321">321</a> | <a href="modules.php?name=News&pagenum=322">322</a> | <a href="modules.php?name=News&pagenum=323">323</a> | <a href="modules.php?name=News&pagenum=324">324</a> | <a href="modules.php?name=News&pagenum=325">325</a> | <a href="modules.php?name=News&pagenum=326">326</a> | <a href="modules.php?name=News&pagenum=327">327</a> | <a href="modules.php?name=News&pagenum=328">328</a> | <a href="modules.php?name=News&pagenum=329">329</a> | <a href="modules.php?name=News&pagenum=330">330</a> | <a href="modules.php?name=News&pagenum=331">331</a> | <a href="modules.php?name=News&pagenum=332">332</a> | <a href="modules.php?name=News&pagenum=333">333</a> | <a href="modules.php?name=News&pagenum=334">334</a> | <a href="modules.php?name=News&pagenum=335">335</a> | <a href="modules.php?name=News&pagenum=336">336</a> | <a href="modules.php?name=News&pagenum=337">337</a> | <a href="modules.php?name=News&pagenum=338">338</a> | <a href="modules.php?name=News&pagenum=339">339</a> | <a href="modules.php?name=News&pagenum=340">340</a> | <a href="modules.php?name=News&pagenum=341">341</a> | <a href="modules.php?name=News&pagenum=342">342</a> | <a href="modules.php?name=News&pagenum=343">343</a> | <a href="modules.php?name=News&pagenum=344">344</a> | <a href="modules.php?name=News&pagenum=345">345</a> | <a href="modules.php?name=News&pagenum=346">346</a> | <a href="modules.php?name=News&pagenum=347">347</a> | <a href="modules.php?name=News&pagenum=348">348</a> | <a href="modules.php?name=News&pagenum=349">349</a> | <a href="modules.php?name=News&pagenum=350">350</a> | <a href="modules.php?name=News&pagenum=351">351</a> | <a href="modules.php?name=News&pagenum=352">352</a> | <a href="modules.php?name=News&pagenum=353">353</a> | <a href="modules.php?name=News&pagenum=354">354</a> | <a href="modules.php?name=News&pagenum=355">355</a> | <a href="modules.php?name=News&pagenum=356">356</a> | <a href="modules.php?name=News&pagenum=357">357</a> | <a href="modules.php?name=News&pagenum=358">358</a> | <a href="modules.php?name=News&pagenum=359">359</a> | <a href="modules.php?name=News&pagenum=360">360</a> | <a href="modules.php?name=News&pagenum=361">361</a> | <a href="modules.php?name=News&pagenum=362">362</a> | <a href="modules.php?name=News&pagenum=363">363</a> | <a href="modules.php?name=News&pagenum=364">364</a> | <a href="modules.php?name=News&pagenum=365">365</a> | <a href="modules.php?name=News&pagenum=366">366</a> | <a href="modules.php?name=News&pagenum=367">367</a> | <a href="modules.php?name=News&pagenum=368">368</a> | <a href="modules.php?name=News&pagenum=369">369</a> | <a href="modules.php?name=News&pagenum=370">370</a> | <a href="modules.php?name=News&pagenum=371">371</a> | <a href="modules.php?name=News&pagenum=372">372</a> | <a href="modules.php?name=News&pagenum=373">373</a> | <a href="modules.php?name=News&pagenum=374">374</a> | <a href="modules.php?name=News&pagenum=375">375</a> | <a href="modules.php?name=News&pagenum=376">376</a> | <a href="modules.php?name=News&pagenum=377">377</a> | <a href="modules.php?name=News&pagenum=378">378</a> | <a href="modules.php?name=News&pagenum=379">379</a> | <a href="modules.php?name=News&pagenum=380">380</a> | <a href="modules.php?name=News&pagenum=381">381</a> | <a href="modules.php?name=News&pagenum=382">382</a> | <a href="modules.php?name=News&pagenum=383">383</a> | <a href="modules.php?name=News&pagenum=384">384</a> | <a href="modules.php?name=News&pagenum=385">385</a> | <a href="modules.php?name=News&pagenum=386">386</a> | <a href="modules.php?name=News&pagenum=387">387</a> | <a href="modules.php?name=News&pagenum=388">388</a> | <a href="modules.php?name=News&pagenum=389">389</a> | <a href="modules.php?name=News&pagenum=390">390</a> | <a href="modules.php?name=News&pagenum=391">391</a> | <a href="modules.php?name=News&pagenum=392">392</a> | <a href="modules.php?name=News&pagenum=393">393</a> | <a href="modules.php?name=News&pagenum=394">394</a> | <a href="modules.php?name=News&pagenum=395">395</a> | <a href="modules.php?name=News&pagenum=396">396</a> | <a href="modules.php?name=News&pagenum=397">397</a> | <a href="modules.php?name=News&pagenum=398">398</a> | <a href="modules.php?name=News&pagenum=399">399</a> | <a href="modules.php?name=News&pagenum=400">400</a> | <a href="modules.php?name=News&pagenum=401">401</a> | <a href="modules.php?name=News&pagenum=402">402</a> | <a href="modules.php?name=News&pagenum=403">403</a> | <a href="modules.php?name=News&pagenum=404">404</a> | <a href="modules.php?name=News&pagenum=405">405</a> | <a href="modules.php?name=News&pagenum=406">406</a> | <a href="modules.php?name=News&pagenum=407">407</a> | <a href="modules.php?name=News&pagenum=408">408</a> | <a href="modules.php?name=News&pagenum=409">409</a> | <a href="modules.php?name=News&pagenum=410">410</a> | <a href="modules.php?name=News&pagenum=411">411</a> | <a href="modules.php?name=News&pagenum=412">412</a> | <a href="modules.php?name=News&pagenum=413">413</a> | <a href="modules.php?name=News&pagenum=414">414</a> | <a href="modules.php?name=News&pagenum=415">415</a> | <a href="modules.php?name=News&pagenum=416">416</a> | <a href="modules.php?name=News&pagenum=417">417</a> | <a href="modules.php?name=News&pagenum=418">418</a> | <a href="modules.php?name=News&pagenum=419">419</a> | <a href="modules.php?name=News&pagenum=420">420</a> | <a href="modules.php?name=News&pagenum=421">421</a> | <a href="modules.php?name=News&pagenum=422">422</a> | <a href="modules.php?name=News&pagenum=423">423</a> | <a href="modules.php?name=News&pagenum=424">424</a> | <a href="modules.php?name=News&pagenum=425">425</a> | <a href="modules.php?name=News&pagenum=426">426</a> | <a href="modules.php?name=News&pagenum=427">427</a> | <a href="modules.php?name=News&pagenum=428">428</a> | <a href="modules.php?name=News&pagenum=429">429</a> | <a href="modules.php?name=News&pagenum=430">430</a> | <a href="modules.php?name=News&pagenum=431">431</a> | <a href="modules.php?name=News&pagenum=432">432</a> | <a href="modules.php?name=News&pagenum=433">433</a> | <a href="modules.php?name=News&pagenum=434">434</a> | <a href="modules.php?name=News&pagenum=435">435</a> | <a href="modules.php?name=News&pagenum=436">436</a> | <a href="modules.php?name=News&pagenum=437">437</a> | <a href="modules.php?name=News&pagenum=438">438</a> | <a href="modules.php?name=News&pagenum=439">439</a> | <a href="modules.php?name=News&pagenum=440">440</a> | <a href="modules.php?name=News&pagenum=441">441</a> | <a href="modules.php?name=News&pagenum=442">442</a> | <a href="modules.php?name=News&pagenum=443">443</a> | <a href="modules.php?name=News&pagenum=444">444</a> | <a href="modules.php?name=News&pagenum=445">445</a> | <a href="modules.php?name=News&pagenum=446">446</a> | <a href="modules.php?name=News&pagenum=447">447</a> | <a href="modules.php?name=News&pagenum=448">448</a> | <a href="modules.php?name=News&pagenum=449">449</a> | <a href="modules.php?name=News&pagenum=450">450</a> | <a href="modules.php?name=News&pagenum=451">451</a> | <a href="modules.php?name=News&pagenum=452">452</a> | <a href="modules.php?name=News&pagenum=453">453</a> | <a href="modules.php?name=News&pagenum=454">454</a> | <a href="modules.php?name=News&pagenum=455">455</a> | <a href="modules.php?name=News&pagenum=456">456</a> | <a href="modules.php?name=News&pagenum=457">457</a> | <a href="modules.php?name=News&pagenum=458">458</a> | <a href="modules.php?name=News&pagenum=459">459</a> | <a href="modules.php?name=News&pagenum=460">460</a> | <a href="modules.php?name=News&pagenum=461">461</a> | <a href="modules.php?name=News&pagenum=462">462</a> | <a href="modules.php?name=News&pagenum=463">463</a> | <a href="modules.php?name=News&pagenum=464">464</a> | <a href="modules.php?name=News&pagenum=465">465</a> | <a href="modules.php?name=News&pagenum=466">466</a> | <a href="modules.php?name=News&pagenum=467">467</a> | <a href="modules.php?name=News&pagenum=468">468</a> | <a href="modules.php?name=News&pagenum=469">469</a> | <a href="modules.php?name=News&pagenum=470">470</a> | <a href="modules.php?name=News&pagenum=471">471</a> | <a href="modules.php?name=News&pagenum=472">472</a> | <a href="modules.php?name=News&pagenum=473">473</a> | <a href="modules.php?name=News&pagenum=474">474</a> | <a href="modules.php?name=News&pagenum=475">475</a> | <a href="modules.php?name=News&pagenum=476">476</a> | <a href="modules.php?name=News&pagenum=477">477</a> | <a href="modules.php?name=News&pagenum=478">478</a> | <a href="modules.php?name=News&pagenum=479">479</a> | <a href="modules.php?name=News&pagenum=480">480</a> | <a href="modules.php?name=News&pagenum=481">481</a> | <a href="modules.php?name=News&pagenum=482">482</a> | <a href="modules.php?name=News&pagenum=483">483</a> | <a href="modules.php?name=News&pagenum=484">484</a> | <a href="modules.php?name=News&pagenum=485">485</a> | <a href="modules.php?name=News&pagenum=486">486</a> | <a href="modules.php?name=News&pagenum=487">487</a> | <a href="modules.php?name=News&pagenum=488">488</a> | <a href="modules.php?name=News&pagenum=489">489</a> | <a href="modules.php?name=News&pagenum=490">490</a> | <a href="modules.php?name=News&pagenum=491">491</a> | <a href="modules.php?name=News&pagenum=492">492</a> | <a href="modules.php?name=News&pagenum=493">493</a> | <a href="modules.php?name=News&pagenum=494">494</a> | <a href="modules.php?name=News&pagenum=495">495</a> | <a href="modules.php?name=News&pagenum=496">496</a> | <a href="modules.php?name=News&pagenum=497">497</a> | <a href="modules.php?name=News&pagenum=498">498</a> | <a href="modules.php?name=News&pagenum=499">499</a> | <a href="modules.php?name=News&pagenum=500">500</a> | <a href="modules.php?name=News&pagenum=501">501</a> | <a href="modules.php?name=News&pagenum=502">502</a> | <a href="modules.php?name=News&pagenum=503">503</a> | <a href="modules.php?name=News&pagenum=504">504</a> | <a href="modules.php?name=News&pagenum=505">505</a> | <a href="modules.php?name=News&pagenum=506">506</a> | <a href="modules.php?name=News&pagenum=507">507</a> | <a href="modules.php?name=News&pagenum=508">508</a> | <a href="modules.php?name=News&pagenum=509">509</a> | <a href="modules.php?name=News&pagenum=510">510</a> | <a href="modules.php?name=News&pagenum=511">511</a> | <a href="modules.php?name=News&pagenum=512">512</a> | <a href="modules.php?name=News&pagenum=513">513</a> | <a href="modules.php?name=News&pagenum=514">514</a> | <a href="modules.php?name=News&pagenum=515">515</a> | <a href="modules.php?name=News&pagenum=516">516</a> | <a href="modules.php?name=News&pagenum=517">517</a> | <a href="modules.php?name=News&pagenum=518">518</a> | <a href="modules.php?name=News&pagenum=519">519</a> | <a href="modules.php?name=News&pagenum=520">520</a> | <a href="modules.php?name=News&pagenum=521">521</a> | <a href="modules.php?name=News&pagenum=522">522</a> | <a href="modules.php?name=News&pagenum=523">523</a> | <a href="modules.php?name=News&pagenum=524">524</a> | <a href="modules.php?name=News&pagenum=525">525</a> | <a href="modules.php?name=News&pagenum=526">526</a> | <a href="modules.php?name=News&pagenum=527">527</a> | <a href="modules.php?name=News&pagenum=528">528</a> | <a href="modules.php?name=News&pagenum=529">529</a> | <a href="modules.php?name=News&pagenum=530">530</a> | <a href="modules.php?name=News&pagenum=531">531</a> | <a href="modules.php?name=News&pagenum=532">532</a> | <a href="modules.php?name=News&pagenum=533">533</a> | <a href="modules.php?name=News&pagenum=534">534</a> | <a href="modules.php?name=News&pagenum=535">535</a> | <a href="modules.php?name=News&pagenum=536">536</a> | <a href="modules.php?name=News&pagenum=537">537</a> | <a href="modules.php?name=News&pagenum=538">538</a> | <a href="modules.php?name=News&pagenum=539">539</a> | <a href="modules.php?name=News&pagenum=540">540</a> | <a href="modules.php?name=News&pagenum=541">541</a> | <a href="modules.php?name=News&pagenum=542">542</a> | <a href="modules.php?name=News&pagenum=543">543</a> | <a href="modules.php?name=News&pagenum=544">544</a> | <a href="modules.php?name=News&pagenum=545">545</a> | <a href="modules.php?name=News&pagenum=546">546</a> | <a href="modules.php?name=News&pagenum=547">547</a> | <a href="modules.php?name=News&pagenum=548">548</a> | <a href="modules.php?name=News&pagenum=549">549</a> | <a href="modules.php?name=News&pagenum=550">550</a> | <a href="modules.php?name=News&pagenum=551">551</a> | <a href="modules.php?name=News&pagenum=552">552</a> | <a href="modules.php?name=News&pagenum=553">553</a> | <a href="modules.php?name=News&pagenum=554">554</a> | <a href="modules.php?name=News&pagenum=555">555</a> | <a href="modules.php?name=News&pagenum=556">556</a> | <a href="modules.php?name=News&pagenum=557">557</a> | <a href="modules.php?name=News&pagenum=558">558</a> | <a href="modules.php?name=News&pagenum=559">559</a> | <a href="modules.php?name=News&pagenum=560">560</a> | <a href="modules.php?name=News&pagenum=561">561</a> | <a href="modules.php?name=News&pagenum=562">562</a> | <a href="modules.php?name=News&pagenum=563">563</a> | <a href="modules.php?name=News&pagenum=564">564</a> | <a href="modules.php?name=News&pagenum=565">565</a> | <a href="modules.php?name=News&pagenum=566">566</a> | <a href="modules.php?name=News&pagenum=567">567</a> | <a href="modules.php?name=News&pagenum=568">568</a> | <a href="modules.php?name=News&pagenum=569">569</a> | <a href="modules.php?name=News&pagenum=570">570</a> | <a href="modules.php?name=News&pagenum=571">571</a> | <a href="modules.php?name=News&pagenum=572">572</a> | <a href="modules.php?name=News&pagenum=573">573</a> | <a href="modules.php?name=News&pagenum=574">574</a> | <a href="modules.php?name=News&pagenum=575">575</a> | <a href="modules.php?name=News&pagenum=576">576</a> | <a href="modules.php?name=News&pagenum=577">577</a> | <a href="modules.php?name=News&pagenum=578">578</a> | <a href="modules.php?name=News&pagenum=579">579</a> | <a href="modules.php?name=News&pagenum=580">580</a> | <a href="modules.php?name=News&pagenum=581">581</a> | <a href="modules.php?name=News&pagenum=582">582</a> | <a href="modules.php?name=News&pagenum=583">583</a> | <a href="modules.php?name=News&pagenum=584">584</a> | <a href="modules.php?name=News&pagenum=585">585</a> | <a href="modules.php?name=News&pagenum=586">586</a> | <a href="modules.php?name=News&pagenum=587">587</a> | <a href="modules.php?name=News&pagenum=588">588</a> | <a href="modules.php?name=News&pagenum=589">589</a> | <a href="modules.php?name=News&pagenum=590">590</a> | <a href="modules.php?name=News&pagenum=591">591</a> | <a href="modules.php?name=News&pagenum=592">592</a> | <a href="modules.php?name=News&pagenum=593">593</a> | <a href="modules.php?name=News&pagenum=594">594</a> | <a href="modules.php?name=News&pagenum=595">595</a> | <a href="modules.php?name=News&pagenum=596">596</a> | <a href="modules.php?name=News&pagenum=597">597</a> | <a href="modules.php?name=News&pagenum=598">598</a> | <a href="modules.php?name=News&pagenum=599">599</a> | <a href="modules.php?name=News&pagenum=600">600</a> | <a href="modules.php?name=News&pagenum=601">601</a> | <a href="modules.php?name=News&pagenum=602">602</a> | <a href="modules.php?name=News&pagenum=603">603</a> | <a href="modules.php?name=News&pagenum=604">604</a> | <a href="modules.php?name=News&pagenum=605">605</a> | <a href="modules.php?name=News&pagenum=606">606</a> | <a href="modules.php?name=News&pagenum=607">607</a> | <a href="modules.php?name=News&pagenum=608">608</a> | <a href="modules.php?name=News&pagenum=609">609</a> | <a href="modules.php?name=News&pagenum=610">610</a> | <a href="modules.php?name=News&pagenum=611">611</a> | <a href="modules.php?name=News&pagenum=612">612</a> | <a href="modules.php?name=News&pagenum=613">613</a> | <a href="modules.php?name=News&pagenum=614">614</a> | <a href="modules.php?name=News&pagenum=615">615</a> | <a href="modules.php?name=News&pagenum=616">616</a> | <a href="modules.php?name=News&pagenum=617">617</a> | <a href="modules.php?name=News&pagenum=618">618</a> | <a href="modules.php?name=News&pagenum=619">619</a> | <a href="modules.php?name=News&pagenum=620">620</a> | <a href="modules.php?name=News&pagenum=621">621</a> | <a href="modules.php?name=News&pagenum=622">622</a> | <a href="modules.php?name=News&pagenum=623">623</a> | <a href="modules.php?name=News&pagenum=624">624</a> | <a href="modules.php?name=News&pagenum=625">625</a> | <a href="modules.php?name=News&pagenum=626">626</a> | <a href="modules.php?name=News&pagenum=627">627</a> | <a href="modules.php?name=News&pagenum=628">628</a> | <a href="modules.php?name=News&pagenum=629">629</a> | <a href="modules.php?name=News&pagenum=630">630</a> | <a href="modules.php?name=News&pagenum=631">631</a> | <a href="modules.php?name=News&pagenum=632">632</a> | <a href="modules.php?name=News&pagenum=633">633</a> | <a href="modules.php?name=News&pagenum=634">634</a> | <a href="modules.php?name=News&pagenum=635">635</a> | <a href="modules.php?name=News&pagenum=636">636</a> | <a href="modules.php?name=News&pagenum=637">637</a> | <a href="modules.php?name=News&pagenum=638">638</a> | <a href="modules.php?name=News&pagenum=639">639</a> | <a href="modules.php?name=News&pagenum=640">640</a> | <a href="modules.php?name=News&pagenum=641">641</a> | <a href="modules.php?name=News&pagenum=642">642</a> | <a href="modules.php?name=News&pagenum=643">643</a> | <a href="modules.php?name=News&pagenum=644">644</a> | <a href="modules.php?name=News&pagenum=645">645</a> | <a href="modules.php?name=News&pagenum=646">646</a> | <a href="modules.php?name=News&pagenum=647">647</a> | <a href="modules.php?name=News&pagenum=648">648</a> | <a href="modules.php?name=News&pagenum=649">649</a> | <a href="modules.php?name=News&pagenum=650">650</a> | <a href="modules.php?name=News&pagenum=651">651</a> | <a href="modules.php?name=News&pagenum=652">652</a> | <a href="modules.php?name=News&pagenum=653">653</a> | <a href="modules.php?name=News&pagenum=654">654</a> | <a href="modules.php?name=News&pagenum=655">655</a> | <a href="modules.php?name=News&pagenum=656">656</a> | <a href="modules.php?name=News&pagenum=657">657</a> | <a href="modules.php?name=News&pagenum=658">658</a> | <a href="modules.php?name=News&pagenum=659">659</a> | <a href="modules.php?name=News&pagenum=660">660</a> | <a href="modules.php?name=News&pagenum=661">661</a> | <a href="modules.php?name=News&pagenum=662">662</a> | <a href="modules.php?name=News&pagenum=663">663</a> | <a href="modules.php?name=News&pagenum=664">664</a> | <a href="modules.php?name=News&pagenum=665">665</a> | <a href="modules.php?name=News&pagenum=666">666</a> | <a href="modules.php?name=News&pagenum=667">667</a> | <a href="modules.php?name=News&pagenum=668">668</a> | <a href="modules.php?name=News&pagenum=669">669</a> | <a href="modules.php?name=News&pagenum=670">670</a> | <a href="modules.php?name=News&pagenum=671">671</a> | <a href="modules.php?name=News&pagenum=672">672</a> | <a href="modules.php?name=News&pagenum=673">673</a> | <a href="modules.php?name=News&pagenum=674">674</a> | <a href="modules.php?name=News&pagenum=675">675</a> | <a href="modules.php?name=News&pagenum=676">676</a> | <a href="modules.php?name=News&pagenum=677">677</a> | <a href="modules.php?name=News&pagenum=678">678</a> | <a href="modules.php?name=News&pagenum=679">679</a> | <a href="modules.php?name=News&pagenum=680">680</a> | <a href="modules.php?name=News&pagenum=681">681</a> | <a href="modules.php?name=News&pagenum=682">682</a> | <a href="modules.php?name=News&pagenum=683">683</a> | <a href="modules.php?name=News&pagenum=684">684</a> | <a href="modules.php?name=News&pagenum=685">685</a> | <a href="modules.php?name=News&pagenum=686">686</a> | <a href="modules.php?name=News&pagenum=687">687</a> | <a href="modules.php?name=News&pagenum=688">688</a> | <a href="modules.php?name=News&pagenum=689">689</a> | <a href="modules.php?name=News&pagenum=690">690</a> | <a href="modules.php?name=News&pagenum=691">691</a> | <a href="modules.php?name=News&pagenum=692">692</a> | <a href="modules.php?name=News&pagenum=693">693</a> | <a href="modules.php?name=News&pagenum=694">694</a> | <a href="modules.php?name=News&pagenum=695">695</a> | <a href="modules.php?name=News&pagenum=696">696</a> | <a href="modules.php?name=News&pagenum=697">697</a> | <a href="modules.php?name=News&pagenum=698">698</a> | <a href="modules.php?name=News&pagenum=699">699</a> | <a href="modules.php?name=News&pagenum=700">700</a> | <a href="modules.php?name=News&pagenum=701">701</a> | <a href="modules.php?name=News&pagenum=702">702</a> | <a href="modules.php?name=News&pagenum=703">703</a> | <a href="modules.php?name=News&pagenum=704">704</a> | <a href="modules.php?name=News&pagenum=705">705</a> | <a href="modules.php?name=News&pagenum=706">706</a> | <a href="modules.php?name=News&pagenum=707">707</a> | <a href="modules.php?name=News&pagenum=708">708</a> | <a href="modules.php?name=News&pagenum=709">709</a> | <a href="modules.php?name=News&pagenum=710">710</a> | <a href="modules.php?name=News&pagenum=711">711</a> | <a href="modules.php?name=News&pagenum=712">712</a> | <a href="modules.php?name=News&pagenum=713">713</a> | <a href="modules.php?name=News&pagenum=714">714</a> | <a href="modules.php?name=News&pagenum=715">715</a> | <a href="modules.php?name=News&pagenum=716">716</a> | <a href="modules.php?name=News&pagenum=717">717</a> | <a href="modules.php?name=News&pagenum=718">718</a> | <a href="modules.php?name=News&pagenum=719">719</a> | <a href="modules.php?name=News&pagenum=720">720</a> | <a href="modules.php?name=News&pagenum=721">721</a> | <a href="modules.php?name=News&pagenum=722">722</a> | <a href="modules.php?name=News&pagenum=723">723</a> | <a href="modules.php?name=News&pagenum=724">724</a> | <a href="modules.php?name=News&pagenum=725">725</a> | <a href="modules.php?name=News&pagenum=726">726</a> | <a href="modules.php?name=News&pagenum=727">727</a> | <a href="modules.php?name=News&pagenum=728">728</a> | <a href="modules.php?name=News&pagenum=729">729</a> | <a href="modules.php?name=News&pagenum=730">730</a> | <a href="modules.php?name=News&pagenum=731">731</a> | <a href="modules.php?name=News&pagenum=732">732</a> | <a href="modules.php?name=News&pagenum=733">733</a> | <a href="modules.php?name=News&pagenum=734">734</a> | <a href="modules.php?name=News&pagenum=735">735</a> | <a href="modules.php?name=News&pagenum=736">736</a> | <a href="modules.php?name=News&pagenum=737">737</a> | <a href="modules.php?name=News&pagenum=738">738</a> | <a href="modules.php?name=News&pagenum=739">739</a> | <a href="modules.php?name=News&pagenum=740">740</a> | <a href="modules.php?name=News&pagenum=741">741</a> | <a href="modules.php?name=News&pagenum=742">742</a> | <a href="modules.php?name=News&pagenum=743">743</a> | <a href="modules.php?name=News&pagenum=744">744</a> | <a href="modules.php?name=News&pagenum=745">745</a> | <a href="modules.php?name=News&pagenum=746">746</a> | <a href="modules.php?name=News&pagenum=747">747</a> | <a href="modules.php?name=News&pagenum=748">748</a> | <a href="modules.php?name=News&pagenum=749">749</a> | <a href="modules.php?name=News&pagenum=750">750</a> | <a href="modules.php?name=News&pagenum=751">751</a> | <a href="modules.php?name=News&pagenum=752">752</a> | <a href="modules.php?name=News&pagenum=753">753</a> | <a href="modules.php?name=News&pagenum=754">754</a> | <a href="modules.php?name=News&pagenum=755">755</a> | <a href="modules.php?name=News&pagenum=756">756</a> | <a href="modules.php?name=News&pagenum=757">757</a> | <a href="modules.php?name=News&pagenum=758">758</a> | <a href="modules.php?name=News&pagenum=759">759</a> | <a href="modules.php?name=News&pagenum=760">760</a> | <a href="modules.php?name=News&pagenum=761">761</a> | <a href="modules.php?name=News&pagenum=762">762</a> | <a href="modules.php?name=News&pagenum=763">763</a> | <a href="modules.php?name=News&pagenum=764">764</a> | <a href="modules.php?name=News&pagenum=765">765</a> | <a href="modules.php?name=News&pagenum=766">766</a> | <a href="modules.php?name=News&pagenum=767">767</a> | <a href="modules.php?name=News&pagenum=768">768</a> | <a href="modules.php?name=News&pagenum=769">769</a> | <a href="modules.php?name=News&pagenum=770">770</a> | <a href="modules.php?name=News&pagenum=771">771</a> | <a href="modules.php?name=News&pagenum=772">772</a> | <a href="modules.php?name=News&pagenum=773">773</a> | <a href="modules.php?name=News&pagenum=774">774</a> | <a href="modules.php?name=News&pagenum=775">775</a> | <a href="modules.php?name=News&pagenum=776">776</a> | <a href="modules.php?name=News&pagenum=777">777</a> | <a href="modules.php?name=News&pagenum=778">778</a> | <a href="modules.php?name=News&pagenum=779">779</a> | <a href="modules.php?name=News&pagenum=780">780</a> | <a href="modules.php?name=News&pagenum=781">781</a> | <a href="modules.php?name=News&pagenum=782">782</a> | <a href="modules.php?name=News&pagenum=783">783</a> | <a href="modules.php?name=News&pagenum=784">784</a> | <a href="modules.php?name=News&pagenum=785">785</a> | <a href="modules.php?name=News&pagenum=786">786</a> | <a href="modules.php?name=News&pagenum=787">787</a> | <a href="modules.php?name=News&pagenum=788">788</a> | <a href="modules.php?name=News&pagenum=789">789</a> | <a href="modules.php?name=News&pagenum=790">790</a> | <a href="modules.php?name=News&pagenum=791">791</a> | <a href="modules.php?name=News&pagenum=792">792</a> | <a href="modules.php?name=News&pagenum=793">793</a> | <a href="modules.php?name=News&pagenum=794">794</a> | <a href="modules.php?name=News&pagenum=795">795</a> | <a href="modules.php?name=News&pagenum=796">796</a> | <a href="modules.php?name=News&pagenum=797">797</a> | <a href="modules.php?name=News&pagenum=798">798</a> | <a href="modules.php?name=News&pagenum=799">799</a> | <a href="modules.php?name=News&pagenum=800">800</a> | <a href="modules.php?name=News&pagenum=801">801</a> | <a href="modules.php?name=News&pagenum=802">802</a> | <a href="modules.php?name=News&pagenum=803">803</a> | <a href="modules.php?name=News&pagenum=804">804</a> | <a href="modules.php?name=News&pagenum=805">805</a> | <a href="modules.php?name=News&pagenum=806">806</a> | <a href="modules.php?name=News&pagenum=807">807</a> | <a href="modules.php?name=News&pagenum=808">808</a> | <a href="modules.php?name=News&pagenum=809">809</a> | <a href="modules.php?name=News&pagenum=810">810</a> | <a href="modules.php?name=News&pagenum=811">811</a> | <a href="modules.php?name=News&pagenum=812">812</a> | <a href="modules.php?name=News&pagenum=813">813</a> | <a href="modules.php?name=News&pagenum=814">814</a> | <a href="modules.php?name=News&pagenum=815">815</a> | <a href="modules.php?name=News&pagenum=816">816</a> | <a href="modules.php?name=News&pagenum=817">817</a> | <a href="modules.php?name=News&pagenum=818">818</a> | <a href="modules.php?name=News&pagenum=819">819</a> | <a href="modules.php?name=News&pagenum=820">820</a> | <a href="modules.php?name=News&pagenum=821">821</a> | <a href="modules.php?name=News&pagenum=822">822</a> | <a href="modules.php?name=News&pagenum=823">823</a> | <a href="modules.php?name=News&pagenum=824">824</a> | <a href="modules.php?name=News&pagenum=825">825</a> | <a href="modules.php?name=News&pagenum=826">826</a> | <a href="modules.php?name=News&pagenum=827">827</a> | <a href="modules.php?name=News&pagenum=828">828</a> | <a href="modules.php?name=News&pagenum=829">829</a> | <a href="modules.php?name=News&pagenum=830">830</a> | <a href="modules.php?name=News&pagenum=831">831</a> | <a href="modules.php?name=News&pagenum=832">832</a> | <a href="modules.php?name=News&pagenum=833">833</a> | <a href="modules.php?name=News&pagenum=834">834</a> | <a href="modules.php?name=News&pagenum=835">835</a> | <a href="modules.php?name=News&pagenum=836">836</a> | <a href="modules.php?name=News&pagenum=837">837</a> | <a href="modules.php?name=News&pagenum=838">838</a> | <a href="modules.php?name=News&pagenum=839">839</a> | <a href="modules.php?name=News&pagenum=840">840</a> | <a href="modules.php?name=News&pagenum=841">841</a> | <a href="modules.php?name=News&pagenum=842">842</a> | <a href="modules.php?name=News&pagenum=843">843</a> | <a href="modules.php?name=News&pagenum=844">844</a> | <a href="modules.php?name=News&pagenum=845">845</a> | <a href="modules.php?name=News&pagenum=846">846</a> | <a href="modules.php?name=News&pagenum=847">847</a> | <a href="modules.php?name=News&pagenum=848">848</a> | <a href="modules.php?name=News&pagenum=849">849</a> | <a href="modules.php?name=News&pagenum=850">850</a> | <a href="modules.php?name=News&pagenum=851">851</a> | <a href="modules.php?name=News&pagenum=852">852</a> | <a href="modules.php?name=News&pagenum=853">853</a> | <a href="modules.php?name=News&pagenum=854">854</a> | <a href="modules.php?name=News&pagenum=855">855</a> | <a href="modules.php?name=News&pagenum=856">856</a> | <a href="modules.php?name=News&pagenum=857">857</a> | <a href="modules.php?name=News&pagenum=858">858</a> | <a href="modules.php?name=News&pagenum=859">859</a> | <a href="modules.php?name=News&pagenum=860">860</a> | <a href="modules.php?name=News&pagenum=861">861</a> | <a href="modules.php?name=News&pagenum=862">862</a> | <a href="modules.php?name=News&pagenum=863">863</a> | <a href="modules.php?name=News&pagenum=864">864</a> | <a href="modules.php?name=News&pagenum=865">865</a> | <a href="modules.php?name=News&pagenum=866">866</a> | <a href="modules.php?name=News&pagenum=867">867</a> | <a href="modules.php?name=News&pagenum=868">868</a> | <a href="modules.php?name=News&pagenum=869">869</a> | <a href="modules.php?name=News&pagenum=870">870</a> | <a href="modules.php?name=News&pagenum=871">871</a> | <a href="modules.php?name=News&pagenum=872">872</a> | <a href="modules.php?name=News&pagenum=873">873</a> | <a href="modules.php?name=News&pagenum=874">874</a> | <a href="modules.php?name=News&pagenum=875">875</a> | <a href="modules.php?name=News&pagenum=876">876</a> | <a href="modules.php?name=News&pagenum=877">877</a> | <a href="modules.php?name=News&pagenum=878">878</a> | <a href="modules.php?name=News&pagenum=879">879</a> | <a href="modules.php?name=News&pagenum=880">880</a> | <a href="modules.php?name=News&pagenum=881">881</a> | <a href="modules.php?name=News&pagenum=882">882</a> | <a href="modules.php?name=News&pagenum=883">883</a> | <a href="modules.php?name=News&pagenum=884">884</a> | <a href="modules.php?name=News&pagenum=885">885</a> | <a href="modules.php?name=News&pagenum=886">886</a> | <a href="modules.php?name=News&pagenum=887">887</a> | <a href="modules.php?name=News&pagenum=888">888</a> | <a href="modules.php?name=News&pagenum=889">889</a> | <a href="modules.php?name=News&pagenum=890">890</a> | <a href="modules.php?name=News&pagenum=891">891</a> | <a href="modules.php?name=News&pagenum=892">892</a> | <a href="modules.php?name=News&pagenum=893">893</a> | <a href="modules.php?name=News&pagenum=894">894</a> | <a href="modules.php?name=News&pagenum=895">895</a> | <a href="modules.php?name=News&pagenum=896">896</a> | <a href="modules.php?name=News&pagenum=897">897</a> | <a href="modules.php?name=News&pagenum=898">898</a> | <a href="modules.php?name=News&pagenum=899">899</a> | <a href="modules.php?name=News&pagenum=900">900</a> | <a href="modules.php?name=News&pagenum=901">901</a> | <a href="modules.php?name=News&pagenum=902">902</a> | <a href="modules.php?name=News&pagenum=903">903</a> | <a href="modules.php?name=News&pagenum=904">904</a> | <a href="modules.php?name=News&pagenum=905">905</a> | <a href="modules.php?name=News&pagenum=906">906</a> | <a href="modules.php?name=News&pagenum=907">907</a> | <a href="modules.php?name=News&pagenum=908">908</a> | <a href="modules.php?name=News&pagenum=909">909</a> | <a href="modules.php?name=News&pagenum=910">910</a> | <a href="modules.php?name=News&pagenum=911">911</a> | <a href="modules.php?name=News&pagenum=912">912</a> | <a href="modules.php?name=News&pagenum=913">913</a> | <a href="modules.php?name=News&pagenum=914">914</a> | <a href="modules.php?name=News&pagenum=915">915</a> | <a href="modules.php?name=News&pagenum=916">916</a> | <a href="modules.php?name=News&pagenum=917">917</a> | <a href="modules.php?name=News&pagenum=918">918</a> | <a href="modules.php?name=News&pagenum=919">919</a> | <a href="modules.php?name=News&pagenum=920">920</a> | <a href="modules.php?name=News&pagenum=921">921</a> | <a href="modules.php?name=News&pagenum=922">922</a> | <a href="modules.php?name=News&pagenum=923">923</a> | <a href="modules.php?name=News&pagenum=924">924</a> | <a href="modules.php?name=News&pagenum=925">925</a> | <a href="modules.php?name=News&pagenum=926">926</a> | <a href="modules.php?name=News&pagenum=927">927</a> | <a href="modules.php?name=News&pagenum=928">928</a> | <a href="modules.php?name=News&pagenum=929">929</a> | <a href="modules.php?name=News&pagenum=930">930</a> | <a href="modules.php?name=News&pagenum=931">931</a> | <a href="modules.php?name=News&pagenum=932">932</a> | <a href="modules.php?name=News&pagenum=933">933</a> | <a href="modules.php?name=News&pagenum=934">934</a> | <a href="modules.php?name=News&pagenum=935">935</a> | <a href="modules.php?name=News&pagenum=936">936</a> | <a href="modules.php?name=News&pagenum=937">937</a> | <a href="modules.php?name=News&pagenum=938">938</a> | <a href="modules.php?name=News&pagenum=939">939</a> | <a href="modules.php?name=News&pagenum=940">940</a> | <a href="modules.php?name=News&pagenum=941">941</a> | <a href="modules.php?name=News&pagenum=942">942</a> | <a href="modules.php?name=News&pagenum=943">943</a> | <a href="modules.php?name=News&pagenum=944">944</a> | <a href="modules.php?name=News&pagenum=945">945</a> | <a href="modules.php?name=News&pagenum=946">946</a> | <a href="modules.php?name=News&pagenum=947">947</a> | <a href="modules.php?name=News&pagenum=948">948</a> | <a href="modules.php?name=News&pagenum=949">949</a> | <a href="modules.php?name=News&pagenum=950">950</a> | <a href="modules.php?name=News&pagenum=951">951</a> | <a href="modules.php?name=News&pagenum=952">952</a> | <a href="modules.php?name=News&pagenum=953">953</a> | <a href="modules.php?name=News&pagenum=954">954</a> | <a href="modules.php?name=News&pagenum=955">955</a> | <a href="modules.php?name=News&pagenum=956">956</a> | <a href="modules.php?name=News&pagenum=957">957</a> | <a href="modules.php?name=News&pagenum=958">958</a> | <a href="modules.php?name=News&pagenum=959">959</a> | <a href="modules.php?name=News&pagenum=960">960</a> | <a href="modules.php?name=News&pagenum=961">961</a> | <a href="modules.php?name=News&pagenum=962">962</a> | <a href="modules.php?name=News&pagenum=963">963</a> | <a href="modules.php?name=News&pagenum=964">964</a> | <a href="modules.php?name=News&pagenum=965">965</a> | <a href="modules.php?name=News&pagenum=966">966</a> | <a href="modules.php?name=News&pagenum=967">967</a> | <a href="modules.php?name=News&pagenum=968">968</a> | <a href="modules.php?name=News&pagenum=969">969</a> | <a href="modules.php?name=News&pagenum=970">970</a> | <a href="modules.php?name=News&pagenum=971">971</a> | <a href="modules.php?name=News&pagenum=972">972</a> | <a href="modules.php?name=News&pagenum=973">973</a> | <a href="modules.php?name=News&pagenum=974">974</a> | <a href="modules.php?name=News&pagenum=975">975</a> | <a href="modules.php?name=News&pagenum=976">976</a> | <a href="modules.php?name=News&pagenum=977">977</a> | <a href="modules.php?name=News&pagenum=978">978</a> | <a href="modules.php?name=News&pagenum=979">979</a> | <a href="modules.php?name=News&pagenum=980">980</a> | <a href="modules.php?name=News&pagenum=981">981</a> | <a href="modules.php?name=News&pagenum=982">982</a> | <a href="modules.php?name=News&pagenum=983">983</a> | <a href="modules.php?name=News&pagenum=984">984</a> | <a href="modules.php?name=News&pagenum=985">985</a> | <a href="modules.php?name=News&pagenum=986">986</a> | <a href="modules.php?name=News&pagenum=987">987</a> | <a href="modules.php?name=News&pagenum=988">988</a> | <a href="modules.php?name=News&pagenum=989">989</a> | <a href="modules.php?name=News&pagenum=990">990</a> | <a href="modules.php?name=News&pagenum=991">991</a> | <a href="modules.php?name=News&pagenum=992">992</a> | <a href="modules.php?name=News&pagenum=993">993</a> | <a href="modules.php?name=News&pagenum=994">994</a> | <a href="modules.php?name=News&pagenum=995">995</a> | <a href="modules.php?name=News&pagenum=996">996</a> | <a href="modules.php?name=News&pagenum=997">997</a> | <a href="modules.php?name=News&pagenum=998">998</a> | <a href="modules.php?name=News&pagenum=999">999</a> | <a href="modules.php?name=News&pagenum=1000">1000</a> | <a href="modules.php?name=News&pagenum=1001">1001</a> | <a href="modules.php?name=News&pagenum=1002">1002</a> | <a href="modules.php?name=News&pagenum=1003">1003</a> | <a href="modules.php?name=News&pagenum=1004">1004</a> | <a href="modules.php?name=News&pagenum=1005">1005</a> | <a href="modules.php?name=News&pagenum=1006">1006</a> | <a href="modules.php?name=News&pagenum=1007">1007</a> | <a href="modules.php?name=News&pagenum=1008">1008</a> | <a href="modules.php?name=News&pagenum=1009">1009</a> | <a href="modules.php?name=News&pagenum=1010">1010</a> | <a href="modules.php?name=News&pagenum=1011">1011</a> | <a href="modules.php?name=News&pagenum=1012">1012</a> | <a href="modules.php?name=News&pagenum=1013">1013</a> | <a href="modules.php?name=News&pagenum=1014">1014</a> | <a href="modules.php?name=News&pagenum=1015">1015</a> | <a href="modules.php?name=News&pagenum=1016">1016</a> | <a href="modules.php?name=News&pagenum=1017">1017</a> | <a href="modules.php?name=News&pagenum=1018">1018</a> | <a href="modules.php?name=News&pagenum=1019">1019</a> | <a href="modules.php?name=News&pagenum=1020">1020</a> | <a href="modules.php?name=News&pagenum=1021">1021</a> | <a href="modules.php?name=News&pagenum=1022">1022</a> | <a href="modules.php?name=News&pagenum=1023">1023</a> | <a href="modules.php?name=News&pagenum=1024">1024</a> | <a href="modules.php?name=News&pagenum=1025">1025</a> | <a href="modules.php?name=News&pagenum=1026">1026</a> | <a href="modules.php?name=News&pagenum=1027">1027</a> | <a href="modules.php?name=News&pagenum=1028">1028</a> | <a href="modules.php?name=News&pagenum=1029">1029</a> | <a href="modules.php?name=News&pagenum=1030">1030</a> | <a href="modules.php?name=News&pagenum=1031">1031</a> | <a href="modules.php?name=News&pagenum=1032">1032</a> | <a href="modules.php?name=News&pagenum=1033">1033</a> | <a href="modules.php?name=News&pagenum=1034">1034</a> | <a href="modules.php?name=News&pagenum=1035">1035</a> | <a href="modules.php?name=News&pagenum=1036">1036</a> | <a href="modules.php?name=News&pagenum=1037">1037</a> | <a href="modules.php?name=News&pagenum=1038">1038</a> | <a href="modules.php?name=News&pagenum=1039">1039</a> | <a href="modules.php?name=News&pagenum=1040">1040</a> | <a href="modules.php?name=News&pagenum=1041">1041</a> | <a href="modules.php?name=News&pagenum=1042">1042</a> | <a href="modules.php?name=News&pagenum=1043">1043</a> | <a href="modules.php?name=News&pagenum=1044">1044</a> | <a href="modules.php?name=News&pagenum=1045">1045</a> | <a href="modules.php?name=News&pagenum=1046">1046</a> | <a href="modules.php?name=News&pagenum=1047">1047</a> | <a href="modules.php?name=News&pagenum=1048">1048</a> | <a href="modules.php?name=News&pagenum=1049">1049</a> | <a href="modules.php?name=News&pagenum=1050">1050</a> | <a href="modules.php?name=News&pagenum=1051">1051</a> | <a href="modules.php?name=News&pagenum=1052">1052</a> | <a href="modules.php?name=News&pagenum=1053">1053</a> | <a href="modules.php?name=News&pagenum=1054">1054</a> | <a href="modules.php?name=News&pagenum=1055">1055</a> | <a href="modules.php?name=News&pagenum=1056">1056</a> | <a href="modules.php?name=News&pagenum=1057">1057</a> | <a href="modules.php?name=News&pagenum=1058">1058</a> | <a href="modules.php?name=News&pagenum=1059">1059</a> | <a href="modules.php?name=News&pagenum=1060">1060</a> | <a href="modules.php?name=News&pagenum=1061">1061</a> | <a href="modules.php?name=News&pagenum=1062">1062</a> | <a href="modules.php?name=News&pagenum=1063">1063</a> | <a href="modules.php?name=News&pagenum=1064">1064</a> | <a href="modules.php?name=News&pagenum=1065">1065</a> | <a href="modules.php?name=News&pagenum=1066">1066</a> | <a href="modules.php?name=News&pagenum=1067">1067</a> | <a href="modules.php?name=News&pagenum=1068">1068</a> | <a href="modules.php?name=News&pagenum=1069">1069</a> | <a href="modules.php?name=News&pagenum=1070">1070</a> | <a href="modules.php?name=News&pagenum=1071">1071</a> | <a href="modules.php?name=News&pagenum=1072">1072</a> | <a href="modules.php?name=News&pagenum=1073">1073</a> | <a href="modules.php?name=News&pagenum=1074">1074</a> | <a href="modules.php?name=News&pagenum=1075">1075</a> | <a href="modules.php?name=News&pagenum=1076">1076</a> | <a href="modules.php?name=News&pagenum=1077">1077</a> | <a href="modules.php?name=News&pagenum=1078">1078</a> | <a href="modules.php?name=News&pagenum=1079">1079</a> | <a href="modules.php?name=News&pagenum=1080">1080</a> | <a href="modules.php?name=News&pagenum=1081">1081</a> | <a href="modules.php?name=News&pagenum=1082">1082</a> | <a href="modules.php?name=News&pagenum=1083">1083</a> | <a href="modules.php?name=News&pagenum=1084">1084</a> | <a href="modules.php?name=News&pagenum=1085">1085</a> | <a href="modules.php?name=News&pagenum=1086">1086</a> | <a href="modules.php?name=News&pagenum=1087">1087</a> | <a href="modules.php?name=News&pagenum=1088">1088</a> | <a href="modules.php?name=News&pagenum=1089">1089</a> | <a href="modules.php?name=News&pagenum=1090">1090</a> | <a href="modules.php?name=News&pagenum=1091">1091</a> | <a href="modules.php?name=News&pagenum=1092">1092</a> | <a href="modules.php?name=News&pagenum=1093">1093</a> | <a href="modules.php?name=News&pagenum=1094">1094</a> | <a href="modules.php?name=News&pagenum=1095">1095</a> | <a href="modules.php?name=News&pagenum=1096">1096</a> | <a href="modules.php?name=News&pagenum=1097">1097</a> | <a href="modules.php?name=News&pagenum=1098">1098</a> | <a href="modules.php?name=News&pagenum=1099">1099</a> | <a href="modules.php?name=News&pagenum=1100">1100</a> | <a href="modules.php?name=News&pagenum=1101">1101</a> | <a href="modules.php?name=News&pagenum=1102">1102</a> | <a href="modules.php?name=News&pagenum=1103">1103</a> | <a href="modules.php?name=News&pagenum=1104">1104</a> | <a href="modules.php?name=News&pagenum=1105">1105</a> | <a href="modules.php?name=News&pagenum=1106">1106</a> | <a href="modules.php?name=News&pagenum=1107">1107</a> | <a href="modules.php?name=News&pagenum=1108">1108</a> | <a href="modules.php?name=News&pagenum=1109">1109</a> | <a href="modules.php?name=News&pagenum=1110">1110</a> | <a href="modules.php?name=News&pagenum=1111">1111</a> | <a href="modules.php?name=News&pagenum=1112">1112</a> | <a href="modules.php?name=News&pagenum=1113">1113</a> | <a href="modules.php?name=News&pagenum=1114">1114</a> | <a href="modules.php?name=News&pagenum=1115">1115</a> | <a href="modules.php?name=News&pagenum=1116">1116</a> | <a href="modules.php?name=News&pagenum=1117">1117</a> | <a href="modules.php?name=News&pagenum=1118">1118</a> | <a href="modules.php?name=News&pagenum=1119">1119</a> | <a href="modules.php?name=News&pagenum=1120">1120</a> | <a href="modules.php?name=News&pagenum=1121">1121</a> | <a href="modules.php?name=News&pagenum=1122">1122</a> | <a href="modules.php?name=News&pagenum=1123">1123</a> | <a href="modules.php?name=News&pagenum=1124">1124</a> | <a href="modules.php?name=News&pagenum=1125">1125</a> | <a href="modules.php?name=News&pagenum=1126">1126</a> | <a href="modules.php?name=News&pagenum=1127">1127</a> | <a href="modules.php?name=News&pagenum=1128">1128</a> | <a href="modules.php?name=News&pagenum=1129">1129</a> | <a href="modules.php?name=News&pagenum=1130">1130</a> | <a href="modules.php?name=News&pagenum=1131">1131</a> | <a href="modules.php?name=News&pagenum=1132">1132</a> | <a href="modules.php?name=News&pagenum=1133">1133</a> | <a href="modules.php?name=News&pagenum=1134">1134</a> | <a href="modules.php?name=News&pagenum=1135">1135</a> | <a href="modules.php?name=News&pagenum=1136">1136</a> | <a href="modules.php?name=News&pagenum=1137">1137</a> | <a href="modules.php?name=News&pagenum=1138">1138</a> | <a href="modules.php?name=News&pagenum=1139">1139</a> | <a href="modules.php?name=News&pagenum=1140">1140</a> | <a href="modules.php?name=News&pagenum=1141">1141</a> | <a href="modules.php?name=News&pagenum=1142">1142</a> | <a href="modules.php?name=News&pagenum=1143">1143</a> | <a href="modules.php?name=News&pagenum=1144">1144</a> | <a href="modules.php?name=News&pagenum=1145">1145</a> | <a href="modules.php?name=News&pagenum=1146">1146</a> | <a href="modules.php?name=News&pagenum=1147">1147</a> | <a href="modules.php?name=News&pagenum=1148">1148</a> | <a href="modules.php?name=News&pagenum=1149">1149</a> | <a href="modules.php?name=News&pagenum=1150">1150</a> | <a href="modules.php?name=News&pagenum=1151">1151</a> | <a href="modules.php?name=News&pagenum=1152">1152</a> | <a href="modules.php?name=News&pagenum=1153">1153</a> | <a href="modules.php?name=News&pagenum=1154">1154</a> | <a href="modules.php?name=News&pagenum=1155">1155</a> | <a href="modules.php?name=News&pagenum=1156">1156</a> | <a href="modules.php?name=News&pagenum=1157">1157</a> | <a href="modules.php?name=News&pagenum=1158">1158</a> | <a href="modules.php?name=News&pagenum=1159">1159</a> | <a href="modules.php?name=News&pagenum=1160">1160</a> | <a href="modules.php?name=News&pagenum=1161">1161</a> | <a href="modules.php?name=News&pagenum=1162">1162</a> | <a href="modules.php?name=News&pagenum=1163">1163</a> | <a href="modules.php?name=News&pagenum=1164">1164</a> | <a href="modules.php?name=News&pagenum=1165">1165</a> | <a href="modules.php?name=News&pagenum=1166">1166</a> | <a href="modules.php?name=News&pagenum=1167">1167</a> | <a href="modules.php?name=News&pagenum=1168">1168</a> | <a href="modules.php?name=News&pagenum=1169">1169</a> | <a href="modules.php?name=News&pagenum=1170">1170</a> | <a href="modules.php?name=News&pagenum=1171">1171</a> | <a href="modules.php?name=News&pagenum=1172">1172</a> | <a href="modules.php?name=News&pagenum=1173">1173</a> | <a href="modules.php?name=News&pagenum=1174">1174</a> | <a href="modules.php?name=News&pagenum=1175">1175</a> | <a href="modules.php?name=News&pagenum=1176">1176</a> | <a href="modules.php?name=News&pagenum=1177">1177</a> | <a href="modules.php?name=News&pagenum=1178">1178</a> | <a href="modules.php?name=News&pagenum=1179">1179</a> | <a href="modules.php?name=News&pagenum=1180">1180</a> | <a href="modules.php?name=News&pagenum=1181">1181</a> | <a href="modules.php?name=News&pagenum=1182">1182</a> | <a href="modules.php?name=News&pagenum=1183">1183</a> | <a href="modules.php?name=News&pagenum=1184">1184</a> | <a href="modules.php?name=News&pagenum=1185">1185</a> | <a href="modules.php?name=News&pagenum=1186">1186</a> | <a href="modules.php?name=News&pagenum=1187">1187</a> | <a href="modules.php?name=News&pagenum=1188">1188</a> | <a href="modules.php?name=News&pagenum=1189">1189</a> | <a href="modules.php?name=News&pagenum=1190">1190</a> | <a href="modules.php?name=News&pagenum=1191">1191</a> | <a href="modules.php?name=News&pagenum=1192">1192</a> | <a href="modules.php?name=News&pagenum=1193">1193</a> | <a href="modules.php?name=News&pagenum=1194">1194</a> | <a href="modules.php?name=News&pagenum=1195">1195</a> | <a href="modules.php?name=News&pagenum=1196">1196</a> | <a href="modules.php?name=News&pagenum=1197">1197</a> | <a href="modules.php?name=News&pagenum=1198">1198</a> | <a href="modules.php?name=News&pagenum=1199">1199</a> | <a href="modules.php?name=News&pagenum=1200">1200</a> | <a href="modules.php?name=News&pagenum=1201">1201</a> | <a href="modules.php?name=News&pagenum=1202">1202</a> | <a href="modules.php?name=News&pagenum=1203">1203</a> | <a href="modules.php?name=News&pagenum=1204">1204</a> | <a href="modules.php?name=News&pagenum=1205">1205</a> | <a href="modules.php?name=News&pagenum=1206">1206</a> | <a href="modules.php?name=News&pagenum=1207">1207</a> | <a href="modules.php?name=News&pagenum=1208">1208</a> | <a href="modules.php?name=News&pagenum=1209">1209</a> | <a href="modules.php?name=News&pagenum=1210">1210</a> | <a href="modules.php?name=News&pagenum=1211">1211</a> | <a href="modules.php?name=News&pagenum=1212">1212</a> | <a href="modules.php?name=News&pagenum=1213">1213</a> | <a href="modules.php?name=News&pagenum=1214">1214</a> | <a href="modules.php?name=News&pagenum=1215">1215</a> | <a href="modules.php?name=News&pagenum=1216">1216</a> | <a href="modules.php?name=News&pagenum=1217">1217</a> | <a href="modules.php?name=News&pagenum=1218">1218</a> | <a href="modules.php?name=News&pagenum=1219">1219</a> | <a href="modules.php?name=News&pagenum=1220">1220</a> | <a href="modules.php?name=News&pagenum=1221">1221</a> | <a href="modules.php?name=News&pagenum=1222">1222</a> | <a href="modules.php?name=News&pagenum=1223">1223</a> | <a href="modules.php?name=News&pagenum=1224">1224</a> | <a href="modules.php?name=News&pagenum=1225">1225</a> | <a href="modules.php?name=News&pagenum=1226">1226</a> | <a href="modules.php?name=News&pagenum=1227">1227</a> | <a href="modules.php?name=News&pagenum=1228">1228</a> | <a href="modules.php?name=News&pagenum=1229">1229</a> | <a href="modules.php?name=News&pagenum=1230">1230</a> | <a href="modules.php?name=News&pagenum=1231">1231</a> | <a href="modules.php?name=News&pagenum=1232">1232</a> | <a href="modules.php?name=News&pagenum=1233">1233</a> | <a href="modules.php?name=News&pagenum=1234">1234</a> | <a href="modules.php?name=News&pagenum=1235">1235</a> | <a href="modules.php?name=News&pagenum=1236">1236</a> | <a href="modules.php?name=News&pagenum=1237">1237</a> | <a href="modules.php?name=News&pagenum=1238">1238</a> | <a href="modules.php?name=News&pagenum=1239">1239</a> | <a href="modules.php?name=News&pagenum=1240">1240</a> | <a href="modules.php?name=News&pagenum=1241">1241</a> | <a href="modules.php?name=News&pagenum=1242">1242</a> | <a href="modules.php?name=News&pagenum=1243">1243</a> | <a href="modules.php?name=News&pagenum=1244">1244</a> | <a href="modules.php?name=News&pagenum=1245">1245</a> | <a href="modules.php?name=News&pagenum=1246">1246</a> | <a href="modules.php?name=News&pagenum=1247">1247</a> | <a href="modules.php?name=News&pagenum=1248">1248</a> | <a href="modules.php?name=News&pagenum=1249">1249</a> | <a href="modules.php?name=News&pagenum=1250">1250</a> | <a href="modules.php?name=News&pagenum=1251">1251</a> | <a href="modules.php?name=News&pagenum=1252">1252</a> | <a href="modules.php?name=News&pagenum=1253">1253</a> | <a href="modules.php?name=News&pagenum=1254">1254</a> | <a href="modules.php?name=News&pagenum=1255">1255</a> | <a href="modules.php?name=News&pagenum=1256">1256</a> | <a href="modules.php?name=News&pagenum=1257">1257</a> | <a href="modules.php?name=News&pagenum=1258">1258</a> | <a href="modules.php?name=News&pagenum=1259">1259</a> | <a href="modules.php?name=News&pagenum=1260">1260</a> | <a href="modules.php?name=News&pagenum=1261">1261</a> | <a href="modules.php?name=News&pagenum=1262">1262</a> | <a href="modules.php?name=News&pagenum=1263">1263</a> | <a href="modules.php?name=News&pagenum=1264">1264</a> | <a href="modules.php?name=News&pagenum=1265">1265</a> | <a href="modules.php?name=News&pagenum=1266">1266</a> | <a href="modules.php?name=News&pagenum=1267">1267</a> | <a href="modules.php?name=News&pagenum=1268">1268</a> | <a href="modules.php?name=News&pagenum=1269">1269</a> | <a href="modules.php?name=News&pagenum=1270">1270</a> | <a href="modules.php?name=News&pagenum=1271">1271</a> | <a href="modules.php?name=News&pagenum=1272">1272</a> | <a href="modules.php?name=News&pagenum=1273">1273</a> | <a href="modules.php?name=News&pagenum=1274">1274</a> | <a href="modules.php?name=News&pagenum=1275">1275</a> | <a href="modules.php?name=News&pagenum=1276">1276</a> | <a href="modules.php?name=News&pagenum=1277">1277</a> | <a href="modules.php?name=News&pagenum=1278">1278</a> | <a href="modules.php?name=News&pagenum=1279">1279</a> | <a href="modules.php?name=News&pagenum=1280">1280</a> | <a href="modules.php?name=News&pagenum=1281">1281</a> | <a href="modules.php?name=News&pagenum=1282">1282</a> | <a href="modules.php?name=News&pagenum=1283">1283</a> | <a href="modules.php?name=News&pagenum=1284">1284</a> | <a href="modules.php?name=News&pagenum=1285">1285</a> | <a href="modules.php?name=News&pagenum=1286">1286</a> | <a href="modules.php?name=News&pagenum=1287">1287</a> | <a href="modules.php?name=News&pagenum=1288">1288</a> | <a href="modules.php?name=News&pagenum=1289">1289</a> | <a href="modules.php?name=News&pagenum=1290">1290</a> | <a href="modules.php?name=News&pagenum=1291">1291</a> | <a href="modules.php?name=News&pagenum=1292">1292</a> | <a href="modules.php?name=News&pagenum=1293">1293</a> | <a href="modules.php?name=News&pagenum=1294">1294</a> | <a href="modules.php?name=News&pagenum=1295">1295</a> | <a href="modules.php?name=News&pagenum=1296">1296</a> | <a href="modules.php?name=News&pagenum=1297">1297</a> | <a href="modules.php?name=News&pagenum=1298">1298</a> ]<a href="modules.php?name=News&pagenum=2"><img src="images/right.gif" align="absmiddle" border="0" hspace="10"></a></center></td></tr></table></td></tr></table>
+<table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="#CCCCCC"><tr><td>
+<table width="100%" border="0" cellspacing="1" cellpadding="10" bgcolor="#ffffff"><tr><td>
+<center><font class="option"><b></b></font></center><br><marquee scrollamount="8">
+<a href="https://gosurburo.government-nnov.ru/" target=apblank"><img src="semradio/images/2017/gorurburo.jpg" alt="Бесплатная юридическая помощь в Нижегородской области"  height="70" border=0 ></a>
+
+<a href="http://xn--80afoscdgbnpido8j.xn--p1ai/" target="blank"><img src="semradio/images/fingram.jpg" alt="Финансовая грамотность нижегородская область" height="70" border=0 ></a>
+
+<a href="https://internetforkids.ru/charter/" target="blank"><img src="semradio/images/CED.jpg" alt="Цифровая этика детства" height="70" border=0 ></a>
+
+<a href="https://mrsk-cp.ru/for_consumers/inform_about_disconnect" target=apblank"><img src="semradio/images/33_2.png" alt="узнать об отключении электроэнергии"  height="70" border=0 ></a>
+
+<a href="https://www.semenov.nnov.ru/modules.php?name=News&new_topic=61" target="blank"><img src="semradio/images/covid191.jpg" alt="РТСР"  height="70" border=0 ></a>
+
+<a href="https://МЫВМЕСТЕ2020.РФ" target="blank"><img src="semradio/images/WeALL1.jpg" alt="МЫВМЕСТЕ2020.РФ" height="70" border=0 ></a>
+
+<a href="https://МЫВМЕСТЕ2020.РФ" target="blank"><img src="semradio/images/bus.gif" alt="bus.gov.ru" height="70" border=0 ></a>
+
+<a href="https://ЗАБИЗНЕС.РФ" target="blank"><img src="semradio/images/bizznes.jpg" alt="ЗАБИЗНЕС.РФ" height="70" border=0 ></a>
+
+<a href="https://вамрешать.рф/votings/69?area_id=24 "target="blank""><img src="semradio/images/1b1.jpg" alt="Голосование в поддержку проектов городского округа Семёновский, основанных на местных инициативах" height="70" border=0 ></a>
+
+<a href="https://government.ru/support_measures/." target="blank"><img src="semradio/images/mm.jpg" alt="#МЫМОЖЕМ" height="70" border=0 ></a>
+
+
+<a href="https://www.semenov.nnov.ru/modules.php?name=News&file=article&sid=8481" target="blank"><img src="semradio/images/RTRS.jpg" alt="РТСР"  height="70" border=0 ></a>
+
+<a href="https://fin-semenov.ru/byudzhetnyy-protsess/byudzhet-dlya-grazhdan.html" target="blank"><img src="semradio/images/bb.jpg" alt="Бюджет для граждан" height="70" border=0 ></a>
+
+<a href="https://service.nalog.ru/payment/" target="blank"><img src="semradio/images/nalogZ.jpg" alt="Заплати налоги" height="70" border=0 ></a>
+
+<a href="modules.php?name=linkhtm&qlinkhtm=semradio/audio/index7.html" target="blank"><img src="semradio/images/ka52.jpg" alt="Карта52.рф" height="70" border=0 ></a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=204" target="blank"><img src="images/topics/MFC2.jpg" alt="МКУ МФЦ городского округа Семеновский" height="70" height="60" border="0"></a>
+
+
+<a href="http://самопроверка.рф/Mainpage" target="blank"><img src="images/topics/elin.jpg" alt="Электронный 
+инспектор" height="70" height="60" border="0"></a>
+
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=249" target="blank"><img src="semradio/images/ecia.gif" alt="Услуги не выходя из дома"  height="70" border="0"></a>
+
+
+<a href="modules.php?name=linkhtm&qlinkhtm=semradio/Zaria_html/1.html" target="blank">
+<img src="semradio/images/2017/zara.png" height="70" ></a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1325" target="blank"><img src="semradio/GOiCHS/1.gif" alt="Заказ туров" height="70" border="0"></a>
+
+
+<a href="https://semenovsky.nnov.sudrf.ru" target="blank"><img src="sud2.jpg"  alt="Семеновский районный суд Нижегородской области" border="0" height="70"></a>
+
+
+<a href="https://www.gosuslugi.ru/structure/5222400010000002777" target="_blank" title="Баннер Единого портала государственных и муниципальных услуг (функций)"><img src="semradio/images/gu.jpg" alt="Баннер Единого портала государственных и муниципальных услуг (функций)" height="70" border="0"></a>
+
+
+<a href="https://gu.nnov.ru/state/structure-5222400010000002777.html"><img src="gosuslugi.svg" alt="Портал государственных услуг Нижегородской области" border="0" height="70"></a>
+
+
+<a href="modules.php?name=linkhtm&qlinkhtm=semradio/pd/pd.html " target="blank"><img src="semradio/images/rkn.png" alt=" О необходимости подачи уведомления об обработке персональных данных "</a>
+
+<a href="modules.php?name=linkhtm&qlinkhtm=semradio/mo/mo.html " target="blank">О состоянии межнациональных и этноконфессиональных отношений </a>
+
+<a href=" https://www.fondgkh.ru" target="blank"><img src="semradio/images/gkh.svg" alt="Государственная корпорация - Фонд содействия реформированию жилищно-коммунального хозяйства" height="70" border=0 ></a>
+
+<a href=" https://bus.gov.ru/pub/independentRating/list" target="blank"><img src="semradio/images/bus.gif" alt="Результаты независимой оценки качества оказания услуг организациями" height="70" border=0 ></a>
+
+
+
+<a href="http://www.pfo.ru" target="blank"><img src="semradio/images/PFO.gif" alt="Официальный сайт полномочного председателя Президента Российской Федерации в ПФО"  height="70" border=0 ></a>
+
+
+<a href="https://gu.nnov.ru/reception/" target="blank"><img src="semradio/images/On-line.jpg" alt="Электронный прием граждан руководителями органов власти региона"  height="70" border=0 ></a>
+
+<a href=" https://www.r52.fssprus.ru/iss/ip" target="blank"><img src="semradio/images/fssp.jpg" alt="УФСС по Нижегородской области" height="70"border=0 ></a>
+
+<a href="http://www.antispidnn.ru/" target="blank"><img src="semradio/images/Spid1.gif" alt="ГБУЗНО «Нижегородский областной центр
+по профилактике и борьбе со СПИД и
+инфекционными заболеваниями»" height="70" border=0 ></a>
+
+
+<a href=" https://www.gdedetdom.ru/" target="blank"><img src="semradio/images/gdedetdom.gif" alt="ГдеДетДом" height="70" border=0 ></a>
+
+
+<a href=" https://dorogi-onf.ru/" target="blank"><img src="semradio/images/karta1.png" alt="Дорожная инспекция ОНФ/Карта убитых дорог" height="70" border=0 ></a>
+ 
+
+<a href=" https://www.trudvsem.ru" target="blank"><img src="semradio/images/RabotaVRossii.gif" alt="Работа в России" height="70" border=0 ></a>
+
+<a href="https://www.businessnnov.ru" target="blank"><img src="semradio/images/pp.jpg" alt="Портал поддержки предпринимателей Нижегородской области" height="70" border=0 ></a>
+
+
+<a href="https://zhit-vmeste.ru/map/" target="blank"><img src="semradio/images/DS.jpg" alt="Доступная среда- Карта доступности объектов" height="70" border=0 ></a>
+
+<a href="https://www.nn-invest.com" target="blank"><img src="semradio/images/invp.jpg" alt="Инвестиционный портал Нижегородской области" height="70" border=0 ></a>
+
+<a href="https://fincult.info/ " target="blank"><img src="semradio/images/FK_265x180_1.png" alt="Финансовая культура" height="70" border=0 ></a>
+
+<a href="https://mybiznn.ru " target="blank"><img src="semradio/images/2020/20200706/mb.jpg" alt="«Популяризация предпринимательства в Нижегородской области»" height="70" border=0 ></a>
+
+<a href="http://fss.nnov.ru/ru/152/154/ " target="blank"><img src="semradio/images/2020/20201007/1.jpg" alt="«Электронный больничный - просто и удобно" height="70" border=0 ></a>
+
+
+</marquee>
+</td></tr></table></td></tr></table>
+<br></td><td><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="10" height="1"></td><td valign="top" width="160"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Глава местного самоуправления Песков А.Г.&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><a href="http://semenov.nnov.ru/modules.php?name=linkhtm&qlinkhtm=semradio/image/RUK/Peskov.html"><IMG SRC="semradio/image/peskov.jpg" alt="Фото Песков А.Г." NAME="Фото Песков А.Г." WIDTH=201 BORDER=0></a>
+<br>
+<a href="https://gu.nnov.ru/#/polls/24f563b5-55b8-4683-b77f-83943688ffba"><IMG SRC="images/ocenka.png" alt="Отчёт главы администрации Носкова Н.Ф." NAME="Оценка деятельности руководителей" WIDTH=200 BORDER=0></a>
+
+<br>
+<a href="http://semenov.nnov.ru/modules.php?name=Pages&pa=showpage&pid=2150"><IMG SRC="images/otchet.png" alt="Отчёт главы администрации Носкова Н.Ф." NAME="Отчет главы администрации Носкова Н.Ф." WIDTH=200 BORDER=0></a>
+
+
+<!-- <br>
+<a href="modules.php?name=P_Glava" class="button14">Обратиться
+в администрацию</a>
+<br>
+-->
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1551" class="button14">Права
+ человека</a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=236" class="button14">Противодействие
+коррупции 
+(архив до 24.06.2022 года)</a>
+
+<a href="https://semenov.52gov.ru/activity/7619/" class="button14">Противодействие
+коррупции </a>
+
+<a href="modules.php?name=Pages&pa=showpage&pid=1530"class="button14">Развитие
+конкуренции</a>
+
+<a href="modules.php?name=Pages&pa=list_pag&cid=285"class="button14">Оценка
+регулирующего
+воздействия</a>
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Мы в социальных сетях&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><div class="social vk">
+	<a href="https://vk.com/public166756493" target="_blank" title="Это Vk">
+		<svg role="img" viewBox="0 0 576 512">
+			<path fill="currentColor" d="M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z"/>
+		</svg>
+	</a>
+</div>
+<div class="social youtube">
+	<a href="https://www.youtube.com/channel/UCKGjWBCAtNOWFEXuULfhLkg?disable_polymer=true" target="_blank" title="Это Youtube">
+		<svg role="img" viewBox="0 0 576 512">
+			<path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"/>
+		</svg>
+	</a>
+</div>
+<div class="social ok">
+	<a href="https://ok.ru/group/55683927375889" target="_blank" title="Это OK">
+		<svg enable-background="new 0 0 512 512" height="2566px" id="Layer_1" version="1.1" viewBox="0 0 512 512" width="256px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><polygon clip-rule="evenodd" fill="#F1842B" fill-rule="evenodd" points="0,0 435.207,0 512,76.795 512,512 76.793,512 0,435.203     "/><polygon clip-rule="evenodd" fill="#F8A55E" fill-rule="evenodd" points="435.207,0 512,76.795 435.207,76.795  "/><polygon clip-rule="evenodd" fill="#DB6826" fill-rule="evenodd" points="435.207,76.795 512,153.584 512,76.795  "/><polygon clip-rule="evenodd" fill="#F8A55E" fill-rule="evenodd" points="76.793,512 0,435.203 76.793,435.203  "/><polygon clip-rule="evenodd" fill="#DB6826" fill-rule="evenodd" points="153.588,512 76.793,435.203 76.793,512  "/><path clip-rule="evenodd" d="M255.928,209.816c20.854,0,37.639-16.777,37.639-37.488   s-16.785-37.49-37.639-37.49c-20.711,0-37.492,16.779-37.492,37.49S235.217,209.816,255.928,209.816L255.928,209.816z    M202.109,348.129l14.363-14.203c-16.477-4.086-32.051-10.586-46.107-19.047l-3.93-2.422L202.109,348.129z M341.637,314.879   c-14.211,8.461-29.629,14.961-46.105,19.047l49.582,49.582c3.328,3.324,5.59,7.254,6.805,11.488   c2.563,9.074,0.301,19.352-6.805,26.457c-10.434,10.426-27.516,10.426-37.945,0l-51.24-51.25l-15.875,15.875l-35.223,35.375   c-10.58,10.426-27.514,10.426-37.941,0L257.438,512h108.531h102.945H512V301.574L319.418,108.988   c16.168,16.176,26.148,38.545,26.148,63.34c0,49.582-40.059,89.641-89.639,89.641c-24.492,0-46.863-9.824-63.039-26l48.824,48.828   c4.688,0.602,9.371,0.902,14.215,0.902c20.1,0,38.85-5.137,55.17-14.203c7.105-4.082,9.676-7.41,18.445-7.41   c14.813,0,26.758,12.098,26.758,26.906c0,8.766-4.234,16.484-10.734,21.465L341.637,314.879z" fill="#DB6826" fill-rule="evenodd"/><path clip-rule="evenodd" d="M166.283,172.328c0,49.582,40.211,89.641,89.645,89.641   c49.58,0,89.639-40.059,89.639-89.641c0-49.584-40.059-89.639-89.639-89.639C206.494,82.689,166.283,122.744,166.283,172.328   L166.283,172.328z M255.928,285.699c-19.957,0-38.701-5.137-55.029-14.203c-7.105-4.082-9.672-7.41-18.441-7.41   c-14.813,0-26.906,12.098-26.906,26.906c0,8.766,4.232,16.484,10.885,21.465c1.209,0.758,2.568,1.668,3.93,2.422   c14.057,8.461,29.631,14.961,46.107,19.047l-49.584,49.582c-10.432,10.43-10.432,27.516,0,37.945   c10.428,10.426,27.361,10.426,37.941,0l51.098-51.25l51.24,51.25c10.43,10.426,27.512,10.426,37.945,0   c10.426-10.43,10.426-27.516,0-37.945l-49.582-49.582c16.477-4.086,31.895-10.586,46.105-19.047   c1.359-0.754,2.719-1.664,3.93-2.422c6.5-4.98,10.734-12.699,10.734-21.465c0-14.809-11.945-26.906-26.758-26.906   c-8.77,0-11.34,3.328-18.445,7.41C294.777,280.563,276.027,285.699,255.928,285.699L255.928,285.699z M255.928,209.816   c-20.711,0-37.492-16.777-37.492-37.488s16.781-37.49,37.492-37.49c20.854,0,37.639,16.779,37.639,37.49   S276.781,209.816,255.928,209.816L255.928,209.816z" fill="#FFFFFF" fill-rule="evenodd"/></g></svg>
+	</a>
+</div>
+
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Контакты&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><a href="modules.php?name=Pages&pa=showpage&pid=679"><img src="semradio/image/tel.jpg" width="150"  alt="Телефонный справочник" border></a>
+
+
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Навигация&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><strong><big>&middot;</big></strong>&nbsp;<a href="index.php">Главная</a><br>
+<strong><big>&middot;</big></strong>&nbsp;<a href="modules.php?name=Your_Account">Ваш аккаунт</a><br>
+<strong><big>&middot;</big></strong>&nbsp;<a href="modules.php?name=Stories_Archive">Архив новостей</a><br>
+<strong><big>&middot;</big></strong>&nbsp;<a href="modules.php?name=Feedback">Обратная связь</a><br>
+<strong><big>&middot;</big></strong>&nbsp;<a href="modules.php?name=Statistics">Статистика</a><br>
+<strong><big>&middot;</big></strong>&nbsp;<a href="modules.php?name=Submit_News">Добавить новость</a><br>
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Инвесторам&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><a href="modules.php?name=Pages&pa=showpage&pid=966"><img src="semradio/image/ip3.jpg" width="150"  alt="Инвестиции" border></a>
+
+
+
+
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Опрос&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><form action="modules.php?name=Surveys" method="post"><input type="hidden" name="pollID" value="46"><input type="hidden" name="forwarder" value="modules.php?name=Surveys&amp;op=results&amp;pollID=46"><span class="content"><strong>Каким должен быть рабочий день у предприятий торговли (без учета торговых сетей)  в выходные дни?</strong></span><br><br>
+<table border="0" width="100%"><tr><td valign="top"><input type="radio" name="voteID" value="1"></td><td width="100%"><span class="content">Как сейчас, с 09:00 до 14:00</span></td></tr>
+<tr><td valign="top"><input type="radio" name="voteID" value="2"></td><td width="100%"><span class="content">Хотелось бы продлить рабочий день до 17:00</span></td></tr>
+<tr><td valign="top"><input type="radio" name="voteID" value="3"></td><td width="100%"><span class="content">Свой вариант (пишите в комментариях)</span></td></tr>
+</table><br><center><span class="content"><input type="submit" value="Ответить"></span><br><br><span class="content"><a href="modules.php?name=Surveys&amp;op=results&amp;pollID=46&amp;mode=thread&amp;order=0&amp;thold=0"><strong>Результаты</strong></a><br><a href="modules.php?name=Surveys"><strong>Другие опросы</strong></a><br><br>Ответов: <strong>320</strong> <br> Комментариев: <strong>0</strong>
+
+</span></center></form>
+
+</font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Авторизация&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block><form onsubmit="this.submit.disabled='true'" action="modules.php?name=Your_Account" method="post"><center><font class="content">Логин<br><input type="text" name="username" size="10" maxlength="25"><br>Пароль<br><input type="password" name="user_password" size="10" maxlength="20"><br><input type="hidden" name="random_num" value="726259"><input type="hidden" name="gfx_check" value=""><input type="hidden" name="op" value="login"><input type="submit" value="Логин"></font></center></form><center><font class="content">Не зарегистрировались? Вы можете сделать это, нажав <a href="modules.php?name=Your_Account&op=new_user">здесь</a>. Когда Вы зарегистрируетесь, Вы получите полный доступ ко всем разделам сайта.</font></center></font></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%" bgcolor="#eeeee4">
+<p align="right" class=menu><img src="images/button/vv_m.png" border="0" align="left">Погода&nbsp;</td></tr><tr>
+<td width="100%"><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="1"></td>
+</tr><tr><td width="100%" bgcolor="#2D496E">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%">
+<img border="0" src="themes/RusNuke2003/images/pixel.gif" width="1" height="3"></td>
+</tr><tr><td width="100%"><font class=block>	  
+<!-- Gismeteo informer START -->
+<link rel="stylesheet" type="text/css" href="https://bst1.gismeteo.ru/assets/flat-ui/legacy/css/informer.min.css">
+<div id="gsInformerID-nU47RfI2En7Lv7" class="gsInformer" style="width:135px;height:194px">
+  <div class="gsIContent">
+    <div id="cityLink">
+    <a href="https://www.gismeteo.ru/city/daily/4335/" target="_blank">Погода в Семенове</a>
+    </div>
+    <div class="gsLinks">
+      <table>
+        <tr>
+            <td>
+            <div class="leftCol">
+              <a href="https://www.gismeteo.ru/" target="_blank">
+                <img alt="Gismeteo" title="Gismeteo" src="https://bst1.gismeteo.ru/assets/flat-ui/img/logo-mini2.png" align="middle" border="0" />
+                <span>Gismeteo</span>
+              </a>
+            </div>
+            <div class="rightCol">
+              <a href="https://www.gismeteo.ru/city/weekly/4335/" target="_blank">Прогноз на 2 недели</a>
+            </div>
+            </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+<script async src="https://www.gismeteo.ru/api/informer/getinformer/?hash=nU47RfI2En7Lv7" type="text/javascript"></script>
+<!-- Gismeteo informer END -->
+
+	</font></td></tr></table><br>
+<br><img border="0" src="themes/RusNuke2003/images/pixel.gif" width="160" height="1"></td></tr></table>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=70086580&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/70086580/3_1_FFA020FF_FF8000FF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="70086580" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(70086580, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/70086580" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+<!--begin of Top100-->
+<a href="https://top100.rambler.ru/top100/"><img src="https://counter.rambler.ru/top100.cnt?1026703" alt="Rambler's Top100" width=81 height=63 border=0></a>
+<!--end of Top100 code-->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<a href="https://www.liveinternet.ru/click" '+
+'target=_blank><img src="https://counter.yadro.ru/hit?t12.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+
+<!--Rating@Mail.ru counter-->
+<!!a target="_top" href="https://top.mail.ru/jump?from=1627215">
+<!!img src="https://d4.cd.b8.a1.top.mail.ru/counter?id=1627215;t=222" 
+border="0" height="31" width="88" alt="Рейтинг@Mail.ru"></a>
+<!--// Rating@Mail.ru counter-->
+
+<!--<div style="position:absolute; width:1px; height:1px; z-index:1; left: -2px; top: -2px; visibility: hidden; overflow: hidden;">-->
+<!--<script type="text/javascript">                                                                                                   -->
+<!--document.write("<img src=\"https://counter.nn.ru/cgi-bin/counter.cgi?22743"+",,"+top.document.referrer+"\" width=\"1\" height=\"1\">");-->
+<!--</script>-->
+
+<!--<noscript>-->
+<!--<img src="https://counter.nn.ru/cgi-bin/counter.cgi?22743" width="1" height="1">-->
+<!--</noscript>-->
+<!--</div>
+
+<!--<a href="https://counter.nn.ru/?22743"><img src="/images/yellow_anim.gif" width="88" height="31" border="0"></a>-->
+
+<!-- widget start -->
+<head>
+<script type="text/javascript" src="https://gosmonitor.ru/widget.js?id=248122"></script>
+
+</head>
+<!-- / widget end -->
+
+ <script type="text/javascript">
+                    (function(d, t, p) {
+                    var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+                    j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";;
+                    var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+                    })(document, "script", document.location.protocol);
+                    </script>
+
+<!-- Виджет версии для слабовидящих -->
+<script>d=document,n=d.getElementsByTagName("script")[0],s=d.createElement("script"),s.type="text/javascript",s.async=!0,s.src=("https:"==d.location.protocol?"https:":"http:")+"//special.prolexgroup.ru/api/v1/specversion.js",f=function(){n.parentNode.insertBefore(s,n)},f();</script>
+<!-- /Виджет версии для слабовидящих -->
+
+<!--бИБЛИОТЕКА ДЛЯ СНЕЖИНОК-->
+<!--<script type="text/javascript"-->
+<!--src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
+<!--/бИБЛИОТЕКА ДЛЯ СНЕЖИНОК-->
+
+<!-- Снежинки -->
+<!--<SCRIPT type="text/javascript" language="JavaScript" src="snow2.js"></SCRIPT> -->
+<!-- /Снежинки -->
+
+<span id="sputnik-informer"></span>
+
+<!-- Виджет ЛКО --!>
+<script src="https://pos.gosuslugi.ru/bin/script.min.js"></script>
+<script>Widget("https://pos.gosuslugi.ru/form", 707)</script>
+<!-- Виджет ЛКО --!>
+
+
+<div id="cookie_notification">
+        <p>Для улучшения работы сайта и его взаимодействия с пользователями мы используем файлы cookie. Продолжая работу с сайтом, Вы разрешаете использование cookie-файлов. Вы всегда можете отключить файлы cookie в настройках Вашего браузера.</p>
+        <button class="button cookie_accept">Принять</button>
+</div>
+
+<script>
+function checkCookies(){
+    let cookieDate = localStorage.getItem('cookieDate');
+    let cookieNotification = document.getElementById('cookie_notification');
+    let cookieBtn = cookieNotification.querySelector('.cookie_accept');
+
+    // Если записи про кукисы нет или она просрочена на 1 год, то показываем информацию про кукисы
+    if( !cookieDate || (+cookieDate + 31536000000) < Date.now() ){
+        cookieNotification.classList.add('show');
+    }
+
+    // При клике на кнопку, в локальное хранилище записывается текущая дата в системе UNIX
+    cookieBtn.addEventListener('click', function(){
+        localStorage.setItem( 'cookieDate', Date.now() );
+        cookieNotification.classList.remove('show');
+    })
+}
+checkCookies();
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="100%"></td></tr></table><br>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgColor=#ff9900>
+<tr><td><a href="#"><img border="0" src="themes/RusNuke2003/images/top.gif" width="22" height="22"></a>
+</td><td width="100%"><center><font class=A_white>
+<a class=A_white href="modules.php?name=Stories_Archive">Архив статей</a>
+&nbsp;<strong>::</strong>&nbsp;<a class=A_white href="modules.php?name=Submit_News">
+Добавить новость</a>&nbsp;<strong>::</strong>&nbsp;<a class=A_white href="modules.php?name=Feedback">
+Контакт с автором</a>&nbsp;<strong>::</strong>&nbsp;
+<a class=A_white href="modules.php?name=Recommend_Us">Рекомендовать Нас</a>
+</font></center></td><td><a href="#"><img border="0" src="themes/RusNuke2003/images/top.gif" width="22" height="22"></a></td></tr>
+</table><br><center><table border="0" cellpadding="0" cellspacing="0" width="80%">
+<tr><td width="100%"><center><span style="visibility: hidden"><font class=topsmall>
+RusNuke2003 theme by <a href="http://rus-phpnuke.com"><font class="footmsg_l">PHP-Nuke по-русски</font></span></a><br>
+<span class="footmsg">
+Все логотипы и торговые марки на данном сайте являются собственностью его владельцев.
+Полное, либо частичное копирование материалов разрешено только по согласованию с администрацией сайта. При публикации материалов ссылка на данный сайт обязательна.  © 2006.
+
+<div style="display:none;">
+</div><br>
+<br>Открытие страницы: 0.49 секунды<br>
+</span>
+<span style="visibility: hidden">The Russian localization - project <a href="http://phpnuke.ru/">PhpNuke.RU</a></span></font></center></td></tr></table></center>
+</body>
+</html>

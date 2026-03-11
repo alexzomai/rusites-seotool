@@ -1,0 +1,689 @@
+
+<!DOCTYPE html>
+<html
+	lang="ru-ru"
+	dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<base href="https://www.arttoday.info/index.php/ru/favicon.ico" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="МИР ИСКУССТВА Международная выставка-конкурс современного искусства" />
+	<meta property="og:title" content="МИР ИСКУССТВА Международная выставка-конкурс современного искусства" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.arttoday.info/index.php/ru/favicon.ico" />
+	<meta name="description" content="МИР ИСКУССТВА Международная выставка-конкурс современного искусства" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>МИР ИСКУССТВА Международная выставка-конкурс современного искусства</title>
+	<link href="https://www.arttoday.info/index.php/ru/" rel="alternate" hreflang="ru-RU" />
+	<link href="https://www.arttoday.info/index.php/en/" rel="alternate" hreflang="en-GB" />
+	<link href="/media/jui/css/bootstrap.min.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-responsive.min.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/jui/css/bootstrap-extended.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/font-awesome.min.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/style-bs2.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/image.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/text_block.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/animations.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/button.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/horizontal_image_box.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/carousel.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/horizontal_icon_box.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/vertical_image_box.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/com_rspagebuilder/css/elements/bootstrap2/accordion.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?badb4208be409b1335b815dde676300e" rel="stylesheet" type="text/css" />
+	<link href="/templates/rssalma/css/icons.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/rssalma/css/animsition.min.css" rel="stylesheet" type="text/css" />
+	<link href="/media/mod_rspagebuilder_elements/css/style-bs2.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<link href="/media/mod_languages/css/template.css?316ddc6774861ddf4db7c21f93d72e7b" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"79804ede621f97ab9e8d47d105446472","system.paths":{"root":"","base":""},"joomla.jtext":{"COM_RSPAGEBUILDER_COUNTDOWN_TIMER_EXPIRED":"Countdown Timer expired.","WARNING":"\u041f\u0440\u0435\u0434\u0443\u043f\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435","COM_RSPAGEBUILDER_LONG_DAY":"Day","COM_RSPAGEBUILDER_LONG_DAYS":"Days","COM_RSPAGEBUILDER_LONG_HOUR":"Hour","COM_RSPAGEBUILDER_LONG_HOURS":"Hours","COM_RSPAGEBUILDER_LONG_MINUTE":"Minute","COM_RSPAGEBUILDER_LONG_MINUTES":"Minutes","COM_RSPAGEBUILDER_LONG_SECOND":"Second","COM_RSPAGEBUILDER_LONG_SECONDS":"Seconds","COM_RSPAGEBUILDER_SHORT_DAYS":"D","COM_RSPAGEBUILDER_SHORT_HOURS":"H","COM_RSPAGEBUILDER_SHORT_MINUTES":"M","COM_RSPAGEBUILDER_SHORT_SECONDS":"S","MOD_RSPAGEBUILDER_ELEMENTS_COUNTDOWN_TIMER_EXPIRED":"Countdown Timer expired.","MOD_RSPAGEBUILDER_ELEMENTS_LONG_DAY":"Day","MOD_RSPAGEBUILDER_ELEMENTS_LONG_DAYS":"Days","MOD_RSPAGEBUILDER_ELEMENTS_LONG_HOUR":"Hour","MOD_RSPAGEBUILDER_ELEMENTS_LONG_HOURS":"Hours","MOD_RSPAGEBUILDER_ELEMENTS_LONG_MINUTE":"Minute","MOD_RSPAGEBUILDER_ELEMENTS_LONG_MINUTES":"Minutes","MOD_RSPAGEBUILDER_ELEMENTS_LONG_SECOND":"Second","MOD_RSPAGEBUILDER_ELEMENTS_LONG_SECONDS":"Seconds","MOD_RSPAGEBUILDER_ELEMENTS_SHORT_DAYS":"D","MOD_RSPAGEBUILDER_ELEMENTS_SHORT_HOURS":"H","MOD_RSPAGEBUILDER_ELEMENTS_SHORT_MINUTES":"M","MOD_RSPAGEBUILDER_ELEMENTS_SHORT_SECONDS":"S"}}</script>
+	<script src="/media/jui/js/jquery.min.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/media/com_rspagebuilder/js/rspagebuilder.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/media/com_rspagebuilder/js/jquery.visible.min.js?316ddc6774861ddf4db7c21f93d72e7b" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/jquery/jquery.animsition.min.js" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/template.js" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/jquery/jquery.mobile.custom.js" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/device-dropdown.js" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/jquery/jquery.waypoints.min.js" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/velocity.min.js" type="text/javascript"></script>
+	<script src="/templates/rssalma/js/offscreen.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+var rspbld_jversion = 3,
+			rspbld_bversion = 2;var rspbld_jversion = 3,
+	rspbld_bversion = 2;
+	</script>
+	<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/media/com_rspagebuilder/css/animations-ie-fallback.css" /><![endif]-->
+	<link href="https://www.arttoday.info/index.php/ru/" rel="alternate" hreflang="x-default" />
+	<link href="https://fonts.googleapis.com/css?family=Abril+Fatface:regular" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" type="text/css" />
+	<link href="/templates/rssalma/css/themes/template-10.css" rel="stylesheet" type="text/css" />
+
+	
+
+	<!--[if IE8]>
+		<link rel="stylesheet" type="text/css" href="/templates/rssalma/css/ie8.css" />
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+	<!--[if IE 9]>
+		<link rel="stylesheet" type="text/css" href="/templates/rssalma/css/ie9.css" />
+		<script src="/media/jui/js/html5.js"></script>
+		<script src="/templates/rssalma/js/jquery/jquery.placeholder.js"></script>
+	<![endif]-->
+
+</head>
+
+<body class="site">
+<div id="rstpl-pagewrap" class="body custom_107 animsition" data-fadeIn="fade-in" data-fadeOut="fade-out">
+		<!-- Start Main Menu -->
+	<section class="rstpl-main-menu-position" style="margin-top:0px;" id="rstpl-main-menu-position" data-onepage="false">
+		<div class="full-width-menu">
+			<div class="row-fluid">
+				<div class="span12">
+					<nav class="rstpl-navigation">
+						<div class="navbar">
+							<div class="navbar-inner">
+								<div class="rstpl-brand  pull-left image ">
+	
+<a href="https://arttoday.info/">
+		<img src="/images/logo/logo-arttoday-6.png" alt="RSSalma!" />
+	</a>
+</div>
+								<a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".rstpl-main-menu-position .nav-collapse" rel="nofollow">
+									<span class="icon-bar first-bar"></span>
+									<span class="icon-bar second-bar"></span>
+									<span class="icon-bar third-bar"></span>
+								</a>
+
+								<div class="nav-collapse collapse navbar-responsive-collapse menu_center">
+									
+<ul class="rstpl-template-menu nav menu">
+	<li class="item-111" data-icon = icon-home><a href="/index.php/ru/" >...</a></li><li class="item-112" ><a href="/index.php/ru/about" title="О проекте: Мир Искусства Международная выставка-конкурс современного искусства">О проекте</a></li><li class="item-113" data-icon = icon-barcode><a href="/index.php/ru/realism" title="Реализм 2.0: Мир Искусства Международная выставка-конкурс современного искусства">Реализм 2.0</a></li><li class="item-130" data-icon = icon-barcode><a href="/index.php/ru/vanguard" title="Авангард 2.0: Мир Искусства Международная выставка-конкурс современного искусства">Авангард 2.0</a></li><li class="item-129" data-icon = icon-barcode><a href="/index.php/ru/abstraction" title="Абстракция 2.0: Мир Искусства Международная выставка-конкурс современного искусства">Абстракция 2.0</a></li><li class="item-123 deeper dropdown parent" ><a href="/index.php/ru/contact" title="Контакты Мир Искусства Международная выставка-конкурс современного искусства">Контакты</a><ul class="dropdown-menu unstyled small"><li class="item-147" ><a href="/index.php/ru/contact/get-info" >Get info</a></li></ul></li><li class="item-150" ><a href="/index.php/ru/medias" >Медиа</a></li><li class="rstpl-navbar-search"><a class="open-search" href="#"><i class="icon-search"></i></a><form action="/index.php/ru/" method="post" class="form-inline"><label for="mod-search-searchword" class="element-invisible">Search ...</label><input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-bar" placeholder="Search ..." type="text"><input name="task" value="search" type="hidden"><input name="option" value="com_search" type="hidden"><input name="Itemid" value="107" type="hidden"></form></li>
+</ul>
+
+								</div>
+							</div>
+						</div>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Main Menu -->
+	<!-- Start Breadcrumbs Position -->
+	<section class="rstpl-breadcrumbs-position" style="margin-top:0px;" id="rstpl-breadcrumbs-position">
+			<div class="container">
+			<div class="row-fluid">
+						<!-- breadcrumbs -->
+					<div class="span12" data-sr="enter bottom">
+												<div class="rstpl-languages"><div class="rstpl-module"><div class="mod-languages">
+
+	<ul class="lang-inline" dir="ltr">
+									<li class="lang-active">
+			<a href="https://www.arttoday.info/index.php/ru/favicon.ico">
+												<img src="/media/mod_languages/images/ru_ru.gif" alt="Русский (Россия)" title="Русский (Россия)" />										</a>
+			</li>
+								<li>
+			<a href="/index.php/en/">
+												<img src="/media/mod_languages/images/en_gb.gif" alt="English (United Kingdom)" title="English (United Kingdom)" />										</a>
+			</li>
+				</ul>
+
+</div>
+</div></div>
+					</div>
+					<!-- / breadcrumbs -->
+							</div>
+			</div>
+		</section>
+	<!-- End breadcrumbs Position-->
+
+<section class="rstpl-component-message">
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span12">
+				<div id="system-message-container">
+	</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+	<!-- Start All Content Position -->
+		<section class="rstpl-all-content-position" style="margin-top:0;" id="rstpl-all-content-position">
+			
+								<div class="row-fluid">
+					                							<div class="span12">
+																<!-- Start Content -->
+								<div id="rstpl-com_rspagebuilder" class="rstpl-content">
+									<main id="main">
+										
+<div id="rspbld" class="rspbld-page">
+		<div class="page-content">
+		<section><div class="row-fluid animation-container background-light" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;margin: 0px;padding: 0px;"><div class="span6 rstpl-g6 duration-500" style="padding: 0px;">
+<div class="rspbld-image text-center">
+		
+	<img src="/images/banners/fotos/cdx5.jpg">
+	
+		
+	</div>
+</div><div class="span6 rstpl-g6 duration-500" style="margin: 0px;padding: 2.5% 0px;">
+<div class="rspbld-text-block text-left" style="padding: 10%;">
+		
+		
+		<div class="rspbld-content">
+	<h1><span style="font-family: impact, sans-serif;">МИР ИСКУССТВА 2022</span></h1>
+<h5><span style="font-family: helvetica, arial, sans-serif;"><strong>Международный художественный проект</strong></span></h5>
+<p><span style="font-family: helvetica, arial, sans-serif;"><strong>Проект проводится в рамках федеральной программы "Территория творчества"<br /><br /><span style="font-size: 14pt;">Даты: 28 апреля - 15 мая 2022. <br />Объявление победителей: 15 мая, 15:00<br /></span><span style="font-size: 18pt;"><span style="font-size: 14pt;">Адрес: Москва, ул.Крымский вал, 10</span></span><br /></strong></span></p>	</div>
+		
+	</div></div></div></section><section><div class="row-fluid animation-container rstpl-grid-row" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;margin: 0px;padding: 0px;"><div class="span3 rstpl-g3 animation rspbld-fade-left duration-700 delay-200">
+<div class="rspbld-image text-center image-animation">
+		
+	<img src="/images/banners/fotos/art-fair8-2.jpg">
+	
+		
+	</div>
+</div><div class="span3 rstpl-g3 background-lighter animation rspbld-fade-bottom duration-700 delay-400" style="padding: 1rem;">
+<div class="rspbld-text-block text-center  border-animation">
+		
+		
+		<div class="rspbld-content">
+	<h4><a href="/index.php/ru/about" target="_blank" rel="noopener noreferrer">О проекте</a></h4>	</div>
+		
+		<a href="https://arttoday.info/index.php/ru/about" target="_blank" class="rspbld-button btn btn-link">
+				Подробнее	</a>
+	</div></div><div class="span3 rstpl-g3 background-lighter animation rspbld-fade-top duration-700 delay-600" style="padding: 1rem;">
+<div class="rspbld-text-block text-center  border-animation">
+		
+		
+		<div class="rspbld-content">
+	<h4><a href="/index.php/ru/registration" target="_blank" rel="noopener noreferrer">Регистрация</a></h4>	</div>
+		
+		<a href="https://arttoday.info/index.php/ru/registration" target="_blank" class="rspbld-button btn btn-link">
+				Перейти к регистрации	</a>
+	</div></div><div class="span3 rstpl-g3 animation rspbld-fade-right duration-700 delay-800">
+<div class="rspbld-image text-center image-animation" style="margin: 0px;">
+		
+	<img src="/images/banners/fotos/art-fair14-1.jpg">
+	
+		
+	</div>
+</div></div></section><section><div class="row-fluid animation-container" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;"><div class="container"><div class="span12  animation rspbld-fade-bottom duration-700 delay-600">
+<div class="rspbld-horizontal-image-box text-left" style="background-color: #ffffff;padding: 2%;">
+		<div class="rspbld-image pull-right">
+		<img src="/images/banners/fotos/cdx3.jpeg">
+	</div>
+		
+		<div class="rspbld-content-container">
+				<div class="rspbld-content">
+			<p><span style="font-size: 24pt;"><strong>Выставочные залы Союза художников России в Западном крыле Новой Третьяковки</strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Даты:</strong> 28 апреля - 15 мая 2022<br /></span><span style="font-size: 18pt;"><span style="font-size: 14pt;"><strong>Объявление победителей:</strong> 15 мая 2022, 15:00</span><br /><span style="font-size: 14pt;"><strong>Адрес:</strong> Москва, ул.Крымский вал, 10<br /><br /></span></span></p>
+<div class="rspbld-content"><span style="font-size: 12pt;"><em>В рамках Международного художественного проекта "Мир Искусства" пройдут три выставки: <a href="/index.php/ru/realism" target="_blank" rel="noopener noreferrer">"Реализм 2.0"</a>, <a href="/index.php/ru/vanguard" target="_blank" rel="noopener noreferrer">"Авангард 2.0" </a>и <a href="/index.php/ru/abstraction" target="_blank" rel="noopener noreferrer">"Абстракция 2.0" </a></em></span></div>		</div>
+				
+			</div>
+	</div>
+
+<div class="rspbld-horizontal-image-box text-left">
+		<div class="rspbld-image pull-left">
+		<img src="/images/logo/pecitia.jpg">
+	</div>
+		
+		<div class="rspbld-content-container">
+				<h5 class="rspbld-title">
+			Сохраним мастерские Саввы Ямщикова и Олега Филатчева		</h5>
+				<div class="rspbld-content">
+			<p>Убедительно просим поддержать сохранение художественных мастерских на Пречистенке 32/1.</p>
+<p><strong>Подпишите петицию о сохранении мастерских Саввы Ямщикова и Олега Филатчева!</strong></p>		</div>
+				
+					<a href="https://www.arttoday.info/index.php/ru/registration/29-sokhranim-masterskie-savvy-yamshchikova-i-olega-filatcheva" target="_blank" class="rspbld-button btn btn-default">
+									<i class="fa fa-align-justify"></i>
+								Подробнее о петиции			</a>
+			</div>
+	</div>
+</div></div></div></section><section><div class="row-fluid animation-container background-lighter" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;padding: 3% 0px 5% 0px;"><div class="span12  duration-500"><h3 class="rspbld-column-title text-center">Разделы</h3>
+<div class="rspbld-carousel rspbld-full-width text-center">
+		
+		
+	<div id="3847" class="carousel slide" data-interval="3500"0>
+				<ol class="carousel-indicators center-bottom">
+						<li class="active" data-target="#3847" data-slide-to="0"></li>
+				</ol>
+				<div class="carousel-inner text-center">
+					<div id="id_204719" class="item active horizontal-image">
+						<div class="span4">
+					<div class="rspbld-item-container">
+												<div class="rspbld-image pull-left">
+							<img src="/images/banners/fotos/realism.jpg" alt="Реализм 2.0">
+						</div>
+												
+												<div class="rspbld-item-content-container">
+												<h3 class="rspbld-item-title">
+							Реализм 2.0						</h3>
+												
+												
+													<a href="https://arttoday.info/index.php/ru/realism" target="_blank" class="rspbld-button btn btn-default">
+																	<i class="fa fa-align-justify"></i>
+																Подробнее							</a>
+												</div>
+												
+											
+											</div>
+				</div>
+						<div class="span4">
+					<div class="rspbld-item-container">
+												<div class="rspbld-image pull-left">
+							<img src="/images/banners/fotos/avangard.jpg" alt="Авангард 2.0">
+						</div>
+												
+												<div class="rspbld-item-content-container">
+												<h3 class="rspbld-item-title">
+							Авангард 2.0						</h3>
+												
+												
+													<a href="https://arttoday.info/index.php/vanguard" target="_blank" class="rspbld-button btn btn-default">
+																	<i class="fa fa-align-justify"></i>
+																Подробнее							</a>
+												</div>
+												
+											
+											</div>
+				</div>
+						<div class="span4">
+					<div class="rspbld-item-container">
+												<div class="rspbld-image pull-left">
+							<img src="/images/banners/fotos/Sretkova_Kristina.jpg" alt="Абстракция 2.0">
+						</div>
+												
+												<div class="rspbld-item-content-container">
+												<h3 class="rspbld-item-title">
+							Абстракция 2.0						</h3>
+												
+												
+													<a href="https://arttoday.info/index.php/abstraction" target="_blank" class="rspbld-button btn btn-default">
+																	<i class="fa fa-align-justify"></i>
+																Подробнее							</a>
+												</div>
+												
+											
+											</div>
+				</div>
+					</div>
+				</div>
+				<a class="carousel-control left" href="#3847" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+		<a class="carousel-control right" href="#3847" data-slide="next"><i class="fa fa-chevron-right"></i></a>
+			</div>
+</div></div></div></section><section><div class="row-fluid animation-container" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;"><div class="container"><div class="span12  animation rspbld-fade-bottom duration-500">
+<div class="rspbld-text-block text-center" style="background-color: #ffffff;padding: 3%;">
+		<h3 class="rspbld-title" style="margin: 0px;">
+		Программы	</h3>
+		
+		
+		
+	</div></div></div></div></section><section><div class="row-fluid animation-container rstpl-grid-row" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;margin: 0px;padding: 0px;"><div class="container"><div class="span4 rstpl-g4 animation rspbld-fade-left duration-500" style="background-color: #ffffff;padding: 1rem;">
+<div class="rspbld-horizontal-icon-box text-left">
+		<div class="rspbld-icon pull-left">
+		<i class="fa fa-bank"></i>
+	</div>
+		
+		<div class="rspbld-content-container">
+				<h6 class="rspbld-title">
+			Выставка		</h6>
+				<div class="rspbld-content">
+			<p><strong>Выставка проводится в Выставочных залах Союза художников России в Западном крыле Новой Третьяковки</strong></p>		</div>
+				
+			</div>
+	</div>
+</div><div class="span4 rstpl-g4 animation rspbld-fade-left duration-500 delay-400" style="background-color: #ffffff;padding: 1rem;">
+<div class="rspbld-horizontal-icon-box text-left">
+		<div class="rspbld-icon pull-left">
+		<i class="fa fa-balance-scale"></i>
+	</div>
+		
+		<div class="rspbld-content-container">
+				<h6 class="rspbld-title">
+			Конкурс		</h6>
+				<div class="rspbld-content">
+			<p><strong>Все участники выставки участвуют одновременно в конкурсе. Членами жюри являются ведущие мастера и живописцы из России, Азии, Европы и Америки</strong></p>		</div>
+				
+			</div>
+	</div>
+</div><div class="span4 rstpl-g4 animation rspbld-fade-left duration-500 delay-800" style="background-color: #ffffff;padding: 1rem;">
+<div class="rspbld-horizontal-icon-box text-left">
+		<div class="rspbld-icon pull-left">
+		<i class="fa fa-book"></i>
+	</div>
+		
+		<div class="rspbld-content-container">
+				<h6 class="rspbld-title">
+			Каталог		</h6>
+				<div class="rspbld-content">
+			<p><strong>Все участники публикуются в Международном каталоге, выходящем на двух языках - английском и русском</strong></p>		</div>
+				
+			</div>
+	</div>
+</div></div></div></section><section><div class="row-fluid animation-container" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;"><div class="container"><div class="span12  animation rspbld-grow duration-500">
+<div class="rspbld-text-block text-center" style="background-color: #ffffff;padding: 3%;">
+		<h3 class="rspbld-title" style="margin: 0px;">
+		Важные материалы для участия	</h3>
+		
+		
+		
+	</div></div></div></div></section><section><div class="row-fluid animation-container rstpl-grid-row" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;margin: 0px;padding: 0px;"><div class="container"><div class="span4 rstpl-g4 animation rspbld-grow duration-500" style="background-color: #ffffff;padding: 1rem;">
+<div class="rspbld-vertical-image-box text-left">
+		
+		<div class="rspbld-image">
+		<img src="/images/banners/fotos/horiz2.jpg">
+	</div>
+		
+		<h6 class="rspbld-title">
+		Правила участия	</h6>
+		
+		
+		<div class="rspbld-content">
+		<p>Выберите правила участия по разделам:<br />1) <a href="/index.php/ru/realism" target="_blank" rel="noopener noreferrer">Реализм 2022</a><br />2) <a href="/index.php/ru/vanguard" target="_blank" rel="noopener noreferrer">Современный авангард. 21 век</a><br />3) <a href="/index.php/ru/abstraction" target="_blank" rel="noopener noreferrer">Живая абстракция 2022 </a></p>	</div>
+		
+		
+	</div>
+</div><div class="span4 rstpl-g4 animation rspbld-grow duration-500 delay-300" style="background-color: #ffffff;padding: 1rem;">
+<div class="rspbld-vertical-image-box text-left">
+		
+		<div class="rspbld-image">
+		<img src="/images/banners/fotos/horiz11.jpg">
+	</div>
+		
+		<h6 class="rspbld-title">
+		Регистрация	</h6>
+		
+		
+		<div class="rspbld-content">
+		<p>Выберите регистрационные формы по разделам:<br />1) <a href="/index.php/ru/registration/19-registratsiya-na-proekt-realizm" target="_blank" rel="noopener noreferrer">Реализм 2022</a><br />2) <a href="/index.php/ru/registration/22-registratsiya-na-proekt-avangard" target="_blank" rel="noopener noreferrer">Современный Авангард - 21 век</a><br />3) <a href="/index.php/ru/registration/23-registratsiya-na-proekt-abstraktsiya" target="_blank" rel="noopener noreferrer">Живая абстракция 2022 </a></p>	</div>
+		
+		
+	</div>
+</div><div class="span4 rstpl-g4 animation rspbld-grow duration-500 delay-600" style="background-color: #ffffff;padding: 1rem;">
+<div class="rspbld-vertical-image-box text-left">
+		
+		<div class="rspbld-image">
+		<img src="/images/banners/fotos/horiz30.jpg">
+	</div>
+		
+		<h6 class="rspbld-title">
+		Стоимость участия	</h6>
+		
+		
+		<div class="rspbld-content">
+		<p>Выберите стоимость участия по разделам:<br /><a href="/index.php/ru/fee" target="_blank" rel="noopener noreferrer">1) Реализм 2022</a><br /><a href="/index.php/ru/fee" target="_blank" rel="noopener noreferrer">2) Современный Авангард 21 век</a><br /><a href="/index.php/ru/fee" target="_blank" rel="noopener noreferrer">3) Живая абстракция 2022 </a></p>	</div>
+		
+		
+	</div>
+</div></div></div></section><section><div class="row-fluid animation-container" style="background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;"><div class="container"><div class="span12  animation rspbld-fade-right duration-500" style="background-color: #ffffff;padding: 2rem;">
+<div class="rspbld-text-block text-center">
+		<h3 class="rspbld-title" style="margin: 0px 0px 2rem 0px;">
+		Последовательность регистрации	</h3>
+		
+		
+		
+	</div>
+<div class="rspbld-accordion">
+		
+		
+	<div id="accordion9910" class="accordion">
+			<div class="accordion-group">
+			<div class="accordion-heading">
+				<a href="#id_19203" class="accordion-toggle" data-toggle="collapse" data-parent="#accordion9910"
+								>
+								
+				1 ЭТАП: подготовка материалов для регистрации				</a>
+			</div>
+						<div class="accordion-body collapse in" id="id_19203">
+				<div class="accordion-inner">
+				<p>Автор подготавливает следующие материалы в электронном виде: <br />1) фотографии работ;<br />2) фотографию автора;<br />Каждый файл необходимо залить на файлообменник: <a href="https://wdho.ru" target="_blank" rel="noopener noreferrer">https://wdho.ru</a> (система предоставит ссылки, которые в последующем необходимо будет внести в регистрационную форму)</p>				</div>
+			</div>
+					</div>
+			<div class="accordion-group">
+			<div class="accordion-heading collapsed">
+				<a href="#id_26738" class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion9910"
+								>
+								
+				2 ЭТАП: регистрация работ				</a>
+			</div>
+						<div class="accordion-body collapse" id="id_26738">
+				<div class="accordion-inner">
+				<p>Каждая работа регистрируется отдельно. <br /><strong>1)</strong> Выберите, в какой форме вы примете участие - в очной (оригиналы на выставке) или заочной (фотокопии на выставке);<br /><strong>2) </strong>Загрузите фотоматериалы на файлообменник: <a href="https://wdho.ru/">https://wdho.ru</a> <br /><strong>3)</strong> Внесите необходимую информацию в <a href="/index.php/ru/registration" target="_blank" rel="noopener noreferrer">"Регистрационную форму"</a></p>				</div>
+			</div>
+					</div>
+			<div class="accordion-group">
+			<div class="accordion-heading collapsed">
+				<a href="#id_31691" class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion9910"
+								>
+								
+				3 ЭТАП: подтверждение оргкомитета и оплата оргвзноса				</a>
+			</div>
+						<div class="accordion-body collapse" id="id_31691">
+				<div class="accordion-inner">
+				<p>Оргкомитет подтверждает возможность участия произведения в выставке и направляет автору ссылку для оплаты организационного взноса.<br /><br /><strong>Перейти в раздел </strong><a href="/index.php/ru/fee" target="_blank" rel="noopener noreferrer">"Организационный взнос"</a></p>
+<p><em>1) Стоимость указана для участия одного арт-объекта на весь период выставки - 28 апреля - 12 мая 2022.<br />2) в случае представления на конкурс серии, оплата осуществляется:<br />   а) для очных участников: по каждому отдельному арт-объекту;<br />   б) для заочных участников: по каждому файлу</em></p>				</div>
+			</div>
+					</div>
+			<div class="accordion-group">
+			<div class="accordion-heading collapsed">
+				<a href="#id_48263" class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion9910"
+								>
+								
+				4 ЭТАП: выставка				</a>
+			</div>
+						<div class="accordion-body collapse" id="id_48263">
+				<div class="accordion-inner">
+				<p><strong>Информация для очных участников: </strong><br />Очные участники подготавливают арт-объекты к экспонированию в выставочном пространстве. Необходимо: каждая работа должна содержать петли, крючки и т.п., за которые можно подвесить произведение; объемные арт-объекты должны иметь устройства, предотвращающие его заваливание, или стойку для экспонирования<br />При сдаче произведений на выставку заполняются:<br />а) этикетаж: - скачать этикетки в <a href="https://www.arttoday.info/images/word/russian/Lable-ArtToday.doc" target="_blank" rel="noopener noreferrer">Word</a>, <a href="https://www.arttoday.info/images/word/russian/Lable-ArtToday.pdf" target="_blank" rel="noopener noreferrer">PDF</a>;<br />б) передаточный акт: - скачать передаточный акт в <a href="https://www.arttoday.info/images/word/russian/Act-ArtToday.doc" target="_blank" rel="noopener noreferrer">Word</a>, <a href="https://www.arttoday.info/images/word/russian/Act-ArtToday.pdf" target="_blank" rel="noopener noreferrer">PDF</a></p>
+<p><strong>Информация для заочных участников: <br /></strong>Оргкомитет распечатает и оформит заочные работы в соответствии с запрошенными опциями. Автор может посетить выставку и программы бесплатно.</p>				</div>
+			</div>
+					</div>
+		</div>
+</div></div></div></div></section><section><div class="row-fluid animation-container" style="background-image: url(/images/banners/fotos/cdx.jpg);background-repeat: no-repeat;background-size: cover;background-attachment: fixed;background-position: 0% 0%;"><h2 class="rspbld-row-title text-center">Лучшая выставочная площадка Москвы</h2><div class="span6  duration-500"></div><div class="span4  animation rspbld-fade duration-700" style="background-color: #ffffff;padding: 3%;">
+<div class="rspbld-text-block text-center">
+		
+		
+		<div class="rspbld-content">
+	<h5>Выставка пройдет <br />в Выставочных залах <br />Союза художников России <br /><strong>в Западном крыле </strong><br /><strong>Новой Третьяковки,</strong> <br />который ранее назывался <br />"Центральный Дом Художника"</h5>
+<h5>Выставка включает:</h5>
+<h5>РЕАЛИЗМ 2.0   <br />АВАНГАРД 2.0   <br />АБСТРАКЦИЯ 2.0</h5>	</div>
+		
+	</div></div><div class="span2  duration-500"></div></div></section>	</div>
+</div>
+									</main>
+								</div>
+								<!-- End Content -->
+								                        </div>
+                                                                </div>
+
+				</section>
+	<!-- End All Content Position-->
+	<!-- Start Footer Position -->
+	<section class="rstpl-footer-position" style="padding-top:4rem; padding-bottom:2rem;" id="rstpl-footer-position">
+			<div class="container">
+			<div class="row-fluid">
+						<!-- footer-a -->
+					<div class="span3">
+												<div class="rstpl-rspagebuilder_elements"><h3 class="rstpl-title">about</h3><div class="rstpl-module"><div class="rspbld-elements">
+	
+<div class="rspbld-image text-center" style="margin: 0px 0px 5% 0px;">
+		
+	<img src="/images/banners/fotos/cdx5.jpg">
+	
+		
+	</div>
+
+<div class="rspbld-text-block text-left">
+		
+		
+		<div class="rspbld-content">
+	<p><em>МИР ИСКУССТВА Международный художественный проект, включает три выставки: <br /><a href="/index.php/ru/realism" target="_blank" rel="noopener noreferrer">"Реализм"</a>, <a href="/index.php/ru/vanguard" target="_blank" rel="noopener noreferrer">"Авангард" </a>и <a href="/index.php/ru/abstraction" target="_blank" rel="noopener noreferrer">"Абстракция" </a></em><br />Выберите правила участия:<br />1) <a href="/index.php/ru/realism" target="_blank" rel="noopener noreferrer">Реализм 2022</a><br />2) <a href="/index.php/ru/vanguard" target="_blank" rel="noopener noreferrer">Современный авангард. 21 век</a><br />3) <a href="/index.php/ru/abstraction" target="_blank" rel="noopener noreferrer">Живая абстракция 2022 <br /><br /></a></p>	</div>
+		
+	</div></div></div></div>
+					</div>
+					<!-- / footer-a -->
+										<!-- footer-b -->
+					<div class="span4">
+						
+<div class="rstpl-social">
+            <h3 class="rstpl-title text-left">connect</h3>
+        <ul class="rstpl-social-icons rstpl-social-small text-left">
+                        <li class="rstpl-social-icon-facebook ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="FACEBOOK">
+                        <span class="rstpl-social-icon-facebook"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-twitter ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="TWITTER">
+                        <span class="rstpl-social-icon-twitter"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-linkedin ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="LINKEDIN">
+                        <span class="rstpl-social-icon-linkedin"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-youtube ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="YOUTUBE">
+                        <span class="rstpl-social-icon-youtube"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-vimeo ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="VIMEO">
+                        <span class="rstpl-social-icon-vimeo"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-flickr ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="FLICKR">
+                        <span class="rstpl-social-icon-flickr"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-pinterest ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="PINTEREST">
+                        <span class="rstpl-social-icon-pinterest"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-skype ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="SKYPE">
+                        <span class="rstpl-social-icon-skype"></span>
+                    </a>
+                </li>
+                                    <li class="rstpl-social-icon-instagram ">
+                    <a href="#" class="rstpl-social-link" target="_blank" title="INSTAGRAM">
+                        <span class="rstpl-social-icon-instagram"></span>
+                    </a>
+                </li>
+                        </ul>
+</div>
+						<div class="rstpl-custom"><div class="rstpl-module">
+
+<div class="custom"  >
+	<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
+target="_blank"><img id="licntDE6B" width="88" height="120" style="border:0" 
+title="LiveInternet: показано количество просмотров и посетителей"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licntDE6B").src=
+"https://counter.yadro.ru/hit?t29.1;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+</div>
+</div></div><div class="rstpl-custom"><div class="rstpl-module">
+
+<div class="custom"  >
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(88130784, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/88130784" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div>
+</div></div><div class="rstpl-custom"><div class="rstpl-module">
+
+<div class="custom"  >
+	<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1356111-cBw1g"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1356111-cBw1g" style="position:fixed; left:-999px;" alt=""/></noscript></div>
+</div></div>
+					</div>
+					<!-- / footer-b -->
+										<!-- footer-c -->
+					<div class="span5" data-sr="enter bottom wait 0.4s, enter bottom">
+												<div class="rstpl-custom"><div class="rstpl-module">
+
+<div class="custom"  >
+	<script data-b24-form="inline/84/1yydxj" data-skip-moving="true">
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://cdn-ru.bitrix24.ru/b13810338/crm/form/loader_84.js');
+</script></div>
+</div></div>
+					</div>
+					<!-- / footer-c -->
+							</div>
+			</div>
+		</section>
+	<!-- End footer Position-->
+
+	<!-- Start After footer Position -->
+	<section class="rstpl-after-footer-position" style="margin-top:0px;" id="rstpl-after-footer-position">
+			<div class="container">
+			<div class="row-fluid">
+						<!-- footer-e -->
+					<div class="span6" data-sr="enter bottom">
+												<div class="rstpl-menu"><div class=" inline unstyled"><div class="rstpl-module">
+<ul class="rstpl-template-menu menu inline unstyled">
+	<li class="item-124" ><a href="/index.php/ru/about" >about us</a></li><li class="item-128" ><a href="/index.php/ru/contact" >contact</a></li><li class="item-142" ><a href="/index.php/ru/registration" >Регистрационные формы</a></li><li class="item-144" ><a href="/index.php/ru/fee" title="Стоимость участия в проекте &quot;Мир Искусства&quot; (Реализм, Авангард, Абстракция)">Стоимость </a></li><li class="item-148" ><a href="/index.php/ru/accreditation" >Аккредитация журналистов</a></li><li class="item-149" ><a href="/index.php/ru/press-reliz" >Пресс-релиз</a></li><li class="item-151" ><a href="/index.php/ru/uchastniki-2021-vesna" >Участники 2021-весна</a></li><li class="item-152 parent" ><a href="/index.php/ru/media-materials" >Media</a></li>
+</ul>
+</div></div></div>
+					</div>
+					<!-- / footer-e -->
+										<!-- footer-f -->
+					<div class="span6" data-sr="enter bottom wait 0.3s, enter bottom">
+						
+<div class="rstpl-copyright text-right">
+            <span class="icon-copyright"></span>
+        <p>2026 <a href="https://www.eurasianartunion.com/" target="_blank">Copyright © Eurasian Art Union. All Rights Reserved.</a></p>
+    </div>
+
+						
+					</div>
+					<!-- / footer-f -->
+							</div>
+			</div>
+		</section>
+	<!-- End after-footer Position-->
+
+<div class="rstpl-go-top visible-desktop"><a href="javascript:void(0)"><span class="icon-caret-up"></span></a></div></div>
+
+
+<div class="custom"  >
+	<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://cdn-ru.bitrix24.ru/b13810338/crm/site_button/loader_2_h4z1mt.js');
+</script></div>
+
+
+<div class="custom"  >
+	<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1356111-cBw1g"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1356111-cBw1g" style="position:fixed; left:-999px;" alt=""/></noscript></div>
+
+<script src="/templates/rssalma/js/modernizr.min.js"></script>
+<script>
+(function(c,d){"JUri"in d||(d.JUri="https://www.arttoday.info/");c.addEventListener("click",function(a){var b=a.target?a.target.closest('[class*="ba-click-lightbox-form-"], [href*="ba-click-lightbox-form-"]'):null;if(b){a.preventDefault();if("pending"==b.clicked)return!1;b.clicked="pending";"formsAppClk"in window?formsAppClk.click(b):(a=document.createElement("script"),a.src=JUri+"components/com_baforms/assets/js/click-trigger.js",a.onload=function(){formsAppClk.click(b)},
+c.head.append(a))}})})(document,window);
+</script>
+</body>
+</html>

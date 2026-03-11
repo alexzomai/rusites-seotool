@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>hunt72.ru | КЛУБ ОХОТНИКОВ СИБИРИ (ТЮМЕНЬ, ХМАО-Югра, ЯНАО) - Главная страница</title>
+
+
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./styles/prosilver/theme/print.css?assets_version=57" rel="stylesheet" type="text/css" media="print" title="printonly" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:600&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese" rel="stylesheet" type="text/css" media="screen, projection" /><link href="./styles/prosilver/theme/stylesheet.css?assets_version=57" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="./styles/prosilver/theme/ru/stylesheet.css?assets_version=57" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="./styles/prosilver/theme/responsive.css?assets_version=57" rel="stylesheet" type="text/css" media="only screen and (max-width: 700px), only screen and (max-device-width: 700px)" />
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver/theme/tweaks.css?assets_version=57" rel="stylesheet" type="text/css" media="screen, projection" />
+<![endif]-->
+
+
+<link href="./ext/dmzx/countdown/styles/prosilver/theme/countdown.css?assets_version=57" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="./ext/vse/scrolltotop/styles/all/theme/scrolltotop.css?assets_version=57" rel="stylesheet" type="text/css" media="screen, projection" />
+<link href="./ext/xaocz/forumimage/styles/all/theme/forumimage.css?assets_version=57" rel="stylesheet" type="text/css" media="screen, projection" />
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-index ltr ">
+
+
+<div id="wrap">
+	<a id="top" class="anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+			<div class="inner">
+
+			<div id="site-description">
+				<a id="logo" class="logo" href="./index.php" title="Список форумов"><span class="imageset site_logo"></span></a>
+				<h1>hunt72.ru | КЛУБ ОХОТНИКОВ СИБИРИ (ТЮМЕНЬ, ХМАО-Югра, ЯНАО)</h1>
+				<p>КЛУБ ОХОТНИКОВ СИБИРИ</p>
+				<p class="skiplink"><a href="#start_here">Пропустить</a></p>
+			</div>
+
+						
+			</div>
+		</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="linklist bulletin" role="menubar">
+
+		<li id="quick-links" class="small-icon responsive-menu dropdown-container hidden" data-skip-responsive="true">
+			<a href="#" class="responsive-menu-link dropdown-trigger">Ссылки</a>
+			<div class="dropdown hidden">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li class="small-icon icon-faq" data-last-responsive="true"><a href="./faq.php" rel="help" title="Часто задаваемые вопросы" role="menuitem">FAQ</a></li>
+						
+			<li class="small-icon icon-logout rightside"  data-skip-responsive="true"><a href="./ucp.php?mode=logout&amp;sid=72eefee4db42e8e900a6beca017246f8" title="Выход" accesskey="x" role="menuitem">Выход</a></li>
+					<li class="small-icon icon-register rightside" data-skip-responsive="true"><a href="./ucp.php?mode=register" role="menuitem">Регистрация</a></li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="linklist navlinks" role="menubar">
+						<li class="small-icon icon-home breadcrumbs">
+									<span class="crumb"><a href="./index.php" accesskey="h" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-navbar-reference="index">Список форумов</a></span>
+								</li>
+		
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" role="main">
+		
+		
+<p class="right responsive-center time rightside">Предыдущее посещение: 02 мар 2026 00:17</p>
+<p class="responsive-center time">Текущее время: 02 мар 2026 00:17</p>
+				
+
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+					<dl class="icon">
+						<dt><div class="list-inner"><a href="./viewforum.php?f=30">Добро пожаловать</a></div></dt>
+						<dd class="topics">Темы</dd>
+						<dd class="posts">Сообщения</dd>
+						<dd class="lastpost"><span>Последнее сообщение</span></dd>
+					</dl>
+				</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=31" class="forumtitle">Регистрация</a>
+						<br />Правила нашего форума												
+											</div>
+				</dt>
+									<dd class="topics">7 <dfn>Темы</dfn></dd>
+					<dd class="posts">148 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=31&amp;p=317135#p317135" title="Re: Вставка в форум картинок" class="lastsubject">Re: Вставка в форум картинок</a> <br />
+						 
+						 <span style="color: #00AA00;" class="username-coloured">MOHAPX</span>
+						<br />19 июн 2018 22:41</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=32" class="forumtitle">Зарегистрировались? Представьтесь!</a>
+						<br />Не забываем представляться сразу после регистрации на форуме												
+											</div>
+				</dt>
+									<dd class="topics">1179 <dfn>Темы</dfn></dd>
+					<dd class="posts">19949 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=32&amp;p=364326#p364326" title="Re: Всем Привет!" class="lastsubject">Re: Всем Привет!</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">MISTIC</span>
+						<br />27 июл 2025 04:30</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=136" class="forumtitle">КЛУБ ОХОТНИКОВ СИБИРИ</a>
+																		
+											</div>
+				</dt>
+									<dd class="topics">23 <dfn>Темы</dfn></dd>
+					<dd class="posts">2327 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=136&amp;p=360243#p360243" title="Re: Нашивка (Шеврон)" class="lastsubject">Re: Нашивка (Шеврон)</a> <br />
+						 
+						 <span style="color: #AA0000;" class="username-coloured">Black Man</span>
+						<br />13 июл 2022 11:05</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=33" class="forumtitle">Конкурсы форума</a>
+						<br />Принимаем участие в различных конкурсах												
+											</div>
+				</dt>
+									<dd class="topics">21 <dfn>Темы</dfn></dd>
+					<dd class="posts">558 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=33&amp;p=352797#p352797" title="Re: Конкурс &quot;Живая природа&quot;" class="lastsubject">Re: Конкурс &quot;Живая природа&quot;</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Сан Саныч</span>
+						<br />07 июл 2020 12:29</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+				</ul>
+
+			</div>
+		</div>
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+					<dl class="icon">
+						<dt><div class="list-inner"><a href="./viewforum.php?f=1">Все об охоте</a></div></dt>
+						<dd class="topics">Темы</dd>
+						<dd class="posts">Сообщения</dd>
+						<dd class="lastpost"><span>Последнее сообщение</span></dd>
+					</dl>
+				</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+						<span class="forum-image"><img src="./forumico/hunting.png" alt="Нет непрочитанных сообщений" /></span>						<a href="./viewforum.php?f=3" class="forumtitle">Охота</a>
+						<br />Тема для настоящих мужиков																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=41" class="subforum read" title="Нет непрочитанных сообщений">Отчеты об охотах</a>, 															<a href="./viewforum.php?f=42" class="subforum read" title="Нет непрочитанных сообщений">ОХОТА на полевую и боровую дичь</a>, 															<a href="./viewforum.php?f=43" class="subforum read" title="Нет непрочитанных сообщений">ОХОТА на водоплавающую дичь</a>, 															<a href="./viewforum.php?f=44" class="subforum read" title="Нет непрочитанных сообщений">ОХОТА на зверя</a>, 															<a href="./viewforum.php?f=129" class="subforum read" title="Нет непрочитанных сообщений">Тихая охота</a>, 															<a href="./viewforum.php?f=45" class="subforum read" title="Нет непрочитанных сообщений">Полезные советы охотнику</a>, 															<a href="./viewforum.php?f=46" class="subforum read" title="Нет непрочитанных сообщений">Сохранение, обработка дичи</a>, 															<a href="./viewforum.php?f=47" class="subforum read" title="Нет непрочитанных сообщений">Приглашение на охоту</a>, 															<a href="./viewforum.php?f=121" class="subforum read" title="Нет непрочитанных сообщений">Охота в охотхозяйствах</a>, 															<a href="./viewforum.php?f=68" class="subforum read" title="Нет непрочитанных сообщений">FAQ по объектам охоты</a>																				
+											</div>
+				</dt>
+									<dd class="topics">863 <dfn>Темы</dfn></dd>
+					<dd class="posts">40792 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=3&amp;p=364584#p364584" title="Re: А все успели лицензии сдать?" class="lastsubject">Re: А все успели лицензии сда…</a> <br />
+						 
+						 <span style="color: #AA0000;" class="username-coloured">Black Man</span>
+						<br />12 янв 2026 12:50</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+						<span class="forum-image"><img src="./forumico/gun.png" alt="Нет непрочитанных сообщений" /></span>						<a href="./viewforum.php?f=4" class="forumtitle">Оружие</a>
+						<br />Оружие, боеприпасы и т.д.																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=34" class="subforum read" title="Нет непрочитанных сообщений">Гладкоствольное оружие</a>, 															<a href="./viewforum.php?f=35" class="subforum read" title="Нет непрочитанных сообщений">Нарезное оружие</a>, 															<a href="./viewforum.php?f=101" class="subforum read" title="Нет непрочитанных сообщений">Оружие самообороны</a>, 															<a href="./viewforum.php?f=36" class="subforum read" title="Нет непрочитанных сообщений">Пневматическое оружие</a>, 															<a href="./viewforum.php?f=100" class="subforum read" title="Нет непрочитанных сообщений">Стреломёты</a>, 															<a href="./viewforum.php?f=38" class="subforum read" title="Нет непрочитанных сообщений">Холодное оружие: ножи, топоры и т.п.</a>, 															<a href="./viewforum.php?f=39" class="subforum read" title="Нет непрочитанных сообщений">Боеприпасы</a>, 															<a href="./viewforum.php?f=65" class="subforum read" title="Нет непрочитанных сообщений">Неисправности оружия, уход за оружием и его ремонт</a>																				
+											</div>
+				</dt>
+									<dd class="topics">736 <dfn>Темы</dfn></dd>
+					<dd class="posts">28825 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=4&amp;p=364573#p364573" title="Re: Новая российская охотничья винтовка IGLA 308Win" class="lastsubject">Re: Новая российская охотничь…</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">ohotogolik</span>
+						<br />08 окт 2025 12:21</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=64" class="forumtitle">Снаряжение патронов гладкоствольного оружия</a>
+						<br />Снаряжение патронов от спортивного до охотничьего, комплектующие к ним, совместные заказы комплектующих и др.												
+											</div>
+				</dt>
+									<dd class="topics">58 <dfn>Темы</dfn></dd>
+					<dd class="posts">3120 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=64&amp;p=362220#p362220" title="Re: Где купить порох вообще, СунарМагнум или иной в частности?" class="lastsubject">Re: Где купить порох вообще, …</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Falkon</span>
+						<br />20 июн 2024 20:33</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=137" class="forumtitle">Снаряжение патронов для нарезного оружия</a>
+																		
+											</div>
+				</dt>
+									<dd class="topics">6 <dfn>Темы</dfn></dd>
+					<dd class="posts">295 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=137&amp;p=361486#p361486" title="Re: Ищу человека с оборудованием для релоуда" class="lastsubject">Re: Ищу человека с оборудован…</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">tango tango</span>
+						<br />09 апр 2023 18:25</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=63" class="forumtitle">Стендовая стрельба</a>
+						<br />Все о стендовой стрельбе. Тюменское движение.													<br /><strong>Модератор:</strong> <span style="color: #000000;" class="username-coloured">fada72</span>
+												
+											</div>
+				</dt>
+									<dd class="topics">454 <dfn>Темы</dfn></dd>
+					<dd class="posts">6731 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=63&amp;p=361776#p361776" title="Re: По тарелкам!" class="lastsubject">Re: По тарелкам!</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Наутилус</span>
+						<br />18 авг 2023 19:02</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+						<span class="forum-image"><img src="./forumico/equipment.png" alt="Нет непрочитанных сообщений" /></span>						<a href="./viewforum.php?f=5" class="forumtitle">Снаряжение</a>
+						<br />Экипировка, и вспомогательные штуковины																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=40" class="subforum read" title="Нет непрочитанных сообщений">Оптика</a>, 															<a href="./viewforum.php?f=20" class="subforum read" title="Нет непрочитанных сообщений">Системы навигации и связи.</a>, 															<a href="./viewforum.php?f=86" class="subforum read" title="Нет непрочитанных сообщений">Одежда и обувь</a>, 															<a href="./viewforum.php?f=87" class="subforum read" title="Нет непрочитанных сообщений">Охотничьи принадлежности</a>, 															<a href="./viewforum.php?f=88" class="subforum read" title="Нет непрочитанных сообщений">Бивуачные принадлежности</a>, 															<a href="./viewforum.php?f=89" class="subforum read" title="Нет непрочитанных сообщений">Электронные приспособления</a>																				
+											</div>
+				</dt>
+									<dd class="topics">300 <dfn>Темы</dfn></dd>
+					<dd class="posts">11701 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=20&amp;p=364367#p364367" title="Re: Рации." class="lastsubject">Re: Рации.</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Diwersant72</span>
+						<br />08 сен 2025 23:32</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+						<span class="forum-image"><img src="./forumico/book3.png" alt="Нет непрочитанных сообщений" /></span>						<a href="./viewforum.php?f=8" class="forumtitle">Законы</a>
+						<br />Незнание закона не освобождает от ответственности.																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=56" class="subforum read" title="Нет непрочитанных сообщений">Обсуждение законов</a>, 															<a href="./viewforum.php?f=108" class="subforum read" title="Нет непрочитанных сообщений">Проблемы и перспективы развития охотничьей отрасли</a>, 															<a href="./viewforum.php?f=130" class="subforum read" title="Нет непрочитанных сообщений">Опросы Госохотуправления ТО</a>																				
+											</div>
+				</dt>
+									<dd class="topics">223 <dfn>Темы</dfn></dd>
+					<dd class="posts">9217 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=130&amp;p=364308#p364308" title="Опрос &quot;Госпаблики Госохотдепартамента&quot;" class="lastsubject">Опрос &quot;Госпаблики Госохотдепа…</a> <br />
+						 
+						 <span style="color: #AA0000;" class="username-coloured">Black Man</span>
+						<br />02 июл 2025 15:09</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+						<span class="forum-image"><img src="./forumico/dog.png" alt="Нет непрочитанных сообщений" /></span>						<a href="./viewforum.php?f=9" class="forumtitle">Собаки</a>
+						<br />Собака - друг человека													<br /><strong>Модератор:</strong> <span style="color: #00AA00;" class="username-coloured">Gynter</span>
+																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=123" class="subforum read" title="Нет непрочитанных сообщений">Пропала собака</a>, 															<a href="./viewforum.php?f=110" class="subforum read" title="Нет непрочитанных сообщений">Гончие, борзые</a>, 															<a href="./viewforum.php?f=111" class="subforum read" title="Нет непрочитанных сообщений">Легавые, спаниели, ретриверы</a>, 															<a href="./viewforum.php?f=112" class="subforum read" title="Нет непрочитанных сообщений">Норные</a>, 															<a href="./viewforum.php?f=113" class="subforum read" title="Нет непрочитанных сообщений">Лайки</a>, 															<a href="./viewforum.php?f=116" class="subforum read" title="Нет непрочитанных сообщений">Общие вопросы</a>, 															<a href="./viewforum.php?f=117" class="subforum read" title="Нет непрочитанных сообщений">Ветеринария</a>, 															<a href="./viewforum.php?f=118" class="subforum read" title="Нет непрочитанных сообщений">Выставки</a>, 															<a href="./viewforum.php?f=119" class="subforum read" title="Нет непрочитанных сообщений">Собачий рынок</a>, 															<a href="./viewforum.php?f=132" class="subforum read" title="Нет непрочитанных сообщений">Ищу хозяина</a>																				
+											</div>
+				</dt>
+									<dd class="topics">815 <dfn>Темы</dfn></dd>
+					<dd class="posts">13500 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=112&amp;p=364254#p364254" title="Re: Ягдтерьер Пижон" class="lastsubject">Re: Ягдтерьер Пижон</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Garvey</span>
+						<br />20 май 2025 10:52</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+				</ul>
+
+			</div>
+		</div>
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+					<dl class="icon">
+						<dt><div class="list-inner"><a href="./viewforum.php?f=17">Разное и полезное</a></div></dt>
+						<dd class="topics">Темы</dd>
+						<dd class="posts">Сообщения</dd>
+						<dd class="lastpost"><span>Последнее сообщение</span></dd>
+					</dl>
+				</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=18" class="forumtitle">Новости охоты</a>
+																		
+											</div>
+				</dt>
+									<dd class="topics">602 <dfn>Темы</dfn></dd>
+					<dd class="posts">18042 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=18&amp;p=364579#p364579" title="Re: В Югре собиратель шишек убил коллегу, приняв за медведя" class="lastsubject">Re: В Югре собиратель шишек у…</a> <br />
+						 
+						 <span style="color: #00AA00;" class="username-coloured">MOHAPX</span>
+						<br />25 ноя 2025 10:32</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=135" class="forumtitle">Электронные сервисы для охотников</a>
+						<br />Помощь подачи объявлений через Гос. услуги												
+											</div>
+				</dt>
+									<dd class="topics">16 <dfn>Темы</dfn></dd>
+					<dd class="posts">5874 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=135&amp;p=362082#p362082" title="Re: Проблемы с оплатой госпошлины и сбора" class="lastsubject">Re: Проблемы с оплатой госпош…</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Наутилус</span>
+						<br />20 янв 2024 14:59</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=21" class="forumtitle">Справочник</a>
+						<br />Полезные ссылки, адреса, телефоны, схемы проезда и пр.												
+											</div>
+				</dt>
+									<dd class="topics">54 <dfn>Темы</dfn></dd>
+					<dd class="posts">1579 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=21&amp;p=364217#p364217" title="Re: Отстрел нарезного" class="lastsubject">Re: Отстрел нарезного</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Sala</span>
+						<br />18 мар 2025 14:39</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=22" class="forumtitle">Литература</a>
+						<br />Полезные книги, статьи.												
+											</div>
+				</dt>
+									<dd class="topics">76 <dfn>Темы</dfn></dd>
+					<dd class="posts">1272 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=22&amp;p=361283#p361283" title="Электронная книга" class="lastsubject">Электронная книга</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">рассказчик</span>
+						<br />09 фев 2023 09:29</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=6" class="forumtitle">Транспорт</a>
+						<br />Автомобили, лодки и иные технические приспособления													<br /><strong>Модератор:</strong> <span style="color: #000000;" class="username-coloured">SVG  </span>
+												
+											</div>
+				</dt>
+									<dd class="topics">315 <dfn>Темы</dfn></dd>
+					<dd class="posts">14221 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=6&amp;p=362365#p362365" title="Re: Ремонт и тех обслуживание пвх лодок." class="lastsubject">Re: Ремонт и тех обслуживание…</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">DenZ</span>
+						<br />18 сен 2024 09:04</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=7" class="forumtitle">Медицина</a>
+						<br />То что надо знать каждому												
+											</div>
+				</dt>
+									<dd class="topics">22 <dfn>Темы</dfn></dd>
+					<dd class="posts">1867 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=7&amp;p=354187#p354187" title="Re: Лесные лекари: Бобр" class="lastsubject">Re: Лесные лекари: Бобр</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">swan</span>
+						<br />18 сен 2020 23:10</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=55" class="forumtitle">Кулинария</a>
+						<br />Рецепты приготовления и блюда из дичи.												
+											</div>
+				</dt>
+									<dd class="topics">217 <dfn>Темы</dfn></dd>
+					<dd class="posts">6406 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=55&amp;p=361839#p361839" title="Re: Засолка муксунов" class="lastsubject">Re: Засолка муксунов</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Петровичч</span>
+						<br />07 сен 2023 15:13</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=97" class="forumtitle">Таксидермия</a>
+						<br />Таксидермия - это искусство изготовления чучел животных.													<br /><strong>Модератор:</strong> <span style="color: #0000FF;" class="username-coloured">RUFUS</span>
+												
+											</div>
+				</dt>
+									<dd class="topics">40 <dfn>Темы</dfn></dd>
+					<dd class="posts">692 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=97&amp;p=360008#p360008" title="Re: Кто как шкурки выделывает" class="lastsubject">Re: Кто как шкурки выделывает</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">runigma</span>
+						<br />06 май 2022 11:49</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+				</ul>
+
+			</div>
+		</div>
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+					<dl class="icon">
+						<dt><div class="list-inner">Форум</div></dt>
+						<dd class="topics">Темы</dd>
+						<dd class="posts">Сообщения</dd>
+						<dd class="lastpost"><span>Последнее сообщение</span></dd>
+					</dl>
+				</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+					<li class="row">
+						<dl class="icon forum_read">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=59" class="forumtitle">КЛУБНАЯ ДЕЯТЕЛЬНОСТЬ</a>
+						<br />обсуждаем все, что связано с клубом												
+											</div>
+				</dt>
+									<dd class="topics">85 <dfn>Темы</dfn></dd>
+					<dd class="posts">7855 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=59&amp;p=364358#p364358" title="Re: Клубалка 2025" class="lastsubject">Re: Клубалка 2025</a> <br />
+						 
+						 <span style="color: #00AA00;" class="username-coloured">MOHAPX</span>
+						<br />21 авг 2025 16:59</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+				</ul>
+
+			</div>
+		</div>
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+					<dl class="icon">
+						<dt><div class="list-inner"><a href="./viewforum.php?f=24">Форум</a></div></dt>
+						<dd class="topics">Темы</dd>
+						<dd class="posts">Сообщения</dd>
+						<dd class="lastpost"><span>Последнее сообщение</span></dd>
+					</dl>
+				</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_locked">
+				<dt title="Форум закрыт">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=98" class="forumtitle">Барахолка- объявления</a>
+																																<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=102" class="subforum read" title="Нет непрочитанных сообщений">Средства охоты - ружья, карабины, ножи и т.п.</a>, 															<a href="./viewforum.php?f=120" class="subforum read" title="Нет непрочитанных сообщений">Запчасти, комплектующие и аксессуары к оружию</a>, 															<a href="./viewforum.php?f=103" class="subforum read" title="Нет непрочитанных сообщений">Снаряжение</a>, 															<a href="./viewforum.php?f=104" class="subforum read" title="Нет непрочитанных сообщений">Транспорт</a>, 															<a href="./viewforum.php?f=106" class="subforum read" title="Нет непрочитанных сообщений">Животный мир</a>, 															<a href="./viewforum.php?f=105" class="subforum read" title="Нет непрочитанных сообщений">Продукция охоты</a>, 															<a href="./viewforum.php?f=107" class="subforum read" title="Нет непрочитанных сообщений">Услуги частника</a>, 															<a href="./viewforum.php?f=127" class="subforum read" title="Нет непрочитанных сообщений">Совместные закупки</a>, 															<a href="./viewforum.php?f=134" class="subforum read" title="Нет непрочитанных сообщений">Коммерческие объявления</a>																				
+											</div>
+				</dt>
+									<dd class="topics">4850 <dfn>Темы</dfn></dd>
+					<dd class="posts">48676 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=102&amp;p=364596#p364596" title="Re: Sauer 101 (продажа)" class="lastsubject">Re: Sauer 101 (продажа)</a> <br />
+						 
+						 <span style="color: #AA0000;" class="username-coloured">Black Man</span>
+						<br />28 фев 2026 14:01</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+				</ul>
+
+			</div>
+		</div>
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+					<dl class="icon">
+						<dt><div class="list-inner">Форум</div></dt>
+						<dd class="topics">Темы</dd>
+						<dd class="posts">Сообщения</dd>
+						<dd class="lastpost"><span>Последнее сообщение</span></dd>
+					</dl>
+				</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=28" class="forumtitle">Форум о рыбалке</a>
+						<br />Рыбак рыбака видит издалека																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=73" class="subforum read" title="Нет непрочитанных сообщений">Летняя рыбалка</a>, 															<a href="./viewforum.php?f=82" class="subforum read" title="Нет непрочитанных сообщений">Ловля карпа</a>, 															<a href="./viewforum.php?f=74" class="subforum read" title="Нет непрочитанных сообщений">Зимняя рыбалка</a>, 															<a href="./viewforum.php?f=75" class="subforum read" title="Нет непрочитанных сообщений">Отчеты о рыбалке</a>, 															<a href="./viewforum.php?f=76" class="subforum read" title="Нет непрочитанных сообщений">Поехали на рыбалку</a>, 															<a href="./viewforum.php?f=77" class="subforum read" title="Нет непрочитанных сообщений">Водоемы</a>, 															<a href="./viewforum.php?f=78" class="subforum read" title="Нет непрочитанных сообщений">Спортивное рыболовство</a>, 															<a href="./viewforum.php?f=79" class="subforum read" title="Нет непрочитанных сообщений">Подводная охота</a>, 															<a href="./viewforum.php?f=80" class="subforum read" title="Нет непрочитанных сообщений">Снасти и снаряжение</a>, 															<a href="./viewforum.php?f=81" class="subforum read" title="Нет непрочитанных сообщений">Объекты рыбной ловли</a>																				
+											</div>
+				</dt>
+									<dd class="topics">207 <dfn>Темы</dfn></dd>
+					<dd class="posts">10185 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=73&amp;p=362255#p362255" title="Re: Летняя рыбалка." class="lastsubject">Re: Летняя рыбалка.</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">Петровичч</span>
+						<br />22 июл 2024 05:11</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="icon forum_read_subforum">
+				<dt title="Нет непрочитанных сообщений">
+										<div class="list-inner">
+						
+												<a href="./viewforum.php?f=29" class="forumtitle">Форум о туризме</a>
+						<br />Туристы всех стран - объединяйтесь																										<br /><strong>Подфорумы:</strong>
+															<a href="./viewforum.php?f=83" class="subforum read" title="Нет непрочитанных сообщений">Отчеты о походах</a>, 															<a href="./viewforum.php?f=90" class="subforum read" title="Нет непрочитанных сообщений">Туры выходного дня</a>, 															<a href="./viewforum.php?f=84" class="subforum read" title="Нет непрочитанных сообщений">Экстремальный туризм</a>, 															<a href="./viewforum.php?f=85" class="subforum read" title="Нет непрочитанных сообщений">Планирование походов, поиск попутчиков</a>																				
+											</div>
+				</dt>
+									<dd class="topics">159 <dfn>Темы</dfn></dd>
+					<dd class="posts">6715 <dfn>Сообщения</dfn></dd>
+					<dd class="lastpost"><span>
+												<dfn>Последнее сообщение</dfn>
+																				<a href="./viewtopic.php?f=85&amp;p=362147#p362147" title="Re: Планирую поход)))" class="lastsubject">Re: Планирую поход)))</a> <br />
+						 
+						 <span style="color: #000000;" class="username-coloured">220V</span>
+						<br />16 мар 2024 22:15</span>
+					</dd>
+							</dl>
+					</li>
+			
+				</ul>
+
+			</div>
+		</div>
+		
+
+
+
+
+	<div class="stat-block online-list">
+		<h3>Кто сейчас на конференции</h3>		<p>
+						Всего <strong>2</strong> посетителя :: 1 зарегистрированный, 0 скрытых и 1 гость (основано на активности пользователей за последнюю 1 минуту)<br />Больше всего посетителей (<strong>976</strong>) здесь было 22 окт 2024 04:43<br /> <br />Зарегистрированные пользователи: <span style="color: #9E8DA7;" class="username-coloured">Mozilla/5.0</span>
+			<br /><em>Легенда: <span style="color:#AA0000">Администраторы</span>, <span style="color:#00AA00">Супермодераторы</span>, <span style="color:#0000FF">Модераторы</span></em>					</p>
+	</div>
+
+	<div class="stat-block birthday-list">
+		<h3>Дни рождения</h3>
+		<p>
+						Сегодня нет дней рождения.					</p>
+	</div>
+
+	<div class="stat-block statistics">
+		<h3>Статистика</h3>
+		<p>
+						Всего сообщений: <strong>328803</strong> &bull; Всего тем: <strong>11392</strong> &bull; Всего пользователей: <strong>4701</strong> &bull; Новый пользователь: <strong><span class="username">volosach_sa</span></strong>
+					</p>
+	</div>
+
+
+			</div>
+
+<div align="center">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- hunt72_728_90_white_bg -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1974307707090473"
+     data-ad-slot="9003679844"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<div align="center"><a href="http://ty24.ru/top/?do=v&i=940" title="Тюменский рейтинг"><img src="http://ty24.ru/top/?do=in&id=940" border="0"></a>&nbsp;
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</div>
+<div id="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="linklist bulletin" role="menubar">
+		<li class="small-icon icon-home breadcrumbs">
+									<span class="crumb"><a href="./index.php" data-navbar-reference="index">Список форумов</a></span>
+					</li>
+		
+				<li class="rightside">Часовой пояс: <abbr title="UTC+5">UTC+05:00</abbr></li>
+													</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				Создано на основе <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited
+		<br /><a href='http://www.phpbbguru.net/'>Русская поддержка phpBB</a>		<!-- Custom Code Github link -->
+<br/><a href='https://github.com/marttiphpbb/phpbb-ext-customcode'>Custom Code</a> extension for phpBB					</div>
+
+	<div id="darkenwrapper" data-ajax-error-title="Ошибка AJAX" data-ajax-error-text="При обработке запроса произошла ошибка." data-ajax-error-text-abort="Запрос прерван пользователем." data-ajax-error-text-timeout="Время запроса истекло; повторите попытку." data-ajax-error-text-parsererror="При выполнении запроса возникла непредвиденная ошибка, и сервер вернул неверный ответ.">
+		<div id="darken">&nbsp;</div>
+	</div>
+	<div id="loading_indicator"></div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Ошибка" data-l-timeout-processing-req="Время выполнения запроса истекло.">
+		<a href="#" class="alert_close"></a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close"></a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript src="./assets/javascript/jquery.min.js?assets_version=57" type="text/javascript"%3E%3C/script%3E'));</script><script type="text/javascript" src="./assets/javascript/core.js?assets_version=57"></script>
+
+<script type="text/javascript">
+// ]]>&lt;![CDATA[<![CDATA[
+$(document).ready(function(){
+	$("#time").countdown({
+		date: "2026/04/25 04:00",
+		onComplete: function( event ) {
+		
+			$(this).html("Охота открыта!");
+		},
+		leadingZero: false,
+						htmlTemplate: "<span class='cd-time'>До открытия основных сроков охоты осталось</span>  %d <span class=\"cd-time\">Дней</span> %h <span class=\"cd-time\">Часов</span> %i <span class=\"cd-time\">Минут</span> %s <span class=\"cd-time\">Секунд</span>",
+		direction: "down"
+	});
+});
+// ]]>]]&gt;<![CDATA[
+</script>
+<div align="center"><br />
+<a href="http://uslugi.admtyumen.ru/hunter.htm"><img border="0" src="/reklama/hunt_lk.gif" alt="Личный кабинет охотника"></a>
+</div><div class="scroll-btn"><div class="scroll-btn-arrow"></div></div>
+
+<script>
+
+(function($) { // Avoid conflicts with other libraries
+
+'use strict';
+
+$(function() {
+	var settings = {
+			min: 200,
+			scrollSpeed: 400
+		},
+		toTop = $('.scroll-btn'),
+		toTopHidden = true;
+
+	$(window).scroll(function() {
+		var pos = $(this).scrollTop();
+		if (pos > settings.min && toTopHidden) {
+			toTop.stop().fadeIn();
+			toTopHidden = false;
+		} else if(pos <= settings.min && !toTopHidden) {
+			toTop.stop().fadeOut();
+			toTopHidden = true;
+		}
+	});
+
+	toTop.bind('click touchstart', function() {
+		$('html, body').animate({
+			scrollTop: 0
+		}, settings.scrollSpeed);
+	});
+});
+
+})(jQuery);
+
+</script>
+
+<script type="text/javascript" src="./styles/prosilver/template/forum_fn.js?assets_version=57"></script>
+
+<script type="text/javascript" src="./styles/prosilver/template/ajax.js?assets_version=57"></script>
+
+<script type="text/javascript" src="./ext/dmzx/countdown/styles/prosilver/template/jquery.jcountdown.min.js?assets_version=57"></script>
+
+
+
+
+</body>
+</html>

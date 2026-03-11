@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Страница не найдена | 404</title>
+        <style>
+            div {
+                font-family: 'Segoe UI', 'Trebuchet MS', Sans-Serif;
+                font-size: 18px;
+                padding: 30px 60px;
+                width: 25em;
+            }
+            h1 {
+                font-family: Georgia;
+                font-style: italic;
+                font-size: 36px;
+                font-weight: normal;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>404</h1>
+            <p>Страница не найдена.</p>
+            <p>Возможно, эта страница была перемещена или удалена, вы можете попробовать найти её по навигации с <a href="/">главной страницы</a>.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html >
+
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>файл не найден</title>
+        <link rel="stylesheet" href="/templates/grigorieff34/css/template.css" type="text/css" />
+    </head>
+    <body>
+        <div class="header">
+            <div class="line"></div>
+            <div class="headwrap">
+                <div class="topmenu-container">
+                </div>
+                <div class="logo">
+                    <div class="logotip" data-mylink="http://aweb34.ru/">Aweb<span class="numlogo">34</span>.ru</div>
+                    <div class="slogan"><h3>блог веб-разработчика из Волгограда</h3></div>
+                </div>
+            </div>
+        </div>
+       
+        <div class="wrap">
+               <div class="maxcontent">
+                   
+                   <p style="text-align: center;"><span style="font-family: 'arial black', 'avant garde'; font-size: xx-large;">Ошибка 404. Не найден файл</span></p>
+<p style="text-align: center;"><span style="font-family: 'arial black', 'avant garde'; font-size: xx-large;"><img src="http://aweb34.ru//images/doh404.jpg" border="0" width="350" height="411" style="vertical-align: middle;" /></span></p>
+<p style="text-align: center;"><span style="font-family: 'arial black', 'avant garde'; font-size: large;"><strong>Пожалуйста, перейдите на одну из следующих страниц:</strong>
+<p style="text-align: center;"><span style="font-size: large;">  <span style="font-size: medium;"><a href="http://aweb34.ru/"><span style="font-size: large;">на главную</span> </a> </span></span></p>
+<p style="text-align: center;"><span style="font-size: large;"><a href="http://aweb34.ru/karta-sajta.html">карта сайта</a></span></p>
+<p style="text-align: center;"><span style="font-size: large;">Если проблемы продолжатся, пожалуйста, обратитесь к системному администратору сайта и сообщите об ошибке.</span></p>
+<p style="text-align: center;"><a href="http://aweb34.ru/kontakty.html"><span style="font-size: large;">сообщить об ошибке</span></a></p>
+<p style="text-align: center;"> </p>
+               </div>
+               <div class="clear"></div>
+
+        </div> 
+        <div class="clear"></div> 
+        
+        <div class="clear"></div>
+            <div class="clearf"></div>
+            <div class="footer">
+                <div class="copirait">
+                    
+                    <p class="text">Disign by <span class="copiraitlink" data-mylink="http://aweb34.ru/">Aweb34.ru</span></p><br><br>
+                    <p class="text">&copy; 2016</p>
+                
+                </div>
+            </div> 
+    </body>
+</html>

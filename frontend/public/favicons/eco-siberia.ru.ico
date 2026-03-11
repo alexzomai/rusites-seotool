@@ -1,0 +1,578 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head> <!-- index -->
+<title> | «ЭКО-СИБИРЬ»</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="description" content=""/>
+<meta name="keywords" content="" />
+<meta name="msvalidate.01" content="2DF5E3C5592EBCA2A059F56431E99C43" />
+<meta name='yandex-verification' content='4078d35617398951' />
+<meta name="google-site-verification" content="p9VwN6EYzOrSqhLgv7PfLu1TMZQRyCxAql1y1SgiyoA" />
+<link href="/css/slider.css" rel="stylesheet" type="text/css" />
+<link href="/templates/ru/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/templates/ru/css/layout.css" rel="stylesheet" type="text/css" />
+<script src="/js/jquery-1.5.2.min.js" type="text/javascript"></script>
+<script src="/js/cufon-yui.js" type="text/javascript"></script>
+<script src="/js/cufon-replace.js" type="text/javascript"></script>
+<script src="/js/Calibri_400.font.js" type="text/javascript"></script>
+<script src="/js/example.js" type="text/javascript"></script>
+<script src="/js/jquery-1.5.2.min.js" type="text/javascript"></script>
+
+<!--[if lt IE 7]>
+	<link href="ie_style.css" rel="stylesheet" type="text/css" />
+   <script type="text/javascript" src="/js/ie_png.js"></script>
+   <script type="text/javascript">
+       ie_png.fix('.png, .logo img, .slogan, #header');
+   </script>
+<![endif]-->
+<!--
+<link rel="stylesheet" type="text/css" href="/templates/ru/css/pxgradient.css" />
+
+<script type="text/javascript" src="/templates/ru/css/pxgradient-1.0.1.jquery.js"></script>
+
+    <script type="text/javascript">
+
+      $(function(){
+
+        $(".green18").pxgradient({
+          step:1,
+          colors: ["#ABDE81","#36664A"],
+          dir:"y"
+        })
+
+		$(".green14").pxgradient({
+          step:1,
+          colors: ["#ABDE81","#36664A"],
+          dir:"y"
+        })
+
+		$(".green14b a").pxgradient({
+          step:1,
+          colors: ["#ABDE81","#36664A"],
+          dir:"y"
+        })
+
+		$(".green14b").pxgradient({
+          step:1,
+          colors: ["#ABDE81","#36664A"],
+          dir:"y"
+        })
+
+      });
+    </script>
+-->
+
+
+
+	<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+			$("a#example1").fancybox();
+
+			$("a#example2").fancybox({
+				'overlayShow'	: false,
+				'transitionIn'	: 'elastic',
+				'transitionOut'	: 'elastic'
+			});
+
+			$("a#example3").fancybox({
+				'transitionIn'	: 'none',
+				'transitionOut'	: 'none'
+			});
+
+			$("a#example4").fancybox({
+				'opacity'		: true,
+				'overlayShow'	: false,
+				'transitionIn'	: 'elastic',
+				'transitionOut'	: 'none'
+			});
+
+			$("a#example5").fancybox();
+
+			$("a#example6").fancybox({
+				'titlePosition'		: 'outside',
+				'overlayColor'		: '#000',
+				'overlayOpacity'	: 0.9
+			});
+
+			$("a#example7").fancybox({
+				'titlePosition'	: 'inside'
+			});
+
+			$("a#example8").fancybox({
+				'titlePosition'	: 'over'
+			});
+
+			$("a[rel=example_group]").fancybox({
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'titlePosition' 	: 'over',
+				'titleFormat'		: function(title, currentArray, currentIndex, currentOpts) {
+					return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+				}
+			});
+
+			$("#various1").fancybox({
+				'titlePosition'		: 'inside',
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none'
+			});
+
+			$("#various2").fancybox();
+
+			$("#various3").fancybox({
+				'width'				: '75%',
+				'height'			: '75%',
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none',
+				'type'				: 'iframe'
+			});
+
+			$("#various4").fancybox({
+				'padding'			: 0,
+				'autoScale'			: false,
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'none'
+			});
+		});
+	</script>
+
+<script type="text/javascript">
+
+function picShow(param) {
+    var paramId = "#pic"+param;
+    $(paramId).fadeIn('slow');
+
+    for(i=1;i<5;i++){
+        var paramFor = "#pic"+i;
+    	if (param != i) { $(paramFor).fadeOut('slow'); }
+    	}
+}
+
+$(document).ready(function() {
+	$("ul.topmeny li a").click(function() {
+	$("ul.topmeny li a").removeClass("actBull").addClass("bull");
+	$(this).removeClass("bull").addClass("actBull");
+	});
+});
+
+
+
+
+
+$('#topSlider').hide();
+$('#topSlider').load( function() {
+$('#loader').hide();
+$('#topSlider').show();
+} );
+
+
+
+
+
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30397350-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+
+
+<body id="page1">
+<div class="bg">
+<div class="bg-right"></div>
+<div class="bg2">
+<!--==============================header=================================-->
+
+   	<center>
+
+   	<div id="header" style="margin-top:-48px;">
+
+    
+
+
+        <style>
+.input_text {
+border:0px;
+padding: 2px;
+-moz-border-radius:  5px; /* Firefox */
+-webkit-border-radius:  5px; /* Safari 4 */
+border-radius:  5px; /* IE 9, Safari 5, Chrome */
+}
+
+
+.krugl {
+-moz-border-radius:  5px; /* Firefox */
+-webkit-border-radius:  5px; /* Safari 4 */
+border-radius:  5px; /* IE 9, Safari 5, Chrome */
+padding:4px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+
+</style>
+
+
+    <div class="reg" style="margin-left:20px;"><br /><br /><!--<a href="/catalog/editBasket.php">Корзина</a><font color="#ffffff">&nbsp;|&nbsp;</font>--><a href="#" onclick="$('#hideAuth').slideToggle('normal');return false;">Войти</a><font color="#ffffff">&nbsp;|&nbsp;</font><a href="/catalog/shop/order/#newreg">Регистрация</a></div>
+   	<div class="lang"><br /><br /><!--//<a href="/" style="color:#FFCB0E">RUS</a><font color="#ffffff">&nbsp;|&nbsp;</font><a href="/?lang=eng" style="color:#FFCB0E">ENG</a>//--></div>
+   	<div class="logo"><br /><br /><a href="/"><img src="/i/logo1.png" style="padding-left:20px; padding-top:0px;"></a>
+
+
+
+    	<div style="display:none; position:absolute; z-index:9999; left:675px; top:30px; background:#FED318; border: 1px solid #FFBF00;" id="hideAuth" class="krugl">
+    	<form name="auth" action="/catalog/myorders.php" method="post">
+    	<input name="state" type="hidden" value="1">
+    		<table>
+    			<tr>
+    				<td style="color:#6C303C;">E-Mail:</td>
+    				<td><input name="login" type="text" value="" class="input_text"></td>
+    			</tr>
+    			<tr>
+    				<td style="color:#6C303C;">Пароль:</td>
+    				<td><input name="pass" type="password" value="" class="input_text"></td>
+    			</tr>
+    			<tr>
+    				<td>&nbsp;</td>
+    				<td><input type="submit" value="Войти" style="padding:2px; background:#EEE; border: 1px solid #FFF; color:#000; cursor:pointer; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;"></td>
+    			</tr>
+    		</table>
+    	</form>
+    	</div>
+
+
+
+
+
+		
+
+   	</div>
+
+
+     <!-- <script type="text/javascript">
+     	$(document).ready(function(){
+
+		$('#headlink').hover(
+		    function() { $('#level2', this).slideToggle('normal'); },
+		    function() { $('#level2', this).hide(); }
+		    );
+
+		});
+	</script>-->
+
+
+   	<div class="nav-wrap" style="width:610px; margin-left:-190px;">
+   	        <br />
+            <ul class="group" id="example-two">
+			<li></li>
+            <li class="active" id="headlink"><a href="/page/kedrovoe-maslo/">Кедровое масло</a>
+            	<ul style="/*display:none;*/ position:absolute; z-index:99999;" id="level2">
+            	    <!--<li><a href="/page/kedrovoe-maslo/" >Продукт</a></li>-->
+            		<li><a href="/page/proizvodstvo/">Производство</a></li>
+            		<li><a href="/page/sostav/">Состав</a></li>
+            		<li><a href="/page/svojstva/">Свойства</a></li>
+            		<li><a href="/page/primenenie/">Применение</a></li>
+            	</ul>
+
+            </li>
+            <!-- <li><a href="/page/nauka/">Наука</a></li> -->
+
+            <li><a href="/faq/">Вопросы и ответы</a></li>
+            <li><a href="/page/company/">О компании</a></li>
+
+            <li><a href="/page/partners/">Сотрудничество</a></li>
+
+            <li><a href="/page/contacts/">Контакты</a></li>
+        </ul>
+
+    </div>
+
+    <div style="position:absolute; top:167px;" id="loader"></div>
+
+  <div style="margin-left:0px;" id="topSlider">
+
+    <div style="position:absolute; top:167px; " id="pic1"><img src="/pic/1.jpg" border="0"></div>
+    <div style="position:absolute; top:167px; display: none;" id="pic2"><img src="/pic/2.jpg" border="0"></div>
+    <div style="position:absolute; top:167px; display: none;" id="pic3"><img src="/pic/3.jpg" border="0"></div>
+    <div style="position:absolute; top:167px; display: none;" id="pic4"><img src="/pic/4.jpg" border="0"></div>
+
+    <div style="position:absolute; top:185px; padding-left:645px; color:#FFF;">
+      <div class="megaweb" style="position:relative;">
+    	<img src="/pic/part_banner.png" border="0">
+    	<div style="position:absolute; top:0px; width:322px; font-size:21pt; line-height:40px;"><center><img src="/i/cube.png" style="top:-20px"></center></div>
+        <a href="/catalog/shop/"><div style="position:absolute; top:227px; width:125px; height:46px; margin-left:100px; background: url(/pic/button-top.gif) 0 0 no-repeat; font-size:11pt; padding-top: 12px; cursor:pointer;"><center><i></i></center></div></a>
+      </div>
+    </div>
+
+	<div style="position:absolute; top:440px; padding-left:30px;">
+        <ul class="topmeny">
+        	<li><a href="#" onclick="picShow(1); return false;" class="actBull"></a></li>
+        	<li><a href="#" onclick="picShow(2); return false;" class="bull"></a></li>
+        	<li><a href="#" onclick="picShow(3); return false;" class="bull"></a></li>
+        	<li><a href="#" onclick="picShow(4); return false;" class="bull"></a></li>
+        </ul>
+ 	</div>
+
+  </div>
+
+
+    </div></center><div class="nav"></div>
+<!--==============================main=================================-->
+<div style="width:914px; margin:auto; font-size:14px;margin-top:15px; line-height:16px" class="list_style_li">
+
+</div>
+<!--==============================footer=================================-->
+
+<div style="width:900px; margin:auto; padding-top:10px; position:relative"><!--<div class="red16" style="margin-top:15px; margin-bottom:15px">Показания к применению</div>-->
+
+    <div class="footermid" style="z-index:666">
+			<img src="/images/foot02.jpg" style=" float:left"/><br style="line-height:30px"><div class="green14b" style="font-size:16px;">Болит желудок</div>
+        	<div class="clear"></div>
+
+			<div class='footer'><a href='/page/gastritis/' >Кедровое масло при гастрите</a></div><div class='footer'><a href='/page/izzhoga_gerb/' >Изжога лечение</a></div><div class='footer'><a href='/page/jazva_zheludka/' >Язва Желудка</a></div><div class='footer'><a href='/page/vzdutie_zhivota/' >Вздутие живота и Газы</a></div><div class='footer'><a href='/page/helicobacter_pylori/' >Хеликобактер пилори (H.Pylori)</a></div><div class='footer'><a href='/page/piwevod_borretta/' >Пищевод Баррета</a></div><div class='footer'><a href='/page/skr/' >Раздражение кишечника (СРК)</a></div><div class='footer'><a href='/page/yazvenniy_kolit/' >Язвенный колит</a></div><div class='footer'><a href='/page/zapor/' >Запор</a></div>
+
+	</div>
+
+
+    <div class="footerleft"><img src="/images/foot01.jpg" style=" float:left; z-index:0"/><br><div class="green14b" style="font-size:16px; line-height:20px">Беременность<br />и дети</div>
+			<div class="clear"></div>
+
+			<div class='footer'><a href='/page/beremennost/' >Кедровое масло при беременности</a></div><div class='footer'><a href='/page/izzhoga-u-beremennyh/' >Изжога у беременных</a></div><div class='footer'><a href='/page/lishnij_ves/' >Вес при беременности</a></div><div class='footer'><a href='/page/pitanie-pri-beremennosti/' >Питание при беременности</a></div><div class='footer'><a href='/page/zapor_u_beremennyh/' >Запор у беременных</a></div><div class='footer'><a href='/page/rastjazhki-pri-beremennosti/' >Растяжки при беременности</a></div><div class='footer'><a href='/page/kormlenie-novorozhdennogo/' >Кормление новорожденного</a></div><div class='footer'><a href='/page/mladency/' >Прикорм грудничка</a></div><div class='footer'><a href='/page/deti/' >Дети</a></div>
+
+	</div>
+
+
+
+    <div class="footerright">
+		<img src="/images/foot03.jpg" style=" float:left"/><br><div class="green14b" style="font-size:16px; line-height:20px">Дополнительные<br />преимущества</div>
+        <div class="clear"></div>
+
+			<div class='footer'><a href='/page/kedrovoe_maslo_dlja_pohudenija/' >Кедровое масло для похудения</a></div><div class='footer'><a href='/page/energy/' >Жизненная энергия</a></div><div class='footer'><a href='/page/immunitet/' >Иммунитет</a></div><div class='footer'><a href='/page/diabet/' >Уровень сахара в крови (Диабет)</a></div><div class='footer'><a href='/page/gipertoniya/' >Гипертония</a></div><div class='footer'><a href='/page/holesterin/' >Холестерин</a></div><div class='footer'><a href='/page/osteoporoz/' >Остеопороз</a></div><div class='footer'><a href='/page/zabolevanija_kozhi/' >Заболевания кожи</a></div><div class='footer'><a href='/page/omolozhenie_massazh/' >Омоложение и массаж</a></div>
+
+	</div>
+
+
+</div><div style="clear:both; padding-bottom:30px;"></div>
+<!--==============================content================================-->
+
+<div id="content"><div id="main"><p></p>
+    	<div class="wrapper">
+        	<div class="col-0">
+<div style="font-size:14px">
+
+<table width="960" height="250" border="0" align="center" cellspacing="0">
+  <tr>
+    <td width="610" height="257" valign="top">
+    	<div style="overflow:visible; min-height:100px"><h2 style="font-size: large; color: rgb(105, 53, 65); font-family: Arial; font-weight: 900; line-height: 18px; padding-bottom: 10px; text-align: left;">Почему кедровое масло &laquo;ЭКО-СИБИРЬ&raquo;?</h2>
+<p>&nbsp;</p>
+<p style="text-align: justify;">- В кедровом масле все витамины, омега кислоты, микроэлементы сохранены в первозданном виде и в той пропорции, которые задала природа по своему составу.</p>
+<p style="text-align: justify;">- Кедровое масло является мощным антиоксидантом&nbsp; и тонизирующим средством для органов пищеварения, естественно сохраняет и поддерживает пищеварительный баланс нашего организма, здоровье и жизнеспособность!</p>
+<p style="text-align: justify;">- Потому, что мы гарантируем качество кедрового масла, глубоко изучаем продукт и контролируем процесс производства на каждом этапе.</p>
+<table width="200" border="0" cellpadding="5" cellspacing="1" align="left">
+    <tbody>
+        <tr>
+            <td><img src="/userfiles/kedrovoe_maslo_ekosibir_medal.jpg" alt="Кедровое масло Экосибирь медаль" width="100" height="130" style="text-align: justify;" /></td>
+            <td><img src="/userfiles/kedrovoe_maslo_svidetelstvo_medali(1).jpg" width="92" height="130" alt="" /></td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align:justify;">&nbsp;</p>
+<p style="text-align:justify;">&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: center;"><a href="../page/issledovanija/">Исследования</a>&nbsp;-&nbsp;<a href="../page/hromatogramma/">Хроматографический анализ</a>&nbsp;-&nbsp;<a href="../page/terminy/">Термины</a></p></div> </td>
+    <td width="386" rowspan="2" valign="bottom"><div style="background: transparent url(/images/photo00.png) 0px 7px;vertical-align: bottom; float:right; width:384px; height:351px; bottom:-30px;"></div></td>
+  </tr>
+  <tr>
+    <td height="60" valign="top"><div style="float:left; height:31px"><a href="/page/kachestvo/"><img border="0" alt="" src="/images/button01.jpg" /></a></div>
+<div style="float:left; margin-left:10px; height:31px"><a href="/page/nauka/"><img border="0" alt="" src="/images/button03.jpg" /></a></div>
+<div style="float:left; margin-left:10px; height:31px"><a href="/page/reviews/"><img border="0" alt="" src="/images/button02.jpg" /></a></div>
+<div style="float:left; margin-left:10px; height:31px"><a href="/catalog/shop/"><img border="0" alt="" src="/images/button04.jpg" /></a></div></td>
+  </tr>
+</table>
+
+
+<!--
+<div class="oneline" style="float:left"><span class="green18"><font color="#693541">Почему&nbsp;Кедровое масло ЭКО-СИБИРЬ,&nbsp;а не другое?</font></span></div>
+<p style="font-size:14px"><br />
+<br />
+- Наше масло это не БАД, а пищевой продукт, по которому нет противопоказаний, оно полностью усваивается организмом человека и жизнено необходимо каждому из нас! <br />
+<br />
+- Потому, что мы гарантируем качество продукта, глубоко изучаем продукт и контролируем процесс производства на каждом этапе.</p>
+<br />
+-->
+
+
+
+</div>
+<div style="clear:both; padding-bottom:50px;"></div>
+
+              <!--//<a class="link-1" href="/page/about.html?lang=ru">Далее</a>//-->
+
+            </div>
+        </div>
+    </div>
+<!--
+
+    <p style="margin-left:40px;"><h3 style="margin-left:40px;">Отрасли</h3></p>
+     <div id="footer">
+     <div class="bottommenu">
+			<div class="blesk1"></div><div class="blesk2"></div>
+			<ul>
+				<li class="p1"><a href="/page/aromatherapy.html?lang=ru">Ароматерапия</a></li>
+				<li class="p2"><a href="/page/cosmetology.html?lang=ru">Косметическая</a></li>
+				<li class="p3"><a href="/page/pharmaceutics.html?lang=ru">Фармацевтическая</a></li>
+				<li class="p4"><a href="/page/food.html?lang=ru">Пищевая</a></li>
+				<li class="p5"><a href="/page/chemical.html?lang=ru">Химическая</a></li>
+			</ul>
+	 </div><!-- /topmenu -->
+    	<!--<div class="wrapper1">
+        	<div class="text-bot" style="margin-left:31px;">ecosibir © 2011 | <a href="mailto:mail@ecosibir.com">Написать нам</a></div>
+             <ul class="menu-bot" style="margin-right:40px;">
+            	<li>Создание сайта<a href="http://www.in-site.ru/page/sites.html" target="_blank">In-Site</a></li>
+            </ul>
+        </div>
+    </div> -->
+
+<!-- =========================== конец футер меню ============================== -->
+
+<div class="clear" style=" width:900px"></div>
+
+<!-- =========================== футер каталог ============================== -->
+<!--<div class="footerbg" style="width:930px; margin:auto">
+		<div class="content"><span class="red18" style="margin-left:10px">Магазин</span><br style="line-height:20px;"/><span style=" font-size:12px; margin-left:10px">Масло кедрового ореха пресовое</span></div>
+
+    		<div class="catalogitem"><div class="green14b" style="font-size:17px;">Попробовать</div>
+    			<div class="catalogitempicture"><img src="/images/catalog01.jpg" /></div>
+        	    <div class="catalogitemprice">1 шт 299 р.</div>
+        	<a href="#"><img src="/images/button04.jpg" border="0" /></a></div>
+
+    		<div class="catalogitem"><div class="green14b" style="font-size:17px;">Рекомендовано</div>
+    			<div class="catalogitempicture"><img src="/images/catalog02.jpg" /></div>
+        	    <div class="catalogitemprice">3 шт 799 р.</div>
+        	<a href="#"><img src="/images/button04.jpg" border="0" /></a></div>
+
+    		<div class="catalogitem"><div class="green14b" style="font-size:17px;">Семье и близким</div>
+    			<div class="catalogitempicture"><img src="/images/catalog03.jpg" /></div>
+        	    <div class="catalogitemprice">9 шт 2299 р.</div>
+        	<a href="#"><img src="/images/button04.jpg" border="0" /></a></div>
+
+</div>-->
+<!-- =========================== футер каталог ============================== -->
+
+<div class="clear" style=" width:900px"></div>
+
+	<div class="footersmall" style=" width:950px; margin:auto">
+		<div class="footl">Ecosibir &copy; 2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/page/contacts/" style="color:#5D5D5D">Обратная связь</a>
+		<br><br>
+		<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2770926"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2770926/">
+<img src="http://counter.rambler.ru/top100.cnt?2770926" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">//<![CDATA[
+var a='',js=10;try{a+=';r='+escape(document.referrer);}catch(e){}try{a+=';j='+navigator.javaEnabled();js=11;}catch(e){}
+try{s=screen;a+=';s='+s.width+'*'+s.height;a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;}catch(e){}
+try{if(typeof((new Array).push('t'))==="number")js=13;}catch(e){}
+try{document.write('<a href="http://top.mail.ru/jump?from=2248173">'+
+'<img src="http://dd.c4.b2.a2.top.mail.ru/counter?id=2248173;t=69;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru" style="border:0;" height="31" width="38" \/><\/a>');}catch(e){}//]]></script>
+<noscript><p><a href="http://top.mail.ru/jump?from=2248173">
+<img src="http://dd.c4.b2.a2.top.mail.ru/counter?js=na;id=2248173;t=69" 
+style="border:0;" height="31" width="38" alt="Рейтинг@Mail.ru" /></a></p></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter17531581 = new Ya.Metrika({id:17531581,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    ut:"noindex"});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/17531581?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</div>
+		<div class="footr">
+			
+			<strong> <a href="http://www.in-site.ru/page/internet_shop.html"> Создание Интернет Магазина</a> </strong>-
+						ООО Инсайт.
+			
+			
+			</div>
+	
+	
+	
+	</div>
+	
+	
+	</div>
+
+
+
+</div>
+</div>
+</div>
+
+<div align="left">
+</div>
+
+
+<script type="text/javascript"> Cufon.now(); </script>
+</body>
+</html>

@@ -6,16 +6,30 @@ import { TrendingUpIcon, TrendingDownIcon } from "lucide-react";
 
 interface Analytics {
   visits_today: number | null;
+  visits_diff: number | null;
   change_pct: number | null;
   rank_today: number | null;
   best_weekday: string | null;
 }
 
+const WEEKDAY_RU: Record<string, string> = {
+  Monday: "Понедельник",
+  Tuesday: "Вторник",
+  Wednesday: "Среда",
+  Thursday: "Четверг",
+  Friday: "Пятница",
+  Saturday: "Суббота",
+  Sunday: "Воскресенье",
+};
+
 export function SectionCards({ analytics }: { analytics: Analytics | null }) {
   const visits = analytics?.visits_today;
+  const visitsDiff = analytics?.visits_diff ?? null;
   const changePct = analytics?.change_pct;
   const rank = analytics?.rank_today;
-  const bestDay = analytics?.best_weekday;
+  const bestDay = analytics?.best_weekday != null
+    ? (WEEKDAY_RU[analytics.best_weekday] ?? analytics.best_weekday)
+    : null;
 
   const pctLabel = changePct != null ? `${changePct >= 0 ? "+" : ""}${changePct.toFixed(1)}%` : "—";
   const isUp = (changePct ?? 0) >= 0;
@@ -29,10 +43,12 @@ export function SectionCards({ analytics }: { analytics: Analytics | null }) {
             {visits != null ? visits.toLocaleString("ru-RU") : "—"}
           </CardTitle>
           <CardAction>
-            <Badge variant="outline">
-              {isUp ? <TrendingUpIcon /> : <TrendingDownIcon />}
-              {pctLabel}
-            </Badge>
+            {visitsDiff != null && (
+              <Badge variant="outline">
+                {visitsDiff >= 0 ? <TrendingUpIcon /> : <TrendingDownIcon />}
+                {visitsDiff >= 0 ? "+" : ""}{visitsDiff.toLocaleString("ru-RU")}
+              </Badge>
+            )}
           </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
@@ -48,12 +64,6 @@ export function SectionCards({ analytics }: { analytics: Analytics | null }) {
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
             {pctLabel}
           </CardTitle>
-          <CardAction>
-            <Badge variant="outline">
-              {isUp ? <TrendingUpIcon /> : <TrendingDownIcon />}
-              {pctLabel}
-            </Badge>
-          </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
           <div className="line-clamp-1 flex gap-2 font-medium">
@@ -68,12 +78,6 @@ export function SectionCards({ analytics }: { analytics: Analytics | null }) {
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
             {rank != null ? `#${rank}` : "—"}
           </CardTitle>
-          <CardAction>
-            <Badge variant="outline">
-              <TrendingUpIcon />
-              Топ
-            </Badge>
-          </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
           <div className="line-clamp-1 flex gap-2 font-medium">
@@ -88,12 +92,6 @@ export function SectionCards({ analytics }: { analytics: Analytics | null }) {
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
             {bestDay ?? "—"}
           </CardTitle>
-          <CardAction>
-            <Badge variant="outline">
-              <TrendingUpIcon />
-              Пик
-            </Badge>
-          </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
           <div className="line-clamp-1 flex gap-2 font-medium">

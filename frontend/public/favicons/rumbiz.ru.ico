@@ -1,0 +1,347 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="http://rumbiz.ru/img/icon.ico" type="image/x-icon" />
+<script type="text/javascript">window.s3915020308 = {};</script>
+<title>Страница не найдена</title>
+<link type="text/css" rel="StyleSheet" href="http://rumbiz.ru/services/404/css/404-all.css">
+<script type="text/javascript" src="http://rumbiz.ru/langs/rus/template/template/js.js"></script>
+<script type="text/javascript" src="http://rumbiz.ru/langs/rus/services/404/js.js"></script>
+<script type="text/javascript" src="http://rumbiz.ru/services/404/js/404-all.js"></script>
+<!-- SAPE RTB JS -->
+<script
+    async="async"
+    src="//cdn-rtb.sape.ru/rtb-b/js/646/2/114646.js"
+    type="text/javascript">
+</script>
+<!-- SAPE RTB END --></head>
+
+<body class="s2478525464">
+    <div id="s1962131469"></div>
+<div id="s1215092111" gl_sector="s1583105453"></div>
+<div class="s1123004206">
+    <div class="s2546994124" align="center">
+                <div class="s2002457726" align="left" onclick="var s3185383104 = event || window.event; s3185383104.stopPropagation ? s3185383104.stopPropagation() : (s3185383104.cancelBubble=true);">
+            <div class="s138801593">
+                <table
+                    class="s1443739783"
+                    width="100%"
+                    border="0"
+                    onmouseup="$(this).removeClass('s3157986964');"
+                    onmousedown="$(this).addClass('s3157986964');"
+                    onclick="$('#s729608171').toggle();"
+                >
+                    <tr>
+                        <td width="20">
+                            <div align="right">
+                                <img width="16" height="16" title="Русский" src="http://rumbiz.ru/img/template/template/langs/rus.png" />
+                            </div>
+                        </td>
+                        <td>
+                            <div class="s150625380">Русский</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="s729608171">
+                <div class="s1652564766"></div>
+                <table class="s1207107701" border="0">
+                                            <tr onclick="s3915020308.s894392113.s238490427('0');">
+                            <td width="20">
+                                <div align="right">
+                                    <img width="16" height="16" title="Русский" src="http://rumbiz.ru/img/template/template/langs/rus.png" />
+                                </div>
+                            </td>
+                            <td width="120">
+                                <div class="s1419514926">Русский</div>
+                            </td>
+                        </tr>
+                                            <tr onclick="s3915020308.s894392113.s238490427('1');">
+                            <td width="20">
+                                <div align="right">
+                                    <img width="16" height="16" title="English" src="http://rumbiz.ru/img/template/template/langs/usa.png" />
+                                </div>
+                            </td>
+                            <td width="120">
+                                <div class="s1419514926">English</div>
+                            </td>
+                        </tr>
+                                    </table>
+                <div class="s2038539807"></div>
+            </div>
+        </div>
+        <div class="s3551417770"></div>
+    </div>
+    <div class="s2166821256" align="center">
+        <div class="s706467475">
+            <ul>
+                <li><div><a href="http://rumbiz.ru/"><strong>Главная</strong></a></div></li>
+<li><div><a href="http://rumbiz.ru/gallery.html"><strong>Галлерея</strong></a></div></li>
+<li><div><a href="http://rumbiz.ru/forum.html"><strong>Форум</strong></a></div></li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="s1637624894" style="display:none;"></div>
+
+<div class="s1840989489 s487033846">
+    <div class="s2755370087">
+        <div class="s3268220093">
+            <div class="s2125011213">
+                <div class="s2624482797">
+                                        <div class="s2318911627">
+                        <script type="text/javascript" src="http://rumbiz.ru/langs/rus/template/auth/js.js"></script>
+                        <script type="text/javascript" src="http://rumbiz.ru/template/auth/js/auth.js"></script>
+                        <div class="s2245817967">Авторизация</div>
+                        <div align="center">
+                            <input id="s2314992106" type="text" value="Логин.." onfocus="if (this.value == 'Логин..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Логин..';}" />
+                            <input id="s2492967009" type="password" value="Пароль.." onfocus="if (this.value == 'Пароль..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Пароль..';}" />
+                        </div>
+                        <div class="s3303863509" onclick="s3915020308.s2318911627.s2724308561(this);">
+                            <div class="s196182068"></div>
+                            <div class="s2682882497">Ip-адрес</div>
+                        </div>
+                        <div align="center">
+                            <input type="button" class="s780940328" onclick="s3915020308.s2318911627.s3978590789();" value="Войти" />
+                        </div>
+                        <div class="s1088811325">
+                            <span class="s120475421"><a onclick="s3915020308.s2318911627.s3774898170();">Восстановление пароля</a></span>
+                        </div>
+                        <div class="s1195815908">
+                            <span class="s3092834521"><a target="_blank" href="http://rumbiz.ru/registration.html">Регистрация</a></span>
+                        </div>
+                    </div>
+                                        <div class="s2252855441">
+                        <div class="s2898711181"></div>
+                        <div class="s902159288"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="s2755370087 s3332984985">
+        <div class="s3268220093">
+            <div class="s2125011213">
+                <div class="s1416941325" onclick="s3915020308.s2018373811.s651690008(this);">
+                    <div class="s532379998">Статистика</div>
+                    <div class="s3982447089"></div>
+                </div>
+                <div class="s2805568786" style="display: none;"><div align="center" style="margin:5px 0;">
+
+<!--LiveInternet counter--><a href="//www.liveinternet.ru/click"
+target="_blank"><img id="licntAF32" width="88" height="120" style="border:0" 
+title="LiveInternet: показано количество просмотров и посетителей"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licntAF32").src=
+"//counter.yadro.ru/hit?t27.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+
+</div></div>
+                <div class="s1353550935" style="display: none;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="s2755370087">
+        <div class="s3268220093">
+            <div class="s2125011213">
+                <div class="s1416941325">
+                    <div class="s532379998">Реклама</div>
+                    <div class="s3982447089"></div>
+                </div>
+                <div class="s2805568786"><div align="center"><div align="center" style="overflow:hidden;">
+
+<!-- SAPE RTB DIV 160x600 -->
+<div id="SRTB_567522"></div>
+<!-- SAPE RTB END -->
+
+</div><script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><div style="margin-top:5px;">
+<div class="gl_mainlink_block">
+<ul>
+
+</ul>
+</div>
+</div>
+<style>
+.gl_mainlink_block{-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;border-radius:5px;background-color:#FFF;}
+.gl_mainlink_block ul{text-align:left;font-family:font-family:Verdana, Geneva, sans-serif;margin}
+.gl_mainlink_block ul li{margin-bottom:15px;padding:0 10px;}
+.gl_mainlink_block ul li:first-child{padding-top:10px;}
+.gl_mainlink_block ul li:last-child{padding-bottom:10px;margin-bottom:0;}
+.gl_mainlink_block ul li a{color:#000066!important;font-size:12px!important;font-weight:bold !important;text-decoration:underline !important;}
+</style><div style="margin-top:5px;">
+<div class="gl_linkfeed_block">
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=lfc8ac86d731a6b94286c2e6b059a7b59bab5dfef1" type="text/javascript"></script>
+</div>
+</div>
+<style>
+.gl_linkfeed_block{-moz-border-radius:5px;-webkit-border-radius:5px;-khtml-border-radius:5px;border-radius:5px;background-color:#FFF;text-align:left;font-family:Verdana, Geneva, sans-serif;font-size:12px;padding:0 10px;}
+.gl_linkfeed_block a{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;margin-top:10px;font-weight:bold;text-decoration:underline;}
+.gl_linkfeed_block a:first-child{padding-top:10px;margin-top:0;}
+.gl_linkfeed_block a:last-of-type{padding-bottom:10px;}
+</style></div></div>
+                <div class="s1353550935"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<div class="s2564216696 s3298740">
+        <h1 align="center">Страница не найдена</h1>
+        <div class="s3423353415" align="center">Вы будете перенаправлены на главную страницу через <span id="s3182935796"></span> секунд</div>
+        <div align="center" class="s2397906237">
+            <a href="http://rumbiz.ru/">Перейти сейчас..</a>
+        </div>
+	</div>
+<div class="s2971111193 s487033846">
+    <div id="s913074352">
+        <div class="s2755370087">
+            <div class="s3268220093">
+                <div class="s2125011213">
+                    <div class="s3780768722"></div>
+                    <div class="s1278193636">
+                        <h3 align="center">Категории</h3>
+                        <ul class="s1360894511">
+                            <li><a href="http://rumbiz.ru/category-7-ekshen.html">Экшен (9261)</a></li>
+<li><a href="http://rumbiz.ru/category-10-mmorpg.html">Mmorpg (4315)</a></li>
+<li><a href="http://rumbiz.ru/category-13-shuter.html">Шутер (4002)</a></li>
+<li><a href="http://rumbiz.ru/category-6-rpg.html">Rpg (3377)</a></li>
+<li><a href="http://rumbiz.ru/category-8-fentezi.html">Фэнтези (2872)</a></li>
+<li><a href="http://rumbiz.ru/category-34-priklyucheniya.html">Приключения (1826)</a></li>
+<li><a href="http://rumbiz.ru/category-51-pesochnica.html">Песочница (1537)</a></li>
+<li><a href="http://rumbiz.ru/category-30-fantastika.html">Фантастика (1153)</a></li>
+<li><a href="http://rumbiz.ru/category-40-vyjivanie.html">Выживание (973)</a></li>
+<li><a href="http://rumbiz.ru/category-93-simulyator.html">Симулятор (814)</a></li>
+<li><a href="http://rumbiz.ru/category-14-sovremennost.html">Современность (693)</a></li>
+<li><a href="http://rumbiz.ru/category-42-moba.html">Moba (686)</a></li>
+<li><a href="http://rumbiz.ru/category-2-strategiya.html">Стратегия (667)</a></li>
+<li><a href="http://rumbiz.ru/category-57-anime.html">Аниме (591)</a></li>
+<li><a href="http://rumbiz.ru/category-59-fayting.html">Файтинг (434)</a></li>
+<li><a href="http://rumbiz.ru/category-159-pc.html">Pc (420)</a></li>
+<li><a href="http://rumbiz.ru/category-11-ncsoft.html">Ncsoft (413)</a></li>
+<li><a href="http://rumbiz.ru/category-138-arkada.html">Аркада (403)</a></li>
+<li><a href="http://rumbiz.ru/category-212-horror.html">Хоррор (350)</a></li>
+<li><a href="http://rumbiz.ru/category-134-gonki.html">Гонки (320)</a></li>
+<li><a href="http://rumbiz.ru/category-56-genshin-impact.html">Genshin impact (310)</a></li>
+<li><a href="http://rumbiz.ru/category-3-istoriya.html">История (301)</a></li>
+<li><a href="http://rumbiz.ru/category-48-blizzard.html">Blizzard (285)</a></li>
+<li><a href="http://rumbiz.ru/category-55-lost-ark.html">Lost ark (253)</a></li>
+<li><a href="http://rumbiz.ru/category-172-anons.html">Анонс (233)</a></li>
+<li><a href="http://rumbiz.ru/category-28-postapokalipsis.html">Постапокалипсис (228)</a></li>
+<li><a href="http://rumbiz.ru/category-124-riot-games.html">Riot games (193)</a></li>
+<li><a href="http://rumbiz.ru/category-61-black-desert.html">Black desert (174)</a></li>
+<li><a href="http://rumbiz.ru/category-150-square-enix.html">Square enix (173)</a></li>
+<li><a href="http://rumbiz.ru/category-3057-hoyoverse.html">Hoyoverse (168)</a></li>
+<li><a href="http://rumbiz.ru/category-2019-throne-and-liberty.html">Throne and liberty (163)</a></li>
+<li><a href="http://rumbiz.ru/category-85-apex-legends.html">Apex legends (159)</a></li>
+<li><a href="http://rumbiz.ru/category-1729-honkai-star-rail.html">Honkai star rail (157)</a></li>
+<li><a href="http://rumbiz.ru/category-892-obnovlenie.html">Обновление (151)</a></li>
+<li><a href="http://rumbiz.ru/category-135-sport.html">Спорт (150)</a></li>
+<li><a href="http://rumbiz.ru/category-898-video.html">Видео (139)</a></li>
+<li><a href="http://rumbiz.ru/category-77-krafton.html">Krafton (137)</a></li>
+<li><a href="http://rumbiz.ru/category-796-tower-of-fantasy.html">Tower of fantasy (137)</a></li>
+<li><a href="http://rumbiz.ru/category-167-league-of-legends.html">League of legends (136)</a></li>
+<li><a href="http://rumbiz.ru/category-600-ubisoft.html">Ubisoft (136)</a></li>
+<li><a href="http://rumbiz.ru/category-99-new-world.html">New world (134)</a></li>
+<li><a href="http://rumbiz.ru/category-131-kartochnaya.html">Карточная (133)</a></li>
+<li><a href="http://rumbiz.ru/category-23-mobile.html">Mobile (132)</a></li>
+<li><a href="http://rumbiz.ru/category-47-world-of-warcraft.html">World of warcraft (131)</a></li>
+<li><a href="http://rumbiz.ru/category-1330-sobytie.html">Событие (128)</a></li>
+<li><a href="http://rumbiz.ru/category-337-world-of-tanks.html">World of tanks (118)</a></li>
+<li><a href="http://rumbiz.ru/category-615-league-of-legends-wild-rift.html">League of legends wild rift (110)</a></li>
+<li><a href="http://rumbiz.ru/category-365-logicheskaya.html">Логическая (107)</a></li>
+<li><a href="http://rumbiz.ru/category-35-multiplikaciya.html">Мультипликация (103)</a></li>
+<li><a href="http://rumbiz.ru/category-149-final-fantasy-xiv.html">Final fantasy xiv (98)</a></li>
+                            <li><a href="http://rumbiz.ru/category.html">Все категории</a></li>
+                        </ul>
+                    </div>
+                    <!--<div class="s2552065872"></div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="s2755370087">
+        <div class="s3268220093">
+            <div class="s2125011213">
+                <div class="s3780768722"></div>
+                <div class="s2805568786"></div>
+                <!--<div class="s1353550935"></div>-->
+            </div>
+        </div>
+        <div class="s4076830384">
+            <div align="center" style="overflow:hidden;">
+
+<!-- SAPE RTB DIV 160x600 -->
+<div id="SRTB_567523"></div>
+<!-- SAPE RTB END -->
+
+</div><div align="center" style="overflow:hidden;">
+
+
+
+</div>        </div>
+        <div class="s3206321329"></div>
+    </div>
+    <div class="s2755370087 s934540151">
+        <div class="s3268220093">
+            <div class="s2125011213">
+                <div class="s3780768722"></div>
+                <div class="s2805568786">
+                    <h3 align="center">Последние комментарии</h3>
+                    <ul class="s958154419">
+                        <li><div class="s77161166">Имя: <span>Sania</span></div>
+<div class="s3036218811">27.10.2020 | 00:03</div>
+<div class="s1093395257">Gta<a target="_blank" href="http://rumbiz.ru/article-275-razdacha-klyuchey-na-zbt-rogue-company-dlya-xbox-one-ps4-i-nintendo.html"> Подробнее..</a>
+</div>
+</li>
+<li><div class="s77161166">Имя: <span>Vitold</span></div>
+<div class="s3036218811">03.09.2020 | 18:22</div>
+<div class="s1093395257">Когда узнал о выходе Шадоулендс ВоВ сразу решил пойти играть на
+официальном сервере World of Warcraft. И у меня назрел вопрос: к
+примеру 1) на сервере Thrall играет много народу, а на RaidLine
+онлайн<a target="_blank" href="http://rumbiz.ru/article-672-world-of-warcraft-po-ironii-sudby-odno-iz-samyh-nepopulyarnyh-dlilos.html"> Подробнее..</a>
+</div>
+</li>
+                    </ul>
+                </div>
+                <!--<div class="s1353550935"></div>-->
+            </div>
+        </div>
+    </div>
+</div>
+<!---->
+<div class="s2666779374">
+    <ul class="s3422106990">
+        <li><a href="http://rumbiz.ru/contacts.html">Контакты</a></li>
+<li><a onclick="s3915020308.s2018373811.s544571382();">Обнаружили ошибку</a></li>
+
+    </ul>
+    <div class="s3615307605">© 2006-2026, 	<a target="_blank" href="http://rumbiz.ru/">rumbiz.ru</a></div>
+    <div align="center" style="display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-justify-content:center;-ms-justify-content:center;justify-content:center;-webkit-align-items:center;-ms-align-items:center;align-items:center;">
+
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script>
+<div data-mobile-view="true" data-share-size="30" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1885971" data-mode="share" data-background-color="#ffffff" data-hover-effect="rotate-cw" data-share-shape="round-rectangle" data-share-counter-size="12" data-icon-color="#ffffff" data-mobile-sn-ids="fb.vk.tw.ok.wh.tm.vb." data-text-color="#000000" data-buttons-color="#FFFFFF" data-counter-background-color="#ffffff" data-share-counter-type="common" data-orientation="horizontal" data-following-enable="false" data-sn-ids="fb.vk.tw.ok.wh.tm.vb." data-preview-mobile="false" data-selection-enable="true" data-exclude-show-more="false" data-share-style="1" data-counter-background-alpha="1.0" data-top-button="false" class="uptolike-buttons" ></div>
+
+</div></div>
+</body>
+</html>

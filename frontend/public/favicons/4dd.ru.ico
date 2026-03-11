@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+<head>
+<title>4DD.RU - Строительная компания "Dream-дом"</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="4DD.RU - Строительная компания "Dream-дом"">
+<meta name="description" content="4DD.RU - Строительная компания "Dream-дом"">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script src="/js/jquery.ifixpng.js" language="javascript"></script> 
+<script type="text/javascript" src="/js/thickbox-compressed.js"></script>   
+
+<link href="/templates/4dd/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/js/thickbox.css" media="screen">  
+<!--[if IE 6]>
+<script src="/js/fixpng.js" type="text/javascript"></script>
+<script type="text/javascript">
+    DD_belatedPNG.fix('.pngfix, #menu-block ul.menu li a:hover, #menu-block ul.menu li a');
+</script>
+<![endif]-->
+<!--[if (gte IE 6)&(lte IE 7)]>
+<link href="/templates/4dd/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+ 
+</head>
+<body> 
+
+<div id="maincontainer">
+    <!-- Header Start -->
+    <div id="header">
+        <div id="header-in1">
+            <div id="header-in2">
+                <div class="logo pngfix">
+                    <h1><a href="/">Главная страница</a></h1>
+                </div>
+                <div class="phone">
+                    <p></p> 
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+    <!-- Column Start -->
+    <div id="column" class="clearfix">
+        <!-- Main Column Start -->
+        <div id="contentwrapper">
+            <div id="contentcolumn">
+                <div class="page">
+                    <!-- Menu Block Start -->
+                    <div id="menu-block" class="clearfix">
+                        <div id="menu-contentwrapper">
+                            <div id="menu-contentcolumn">
+                                <div id="menu-contentcolumn-in">
+                                    <div id="menu-contentcolumn-in1">
+                                        <div id="menu-contentcolumn-in2">
+                                            <div id="menu-contentcolumn-in3">
+                                                <div id="menu-contentcolumn-in4">
+                                                    <div id="menu-contentcolumn-in5">
+                                                        <img src="/templates/4dd/images/img1.jpg" alt="img1" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="menu-leftcolumn">
+    <div id="menu-leftcolumn-in1">
+        <div id="menu-leftcolumn-in2">
+            <div id="menu-leftcolumn-in3">
+                <ul class="menu">
+                    <li class="active"><a href="/">Главная</a></li>
+                    <li ><a href="/ispolzuemye-materialy.html">Используемые материалы</a></li>
+                    <li ><a href="/otdelka-i-remont.html">Отделка и ремонт</a></li>
+                    <li ><a href="/stroitelstvo.html">Строительство</a></li>
+                    <li ><a href="/vypolnennye-raboty.html">Выполненые работы</a></li>
+                    <li ><a href="/aktsii.html">Акции</a></li>
+                    <li ><a href="/garantii.html">Гарантии</a></li>
+                    <li ><a href="/kontakty.html">Контакты</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+                    </div>
+                    <!-- Menu Block End -->
+            <!-- Anounce Block Start -->
+            <div class="anounce-in1">
+                <div class="anounce-in2">
+                    <div class="anounce-in3">
+                        <div class="anounce-in4 clearfix"> 
+    <h1 class="modules_title">Запрошенная страница не найдена!</h1>       
+</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Anounce Block End -->   
+                    </div>
+    </div>
+</div>   
+
+<!-- Main Column End -->
+        <!-- Right Column Start -->
+<div id="rightcolumn">
+    <div class="module white">
+        <div class="white-in1">
+            <h3>Наши услуги:</h3>
+            <ul class="menu">
+                <li ><a href="/nashi-uslugi/fundament.html">Фундамент</a></li>
+                <li ><a href="/nashi-uslugi/vodosnabzhenie.html">Водоснабжение</a></li>
+                <li ><a href="/nashi-uslugi/kanalizatsija.html">Канализация</a></li>
+                <li ><a href="/nashi-uslugi/betonnye-raboty.html">Бетонные работы</a></li>
+                <li ><a href="/nashi-uslugi/proektirovanie.html">Проектирование</a></li>
+                <li ><a href="/nashi-uslugi/zabory-i-ograzhdenija.html">Заборы и ограждения</a></li>
+                <li class="last  "><a href="/nashi-uslugi/prochie-raboty.html">Прочие работы</a></li>
+				<li class="last  "><a href="/nashi-tseny.html">Наши цены</a></li>
+            </ul>
+        </div>
+    </div>
+            <div class="module border">
+        <div class="border-in1">
+            <div class="border-in2">
+                <h3>Предложения месяца</h3>
+                <div class="module-body">
+                      
+                        <div class="module-item  clearfix">                       
+                            <div class="img-module left">
+                                <a title="Подробнее" href="/catalog/item/2"><img src="/images/small/2_1274133640742.jpg" alt="img1_module" /></a>
+                            </div>
+                            <h5>Двухсемейный коттедж</h5>
+                            <p><a title="Подробнее" href="/catalog/item/2">Проект 123</a></p>                      
+                        </div>   
+                      
+                        <div class="module-item last clearfix">                       
+                            <div class="img-module left">
+                                <a title="Подробнее" href="/catalog/item/1"><img src="/images/small/1_1274133115644.jpg" alt="img1_module" /></a>
+                            </div>
+                            <h5>Односемейный коттедж</h5>
+                            <p><a title="Подробнее" href="/catalog/item/1">Проект</a></p>                      
+                        </div>   
+                       
+                </div>
+            </div>
+        </div>
+    </div> 
+    
+    <div class="module">
+        
+    </div>
+        <div class="module">
+           </div>
+</div>
+<!-- Right Column End --> 
+    </div>
+    <!-- Column End -->
+    <div class="push">&nbsp;</div>
+</div>
+<div id="footer">
+    <div id="footer-in1">
+        <div id="footer-in2">
+            <div class="footer-body">
+                <div class="counter left">
+				<noindex>
+                    
+</noindex>
+
+                </div>
+                <p class="copyright">4DD.RU - Строительная компания  &copy; 2023</p>
+                <ul class="menu">
+                    <li class="active"><a href="/">Главная</a></li>
+                    <li ><a href="/ispolzuemye-materialy.html">Используемые материалы</a></li>
+                    <li ><a href="/otdelka-i-remont.html">Отделка и ремонт</a></li>
+                    <li ><a href="/stroitelstvo.html">Строительство</a></li>
+                    <li ><a href="/vypolnennye-raboty.html">Выполненые работы</a></li>
+                    <li ><a href="/aktsii.html">Акции</a></li>
+                    <li ><a href="/garantii.html">Гарантии</a></li>
+                    <li ><a href="/kontakty.html">Контакты</a></li>
+                    <li></li>
+
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>   

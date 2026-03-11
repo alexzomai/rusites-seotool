@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="verify-v1" content="H7YrVZBidqFc6Q9GZ7oXOi5vXZthrEPYqKw5uqv0C1k=" />
+<title>XTick - Программа технического анализа рынка ценных бумаг. Котировки акций. Курсы валют. Исторические графики.</title>
+<meta name="Description" cоntent="XTick – программа для технического анализа графиков ценных бумаг. Программа позволяет получать котировки в режиме реального времени, а так же автоматически подгружать архивы котировок. XTick имеет дружественный и удобный интерфейс, большое количество встроенных технических индикаторов, удобный инструментарий для работы с графиками. Доступны рынки: ММВБ, РТС, ФОРЕКС (FOREX), и другие">
+<meta name="Keywords" content="XTick Professional , x-tick, xtick, XTicik, Программа для построения графиков, Программа для технического анализа, Архив биржевых котировок, Технический анализ рынка, Технический индикатор, Торговая система, Ценные бумаги, Акции, Рынок, Для трейдера, Теханализ, Real time quote, Графики, Фондовый рынок, Data feed, Bollinger bonds, Индекс, Индикатор, Исторические графики, Система, ММВБ, РТС, FORTS, ФОРТС, Brent, CFD, Charts, CHF, CQG, Data-feed, Demo, EUR, FOREX, Free, GBP, Gold, JPY, MACD , Metatrader, MICEX, Oil, Omega Trade station, Parabolic, QUIK, Real-time, RTS, Stochastic, Trade station, USD, Welthlab, АК Транснефть, АО, Аэрофлот, Банк ВТБ, Бесплатно, Брент, Валюта, Валюта, Валютный рынок, ВолгаТелеком, Волновой анализ, Волны Элиота, Газпром, Газпром нефть, Ганн, ГМК Норильский Никель, Дата-фид, Дата-фиид, Демо, Доллар, Евро , Евродоллар, Золото, Йена, Квик, Курс акций, Лукойл, Метасток, Метатрейдер, Методы, ММК, Мобильные ТелеСистемы, Мосэнерго, МТС, Надежная, Недорогая, Нефть, НК Роснефть, НОВАТЭК, Новолипецкий металлургический комбинат, ОАО, ОГК-3, ОГК-5, Осциллятор, Платная, Полиметалл, Полюс Золото, Распадская, РБК Информационные Системы, Реалтайм, Реал-тайм, Реал-тайм, Ростелеком, РусГидро, Рынок, Сбербанк России , Свечи, Северсталь, Скачать, Стратегия, Сургутнефтегаз, Татнефть, Тренд, Удобная, Уралкалий, Уралсвязьинформ, Уровень поддержки, Уровень сопротивления, Фибоначчи, Форекс, Фунт, фьючерс, Цена, Free, demo, Streaming Quotes,">
+
+
+<link href="style.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+.стиль1 {color: #FF0000}
+.стиль3 {
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 14px;
+}
+.стиль4 {font-size: 14px}
+.стиль6 {font-size: 14px; color: #FF0000; }
+.стиль8 {
+	font-size: 18px;
+	font-weight: bold;
+}
+.стиль9 {font-size: 24px; font-weight: bold; }
+.стиль10 {font-size: 14; }
+-->
+</style>
+</head>
+
+<body>
+
+<div id="mainframe"><br>
+  <table width="530" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="161"><img src="img/gerl.jpg" width="150" height="296"></td>
+      <td width="369"><p class="стиль9">Tоргуй как профессионал!</p>
+        <p class="стиль4">Создай себе преимущество!</p>        <ul class="стиль10">
+          <li class="стиль4">Все данные  - без задержек!</li>
+          <li class="стиль4"> Исторические графики за длительный период!</li>
+          <li class="стиль6">Терминал доступен 24 часа в сутки без выходных!</li>
+      </ul></td>
+    </tr>
+  </table>
+  <br>
+
+  <div align="left">
+    <p class="стиль8">Только через сайт Plan.ru<br>
+  пакет подписки XTick   МАКСИМАЛЬНЫЙ и включает:</p>
+    <ul class="стиль4">
+      <li>ММВБ акци, фючерсы, облигации, валютный рынок</li>
+      <li>Мировые индексы</li>
+      <li>FOREX</li>
+      <li>Металлы (Gold, Silver,  Gold vs Euro)</li>
+      <li>e-Mini фьючерсы (S&amp;P,  Nasdaq, НЕФТЬ)</li>
+      <li class="стиль1">(NEW) Иностранные акции на Cанкт-Петербургской бирже</li>
+      <li class="стиль1">(NEW) Иностранные акции на Московской бирже</li>
+      <li class="стиль1">(NEW) Криптовалюты&nbsp;</li>
+    </ul>
+    <p class="стиль4"><br>
+      Под одной учетной записью, которую мы предоставляем, доступны две версии:&nbsp; XTick  Professional  и XTick Extreme</p>
+<!--   
+   <table width="527" border="0" cellpadding="0" cellspacing="0" class="table_2">
+      <tr>
+        <td width="185"><div align="right"><span class="стиль3"><img src="img/mac.png" alt="XTick for Mac OS X"  align="right"></span></div></td>
+        <td width="20" class="стиль6">&nbsp;</td>
+        <td width="316" class="стиль6">
+          А теперь доступна версия 
+            <br>
+        XTick для MAC OS X !</td>
+      </tr>
+    </table>
+
+    <br>
+    <table width="527" border="0" cellpadding="0" cellspacing="0" class="table_2">
+      <tr>
+            
+      </tr>
+    </table>
+--> 
+    <p align="left" class="стиль6"><a href="/facts.html" target="_top">Узнать больше &gt;&gt;</a></p>
+     <p class="стиль4">&nbsp;</p>
+  </div>
+</div>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="https://xtick.plan.ru/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+ <div id="top" align="left"><a href="https://xtick.plan.ru"><img src="/img/xtick_logo_4.gif" alt="XTick home page (Главная страница)" border="0"></a></div>
+
+<div id="leftcol">
+
+  <ul class="nav1">
+
+    <li>О программе</li>
+
+      <ul class="nav2">
+       <li><a href="http://xtick.plan.ru/index.html" target="_top">Главная</a></li>
+       <li><a href="http://xtick.plan.ru/facts.html" target="_top">Основные сведения</a></li>
+       <li><a href="http://xtick.plan.ru/possibilities.html" target="_top">Возможности</a></li>
+       <li><a href="http://xtick.plan.ru/sreenshots.html" target="_top">Скриншоты</a></li>
+       <li><a href="http://xtick.plan.ru/tikker.html" target="_top">Доступные рынки</a></li>
+       <li><a href="http://xtick.plan.ru/indicator.html" target="_top">Список индикаторов</a></li>
+<!--       <li>Отзывы</li>
+ -->       <li><a href="http://xtick.plan.ru/requirement.html" target="_top">Технические требования</a></li>
+       <li><a href="http://xtick.plan.ru/downloads.html" target="_top">Downloads</a></li>
+    </ul>
+
+    <li>Подписка</li>
+
+       <ul class="nav2">
+        <li><a href="http://xtick.plan.ru/demo.html" target="_top">Демонстрационный доступ</a></li>
+        <li><a href="http://xtick.plan.ru/tariffs.html" target="_top">Тарифы</a></li>
+        <li><a href="http://xtick.plan.ru/subscribtion.html" target="_top">Подписка</a></li>
+        <li><a href="http://xtick.plan.ru/extension.html" target="_top">Продление подписки</a></li>
+        <!-- <li><a href="http://xtick.plan.ru/pay.html">Оплата</a></li> -->
+        <li><a href="http://xtick.plan.ru/pay-rules.html">Правила оплаты</a></li>
+		<li><a href="http://xtick.plan.ru/unsubscribe.html">Прекращение подписки</a></li>
+    </ul>
+
+    <li>Подержка</li>
+
+       <ul class="nav2">
+		 <li><a href="http://xtick.plan.ru/begin.html" target="_top">Инструкция по началу работы</a></li>
+         <li><a href="http://xtick.plan.ru/faq.html" target="_top">Частые вопросы (FAQ)</a></li>
+     	 <li><a href="http://xtick.plan.ru/support.html" target="_top">Обратная связь</a></li>
+         <li><a href="/ta.html" target="_top">Справочники по <br>
+         техническому анализу</a></li>
+   	</ul>
+	
+	 <li>Контакты</li>
+	  <ul class="nav2">
+     	 <li><a href="http://xtick.plan.ru/contacts.html" target="_top">Реквизиты организации</a></li>
+    </ul>
+
+  </ul>
+
+	<p>
+		<img src="https://xtick.plan.ru/img/logo3v.png" width="124" height="199" hspace="15" vspace="15">
+	</p>
+
+  <p>&copy; <a href="http://www.plan.ru" title="Инвестиции и Биржевая торговля">Plan.ru</a></p>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-191578-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<div style="display:none;"><script type="text/javascript">
+try { var yaCounter1212970 = new Ya.Metrika(1212970); } catch(e){}
+</script></div>
+<noscript><div style="position:absolute"><img src="//mc.yandex.ru/watch/1212970" alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->
+
+
+
+</body>
+</html>

@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title> фавицон ицо - играть онлайн бесплатно</title>
+<meta name="description" content=" фавицон ицо. Бесплатные онлайн флеш игры на разный вкус и цвет на matrix-ua."/>
+<meta name="keywords" content=" фавицон ицо, игры, флеш, flash, логические, леталки, гонки, аркады, бродилки, драки, азартные, настольные, ролевые, спортивные, бесплатные"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript" src="https://matrix-ua.org/engine/classes/min/index.php_charset=utf-8_amp;g=general_amp;10.html"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+<script type="text/javascript" src="https://matrix-ua.org/engine/editor/scripts/webfont.js"></script>
+<link media="screen" href="https://matrix-ua.org/engine/editor/css/default.css" type="text/css" rel="stylesheet"/>
+	<link rel="stylesheet" href="https://matrix-ua.org/templates/Matrix/css/style.css" type="text/css"/>
+	<!--[if lte IE 7]>
+	<link rel="stylesheet" href="https://matrix-ua.org//templates/Matrix/css/style-ie.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" href="https://matrix-ua.org//templates/Matrix/css/style-ie8.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="https://matrix-ua.org/templates/Matrix/js/shareTT.js"></script>
+	<script type="text/javascript" src="https://matrix-ua.org/templates/Matrix/js/jquery.tcarusel.js"></script>
+	<script type="text/javascript" src="https://matrix-ua.org/templates/Matrix/js/active.js"></script>
+</head>
+<body>
+ 
+<div class="main-bg">
+	<div class="main-center-block">
+		<div class="head-block">
+			<a href="https://matrix-ua.org/index.html" alt="Matrix-ua.org - флеш игры для всех" class="logo"></a>
+			
+
+<div class="login-block">
+	<div class="login-line" style="line-height: 21px;">
+		Вход в админку:
+	</div>
+	<form method="post" action="" style="margin: 0; padding: 0;position: relative;">
+		<div class="login-line">
+			<input name="login_name" type="text" class="login-input-text" title="Ваше имя на сайте" value="логин" onblur="if(this.value=='') this.value='логин';" onfocus="if(this.value=='логин') this.value='';"/>
+		</div>
+		<div class="login-line">
+			<input name="login_password" type="password" class="login-input-text" title="Ваш пароль" value="Введите пароль" onblur="if(this.value=='') this.value='Введите пароль';" onfocus="if(this.value=='Введите пароль') this.value='';"/>
+		</div>
+		<div class="login-line">
+			<input onclick="submit();" type="image" class="enter" src="https://matrix-ua.org/templates/Matrix/images/enter.png" value="вход"/><input name="login" type="hidden" id="login" value="submit"/>
+		</div>
+		<div style="clear: both;"></div>
+	</form>
+</div>
+
+			<div class="search-block">
+				<form method="post" action="" style="margin: 0;padding: 0;">
+					<input type="hidden" name="do" value="search"><input type="hidden" name="subaction" value="search"/>
+					<input name="story" type="text" class="form-text" id="story" value="поиск по сайту" onblur="if(this.value=='') this.value='поиск по сайту';" onfocus="if(this.value=='поиск по сайту') this.value='';" title="наберите Ваш запрос и нажмите enter"/>
+					<input type="image" src="https://matrix-ua.org/templates/Matrix/images/search.png" value="Найти!" border="0" class="form-search" alt="Найти!">
+				</form>
+			</div>
+			<a href="https://matrix-ua.org/rss.xml" class="rss-link"></a>
+		</div>
+		<div style="clear: both;height: 15px;"></div>
+		<div class="slider-block">
+			<div class="tcarusel tcarusel1">
+				<div class="tcarusel-main">
+					<ul class="tcarusel-scroll">
+						<li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/4119-zuma-totemiya.html"><img src="https://matrix-ua.org/uploads/posts/2019-10/zuma_totemia.jpg" alt="Зума Тотемия"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/4119-zuma-totemiya.html">Зума Тотемия</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/pasyansy/4107-kosynka-po-tri-karty.html"><img src="https://matrix-ua.org/uploads/posts/2019-10/kosynka3.jpg" alt="Косынка по три карты"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/pasyansy/4107-kosynka-po-tri-karty.html">Косынка по три карты</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/1718-shariki-strelyalki.html"><img src="https://matrix-ua.org/uploads/posts/2013-09/1378960378_shariki_strelyalki.jpg" alt="Шарики стрелялки"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/1718-shariki-strelyalki.html">Шарики стрелялки</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/3431-2048.html"><img src="https://matrix-ua.org/uploads/posts/2015-10/2048.jpg" alt="Игра 2048"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/3431-2048.html">Игра 2048</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/3428-sudoku.html"><img src="https://matrix-ua.org/uploads/posts/2015-10/sudoku.jpg" alt="Судоку"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/3428-sudoku.html">Судоку</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/1110-pasyans-pauk.html"><img src="https://matrix-ua.org/uploads/posts/2012-01/1327289096_spider.jpg" alt="Пасьянс Паук"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/1110-pasyans-pauk.html">Пасьянс Паук</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/1433-madzhong-babochki.html"><img src="https://matrix-ua.org/uploads/posts/2012-11/1352993253_madzhong-babochki.jpg" alt="Маджонг бабочки"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/1433-madzhong-babochki.html">Маджонг бабочки</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/1064-babl-shuter.html"><img src="https://matrix-ua.org/uploads/posts/2019-10/bubble_shooter.jpg" alt="Бабл Шутер"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/1064-babl-shuter.html">Бабл Шутер</a></h2>
+</li><li class="tcarusel-item">
+	<div class="tcarusel-item-image">
+		<a href="https://matrix-ua.org/best-game/1062-pasyans-kosynka.html"><img src="https://matrix-ua.org/uploads/posts/2019-10/kosynka.jpg" alt="Пасьянс косынка"/></a>
+	</div>
+	<h2><a href="https://matrix-ua.org/best-game/1062-pasyans-kosynka.html">Пасьянс косынка</a></h2>
+</li>					
+					</ul>
+				</div>
+				<div style="clear: both;"></div>
+				<div class="tcarusel-prev"></div>
+				<div class="tcarusel-next"></div>
+			</div>
+		</div>
+		<div style="clear: both;height: 20px;"></div>
+		<div class="top-menu">
+			<a href="https://matrix-ua.org/index.html" class="top-menu-link">Главная</a>
+			<a href="https://matrix-ua.org/about.html" class="top-menu-link">О сайте</a>
+			<a href="https://matrix-ua.org/_do=feedback.html" class="top-menu-link">Обратная связь</a>
+			<a href="https://matrix-ua.org/terms-of-use.html" class="top-menu-link">Условия использования</a>
+			<a href="https://matrix-ua.org/prohozhdenie-flesh-igr/index.html" class="top-menu-link">Прохождение игр</a>
+			<div style="clear: both;"></div>
+		</div>
+		<div style="clear: both;height: 0px;"></div>
+		<div class="content-block">
+		<div class="yadd">﻿-</div>
+		<div style="clear: both;height: 25px;"></div>
+			<div class="left-col">
+				<div class="left-block">
+					<div class="left-block-title">
+						Для мальчиков
+					</div>
+					<div class="left-block-content">
+						<a href="https://matrix-ua.org/igry-futbol/index.html" class="left-menu-link mini1"><span></span>Футбол</a>
+						<a href="https://matrix-ua.org/igry-transformery/index.html" class="left-menu-link mini2"><span></span>Трансформеры</a>
+						<a href="https://matrix-ua.org/igry-tanki/index.html" class="left-menu-link mini3"><span></span>Танки</a>
+						<a href="https://matrix-ua.org/igry-strelyalki/index.html" class="left-menu-link mini4"><span></span>Стрелялки</a>
+						<a href="https://matrix-ua.org/igry-strategii/index.html" class="left-menu-link mini5"><span></span>Стратегии</a>
+						<a href="https://matrix-ua.org/lego-games/index.html" class="left-menu-link mini6"><span></span>Лего</a>
+						<a href="https://matrix-ua.org/igry-gonki/index.html" class="left-menu-link mini7"><span></span>Гонки</a>
+						<div style="clear: both;height: 10px;"></div>
+						<a href="https://matrix-ua.org/igry-dlja-malchikov.html" class="left-block-more">все игры для мальчиков</a>
+					</div>
+					<div style="clear: both;height: 10px;"></div><noindex>
+
+<!-- matrixua_cube_sidebar -->
+﻿-</noindex>
+				</div>
+				<div class="left-block">
+					<div class="left-block-title">
+						Для девочек
+					</div>
+					<div class="left-block-content">
+						<a href="https://matrix-ua.org/igry-winx/index.html" class="left-menu-link mini2-1"><span></span>Винкс</a>
+						<a href="https://matrix-ua.org/igry-odevalki/index.html" class="left-menu-link mini2-2"><span></span>Одевалки</a>
+						<a href="https://matrix-ua.org/igry-barby/index.html" class="left-menu-link mini2-3"><span></span>Барби</a>
+						<a href="https://matrix-ua.org/igry-parikmaherskaya/index.html" class="left-menu-link mini2-4"><span></span>Парикмахерская</a>
+						<a href="https://matrix-ua.org/igry-gotovim-edu/index.html" class="left-menu-link mini2-5"><span></span>Готовим еду</a>
+						<a href="https://matrix-ua.org/igry-makiyag/index.html" class="left-menu-link mini2-6"><span></span>Макияж</a>
+						<a href="https://matrix-ua.org/igry-bratc/index.html" class="left-menu-link mini2-7"><span></span>Братц</a>
+						<div style="clear: both;height: 10px;"></div>
+						<a href="https://matrix-ua.org/igry-dlja-devochek.html" class="left-block-more">все игры для девочек</a>
+					</div>
+					
+				</div>
+				<div class="left-block">
+					<div class="left-block-title">
+						Разное
+					</div>
+					<div class="left-block-content">
+						<a href="https://matrix-ua.org/igry-ogon-voda/index.html" class="left-menu-link mini3-1"><span></span>Огонь и вода</a>
+						<a href="https://matrix-ua.org/igry-shariki/index.html" class="left-menu-link mini3-2"><span></span>Шарики</a>
+						<a href="https://matrix-ua.org/igry-na-dvoih/index.html" class="left-menu-link mini3-3"><span></span>На двоих</a>
+						<a href="https://matrix-ua.org/igry-sonik/index.html" class="left-menu-link mini3-4"><span></span>Соник</a>
+						<a href="https://matrix-ua.org/igry-mario/index.html" class="left-menu-link mini3-5"><span></span>Марио</a>
+						<a href="https://matrix-ua.org/igry-angry-bird/index.html" class="left-menu-link mini3-6"><span></span>Angry birds</a>
+						<a href="https://matrix-ua.org/igry-naidy-otlichiya/index.html" class="left-menu-link mini3-7"><span></span>Найди отличия</a>
+						<div style="clear: both;height: 10px;"></div>
+						<a href="https://matrix-ua.org/online-games.html" class="left-block-more">все разные игры</a>
+					</div>
+					
+				</div>
+				<div class="left-block">
+					<div class="left-block-title">
+						По мультикам
+					</div>
+					<div class="left-block-content">
+						<a href="https://matrix-ua.org/igry-ben-ten-10/index.html" class="left-menu-link mini4-1"><span></span>Бен 10</a>
+						<a href="https://matrix-ua.org/igry-luntik-online/index.html" class="left-menu-link mini4-2"><span></span>Лунтик</a>
+						<a href="https://matrix-ua.org/igry-finisferb/index.html" class="left-menu-link mini4-3"><span></span>Финис и Ферб</a>
+						<a href="https://matrix-ua.org/igry-scooby-do/index.html" class="left-menu-link mini4-4"><span></span>Скуби Ду</a>
+						<a href="https://matrix-ua.org/igry-tom-i-jerry/index.html" class="left-menu-link mini4-5"><span></span>Том и Джерри</a>
+						<a href="https://matrix-ua.org/igry-tachki/index.html" class="left-menu-link mini4-7"><span></span>Тачки</a>
+						<div style="clear: both;height: 10px;"></div>
+						<a href="https://matrix-ua.org/mult-games.html" class="left-block-more">все игры по мультикам</a>
+					</div>
+				</div>
+				
+﻿-			</div>
+			<div class="right-col">
+			﻿<center><div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="#"></a>
+<a class="a2a_button_vk"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_odnoklassniki"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_mail_ru"></a>
+<a class="a2a_button_livejournal"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script></center></br>				<div class="right-block-title">
+						<div class="right-block-title2">
+							<h1> фавицон ицо</h1><div class="right-block-title3"></div>
+						</div>
+					</div>
+			
+			
+	
+			
+			
+			<table border="0" width="100%" cellspacing="1" cellpadding="1" bgcolor="#FFFFFF">
+	<tr>
+		<td>
+
+<p></p>
+<div class="mads-block"></div>
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10,allowCookieMatch:false};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkqAcAAIUAgUW0RjgAAAAASUVORK5CYII=" height="0" width="0" alt="ec1c1936" />
+
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=lf85ed3f72db798441a021f837b7d81f896e293db5" type="text/javascript"></script>
+
+</td>
+	</tr>
+</table><br>
+			
+			
+								<div class="right-block">
+					<div class="right-block-title">
+						<div class="right-block-title2">
+							ИГРЫ ДЛЯ МАЛЬЧИКОВ<div class="right-block-title3"></div>
+						</div>
+					</div>
+					<div class="right-block-content">
+						<a href="https://matrix-ua.org/igry-shahmaty/index.html" class="category-item game1-1"><span>шахматы</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-futbol/index.html" class="category-item game1-2"><span>футбол</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-transformery/index.html" class="category-item game1-3"><span>трансформеры</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-tanki/index.html" class="category-item game1-4"><span>танки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-strelyalki/index.html" class="category-item game1-5"><span>стрелялки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-strategii/index.html" class="category-item game1-6"><span>стратегии</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-roboty/index.html" class="category-item game1-7"><span>роботы</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/razvivajushhie-igry/index.html" class="category-item game1-8"><span>развивающие</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/lego-games/index.html" class="category-item game1-9"><span>лего</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-draki/index.html" class="category-item game1-10"><span>драки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-gonki/index.html" class="category-item game1-11"><span>гонки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-voina/index.html" class="category-item game1-12"><span>война</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-o-batmane/index.html" class="category-item game1-13"><span>бэтмен</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-brodilki/index.html" class="category-item game1-14"><span>бродилки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-3d/index.html" class="category-item game1-15"><span>3d</span><i></i><u></u></a>
+						<div style="clear: both;"></div>
+						<div style="text-align: right;"><a href="https://matrix-ua.org/igry-dlja-malchikov.html" class="left-block-more">все игры для мальчиков</a></div>
+					</div>
+				</div>
+				
+				<div class="right-block">
+					<div class="right-block-title">
+						<div class="right-block-title2">
+							ИГРЫ ДЛЯ ДЕВОЧЕК<div class="right-block-title3"></div>
+						</div>
+					</div>
+					<div class="right-block-content">
+						<a href="https://matrix-ua.org/igry-winx/index.html" class="category-item game2-1"><span>винкс</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-odevalki/index.html" class="category-item game2-2"><span>одевалки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-barby/index.html" class="category-item game2-3"><span>барби</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-parikmaherskaya/index.html" class="category-item game2-4"><span>парикмахерская</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-gotovim-edu/index.html" class="category-item game2-5"><span>готовим еду</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-moda/index.html" class="category-item game2-6"><span>мода</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-makiyag/index.html" class="category-item game2-7"><span>макияж</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-bratc/index.html" class="category-item game2-8"><span>братц</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-princessy/index.html" class="category-item game2-9"><span>принцессы</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-detskii-sad/index.html" class="category-item game2-10"><span>детский сад</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-detskii-sad/index.html" class="category-item game2-11"><span>феи</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-totali-spice/index.html" class="category-item game2-12"><span>тотали спайс</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-manikur/index.html" class="category-item game2-13"><span>маникюр</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-hello-kytti/index.html" class="category-item game2-14"><span>хелло китти</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-poceluy/index.html" class="category-item game2-15"><span>поцелуи</span><i></i><u></u></a>
+						<div style="clear: both;"></div>
+						<div style="text-align: right;"><a href="https://matrix-ua.org/igry-dlja-devochek.html" class="left-block-more">все игры для девочек</a></div>
+					</div>
+				</div>
+				
+				<div class="right-block">
+					<div class="right-block-title">
+						<div class="right-block-title2">
+							РАЗНЫЕ ИГРЫ<div class="right-block-title3"></div>
+						</div>
+					</div>
+					<div class="right-block-content">
+						<a href="https://matrix-ua.org/igry-ogon-voda/index.html" class="category-item game3-1"><span>огонь и вода</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-shariki/index.html" class="category-item game3-2"><span>шарики</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-na-dvoih/index.html" class="category-item game3-3"><span>на двоих</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-sonik/index.html" class="category-item game3-4"><span>соник</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-mario/index.html" class="category-item game3-5"><span>марио</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-angry-bird/index.html" class="category-item game3-6"><span>engry birds</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-prikoly/index.html" class="category-item game3-7"><span>приколы</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-poisk-predmetov/index.html" class="category-item game3-8"><span>поиск предметов</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-naidy-otlichiya/index.html" class="category-item game3-9"><span>найди отличия</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-avatar/index.html" class="category-item game3-10"><span>аватар</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-puzzle/index.html" class="category-item game3-11"><span>пазлы</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-raskraski/index.html" class="category-item game3-12"><span>раскраски</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-zuma/index.html" class="category-item game3-13"><span>зума</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/arkadnye-igry/index.html" class="category-item game3-14"><span>аркады</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-bashny-zashity/index.html" class="category-item game3-15"><span>башни защиты</span><i></i><u></u></a>
+						<div style="clear: both;"></div>
+						<div style="text-align: right;"><a href="https://matrix-ua.org/online-games.html" class="left-block-more">все разные игры</a></div>
+					</div>
+				</div>
+				
+				<div class="right-block">
+					<div class="right-block-title">
+						<div class="right-block-title2">
+							ИГРЫ ПО МУЛЬТИКАМ<div class="right-block-title3"></div>
+						</div>
+					</div>
+					<div class="right-block-content">
+						<a href="https://matrix-ua.org/igry-reindjery/index.html" class="category-item game4-1"><span>рейнджеры</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-ben-ten-10/index.html" class="category-item game4-2"><span>бен 10</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-luntik-online/index.html" class="category-item game4-3"><span>лунтик</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-finisferb/index.html" class="category-item game4-4"><span>финис и ферб</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-pokemony/index.html" class="category-item game4-5"><span>покемоны</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-scooby-do/index.html" class="category-item game4-6"><span>скуби ду</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-tom-i-jerry/index.html" class="category-item game4-7"><span>том и джери</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-smurfiki-online/index.html" class="category-item game4-8"><span>смурфики</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-supergeroi/igry-chelovek-pauk/index.html" class="category-item game4-10"><span>человек паук</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-tachki/index.html" class="category-item game4-11"><span>тачки</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-naruto/index.html" class="category-item game4-13"><span>наруто</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-bakugan/index.html" class="category-item game4-14"><span>бакуган</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-masha-medved/index.html" class="category-item game4-15"><span>маша и медведь</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-shrek/index.html" class="category-item game4-20"><span>шрек</span><i></i><u></u></a>
+						<a href="https://matrix-ua.org/igry-mikki-maus/index.html" class="category-item game4-21"><span>микки маус</span><i></i><u></u></a>
+						<div style="clear: both;"></div>
+						<div style="text-align: right;"><a href="https://matrix-ua.org/mult-games.html" class="left-block-more">все игры по мультикам</a></div>
+					</div>
+				</div>
+				
+				
+				
+				
+				
+				
+				
+<noindex>
+﻿<center><div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="#"></a>
+<a class="a2a_button_vk"></a>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_odnoklassniki"></a>
+<a class="a2a_button_telegram"></a>
+<a class="a2a_button_mail_ru"></a>
+<a class="a2a_button_livejournal"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script></center></br></noindex>
+<div style="clear: both;height: 15px;"></div>
+				
+				
+			</div>
+			<div style="clear: both;height: 20px;"></div>
+		</div>
+		<div class="footer">
+			<div class="footer-text">
+				Сайт создан только для ознакомления. На сервере нет игр. Copyright 2011-2023. Игра " фавицон ицо" - играть бесплатно, онлайн, без регистрации
+			</div>
+			<div class="counts">
+				﻿<center><!--Lic--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='Li' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/Li--></center>
+			</div>
+		</div>
+	</div>
+</div>
+<!--[if IE 6]>
+
+<![endif]-->
+
+
+<div id="loading-layer" style="display:none">Загрузка. Пожалуйста, подождите...</div>
+<script type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'Matrix';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '2';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить"];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведет к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_del_news   = 'Удалить статью';
+var allow_dle_delete_news   = false;
+//-->
+</script>
+</body>
+</html>

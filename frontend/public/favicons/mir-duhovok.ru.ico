@@ -1,0 +1,178 @@
+<!DOCTYPE HTML>
+<html lang="ru-RU">
+<head>
+<meta charset="utf-8" />
+<style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,acronym,address,big,cite,code,del,dfn,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,var,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption,tbody,tfoot,thead,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{ border:0 none; font:inherit; margin:0; padding:0; vertical-align:baseline;max-width:1400px;margin:auto}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{ display:block}.aabmobi{display:block;text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}.aabmobi a{text-decoration:#598527}.h3 a{text-decoration:#598527;display:block;color:#006600;}.aab{text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}.aab a{text-decoration:#598527}.aa{text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}a{color:Salmon}a:visited{color:#598527}a:active{color:#218527}.aa a{text-decoration:#598527}a:hover{color:RoyalBlue}body{font-family:arial,'Times New Roman',Georgia,Times,serif,Geneva,Helvetica,sans-serif; font-size:14px;background-color:#FBEFE0}table{width:100%}h1{color:SeaGreen;padding-top:30px;text-align:center;font-size:21px}h2{color:SeaGreen;padding-top:20px;text-align:center;font-size:19px}h3{color:SeaGreen;padding-top:20px;text-align:center;font-size:18px}.h3{text-align:center;font-size:18px;border:1px solid green;margin:5px}h4{color:SeaGreen;padding-top:20px;text-align:center;font-size:17px}p{color:#7D7D7D;text-align:left;font-size:15px;padding:10px}.menus{font-size:17px;padding-top:15px;min-width:180px;width:18%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC}.footers{padding:7px;text-align:center;background-color:#f2c085}.leftimg{ float:left; margin:10px 10px 10px 0px;padding-left:10px}.rightimg { float:right; margin:10px 0 10px 10px}.fac{background-color:#fbefe0;width:65%;min-width:290px}.tablica{border:1px solid lightsalmon}.tabltd{min-height:45px;border:1px solid #CCC;background-color:#F7E3CA}.menus2{font-size:17px;padding-top:15px;min-width:175px;width:16%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC}.spisok{padding-left:30px;font-size:16px;color:#7D7D7D;text-decoration:none}.list{list-style-type:none;padding-left:20px}.sps{padding-left:30px;font-size:15px;color:#7D7D7D;text-decoration:none}.cente{text-align:center;padding:10px}.podel{padding:7px 0px;margin-top:35px;text-align:center;border:1px solid lightsalmon}.pipec{padding:13px;color:#7B3F00;font-size:17px}.rpads{padding:5px;margin-right:10%;float:right}.lpads{padding:5px;margin-left:10%;float:left}.tabs{width:100%}.tabs tr td{text-align:left}.bloks{padding:10px;text-align:center;border:1px solid lightsalmon}.blokfooter{margin-top:10px;padding:10px;text-align:center;border:1px dotted SeaGreen}.spisokmenu{padding:40px;font-size:16px;color:#08225e;list-style-type:none;border:1px solid #CCC}.spisokmenu li{padding-top:10px;color:#7D7D7D;}.spst{list-style-type:none;padding-left:30px;font-size:15px;color:#7D7D7D}.bloksitebar{margin-top:10px;padding:10px;text-align:center}
+.container {width: 100%;max-width: 1250px;margin: 0 auto;}.container a img {width: 100%;height: auto;}
+.otstup{padding-bottom:15px; list-style-type: none;}.autors{color:#7D7D7D;text-align:left;font-size:15px;padding:10px}.citata{margin:20px 0px;padding:10px;text-align:center;border:1px dotted SeaGreen}.tabltext{width:100%;text-align:left;border:1px solid #CCC;color:#7D7D7D;}.tabltext tr td {border:1px solid #CCC;}.bloksitebarleft{margin-top:10px;padding:10px;text-align:center;display:block;}.bloksitebarright{margin-top:10px;padding:10px;text-align:center;display:none;}.opisbloka {background-color: #B37159;width: 100%;color: #FFFFFF;}.opisbloka a{color: #FFFFFF;}.otzivsps{margin-left:10px;color:#333333;text-align:left;font-size:15px;padding:10px;border-left:8px solid #F6914D;}
+.otzivsps li{padding:5px 0px;}
+@media screen and (max-device-width:480px){
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,acronym,address,big,cite,code,del,dfn,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,var,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption,tbody,tfoot,thead,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{ border:0 none; font:inherit; margin:0; padding:0; vertical-align:baseline;max-width:1400px;margin:auto}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{ display:block}.aabmobi{display:none; text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}.aabmobi a{text-decoration:#598527}.aab{display:block;}.h3 a{text-decoration:#598527;display:block;color:#006600;}.aab{text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}.aab a{text-decoration:#598527}.aa{text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}a{color:Salmon}a:visited{color:#598527}a:active{color:#218527}.aa a{text-decoration:#598527}a:hover{color:RoyalBlue}body{ font-family:arial,'Times New Roman',Georgia,Times,serif,Geneva,Helvetica,sans-serif; font-size:14px;background-color:#FBEFE0}table{width:100%}h1{color:SeaGreen;padding-bottom:30px;text-align:center;font-size:21px}h2{color:SeaGreen;padding-top:20px;text-align:center;font-size:19px}h3{color:SeaGreen;padding-top:20px;text-align:center;font-size:18px}.h3{text-align:center;font-size:18px;border:1px solid green;margin:5px}h4{color:SeaGreen;padding-top:20px;text-align:center;font-size:17px}p{color:#7D7D7D;text-align:left;font-size:15px;line-height: 150%;padding:10px;}p a{font-size: 18px;line-height: 170%;}.menus{font-size:17px;padding-top:15px;width:99%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC;float:right}.footers{padding:7px;text-align:center;background-color:#f2c085}.fac{background-color:#fbefe0;width:100%;min-width:290px;float:right}.fac img{width:100%;height:auto;text-align:left;padding:0px}.fac iframe{width:100%;text-align:left;padding:0px}.tablica{border:1px solid lightsalmon}.tabltd{min-height:45px;border:1px solid #CCC;background-color:#F7E3CA}.menus2{font-size:17px;padding-top:15px;width:99%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC;float:right}.spisok{padding-left:30px;font-size:16px;color:#7D7D7D;text-decoration:none}.list{list-style-type:none;padding-left:20px}.sps{padding-left:30px;font-size:15px;color:#7D7D7D;text-decoration:none}.sps li {padding-top:20px;}.leftimg{text-align:center;float:none;border:0px;margin:0px}.rightimg { float:right; margin:10px 0 10px 10px}.cente{text-align:center;padding:0px}.podel{padding:7px 0px;margin-top:35px;text-align:center;border:1px solid lightsalmon}.pipec{padding:13px;color:#7B3F00;font-size:17px}.rpads{padding:5px;margin-right:10%;float:right}.lpads{padding:5px;margin-left:10%;float:left}.tabs{width:100%}.tabs tr td{text-align:left}.bloks{padding:10px;text-align:center;border:1px solid lightsalmon}.blokfooter{margin-top:10px;padding:10px;text-align:center;border:1px dotted SeaGreen}.spisokmenu{padding:30px;font-size:16px;color:#08225e;list-style-type:none;border:1px solid #CCC}.spisokmenu li{padding-top:20px;color:#7D7D7D;}.spst{list-style-type:none;padding-left:30px;font-size:15px;color:#7D7D7D}.bloksitebar{margin-top:10px;padding:10px;text-align:center}
+.container {width: 100%;max-width: 1250px;margin: 0 auto;}.container a img {width: 100%;height: auto;}.otstup{padding-bottom:15px; list-style-type: none;}.autors{color:#7D7D7D;text-align:left;font-size:15px;padding:10px}.citata{margin:20px 0px;padding:10px;text-align:center;border:1px dotted SeaGreen}.tabltext{width:100%;text-align:left;border:1px solid #CCC;color:#7D7D7D;}.tabltext tr td {border:1px solid #CCC;}.bloksitebarleft{margin-top:10px;padding:10px;text-align:center;display:none;}.bloksitebarright{margin-top:10px;padding:10px;text-align:center;display:block;}.opisbloka {display:none;background-color: #B37159;width: 100%;color: #FFFFFF;}.opisbloka a{color: #FFFFFF;display:none;}.otzivsps{margin-left:10px;color:#333333;text-align:left;font-size:15px;padding:10px;border-left:8px solid #F6914D;}
+.otzivsps li{padding:8px 0px;}
+}
+</style>
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Эта страница Ошибки 404.</title>
+<meta name="keywords" content="Страница: 404" />
+<meta name="description" content="Духовые шкафы для Дома Страница: 404" />
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head>
+<body>
+<table class="tablica">
+  <tr>
+    <td  colspan="3" class="tabltd" >		
+<div class="container">
+<a href="index.php" title="Мир Духовок - Духовой шкаф для Дома и дачи"> <img src="img/bg-shapka.jpg" width="1250" height="150" alt="Мир Духовок - Духовой шкаф для Дома и дачи"/> </a> 
+</div>
+</td>
+  </tr>
+  <tr>
+    <td class="menus2">
+<div class="h3"><a href="#yakor">Меню</a></div>
+<br />
+<div class="aab">
+<a href="index.php#top" title="Духовой шкаф">Духовые шкафы</a><br /><br />
+</div><br />
+<div class="bloksitebarleft">
+
+<!-- рандомная перелинковка -->
+
+<a href="zamena-stekla-v-duhovke.php#top" title="Замена стекла в духовке"> <img title="Лопнуло стекло в духовом шкафу" alt="Замена стекла в духовке" src="random-img/zamena-stekla-v-duhovke.jpg" /><br />Как заменить стекло в духовке</a><br /><br />
+<a href="ventilyator-v-duhovom-shkafu.php#top" title="Вентилятор в духовом шкафу"> <img title="Что дает вентилятор в духовке" alt="Вентилятор в духовке" src="random-img/ventilyator-v-duhovom-shkafu.jpg" /><br />Для чего нужен вентилятор в духовке</a><br /><br />
+<a href="duhovoy-shkaf-s-konvektsiey.php#top" title="Духовой шкаф с конвекцией"> <img title="Зачем нужна конвекция в духовом шкафу" alt="Нужна ли конвекция в духовом шкафу" src="random-img/duhovoy-shkaf-s-konvektsiey.jpg" /><br />Что такое конвекция в духовке</a><br /><br />
+<a href="kakuyu-duhovku-podarit.php#top" title="Какую духовку подарить"> <img title="Духовку в подарок" alt="Падарок духовка" src="random-img/kakuyu-duhovku-podarit.jpg" /><br />Какой духовой шкаф подарить</a><br /><br />
+<a href="kakuyu-duhovku-podarit.php#top" title="Какую духовку подарить"> <img title="Духовку в подарок" alt="Падарок духовка" src="random-img/kakuyu-duhovku-podarit.jpg" /><br />Какой духовой шкаф подарить</a><br /><br />
+<a href="biokeramicheskoe-pokryitie.php#top" title="Биокерамическое покрытие в духовке"> <img title="Духовой шкаф с керамическим покрытием" alt="Био керамическое покрытие" src="random-img/biokeramicheskoe-pokryitie.jpg" /><br />Духовка с биокерамическим покрытием</a><br /><br />
+
+<!-- рандомная перелинковка -->
+
+</div>
+<br />
+<br /></td>
+<td class="fac">
+<a name="top"></a>	
+<h1>Ошибка 404 Файл не найден.</h1>
+<p>
+Вы попали на несуществующую страницу. Да, такое тоже случается.</p>
+</p>
+<div>
+<img style="width: 100%;max-width: 550px;margin: 0 auto;height: auto;" src="img/404.jpg" title="Файл или страница не найдена" alt="Файл или страница не найдена" /><br />
+</div>
+<p>
+Вы можете попробовать перейти на <a href="index.php" title="Мир духовых шкафов">главную страницу сайта</a> Или
+Воспользуйтесь <a href="sitemap.php" title="Карта сайта">Картой Сайта Мира Духовок.</a> 
+</p>
+</td>
+	
+	
+    <td  class="menus"> <div class="h3"><a id="yakor" href="#yakor">Меню</a></div>
+<br />
+<div class="aab">
+<a href="elektricheskaya-duhovka.php#top" title="Духовые электрические шкафы">Электрические</a><br /><br />
+<a href="gazovaya-duhovka.php#top" title="Духовой шкаф Газовый">Газовые</a><br /><br />
+</div>
+<div class="aab">
+<a href="nastolnyie-duhovki.php#top" title="Духовой шкаф Настольный">Настольные</a><br /><br />
+<a href="vstraivaemyie-duhovki.php#top" title="Духовой шкаф Встраиваемый">Встраиваемые</a><br /><br />
+<a href="otdelno-stoyashhie-duhovki.php#top" title="Отдельностоящий Духовой шкаф">Отдельностоящие</a><br /><br />
+</div>
+<div class="aab">
+<a href="zavisimyiy-duhovoy-shkaf.php#top" title="Зависимый духовой шкаф">Зависимая</a><br /><br />
+<a href="nezavisimyie-duhovki.php#top" title="Независимая духовка">Независимая</a><br /><br />
+</div>
+<div class="aab">
+<a href="rezhimyi-duhovogo-shkafa.php#top" title="Режимы духового шкафа">Режимы</a><br /><br />
+<a href="funktsii.php#top" title="Функции духовки">Функции</a><br /><br />
+<a href="razmeryi-duhovki.php#top" title="Размеры встроенной духовки">Размеры</a><br /><br />
+</div>
+<div class="aab">
+<a href="stili-duhovok-dlya-doma.php#top" title="Дизайн духовых шкафов">Стили духовок</a><br /><br />
+<a href="firma.php#top" title="Фирмы производители Духовых шкафов">Производители</a><br /><br />
+</div>
+<div class="aab">
+<a href="duhovki-s-funktsiey-ochistki.php#top" title="Духовки с функцией очистки">Cамоочистка</a><br /><br />
+<a href="bezopasnost.php#top" title="Безопасность в духовом шкафу">Безопасность</a><br /><br />
+</div>
+<div class="aa">
+<a href="faq.php#top" title="Вопросы и ответы в Мире Духовок">Вопросы и ответы</a><br /><br />
+<a href="otzyv.php#top" title="Отзывы и обзоры о духовых шкафах в Мире Духовок">Отзывы | Обзоры</a><br /><br />
+<a href="sitemap.php#top" title="Карта Сайта">Карта Сайта</a><br /><br />
+<a href="kontakt.php#top" title="Связь с Администрацией сайта">Контакты</a><br /><br />
+</div>
+
+<br />
+<br />
+
+<div class="bloksitebarright">
+
+<!-- рандомная перелинковка -->
+
+<a href="sterilizatsiya-v-elektro-duhovke.php#top" title="Как стерилизовать банки в электрическом духовом шкафу"> <img title="Стерилизация банок" alt="Стерилизация банок" src="random-img/sterilizatsiya-v-elektro-duhovke.jpg" /><br />Стерилизация банок в духовке</a><br /><br />
+<a href="gazovaya-duhovka-shirinoy-45-sm2.php#top" title="Встраиваемая газовая духовка шириной 45 см"> <img title="Встраиваемая газовая духовка 45 см" alt="Духовой шкаф шириной 45 см" src="random-img/gazovaya-duhovka-shirinoy-45-sm2.jpg" /><br />Встроенная газовая духовка 45 см</a><br /><br />
+<a href="biokeramicheskoe-pokryitie.php#top" title="Биокерамическое покрытие в духовке"> <img title="Духовой шкаф с керамическим покрытием" alt="Био керамическое покрытие" src="random-img/biokeramicheskoe-pokryitie.jpg" /><br />Духовка с биокерамическим покрытием</a><br /><br />
+
+<!-- рандомная перелинковка -->
+
+</div>
+<br />
+<br />
+</td>
+  </tr> 
+  
+  <tr>
+    <td colspan="3" class="footers">
+<!-- GoogleAnalytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61944862-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- /GoogleAnalytics -->
+
+	
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(34074565, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/34074565" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+	</td>
+  </tr>
+</table>
+</body>
+</html>

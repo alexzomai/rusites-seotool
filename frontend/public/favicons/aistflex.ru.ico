@@ -1,0 +1,699 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+
+    <base href="https://www.aistflex.ru/404.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="author" content="Super User" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>404-Страница не найдена</title>
+	<link href="https://www.aistflex.ru/component/search/?Itemid=194&amp;format=opensearch" rel="search" title="Искать Aistflex.ru" type="application/opensearchdescription+xml" />
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+
+    <meta name='viewport' content='width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no'>
+        <script src="/templates/jblank/js/modernizr-2.8.3.min.js"></script>
+
+    <script src="/templates/jblank/js/bootstrap.min.js"></script>
+    <script src="/templates/jblank/js/jquery.scrollUp.min.js"></script>
+    <script src="/templates/jblank/js/wow.min.js"></script>
+    <script src="/templates/jblank/js/jquery.counterup.min.js"></script>
+    <script src="/templates/jblank/js/jquery.elevateZoom-3.0.8.min.js"></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js'></script>
+    <script src="/templates/jblank/js/main.js?s=22">
+    </script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/templates/jblank/css/bootstrap.min.css">
+    <!-- Fontawsome CSS  - Шрифт иконками
+        ============================================ -->
+    <link rel="stylesheet" href="/templates/jblank/css/font-awesome.min.css">
+    <!-- animate CSS ============================================ -->
+    <link rel="stylesheet" href="/templates/jblank/css/animate.css">
+    <link rel="stylesheet" href="/templates/jblank/css/animate-menu.css">
+    <!-- Owl Stylesheets 
+        ============================================ -->
+    <link rel="stylesheet" href="/templates/jblank/lib/owl/owl.carousel.css">
+    <link rel="stylesheet" href="/templates/jblank/lib/owl/owl.theme.default.css">
+    <link rel="stylesheet" href="/templates/jblank/css/jquery-ui.css">
+    <!-- owl.carousel JS
+        ============================================ -->
+    <script src="/templates/jblank/lib/owl/owl.carousel.js"></script>
+    <!-- FormStyler 
+        ============================================ -->
+    <link rel="stylesheet" href="/templates/jblank/lib/formstyler/jquery.formstyler.css">
+    <link rel="stylesheet" href="/templates/jblank/lib/formstyler/jquery.formstyler.theme.css">
+    <!-- FormStyler JS
+        ============================================ -->
+    <script src="/templates/jblank/lib/formstyler/jquery.formstyler.js"></script>
+    <!-- inputmask JS  
+        ============================================-->
+    <script type="text/javascript" src="/templates/jblank/lib/inputmask/jquery.inputmask.bundle.js"></script>
+    <link rel="stylesheet" type="text/css" href="/templates/jblank/lib/inputmask/inputmask.css" media="screen" />
+    <!-- style CSS -->
+    <link rel="stylesheet" href="/templates/jblank/css/style.css?s=22">
+    <link rel="stylesheet" href="/templates/jblank/css/responsive.css?s=22">
+    <link rel="stylesheet" href="/templates/jblank/css/icons.css?s=22">
+    <!-- Анимация меню CSS ============================================ -->
+    <link rel="stylesheet" href="/templates/jblank/css/animate-menu.css">
+    <!-- Mmenu JS внизу ещё есть HTML для этого меню!!!
+        ============================================ -->
+
+    <link rel="stylesheet" href="/templates/jblank/lib/mmenu/mmenu.css">
+    <link rel="stylesheet" href="/templates/jblank/lib/mmenu/hamburgers.css">
+
+    <script src="/templates/jblank/lib/mmenu/mmenu.polyfills.js"></script>
+    <script src="/templates/jblank/lib/mmenu/mmenu.js"></script>
+    <!-- istmedia css-->
+        <!-- .css/ext/*.css -->
+    <!-- /istmedia css-->
+    <!-- /style CSS   -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/CSSRulePlugin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/ScrollToPlugin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/ScrollTrigger.min.js"></script>
+</head>
+
+<body>
+
+    <div class='page'>
+        <!-- нужен для вызова mmenu -->
+
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">Вы используете <strong>устаревший</strong> браузер. Пожалуйста <a href="https://browsehappy.com/">обновите свой браузер</a> до последней версии .</p>
+        <![endif]-->
+
+        <div class="search-pro fix-block">
+            <div class='over-fix-block'>
+                <i class="fa fa-times" aria-hidden="true"></i>
+                <div style="padding:0 5%; width:100%">
+
+                             
+<form class="search-box" action="/404.html" method="post">
+	<div class="search">
+		<input name="searchword"  maxlength="200" class=" text-search inputbox" type="text" size="0" value="Поиск..."  onblur="if (this.value=='') this.value='Поиск...';" onfocus="if (this.value=='Поиск...') this.value='';" /> <input type="submit" value=""  class="btn-search-category button" onclick="this.form.searchword.focus();" type="submit">	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="194" />
+	</div>
+</form>
+
+                </div>
+                <div class='text-description-search'>
+                    Найдем все.
+                </div>
+            </div>
+        </div>
+
+        <div class='block-header-promo'>
+                    <header class="inner">
+                                        <div class='wrap-header'>
+                        <div class="container-fluid">
+                            <div class="d-flex scrollWow">
+                                <div class="col-fl-1">
+                                    <div class="logo ">
+                                        <a href="/"><img src="/images/logo.png" alt="На главную"></a>
+                                    </div>
+                                </div>
+                                <div class='wrap-hamburger '>
+                                    <div id="hamburger" class="mmenu-bg-block">
+                                        <a href="#mmenu" class='hamburger-for-mmenu'>
+                                            <button class="hamburger hamburger--elastic" type="button">
+                                                <span class="hamburger-box">
+                                                    <span class="hamburger-inner"></span>
+                                                </span>
+                                            </button>
+                                        </a>
+
+                                    </div>
+                                    <span class='hamburger-text'>Меню</span>
+                                </div>
+
+                                <div class="listing-menu main-menu effect-2 hidden-sm hidden-xs">
+                                    
+<ul class="menu">
+<li class="item-256 count_li1"><a  href="/" >О компании</a></li><li class="item-257 count_li2"><a  href="/o-nas.html" >О нас</a></li><li class="item-258 count_li3"><a  href="/produktsiya.html" >Продукция</a></li><li class="item-259 count_li4"><a  href="/otzyivyi.html" >Отзывы</a></li><li class="item-260 count_li5 submenu_to_left"><a  href="/kontaktyi.html" >Контакты</a></li><li class="item-261 count_li6 submenu_to_left"><a  href="/razvivaemsya-vmeste-s-vami.html" >Развиваемся вместе с вами</a></li></ul>
+
+                                </div>
+
+
+                                <div class="col-fl-3 ">
+
+                                    <div class="block-contact ">
+                                                                                <span class="phone">
+                                            <i class="fa fa-phone" aria-hidden="true"></i>
+                                            				<p><a href="tel:+7 901 7418766">+7 901 7418766</a></p>
+
+                                        </span>
+
+
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+
+
+
+                        </div>
+
+                    </div>
+                    
+                    </header>
+
+
+        </div>
+
+                        <div class="wrap-inner">
+                    <div class="inner-block">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 floatright right-column">
+                                    <div class="block-content-inner">
+                                        <!-- Убираем заголовок с 404 стр -->
+                                                                                
+                                        
+                                            
+<div class="item-page">
+     
+    
+
+
+
+
+	<div class="sorry404">404</div>
+<div class="sorry">Тортик?</div>
+<div class="text-sorry">Данная странице не существует.</div>   
+	</div>
+
+                                                                            </div>
+                                </div>
+
+                                <div class="col-lg-3 col-md-3 floatleft left-column hidden">
+                                    <!-- class='left-menu-down' - выпадающее меню на активных разделах  -->
+                                    <!-- class='left-menu-right' - выпадающее меню по наведению -->
+                                    <div class="inner-menu left-menu-right hidden-sm hidden-xs">
+                                        
+                                    </div>
+
+                                    <div class='inner-menu left-menu-down hidden-sm hidden-xs'>
+                                        
+                                    </div>
+
+                                    
+                                    <div class="block-news-inner hidden-sm hidden-xs">
+                                        <h2 class='header-news'>Новости</h2>
+                                        <div class="news">
+	<div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeIn">  
+        <div class="banner-box"> 
+           <a href="/allnews/101-novosti-4-isolon.html" class="image-blog"><img src="/images/1.-----3.jpg" alt="Новости "Обновленная прокладка для оконной ручки – качество растет, цена остается прежней!""></a>
+            <div class="single-blog">             
+                <a class="blog-title" href="/allnews/101-novosti-4-isolon.html"><span>Новости "Обновленная прокладка для оконной ручки – качество растет, цена остается прежней!"</span></a>
+                <div class="max-height-text">
+                  <div class="over-block-position">
+                    <div class="scroll-text"><p><span style="color: #333399;">Москва, 29 января 2026 г.</span> – Магазин <strong><span style="color: #000080;">AISt</span> Flex</strong> анонсирует технологическое обновление ключевого продукта – уплотнительной прокладки для оконной ручки. Начиная с февраля 2026 года, все прокладки изготавливаются из инновационного материала – нового физически сшитого пенополиэтилена с клеевым слоем постоянной липкости высокой адгезии (≥5 Н/см).</p>
+<p>Почему это важно для вас?</p>
+<p>Несмотря на резкий рост затрат на производство в отрасли, мы приняли стратегическое решение <strong>сохранить цены на прокладки на прежнем уровне</strong>. Переход на новый материал и оптимизация защитного слоя позволили нам компенсировать увеличение себестоимости без перекладывания дополнительной нагрузки на наших клиентов.</p>
+<p>Что изменилось в продукте?</p>
+<p><strong>Основа:</strong> пенополиэтилен СПЛЭН-2 заменен на другой физически сшитый пенополиэтилен – более плотный, устойчивый к деформации и перепадам температур (сохраняет эластичность от –40 °C до +70 °C).</p>
+<p><strong>Клеевой слой:</strong> повышенная адгезия обеспечивает надежную фиксацию без дополнительного крепежа.</p>
+<p><strong>Защитный слой:</strong> прозрачная пленка заменена на <strong>антиадгезионную бумагу светло-бежевого (Пшеничного цвета)</strong> – это техническое улучшение не влияет на монтаж, но повышает стабильность хранения клеевого слоя и снижает производственные издержки.</p>
+<p> «Мы сознательно отказались от повышения цен, несмотря на объективный рост расходов, – комментирует Антон Степанов, руководитель магазина AISt Flex. – Для нас важнее сохранить доверие клиентов и подтвердить: в кризисные периоды мы выбираем лояльность, а не краткосрочную маржу. Новый материал делает прокладку долговечнее, а изменение защитной бумаги – экономически обоснованным шагом, который позволил удержать цену без ущерба для качества».</p>
+<p> Преимущества новой прокладки:</p>
+<p> ✓ Усиленная защита от сквозняков, пыли и влаги; </p>
+<p>✓ Снижение теплопотерь в зоне ручки до 15%;</p>
+<p>✓ Стойкость к износу при многократных циклах открывания/закрывания; </p>
+<p>✓ Моментальный монтаж благодаря клею высокой адгезии;</p>
+<p>✓ Сохранение цены – вы получаете улучшенный продукт по прежней стоимости. </p>
+<p> <u>Важно для установщиков и мастеров:</u></p>
+<p>Изменение защитного слоя (с пленки на белую антиадгезионную бумагу) <strong>не требует корректировки процесса монтажа</strong>. Прокладка по-прежнему легко устанавливается за 5 простых шагов, а клеевой слой обеспечивает мгновенную фиксацию после снятия защитной основы.</p>
+<p><strong>Готовы к обновлённому качеству без доплат?</strong></p>
+<p>Закажите прокладки из материала  уже сегодня – вы получите более надежное решение по проверенной годами цене.</p>
+<p>⇒ Заполните форму обратной связи на сайте – ответим в течение 2 часов.</p>
+<p> </p>
+<p><strong>AISt Flex – точность в деталях, надежность в каждом стыке.</strong></p></div>
+                  </div>
+                </div>
+                <a class="animate-button" href="/allnews/101-novosti-4-isolon.html">Подробнее</span></a>
+            </div>
+        </div>    
+    </div>
+    </div>   
+
+ 	<div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeIn">  
+        <div class="banner-box"> 
+           <a href="/allnews/100-novosti-3.html" class="image-blog"><img src="/images/Patent_240071.png" alt="Получен патент на прокладку для ручки стеклопакета"></a>
+            <div class="single-blog">             
+                <a class="blog-title" href="/allnews/100-novosti-3.html"><span>Получен патент на прокладку для ручки стеклопакета</span></a>
+                <div class="max-height-text">
+                  <div class="over-block-position">
+                    <div class="scroll-text"><p><span style="color: #000080;"><strong>Мы зарегистрировали полезный результат инженерных разработок</strong></span></p>
+<p>03 января 2026 г. – Накануне Нового года, 24 декабря 2025 года, Федеральная служба по интеллектуальной собственности (Роспатент) выдала патент на полезную модель № <strong>240071</strong> на изобретение под названием «<strong>Прокладка для ручки стеклопакета</strong>».</p>
+<p>Разработка направлена на повышение надёжности и герметичности соединения фурнитуры с элементами оконной конструкции. Предложенная прокладка обеспечивает улучшенное прилегание ручки к створке, снижает риск возникновения сквозняков, предотвращает деформацию уплотнителей и продлевает срок службы оконной системы в целом.</p>
+<p>Конструктивные особенности полезной модели – в её адаптивной геометрии и применении эластомерного композитного материала, устойчивого к перепадам температур и УФ-излучению. Это делает изделие особенно востребованным для использования в климатических условиях с резкими сезонными колебаниями.</p>
+<p>Получение патента подтверждает высокий уровень нашей инженерной компетенции и приверженность инновационному развитию в сфере строительных технологий и энергоэффективных решений для оконных систем.</p></div>
+                  </div>
+                </div>
+                <a class="animate-button" href="/allnews/100-novosti-3.html">Подробнее</span></a>
+            </div>
+        </div>    
+    </div>
+    </div>   
+
+ 	<div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeIn">  
+        <div class="banner-box"> 
+           <a href="/allnews/98-novosti-2.html" class="image-blog"><img src="/images/2.2.---300px.png" alt="Новости "Разработка новой прокладки для ручки: шаг вперёд, но ещё не финал""></a>
+            <div class="single-blog">             
+                <a class="blog-title" href="/allnews/98-novosti-2.html"><span>Новости "Разработка новой прокладки для ручки: шаг вперёд, но ещё не финал"</span></a>
+                <div class="max-height-text">
+                  <div class="over-block-position">
+                    <div class="scroll-text"><p>Команда AISt Flex продолжает работу над расширением линейки своих изделий и недавно приступила к разработке новой прокладки для ручки стеклопакета – белого цвета и без клеящего слоя. Идея возникла из запросов партнёров, заинтересованных в эстетически нейтральном и легко заменяемом решении, не оставляющем следов на поверхности.</p>
+<p>На текущем этапе удалось изготовить пробные образцы из доступных материалов и получить визуальное подтверждение их формы и размеров. Ниже – фотография вырезанной прокладки, демонстрирующая общий уровень исполнения.</p>
+<p>Однако, несмотря на внешнюю приемлемость, качество полученного изделия пока не соответствует нашим внутренним стандартам: материал недостаточно устойчив к деформации при резке, следовательно технология обработки не обеспечивает нужной точности и эстетичности.</p>
+<p>Мы не останавливаемся на достигнутом и активно изучаем альтернативные материалы и производственные технологии, которые позволят реализовать эту идею в полном объёме. Уверены, что решение найдётся – ведь именно так рождаются по-настоящему надёжные продукты.</p>
+<p>Следите за обновлениями!</p>
+<p> </p></div>
+                  </div>
+                </div>
+                <a class="animate-button" href="/allnews/98-novosti-2.html">Подробнее</span></a>
+            </div>
+        </div>    
+    </div>
+    </div>   
+
+ 	<div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeIn">  
+        <div class="banner-box"> 
+           <a href="/allnews/18-novosti.html" class="image-blog"><img src="/images/promo.jpg" alt="Новости "Прокладка для ручки стеклопакета теперь доступна на Wildberries!""></a>
+            <div class="single-blog">             
+                <a class="blog-title" href="/allnews/18-novosti.html"><span>Новости "Прокладка для ручки стеклопакета теперь доступна на Wildberries!"</span></a>
+                <div class="max-height-text">
+                  <div class="over-block-position">
+                    <div class="scroll-text"><p>Прокладка для ручки стеклопакета теперь доступна на <span style="color: #ff00ff;"><strong>Wildberries</strong></span>!</p>
+<p>Мы рады сообщить, что наша популярная <strong>прокладка для ручки стеклопакета</strong> официально появилась в ассортименте маркетплейса *<strong>Wildberries</strong>* — теперь её можно заказать с доставкой по всей России!</p>
+<p>Доступны две удобные упаковки, чтобы выбрать оптимальный вариант под ваши нужды:</p>
+<p><strong>Артикул WB: 586460807</strong> — комплект из <strong>4-х прокладок</strong> — идеален для большого стеклопакета или профессионального использования при обслуживании пластиковых окон.</p>
+<p><strong>Артикул WB: 583107066</strong> — комплект из <strong>2-х прокладок</strong> — отличный выбор для самостоятельного обслуживания одного пластикового стеклопакета.</p>
+<p>Прокладка обеспечивает герметичность, снижает уровень шума и продлевает срок службы фурнитуры. Изготовлена из высококачественного эластичного материала, устойчивого к перепадам температур и износу.</p>
+<p>Перейдите по ссылкам на Wildberries, чтобы заказать прямо сейчас: </p>
+<p><a href="https://www.wildberries.ru/catalog/586460807/detail.aspx">Артикул 586460807 (4 шт.)</a></p>
+<p><a href="https://www.wildberries.ru/catalog/583107066/detail.aspx">Артикул 583107066 (2 шт.)</a></p>
+<p> </p>
+<p>Сделайте ваш стеклопакет тише, теплее и надёжнее — с проверенным решением от производителя.</p>
+<p><strong>При заказе через Wildberries — быстрая доставка, гарантия качества и удобный возврат.</strong></p></div>
+                  </div>
+                </div>
+                <a class="animate-button" href="/allnews/18-novosti.html">Подробнее</span></a>
+            </div>
+        </div>    
+    </div>
+    </div>   
+
+ </div>
+                  
+                                        <a href='/allnews.html' class='all-news'>Все новости <i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
+                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                <div class='bg-formblock str-inner'>
+
+
+
+
+
+
+                    <div class="form-block">
+                        <a name='forms'></a>
+                        <div class="container-fluid">
+
+                            <div class='row flex'>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <form id="form1" action="/" method="post" class="fz152 scrollWow" enctype="multipart/form-data">
+                                        <input type="hidden" name="sended" value="1">
+                                        <div class="bg-form-block">
+                                            <h2 class='header-form'>Связаться с нами</h2>
+                                            <p>Оставьте свои контакты и мы с Вами свяжемся</p>
+
+                                            <div class="fl">
+                                                <div class="form-group">
+                                                    <input name="name" type="text" placeholder="Имя" value="" aria-required="true" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="phone" type="text" placeholder="Телефон" value="" required aria-required="true" class="form-control">
+                                                </div>
+                                                <div class="form-group wrap-yourmessage">
+                                                    <textarea name="text" placeholder="Сообщение" class="yourmessage form-control"></textarea>
+                                                </div>
+
+                                                <div class="blocks-buttons">
+
+                                                    <input class="submit-form floatleft" value="Отправить" type="submit">
+
+                                                </div>
+                                            </div>
+                                            <label class='agreement_label'>
+                                                <input name="f_Agreement" required checked="checked" id="confirm-agreement" type="checkbox">
+                                               Отправляя форму, я даю свое <a href="/privacy/" target="_blank">согласие на обработку персональных данных </a>
+                                               в соответствии с <a href="/images/operator_polic.pdf" target="_blank">Политикой оператора</a>. 
+                                               Я подтверждаю, что мне была предоставлена <a href="/images/operator_polic.pdf" target="_blank">Политика оператора в отношении обработки 
+                                               персональных данных.
+                                            </label>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
+
+                                            </div>
+
+             
+
+
+
+
+                </div>
+                <footer>
+                <div class="contacts">
+                        <div class="container-fluid">
+                            <h2>Контакты</h2>
+
+                            <div class="fl jsb">
+                                <div class="fl jsb ac block-contact">
+                                    <span class="phone "><i class="fa fa-phone" aria-hidden="true"></i>
+                                        				<p><a href="tel:+7 901 7418766">+7 901 7418766</a></p>
+
+                                    </span>
+                                    <span class="graph"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                        	<p>с 10:00 до 19:00</p>			
+
+                                    </span>
+                                    <span class="address"><i class="fa fa-map-marker" aria-hidden="true"></i>
+                                        		<p>115409, г. Москва, ул. Кантемировская, дом 18, корп. 2.</p>		
+
+                                    </span>
+                                    <span class="email"><i class="fa fa-envelope" aria-hidden="true"></i>
+                                        			<a href='mailto:info@aistflex.ru'>info@aistflex.ru</a>	
+
+                                    </span>
+
+                                </div>
+                                
+
+                                <img src="/images/qr_code_6.svg" class='qr'>
+                                
+                                <div class="logo">
+                                    <a href='/'><img src="/images/logo2.png"></a>
+                                </div>
+
+                            </div>
+
+
+
+
+                        </div>
+                    </div>
+                    <div class="container-fluid">
+
+                        <div class='row'>
+
+                            <div class="copy2">
+                                © 2026. Все права защищены
+
+                                <div class="livec">
+                                    <!--LiveInternet counter-->
+                                    <script type="text/javascript">
+                                        <!--
+                                        document.write("<a href='https://www.liveinternet.ru/click' " +
+                                            "target=_blank><img src='//counter.yadro.ru/hit?t11.2;r" +
+                                            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                                                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                                                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+                                            ";" + Math.random() +
+                                            "' alt='' title='LiveInternet: показано число просмотров за 24" +
+                                            " часа, посетителей за 24 часа и за сегодня' " +
+                                            "border='0' width='88' height='31'><\/a>")
+                                        //
+                                        -->
+                                    </script>
+                                </div>
+                            </div>
+                            <div class="center_block_footer">
+                                <a href="/images/operator_polic.pdf" target="_blank">
+                                     Политика оператора в отношении обработки персональных данных
+                                </a>
+                            </div>
+                            <div class="copy">
+                                <div class="isite">
+
+                                    <div class="full-logo">
+                                        <div class="img-logo">
+                                            <a href="https://isite.ru">
+                                                <img src="/templates/jblank/img/isite/triangle_t.png" class="triangle_t">
+                                                <img src="/templates/jblank/img/isite/triangle1.png" class="triangle">
+                                                <img src="/templates/jblank/img/isite/triangle_b_l.png" class="triangle_b_l">
+                                                <img src="/templates/jblank/img/isite/triangle_b_r.png" class="triangle_b_r">
+                                                <img src="/templates/jblank/img/isite/triangle_l.png" class="triangle_l">
+                                                <img src="/templates/jblank/img/isite/triangle_r.png" class="triangle_r">
+                                            </a>
+                                        </div>
+                                        <div class='text-logo'>
+                                            <a href="https://isite.ru">
+                                                Разработка сайта под ключ iSite.ru
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class='O_O'></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+                </div>
+                <div class="mobile-mmenu">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                <nav id="mmenu">
+                                    <ul class='menu'>
+                                        <!-- заказментить не нужные меню -->
+                                        
+
+<li class="item-256 count_li1"><a  href="/" >О компании</a></li><li class="item-257 count_li2"><a  href="/o-nas.html" >О нас</a></li><li class="item-258 count_li3"><a  href="/produktsiya.html" >Продукция</a></li><li class="item-259 count_li4"><a  href="/otzyivyi.html" >Отзывы</a></li><li class="item-260 count_li5 submenu_to_left"><a  href="/kontaktyi.html" >Контакты</a></li><li class="item-261 count_li6 submenu_to_left"><a  href="/razvivaemsya-vmeste-s-vami.html" >Развиваемся вместе с вами</a></li>
+
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- div.mobile-mmenu -->
+
+                <div id="quickview-wrapper">
+                                        <!-- Modal-phone -->
+                    <div class="modal animated fadeIn" id="modalCall" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h2>Оставить заявку</h2>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="modal-product">
+                                        <div class="contact-form">
+                                            <form id="form2" action="/" method="post" class="fz152" enctype="multipart/form-data">
+                                                <div class="form-group">
+                                                    <input name="name" placeholder="Имя" required aria-required="true" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="phone" placeholder="Телефон" required aria-required="true" type="text" class="form-control">
+                                                </div>
+                                                <div class="submit-form form-group submit-review">
+                                                    <input type="hidden" name="sended" value="2">
+                                                    <input class="submit-form-input floatleft button-animate" value="Отправить" type="submit">
+                                                </div>
+                                                <label class='agreement_label'>
+                                                    <input name="f_Agreement" required checked="checked" class="confirm-agreement" type="checkbox">
+                                                    Согласен с <a href="/privacy/" target="_blank">условиями</a> обработки
+                                                    персональных данных
+                                                </label>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Modal-phone -->
+                    <!-- Modal-clip -->
+                    <div class="modal animated fadeIn" id="modalClip" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h2 class='text-center'>Заполните заявку</h2>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="modal-product">
+                                        <div class="contact-form">
+                                            <form id="form3" action="/" method="post" enctype="multipart/form-data">
+                                                <div class="form-group">
+                                                    <input name="name" placeholder="Имя" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="phone" placeholder="Телефон" required aria-required="true" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="email" placeholder="Email" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <textarea name="text" placeholder="Сообщение" class="form-control"></textarea>
+                                                </div>
+                                                <div class="form-group text-center submit-review">
+                                                    <input type='hidden' id='name_header' name='header' value=''>
+                                                    <input type="hidden" name="sended" value="3">
+                                                    <input class="submit-form-input button-animate" value="Отправить" type="submit">
+                                                </div>
+                                                <label class='agreement_label'>
+                                                    <input name="f_Agreement" required checked="checked" class="confirm-agreement" type="checkbox">
+                                                    Согласен с <a href="/privacy/" target="_blank">условиями</a> обработки
+                                                    персональных данных
+                                                </label>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal animated fadeIn" id="modalOrderClick" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h2 class='text-center'>Заполните заявку</h2>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="modal-product">
+                                        <div class="contact-form">
+                                            <form id="form4" action="/" method="post" enctype="multipart/form-data">
+                                                <div class="form-group">
+                                                    <input name="name" placeholder="Имя" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="phone" placeholder="Телефон" required aria-required="true" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="email" placeholder="Email" type="text" class="form-control">
+                                                </div>
+                                                <div class="form-group">
+                                                    <textarea name="text" placeholder="Сообщение" class="form-control"></textarea>
+                                                </div>
+                                                <div class="form-group text-center submit-review">
+                                                    <input type='hidden' id='name_header_order_click' name='header' value=''>
+                                                    <input type="hidden" name="sended" value="4">
+                                                    <input class="submit-form-input button-animate" value="Отправить" type="submit">
+                                                </div>
+                                                <label class='agreement_label'>
+                                                    <input name="f_Agreement" required checked="checked" class="confirm-agreement" type="checkbox">
+                                                    Согласе с <a href="/privacy/" target="_blank">условиями</a> обработки
+                                                    персональных данных
+                                                </label>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Modal-phone -->
+                </div>
+
+                <div id="cookie-banner" style="display:none;" class="cookie-banner">
+                    <div class="cookie-banner__content">
+    <span>
+      Нажимая кнопку "Принять" или продолжая пользоваться сайтом, вы соглашаетесь на обработку файлов cookies. Подробнее вы можете узнать в Политике использования cookies
+      <a href="/cookies.html" target="_blank">Подробнее о cookies</a>.
+    </span>
+                        <button id="cookie-ok" class="cookie-banner__btn">Принять</button>
+                    </div>
+                </div>
+
+                <style>
+                    .cookie-banner {
+                        position: fixed;
+                        bottom: 0;
+                        left: 0;
+                        right: 0;
+                        background: #2b2b2b;
+                        color: #fff;
+                        padding: 15px;
+                        font-size: 14px;
+                        z-index: 9999;
+                        box-shadow: 0 -2px 5px rgba(0,0,0,0.2);
+                    }
+
+                    .cookie-banner__content {
+                        max-width: 960px;
+                        margin: 0 auto;
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        flex-wrap: wrap;
+                    }
+
+                    .cookie-banner__content a {
+                        color: #80c0ff;
+                        text-decoration: underline;
+                        margin-left: 5px;
+                    }
+
+                    .cookie-banner__btn {
+                        background: #4caf50;
+                        color: white;
+                        border: none;
+                        padding: 8px 14px;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-size: 14px;
+                    }
+
+                    .cookie-banner__btn:hover {
+                        background: #45a043;
+                    }
+                </style>
+
+                <script>
+                    document.addEventListener('DOMContentLoaded', function () {
+                        const banner = document.getElementById('cookie-banner');
+                        const button = document.getElementById('cookie-ok');
+
+                        // Проверка, было ли уже скрытие баннера
+                        if (!localStorage.getItem('cookieAccepted')) {
+                            banner.style.display = 'block';
+                        }
+
+                        button.addEventListener('click', function () {
+                            // Устанавливаем метку на 24 часа
+                            const expirationTime = Date.now() + 24 * 60 * 60 * 1000;
+                            localStorage.setItem('cookieAccepted', expirationTime);
+                            banner.style.display = 'none';
+                        });
+
+                        // Проверка срока действия
+                        const savedTime = localStorage.getItem('cookieAccepted');
+                        if (savedTime && Date.now() > parseInt(savedTime, 10)) {
+                            localStorage.removeItem('cookieAccepted');
+                            banner.style.display = 'block';
+                        }
+                    });
+                </script>
+
+</body>
+
+</html>

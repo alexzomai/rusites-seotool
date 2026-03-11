@@ -1,0 +1,657 @@
+<!DOCTYPE html><html
+xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr"><meta
+property="og:image" content=""><head>
+<link href="https://compulog.ru/45-android_china_unicom" rel="canonical" />
+<meta
+http-equiv="X-UA-Compatible" content="IE=edge"><meta
+name="viewport" content="width=device-width, initial-scale=1.0" /><base
+href="https://compulog.ru/45-android_china_unicom" /><meta
+http-equiv="content-type" content="text/html; charset=utf-8" /><meta
+name="keywords" content="Android, сотовый, оператор, Китай, China Unicom, платформа, программное, обеспечение, Uniplus" /><meta
+name="author" content="Super User" /><meta
+name="description" content="Сотовый оператор Китая China Unicom, решил создать собственную платформу программного обеспечения, которая будет работать на базе ОС Android" /><title>Android-платформа для китайского оператора China Unicom</title><link
+href="/templates/jm-university/cache/jmf_53a0b687ac2a333f4c46831353c06546.css?v=1506591668" rel="stylesheet" type="text/css" /><link
+href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" /><style type="text/css">#suil69a48fb1d4167 .icon_list_icon .list-img-icon {color:#364e72;font-size: 36px;}
+#suil69a48fb1d4167 .icon_list_icon { background:transparent; font-size:36px; max-width:36px; height:36px;padding: 0;}
+#suil69a48fb1d4167 .icon_description { margin-left: 56px;}#suil69a48fb1d43d6 .icon_list_icon .list-img-icon {color:#364e72;font-size: 36px;}
+#suil69a48fb1d43d6 .icon_list_icon { background:transparent; font-size:36px; max-width:36px; height:36px;border:0px solid #cccccc;padding: 0;-webkit-box-shadow:0px 0px 0px #444444; box-shadow:0px 0px 0px #444444;}
+#suil69a48fb1d43d6 .icon_description { margin-left: 56px;}#suil69a48fb1d45b2 .icon_list_icon .list-img-icon {color:#364e72;font-size: 36px;}
+#suil69a48fb1d45b2 .icon_list_icon { background:transparent; font-size:36px; max-width:36px; height:36px;border:0px solid #cccccc;padding: 0;-webkit-box-shadow:0px 0px 0px #444444; box-shadow:0px 0px 0px #444444;}
+#suil69a48fb1d45b2 .icon_description { margin-left: 56px;}#suil69a48fb1d4773 .icon_list_icon .list-img-icon {color:#364e72;font-size: 36px;}
+#suil69a48fb1d4773 .icon_list_icon { background:transparent; font-size:36px; max-width:36px; height:36px;border:0px solid #cccccc;padding: 0;-webkit-box-shadow:0px 0px 0px #444444; box-shadow:0px 0px 0px #444444;}
+#suil69a48fb1d4773 .icon_description { margin-left: 56px;}#suico_69a48fb1d90f9.su-icon{ margin:5px}
+#suico_69a48fb1d90f9.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1d9196.su-icon{ margin:5px}
+#suico_69a48fb1d9196.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1d9212.su-icon{ margin:5px}
+#suico_69a48fb1d9212.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1d9287.su-icon{ margin:5px}
+#suico_69a48fb1d9287.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1d92fa.su-icon{ margin:5px}
+#suico_69a48fb1d92fa.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1d9368.su-icon{ margin:5px}
+#suico_69a48fb1d9368.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dcb3d.su-icon{ margin:1px}
+#suico_69a48fb1dcb3d.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dcbcc.su-icon{ margin:1px}
+#suico_69a48fb1dcbcc.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dcc48.su-icon{ margin:1px}
+#suico_69a48fb1dcc48.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dccba.su-icon{ margin:1px}
+#suico_69a48fb1dccba.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dcd2a.su-icon{ margin:1px}
+#suico_69a48fb1dcd2a.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dcd99.su-icon{ margin:1px}
+#suico_69a48fb1dcd99.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dce08.su-icon{ margin:5px}
+#suico_69a48fb1dce08.su-icon i { font-size:26px;line-height:26px;background-color:transparent;color:#A8A8A8;padding:5px;}#suico_69a48fb1dce7c.su-icon{ margin:5px}
+#suico_69a48fb1dce7c.su-icon i { font-size:26px;line-height:26px;background-color:transparent;color:#A8A8A8;padding:5px;}#suico_69a48fb1dcef2.su-icon{ margin:5px}
+#suico_69a48fb1dcef2.su-icon i { font-size:26px;line-height:26px;background-color:transparent;color:#A8A8A8;padding:5px;}#suico_69a48fb1dcf68.su-icon{ margin:5px}
+#suico_69a48fb1dcf68.su-icon i { font-size:26px;line-height:26px;background-color:transparent;color:#A8A8A8;padding:5px;}#suico_69a48fb1dcfda.su-icon{ margin:1px}
+#suico_69a48fb1dcfda.su-icon i { font-size:22px;line-height:22px;background-color:transparent;color:#364e72;padding:5px;}#suico_69a48fb1dd04a.su-icon{ margin:1px}
+#suico_69a48fb1dd04a.su-icon i { font-size:22px;line-height:22px;background-color:transparent;color:#364e72;padding:5px;}		.dj-hideitem { display: none !important; }
+
+			#dj-megamenu199mobile { display: none; }
+		@media (max-width: 979px) {
+			#dj-megamenu199, #dj-megamenu199sticky, #dj-megamenu199placeholder { display: none; }
+			#dj-megamenu199mobile { display: block; }
+		}
+	#suico_69a48fb1dee31.su-icon{ margin:1px}
+#suico_69a48fb1dee31.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#257a15;padding:5px;}#suico_69a48fb1def84.su-icon{ margin:1px}
+#suico_69a48fb1def84.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#257a15;padding:5px;}#suico_69a48fb1deff6.su-icon{ margin:1px}
+#suico_69a48fb1deff6.su-icon i { font-size:18px;line-height:18px;background-color:transparent;color:#257a15;padding:5px;}</style> <script src="/templates/jm-university/cache/jmf_b557d24206a24b7dc2db8fa34f3425c8.js?v=1506591668" type="text/javascript"></script> <script src="/templates/jm-university/cache/jmf_801a75b3cb527d398c84d0ad65f0dd5b.js?v=1468149927" type="text/javascript" defer="defer"></script> <script type="text/javascript">jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	(function(){
+		var cb = function() {
+			var add = function(css) {
+				var ss = document.styleSheets;
+			    for (var i = 0; i < ss.length; i++) {
+			        if (ss[i].href == css) return;
+			    }
+				var l = document.createElement('link'); l.rel = 'stylesheet';
+				l.href = css;
+				var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+			}
+			add('/media/djextensions/css/animate.min.css');
+			add('/media/djextensions/css/animate.ext.css');
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(cb);
+		else window.addEventListener('load', cb);
+	})();</script> <link
+href="/templates/jm-university/images/favicon.ico" rel="Shortcut Icon" /> <script type="text/javascript" src="//cdn.callbackhunter.com/cbh.js?hunter_code=49c78e143bbbe5a4fee359bae86a5719" charset="UTF-8"></script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');	
+  ga('create', 'UA-52420040-1', 'auto');	  ga('send', 'pageview');</script>  <script type="text/javascript">(function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter22380442 = new Ya.Metrika({
+                    id:22380442,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");</script> <noscript><div><img
+src="https://mc.yandex.ru/watch/22380442" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?4430079"></script> <noscript>
+<noindex><a
+href="http://top100.rambler.ru/navi/4430079/"  rel="nofollow" target="_blank"  >
+<img
+src="http://counter.rambler.ru/top100.cnt?4430079" alt="Rambler's Top100" border="0" />
+<img border="0" alt="
+
+" src="https://compulog.ru/components/com_sh404sef/images/external-black.png"/></a></noindex></noscript><script type="text/javascript">document.write("<a href='//www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t26.1;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(document.title.substring(0,80)) +  ";" + Math.random() + "' border=0 width=88 height=15 alt='' title='LiveInternet: показано число посетителей за сегодня'><\/a>")</script><link
+href="/templates/jm-university/css/new_style.css" rel="stylesheet" type="text/css">
+  <meta property="og:locale" content="ru_RU" />
+  <meta property="og:title" content="Android-платформа для китайского оператора China Unicom" />
+  <meta property="og:description" content="Сотовый оператор Китая China Unicom, решил создать собственную платформу программного обеспечения, которая будет работать на базе ОС Android" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="https://compulog.ru/45-android_china_unicom" />
+  <meta property="og:site_name" content="ООО Мастер-сервис" /></head><body
+class=" fixed sticky-bar top-bar "><div
+id="jm-allpage"><div
+id="jm-page"><div
+id="jm-bar-wrapp" class="">
+<section
+id="jm-top-bar"><div
+class="container-fluid"><div
+class="row-fluid"><div
+id="jm-top-bar1" class="pull-left span6"><div
+class="jm-module-raw "><div
+class="custom"  >
+<span
+id="suico_69a48fb1def84" class="su-icon square-size"><i
+class="fa fa-phone-square"></i></span><strong> Наш телефон 24 часа: <span
+style="color: #ff0000; font-size: 12pt;">8(499) 322-75-12</span><span
+style="color: #ff0000; font-size: 10pt;"></span></strong>&nbsp;<span
+id="suico_69a48fb1deff6" class="su-icon square-size"><i
+class="fa fa-comments-o"></i></span><a
+href="/otzyvy"> Отзывы</a></p></div></div></div><div
+id="jm-top-bar2" class="pull-right span6"><div
+class="row-fluid"><div
+class="span7"><div
+class="jm-module-raw "><div
+class="custom"  >
+<span
+id="suico_69a48fb1dee31" class="su-icon square-size"><i
+class="fa fa-bell-o"></i></span>Часы работы Пн.-ВС. 8:00 до 20:00</p></div></div></div><div
+class="span5"><div
+class="jm-module-raw "><div
+class="custom"  ><div
+class="su-load-module"><div
+id="joomly-callback" class="joomly-callback-main"><div
+class="joomly-callback-caption" ><div
+class="joomly-callback-cap"><h4 class="text-center">Вызвать мастера</h4></div><div
+class="joomly-callback-closer"><i
+id="joomly-callback-close202" class="fa fa-close fa-1x"></i></div></div><div
+class="joomly-callback-body"><form
+class="reg_form" action="https://compulog.ru/45-android_china_unicom" method="post" onsubmit="callback_validate(this);" enctype="multipart/form-data"><div><p
+class="callback-text-center">В настоящее время наш рабочий день закончен. Оставьте свой телефон и мы перезвоним в удобное для вас время!</p><div
+class="joomly-callback-div">
+<input
+type="text" placeholder="Имя" name="name" class="joomly-callback-field" value=""></div><div
+class="joomly-callback-div">
+<input
+type="tel" placeholder="Телефон*"  name="phone" class="joomly-callback-field" required value=""></div><div
+class="joomly-callback-div">
+<label
+style="display:inline-block;">Время звонка</label><div
+style="display:inline-block;">
+<select
+id="time-any202" name="time-any" ><option
+value="10:00">10:00</option><option
+value="10:30">10:30</option><option
+value="11:00">11:00</option><option
+value="11:30">11:30</option><option
+value="12:00">12:00</option><option
+value="12:30">12:30</option><option
+value="13:00">13:00</option><option
+value="13:30">13:30</option><option
+value="14:00">14:00</option><option
+value="14:30">14:30</option><option
+value="15:00">15:00</option><option
+value="15:30">15:30</option><option
+value="16:00">16:00</option><option
+value="16:30">16:30</option><option
+value="17:00">17:00</option><option
+value="17:30">17:30</option><option
+value="18:00">18:00</option>
+</select>
+<select
+id="day202" name="day"><option
+value="Понедельник" selected>Понедельник</option><option
+value="Вторник" >Вторник</option><option
+value="Среда" >Среда</option><option
+value="Четверг" >Четверг</option><option
+value="Пятница" >Пятница</option><option
+value="Суббота" >Суббота</option>
+</select></div></div><div
+class="joomly-callback-div">
+<img
+src="https://compulog.ru/components/com_joomlycallback/captcha/captcha.php" alt="captcha" class="img-joomly-callback"><input
+type="text" placeholder="Введите символы с картинки" class="joomly-callback-field captcha-joomly-callback" name="captcha" required></div>
+<input
+type="hidden" name="page" value="compulog.ru/45-android_china_unicom" />
+<input
+type="hidden" name="created_at" value="2026-03-01 22:12:49" />
+<input
+type="hidden" name="cur_time" id="cur-time202" value="1" />
+<input
+type="hidden" name="module_id" value="202" />
+<input
+type="hidden" name="title_name" value="Вызвать мастера" /></div><div>
+<button
+class="button-joomly-callback-lightbox" type="submit"  value="save"  id="button-joomly-callback-lightbox202">Отправить</button></div>
+<input
+type="hidden" name="option" value="com_joomlycallback" />
+<input
+type="hidden" name="task" value="add.save" />
+<input
+type="hidden" name="c400bf0641d86ca1670a27b4259913c1" value="1" /></form><div
+class="tel"></div></div></div><div>
+<button
+class="button-joomly-callback-form joomly-callback" type="submit"   value="save">Вызвать мастера</button></div><div
+class="special-alert" id="special-alert202"><div
+class="joomly-callback-caption" style="background-color:#21ad33"><div
+class="joomly-callback-cap"><h4 class="callback-text-center">Вызвать мастера</h4></div><div
+class="joomly-callback-closer"><i
+id="callback-alert-close202" class="fa fa-close fa-1x"></i></div></div><div
+class="joomly-alert-body"><p
+class="callback-text-center">Ваше сообщение отправленно</p></div></div> <script type="text/javascript">var callback_module_id = 202,
+type_field = "Обязательное поле";
+var callback_sending_flag = callback_sending_flag || [];
+callback_sending_flag[callback_module_id] = callback_sending_flag[callback_module_id] || 0;</script> <script type="text/javascript" src="/modules/mod_joomly_callback/js/callback.js"></script></div></div></div></div></div></div></div></div>
+</section>
+<section
+id="jm-logo-nav"><div
+class="container-fluid"><div
+id="jm-logo-nav-in"><div
+id="jm-bar-left" class="pull-left"><div
+id="jm-logo-sitedesc"><div
+id="jm-logo-sitedesc-in"><div
+id="jm-logo">
+<a
+href="https://compulog.ru/">
+<img
+src="https://compulog.ru/images/ico/logotype.jpg" alt="ООО Мастер-сервис" />
+</a></div></div></div></div><div
+id="jm-bar-right" class="pull-right ">
+<nav
+id="jm-top-menu-nav"><div
+class="jm-module-raw "><ul
+id="dj-megamenu199" class="dj-megamenu dj-megamenu-override " data-options='{"wrap":null,"animIn":"fadeInUp","animOut":"zoomOut","animSpeed":"normal","openDelay":"250","closeDelay":"500","event":"mouseenter","fixed":"0","offset":"0","theme":"override","direction":"ltr","wcag":"1"}' data-trigger="979"><li
+class="dj-up itemid101 first current active"><a
+class="dj-up_a active " href="/" ><span >Главная</span></a></li><li
+class="dj-up itemid113"><a
+class="dj-up_a  " href="/o-kompanii-master-servis-moskva" ><span >О компании</span></a></li><li
+class="dj-up itemid114"><a
+class="dj-up_a  " href="/prejskurant" ><span >Прайс-лист</span></a></li><li
+class="dj-up itemid115"><a
+class="dj-up_a  " href="/nashi-vakansii-v-moskve" ><span >Наши вакансии</span></a></li><li
+class="dj-up itemid116"><a
+class="dj-up_a  " href="/kak-s-nami-svyazatsya" ><span >Контакты</span></a></li></ul><div
+id="dj-megamenu199mobile" class="dj-megamenu-offcanvas dj-megamenu-offcanvas-dark ">
+<a
+href="#" class="dj-mobile-open-btn"><i
+class="fa fa-bars"></i></a>
+<aside
+class="dj-offcanvas dj-offcanvas-dark " data-effect="3"><div
+class="dj-offcanvas-top">
+<a
+href="#" class="dj-offcanvas-close-btn"><i
+class="fa fa-close"></i></a></div><div
+class="dj-offcanvas-content"><ul
+class="dj-mobile-nav dj-mobile-dark "><li
+class="dj-mobileitem itemid-101 current active"><a
+href="/" >Главная</a></li><li
+class="dj-mobileitem itemid-113"><a
+href="/o-kompanii-master-servis-moskva" >О компании</a></li><li
+class="dj-mobileitem itemid-114"><a
+href="/prejskurant" >Прайс-лист</a></li><li
+class="dj-mobileitem itemid-115"><a
+href="/nashi-vakansii-v-moskve" >Наши вакансии</a></li><li
+class="dj-mobileitem itemid-116"><a
+href="/kak-s-nami-svyazatsya" >Контакты</a></li></ul></div><div
+class="dj-offcanvas-end" tabindex="0"></div>
+</aside></div></div></nav></div></div></div>
+</section></div>
+<section
+id="jm-top2" class=""><div
+class="container-fluid"><div
+class="row-fluid jm-flexiblock jm-top2"><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100" data-mobile="span100"><div
+class="jm-module "><div
+class="jm-module-in"><div
+class="jm-module-content clearfix notitle"><div
+class="custom"  ><div
+id="suil69a48fb1d4167" class="su-icon-list su-icon-align-left su-il-animation-1"><div
+class="icon_list_item" ><div
+class="icon_list_wrapper "><div
+class="icon_list_icon"><i
+class="list-img-icon fa fa-cab"></i></div></div><div
+class="icon_description"><h3>БЕСПЛАТНЫЙ ВЫЕЗД</h3><div
+class="icon_description_text">ОТ 30 МИНУТ</div></div><div
+class="clearfix"></div></div></div></div></div></div></div></div><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100 first-span" data-mobile="span100 first-span"><div
+class="jm-module "><div
+class="jm-module-in"><div
+class="jm-module-content clearfix notitle"><div
+class="custom"  ><div
+id="suil69a48fb1d43d6" class="su-icon-list su-icon-align-left su-il-animation-1"><div
+class="icon_list_item" ><div
+class="icon_list_wrapper "><div
+class="icon_list_icon"><i
+class="list-img-icon fa fa-cogs"></i></div></div><div
+class="icon_description"><h3>БЕСПЛАТНАЯ</h3><div
+class="icon_description_text">ДИАГНОСТИКА</div></div><div
+class="clearfix"></div></div></div></div></div></div></div></div><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100 first-span" data-mobile="span100 first-span"><div
+class="jm-module "><div
+class="jm-module-in"><div
+class="jm-module-content clearfix notitle"><div
+class="custom"  ><div
+id="suil69a48fb1d45b2" class="su-icon-list su-icon-align-left su-il-animation-1"><div
+class="icon_list_item" ><div
+class="icon_list_wrapper "><div
+class="icon_list_icon"><i
+class="list-img-icon fa fa-cc-mastercard"></i></div></div><div
+class="icon_description"><h3>ОПЛАТА ПО ФАКТУ</h3><div
+class="icon_description_text">УСТРАНЕНИЯ ПОЛОМКИ</div></div><div
+class="clearfix"></div></div></div></div></div></div></div></div><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100 first-span" data-mobile="span100 first-span"><div
+class="jm-module "><div
+class="jm-module-in"><div
+class="jm-module-content clearfix notitle"><div
+class="custom"  ><div
+id="suil69a48fb1d4773" class="su-icon-list su-icon-align-left su-il-animation-2"><div
+class="icon_list_item" ><div
+class="icon_list_wrapper "><div
+class="icon_list_icon"><i
+class="list-img-icon fa fa-thumbs-o-up"></i></div></div><div
+class="icon_description"><h3>ГАРАНТИЯ</h3><div
+class="icon_description_text">НА РАБОТЫ</div></div><div
+class="clearfix"></div></div></div></div></div></div></div></div></div></div>
+</section>
+<section
+id="jm-main"><div
+class="container-fluid"><div
+class="row-fluid"><div
+id="jm-content" class="span8 offset4" data-xtablet="span12" data-tablet="span12" data-mobile="span12"><div
+id="jm-maincontent"><div
+class="item-page" itemscope itemtype="https://schema.org/Article"><meta
+itemprop="inLanguage" content="ru-RU" /><div
+itemprop="articleBody">
+Сотовый оператор Китая China Unicom, решил создать собственную платформу программного обеспечения, которая будет работать на базе ОС Android. Именно такое сообщение было недавно получёно от QQ Tech.<div
+align="center"></div><p
+align="center"><img src="/images/public_po/45-Android_China_Unicom/Android_China_Unicom.jpg" width="395" height="278"><br>            Uniplus</p><p>Новая операционная система будет носить название - Uniplus. Кроме того,             и смартфоны, работающие на её базе, также сменят свое название на UPhone.             Согласно последним данным, на данный момент уже несколько производителей             занялись проектировкой и созданием подобного рода устройств. Первые             из них попадут в мир уже в конце этого года.</p><p><strong>Ремарка</strong>: <noindex><a
+href="http://my-pocket.ru/category/smartfoni"  target="_blank" title="обзор смартфонов [откроется в новом окне]" rel="nofollow"  >обзор смартфонов<img border="0" alt="обзор смартфонов" src="https://compulog.ru/components/com_sh404sef/images/external-black.png"/></a></noindex>, на которые может быть установлена ОС Uniplus</p><p>Вообще, Uniplus - это довольно своеобразный "микс", заключающий в себе пиктограммы iOS, а также несколько элементов, позаимствованных из других пользовательских интерфейсов, к примеру, из Samsung TouchWIZ. Но при этом стоит обратить внимание на тот факт, что China Unicom разрабатывает собственные сервисы и магазин приложений - Unistore.</p><p>В свете таких событий стоит упомянуть о том, что один китайский оператор - China Mobile уже разработал собственную платформу на базе Android, она называется - Ophone.</p></div></div></div><div
+id="jm-content-bottom" class=""><div
+class="jm-module  form-check"><div
+class="jm-module-in"><div
+class="jm-module-content clearfix notitle"><div
+class="rsform form-check"><form
+method="post"  id="userForm" class="formResponsive" action="https://compulog.ru/45-android_china_unicom"><h2>Расчет стоимости услуг</h2><div
+id="rsform_error_3" style="display: none;"><p
+class="formRed">Пожалуйста заполните все необходимые поля!</p></div><fieldset
+class="formHorizontal formContainer" id="rsform_3_page_0"><div
+class="rsform-block rsform-block-tabs"><div
+class="formControlLabel">Услуги</div><div
+class="formControls"><div
+class="formBody"><input
+type="checkbox"  name="form[tabs][]" value="Установка системы" id="tabs0" class="rsform-checkbox" /><label
+for="tabs0">Установка системы</label><input
+type="checkbox"  name="form[tabs][]" value="Удаление вирусов" id="tabs1" class="rsform-checkbox" /><label
+for="tabs1">Удаление вирусов</label><input
+type="checkbox"  name="form[tabs][]" value="Установка программ" id="tabs2" class="rsform-checkbox" /><label
+for="tabs2">Установка программ</label><input
+type="checkbox"  name="form[tabs][]" value="Установка драйверов" id="tabs3" class="rsform-checkbox" /><label
+for="tabs3">Установка драйверов</label><input
+type="checkbox"  name="form[tabs][]" value="Чистка от пыли" id="tabs4" class="rsform-checkbox" /><label
+for="tabs4">Чистка от пыли</label><input
+type="checkbox"  name="form[tabs][]" value="Замена термопасты" id="tabs5" class="rsform-checkbox" /><label
+for="tabs5">Замена термопасты</label><input
+type="checkbox"  name="form[tabs][]" value="Установка антивируса" id="tabs6" class="rsform-checkbox" /><label
+for="tabs6">Установка антивируса</label><span
+class="formValidation"><span
+id="component33" class="formNoError">Invalid Input</span></span></div><p
+class="formDescription"></p></div></div><div
+class="rsform-block rsform-block-tabs2"><div
+class="formControlLabel">Услуги</div><div
+class="formControls"><div
+class="formBody"><input
+type="checkbox"  name="form[tabs2][]" value="Установка MS Office" id="tabs20" class="rsform-checkbox" /><label
+for="tabs20">Установка MS Office</label><input
+type="checkbox"  name="form[tabs2][]" value="Смазка кулера" id="tabs21" class="rsform-checkbox" /><label
+for="tabs21">Смазка кулера</label><input
+type="checkbox"  name="form[tabs2][]" value="Программная чистка" id="tabs22" class="rsform-checkbox" /><label
+for="tabs22">Программная чистка</label><input
+type="checkbox"  name="form[tabs2][]" value="Восстановление ЖД" id="tabs23" class="rsform-checkbox" /><label
+for="tabs23">Восстановление ЖД</label><input
+type="checkbox"  name="form[tabs2][]" value="Настройка роутера" id="tabs24" class="rsform-checkbox" /><label
+for="tabs24">Настройка роутера</label><input
+type="checkbox"  name="form[tabs2][]" value="Апгрейд компьютера" id="tabs25" class="rsform-checkbox" /><label
+for="tabs25">Апгрейд компьютера</label><input
+type="checkbox"  name="form[tabs2][]" value="Оптимизация системы" id="tabs26" class="rsform-checkbox" /><label
+for="tabs26">Оптимизация системы</label><span
+class="formValidation"><span
+id="component37" class="formNoError">Invalid Input</span></span></div><p
+class="formDescription"></p></div></div><div
+class="rsform-block rsform-block-tabs3"><div
+class="formControlLabel">Услуги</div><div
+class="formControls"><div
+class="formBody"><input
+type="checkbox"  name="form[tabs3][]" value="Установка системы (Windows, Mac OS)" id="tabs30" class="rsform-checkbox" /><label
+for="tabs30">Установка системы (Windows, Mac OS)</label><input
+type="checkbox"  name="form[tabs3][]" value="Чистка от вирусов" id="tabs31" class="rsform-checkbox" /><label
+for="tabs31">Чистка от вирусов</label><input
+type="checkbox"  name="form[tabs3][]" value="Чистка от пыли" id="tabs32" class="rsform-checkbox" /><label
+for="tabs32">Чистка от пыли</label><span
+class="formValidation"><span
+id="component34" class="formNoError">Invalid Input</span></span></div><p
+class="formDescription"></p></div></div><div
+class="rsform-block rsform-block-phone"><div
+class="formControlLabel"> Телефон<strong
+class="formRequired">(*)</strong></div><div
+class="formControls"><div
+class="formBody"><input
+type="text" value="" size="20" placeholder="Ваш телефон" name="form[phone]" id="phone" class="rsform-input-box" /><span
+class="formValidation"><span
+id="component35" class="formNoError">Неверный ввод</span></span></div><p
+class="formDescription"></p></div></div><div
+class="rsform-block rsform-block-metro"><div
+class="formControlLabel">Метро<strong
+class="formRequired">(*)</strong></div><div
+class="formControls"><div
+class="formBody"><input
+type="text" value="" size="20" placeholder="Ваше метро" name="form[metro]" id="metro" class="rsform-input-box" /><span
+class="formValidation"><span
+id="component36" class="formNoError">Неверный ввод</span></span></div><p
+class="formDescription"></p></div></div><div
+class="rsform-block rsform-block-sub"><div
+class="formControlLabel"></div><div
+class="formControls"><div
+class="formBody"><button
+type="submit" name="form[sub]" id="sub" class="rsform-submit-button" >Заказать</button><span
+class="formValidation"></span></div><p
+class="formDescription"></p></div></div></fieldset>
+<input
+type="hidden" name="form[formId]" value="3"/></form><script type="text/javascript">RSFormPro.Ajax.URL = "\/rsform?task=ajaxValidate";</script><script type="text/javascript">rsfp_addEvent(window, 'load', function(){var form = rsfp_getForm(3); 
+			var submitElement = RSFormPro.getElementByType(3, 'submit');
+			for (i = 0; i < submitElement.length; i++) {
+				if (RSFormProUtils.hasClass(submitElement[i],'rsform-submit-button')) {
+					RSFormProUtils.addEvent(submitElement[i],'click', (function(event) {
+							event.preventDefault();
+							RSClickedSubmitElement = this;
+							for (j = 0; j < submitElement.length; j++) {
+								submitElement[j].setAttribute('data-disableonsubmit','1');
+							}
+							ajaxValidation(form, undefined);
+					}));
+				}
+			}
+			});</script> <script type="text/javascript">ajaxExtraValidationScript[3] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[33]='tabs';formComponents[37]='tabs2';formComponents[34]='tabs3';formComponents[35]='phone';formComponents[36]='metro';
+ajaxDisplayValidationErrors(formComponents, task, formId, data);
+};</script></div></div></div></div></div></div>
+<aside
+id="jm-left" class="span4 offset-12" data-xtablet="span12 first-span" data-tablet="span12 first-span" data-mobile="span12 first-span"><div
+class=""><div
+class="jm-module  color1-ms nav menu"><div
+class="jm-module-in"><div
+class="jm-module-content clearfix notitle"><ul
+class="nav menu"><li
+class="item-117 active"><a
+href="/" ><img src="/images/ico/Administrative_Tools-64.png" alt="Компьютерная помощь" /><span
+class="image-title">Компьютерная помощь</span> </a></li><li
+class="item-118"><a
+href="/remont-i-nastrojka-kompyuterov-v-moskve" ><img src="/images/ico/My_Computer-64.png" alt="Ремонт и настройка компьютеров" /><span
+class="image-title">Ремонт и настройка компьютеров</span> </a></li><li
+class="item-119"><a
+href="/remont-noutbukov" ><img src="/images/ico/Laptop2.png" alt="Ремонт ноутбуков" /><span
+class="image-title">Ремонт ноутбуков</span> </a></li><li
+class="item-120"><a
+href="/zamena-matritsy-noutbuka-v-moskve" ><img src="/images/ico/Matrix.png" alt="Замена матрицы ноутбука" /><span
+class="image-title">Замена матрицы ноутбука</span> </a></li><li
+class="item-121"><a
+href="/sborka-kompyuterov-na-zakaz-v-moskve-v-sankt-peterburge-sborka-sistemnogo-bloka" ><img src="/images/ico/document-properties.png" alt="Сборка компьютеров на заказ" /><span
+class="image-title">Сборка компьютеров на заказ</span> </a></li><li
+class="item-122"><a
+href="/modernizatsiya-kompyuterov-i-noutbukov-v-moskve" ><img src="/images/ico/My_Computer-64.png" alt="Модернизация компьютеров" /><span
+class="image-title">Модернизация компьютеров</span> </a></li><li
+class="item-123"><a
+href="/nastrojka-podklyucheniya-k-internetu-v-moskve" ><img src="/images/ico/network-workgroup.png" alt="Настройка подключения к интернету" /><span
+class="image-title">Настройка подключения к интернету</span> </a></li><li
+class="item-124"><a
+href="/nastrojka-routera-v-moskve" ><img src="/images/ico/gnome-netstatus-0-24.png" alt="Настройка роутера" /><span
+class="image-title">Настройка роутера</span> </a></li><li
+class="item-125"><a
+href="/sozdanie-i-nastrojka-lokalnoj-seti-v-moskve" ><img src="/images/ico/server.png" alt="Создание и настройка локальной сети" /><span
+class="image-title">Создание и настройка локальной сети</span> </a></li><li
+class="item-126"><a
+href="/nastrojka-wi-fi-seti-v-moskve" ><img src="/images/ico/wlassistant.png" alt="Настройка Wi-Fi сети" /><span
+class="image-title">Настройка Wi-Fi сети</span> </a></li><li
+class="item-127"><a
+href="/vosstanovlenie-dannykh-v-moskve" ><img src="/images/ico/bookmarks_list_add.png" alt="Восстановление данных в Москве" /><span
+class="image-title">Восстановление данных в Москве</span> </a></li><li
+class="item-128"><a
+href="/autsorsing-it-uslug-it-autsorsing-v-moskve" ><img src="/images/ico/gnome-laptop.png" alt="Аутсорсинг ИТ-услуг" /><span
+class="image-title">Аутсорсинг ИТ-услуг</span> </a></li><li
+class="item-129"><a
+href="/russian" ><img src="/images/ico/Administrative_Tools-64.png" alt="Абонентское обслуживание компьютеров" /><span
+class="image-title">Абонентское обслуживание компьютеров</span> </a></li><li
+class="item-324"><a
+href="/remont-monitorov-v-moskve-vyzov-mastera-na-dom" ><img src="/images/3.png" alt="Ремонт мониторов и телевизоров" /><span
+class="image-title">Ремонт мониторов и телевизоров</span> </a></li><li
+class="item-325"><a
+href="/remont-asic-majnerov-v-moskve-na-domu" ><img src="/images/Без_названия.jpg" alt="Ремонт ASIC майнеров" /><span
+class="image-title">Ремонт ASIC майнеров</span> </a></li></ul></div></div></div><div
+class="jm-module "><div
+class="jm-module-in"><h3 class="jm-title "><span>Контакты</span></h3><div
+class="jm-module-content clearfix "><div
+class="custom"  >
+<span
+id="suico_69a48fb1d90f9" class="su-icon square-size"><i
+class="fa fa-globe"></i></span>г. Москва</p>
+<span
+id="suico_69a48fb1d9196" class="su-icon square-size"><i
+class="fa fa-subway"></i></span> Метро: Ленинский пр. Ленинский пр. 104</p>
+<span
+id="suico_69a48fb1d9212" class="su-icon square-size"><i
+class="fa fa-subway"></i></span>Метро: Кр.Ворота ул.Новая Басманная 12</p>
+<span
+id="suico_69a48fb1d9287" class="su-icon square-size"><i
+class="fa fa-phone"></i></span>Тел. 8(499) 322-75-12</p>
+<span
+id="suico_69a48fb1d92fa" class="su-icon square-size"><i
+class="fa fa-envelope-o"></i></span> <span
+id="cloakb8c5cd4a39b13fe595925865a246a855">Этот адрес электронной почты защищён от спам-ботов. У вас должен быть включен JavaScript для просмотра.</span><script type='text/javascript'>document.getElementById('cloakb8c5cd4a39b13fe595925865a246a855').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addyb8c5cd4a39b13fe595925865a246a855 = 'E-m&#97;&#105;l2255769' + '&#64;';
+				addyb8c5cd4a39b13fe595925865a246a855 = addyb8c5cd4a39b13fe595925865a246a855 + 'c&#111;mp&#117;l&#111;g' + '&#46;' + 'r&#117;';
+				var addy_textb8c5cd4a39b13fe595925865a246a855 = 'E-m&#97;&#105;l: 2255769@c&#111;mp&#117;l&#111;g.r&#117;';document.getElementById('cloakb8c5cd4a39b13fe595925865a246a855').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyb8c5cd4a39b13fe595925865a246a855 + '\'>'+addy_textb8c5cd4a39b13fe595925865a246a855+'<\/a>';</script></p>
+<span
+id="suico_69a48fb1d9368" class="su-icon square-size"><i
+class="fa fa-clock-o"></i></span>Время работы сервиса: Пн–Вс: 9:00–20:00</p></div></div></div></div></div>
+</aside></div></div>
+</section>
+<section
+id="jm-footer-mod" class=""><div
+class="container-fluid"><div
+id="jm-footer-mod-in"><div
+class="row-fluid jm-flexiblock jm-footer-mod"><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100" data-mobile="span100"><div
+class="jm-module "><div
+class="jm-module-in"><h3 class="jm-title "><span>Полезное</span></h3><div
+class="jm-module-content clearfix "><ul
+class="nav menu-foot-nav jm-light"><li
+class="item-213"><a
+href="/chastye-polomki/" >Частые поломки</a></li><li
+class="item-226"><a
+href="/otzyvy" >Отзывы</a></li><li
+class="item-227"><a
+href="/vopros-otvet" >Вопрос-ответ</a></li><li
+class="item-228"><a
+href="/help-online" >Помощь онлайн</a></li><li
+class="item-239"><a
+href="/gde-my-rabotaem-rayony-moskwa" >Где мы работаем</a></li><li
+class="item-252"><a
+href="/gde-my-rabotaem" >Выезд за МКАД</a></li><li
+class="item-253"><a
+href="/uslugi/" >Услуги</a></li><li
+class="item-254"><a
+href="/obmen-opytom/" >Обмен опытом</a></li><li
+class="item-255"><a
+href="/sinij-ekran-bsd-oshibki/" >Частые ошибки</a></li><li
+class="item-256"><a
+href="/remont-apple/" >Ремонт техники Apple</a></li></ul></div></div></div></div><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100 first-span" data-mobile="span100 first-span"><div
+class="jm-module "><div
+class="jm-module-in"><h3 class="jm-title "><span>Услуги</span></h3><div
+class="jm-module-content clearfix "><div
+class="custom"  ><p>Настройка нового ноутбука 1800 руб.</p><p>Настройка нового iPhone &nbsp;1800 руб.</p><p>Чистка от пыли Apple от &nbsp;2500 руб.</p><p>Установка пакет программ - 1500&nbsp;руб.</p></div></div></div></div></div><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100 first-span" data-mobile="span100 first-span"><div
+class="jm-module "><div
+class="jm-module-in"><h3 class="jm-title "><span>Нижнее</span> меню</h3><div
+class="jm-module-content clearfix "><ul
+class="nav menu-foot-nav jm-light"><li
+class="item-131 active"><a
+href="/" >Главная</a></li><li
+class="item-132"><a
+href="/o-kompanii-master-servis-moskva" >О компании</a></li><li
+class="item-133"><a
+href="/nashi-vakansii-v-moskve" >Вакансии</a></li><li
+class="item-134"><a
+href="/kak-s-nami-svyazatsya" >Online заказ</a></li><li
+class="item-135"><a
+href="/metro" >Метро</a></li><li
+class="item-188"><a
+href="/kompyuternaya-bezopasnost" >Публикации</a></li><li
+class="item-146"><a
+href="/yumor/" >Юмор</a></li><li
+class="item-217"><a
+href="/maps" >Карта сайта</a></li></ul></div></div></div></div><div
+class="span3"  data-default="span3" data-wide="span3" data-normal="span3" data-xtablet="span3" data-tablet="span100 first-span" data-mobile="span100 first-span"><div
+class="jm-module "><div
+class="jm-module-in"><h3 class="jm-title "><span>Контакты</span></h3><div
+class="jm-module-content clearfix "><div
+class="custom"  >
+<span
+id="suico_69a48fb1dcb3d" class="su-icon square-size"><i
+class="fa fa-globe"></i></span>г. Москва<br
+/> <span
+id="suico_69a48fb1dcbcc" class="su-icon square-size"><i
+class="fa fa-subway"></i></span> Метро: Ленинский пр. Ленинский пр. 104<br
+/> <span
+id="suico_69a48fb1dcc48" class="su-icon square-size"><i
+class="fa fa-subway"></i></span>Метро: Кр.Ворота ул.Новая Басманная 12<br
+/> <span
+id="suico_69a48fb1dccba" class="su-icon square-size"><i
+class="fa fa-phone"></i></span>&nbsp;<b>8(499) 322-75-12</b></p>
+<span
+id="suico_69a48fb1dcd2a" class="su-icon square-size"><i
+class="fa fa-envelope-o"></i></span> <span
+id="cloak5b8dd8566c8fb3426bb0a2322e115eb2">Этот адрес электронной почты защищён от спам-ботов. У вас должен быть включен JavaScript для просмотра.</span><script type='text/javascript'>document.getElementById('cloak5b8dd8566c8fb3426bb0a2322e115eb2').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy5b8dd8566c8fb3426bb0a2322e115eb2 = '2255769' + '&#64;';
+				addy5b8dd8566c8fb3426bb0a2322e115eb2 = addy5b8dd8566c8fb3426bb0a2322e115eb2 + 'c&#111;mp&#117;l&#111;g' + '&#46;' + 'r&#117;';
+				var addy_text5b8dd8566c8fb3426bb0a2322e115eb2 = '2255769' + '&#64;' + 'c&#111;mp&#117;l&#111;g' + '&#46;' + 'r&#117;';document.getElementById('cloak5b8dd8566c8fb3426bb0a2322e115eb2').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy5b8dd8566c8fb3426bb0a2322e115eb2 + '\'>'+addy_text5b8dd8566c8fb3426bb0a2322e115eb2+'<\/a>';</script><br
+/> <span
+id="suico_69a48fb1dcd99" class="su-icon square-size"><i
+class="fa fa-clock-o"></i></span>Время работы: Пн–Вс: 9:00–20:00</p>
+<a
+id="suico_69a48fb1dce08" href="http://vk.com/compulog" class="su-icon square-size" target="_blank"><i
+class="fa fa-vk"></i></a>&nbsp;<noindex><a
+id="suico_69a48fb1dce7c" href="https://twitter.com/compulogRu" class="su-icon square-size" target="_blank" rel="nofollow" ><i
+class="fa fa-twitter"></i></a></noindex>&nbsp;<noindex><a
+id="suico_69a48fb1dcef2" href="https://www.facebook.com/compulog.ru" class="su-icon square-size" target="_blank" rel="nofollow" ><i
+class="fa fa-facebook-f"></i></a></noindex> <noindex><a
+id="suico_69a48fb1dcf68" href="https://www.instagram.com/compulog.ru" class="su-icon square-size" target="_blank" rel="nofollow" ><i
+class="fa fa-instagram"></i></a></noindex><p>&nbsp;</p>
+<span
+id="suico_69a48fb1dcfda" class="su-icon square-size"><i
+class="fa fa-cc-visa"></i></span>&nbsp;<span
+id="suico_69a48fb1dd04a" class="su-icon square-size"><i
+class="fa fa-cc-mastercard"></i></span> &nbsp; Можно оплатить по карте</p></div></div></div></div></div></div></div></div>
+</section>
+<footer
+id="jm-footer" class=""><div
+class="container-fluid clearfix jm-footer"><div
+id="jm-footer-in" class="row-fluid"><div
+id="jm-footer-left" class="span4 pull-left "><div
+id="jm-copyrights"><div
+class="custom"  ><p>©&nbsp;Компьютерная скорая помощь в Москве</p></div></div></div><div
+id="jm-footer-right" class="span4 pull-right"><div
+id="jm-poweredby"></div></div></div></div>
+</footer><div
+id="jm-debug"><div
+class="container-fluid"><div
+class="row-fluid"><ul
+class="nav menu"><li
+class="item-264"><a
+href="/rajon/" >Районы</a></li><li
+class="item-292"><a
+href="/uncategorised/" >Без категории</a></li></ul></div></div></div></div></div></body></html>

@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Христианские песни с аккордами | СПЕВКА - христианские слова песен, ноты, тексты, фонограммы, музыка | Песни прославления</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="spevka, spevka.com, спевка, спевка.ком, христианские песни, христианские аккорды, слушать христианские песни, 
+христианский сайт, фонограммы, христианские песни прослушать, аккорды христианских песен, христианские песни аккорды, христианские песни онлайн, христианские песни с аккордами, слова, песни прославления, христианские песни ноты, ноты христианских песен, христианские песни с нотами" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="google-site-verification" content="8alfE8hv7tGb9uuqcCn49ZaaZJLsLnof8dyyZUntCEA" />
+	<meta name="yandex-verification" content="6bf7996de7e1816b" />
+	
+	<script data-ad-client="ca-pub-3542385242669719" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+	<link rel="shortcut icon" type="images/x-icon" href="/css/favicon.ico" />
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+	<link rel="stylesheet" href="/css/style.css" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <script type="text/javascript" src="/js/scripts.js"></script>
+	<script type="text/javascript" src="/js/check.js"></script>
+</head>
+<body id="top">
+
+<div class="conteiner" id="container">
+	<div class="fix">
+		<div class="header">
+			<div class="ico">
+				<a href="/" title="Главная"><img src="/img/ico1.gif" width="11" height="10" alt="" /></a>
+				<a href="/kontakty/" title="Контакты"><img src="/img/ico2.gif" width="12" height="10" alt="" /></a>
+				<a href="/karta-sajta/" title="Карта сайта"><img src="/img/ico3.gif" width="17" height="10" alt="" /></a>
+			</div>
+			
+			<ul>
+
+				<li class="add_user_song">
+					<a href="/add_user_song/">Добавить свою песню</a>
+				</li>
+				<li><a href="/pesni/">Список песен</a></li>
+				<li><a href="/ispolniteli/">Исполнители</a></li>
+				<li><a href="/albomy/">Альбомы</a></li>
+				<li><a href="/poisk-pesen/">Найти песню</a></li>
+				<li><a href="/gostevaja-kniga/">Заказать песню</a></li>
+			</ul>
+			
+		</div><!-- /header -->
+    </div>
+    
+    <div class="flakes">
+	<div class="header2">
+    	<div class="bg_head">
+        	<div class="wrap">
+				
+				<div class="logo">
+					<a href="/" title="СПЕВКА - Христиаснкие песни с аккордами"><img src="/logo.png" width="195" height="42" alt="СПЕВКА - Христиаснкие песни с аккордами" title="СПЕВКА - Христиаснкие песни с аккордами" /></a><br/>
+				</div>
+				
+								<div class="search">
+					<form method="GET" action="/poisk-pesen/">
+						<div class="inp">
+							<input type="text" placeholder=" Что-то ищете?" id="search" name="q" />
+						</div>
+						<input type="submit" class="subm" value="" />
+					</form>
+				</div>
+				
+            </div>
+            
+          
+            <div class="sion">
+				
+				
+				<div class="about">
+					<img src="/sirota.png" style="float: left; max-height: 130px; margin-right: 10px;" />
+					
+					<b style="color: #c10010; font-size: 18px; line-height: 38px;">Подарите сиротам радость Рождества</b> <br/>
+					 <p>Подари праздник 100 детям сиротам в Молдове.<br/>
+					 <strong>(собрано 15$ из 1000$)</strong></p>
+					 
+					 <p>
+					     01. PayPal: <a href="https://paypal.me/spevka" target="_blank" class="button">stascosovan@gmail.com</a><br/> 
+					     02. WebMoney: <a class="button">R113443057578</a> / <a class="button">Z340087626538</a><br/> 
+					     03. Денежный перевод <i>(пишите на: stascosovan@gmail.com)</i><br/>
+					 </p>
+				</div>
+			
+			</div>
+		
+			
+<!--			<br/><br/>-->
+			
+<!--			<div align="center" style="display:inline;">-->
+			
+<!--			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+<!-- Spevka 10 -->
+<!--<ins class="adsbygoogle"-->
+<!--style="display:inline-block;width:728px;height:90px"-->
+<!--data-ad-client="ca-pub-3542385242669719"-->
+<!--data-ad-slot="4105592910"></ins>-->
+<!--<script>-->
+<!--(adsbygoogle = window.adsbygoogle || []).push({});-->
+<!--</script>-->
+<!--</div>-->
+                        
+			<div class="auth">
+			            
+				<form method="post" action="/">
+            		<div class="lft">
+                        <div class="inp"><input type="text" value="Ваш логин" onblur="if(this.value=='') this.value='Ваш логин';" onfocus="if(this.value=='Ваш логин') this.value='';" name="login" /></div>
+                        <div class="inp pass"><input type="password" value="Ваш пароль" onblur="if(this.value=='') this.value='Ваш пароль';" onfocus="if(this.value=='Ваш пароль') this.value='';" name="password" /></div>
+                       
+                        <div class="href">
+                        	<a href="/registracija/">Регистрация аккаунта</a><br/>
+<!--							<a href="/vosstanovit-dannye/">Восстановить данные</a>-->
+                        </div>                        
+                        
+                    </div>
+                    <div class="subm"><input type="submit" value="" name="enter" /></div>
+                </form>
+			</div> 
+						
+        </div>
+    </div><!-- /header2 -->
+	</div>
+    
+    <div class="menu">
+        
+        <ul class="lft">
+        <li><a href="/pesni-bukva/1/">А</a></li>
+		<li><a href="/pesni-bukva/2/">Б</a></li>
+		<li><a href="/pesni-bukva/3/">В</a></li>
+		<li><a href="/pesni-bukva/4/">Г</a></li>
+		<li><a href="/pesni-bukva/5/">Д</a></li>
+		<li><a href="/pesni-bukva/6/">Е</a></li>
+		<li><a href="/pesni-bukva/8/">Ж</a></li>
+		<li><a href="/pesni-bukva/9/">З</a></li>
+		<li><a href="/pesni-bukva/10/">И</a></li>
+		<li><a href="/pesni-bukva/12/">К</a></li>
+		<li><a href="/pesni-bukva/13/">Л</a></li>
+		<li><a href="/pesni-bukva/14/">М</a></li>
+		<li><a href="/pesni-bukva/15/">Н</a></li>
+		<li><a href="/pesni-bukva/16/">О</a></li>
+		<li><a href="/pesni-bukva/17/">П</a></li>
+		<li><a href="/pesni-bukva/18/">Р</a></li>
+		<li><a href="/pesni-bukva/19/">С</a></li>
+		<li><a href="/pesni-bukva/20/">Т</a></li>
+		<li><a href="/pesni-bukva/21/">У</a></li>
+		<li><a href="/pesni-bukva/22/">Ф</a></li>
+		<li><a href="/pesni-bukva/23/">Х</a></li>
+		<li><a href="/pesni-bukva/24/">Ц</a></li>
+		<li><a href="/pesni-bukva/25/">Ч</a></li>
+		<li><a href="/pesni-bukva/26/">Ш</a></li>
+		<li><a href="/pesni-bukva/27/">Щ</a></li>
+		<li><a href="/pesni-bukva/28/">Э</a></li>
+		<li><a href="/pesni-bukva/29/">Ю</a></li>
+		<li class="last"><a href="/pesni-bukva/30/">Я</a></li>
+        </ul>
+        
+        <ul class="rght">
+		<li><a href="/pesni-bukva/31/">A</a></li>
+		<li><a href="/pesni-bukva/32/">B</a></li>
+		<li><a href="/pesni-bukva/33/">C</a></li>
+		<li><a href="/pesni-bukva/34/">D</a></li>
+		<li><a href="/pesni-bukva/35/">E</a></li>
+		<li><a href="/pesni-bukva/36/">F</a></li>
+		<li><a href="/pesni-bukva/37/">G</a></li>
+		<li><a href="/pesni-bukva/38/">H</a></li>
+		<li><a href="/pesni-bukva/39/">I</a></li>
+		<li><a href="/pesni-bukva/40/">J</a></li>
+		<li><a href="/pesni-bukva/41/">K</a></li>
+		<li><a href="/pesni-bukva/42/">L</a></li>
+		<li><a href="/pesni-bukva/43/">M</a></li>
+		<li><a href="/pesni-bukva/44/">N</a></li>
+		<li><a href="/pesni-bukva/45/">O</a></li>
+		<li><a href="/pesni-bukva/46/">P</a></li>
+		<li><a href="/pesni-bukva/47/">Q</a></li>
+		<li><a href="/pesni-bukva/48/">R</a></li>
+		<li><a href="/pesni-bukva/49/">S</a></li>
+		<li><a href="/pesni-bukva/50/">T</a></li>
+		<li><a href="/pesni-bukva/51/">U</a></li>
+		<li><a href="/pesni-bukva/52/">V</a></li>
+		<li><a href="/pesni-bukva/53/">W</a></li>
+		<li><a href="/pesni-bukva/54/">X</a></li>
+		<li><a href="/pesni-bukva/55/">Y</a></li>
+		<li><a href="/pesni-bukva/56/">Z</a></li>
+        </ul>
+         
+        <div class="all_list"><a href="/pesni/"><div class="img"></div></a></div>
+    </div><!-- /menu -->
+    
+    
+    
+    <div class="column left">
+	
+	
+	  
+
+		<h4>Меню сайта</h4>
+        <ul class="site_menu">
+			<li><a href="/" title="Новости сайта христианских песен">Главная страница</a></li>
+<li><a href="/novosti/" title="Новости сайта христианских песен">Последние поступления</a></li>
+			<li><a href="/ispolniteli/" title="Христианские исполнители, певцы и группы">Исполнители</a></li>
+        	<li><a href="/albomy/" title="Христианские альбомы, новые и лучшие альбомы">Альбомы</a></li>
+        	<li class="father"><a href="/pesni/" title="Тексты христианских песен">Все песни</a></li>
+			<li class="child"><a href="/novye-pesni/" title="Новые христианские песни на сайте">Новинки</a></li>
+			<li class="child"><a href="/reiting-pesen/" title="Рейтинговые христианские песни на сайте">Рейтинговые</a></li>
+			<li class="child"><a href="/top-pesni/" title="Популярные христианские песни на сайте">Популярные</a></li>
+			<li class="child"><a href="/skachivaemye-pesni/" title="Скачиваемые христианские песни на сайте">Скачиваемые</a></li>
+			<li class="child"><a href="/po-temam/" title="Христианские песни по темам">По темам</a></li>
+        	<li class="child"><a href="/po-jazykam/" title="Христианские песни по темам">По языкам</a></li>
+        	<li><a href="/poisk-pesen/" title="Поиск христианских песен с аккордами, словами и примером исполнения">Поиск по сайту</a></li>
+			<li><a href="/gostevaja-kniga/" title="Гостевая книга христианского сайта">Заказать песню</a></li>
+        </ul>
+		
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spevka 2 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:100%;height:600px"
+data-ad-client="ca-pub-3542385242669719"
+data-ad-slot="2662777715"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+		<h4>Дополнительное</h4>
+        <ul class="site_menu">
+			<li><a href="/biblija/" title="Онлайн Библия">Онлайн Библия</a></li>
+			<li><a href="/generator-akkordov/" title="Генератор аккордов">Генератор аккордов</a></li>
+		</ul>
+		
+		<h4>Песни на тему</h4>
+        <ul class="site_menu top_menu">
+		
+		<li><div class="name"><span></span> <a title="Христианские песни на тему Без темы" href="/po-temam/bez-temy-19/">Без темы</a></div> <div class="songs">38</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Благодарение" href="/po-temam/blagodarenie-2/">Благодарение</a></div> <div class="songs">26</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Божья любовь" href="/po-temam/bozhja-ljubov-3/">Божья любовь</a></div> <div class="songs">69</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Второе пришествие" href="/po-temam/vtoroe-prishestvie-16/">Второе пришествие</a></div> <div class="songs">13</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Детские" href="/po-temam/detskie-10/">Детские</a></div> <div class="songs">18</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Для общего пения" href="/po-temam/dlja-obshhego-penija-7/">Для общего пения</a></div> <div class="songs">12</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Жатва" href="/po-temam/zhatva-20/">Жатва</a></div> <div class="songs">3</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Жизнь христианина" href="/po-temam/zhizn-hristianina-6/">Жизнь христианина</a></div> <div class="songs">100</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Молитва и поклонение" href="/po-temam/molitva-i-poklonenie-1/">Молитва и поклонение</a></div> <div class="songs">58</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Новый Год" href="/po-temam/novyj-god-13/">Новый Год</a></div> <div class="songs">1</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему О дружбе" href="/po-temam/o-druzhbe-8/">О дружбе</a></div> <div class="songs">3</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Пасхальные" href="/po-temam/pashalnye-17/"><b>Пасхальные</b></a></div> <div class="songs">9</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Призыв к покаянию" href="/po-temam/prizyv-k-pokajaniju-4/">Призыв к покаянию</a></div> <div class="songs">54</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Призыв к труду" href="/po-temam/prizyv-k-trudu-5/">Призыв к труду</a></div> <div class="songs">11</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Рождество" href="/po-temam/rozhdestvo-12/">Рождество</a></div> <div class="songs">44</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Свадебные" href="/po-temam/svadebnye-11/">Свадебные</a></div> <div class="songs">11</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Семейные" href="/po-temam/semejnye-9/">Семейные</a></div> <div class="songs">16</div></li><li><div class="name"><span></span> <a title="Христианские песни на тему Страдание и смерть Христа" href="/po-temam/stradanie-i-smert-hrista-14/">Страдание и смерть Христа</a></div> <div class="songs">54</div></li>		
+		</ul>
+		
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spevka 2 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:width:100%;height:600px"
+data-ad-client="ca-pub-3542385242669719"
+data-ad-slot="2662777715"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+	</div><!-- /left -->
+	
+
+	<div class="column right">
+	
+	
+		
+
+
+
+
+		<h4>Новые христианские песни</h4>
+        <ul class="site_menu top_menu more">
+		<li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Isus e destinatia" href="/pesni/isus-e-destinatia-570/">Isus e destinatia</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Бог мой, Ты скала моя" href="/pesni/bog-moj-ty-skala-moja-542/">Бог мой, Ты скала моя</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Источник жизни" href="/pesni/istochnik-zhizni-541/">Источник жизни</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня В развалинах забытых городов" href="/pesni/v-razvalinah-zabytyh-gorodov-540/">В развалинах забытых городов</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Только Ты" href="/pesni/tolko-ty-538/">Только Ты</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Мы будем славить" href="/pesni/my-budem-slavit-537/">Мы будем славить</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Молитвы матери" href="/pesni/molitvy-materi-536/">Молитвы матери</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Я верю мой Бог" href="/pesni/ja-verju-moj-bog-535/">Я верю мой Бог</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Бог мой,Ты скала моя" href="/pesni/bog-mojty-skala-moja-534/">Бог мой,Ты скала моя</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Мой Иисус живой" href="/pesni/moj-iisus-zhivoj-533/">Мой Иисус живой</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Поклоняюсь Тебе" href="/pesni/poklonjajus-tebe-532/">Поклоняюсь Тебе</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Как Прекрасно Всё То Что Твоё" href="/pesni/kak-prekrasno-vse-to-chto-tvoe-531/">Как Прекрасно Всё То Что Твоё</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Я Не Боюсь, Мой Бог Со Мной" href="/pesni/ja-ne-bojus-moj-bog-so-mnoj-530/">Я Не Боюсь, Мой Бог Со Мной</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Иисус, Ты Любовь Моя" href="/pesni/iisus-ty-ljubov-moja-529/">Иисус, Ты Любовь Моя</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Очисти Меня" href="/pesni/ochisti-menja-528/">Очисти Меня</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Любовь Приходит Незаметно" href="/pesni/ljubov-prihodit-nezametno-526/">Любовь Приходит Незаметно</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Поклонюсь Тебе, Иисус" href="/pesni/poklonjus-tebe-iisus-525/">Поклонюсь Тебе, Иисус</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Я хочу с Тобой поговорить" href="/pesni/ja-hochu-s-toboj-pogovorit-524/">Я хочу с Тобой поговорить</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Ангелы в небе Господа славят" href="/pesni/angely-v-nebe-gospoda-slavjat-523/">Ангелы в небе Господа славят</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня 41 Гимн" href="/pesni/41-gimn-522/">41 Гимн</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня ОЧИСТИ МЕНЯ" href="/pesni/ochisti-menja-521/">ОЧИСТИ МЕНЯ</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Father God, I Wonder" href="/pesni/father-god-i-wonder-520/">Father God, I Wonder</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Я на свити прожыв" href="/pesni/ja-na-sviti-prozhyv-518/">Я на свити прожыв</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня О мире в мире много говорят" href="/pesni/o-mire-v-mire-mnogo-govorjat-517/">О мире в мире много говорят</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Мосты любви" href="/pesni/mosty-ljubvi-516/">Мосты любви</a></li>		</ul>
+		
+		<h4>Обновлённые песни</h4>
+        <ul class="site_menu top_menu more">
+		<li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Живи и помни" href="/pesni/zhivi-i-pomni-24/">Живи и помни</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Бог мой, Ты скала моя" href="/pesni/bog-moj-ty-skala-moja-542/">Бог мой, Ты скала моя</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Ангелы в небе Господа славят" href="/pesni/angely-v-nebe-gospoda-slavjat-523/">Ангелы в небе Господа славят</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Поклоняюсь Тебе" href="/pesni/poklonjajus-tebe-532/">Поклоняюсь Тебе</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Иисус, Ты Любовь Моя" href="/pesni/iisus-ty-ljubov-moja-529/">Иисус, Ты Любовь Моя</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Поклонюсь Тебе, Иисус" href="/pesni/poklonjus-tebe-iisus-525/">Поклонюсь Тебе, Иисус</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Я на свити прожыв" href="/pesni/ja-na-sviti-prozhyv-518/">Я на свити прожыв</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Любовь Приходит Незаметно" href="/pesni/ljubov-prihodit-nezametno-526/">Любовь Приходит Незаметно</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Бог мой,Ты скала моя" href="/pesni/bog-mojty-skala-moja-534/">Бог мой,Ты скала моя</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Father God, I Wonder" href="/pesni/father-god-i-wonder-520/">Father God, I Wonder</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Молитвы матери" href="/pesni/molitvy-materi-536/">Молитвы матери</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Я Не Боюсь, Мой Бог Со Мной" href="/pesni/ja-ne-bojus-moj-bog-so-mnoj-530/">Я Не Боюсь, Мой Бог Со Мной</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Мой Иисус живой" href="/pesni/moj-iisus-zhivoj-533/">Мой Иисус живой</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Очисти Меня" href="/pesni/ochisti-menja-528/">Очисти Меня</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня О мире в мире много говорят" href="/pesni/o-mire-v-mire-mnogo-govorjat-517/">О мире в мире много говорят</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Мосты любви" href="/pesni/mosty-ljubvi-516/">Мосты любви</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня 41 Гимн" href="/pesni/41-gimn-522/">41 Гимн</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Только Ты" href="/pesni/tolko-ty-538/">Только Ты</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня ОЧИСТИ МЕНЯ" href="/pesni/ochisti-menja-521/">ОЧИСТИ МЕНЯ</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Бог Сына отдал" href="/pesni/bog-syna-otdal-289/">Бог Сына отдал</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Подойди поближе ко кресту" href="/pesni/podojdi-poblizhe-ko-krestu-499/">Подойди поближе ко кресту</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Jertfa Ta" href="/pesni/jertfa-ta-459/">Jertfa Ta</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Журавли" href="/pesni/zhuravli-2/">Журавли</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Это любовь две тропинки свела" href="/pesni/eto-ljubov-dve-tropinki-svela-49/">Это любовь две тропинки свела</a></li><li><img src="/img/new-blue.png" alt="new!" width="10px" /> <a title="Новая христианская песня Без Тебя" href="/pesni/bez-tebja-391/">Без Тебя</a></li>		</ul>
+		
+		<h4>ТОР христианских песен</h4>
+        <ul class="site_menu top_menu more">
+		<li><span><img style="margin:0 0 -5px -5px;" src="/img/medal-1.png" alt="Песня №1 - Журавли" title="Песня №1 - Журавли" width="18" /></span> <a title="Песня №1 - Журавли" href="/pesni/zhuravli-2/">Журавли</a></li><li><span><img style="margin:0 0 -5px -5px;" src="/img/medal-2.png" alt="Песня №2 - Совершенный Бог" title="Песня №2 - Совершенный Бог" width="18" /></span> <a title="Песня №2 - Совершенный Бог" href="/pesni/sovershennyj-bog-3/">Совершенный Бог</a></li><li><span><img style="margin:0 0 -5px -5px;" src="/img/medal-3.png" alt="Песня №3 - Ты с нами, Бог" title="Песня №3 - Ты с нами, Бог" width="18" /></span> <a title="Песня №3 - Ты с нами, Бог" href="/pesni/ty-s-nami-bog-6/">Ты с нами, Бог</a></li><li><span>4.</span> <a title="Песня №4 - Наш Бог Великий" href="/pesni/nash-bog-velikij-87/">Наш Бог Великий</a></li><li><span>5.</span> <a title="Песня №5 - Родителям" href="/pesni/roditeljam-9/">Родителям</a></li><li><span>6.</span> <a title="Песня №6 - Баллада о трёх сыновьях" href="/pesni/ballada-o-treh-synovjah-1/">Баллада о трёх сыновьях</a></li><li><span>7.</span> <a title="Песня №7 - Белый снег" href="/pesni/belyj-sneg-158/">Белый снег</a></li><li><span>8.</span> <a title="Песня №8 - С Рождеством тебя" href="/pesni/s-rozhdestvom-tebja-55/">С Рождеством тебя</a></li><li><span>9.</span> <a title="Песня №9 - Свадьба" href="/pesni/svadba-50/">Свадьба</a></li><li><span>10.</span> <a title="Песня №10 - Ты моя жемчужина, Иисус" href="/pesni/ty-moja-zhemchuzhina-iisus-115/">Ты моя жемчужина, Иисус</a></li><li><span>11.</span> <a title="Песня №11 - Яркая звёздочка на небе горит" href="/pesni/jarkaja-zvezdochka-na-nebe-gorit-170/">Яркая звёздочка на небе горит</a></li><li><span>12.</span> <a title="Песня №12 - Живая вода" href="/pesni/zhivaja-voda-31/">Живая вода</a></li><li><span>13.</span> <a title="Песня №13 - Вижу Бога каждый день" href="/pesni/vizhu-boga-kazhdyj-den-387/">Вижу Бога каждый день</a></li><li><span>14.</span> <a title="Песня №14 - Упала слеза" href="/pesni/upala-sleza-48/">Упала слеза</a></li><li><span>15.</span> <a title="Песня №15 - Звёзд дивные алмазы" href="/pesni/zvezd-divnye-almazy-51/">Звёзд дивные алмазы</a></li><li><span>16.</span> <a title="Песня №16 - Мамина молитва" href="/pesni/mamina-molitva-194/">Мамина молитва</a></li><li><span>17.</span> <a title="Песня №17 - Когда любовь приходит с неба" href="/pesni/kogda-ljubov-prihodit-s-neba-10/">Когда любовь приходит с неба</a></li><li><span>18.</span> <a title="Песня №18 - Альфа и Омега" href="/pesni/alfa-i-omega-92/">Альфа и Омега</a></li><li><span>19.</span> <a title="Песня №19 - Вифлеемская звезда" href="/pesni/vifleemskaja-zvezda-185/">Вифлеемская звезда</a></li><li><span>20.</span> <a title="Песня №20 - Хвалите, хвалите Бога небес" href="/pesni/hvalite-hvalite-boga-nebes-259/">Хвалите, хвалите Бога небес</a></li><li><span>21.</span> <a title="Песня №21 - Вот на свадьбу" href="/pesni/vot-na-svadbu-16/">Вот на свадьбу</a></li><li><span>22.</span> <a title="Песня №22 - Поздравляем" href="/pesni/pozdravljaem-95/">Поздравляем</a></li><li><span>23.</span> <a title="Песня №23 - Это любовь две тропинки свела" href="/pesni/eto-ljubov-dve-tropinki-svela-49/">Это любовь две тропинки свела</a></li><li><span>24.</span> <a title="Песня №24 - Наш Бог - Всемогущий Бог" href="/pesni/nash-bog-vsemogushhij-bog-15/">Наш Бог - Всемогущий Бог</a></li><li><span>25.</span> <a title="Песня №25 - В Христе одном надежда есть" href="/pesni/v-hriste-odnom-nadezhda-est-238/">В Христе одном надежда есть</a></li>		</ul>
+		
+		<!--noindex-->
+		
+        <h4>Друзья сайта</h4>
+        <div class="rate href">
+        	<div class="part">	
+				
+				<a href="https://sion.md/" title="Вокальная группа СИОН, ц. Вефиль, г. Кишинев, Республика Молдова" target="_blank">Группа "Сион"</a>
+				
+
+	
+			</div>
+		</div>     
+		
+		<!--/noindex-->
+		
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spevka 2 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:width:100%;height:600px"
+data-ad-client="ca-pub-3542385242669719"
+data-ad-slot="2662777715"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		
+		
+	</div><!-- /right -->
+
+
+	<div class="txt">
+	    
+	    
+	    <div align="center">
+	    <br/><br/>
+	        
+	        <iframe width="840" height="475" src="https://www.youtube.com/embed/HypgEaq3YTM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	        
+<!--	    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+<!-- Spevka 10 -->
+<!--<ins class="adsbygoogle"-->
+<!--style="display:inline-block;width:100%;height:200px"-->
+<!--data-ad-client="ca-pub-3542385242669719"-->
+<!--data-ad-slot="4105592910"></ins>-->
+<!--<script>-->
+<!--(adsbygoogle = window.adsbygoogle || []).push({});-->
+<!--</script>-->
+
+
+</div>
+</div>
+
+<!-- /txt -->
+
+	
+	<div class="txt">     
+		<h1>Христианские песни, аккорды, ноты и музыка</h1>
+        <div class="white">
+        <div class="white_padd">
+			
+			<div class="zagolovok">
+				<h2>Вы зашли на музыкальный христианский сайт SPEVKA.COM!</h2>
+			</div>
+			<p>
+				<img class="img-border" width="230" src="1.png" alt="Христианские песни с аккордами, ноты, фонограммы, музыка" title="Христианские песни с аккордами, ноты, фонограммы, музыка" />
+			
+						
+				Наш сайт «<strong>СПЕВКА</strong>» - это каталог <strong>христианских песен</strong>, как старых, так и новых.<br/><br/>
+
+				У нас вы всегда найдете лучшие <strong>христианские песни</strong> с <strong>аккордами</strong> и <strong>нотами</strong>, <a href="/pesni/" title="Слова христианских песен">слова христианских песен</a> и примеры исполнения, которые можно прослушать онлайн.<br/><br/>
+
+				Сайт «<strong>СПЕВКА</strong>» будет интересен, как музыкантам, которые смогут здесь найти <strong>аккорды и ноты к песне</strong>, так и простым людям, которые так же найдут <strong>текст и слова к песне</strong>, примеры исполнения, а проще говоря - христианскую музыку, в особенности <strong>песни прославления</strong>. Многие заходят к нам просто слушать христианские песни онлайн.<br/><br/>
+
+				<strong>Христианские молодежные песни</strong> помогут лидерам молодежных служений и учителям воскресных школ подобрать хороший репертуар.<br/><br/>
+
+				Также вы можете добавлять в нашу базу свои христианские песни мп3, тексты и аккорды. Цель нашего проекта - это духовное подкрепление наших братьев и сестер и прославление Господа за Его милость над нами.
+			</p>
+				
+				
+				<h5>Последние поступления на сайт «<strong>СПЕВКА.КОМ</strong>»</h5>
+				
+				
+			
+			<div class="column right" style="float:left;">
+			<ul class="site_menu news" style="width:420px;">
+			        	 <li>
+             	<div class="date">
+					<img src="/img/date.gif" width="12" height="16" alt="" />
+					<strong>Новинки сайта</strong>
+				</div>
+                <p>Сегодня в новинках:<br />
+<a href="/pesni/voskresenie-hristovo-505/">Воскресение Христово</a>, <a href="/pesni/gde-gde-net-slez-506/">Где, где? Нет слёз</a>, <a href="/pesni/e-v-nebi-kraina-497/">Е в нэби краина</a>, <a href="/pesni/zhizni-reka-bezhit-498/">Жизни река бежит</a>, <a href="/pesni/iisus-ty-mne-pokazal-put-spasenja-507/">Иисус, Ты мне показал путь спасенья</a>, <a href="/pesni/kogda-v-puti-485/">Когда в пути</a>, <a href="/pesni/nikogda-nikogda-nikogda-508/">Никогда, никогда, никогда</a>, <a href="/pesni/on-zhivoj-509/">Он живой</a>, <a href="/pesni/ochen-ochen-davno-510/">Очень, очень давно</a>, <a href="/pesni/podojdi-poblizhe-ko-krestu-499/">Подойди поближе ко кресту</a>.<br/>				
+				<a href="/novosti/#87">Подробнее</a></p>
+				
+			</li>
+			        	 <li>
+             	<div class="date">
+					<img src="/img/date.gif" width="12" height="16" alt="" />
+					<strong>Новинки сайта</strong>
+				</div>
+                <p>Сегодня в новинках:<br />
+<a href="/pesni/zheleznaja-doroga-477/">Железная дорога</a>, <a href="/pesni/iisus-ljubit-tebja-479/">Иисус любит тебя</a>, <a href="/pesni/molitva-478/">Молитва</a>, <a href="/pesni/pomogi-pomogi-podderzhki-480/">Помоги, помоги, поддержки</a>.<br/>				
+				<a href="/novosti/#86">Подробнее</a></p>
+				
+			</li>
+			        	 <li>
+             	<div class="date">
+					<img src="/img/date.gif" width="12" height="16" alt="" />
+					<strong>Новинки сайта</strong>
+				</div>
+                <p>Сегодня в новинках:<br />
+<a href="/pesni/budte-sovershenny-475/">Будьте совершенны</a>, <a href="/pesni/vybor-476/">Выбор</a>, <a href="/pesni/duh-svjatoj-blagoslovenie-473/">Дух Святой - благословение</a>, <a href="/pesni/krik-dushi-474/">Крик души</a>.<br/>				
+				<a href="/novosti/#85">Подробнее</a></p>
+				
+			</li>
+			<li class="all">
+             	<div><a href="/novosti/" title="">Все новости</a></div>
+             </li>		
+			 			 
+        </ul>
+		</div>
+			
+			
+				
+        </div>	
+        </div>
+	</div><!-- /txt -->
+
+<div class="end_content"></div>
+</div>
+
+<div class="footer">
+
+	<div class="menu_foot">
+	
+		<a href="/rss/"><img src="/img/rss.png" style="float:left; padding:3px 0 0 25px;" alt="" /></a>
+    	<ul>        
+            <li><a href="/blagodarnosti/">Благодарности</a></li>
+            <li><a href="/pozhertvovanija/">Пожертвования</a></li>
+			<li><a href="/friends/">Друзья проекта</a></li>
+			<li><a href="/soglashenie/">Соглашение</a></li>
+			<li><a href="/nash-banner/">Наш баннер</a></li>
+			<li><a href="/kontakty/">Контакты</a></li>
+        </ul>
+    </div>
+    
+    <div class="bott">
+    	<h6>© Христианский сайт <a href="http://spevka.com/" title="Христианские песни с аккордами, ноты, пример mp3, фонограммы">SPEVKA.COM</a> <br/>2010 — 2026</h6>
+    	<div class="dev"></div>
+        <div class="counter">
+		<!--noindex-->	
+					
+			<!-- logoSlovo.RU counter-->
+			<a href="http://www.logoSlovo.RU/cnt.php3?id=9469" rel="nofollow" target="_blank"><img	src="http://cnt.logoslovo.ru/cgi-bin/cnt?id=9469" width="88" height="31" alt="ЧИСТЫЙ ИНТЕРНЕТ - logoSlovo.RU" /></a>
+
+			<!-- Maranatha counter -->
+			<a href="http://www.maranatha.org.ua/" rel="nofollow" target="_blank"><img src="http://www.maranatha.org.ua/counter/counter.php?id=11274" alt="Маранафа: Библия, словарь, каталог сайтов, форум, чат и многое другое." width="88" height="31" /></a>
+			<!-- Maranatha counter -->
+
+        	<!-- For You counter code -->
+			<a href="http://www.ForU.ru/" rel="nofollow" id="foru1" target="_blank"><img src="http://www.ForU.ru/l.php3?who=SPEVKA&amp;c=100" alt="Каталог христианских сайтов Для ТЕБЯ" width="88" height="31"	onmouseover="document.getElementById('foru1').href='http://www.ForU.ru/li.php3?who=SPEVKA'" /></a> 
+			<!-- End of For You counter code -->
+
+			<!--LiveInternet counter--><script type="text/javascript"><!--
+			document.write("<a rel='nofollow' href='http://www.liveinternet.ru/click' "+
+			"target=_blank><img src='//counter.yadro.ru/hit?t22.6;r"+
+			escape(document.referrer)+((typeof(screen)=="undefined")?"":
+			";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+			screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+			";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+			"' alt='' title='LiveInternet: показано число просмотров за 24"+
+			" часа, посетителей за 24 часа и за сегодня' "+
+			" width='88' height='31'><\/a>")
+			//--></script><!--/LiveInternet-->
+			
+			
+		<!--/noindex--><br/>
+
+        </div>
+    </div>
+    
+</div><!-- /footer -->
+
+<!--noindex-->
+
+<a href="#" class="scrollup">Вверх</a>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8076721-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--/noindex-->
+</body>
+</html>

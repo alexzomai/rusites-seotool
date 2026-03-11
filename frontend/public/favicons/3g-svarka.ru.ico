@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<html lang="ru-RU">
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,acronym,address,big,cite,code,del,dfn,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,var,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption,tbody,tfoot,thead,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0 none;font:inherit;margin:0;padding:0;vertical-align:baseline;max-width:1400px;margin:auto}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}.aa{text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}a{color:#fa8072}a:visited{color:#598527}a:active{color:#218527}.aa a{text-decoration:#598527}a:hover{color:#4169e1}body{font-family:arial,'Times New Roman',Georgia,Times,serif,Geneva,Helvetica,sans-serif;font-size:14px;background-color:#FBEFE0}table{width:100%}h1{color:#2e8b57;padding-top:30px;text-align:center;font-size:21px}h2{color:#2e8b57;padding-top:20px;text-align:center;font-size:19px}h3{text-align:center;font-size:18px;border:1px solid green;margin:5px}p{color:#7D7D7D;text-align:left;font-size:15px;padding:10px}.menus{font-size:17px;padding-top:15px;width:18%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC}.footers{padding:7px;text-align:center;background-color:#f2c085}.leftimg{float:left;margin:10px 10px 10px 0;padding-left:10px}.rightimg{float:right;margin:10px 0 10px 10px}.fac{background-color:#fbefe0;width:65%;min-width:290px}.bord{border:1px solid blue}.bord2{min-height:45px;border:1px solid #CCC;background-color:#F7E3CA}.menus2{font-size:17px;padding-top:15px;width:16%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC}.spisok{padding-left:30px;font-size:16px;color:#7D7D7D;text-decoration:none}.list{list-style-type:none;padding-left:20px}.sps{padding-left:30px;font-size:15px;color:#7D7D7D;text-decoration:none}.leftimg{float:left;margin:10px 10px 10px 0}.rightimg{float:right;margin:10px 0 10px 10px}.cente{text-align:center;padding:10px}.podel{padding:7px 0;margin-top:35px;text-align:center;border:1px solid blue}.pipec{padding:13px;color:#7B3F00;font-size:17px}.rpads{padding:5px;margin-right:10%;float:right}.lpads{padding:5px;margin-left:10%;float:left}.tabs{width:100%}.tabs tr td{text-align:left}.bloks{padding:10px;text-align:center;border:1px solid blue}.blokfooter{margin-top:10px;padding:10px;text-align:center;border:1px dotted #2e8b57}.spsb{padding:40px;font-size:16px;color:#08225e;list-style-type:none;border:1px solid #CCC}.spsb li{padding-top:10px}.spst{list-style-type:none;padding-left:30px;font-size:15px;color:#7D7D7D}.bloksitebar{margin-top:10px;padding:10px;text-align:center}
+@media screen and (max-device-width:480px){
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,acronym,address,big,cite,code,del,dfn,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,var,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption,tbody,tfoot,thead,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0 none;font:inherit;margin:0;padding:0;vertical-align:baseline;max-width:1400px;margin:auto}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}.aa{text-decoration:#598527;margin:5px;padding-top:10px;border-bottom:1px solid #CCC}a{color:#fa8072}a:visited{color:#598527}a:active{color:#218527}.aa a{text-decoration:#598527}a:hover{color:#4169e1}body{font-family:arial,'Times New Roman',Georgia,Times,serif,Geneva,Helvetica,sans-serif;font-size:14px;background-color:#FBEFE0}table{width:100%}h1{color:#2e8b57;padding-top:30px;text-align:center;font-size:21px}h2{color:#2e8b57;padding-top:20px;text-align:center;font-size:19px}h3{text-align:center;font-size:18px;border:1px solid green;margin:5px}p{color:#7D7D7D;text-align:left;font-size:15px;padding:10px}.menus{font-size:17px;padding-top:15px;width:99%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC;float:right}.footers{padding:7px;text-align:center;background-color:#f2c085}.leftimg{float:left;margin:10px 10px 10px 0;padding-left:10px;margin-right:2px;border:0}.rightimg{float:right;margin:10px 0 10px 10px}.fac{background-color:#fbefe0;width:100%;min-width:290px;float:right}.fac img{width:100%;height:auto;text-align:left;padding:0}.fac iframe{width:100%;text-align:left;padding:0}.bord{border:1px solid blue}.bord2{min-height:45px;border:1px solid #CCC;background-color:#F7E3CA}.menus2{font-size:17px;padding-top:15px;width:99%;text-align:center;background-color:#FBEFE0;vertical-align:top;border:1px solid #CCC;float:right}.spisok{padding-left:30px;font-size:16px;color:#7D7D7D;text-decoration:none}.list{list-style-type:none;padding-left:20px}.sps{padding-left:30px;font-size:15px;color:#7D7D7D;text-decoration:none}.leftimg{text-align:center;float:none;border:0;margin:0}.rightimg{float:right;margin:10px 0 10px 10px}.cente{text-align:center;padding:0}.podel{padding:7px 0;margin-top:35px;text-align:center;border:1px solid blue}.pipec{padding:13px;color:#7B3F00;font-size:17px}.rpads{padding:5px;margin-right:10%;float:right}.lpads{padding:5px;margin-left:10%;float:left}.tabs{width:100%}.tabs tr td{text-align:left}.bloks{padding:10px;text-align:center;border:1px solid blue}.blokfooter{margin-top:10px;padding:10px;text-align:center;border:1px dotted #2e8b57}.spsb{padding:30px;font-size:16px;color:#08225e;list-style-type:none;border:1px solid #CCC}.spsb li{padding-top:10px}.spst{list-style-type:none;padding-left:30px;font-size:15px;color:#7D7D7D}.bloksitebar{margin-top:10px;padding:10px;text-align:center}
+}
+</style>
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<meta name=viewport content="width=device-width, initial-scale=1">
+
+<title>Эта страница Ошибки 404.</title>
+
+<meta name="keywords" content="Сварка Металлов" />
+
+<meta name="description" content="Сварка Металлов" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39779557-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<table class="bord">
+
+  <tr>
+    <td  colspan="3" class="bord2" > <a href="index.php" title="Сварка и Резка Металлов"> 
+	<!-- <img src="img/bg-head.jpg" title="Сварка и Резка Металлов" alt="Сварка Металлов" />  --> </a> </td>
+  </tr>
+  
+  <tr>
+    <td class="menus2"> <h3>Меню</h3><div class="aa">
+<a href="index.php" title="Сварка и Резка Металлов">Сварка металлов</a><br /><br />
+<a href="svarka-alyuminiya.php" title="Сварка алюминия">Сварка алюминия </a><br /><br />
+<a href="svarka-titana.php" title="Сварка титана">Сварка титана </a><br /><br />
+<a href="svarka-medi.php" title="Сварка меди">Сварка меди </a><br /><br />
+<pre><a href="svarka-nerzhaveyushhey-stali.php" title="Сварка нержавейки">Сварка нержавейки </a><br /><br /></pre>
+<a href="svarka-chuguna.php" title="Сварка чугуна">Сварка чугуна </a><br /><br />
+<a href="svarka-otsinkovki.php" title="Сварка оцинкованной стали">Сварка оцинковки </a><br /><br />
+<a href="svarka-hroma.php" title="Сварка хромированных сталей">Сварка хрома </a><br /><br />
+<a href="svarka-tsirkoniya.php" title="Цирконий и его сварка">Сварка циркония </a><br /><br />
+<a href="svarka-latuni-doma.php" title="Как варить латунь">Сварка латуни </a><br /><br />
+<a href="svarka-bronzyi.php" title="Как сварить бронзу">Сварка бронзы </a><br /><br />
+</div>
+<div class="aa">
+<a href="vidyi-stali-i-ih-svarka.php" title="Сварка видов стали таких как: инструментальная, конструкционная, легированная, низколегированная, углеродистая.">Виды стали</a><br /><br />
+<a href="vidyi-svarok.php" title="Виды сварки">Виды сварок</a><br /><br />
+<a href="svarka-metallov-doma.php" title="Сварка металлов и сплавов в домашних условиях">Сварка в домашних условиях</a><br /><br />
+<a href="svarka-tsvetnyih-metallov.php" title="Сварка цветных металлов">Сварка цветных металлов</a><br /><br />
+
+</div>
+<div class="aa">
+<a href="sitemap.php" title="Карта сайта">Карта сайта</a><br /><br />
+<a href="faq.php" title="Часто задаваемые вопросы по Сварке Металлов">Вопросы и ответы</a><br /><br />
+<a href="kontakt.php" title="Связь c Администрацией сайта">Контакты</a><br /><br />
+</div>
+	
+</td>
+	
+	
+    <td class="fac">	
+    
+	
+	
+<h1>Ошибка 404 Файл не найден.</h1>
+	
+<p>
+Ну и пипец...  я искал страницу которую вы набрали с адресной строке, или пришли с закладки,а может с поисковика,ну нет блин этого файла е мое. А может и не было никогда его. А может я его удалил.
+Вы можете попробовать перейти на <a href="index.php" title="Сварка Металлов">главную страницу сайта</a> Или
+Воспользуйтесь <a href="sitemap.php" title="Карта сайта">Картой Сайта</a> 
+</p>
+	
+	
+	
+	
+</td>
+	
+	
+    <td  class="menus"><br />
+<div class="bloksitebar">
+
+<!-- рандомная перелинковка -->
+
+<a href="svarka-chuguna-v-domashnih-usloviyah.php" title="Сварка чугуна в домашних условиях"> <img title="Как выполнить сварку чугуна в домашних условиях" alt="Сварка Чугуна" src="random-img/svarka-chuguna.jpg" /><br />Узнай как варить чугун в домашних условиях</a><br /><br />
+<a href="prisadka-dlya-alyuminiya.php" title="Какие нужны присадки для сварки алюминия"> <img title="Присадки для сварки алюминия" alt="Присадка для сварки алюминия" src="random-img/prisadka-dlya-alyuminiya-mini.jpg" /><br />Присадки для сварки алюминия</a><br /><br />
+<a href="svarka-alyumin-volfram-elektrod.php" title="Сварка алюминия электродом из вольфрама"> <img title="Сварка алюминия вольфрамом" alt="tig сварка алюминия вольфрамом" src="random-img/al-volfram-mini.jpg" /><br />Сварка алюминия вольфрамовым электродом</a><br /><br />
+<a href="svarka-alyumin-volfram-elektrod.php" title="Сварка алюминия электродом из вольфрама"> <img title="Сварка алюминия вольфрамом" alt="tig сварка алюминия вольфрамом" src="random-img/al-volfram-mini.jpg" /><br />Сварка алюминия вольфрамовым электродом</a><br /><br />
+<a href="svarka-mednyih-trub.php" title="Сварка медных труб"> <img title="Сварка медных труб" alt="Сварка труб из меди" src="random-img/svarka-mednyih-trub.jpg" /><br />Как выполнить сварку медных труб</a><br /><br />
+
+<!-- рандомная перелинковка -->
+
+</div>
+<br />
+<br />
+    
+
+
+</td>
+  </tr>
+  
+  <tr>
+    <td colspan="3" class="footers">
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter17929009 = new Ya.Metrika({id:17929009, enableAll: true, webvisor:true});
+        } catch(e) { }
+    });
+    
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/17929009" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	
+
+	
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+
+	</td>
+  </tr>
+  
+</table>
+
+</body>
+</html>

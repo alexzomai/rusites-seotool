@@ -1,0 +1,51 @@
+<br />
+<b>Warning</b>:  Undefined array key 2 in <b>/var/www/u9130381/data/www/aujobs.ru/view_resume/script.php</b> on line <b>2</b><br />
+<div class="nav-bottom">
+    <div class="nav-bottom-menuitem">
+        <span class="bold">aujobs.ru</span>
+        <div>ООО "Автоджобс"</div>
+        <div>г. Москва</div>
+        <div><a href="mailto:admin@ashopp.ru">admin@ashopp.ru</a></div>
+    </div>
+    <div class="nav-bottom-menuitem"><div style="display:flex;justify-content: space-between"><span class="bold">Работодателям</span><span class="menu-bottom-list">&#x25B2;</span></div>
+        <div class="nav-bottom-menuitem-link"><a href="/view_resume/">Каталог резюме</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/view_resume/car_paint.php">Найти автомаляра</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/view_resume/car_mechanic.php">Найти автослесаря</a></div>
+        <!--<div class="nav-bottom-menuitem-link"><a href="/view_resume/autodiagnostic.php">Найти автодиагноста</a></div>-->
+        <div class="nav-bottom-menuitem-link"><a href="/view_resume/auto_electric.php">Найти автоэлектриков</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/prices.php">Тарифы на размещение вакансий</a></div>
+    </div>
+    <div class="nav-bottom-menuitem"><div style="display:flex;justify-content: space-between"><span class="bold">Соискателям</span><span class="menu-bottom-list">&#x25B2;</span></div>
+        <div class="nav-bottom-menuitem-link"><a href="/add_resume/">Добавить резюме</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/vacancies/">Каталог вакансий</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Работа мотористом</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Работа автоэлектриком</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Работа жестянщиком</a></div>
+    </div>
+    <div class="nav-bottom-menuitem"><div style="display:flex;justify-content: space-between"><span class="bold">aujobs.ru</span><span class="menu-bottom-list">&#x25B2;</span></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Что такое aujobs?</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Партнеры</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Карта сайта</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/">Архив вакансий</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/advertising.php">Реклама на сайте</a></div>
+        <div class="nav-bottom-menuitem-link"><a href="/contacts.php">Контактная информация</a></div>
+    </div>
+    <div class="nav-bottom-menuitem">
+        <div  style="display:flex">
+            <div class="social-ico"><img src="/images/vk.png" /></div>
+                        <div class="social-ico"><img src="/images/twitter.png" /></div>
+        </div>
+        <div style="text-align:center">
+            <a href="https://www.liveinternet.ru/click"
+            target="_blank"><img id="licnt4602" width="31" height="31" style="border:0" 
+            title="LiveInternet"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+            alt=""/></a><script>(function(d,s){d.getElementById("licnt4602").src=
+            "https://counter.yadro.ru/hit?t44.6;r"+escape(d.referrer)+
+            ((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+            (s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+            ";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+            (document,screen)</script>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title>Навиком ::: Навиком :: Ошибка 404</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<link href="/bitrix/js/main/core/css/core.css?13939292348964" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/navicom/components/bitrix/menu/top_multilevel/style.css?12671801225653" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/components/bitrix/breadcrumb/templates/.default/style.css?1403259000947" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/navicom/components/bitrix/menu/bottom/style.css?12671798081009" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/navicom/styles.css?14325469101761" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/navicom/template_styles.css?14325469101563" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script>var _ba = _ba || []; _ba.push(["aid", "4600ee77831e502667359cfa92feb3db"]);(function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = document.location.protocol + "//bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s3','USER_ID':'','SERVER_TIME':'1772394690','USER_TZ_OFFSET':'-3600','USER_TZ_AUTO':'Y','bitrix_sessid':'51c1175de6cc2bbdcb950cedb3f9f202'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?141172068881396"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?141172069034917"></script>
+<script type="text/javascript" src="/bitrix/js/main/json/json2.min.js?13315487723467"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.js?140325900010330"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?14117206883170"></script>
+
+<script type="text/javascript">
+bxSession.Expand(1440, '51c1175de6cc2bbdcb950cedb3f9f202', false, '034126e3854ba54e2ecbc678bf618d95');
+</script>
+
+<script type="text/javascript" src="/bitrix/templates/navicom/components/bitrix/menu/top_multilevel/script.js?1267014258469"></script>
+<script type="text/javascript" src="/bitrix/templates/navicom/components/bitrix/menu/bottom/script.js?1267178548469"></script>
+
+<script>
+/*$(document).ready(function(){
+    $("a").each(function (i) {
+    	var link = $(this).attr("href");
+		$(this).attr({
+			href: "/new" + link
+		});
+    });	
+});*/
+</script>
+
+</head>
+<body>
+<!--LiveInternet counter-->
+ 
+<script type="text/javascript">document.write("<img src='http://counter.yadro.ru/hit?r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' width=1 height=1 alt=''>")</script>
+ 
+<!--/LiveInternet-->
+<div id="trace"></div>
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+    	<td width="298"><a href="/" id="logo" title="Навиком"><img src="/bitrix/templates/navicom/images/navikom_logo.jpg" width="298" height="130" border="0" /></a></td>
+        <td class="header_top_bg" align="right" style="background:#dbe7eb url(/bitrix/templates/navicom/images/header_image/maps.jpg) no-repeat;">
+            
+            <div class="header_phone_block" align="left">
+                <div  align="right" style="position:  relative;  width:80px; margin: 0; margin-left: 160px; padding: 0px; height: 15px; float: none;"><a href="http://navicom.ru/"><img src="/bitrix/templates/navicom/images/flags_rus.gif" border="0"></a>&nbsp;<a target="_blank" href="http://translate.google.ru/translate?js=n&prev=_t&hl=ru&ie=UTF-8&layout=2&eotf=1&sl=ru&tl=de&u=http%3A%2F%2Fwww.navicom.ru%2Ffavicon.ico"><img src="/bitrix/templates/navicom/images/flags_ger.gif" border="0"></a>&nbsp;<a target="_blank" href="http://translate.google.ru/translate?js=n&prev=_t&hl=ru&ie=UTF-8&layout=2&eotf=1&sl=ru&tl=en&u=http%3A%2F%2Fwww.navicom.ru%2Ffavicon.ico"><img src="/bitrix/templates/navicom/images/flags_usa.gif" border="0"></a></div>
+        	<div style="padding:0 0 0 20px;font-size:17px;">Свяжитесь с нами:</div>
+        	<div align="right">
+                        <div style="padding:0 20px 0 0;font-size:19px;">+7 (495) 961-38-27</div>
+        		<div style="padding:0 20px 0 0;font-size:13px;color:#fff;font-weight:bold;">с 10:00 до 18:00</div>
+        	</div>
+        </div>
+        </td>
+    </tr>
+    <tr>
+    	<td class="fromMenuBg_left"></td>
+    	<td>
+    		<table cellpadding="0" cellspacing="0" width="100%" border="0">
+    			<tr>
+    				<td class="topMenu_Lcorner2"></td>
+    				<td class="fromMenuBg_center" align="center">
+    					
+<table cellpadding="0" cellspacing="0" border="0" width="100%" id="horizontal-multilevel-menu">
+<tr>
+										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/about/" class="root-item">О компании</a>
+							<ul>
+														<li><a href="/about/contacts/">Контакты Навиком</a></li>
+						
+														<li><a href="/about/business_unit/">Бизнес-подразделения</a></li>
+						
+														<li><a href="/about/history/">История</a></li>
+						
+														<li><a href="/about/vacancy/">Вакансии</a></li>
+						
+														<li><a href="/about/news/">Все новости</a></li>
+						
+					</ul></td>										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/maps/" class="root-item">Карты</a>
+							<ul>
+														<li><a href="/maps/auto/">Автомобильные</a></li>
+						
+														<li><a href="/maps/topo/">Топографические </a></li>
+						
+														<li><a href="/maps/water/">Водные</a></li>
+						
+														<li><a href="/maps/guide_book/">Путеводители</a></li>
+						
+														<li><a href="/maps/golf/">Поля для гольфа</a></li>
+						
+														<li><a href="/maps/partner/">Партнерам</a></li>
+						
+					</ul></td>										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/traffic/" class="root-item">Трафик</a>
+							<ul>
+														<li><a href="/traffic/tmc/">ТMC информация</a></li>
+						
+														<li><a href="/traffic/news/">Новости</a></li>
+						
+														<li><a href="/traffic/partner/">Партнерам</a></li>
+						
+					</ul></td>										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/dealer/" class="root-item">Дилерам</a>
+							<ul>
+														<li><a href="/dealer/brand/">Бренды</a></li>
+						
+														<li><a href="/dealer/content/">Материалы</a></li>
+						
+														<li><a href="/dealer/seminars/">Мероприятия</a></li>
+						
+														<li><a href="/dealer/market/">Магазинам</a></li>
+						
+														<li><a href="http://www.garmin.ru/dealer/">Стать дилером</a></li>
+						
+														<li><a href="/dealer/forum/">Форум</a></li>
+						
+					</ul></td>										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/partner/" class="root-item">Партнерам</a>
+							<ul>
+														<li><a href="/partner/sposor/">Спонсорство</a></li>
+						
+														<li><a href="/partner/philanthropy/">Благотворительность</a></li>
+						
+					</ul></td>										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/support/" class="root-item">Поддержка</a>
+							<ul>
+														<li><a href="http://www.garmin.ru/support/services/">Garmin</a></li>
+						
+														<li><a href="http://mapsupport.navicom.ru/">Карты</a></li>
+						
+					</ul></td>										
+					<td class="topMenu_sep"></td>
+					<td class="topMenu_btn root-item" nowrap><a href="/shops/" class="root-item">Наши магазины</a>
+							<ul>
+														<li><a href="http://www.garmin.ru/">Интернет магазин, доставка</a></li>
+						
+														<li><a href="/about/business_unit/">Новосибирск</a></li>
+						
+														<li><a href="/about/business_unit/">Калининград</a></li>
+						
+														<li><a href="http://garmin.ru/store/">Сеть фирменных магазинов Garmin</a></li>
+						
+				</ul></td><td class="topMenu_sep"></td></tr></table>
+    				</td>
+    				<td class="topMenu_Rcorner"></td>
+    			</tr>
+    		</table>
+    	</td>
+    </tr>
+</table>
+
+<table cellpadding="0" cellspacing="0" width="1140" align="center">
+	
+	<tr>
+		<td valign="top">
+						<div style="margin:10px 0 10px 5px;">
+			<div class="bx_breadcrumbs"><ul><li><span>Главная</span></li></ul></div></div>
+					</td>
+	</tr>
+	
+	<tr>
+		<td width="1130" valign="top">
+<center style="margin:100px 0 100px 0">
+<h1>Страница в стадии разработки.</h1>
+<p>Приносим свои извинения.</p>
+</center>
+</td>
+		</tr></table>
+<div class="bottom_menu_bg" align="center">
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" id="horizontal-menu">
+<tr>
+								<td valign="middle" nowrap><a href="/about/" class="root-item">О компании</a></td>
+											<td>|</td>
+											<td valign="middle" nowrap><a href="/maps/" class="root-item">Карты</a></td>
+											<td>|</td>
+											<td valign="middle" nowrap><a href="/traffic/" class="root-item">Трафик</a></td>
+											<td>|</td>
+											<td valign="middle" nowrap><a href="/dealer/" class="root-item">Дилерам</a></td>
+											<td>|</td>
+											<td valign="middle" nowrap><a href="/partner/" class="root-item">Партнерам</a></td>
+											<td>|</td>
+											<td valign="middle" nowrap><a href="/support/" class="root-item">Поддержка</a></td>
+											<td>|</td>
+											<td valign="middle" nowrap><a href="/shops/" class="root-item">Наши магазины</a></td>
+							</tr></table>
+
+Часы, морское оборудование, туристические и автомобильные <a href="https://www.garmin.ru">GPS-навигаторы</a><br>
+Представительский интернет-магазин <a href="https://watchsport.ru/">навигационных систем</a> компании «Навиком».<br>
+	Фирменные <a href="https://www.garmin.ru/shop/">магазины Garmin</a>.<br>
+	<a href="https://www.navicom.ru/politika-navicom.docx" target="_blank">Политика обработки персональных данных АО Навиком</a>.<br>
+
+<br>
+<!--LiveInternet logo-->
+<a href="http://www.liveinternet.ru/click" target="_blank"><img height="31" width="31" border="0" src="http://counter.yadro.ru/logo?45.1" alt="" title="LiveInternet" /></a>
+<!--/LiveInternet-->
+<br><br>
+</div>
+</body>
+</html>

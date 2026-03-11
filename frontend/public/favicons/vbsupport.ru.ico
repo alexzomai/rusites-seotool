@@ -1,0 +1,41 @@
+<!doctype html><html lang="en"><head><title>Making sure you&#39;re not a bot!</title><link rel="stylesheet" href="/.within.website/x/xess/xess.css?cachebuster=devel"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="robots" content="noindex,nofollow"><style>
+        body,
+        html {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .centered-div {
+            text-align: center;
+        }
+
+        #status {
+            font-variant-numeric: tabular-nums;
+        }
+
+        #progress {
+          display: none;
+          width: 90%;
+          width: min(20rem, 90%);
+          height: 2rem;
+          border-radius: 1rem;
+          overflow: hidden;
+          margin: 1rem 0 2rem;
+					outline-offset: 2px;
+					outline: #b16286 solid 4px;
+				}
+
+        .bar-inner {
+            background-color: #b16286;
+            height: 100%;
+            width: 0;
+            transition: width 0.25s ease-in;
+        }
+    	</style><script id="anubis_version" type="application/json">"devel"
+</script><script id="anubis_challenge" type="application/json">{"rules":{"algorithm":"metarefresh","difficulty":1,"report_as":1},"challenge":"f4506dfb002efb22eb998187c8755167df213ad9fd0d7f38a9fca951472d9db3c72b3cb8ff6e4d7442bd75ba598de242b97b5d9c217c38178895a43e8c22fce5c4a43eb2a47662ee34440b289818b9dcd4c1399718274d75a3398ccf74398972987fc388a0221b0ed5431a716268a7008ab52b398794d9b725b0356eeb195ab0a9d9e429cf35bd2d92fe2940aeff4f9dc808ef7f9bb218050ea75cd960917c3db2728792fb6d654038b8a82e455dd94ff2408eb7720c661a306a70fa6181fc15b167c2d338588236fdcf523f107e79d211d8f4e7aa343f7e10fc8b06be34b340ce4ee72b68b0a66c3aea516fc7936fbfec0b36019a71eca287ceb840c69ee063"}
+</script><script id="anubis_base_prefix" type="application/json">""
+</script></head><body id="top"><main><h1 id="title" class="centered-div">Making sure you&#39;re not a bot!</h1><div class="centered-div"><img id="image" style="width:100%;max-width:256px;" src="/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=devel"> <img style="display:none;" style="width:100%;max-width:256px;" src="/.within.website/x/cmd/anubis/static/img/happy.webp?cacheBuster=devel"><p id="status">Loading...</p><p>Please wait a moment while we ensure the security of your connection.</p><meta http-equiv="refresh" content="1; url=/.within.website/x/cmd/anubis/api/pass-challenge?challenge=f4506dfb002efb22eb998187c8755167df213ad9fd0d7f38a9fca951472d9db3c72b3cb8ff6e4d7442bd75ba598de242b97b5d9c217c38178895a43e8c22fce5c4a43eb2a47662ee34440b289818b9dcd4c1399718274d75a3398ccf74398972987fc388a0221b0ed5431a716268a7008ab52b398794d9b725b0356eeb195ab0a9d9e429cf35bd2d92fe2940aeff4f9dc808ef7f9bb218050ea75cd960917c3db2728792fb6d654038b8a82e455dd94ff2408eb7720c661a306a70fa6181fc15b167c2d338588236fdcf523f107e79d211d8f4e7aa343f7e10fc8b06be34b340ce4ee72b68b0a66c3aea516fc7936fbfec0b36019a71eca287ceb840c69ee063&amp;redir=%2Ffavicon.ico"></div><footer><div class="centered-div"><p>Protected by <a href="https://github.com/TecharoHQ/anubis">Anubis</a> From <a href="https://techaro.lol">Techaro</a>. Made with ❤️ in 🇨🇦.</p><p>Mascot design by <a href="https://bsky.app/profile/celphase.bsky.social">CELPHASE</a>.</p></div></footer></main></body></html>

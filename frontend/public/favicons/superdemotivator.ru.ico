@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title> - Супер Демотиваторы - Подборка лучших демотиваторов сети [15681]</title>
+<META http-equiv="Pragma" content="no-cache">
+<meta name="keywords" content=", мотиваторы, юмор, развлечения, приколы, картинки, фото, sms приколы, юмор, знаменитости, заставки, фотоприколы, prikol, photo">
+<meta name="description" content="Демотиватор 15681:  ">
+<link rel=stylesheet href="https://www.superdemotivator.ru/img/st2.css" type="text/css">
+<script src="https://www.superdemotivator.ru/img/jquery.min.js"></script>
+<script language=JavaScript1.2>
+function createObjectad() 
+{
+	var request_type;
+	var browser = navigator.appName;
+	if(browser == "Microsoft Internet Explorer")
+	{
+		request_type = new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	else
+	{
+		request_type = new XMLHttpRequest();
+	}
+	return request_type;
+}
+var http = createObjectad();
+
+function Addg(g,t)
+{
+	var ag = g;
+	var tt = t;
+	http.open('get', '/img/vote.php?ag='+ag+'&post_id=&tt='+tt);
+	http.onreadystatechange = AddgReply;
+	http.send(null);
+}
+
+function AddgReply()
+{
+	if(http.readyState == 4)
+	{
+		var response = http.responseText;
+ 		if(response == 0)
+ 		{
+			document.getElementById('vot_1').style.display='none';
+			document.getElementById('vot_1_1').style.display='block';
+			document.getElementById('vot_2').style.display='none';
+			document.getElementById('vot_2_2').style.display='block';
+			document.getElementById('vot_3').style.display='none';
+			document.getElementById('vot_3_3').style.display='block';
+			document.getElementById('vot_4').style.display='none';
+			document.getElementById('vot_4_4').style.display='block';
+			document.getElementById('vot_5').style.display='none';
+			document.getElementById('vot_5_5').style.display='block';
+ 		}
+		if(response == 1)
+ 		{
+			document.getElementById('vot_1').style.display='none';
+			document.getElementById('vot_1_1').style.display='block';
+ 		}
+		if(response == 11)
+ 		{
+			document.getElementById('vot_1').style.display='none';
+			document.getElementById('vot_1_u').style.display='block';
+ 		}
+		if(response == 2)
+ 		{
+			document.getElementById('vot_2').style.display='none';
+			document.getElementById('vot_2_2').style.display='block';
+			document.getElementById('vot_3').style.display='none';
+			document.getElementById('vot_3_3').style.display='block';
+ 		}
+		if(response == 21)
+ 		{
+			document.getElementById('vot_2').style.display='none';
+			document.getElementById('vot_2_u').style.display='block';
+			document.getElementById('vot_3').style.display='none';
+			document.getElementById('vot_3_u').style.display='block';
+ 		}
+		if(response == 3)
+ 		{
+			document.getElementById('vot_4').style.display='none';
+			document.getElementById('vot_4_4').style.display='block';
+			document.getElementById('vot_5').style.display='none';
+			document.getElementById('vot_5_5').style.display='block';
+ 		}
+		if(response == 31)
+ 		{
+			document.getElementById('vot_4').style.display='none';
+			document.getElementById('vot_4_u').style.display='block';
+			document.getElementById('vot_5').style.display='none';
+			document.getElementById('vot_5_u').style.display='block';
+ 		}
+	}
+}
+</script>
+<script type="text/javascript" src="/img/tree.js"></script>
+<body topmargin=0 leftmargin=0 rightmargin=0 bgcolor=white><table width=100% border=0 cellspacing=0 cellpadding=0 height=60><tr><td width=70% align=left><a href=http://www.superdemotivator.ru/ style='text-decoration:none;'><img src='http://www.superdemotivator.ru/img/logo2.jpg' height=100 border=0></a></td><td width=30% align=center height=60>
+При поддержке Jokesland.net.ru</td></tr></table><table width=100% border=0 cellspacing=1 cellpadding=2 height=13 bgcolor=#AAAAAA><tr><td bgcolor=#FFFFDD width=17% align=center><a href=https://superdemotivator.ru/ class=txtsm>Супер демки</a></td><td bgcolor=#FFFFDD width=17% align=center><a href=/main/best.html class=txtsm>Лучшие</a></td><td bgcolor=#FFFFDD width=17% align=center><a href=/main/popular.html class=txtsm>Популярные</a></td><td bgcolor=#FFFFDD width=17% align=center><a href=https://www.superdemotivator.ru/lyubov-dvizhet-mirom-no-viski-vraschaet-ego-vdvoe-bystree.html class=txtsm>Любовь движет миром</a></td><td bgcolor=#FFFFDD width=17% align=center><a href=https://www.superdemotivator.ru/zavtrak-oligarha.html class=txtsm>Завтрак олигарха</td></tr></table>
+<center><table width=100% border=0 cellspacing=3 cellpadding=2><tr><td class=txt valign=top>
+<h1 style='text-align: center;'>Домен продается. По всем вопросам обращаться на email wirbox@mail.ru или <img src=https://www.testinternet.ru/img/ph.gif width=180 border=0></h1>
+<h1 align=center></h1>
+
+<table align=center width=90% border=0 cellspacing=1 cellpadding=13 bgcolor=#AAAAAA>
+<tr><td align=center  bgcolor=#FFFFFF>
+
+<table width=100% cellspacing=0 cellpadding=3>
+<tr><td valign=top><a href='https://www.superdemotivator.ru/pereattestuy-menya.html'><strong><font size=5>&larr;</font></strong></a></td><td align=center>
+<a href='/'><img src=.jpg border=0 alt="" title=""></a>
+<p align=center>
+<table><tr><td>
+<div id="vot_3_3" style="display:none;">ПРИНЯТО&nbsp;</div>
+<div id="vot_3_u" style="display:none;"><span style="color:#DD0000; font-size:16px;">Ты уже&nbsp;</span></div>
+<div id="vot_3"><a href="#" rel="nofollow" onclick="Addg(1,2); return false"><font size=2><b>Мне нравится</b></font></a>&nbsp;&nbsp;</div></td><td>
+<div id="vot_2_2" style="display:none;">&nbsp;Спасибо!</div>
+<div id="vot_2_u" style="display:none;"><span style="color:#DD0000; font-size:16px;">голосовал</span></div>
+<div id="vot_2">&nbsp;&nbsp;<a href="#" rel="nofollow" onclick="Addg(0,2); return false"><font size=2>Не нравится</b></font></a></div>
+</td>
+<td>| <a href=https://www.superdemotivator.ru/send/.html>Отправить ссылку друзьям</a> | </td><td> Просмотров 1 раз(а)</font></td>
+</tr></table>
+</td><td valign=top><a href='https://www.superdemotivator.ru/'><strong><font size=5>&rarr;</font></strong></a></a>
+</td></tr></table>
+<h4>Понравился демотиватор? Выбери свою социальную сеть и поделись ссылкой с друзьями:</h4>
+<center><div class="share42init"></div>
+<script type="text/javascript" src="/img/share42.js"></script></center><table bgcolor=white><tr><td width=40%><center><b>Код для размещения на своем сайте и/или блоге:</b><br><input type=text size=60 value='<a href=https://www.superdemotivator.ru/.html><br><img src=https://www.superdemotivator.ru/_tn.jpg border=0 alt="" title=""></a>' onclick=this.select();></td><td width=20%></td><td width=40%><center><b>Код для размещения на форумах:</b><br><input type=text size=60 value='[url=href=https://www.superdemotivator.ru/.html][/url]' onclick=this.select();></td></tr></table></center></td></tr></td></tr></table><center><table width=100% border=0>
+<tr><td align=left><img src=/img/free.gif height=7 width=1><br><strong><font size=2>Смотрим еще демотиваторы:</font></strong>
+<br><table align=center width=90%><tr><td width=25% align=center valign=top><a href=/meditiruy-pravilno_2.html><img src=dem/demotivatory_944/3_tn.jpg border=0 alt="Медитируй правильно" title="Медитируй правильно" width=170><br><font class=txtsm>Медитируй правильно</font></a></td><td width=25% align=center valign=top><a href=/kak-u-vas-tut-vse-ne-produmano.html><img src=dem/demotivatory_944/29_tn.jpg border=0 alt="Как у вас тут все не продумано " title="Как у вас тут все не продумано " width=170><br><font class=txtsm>Как у вас тут все не продумано </font></a></td><td width=25% align=center valign=top><a href=/podpisal-a-teper-vse-tvoe--moe.html><img src=dem/demotivatory_944/28_tn.jpg border=0 alt="Подписал? А теперь всё твое - моё!!!! " title="Подписал? А теперь всё твое - моё!!!! " width=170><br><font class=txtsm>Подписал? А теперь всё твое - моё!!!! </font></a></td><td width=25% align=center valign=top><a href=/oficiant-v-sarae-pila-kak-nado.html><img src=dem/demotivatory_944/27_tn.jpg border=0 alt="Официант, в сарае пила как надо " title="Официант, в сарае пила как надо " width=170><br><font class=txtsm>Официант, в сарае пила как надо </font></a></td></tr></table></td></tr></table></td></tr></table><table width=100% border=0 cellspacing=1 cellpadding=2 height=13 bgcolor=#AAAAAA><tr><td bgcolor=#FFFFDD width=25% align=center><a href=/ class=txtsm>Новинки</a></td><td bgcolor=#FFFFDD width=20% align=center><a href=https://www.superdemotivator.ru/ginekolog-eto-prosto-silno-opustivshiysya-lor.html class=txtsm>Гинеколог</a></td><td bgcolor=#FFFFDD width=30% align=center><a class=txtsm href=https://www.superdemotivator.ru/dazhe-vo-sne-vidish-ne-to-chto-hochetsya-a-to-chto-pokazhut.html>Даже во сне видишь не то</a></td><td bgcolor=#FFFFDD width=25% align=center><a href=https://www.superdemotivator.ru/esli-obvisla-grud--eto-hernya-a-esli-obvisla-hernya--eto-problema.html class=txtsm>Если обвисла грудь</a></td>
+</tr></table></td></tr></table><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Page ID . Hello world! Please don't scold us... -->
+
+<center><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t12.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet--></center>
+</body>
+</html>

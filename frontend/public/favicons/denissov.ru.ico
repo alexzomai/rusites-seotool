@@ -1,0 +1,1680 @@
+<!doctype html>
+<html><head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="rights" content="DENISSOV" />
+    <meta content="width=device-width, initial-scale=0.63, maximum-scale=0.63, user-scalable=no" name="viewport">
+    <meta name="google-site-verification" content="RnZcZtLcTRBzrRTMxKbVMPuQfF-oaSf5qko1pSkTSbM" />
+
+    <title>DENISSOV Российская часовая компания</title>
+    <meta name="description" content="DENISSOV WATCH COMPANY Российская часовая компания основана в 1951 году">
+
+    <link rel="apple-touch-startup-image" href="/images/startup.png" />
+    <style type="text/css">
+        html { overflow-x: none; }
+        body { overflow-x: none; }
+    </style>
+    <link href='https://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" type="image/x-icon" href="/images/denic.ico">
+
+    <script type='text/javascript' src='/js/popup_projects.js'></script>
+    <script src="/js/jquery_min_set.js"></script>
+
+    <script src="/js/jquery.form.js"></script>
+    <script src="/js/jquery.validate.js"></script>
+    <script src="/js/jquery.maskedinput.min.js" type="text/javascript"></script>
+    <script src="/js/scripts.js?v=0.3"></script>
+
+    <script>
+
+        $(document).ready(function(){
+            $("#menuItems a").click(function(){
+                var down = $($(this).prop("hash")).offset().top;
+                $("html, body").animate({scrollTop: down}, 550);
+                $("#menuItems a").each(function(e){
+                    $("#menuItems a").parent().eq(e).attr("class","menu-item");
+                });
+                $(this).parent().attr("class","menu-item_sel");
+                return false;
+            });
+
+            $(".main-header a").click(function(){
+                var down = $($(this).prop("hash")).offset().top;
+                $("html, body").animate({scrollTop: down}, 550);
+                $(".main-header a").each(function(e){
+                });;return false;});
+        });
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="/js/map.js" type="text/javascript"></script>
+    <script type='text/javascript' src='/js/modernizr.js'></script>
+    <link rel='stylesheet' type="text/css" href='/css_denissov/popup_projects.css?v=2' media='screen' id='main-css'>
+    <link rel="stylesheet" type="text/css" href="/font-awesome/css/font-awesome.css" />
+    <link rel='stylesheet' type="text/css" href='/css_denissov/main-style.css' media='screen' id='main-css'>
+    <link rel='stylesheet' type="text/css" href='/css_denissov/backgrounds.css' media='screen' id='main-css'>
+    <link rel="stylesheet" type="text/css" href="/css_denissov/elements-style.css" media="screen" >
+    <link rel="stylesheet" type="text/css" href="/css_denissov/grid_models.css?v=2" />
+    <link rel="stylesheet" type="text/css" href="/css_denissov/basic_map.css" />
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(51442609, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51442609" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+    <script>
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 15) {
+                $( ".logotop" ).fadeOut();
+            } else {
+                $( ".logotop" ).fadeIn();
+            }
+        });
+
+
+        $(window).scroll(function(e){
+            parallax();
+        });
+        function parallax(){
+            var scrolled = $(window).scrollTop();
+            $('.slidex').css('top',-(scrolled*-0.30)+'px');
+            $('.top_fol_01f').css('top',-(scrolled*-0.30)+'px');
+            $('.top_fol_01z').css('top',-(scrolled*-0.30)+'px');
+            $('.top_fol_01a').css('top',-(scrolled*-0.41)+'px');
+            $('.top_fol_01e').css('top',-(scrolled*0.20)+'px');
+        }
+    </script>
+
+    <script src="/js/jquery_ajax_set.js" type="text/javascript"></script>
+
+
+</head>
+
+
+<body class="home blog" data-prefixurl="">
+
+<div id="layer_startup_bg"></div>
+
+<a href="/en/">
+    <div class="enru_over_win" >
+        <div class="enru_win">
+            <figure class="effect-bubba"><figcaption>
+                    <div class="ht"></div>
+                    <div class="dcv1">ENG</div>
+                    <div class="dcv2">ENG</div>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+</a>
+
+<a href="/cart/">
+    <div class="shop_over_win" >
+        <div class="shop_win">
+            <figure class="effect-bubba" >
+                <figcaption>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+</a>
+<div class="price_setup">0 руб.</div>
+
+
+
+<div class="right_bg"></div>
+<div class="left_bg"></div>
+
+<div id="layer_bg"></div>
+<div id="layer_bg22" ></div>
+<div id="layer_bg23"  ></div>
+
+<div class="menu_over_win" id="nav-btn">
+    <div class="menu_win">
+        <figure class="effect-bubba" a href="#"><figcaption><button class="nav-button"><span></span></button>
+                <div class="ht"></div></figcaption></figure></div>
+</div>
+
+
+<div id="container_all">
+
+    <div class="maincont">
+
+        <div class="logotop" id="fading"></div>
+
+        <div class="wrapper" data-class="home blog">
+
+            <header class="main-header">
+                <div class="page-title"><a href="#start1"><img src="/images/logotop_zerro.png" alt=""></a></div>
+
+                <script>
+                    $(document).ready(function(){
+                        $("#arr_over_win").click(function(){
+                            $(".arr_win").fadeToggle("fast");
+                        });
+                        $("#arr_over_win").click(function(){
+                            $(".arr_win").show("5000");
+                        });
+                        $('.btn-currency').click(function(){
+                            var c = $(this).data('c');
+                            $.getJSON($('body').data('prefixurl') + '/cart/currency/', {currency:c}, function(d){
+                                $('.price_setup').html(d.data.total + ' ' + d.data.cur_name + '.');
+                            });
+                            $('.btn-currency .effect-bubba').removeClass('checked');
+                            $(this).find('.effect-bubba').addClass('checked');
+                        });
+                    });
+                </script>
+
+
+
+
+                <nav>
+                    <ul class="navigation" id="menuItems">
+                        <li class="menu-item menuItem-type-post_type current_page_item menuItem-object-page"><a href="#" onclick="window_company_show()"><div class="set1">КОМПАНИЯ</div></a></li><div class="horlin"></div>
+                        <li class="menu-item menuItem-type-post_type menuItem-object-page menuItem-55"><a href="#start3">НОВАЯ КОЛЛЕКЦИЯ</a></li><div class="horlin"></div>
+                        <li class="menu-item menuItem-type-post_type menuItem-object-page menuItem-55"><a href="#" onclick="window_oldcollection_show()"><div class="set1">ИСТОРИЯ КОЛЛЕКЦИЙ</div></a></li><div class="horlin"></div>
+                        <li class="menu-item menuitem-type-post_type menuitem-object-page menuitem-65"><a href="#service">СЕРВИСНОЕ ОБСЛУЖИВАНИЕ</a></li><div class="horlin"></div>
+                        <!--li class="menu-item menuitem-type-post_type menuitem-object-page menuitem-65"><a href="#" onclick="window_barracuda_limited_show_all()">ТОЧКИ ПРОДАЖ</a></li><div class="horlin"></div-->
+                        <li class="menu-item menuitem-type-post_type menuitem-object-page menuitem-65"><a href="#" onclick="window.open('/denissovdesign/index.html', '_blank')">СТУДИЯ ЧАСОВОГО ДИЗАЙНА</a></li><div class="horlin"></div>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="#start4">КОНТАКТЫ</a></li><div class="horlin"></div>
+
+                    </ul>
+                    <div class="soc" >
+                        <ul class="social">
+                            <!--li><a href="http://vk.com/" aria-hidden="true" class="icon-vk"></a></li-->
+                            <!--li><a href="https://www.facebook.com/pages/" aria-hidden="true" class="icon-facebook-sign"></a></li-->
+                            <!--li><a href="http://twitter.com/" aria-hidden="true" class="icon-twitter-sign"></a></li-->
+                            <!--li><a href="http://instagram.com/denissovwatches" aria-hidden="true" class="icon-instagram"></a></li-->
+                            <!--li><a href="https://www.youtube.com/" aria-hidden="true" class="icon-youtube"></a></li-->
+                        </ul>
+                    </div>
+                </nav>
+
+            </header>
+<script type='text/javascript' src='/collection/scripts_styles/js_pull/all.min.js'></script>
+
+            <script src='/js/all.min.js' type='text/javascript'></script>
+            <script src="/js/jquery.sequence-min.js"></script>
+            <script src="/js/sequencejs-options.modern-slide-in.js"></script>
+            <div class="flag_00" id="start1" ></div>
+            <div class="slidex_over"></div>
+            <!--div class="toplinex"></div-->
+
+            <div class="slidex">
+
+                <div class="sequence-theme">
+                    <div id="sequence">
+
+                        <img class="sequence-prev" src="/images/bt-prev.png" alt="Previous Frame" />
+                        <img class="sequence-next" src="/images/bt-next.png" alt="Next Frame" />
+
+                        <ul class="sequence-canvas">
+
+                                                                                                                        <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_177124142061.jpg">
+                                    <div class="slogan animate-in animate-out" ></div>
+                                    <div class="slogan_s animate-in animate-out">Лимитированные серии коллекционных часов</div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407903268.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">LIMITED EDITION</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/barracuda_limited/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 4-x вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407914025.png" alt="LIMITED EDITION" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407917147.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407947162.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">CHRONOGRAPH</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/barracuda_chronograph/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 5-ти вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407927854.png" alt="CHRONOGRAPH" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407928519.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407952796.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">CLASSICAL MECHANICS</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/barracuda_mechanical/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 7-ти вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407953813.png" alt="CLASSICAL MECHANICS" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407954112.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407958642.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">AUTOMATIC</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/speedster/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 3-x вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407959566.png" alt="AUTOMATIC" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407960286.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407964122.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">AUTOMATIC</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/free_rider/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 14-ти вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407965896.png" alt="AUTOMATIC" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407965931.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407970451.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">AUTOMATIC</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/nau_automatic/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 3-x вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407971990.png" alt="AUTOMATIC" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407972593.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407976194.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">AUTOMATIC</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/lady_flower/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 9-ти вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407977087.png" alt="AUTOMATIC" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407977462.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407980917.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">QUARTZ</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/enigma/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 9-ти вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407982463.png" alt="QUARTZ" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407983199.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                                                            <li>
+                                    <img class="modelbg1 animate-in animate-out" src="/files/banners/o_145407986897.jpg">
+                                    <div class="plashka animate-in animate-out"></div>
+                                    <h2 class="title">QUARTZ</h2>
+                                    <h2 class="title_set_typ animate-in animate-out" onclick="window.open('/number_one/', '_top')" style="cursor: pointer;">ПОСМОТРЕТЬ</h2>
+                                    <h3 class="subtitle">
+                                                                                    Модельный ряд из 5-ти вариантов
+                                                                            </h3>
+                                    <img class="model animate-in animate-out" onclick="window.open('', '_top')" src="/files/banners/o_145407987722.png" alt="QUARTZ" style="cursor:pointer">
+                                    <div class="title_set_logo animate-in animate-out"><img src="/files/banners/o_145407988168.png" width="250px" height="90px"></div>
+                                </li>
+                                                                                    </ul>
+
+                        <div class="sequence-pagination">
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                        <div class="pag_on"><img src="/images/tn-point1.png" alt="" /></div>
+                                                    </div>
+
+                    </div><!--id sequence-->
+
+                </div>
+            </div><!--slidex-->
+
+        </div>
+
+
+        <div class="flag_00" id="start2" ></div>
+        <div class="top_fol_01f"></div>
+        <div class="top_fol_01z"></div>
+        <div class="top_fol_01e"></div>
+
+
+
+        <div class="fol_03x">
+            <div class="namened_collection"><h1>РОССИЙСКАЯ ЧАСОВАЯ КОМПАНИЯ DENISSOV</h1><div class="smalltxet">год основания 1951</div></div>
+
+
+        </div>
+
+        <div class="header_i56_clear_niz"></div>
+
+
+        <div class="flag_00" id="start3" ></div>
+
+        <!--<div class="bracker"><div class="hline"></div></div>-->
+
+
+        <div class="grid_over">
+            <div class="namened_collection_all"><h1>НОВАЯ КОЛЛЕКЦИЯ</h1></div>
+            <div class="grid">
+
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_176966046984.png" alt="КУРАНТЫ"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/176956813548.png" alt="КУРАНТЫ"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/courant_ne82/">Go</a>
+                    </figcaption>
+                    <div class="covername">КУРАНТЫ</div>
+                    <div class="covertype">5 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_177034043736.png" alt="BARRACUDA 3105"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/176945907818.png" alt="BARRACUDA 3105"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/barracuda_3105_2/">Go</a>
+                    </figcaption>
+                    <div class="covername">BARRACUDA 3105</div>
+                    <div class="covertype">2 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_177067162587.png" alt="BARRACUDA POWER RESERVE "/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/177067053352.png" alt="BARRACUDA POWER RESERVE "/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/_3/">Go</a>
+                    </figcaption>
+                    <div class="covername">BARRACUDA POWER RESERVE </div>
+                    <div class="covertype">5 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_150987203249.png" alt="MOTO STYLE AUTOMATIC"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/150989311881.png" alt="MOTO STYLE AUTOMATIC"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/_2/">Go</a>
+                    </figcaption>
+                    <div class="covername">MOTO STYLE AUTOMATIC</div>
+                    <div class="covertype">6 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_153355766877.png" alt="BARRACUDA LIMITED"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/554047f513e867adb4e8a12582d6d1be3.png" alt="BARRACUDA LIMITED"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/barracuda_limited/">Go</a>
+                    </figcaption>
+                    <div class="covername">BARRACUDA LIMITED</div>
+                    <div class="covertype">4 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_154997811444.png" alt="FREE RIDER"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/2de67103cc07d7da05a09f3ae1220e271.png" alt="FREE RIDER"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/free_rider/">Go</a>
+                    </figcaption>
+                    <div class="covername">FREE RIDER</div>
+                    <div class="covertype">14 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_157892297622.png" alt="FREE RIDER"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="" alt="FREE RIDER"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/free_rider_2/">Go</a>
+                    </figcaption>
+                    <div class="covername">FREE RIDER</div>
+                    <div class="covertype">6 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_9c0e68e08a970b870ee043a509f9eac57.png" alt="BARRACUDA CHRONOGRAPH"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/554047f513e867adb4e8a12582d6d1be5.png" alt="BARRACUDA CHRONOGRAPH"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/barracuda_chronograph/">Go</a>
+                    </figcaption>
+                    <div class="covername">BARRACUDA CHRONOGRAPH</div>
+                    <div class="covertype">5 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_153365251070.png" alt="SPEEDSTER"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/00d2820b69a4a696f5a4f13052ebbc9b6.png" alt="SPEEDSTER"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/speedster/">Go</a>
+                    </figcaption>
+                    <div class="covername">SPEEDSTER</div>
+                    <div class="covertype">3 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_8c68cb30646430b35505827ea85ed94f1.png" alt="NAU AUTOMATIC"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/32b5f974b36b97867bab345f82ffeb139.png" alt="NAU AUTOMATIC"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/nau_automatic/">Go</a>
+                    </figcaption>
+                    <div class="covername">NAU AUTOMATIC</div>
+                    <div class="covertype">3 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_152749053417.png" alt="ENIGMA SPORT 2824"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="" alt="ENIGMA SPORT 2824"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/enigma_sport/">Go</a>
+                    </figcaption>
+                    <div class="covername">ENIGMA SPORT 2824</div>
+                    <div class="covertype">1 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_6a7a9d0a340895fdf11df707e764f07f7.png" alt="ENIGMA"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/e4a0b9404ce3b2f2494664e0431522fd3.png" alt="ENIGMA"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/enigma/">Go</a>
+                    </figcaption>
+                    <div class="covername">ENIGMA</div>
+                    <div class="covertype">9 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_a396e1340f624ca28982329e69fea6cb7.png" alt="LADY FLOWER"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/d1956c3a8b8702dd2b89ca86fdaedbfb7.png" alt="LADY FLOWER"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/lady_flower/">Go</a>
+                    </figcaption>
+                    <div class="covername">LADY FLOWER</div>
+                    <div class="covertype">9 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_b6de5c845291676659cff3c73e28a9995.png" alt="NUMBER ONE"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/1f218a38b9d8427923ceba21fb93a4953.png" alt="NUMBER ONE"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/number_one/">Go</a>
+                    </figcaption>
+                    <div class="covername">NUMBER ONE</div>
+                    <div class="covertype">5 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_158322172620.png" alt=" НАБОР COALITION"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="" alt=" НАБОР COALITION"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/nabor_coalition/">Go</a>
+                    </figcaption>
+                    <div class="covername"> НАБОР COALITION</div>
+                    <div class="covertype">1 МОДЕЛЕЙ</div>
+                </figure>
+                                <figure class="effect-bubba">
+                    <img src="/files/collections/o_152708391367.png" alt="BARRACUDA MECHANICAL"/>
+                    <figcaption>
+                        <div class="ht"></div>
+                        <div class="hm"><img src="/files/collections/554047f513e867adb4e8a12582d6d1be8.png" alt="BARRACUDA MECHANICAL"/></div>
+                        <p>Посмотреть модельный ряд</p>
+                        <a href="/barracuda_mechanical/">Go</a>
+                    </figcaption>
+                    <div class="covername">BARRACUDA MECHANICAL</div>
+                    <div class="covertype">7 МОДЕЛЕЙ</div>
+                </figure>
+                
+            </div>
+
+            <div class="orderplacebut">
+                <div class="bg-3">
+                    <button class="button button--wayra button--border-thick button--text-upper button--size-s button--text-thick button--inverted" onclick="window_oldcollection_show()">ИСТОРИЯ КОЛЛЕКЦИЙ</button>
+                </div>
+            </div><br /><br /><br />
+
+        </div><!-- /container -->
+
+
+
+
+        <div class="header_i56_clear_niz"></div>
+
+
+
+
+
+
+        <div class="flag_00" id="service" ></div>
+
+        <div class="top_fol_03s">
+
+            <div id="wrappers2">
+                                <div class="namened_01"><h1>ГАРАНТИЙНОЕ И ПОСТГАРАНТИЙНОЕ<br />ОБСЛУЖИВАНИЕ ЧАСОВ DENISSOV</h1></div>
+                <div class="namened_adr"><h1>ул. Марксистская, д.34, корп.8 (ст. м. Пролетарская)<br />
+                        <strong><h2>Тел.: +7(495)9214560</h2></strong> <br />
+                        e-mail: info@denissov.ru <br />
+                        Время работы: 9.30 &ndash; 18.00 (будние дни) <br />
+                        Выходные дни: суббота, воскресенье</h1></div>
+                            </div>
+
+        </div>
+
+
+
+
+
+
+        <div class="header_i56_clear_niz"></div>
+
+        <div class="flag_00" id="design" ></div>
+
+        <a href="#" onclick="window.open('/denissovdesign/index.html', '_blank')" style="cursor:pointer;">
+            <div class="top_fol_03design"  >
+                <div class="namened_dd"><h1>СТУДИЯ ЧАСОВОГО ДИЗАЙНА</h1></div>
+            </div></a>
+
+
+        <div class="header_i56_clear_niz"></div>
+        <div class="flag_00" id="start4" ></div>
+        <div class="top_fol_05">
+            <div class="contactsblock">
+
+                <div class="namened_00"><h1>КОНТАКТЫ</h1></div>
+                <div id="jork"></div>
+                <div class="map" style="z-index:999999;">
+                    <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=ZV3P5YwiVLLkYBdkddtcUug_PlAkr9B3&lang=ru_RU&sourceType=constructor"></script>
+                </div>
+<!--                <div class="map"><div id="map-canvas"></div></div>-->
+
+                <div class="c_inn_l">
+                    <table class="tablemod" ><tr>
+                            <!--/----------------------left-----------------------------/ -->
+                            <td class="tableset_left">
+                                <table>
+                                    <!--div class="soc" >
+                                <ul class="social">
+                                    <li><a href="http://vk.com/" aria-hidden="true" class="icon-vk"></a></li>
+                                    <li><a href="https://www.facebook.com/pages/" aria-hidden="true" class="icon-facebook-sign"></a></li>
+                                    <li><a href="http://twitter.com/" aria-hidden="true" class="icon-twitter-sign"></a></li>
+                                    <li><a href="https://www.instagram.com/" aria-hidden="true" class="icon-instagram"></a></li>
+                                    <li><a href="https://www.youtube.com/" aria-hidden="true" class="icon-youtube"></a></li>
+                                </ul>
+                                </div-->
+                                </table>
+                            </td>
+                            <!--/---------------------image-----------------------------/ -->
+                            <td class="tableset_center">
+                                                                    <div class="adrmap">ООО ЧАСОВАЯ КОМПАНИЯ &laquo;ДЕНИСОВ&raquo;<br />Офис в Москве:</div>
+                                    <div class="adrmap_grey">
+                                        ул. Марксистская, д.34, корп.8  (ст. м. Пролетарская) <br />
+                                        <strong><h2>Тел.: +7(495)9214560</h2></strong><br/>
+                                        e-mail: info@denissov.ru <br />
+                                        Время работы: 9.30 &ndash; 18.00 (будние дни)
+                                        Выходные дни: суббота, воскресенье
+                                    </div>
+                                                                <div class="orderplacebut">
+                                    <div class="bg-3">
+                                        <button class="button button--wayra button--border-thick button--text-upper button--size-s button--text-thick button--inverted" onclick="window_barracuda_limited_01_order()">ФОРМА СВЯЗИ</button>
+                                    </div>
+                                    <div style="clear:both"></div>
+                                </div>
+                                <div class="adrmap_grey" style="margin-top:50px;">
+                                    ИНН 7709601043<br>
+                                    КПП 770901001<br>
+                                    ОГРН 1057746542765<br>
+                                    ОКВЭД 33.50.1.<br>
+                                    ОКПО 76605964<br>
+                                    Филиал №7701 Банка ВТБ (ПАО) г.Москва<br>
+                                    Р/с 40702810237000003391<br>
+                                    К/с 30101810100000000716<br>                                    
+                                    БИК 044525745<br>
+                                    Юридический адрес:<br>
+                                    109147, г.Москва, ул. Марксистская, д.34, корп.8
+                                </div>
+
+                            </td>
+                            <!--/---------------------right-----------------------------/ -->
+                            <td class="tableset_right">
+                                <!--div class="adrmap">
+                                ООО ЧАСОВАЯ КОМПАНИЯ «DENISSOV»
+                                </div>
+                                  <div class="adrmap_grey">
+                                ИНН 7709601043 КПП 770901001<BR />
+                                Р/с 40702810237000003391<BR />
+                                ВТБ 24 (ЗАО) г. Москва<BR />
+                                К/с 30101810100000000716<BR />
+                                В ОПЕРУ Московского ГТУ Банка России<BR />
+                                БИК 044525716
+                                </div-->
+                            </td>
+                            <!--/-------------------------------------------------------/ -->
+                        </tr></table>
+
+
+                </div>
+
+                <div class="header_i56_clear_niz"></div>
+                <div id="wrapperx_niz"><div class="text_niz_2">
+                        РОССИЙСКАЯ ЧАСОВАЯ КОМПАНИЯ &laquo;DENISSOV&raquo; <br />Год основания 1951                    </div></div>
+
+                <div class="header_i56_grey_niz"></div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<!--end container_all-->
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/collection/scripts_styles/php_mailer.css"/>
+
+<!--/------------------------- ОКНО ЗАКАЗА-------------------------------/ -->
+
+<div id="layer_over_barracuda_limited_01_order" >
+    <div class="close_box_order" onclick="window_hide_permanent_order()">
+        <figure class="effect-bubbat">
+            <figcaption>
+                <div class="ht"></div>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="header_l"><div class="logo_t"></div></div>
+    <div class="titlus_order">ФОРМА ОБРАТНОЙ СВЯЗИ</div>
+    <div id="wrapperx">
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+
+                function isValidEmailAddress(emailAddress) {
+                    var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+                    return pattern.test(emailAddress);
+                }
+
+                $("#user_tel_1").keyup(function(){
+                    var x = $(this).val().replace(/[^\d\.]/g, '');
+                    $(this).val(x);
+                });
+
+                $("#user_fio_1").keyup(function(){
+                    var x = $(this).val().replace(/[\d\.]/g, '');
+                    $(this).val(x);
+                });
+
+                $('#btn_submit_1').click(function(){
+                    var user_fio_1 	  	= $('#user_fio_1').val();
+                    var user_tel_1 	  	= $('#user_tel_1').val();
+                    var user_email_1 	= $('#user_email_1').val();
+                    var text_comment_1 	= $('#text_comment_1').val();
+                    var user_country_1 	= $('#user_country_1').val();
+                    if (!user_fio_1.length || !user_tel_1.length || !user_email_1.length) {
+                        alert('Заполните, пожалуйста, все поля');
+                        return;
+                    }
+
+                    if (!isValidEmailAddress(user_email_1)) {
+                        alert('E-mail введен некорректно');
+                        return;
+                    }
+
+                    window_hide_permanent_order();
+                    window_barracuda_limited_010_order();
+                    $.ajax({
+                        url: "../sendmail.php",
+                        type: "post",
+                        dataType: "json",
+                        data: {
+                            "user_fio_1": 		user_fio_1,
+                            "user_tel_1": 		user_tel_1,
+                            "user_email_1": 	user_email_1,
+                            "text_comment_1": 	text_comment_1,
+                            "user_country_1": 	user_country_1,
+                            "lang": 'ru'
+                        },
+                        success: function(data){
+                            if (data && data.type == 'ok') {
+//                                $('#btn_submit_1').html(data.data);
+                                $('#user_fio_1').val('');
+                                $('#user_tel_1').val('');
+                                $('#user_email_1').val('');
+                                $('#text_comment_1').val('');
+  if (typeof ym === 'function') {
+            ym(51442609, 'reachGoal', 'order');
+            console.log('Метрика: цель "order" отправлена');
+        }
+//                                setTimeout(function(){
+//                                    $('#btn_submit_1').html('//');
+//                                }, 3000);
+                            }
+                            else {
+                                alert(data.data);
+                            }
+                        }
+                    });
+                });
+            });
+        </script>
+
+        <br/>
+        <div class="messages_1"></div>
+        <br/>
+
+        <label>Ваше ФИО:</label><br/>
+        <input class="input" type="text" id="user_fio_1" value="" /><br/>
+
+        <label>Ваш телефон:</label><br/>
+        <input class="input" type="text" id="user_tel_1" value="" /><br/>
+
+
+        <label>Город:</label><br/>
+        <input class="input" type="text" id="user_country_1" value="" /><br/>
+
+        <label>Ваш e-mail:</label><br/>
+        <input class="input" type="text" id="user_email_1" value="" /><br/>
+
+        <label>Текст сообщения:</label><br/>
+        <textarea class="textulate" id="text_comment_1"></textarea>
+
+        <div class="sbtn_1">
+            <div class="sbtn_centered">
+                <div class="buttond button--habra buttond--border-thick buttond--text-upper buttond--size-s buttond--inverted" id="btn_submit_1">Отправить</div>
+            </div>
+        </div>
+
+        <style>
+            .buttond {
+                width: 100%;
+                display: block;
+                margin: 0em 0 0em 0;
+                padding: 1.3em 0em 1.3em 0;
+                border: none;
+                background: none;
+                color: inherit;
+                vertical-align: middle;
+                position: relative;
+                z-index: 1;
+                text-align:center;
+                -webkit-backface-visibility: hidden;
+                -moz-osx-font-smoothing: grayscale;
+
+                cursor:pointer;
+            }
+            .buttond:focus {
+                outline: none;
+            }
+            .buttond > span {
+                vertical-align: middle;
+            }
+            .sbtn_1{ position:relative; width:100%; height:50px; background:none; margin-top:20px; z-index:200; text-align:center; padding: 0 0px 0 0px;}
+            .sbtn_centered{
+                position:absolute;
+                width:300px;
+                left:50%;
+                margin-left:-150px;
+                padding-top:0px;
+                color:#666;
+                text-decoration:none;
+                font-family: 'Century Gothic';
+                font-size:20px;
+                letter-spacing:0.06em;
+                font-weight:600;
+                text-transform:uppercase;
+                background:none;
+            }
+            .buttond--text-thick {
+                font-weight: 600;
+            }
+
+            /* Borders */
+            .buttond--border-thick {
+                border: 0px solid;
+                border-color: #fff;
+                color: #000;
+                background:#d48231;
+            }
+            .button--habra {
+                overflow: hidden;
+                width:  100%;
+                -webkit-transition: border-color 0.3s, color 0.3s;
+                transition: border-color 0.3s, color 0.3s;
+                -webkit-transition-timing-function: cubic-bezier(0.2, 1, 0.5, 1);
+                transition-timing-function: cubic-bezier(0.2, 1, 0.5, 1);
+            }
+            .button--habra::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 150%;
+                height: 100%;
+                background: #000;
+                z-index: -1;
+                -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
+                transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
+                -webkit-transform-origin: 0% 100%;
+                transform-origin: 0% 100%;
+                -webkit-transition: -webkit-transform 0.5s, opacity 0.5s, background-color 0.5s;
+                transition: transform 0.5s, opacity 0.5s, background-color 0.5s;
+            }
+            .button--habra:hover {
+                color: #fff;
+                border-color: #fff;
+            }
+            .button--habra.buttond--inverted:hover {
+                color: #000;
+                border-color: #fff;
+                cursor:pointer;
+            }
+            .button--habra:hover::before {
+                opacity: 1;
+                background-color: #fff;
+                -webkit-transform: rotate3d(0, 0, 1, 0deg);
+                transform: rotate3d(0, 0, 1, 0deg);
+                -webkit-transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+                transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
+            }
+            .button--habra.buttond--inverted:hover::before {
+                background-color: #fff;
+            }
+            .buttond--text-upper {
+                letter-spacing: 0px;
+                text-transform: uppercase;
+            }
+            .buttond--text-thick {
+                font-weight: 600;
+            }
+            .buttond--size-s {
+                font-size: 13px;
+                font-weight:800;
+                font-family: 'Century Gothic';
+            }
+            #layer_order_sending {
+                position:absolute;
+                top:110px;
+                left:20%;
+                width:60%;
+                height:80%;
+                z-index:6600;
+                padding:30px 10px 130px 10px;
+                display:none;
+                margin-top:0;
+                z-index:6605;
+                background: #000 url(/collection/shop/images/sndbg.jpg);
+                background-position:center center;
+                background-repeat:no-repeat;
+                background-size: contain;
+                border:20px solid #333;
+            }
+            @media screen and (max-width: 860px) {
+                #layer_order_sending {
+                    position:absolute;
+                    top:0px;
+                    left:0%;
+                    width:100%;
+                    padding:30px 0px 130px 0px;
+                    display:none;
+                    margin-top:0;
+                    z-index:6605;
+                    background:#000;
+                    background-position:top center;
+                    background-repeat:no-repeat;
+                    background-size: contain;
+                    border:0px solid #333;
+                }
+            }
+            #layer_order_sending .titlus_order {
+                position:absolute;
+                text-align:center;
+                bottom:105px;
+                width:76%;
+                height:30px;
+                margin-left:12%;
+                margin-bottom:0px;
+                color:#fff;
+                text-decoration:none;
+                font-family: 'Century Gothic';
+                font-size:22px;
+                letter-spacing:0.08em;
+            }
+        </style>
+<!--        <br/>-->
+<!--        <input class="myButton" type="button" value="--><!--" id="btn_submit_1" />-->
+
+    </div>
+
+</div>
+
+<!--end over projects-->
+
+<div id="layer_order_sending" >
+    <div class="close_box_order" onclick="window_hide_permanent_order10()">
+        <figure class="effect-bubbat"><figcaption><div class="ht"></div></figcaption></figure></div>
+    <div class="header_l"><div class="logo_t"></div></div>
+    <div class="titlus_order">Благодарим Вас за обращение! Ваша заявка принята.</div>
+    <div id="wrapperx">
+        <div class="messages_1"></div>
+    </div>
+</div>
+
+<!--/-----------------------------------------------------------------------------/ -->
+<!--/---------------------------------ВСПЛЫВУШКИ----------------------------------/ -->
+<!--/-----------------------------------------------------------------------------/ -->
+<!--/-----------------------------------------------------------------------------/ -->
+
+<!--/----------------------------ОКНО МОДЕЛЬНЫЙ РЯД-------------------------------/ -->
+
+<div id="layer_over_barracuda_limited_all_model" >
+    <div class="insideover">
+        <div id="layer_box">
+            <div class="close_box" onclick="window_barracuda_limited_hide_all()"><figure class="effect-bubbat">
+                    <figcaption>
+                        <div class="ht"></div>
+                    </figcaption>
+                </figure></div>
+            <div class="close_bg"></div>
+            <div class="header_l"><div class="logo_t"></div></div>
+            <div class="titlus">ТОЧКИ ПРОДАЖ ЧАСОВ DENISSOV</div>
+
+            <!--/-----------------------------------------------------------/ -->
+
+            <div class="header_i56_clear_niz2"></div>
+            <div class="pointsales_table">
+                <table class="tablemod_sale" ><tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titlusale">Торговый дом &laquo;Слава&raquo;</div>
+                            <table width="100%" border="0">
+
+                                <tr>
+                                    <td class="dib_set1">Город</td>
+                                    <td class="dib_set1">Название</td>
+                                    <td class="dib_set1">Адрес</td>
+                                    <td class="dib_set1">Телефон</td>
+                                    <td class="dib_set1">Время работы</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set2"><h2>Москва</h2></td>
+                                    <td class="dib_set2">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set2">Ленинградский пр-т д.10</td>
+                                    <td class="dib_set2"><h2>8 (495) 612-15-90</h2></td>
+                                    <td class="dib_set2">с 10:00 до 20:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Москва</h2></td>
+                                    <td class="dib_set3">ЗОЛОТЫЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Ленинградский пр-т д.10</td>
+                                    <td class="dib_set3"><h2>8 (495) 614-03-94</h2></td>
+                                    <td class="dib_set3">с 10:00 до 20:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Москва</h2></td>
+                                    <td class="dib_set3">ИМПОРТНЫЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Ленинградский пр-т д.10</td>
+                                    <td class="dib_set3"><h2>8 (495) 612-15-77</h2></td>
+                                    <td class="dib_set3">с 10:00 до 20:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Москва</h2></td>
+                                    <td class="dib_set3">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Планерная, д.7</td>
+                                    <td class="dib_set3"><h2>8 (499) 503-06-26</h2></td>
+                                    <td class="dib_set3">с 10:00 до 22:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Москва</h2></td>
+                                    <td class="dib_set3">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Мира пр. 33, корп.1</td>
+                                    <td class="dib_set3"><h2></h2></td>
+                                    <td class="dib_set3">с 10:00 до 22:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Санкт-Петербург</h2></td>
+                                    <td class="dib_set3">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Лермонтовский, пр. 55</td>
+                                    <td class="dib_set3"><h2>8 (812) 251-52-28</h2></td>
+                                    <td class="dib_set3">с 10:00 до 20:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Санкт-Петербург</h2></td>
+                                    <td class="dib_set3">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Гороховая, д. 34</td>
+                                    <td class="dib_set3"><h2>8 (812) 407-41-16</h2></td>
+                                    <td class="dib_set3">с 10:00 до 20:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Новосибирск</h2></td>
+                                    <td class="dib_set3">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set3">Романова, 35</td>
+                                    <td class="dib_set3"><h2>8 (383) 209-24-04</h2></td>
+                                    <td class="dib_set3">с 10:00 до 20:00</td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                    </tr></table>
+            </div>
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="clearux"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+            <div class="header_i56_clear_niz2"></div>
+            <div class="pointsales_table">
+                <table class="tablemod_sale" ><tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titlusale">ООО &laquo;Таймлаундж&raquo;</div>
+                            <table width="100%" border="0">
+
+                                <tr>
+                                    <td class="dib_set1">Город</td>
+                                    <td class="dib_set1">Название</td>
+                                    <td class="dib_set1">Адрес</td>
+                                    <td class="dib_set1">Телефон</td>
+                                    <td class="dib_set1">Время работы</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set2"><h2>Москва</h2></td>
+                                    <td class="dib_set2">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set2">ул. Старый Арбат,
+                                        д. 11 (2-й этаж)</td>
+                                    <td class="dib_set2"><h2>+7 (495) 690-27-81</h2></td>
+                                    <td class="dib_set2">с 10:00 до 21:00</td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                    </tr></table>
+            </div>
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="clearux"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+            <div class="header_i56_clear_niz2"></div>
+            <div class="pointsales_table">
+                <table class="tablemod_sale" ><tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titlusale">ООО Часовой салон &laquo;ПОЛЕТ&raquo;</div>
+                            <table width="100%" border="0">
+
+                                <tr>
+                                    <td class="dib_set1">Город</td>
+                                    <td class="dib_set1">Название</td>
+                                    <td class="dib_set1">Адрес</td>
+                                    <td class="dib_set1">Телефон</td>
+                                    <td class="dib_set1">Время работы</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set2"><h2>Москва</h2></td>
+                                    <td class="dib_set2">РУССКИЕ ЧАСЫ</td>
+                                    <td class="dib_set2">ул. Марксистская, д.34,кор.8</td>
+                                    <td class="dib_set2"><h2>+7(495) 911-67-25</h2></td>
+                                    <td class="dib_set2">с 10:00 до 21:00</td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                    </tr></table>
+            </div>
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="clearux"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+            <div class="header_i56_clear_niz2"></div>
+            <div class="pointsales_table">
+                <table class="tablemod_sale" ><tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titlusale">Часовая компания &laquo;Академия Времени&raquo;</div>
+                            <table width="100%" border="0">
+
+                                <tr>
+                                    <td class="dib_set1">Город</td>
+                                    <td class="dib_set1">Название</td>
+                                    <td class="dib_set1">Адрес</td>
+                                    <td class="dib_set1">Телефон</td>
+                                    <td class="dib_set1">Время работы</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set2"><h2>Тюмень</h2></td>
+                                    <td class="dib_set2">АКАДЕМИЯ ВРЕМЕНИ</td>
+                                    <td class="dib_set2">ул. Республики 131/4</td>
+                                    <td class="dib_set2"><h2>+7(3452) 50-38-28</h2></td>
+                                    <td class="dib_set2">с 10:00 до 21:00</td>
+                                </tr>
+
+
+                            </table>
+                        </td>
+                    </tr></table>
+            </div>
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="clearux"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+            <div class="header_i56_clear_niz2"></div>
+            <div class="pointsales_table">
+                <table class="tablemod_sale" ><tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titlusale">&laquo;АвиаторТайм&raquo;</div>
+                            <table width="100%" border="0">
+
+                                <tr>
+                                    <td class="dib_set1">Город</td>
+                                    <td class="dib_set1">Название</td>
+                                    <td class="dib_set1">Адрес</td>
+                                    <td class="dib_set1">Телефон</td>
+                                    <td class="dib_set1">Время работы</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set2"><h2>Москва</h2></td>
+                                    <td class="dib_set2">ФЛАГМАН</td>
+                                    <td class="dib_set2">Новый Арбат 13</td>
+                                    <td class="dib_set2"><h2>+7(495) 532-52-19</h2></td>
+                                    <td class="dib_set2">с 10:00 до 21:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Москва</h2></td>
+                                    <td class="dib_set3">АВИАТОР</td>
+                                    <td class="dib_set3">Новый Арбат 15</td>
+                                    <td class="dib_set3"><h2>+7(495) 517-43-45</h2></td>
+                                    <td class="dib_set3">с 10:00 до 21:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Москва</h2></td>
+                                    <td class="dib_set3">ТРЦ "РЕЧНОЙ"</td>
+                                    <td class="dib_set3">м. Речной вокзал</td>
+                                    <td class="dib_set3"><h2>+7(495) 517-43-45</h2></td>
+                                    <td class="dib_set3">с 10:00 до 21:00</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set3"><h2>Моск. Обл.</h2></td>
+                                    <td class="dib_set3">ЧАСЫ</td>
+                                    <td class="dib_set3">Шереметьево терминал "Аэроэкспресс"</td>
+                                    <td class="dib_set3"><h2>+7(495) 517-43-45</h2></td>
+                                    <td class="dib_set3">с 10:00 до 21:00</td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr></table>
+            </div>
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="clearux"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+            <div class="header_i56_clear_niz2"></div>
+            <div class="pointsales_table">
+                <table class="tablemod_sale" ><tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titlusale">РУССКИЙ ХРОНОГРАФ</div>
+                            <table width="100%" border="0">
+
+                                <tr>
+                                    <td class="dib_set1">Город</td>
+                                    <td class="dib_set1">Название</td>
+                                    <td class="dib_set1">Адрес</td>
+                                    <td class="dib_set1">Телефон</td>
+                                    <td class="dib_set1">Время работы</td>
+                                </tr>
+                                <tr>
+                                    <td class="dib_set2"><h2>Москва</h2></td>
+                                    <td class="dib_set2">РУССКИЙ ХРОНОГРАФ</td>
+                                    <td class="dib_set2">Измайловское шоссе, 73ж Комплекс Вернисаж в Измайлово</td>
+                                    <td class="dib_set2"><h2>+7(499) 760-45-91</h2></td>
+                                    <td class="dib_set2">с 10:00 до 18:00</td>
+                                </tr>
+
+                            </table>
+                        </td>
+                    </tr></table>
+            </div>
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div id="wrapperx_niz"><div class="text_niz_2">
+                    РОССИЙСКАЯ ЧАСОВАЯ КОМПАНИЯ &laquo;DENISSOV&raquo; <br />Год основания 1951<br />Тел.: +7(495)9214560
+                </div></div>
+
+        </div>
+    </div>
+</div>
+
+<!--/----------------------------END ОКНО МОДЕЛЬНЫЙ РЯД-------------------------------/ -->
+
+
+
+<!--/-----------------------------------------------------------------------------/ -->
+<!--/----------------------ВСПЛЫВУШКА О КОМПАНИИ----------------------------------/ -->
+<!--/-----------------------------------------------------------------------------/ -->
+<!--/-----------------------------------------------------------------------------/ -->
+
+
+<div id="layer_over_company" >
+    <div class="insideover">
+        <div id="layer_box">
+            <div class="close_box_comp" onclick="window_company_hide()"><figure class="effect-bubbat">
+                    <figcaption>
+                        <div class="ht"></div>
+                    </figcaption>
+                </figure></div>
+            <div class="close_bg"></div>
+            <div class="topcomp"></div>
+            <div class="titluscomp">ЧАСОВАЯ компания</div>
+ <div class="pointsales_table">
+                <table class="tablemod_sale" >
+                    <tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titluscomp_2">Часовая  компания  "Denissov" - это российская компания по производству наручных коллекционных часов. Компания основана главным конструктором Первого    Московского    часового    завода "Полет"   Денисовым   Владимиром Андреевичем,часовой опыт и профессиональная карьера которого начались в 1951 году.
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="header_i56_clear_niz_c1"></div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="pointsales_table">
+                <table class="tablemod_sale" >
+                    <tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titluscomp_2">Мы создаем серии часов к значимым датам
+                                и событиям мировой истории.
+                                Выпуск лимитирован -каждая коллекция выпускается
+                                в ограниченном количестве экземпляров.
+                                На крышке всех наших часов
+                                стоит индивидуальный серийный номер.
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="topcomp_2"></div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="pointsales_table">
+                <table class="tablemod_sale" >
+                    <tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titluscomp_2">Часы &laquo;DENISSOV&raquo; соответствуют европейским стандартам качества.
+                                При их создании используются износостойкие материалы, браслеты
+                                и ремни делаются удобными, а многие модели обладают
+                                противоударным механизмом и повышенной водонепроницаемостью.
+                                Все часы комплектуются ремнями из натуральной кожи, а корпуса
+                                изготавливаются из высококачественной стали, что в сочетании
+                                с сапфировым стеклом и стильным футляром является достойным подарком
+                                к любому событию. Часы &laquo;DENISSOV&raquo; - это отличные коллекционные часы,
+                                доступные многим ценителям.
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="header_i56_clear_niz3"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+
+            <table class="tablesetcomp_bigsize">
+                <tr>
+
+                    <td class="tablesetcomp_left">
+                        <img src="/images/comp_001.jpg" width="100%">
+                        <div class="typmodelsetcomp">ДИЗАЙН</div>
+
+                        Дизайн наших часов
+                        разрабатывается группой
+                        специалистов, в которую входят
+                        маркетологи, дизайнеры-концептуалисты,
+                        конструкторы. Отправной точкой
+                        для них является стремление создать
+                        собственный неповторимый, узнаваемый
+                        стиль, характерный только для марки
+                        &laquo;DENISSOV&raquo;. Мы не копируем уже
+                        созданные модели других
+                        компаний, а создаем дизайн наших
+                        часов с &laquo;нуля&raquo;.
+                    </td>
+
+                    <td class="tablesetcomp_center">
+                    </td>
+
+                    <td class="tablesetcomp_right">
+                        <img src="/images/comp_002.jpg" width="100%">
+                        <div class="typmodelsetcomp">СТИЛЬ</div>
+
+                        Стиль часов DENISSOV это &mdash;
+                        полированные стальные покрытия
+                        в сочетании с шлифованными, кожаными
+                        и каучуковыми элементами. Гармоничное
+                        цветовое сочетание, лаконичный и
+                        неповторимый дизайн &mdash; все это
+                        делает стиль часов DENISSOV
+                        неповторимым.
+                    </td>
+
+                </tr>
+            </table>
+
+
+
+
+            <div class="tablesetcomp_bigsize_ipho">
+
+
+                <div class="tablesetcomp_left_ipho">
+                    <img src="/images/comp_001.jpg" width="100%">
+                    <div class="typmodelsetcomp">ДИЗАЙН</div>
+
+                    Дизайн наших часов
+                    разрабатывается группой
+                    специалистов, в которую входят
+                    маркетологи, дизайнеры-концептуалисты,
+                    конструкторы. Отправной точкой
+                    для них является стремление создать
+                    собственный неповторимый, узнаваемый
+                    стиль, характерный только для марки
+                    &laquo;DENISSOV&raquo;. Мы не копируем уже
+                    созданные модели других
+                    компаний, а создаем дизайн наших
+                    часов с &laquo;нуля&raquo;.
+                </div>
+
+                <div class="tablesetcomp_center_ipho">
+                </div>
+
+                <div class="tablesetcomp_right_ipho">
+                    <img src="/images/comp_002.jpg" width="100%">
+                    <div class="typmodelsetcomp">СТИЛЬ</div>
+
+                    Стиль часов DENISSOV это &mdash;
+                    полированные стальные покрытия
+                    в сочетании с шлифованными, кожаными
+                    и каучуковыми элементами. Гармоничное
+                    цветовое сочетание, лаконичный и
+                    неповторимый дизайн &mdash; все это
+                    делает стиль часов DENISSOV
+                    неповторимым.
+                </div>
+
+
+            </div>
+
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="topcomp_3"></div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="header_i56_clear_niz2"></div>
+
+
+
+            <!--/-----------------------------------------------------------/ -->
+            <div id="wrapperx_niz"><div class="text_niz_2">
+                    РОССИЙСКАЯ ЧАСОВАЯ КОМПАНИЯ &laquo;DENISSOV&raquo; <br />Год основания 1951<br />Тел.: +7(495)9214560
+                </div></div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!--/-----------------------------------------------------------------------------/ -->
+<!--/----------------------ВСПЛЫВУШКА ИСТОРИЯ КОЛЛЕКЦИИ----------------------------------/ -->
+<!--/-----------------------------------------------------------------------------/ -->
+<!--/-----------------------------------------------------------------------------/ -->
+
+
+<div id="layer_over_oldcollection" >
+    <div class="insideover">
+        <div id="layer_box">
+            <div class="close_box_comp" onclick="window_oldcollection_hide()"><figure class="effect-bubbat">
+                    <figcaption>
+                        <div class="ht"></div>
+                    </figcaption>
+                </figure></div>
+            <div class="close_bg"></div>
+            <div class="topcollect_1"></div>
+            <div class="titluscomp">ИСТОРИЯ КОЛЛЕКЦИЙ</div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div class="header_i56_clear_niz_c1"></div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="pointsales_table">
+                <table class="tablemod_sale" >
+                    <tr>
+                        <td style="width:100%; background:none;">
+                            <div class="titluscomp_2">
+                                                                        Что невозможно скопировать? Опыт. &laquo;Можно повторить&raquo;
+                                        понравившийся дизайн, создать созвучный слоган,
+                                        провести похожую рекламную компанию.
+                                        Но реальный, живой опыт ничем не заменить.
+                                                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <!--/-----------------------------------------------------------/ -->
+            <div class="topcollection_2"></div>
+            <!--/-----------------------------------------------------------/ -->
+
+
+
+
+            <div class="grid_over_win">
+                <div class="grid_win">
+
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/e14fcce6ed52e6331f671eee75b52a2e4.png" alt="BARRACUDA"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/barracuda_31681/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">BARRACUDA</div>
+                        <div class="covertype">хронограф 31681</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/54bd4f57fcdfb80c339d354dd3dfe4a92.png" alt="MOTO STYLE"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/moto_style_31681/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">MOTO STYLE</div>
+                        <div class="covertype">хронограф 31681</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/c62b95cbcb827f82bd9c6a254fc661042.png" alt="AERONAVIGATOR"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/aeronavigator_31681/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">AERONAVIGATOR</div>
+                        <div class="covertype">хронограф 31681</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/8e1cd2319f8031923ba3aeb538ba28406.png" alt="SPEEDSTER"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/speedster_31681/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">SPEEDSTER</div>
+                        <div class="covertype">хронограф 31681</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/8f97cf0d6831d3babb83bd2f76739f233.png" alt="VODOLAZ"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/vodolaz_3133/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">VODOLAZ</div>
+                        <div class="covertype">хронограф 3133</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/79e7f8976293ea198fa50b8dd8ae72a27.png" alt="COALITION"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/coalition_3133/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">COALITION</div>
+                        <div class="covertype">хронограф 3133</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/c84c074defe04a85098c9f8edc591d249.png" alt="BARRACUDA"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/barracuda_3105/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">BARRACUDA</div>
+                        <div class="covertype">механические 3105</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/4adeffbd254e2c4adce35ae2155ecc949.png" alt="VODOLAZ"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/vodolaz_3105/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">VODOLAZ</div>
+                        <div class="covertype">механические 3105</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/d96ea7785d68ced224f489f23c7422229.png" alt="NAUTIULUS"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/nautiulus_2824/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">NAUTIULUS</div>
+                        <div class="covertype">автоматические 2824</div>
+                    </figure>
+                                        <figure class="effect-bubba">
+                        <img src="/files/collections/bdc28f239ea536ccd97c96682ab1f3186.png" alt="ENIGMA"/>
+                        <figcaption>
+                            <div class="ht" onclick="window.open('/history/enigma_2824/', '_top')"></div>
+                            <p>ПОСМОТРЕТЬ АРХИВ</p>
+                        </figcaption>
+                        <div class="covername">ENIGMA</div>
+                        <div class="covertype">автоматические 2824</div>
+                    </figure>
+                    
+                    <br /><br />
+                </div>
+            </div>
+
+            <br /><br />
+
+            <div class="header_i56_clear_niz2"></div>
+
+            <!--/-----------------------------------------------------------/ -->
+            <div id="wrapperx_niz"><div class="text_niz_2">
+                    РОССИЙСКАЯ ЧАСОВАЯ КОМПАНИЯ &laquo;DENISSOV&raquo; <br />Год основания 1951<br />Тел.: +7(495)9214560
+                </div></div>
+
+        </div>
+    </div>
+</div>
+
+<!--/div-->
+<!--/div-->
+<script src="/preloader/classie.js"></script>
+<script src="/preloader/pathLoader.js"></script>
+<script src="/preloader/main.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $("#layer_startup_bg").css("display","block").delay(100).fadeOut(1100);});
+</script>
+
+<!--<script src="/js/smooth_scroll.js" type="text/javascript"></script>-->
+<script src="/js/sscr.js" type="text/javascript"></script>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31825456 = new Ya.Metrika({
+                    id:31825456,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/31825456" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet-->
+
+</body></html>

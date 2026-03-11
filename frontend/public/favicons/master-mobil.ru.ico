@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+	<title></title>
+	<link rel="shortcut icon" type="image/x-icon" href="/bitrix/templates/corp_services_orange/favicon.ico" />
+
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/corp_services_orange/common.css" />
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="ремонт сотовых телефонов, ремонт радиотелефонов, ремонт ноутбуков, ремонт видеорегистраторов, ремонт GPS навигаторов, ремонт брелков автосигнализаций, ремонт цифровых фотоаппаратов, ремонт игровых приставок, ремонт PSP" />
+<meta name="description" content="Сеть сервисных центров &amp;quot;Мастер Мобил&amp;quot; предлагает услуги по ремонту цифровой техники и осуществляет продажу оборудования и запчастей для ремонта оптом и в розницу." />
+<link href="/bitrix/cache/css/nz/corp_services_orange/kernel_main/kernel_main.css?163927805534918" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/nz/corp_services_orange/kernel_socialservices/kernel_socialservices.css?16387193165231" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/nz/corp_services_orange/page_e4973404f1106a04525ed3c2b94d4deb/page_e4973404f1106a04525ed3c2b94d4deb.css?1638719316905" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/nz/corp_services_orange/template_f4d53a6a88e1ee29a2a12603e3fe3bf1/template_f4d53a6a88e1ee29a2a12603e3fe3bf1.css?163871853914393" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'nz','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1772394552','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'091f5c8cde55d27e99abb4cf55089252'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1596478043117643"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.js?159647804311148"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?159647804335797"></script>
+<script type="text/javascript" src="/bitrix/js/main/json/json2.min.js?15964780443442"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.js?159647804310430"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_fx.js?159647804316888"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.js?159647804317555"></script>
+<script type="text/javascript" src="/bitrix/js/socialservices/ss.js?15964780441419"></script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/js/socialservices/css/ss.css','/bitrix/templates/corp_services_orange/components/bitrix/system.auth.authorize/.default/style.css','/bitrix/components/bitrix/menu/templates/horizontal_multilevel/style.css','/bitrix/templates/corp_services_orange/styles.css','/bitrix/templates/corp_services_orange/template_styles.css']); </script>
+<script type="text/javascript">var bxDate = new Date(); document.cookie="BITRIX_SM_TIME_ZONE="+bxDate.getTimezoneOffset()+"; path=/; expires=Fri, 01-Jan-2038 00:00:00 GMT"</script>
+
+
+
+<script type="text/javascript" src="/bitrix/components/bitrix/menu/templates/horizontal_multilevel/script.js?1596478027470"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "3432422b61daac10808c32eb58ae6e99"]); _ba.push(["host", "www.master-mobil.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	
+	<!--[if lte IE 6]>
+	<style type="text/css">
+
+		#support-question { 
+			background-image: none;
+			filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./images/question.png', sizingMethod = 'crop'); 
+		}
+		
+		#support-question { left: -9px;}		
+
+		
+		
+		
+	</style>
+	<![endif]-->
+
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/corp_services_orange/colors.css" />
+	<script src="/bitrix/templates/corp_services_orange/js/jquery.js"></script>
+<!-- bxSlider Javascript file -->
+<script src="/bitrix/templates/corp_services_orange/js/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<link href="/bitrix/templates/corp_services_orange/js/jquery.bxslider.css" rel="stylesheet" />
+
+<script>$(document).ready(function(){
+  $('.bxslider').bxSlider({
+  auto: true,
+  });
+});
+</script>		
+</head>
+<body>
+		<div id="page-wrapper">
+		
+			<div id="panel"></div>
+	
+			<div id="header">
+				<table>
+					<tr>
+						<td id="logo"><a href="/" title="На главную страницу"></a></td>
+						<td id="slogan">
+<table cellpadding="0" cellspacing="0" style="width: 86%;">
+<tbody>
+<tr>
+	<td style="width:375px;text-align:left;" id="slogan"><p style="text-align: left;">
+ <a href="http://master-mobil.ru/index.php"><img width="159" alt="логотип17.png" src="/upload/medialibrary/478/4784f79e794f7c976028fb40da941185.png" height="77" title="логотип17.png"></a>
+</p></td>
+	<td>
+</td>
+</tr>
+
+</tbody>
+</table>
+</td>
+					</tr>
+				</table>
+
+
+				<div id="search">
+					<div class="flat">
+	<form action="/search/index.php">
+	<div id="search-button">
+			<input type="submit" name="s" id="search-submit-button" value="Поиск" onfocus="this.blur();">
+	</div>
+	<div class="search-box"><input type="text" name="q"></div>
+	</form>
+	</div>				</div>
+			</div>
+				<br/><br/>
+
+<ul id="horizontal-multilevel-menu">
+
+
+	
+	
+		
+							<li><a href="/company/index.php" class="root-item">О компании</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/cervisnie_centri/index.php" class="root-item">Сервисные центры</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/uslugi/index.php" class="root-item">Ремонт</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/preyskurant-tsen/index.php" class="root-item">Прейскурант</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/garantii/index.php" class="root-item">Гарантии</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/sroki_remonta/index.php" class="root-item">Сроки ремонта</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/" class="root-item">Новости</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/contact/index.php" class="root-item">Контакты</a></li>
+			
+		
+	
+	
+
+
+</ul>
+<div class="menu-clear-left"></div>
+				
+		
+			<div id="content-wrapper">
+				<div id="content">
+									<div id="breadcrumb">
+											</div>					
+									
+					<div id="workarea-wrapper">
+						<div id="left-menu">
+						
+
+<ul class="left-menu">
+<li ><a  href="/cervisnie_centri/kit/index.php">Крупской 79а</a><li ><a  href="/cervisnie_centri/agat/index.php">Тургенева 21</a><li ><a  href="/cervisnie_centri/Mira/index.php">Мира 130</a></ul>
+						</div>						
+						<div id="workarea">
+							<div id="workarea-inner">
+							<h5></h5> 
+
+<div class="content-form login-form">
+<div class="fields">
+
+<form name="form_auth" method="post" target="_top" action="/favicon.ico">
+
+	<input type="hidden" name="AUTH_FORM" value="Y" />
+	<input type="hidden" name="TYPE" value="AUTH" />
+		<input type="hidden" name="backurl" value="/favicon.ico" />
+			<div class="field">
+		<label class="field-title">Логин</label>
+		<div class="form-input"><input type="text" name="USER_LOGIN" maxlength="50" value="" class="input-field" /></div>
+	</div>	
+	<div class="field">
+		<label class="field-title">Пароль</label>
+		<div class="form-input"><input type="password" name="USER_PASSWORD" maxlength="50" class="input-field" />
+		</div>
+	</div>
+				<div class="field field-option">
+			<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" /><label for="USER_REMEMBER">&nbsp;Запомнить меня</label>
+		</div>
+		<div class="field field-button">
+		<input type="submit" name="Login" value="Войти" />
+	</div>
+<noindex>
+			<div class="field">
+		<a href="/favicon.ico?register=yes" rel="nofollow"><b>Регистрация</b></a><br />
+		Если вы впервые на сайте, заполните пожалуйста  <a href="/favicon.ico?register=yes" rel="nofollow">регистрационную форму.</a>
+		</div>
+		<div class="field">
+<a href="/favicon.ico?forgot_password=yes" rel="nofollow"><b>Забыли свой пароль?</b></a><br />
+Следуйте  <a href="/favicon.ico?forgot_password=yes" rel="nofollow">на форму для запроса пароля.</a><br />
+После получения контрольной строки следуйте на  <a href="/favicon.ico?change_password=yes" rel="nofollow">форму для смены пароля.</a>
+</div>
+</noindex></form>
+<script type="text/javascript">
+try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+</script>
+
+</div>
+
+
+<div class="bx-auth">
+	<form method="post" name="bx_auth_services" target="_top" action="/favicon.ico">
+					<div class="bx-auth-title">Войти как пользователь</div>
+			<div class="bx-auth-note">Вы можете войти на сайт, если вы зарегистрированы на одном из этих сервисов:</div>
+							<div class="bx-auth-services">
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('VKontakte', '')" id="bx_auth_href_VKontakte"><i class="bx-ss-icon vkontakte"></i><b>ВКонтакте</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Livejournal', '')" id="bx_auth_href_Livejournal"><i class="bx-ss-icon livejournal"></i><b>Livejournal</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('MailRuOpenID', '')" id="bx_auth_href_MailRuOpenID"><i class="bx-ss-icon openid-mail-ru"></i><b>Mail.Ru</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Liveinternet', '')" id="bx_auth_href_Liveinternet"><i class="bx-ss-icon liveinternet"></i><b>Liveinternet</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Blogger', '')" id="bx_auth_href_Blogger"><i class="bx-ss-icon blogger"></i><b>Blogger</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('OpenID', '')" id="bx_auth_href_OpenID"><i class="bx-ss-icon openid"></i><b>OpenID</b></a></div>
+							</div>
+							<div class="bx-auth-line"></div>
+				<div class="bx-auth-service-form" id="bx_auth_serv" style="display:none">
+												<div id="bx_auth_serv_VKontakte" style="display:none"><a href="javascript:void(0)" onclick="BX.util.popup('https://oauth.vk.com/authorize?client_id=3978281&amp;redirect_uri=https%3A%2F%2Fwww.master-mobil.ru%2Ffavicon.ico%3Fauth_service_id%3DVKontakte&amp;scope=friends,offline,email&amp;response_type=code&amp;state=site_id%3Dnz%26backurl%3D%252Ffavicon.ico%253Fcheck_key%253Dd9f4cb0020810180016bb10e0da81000%26redirect_url%3D%252Ffavicon.ico', 660, 425)" class="bx-ss-button vkontakte-button"></a><span class="bx-spacer"></span><span>Используйте вашу учетную запись VKontakte для входа на сайт.</span></div>
+																<div id="bx_auth_serv_Livejournal" style="display:none">
+<span class="bx-ss-icon livejournal"></span>
+<input type="text" name="OPENID_IDENTITY_LIVEJOURNAL" value="" size="20" />
+<span>.livejournal.com</span>
+<input type="hidden" name="sessid" id="sessid" value="091f5c8cde55d27e99abb4cf55089252" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_MailRuOpenID" style="display:none">
+<span class="bx-ss-icon openid-mail-ru"></span>
+<input type="text" name="OPENID_IDENTITY_MAILRU" value="" size="20" />
+<span>@mail.ru</span>
+<input type="hidden" name="sessid" id="sessid_1" value="091f5c8cde55d27e99abb4cf55089252" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_Liveinternet" style="display:none">
+<span class="bx-ss-icon liveinternet"></span>
+<span>liveinternet.ru/users/</span>
+<input type="text" name="OPENID_IDENTITY_LIVEINTERNET" value="" size="15" />
+<input type="hidden" name="sessid" id="sessid_2" value="091f5c8cde55d27e99abb4cf55089252" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_Blogger" style="display:none">
+<span class="bx-ss-icon blogger"></span>
+<input type="text" name="OPENID_IDENTITY_BLOGGER" value="" size="20" />
+<span>.blogspot.com</span>
+<input type="hidden" name="sessid" id="sessid_3" value="091f5c8cde55d27e99abb4cf55089252" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_OpenID" style="display:none">
+<span class="bx-ss-icon openid"></span>
+<span>OpenID:</span>
+<input type="text" name="OPENID_IDENTITY_OPENID" value="" size="30" />
+<input type="hidden" name="sessid" id="sessid_4" value="091f5c8cde55d27e99abb4cf55089252" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+									</div>
+				<input type="hidden" name="auth_service_id" value="" />
+	</form>
+</div>
+
+
+</div>							</div>
+						</div>
+					</div>
+					
+				</div>
+				
+				<div id="sidebar">
+					<div id="sidebar-inner">
+					
+						<div id="telephone"><nobr><div>
+	<b>+7 (342) 271-99-03</b>
+</div>
+<div>
+	 Крупской 79а
+	<hr>
+ <b>+7 (342) 271-32-21</b>
+</div>
+<div>
+	 Тургенева 21
+</div>
+<hr>
+ <b>+7 (342) 271-06-84</b>
+<div>
+	 Мира 130
+</div>
+<hr>
+<div>
+</div>
+<br></nobr></div>
+						
+						<div id="schedule"><div class="schedule">
+						<h4><b><span style="color: #ff0000;"><u>Задайте вопрос</u></span></b></h4>
+<table cellpadding="1" cellspacing="1">
+<tbody>
+<tr>
+	<td>
+ <a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"><img width="40" src="/upload/medialibrary/40e/40ef93c4142c20211a2cad746aa99c21.jpg" height="40" title="вконтакте" alt="вконтакте" align="left"></a><br>
+ <a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a>
+	</td>
+	<td>
+ <a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295"> </a><a href="http://vk.com/club52482295">&nbsp;</a><a href="http://vk.com/club52482295">https://vk.com/club52482295</a><br>
+	</td>
+</tr>
+<tr>
+	<td>
+		 &nbsp;<img width="33" alt="почта.png" src="/upload/medialibrary/94f/94f790cf123aa3afd52ed8c48a86aa43.png" height="30" title="почта.png" align="left"><br>
+	</td>
+	<td>
+ <a href="mailto:master-mobiligor@yandex.ru">master-mobiligor@yandex.ru</a>&nbsp; &nbsp; <br>
+ <a href="mailto:master_mobil@yahoo.com">master_mobil@yahoo.com</a>&nbsp; &nbsp;&nbsp;<br>
+	</td>
+</tr>
+</tbody>
+</table>
+ <br>
+ &nbsp;<br>
+ &nbsp; &nbsp;<br>						</div></div>
+						
+						
+
+										</div>
+				</div>
+			</div>
+	
+			<div id="space-for-footer"></div>
+			
+		</div>
+		
+		<div id="footer">
+		
+			<div id="copyright">
+			
+<p></p>
+			</div>
+			<div id="bottom-menu">			
+			
+<ul id="footer-links">
+	<li><a href=""></a></li>
+</ul>		
+			</div>
+
+<script language="javascript" type="text/javascript">
+                        document.cookie="pro=b";Mc=0;if(document.cookie) Mc=1;
+                        My="";My+="<a href='http://internet.properm.ru/rating/38/15140/' target='_blank'>";
+                        My+="<img src='http://internet.properm.ru/hit/?siteid=15140&c="+Mc+"&referrer="+escape(document.referrer)+
+                        "&title="+escape(document.title.substring(0,80))+"' alt='Рейтинг ProPerm.ru' border='0'>";
+                        My+="</a>";document.write(My);
+                      </script>
+  <a href="http://yandex.ru/cy?base=0&amp;host=www.master-mobil.ru"><img src="http://www.yandex.ru/cycounter?www.master-mobil.ru" width="88" height="31" alt="Яндекс цитирования" border="0" /></a>.
+ 
+<!-- begin of Top100 code -->
+ 
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2688112"></script>
+ <noscript> <a href="http://top100.rambler.ru/navi/2688112/" > <img src="http://counter.rambler.ru/top100.cnt?2688112" alt="Rambler's Top100" border="0"  /> </a> </noscript> 
+<!-- end of Top100 code -->
+ 
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+ 
+ <!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=1124935&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/1124935/3_1_FFFFFFFF_FFFFFFFF_1_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var yaCounter1124935 = new Ya.Metrika({id:1124935,
+          webvisor:true,
+          clickmap:true,
+          trackLinks:true,
+          accurateTrackBounce:true});
+} catch(e) { }
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/1124935" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=628628" type="text/javascript"></script>
+
+</div>	
+</body>
+</html>

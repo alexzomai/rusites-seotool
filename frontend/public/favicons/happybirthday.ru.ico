@@ -1,0 +1,66 @@
+<?
+require_once ($DOCUMENT_ROOT.'/db.php');
+$user_agent	=	(!isset($HTTP_USER_AGENT))?'':$HTTP_USER_AGENT;
+
+function send_report($report) {
+	$message='
+	<html>
+	<head>
+		<title>Проверка обртных ссылок</title>
+		<STYLE type=text/css>
+		body, td {
+			font-family: Arial, Helvetica, Verdana, sans-serif;
+			font-size: smaller;
+		}
+		b {color: #134999;}
+		</STYLE>
+	</head>
+	<body bgcolor="#FFFFFF" text="#000000" link="#276FDB" vlink="#81BEF5">
+	<p>'.$report.'</p>
+	';
+	$message.='<br><br></body></html>';
+	// Отправляем сообщение пользователю.
+	$header = "From: info@happybirthday.ru\r\nContent-Type: text/html;\r\n charset=\"koi8-r\"\r\n";
+	$subject = 'Проверка обртных ссылок';
+	$message=convert_cyr_string($message,"w","k");
+	$subject=convert_cyr_string($subject,"w","k");
+	$email='info@happybirthday.ru';
+	mail($email, $subject, $message, $header);
+}
+
+function detect() { // Проверка броузера. Автоматический ли запрос favicon.ico
+	global $attention,$user_agent;
+	foreach ($attention as $label) {
+		$pos = strpos($user_agent, $label);
+		if ($pos !== false) {
+		    return(0); // Сигнальная строка найдена. Завершаем поиск и не добавляем запись в БД.
+		}
+	}
+	return(1);
+}
+
+// Получить список сигнальных строк
+$attention=array();
+$query="SELECT label FROM favicon_attention";
+$result=mysql_query($query);
+while ($tmp = mysql_fetch_array ($result)) {
+	$attention[]=$tmp[0];
+}
+
+if (detect()) { // Если сигнальные строки не найдены
+	// Проверить, добавлялась ли уже такая запись (броузер + ip)
+	$query="SELECT id FROM favicon WHERE timer > DATE_SUB(NOW(), INTERVAL 1 DAY) AND ip='$REMOTE_ADDR' AND agent='$user_agent' LIMIT 1";
+	$result=mysql_query($query);
+	if (mysql_num_rows($result)==0) {
+		$query="INSERT INTO favicon VALUES (NULL,NOW(),'$REMOTE_ADDR','$user_agent')";
+		$result=mysql_query($query,$db);
+	}
+}
+
+$ico = $DOCUMENT_ROOT.'/fav.pic';
+$fp = fopen($ico, 'rb');
+header("Content-Type: image/x-icon");
+header("Content-Length: " . filesize($ico));
+fpassthru($fp);
+exit;
+?> 

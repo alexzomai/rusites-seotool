@@ -1,0 +1,990 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Иркутский Центр Обмена Электронных валют: ввод и вывод WebMoney, обмен Вебмани на другие валюты.</title>
+<meta name="description" content="Центр покупки WebMoney; продажа Webmoney, Вывод и ввод wmr, обналичить wmz, обмен wme на wmz, купить WM за Альфа-Клик, вывод вмз вТелеБанк, покупка WebMoney за Сбербанк, купить Вебмани безналичным переводом,вывод WMZ через Western Union, покупка вебм" />
+<base href="https://wmirk.ru/">
+<link href="/css_compress.php"  rel="stylesheet" type="text/css">
+<style type="text/css">
+#header {
+min-height: 198px;
+_height: 198px;
+background: url('images/themes/spring/bg_logo.jpg') no-repeat;
+background-position: 0px 0px;
+}
+</style>
+<script type="text/javascript" src="/templates/rus/lang.js"></script>
+<script src="/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/js/jquery-ui-1.8.15.custom.min.js" type="text/javascript" ></script>
+<script src="/js/jquery.tipTip.minified.js" type="text/javascript" ></script>
+<script src="/js/JsHttpRequest.js" type="text/javascript" ></script>
+<script src="/js/js_index.js" type="text/javascript" ></script>
+<script src="/js/js_auth.js" type="text/javascript" ></script>
+<script src="/js/js_gen_validator.js" type="text/javascript"></script>
+<script src="/js/js_clock.js" type="text/javascript"></script>
+</head>
+<body onload='clock(17)';>
+<div id="main">
+<div id="header">
+	<div id="logo">
+	<a href="/"><img src="images/logo_rus.png" width="166" height="81" border="0" alt="Иркутский Центр Обмена Электронных валют" title="Иркутский Центр Обмена Электронных валют" /></a>
+	<br />
+		<div class="lang_ico"><img src="images/header/action_rus.gif" width="51" height="57"/></div>
+	<div class="lang_ico"><a href="?lang=eng"><img src="images/header/passive_eng.gif" width="51" height="57"/ border="0"></a></div>
+	 	<br style="clear:both" />
+	</div>
+    
+    <style type="text/css">
+    #topBanner {
+    float: right;
+	width: 680px;
+	height: 190px;
+	}
+	
+	.textinfokbtc {
+	margin-left: 8px;	
+	}
+	
+	.textinfokbtc a {
+	font-weight: bold;
+	font-size: 14pt;
+	}
+	
+    </style>
+    
+    
+    <div id="topBanner">
+    <table cellpadding="3" cellspacing="3" border="0">
+    <tr>
+    <td width="50%" valign="top">
+    <p align="justify" class="textinfokbtc">
+    <a target="_blank" href="https://easybit.pro/info/kupit_bitkoin_v_irkutske.htm">Купить биткоины за наличные в Иркутске</a>
+    <br /><br />
+    Купить биткоин за рубли может любой желающий ежедневно. Передача денежных средств возможна в г.Иркутске с 10:30 до 19:00 местного времени. 
+    <br /><br />
+    Мы можем продать Вам и другие криптовалюты, такие как Ethereum (ETH), Tether (USDT), Bitcoin Cash (BCH), Litecoin (LTC), Cardano (ADA).
+    </p>
+    
+    
+    </td>
+    <td width="50%" valign="top">
+    
+    <p align="justify" class="textinfokbtc">
+    
+    <a target="_blank" href="https://easybit.pro/info/prodat_bitkoin_v_irkutske.htm">Продать биткоины за наличные в Иркутске</a>
+    <br /><br />
+    Продать биткоин за наличные рубли в Иркутске можно по адресу г. Иркутск ул. Академическая 28/6 вход со двора.
+    <br /><br />
+    Мы готовы обменять на наличные не только Bitcoin (BTC), но и Ethereum (ETH), Tether (USDT), Bitcoin Cash (BCH), Litecoin (LTC), Cardano (ADA) и др. 
+    
+    
+    </p>
+    
+    
+    </td>
+    </tr>
+    </table>
+    </div>
+    
+    <!--  Block Links 
+	<div class="block_links" id="sale">
+    <div class="links_list">
+	<table cellpadding="1" cellspacing="3" border="0">
+
+	<tr>
+	<td colspan="2"><a href="/sale_page_webmoney.htm"><img src="images/header/sale_rus.png" border="0" alt="Продать Webmoney" title="Продать Webmoney" /></a></td>
+	</tr>
+
+	<tr>
+	<td width="50"><img src="images/logo/vtb24.png" width="50" height="30" /></td>
+	<td align="left"><a href="/sale_webmoney_new.htm?action_open=telebank">Банк ВТБ</a></td>
+	</tr>
+
+	<tr>
+	<td width="50"><img src="images/logo/alfa.png" width="50" height="30" /></td>
+	<td align="left"><a href="/sale_webmoney_new.htm?action_open=alfaclick">Альфа-Клик</a></td>
+	</tr>
+
+	</table>
+	</div>
+	</div>
+	<div class="block_links" id="buy">
+	<div class="links_list">
+	<table cellpadding="1" cellspacing="3" border="0">
+
+	<tr>
+	<td colspan="2"><a href="/buy_page_webmoney.htm"><img src="images/header/buy_rus.png" border="0" alt="Купить Webmoney" title="Купить Webmoney" /></a></td>
+	</tr>
+
+	<tr>
+	<td width="50"><img src="images/logo/vtb24.png" width="50" height="30" /></td>
+	<td align="left"><a href="/buy_webmoney_new.htm?action_open=telebank">Банк ВТБ</a></td>
+	</tr>
+
+	<tr>
+	<td width="50"><img src="images/logo/alfa.png" width="50" height="30" /></td>
+	<td align="left"><a href="/buy_webmoney_new.htm?action_open=alfaclick">Альфа-Клик</a></td>
+	</tr>
+
+	</table>
+
+	</div>
+	</div>
+    -->
+    
+</div>
+<br style="clear:both" />
+<!-- Левая панель -->
+<div id="left_panel">
+
+<!-- Форма авторизации -->
+<div id="form_auth">
+<div class="form_info">
+
+<div id="auth-user-register" title="Авторизация пользователя" style="display:none;">
+Осуществляется проверка указанных E-mail и Пароль ....
+</div>
+
+<div id="modal-user-register" title="Регистрация нового пользователя" style="display:none;">
+<form onsubmit="return user_new_register('rus');">
+<table cellpadding="5" cellspacing="1" border="0" align="center">
+<tr>
+<td align="right" style="font-size: 12pt;">* Ваш WMID:</td>
+<td align="left"><input type="text" id="wmid_new_user" size="30" style="border:1px solid #20204f; font-size: 12pt;"/></td>
+</tr>
+<tr>
+<td align="right" style="font-size: 12pt;">* Ваш E-mail:</td>
+<td align="left"><input type="text" id="email_new_user" size="30" style="border:1px solid #20204f; font-size: 12pt;"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input type="submit" style="border:1px solid #888787; font-size: 10pt;" id="new_account_button" value="войти в аккаунт" onclick="return user_new_register('rus');" />
+</td>
+</tr>
+</table>
+</form>
+<br />
+<div style="margin-left: 10px; text-align:left;">
+* Укажите ваш WMID и Электронную почту, а затем войдите в аккаунт. Аккаунт будет активен сутки, для подтверждения аккаунта воспользуйтесь инструкциями, которые
+будут высланы вам на почту и на ваш Keeper.
+</div>
+</div>
+
+<div id="modal-user-repass" title="Восстановить пароль" style="display:none;">
+<form onsubmit="return re_pass('rus');">
+<table cellpadding="5" cellspacing="1" border="0" align="center">
+<tr>
+<td align="right">* Ваш E-mail:</td>
+<td align="left"><input type="text" name="email_repass" id="email_repass" size="20" style="border:1px solid #20204f; font-size: 10pt;"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input type="button" id="repass_button" style="border:1px solid #888787; font-size: 8pt;" value="отправить пароль" onclick="re_pass('rus');"/>
+</td>
+</tr>
+</table>
+<br />
+<div style="margin-left: 10px; text-align:left;">
+<em>* Укажите Ваш E-mail и нажмите кнопку отправить пароль. Инструкция для восстановления доступа будет отправлены Вам на E-mail.</em>
+
+</div>
+</form>
+</div>
+
+
+<form method="post" onsubmit="return user_auth('rus');">
+<table cellpadding="3" cellspacing="3" border="0" align="center">
+
+<tr>
+<td align="right">Ваш E-mail: </td>
+<td align="left"><input type="text" name="auth_email" id="auth_email" size="20" /></td>
+</tr>
+
+<tr>
+<td align="right">Ваш Пароль: </td>
+<td align="left"><input type="password" name="auth_pass" id="auth_pass" size="20" /></td>
+</tr>
+
+<tr>
+<td align="right"></td>
+<td align="left"><input type="checkbox" name="auth_c" id="auth_c"/>-<label for="auth_c">запомнить меня</label></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<table cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td align="right"><input type="image" src="images/button_auth_rus_left.png" style="border:0px;" alt="Войти, используя E-mail и пароль" title="Войти, используя E-mail и пароль" /></td>
+<td align="left"><a href="https://login.wmtransfer.com/GateKeeper.aspx?RID=cdea6fe9-a259-455d-be43-a091012da8b1"><img src="images/button_auth_rus_right.png" width="84" height="41" border="0" alt="Войти при помощи Webmoney Keeper" title="Войти при помощи Webmoney Keeper" /></a></td>
+</tr>
+</table>
+
+<!--
+<map name="auth_button">
+<area alt="Войти, используя E-mail и пароль" title="Войти, используя E-mail и пароль" coords="12,4,79,37" href="javascript:void(0);" onclick="user_auth('rus');">
+<area alt="Войти при помощи Webmoney Keeper" title="Войти при помощи Webmoney Keeper" coords="89,3,149,37" href="javascript:void(0);">
+</map>
+<img src="images/button_auth_rus.png" width="166" height="41" border="0" usemap="#auth_button"/>
+-->
+</td>
+</tr>
+
+</table>
+
+<table width="280" align="center">
+<tr>
+<td align="left">
+<img src="images/mark.png" width="4" height="4" />&nbsp;<a href="javascript:void(0)" onclick="user_register();"><strong>Регистрация</strong></a>
+</td>
+
+<td align="right">
+<img src="images/mark.png" width="4" height="4" />&nbsp;<a href="javascript:void(0)" onclick="user_pass_confirm();"><strong>Забыли пароль ?</strong></a>
+</td>
+
+</tr>
+</table>
+
+</form>
+
+
+</div>
+</div>
+
+
+
+<br />
+
+<!-- Резервы -->
+<!-- wm -->
+<div class="reserve" style="background: url('images/left/bg_r_e_rus.png') no-repeat;">
+<table cellpadding="1" cellspacing="1" border="0" width="300" align="center">
+
+<tr>
+<td width="50" align="right"><img src="images/currency/wmr.png" width="50" height="30" alt="Резерв WMR" title="Резерв WMR"></td>
+<td align="left" class="fr webmoney" nowrap>0.00</td>
+<td width="50" align="right"><img src="images/currency/wmz.png" width="50" height="30" alt="Резерв WMZ" title="Резерв WMZ"></td>
+<td align="left" class="fr webmoney" nowrap>0.08</td>
+</tr>
+
+<tr>
+<td width="50" align="right"><img src="images/currency/wme.png" width="50" height="30" alt="Резерв WME" title="Резерв WME"></td>
+<td align="left" class="fr webmoney" nowrap>0.00</td>
+<td width="50" align="right"><img src="images/currency/yandex.png" width="50" height="30" alt="Резерв Yandex RUR" title="Резерв Yandex RUR"></td>
+<td align="left" class="fr yandex">50000</td>
+</tr>
+
+
+</table>
+</div>
+
+<br />
+
+<!-- денег -->
+<div class="reserve" style="background: url('images/left/bg_f_e_rus.png') no-repeat;">
+<table cellpadding="1" cellspacing="1" border="0" width="300" align="center">
+
+<tr>
+<td width="50" align="right"><img src="images/logo/alfa.png" width="50" height="30" alt="Резерв по системе Альфа-Клик" title="Резерв по системе Альфа-Клик"></td>
+<td align="left" class="fr alfa">175000</td>
+<td width="50" align="right" ><img src="images/logo/vtb24.png" width="50" height="30" alt="Резерв по системе ВТБ-Онлайн" title="Резерв по системе ВТБ-Онлайн"></td>
+<td align="left" class="fr vtb24">80000.95</td>
+</tr>
+
+<tr>
+<td width="50" align="right"><img src="images/logo/sber.png" width="50" height="30" alt="Резерв по системе Сбербанк OnLine" title="Резерв по системе Сбербанк OnLine"></td>
+<td align="left" class="fr sber">550000</td>
+<td width="50" align="right"><img src="images/logo/tinkof.png" width="50" height="30" alt="Резерв по Банку Тинькоф" title="Резерв по Банку Тинькоф"></td>
+<td align="left" class="fr svyaz">100000</td>
+
+</tr>
+
+<tr>
+<td width="50" align="right"><img src="images/logo/other_bank.png" width="50" height="30" alt="Резерв на банковские переводы" title="Резерв на банковские переводы"></td>
+<td align="left" class="fr rur">275000</td>
+<td width="50" align="right"><img src="images/logo/other_cache.png" width="50" height="30" alt="Резерв на выплаты наличными" title="Резерв на выплаты наличными"></td>
+<td align="left" class="fr rur">900000</td>
+</tr>
+
+<tr>
+<td width="50" align="right"><img src="images/logo/russki.png" width="50" height="30" alt="Резерв по банку Русский Стандарт" title="Резерв по банку Русский Стандарт"></td>
+<td align="left" class="fr rur">100000</td>
+<td width="50" align="right"><img src="images/logo/visa.png" width="50" height="30" alt="Резерв по картам VISA/Mastercard" title="Резерв по картам VISA/Mastercard"></td>
+<td align="left" class="fr rur">75000</td>
+</tr>
+
+</table>
+</div>
+
+<br />
+
+<!-- Курсы валют -->
+<div class="cource" style="background: url('images/left/bg_cource_rus.png') no-repeat;">
+<div class="cource_info">
+<table width="280" cellpadding="1" cellspacing="1" border="0" align="center">
+
+<tr>
+<td width="50"><img src="images/cource/usd.png" width="50" height="30" /></td>
+<td style="font-size: 12pt; font-weight: bold; padding-left: 10px;">95.65</td>
+<td align="left"></td>
+<td align="right"><img src="/img_cource.php?CKEY=USD" width="90" height="40" alt="Изменение курса USD" title="Изменение курса USD" /></td>
+</tr>
+
+<tr>
+<td width="50"><img src="images/cource/eur.png" width="50" height="30" /></td>
+<td style="font-size: 12pt; font-weight: bold; padding-left: 10px;">104.24</td>
+<td align="left"><img src="images/cource/arrow_up.png" width="11" height="10" alt="Курс EUR изменился, предыдущий курс  103" title="Курс EUR изменился, предыдущий курс  103"></td>
+<td align="right"><img src="/img_cource.php?CKEY=EUR" width="90" height="40" alt="Изменение курса EUR" title="Изменение курса EUR" /></td>
+</tr>
+</table>
+</div>
+</div>
+
+<br />
+
+<!-- Блок с контактами -->
+<div id="contact">
+<br />
+<table cellpadding="1" cellspacing="5" border="0">
+<!--
+<tr>
+<td width="25" align="center"><img src="images/contact/icq.png" /></td>
+<td align="left">ICQ: 707-129-512 (Анна)</td>
+</tr>
+
+<tr>
+<td width="25" align="center"><img src="images/contact/icq.png" /></td>
+<td align="left">ICQ: 568-434-821 (Денис)</td>
+</tr>
+
+<tr>
+<td width="25" align="center"><img src="images/contact/icq.png" /></td>
+<td align="left">ICQ: 681-527-515 (Александра)</td>
+</tr>
+
+<tr>
+<td width="25" align="center"><img src="images/contact/icq.png" /></td>
+<td align="left">ICQ: 255-131 (Роман)</td>
+</tr>
+-->
+
+<tr>
+<td width="25" align="center"><img src="images/contact/skype.png" /></td>
+<td align="left">Skype: <a href=skype:denwmirk>denwmirk</a></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><img src="images/contact/tele.png" /></td>
+<td align="left">+7 3952 420-548</td>
+</tr>
+
+<tr>
+<td width="25" align="center"><img src="images/contact/tele.png" /></td>
+<td align="left">+7 3952 666-156</td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><img src="images/contact/telegram.png" /></td>
+<td align="left">@easybitpro</td>
+</tr>
+
+
+
+<tr>
+<td width="25" align="center"><img src="images/contact/mail.png" /></td>
+<td align="left"><a href=mailto:support@wmirk.ru>support@wmirk.ru</a></td>
+</tr>
+
+</table>
+</div>
+<br />
+
+<!-- Блок время работы -->
+<div id="timewrk">
+<div id="timecont">
+<div>
+<strong>Мы работаем (время Московское)</strong>
+</div>
+
+<table cellpadding="5" cellspacing="1" border="0" align="center">
+<tr>
+<td align="right"><strong>ПН - ПТ</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_gray.png" width="54" height="2" /></td>
+<td align="left">
+<strong>06:00 - 16:00</strong>
+</td>
+</tr>
+
+<!--
+<tr>
+<td align="right"><strong>СБ</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_gray.png" width="54" height="2" /></td>
+<td align="left">
+<strong>07:30 - 12:00</strong>
+</td>
+</tr>
+-->
+
+<tr>
+<td align="right" style="color: #6f1a00;"><strong>СБ</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_red.png" width="54" height="2" /></td>
+<td align="left" style="color: #6f1a00;"><strong>Выходной</strong></td>
+</tr>
+
+
+<tr>
+<td align="right" style="color: #6f1a00;"><strong>ВС</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_red.png" width="54" height="2" /></td>
+<td align="left" style="color: #6f1a00;"><strong>Выходной</strong></td>
+</tr>
+
+
+</table>
+
+
+<div>
+<strong>Мы работаем (время Иркутское)</strong>
+</div>
+
+
+<table cellpadding="5" cellspacing="1" border="0" align="center">
+<tr>
+<td align="right"><strong>ПН - ПТ</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_gray.png" width="54" height="2" /></td>
+<td align="left">
+<strong>11:00 - 21:00</strong>
+</td>
+</tr>
+
+<!--
+<tr>
+<td align="right"><strong>СБ</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_gray.png" width="54" height="2" /></td>
+<td align="left">
+<strong>12:30 - 17:00</strong>
+</td>
+</tr>
+-->
+
+<tr>
+<td align="right" style="color: #6f1a00;"><strong>СБ</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_red.png" width="54" height="2" /></td>
+<td align="left" style="color: #6f1a00;"><strong>Выходной</strong></td>
+</tr>
+</tr>
+
+
+<tr>
+<td align="right" style="color: #6f1a00;"><strong>ВС</strong></td>
+<td align="center" valign="bottom"><img src="/images/c_dotted_red.png" width="54" height="2" /></td>
+<td align="left" style="color: #6f1a00;"><strong>Выходной</strong></td>
+
+
+</table>
+<br />
+<div id="nowtime" align="center">
+
+</div>
+
+<br />
+
+<table cellpadding="1" cellspacing="3" border="0" align="center">
+<tr>
+<td align="right"><strong>Текущий статус: </strong></td>
+<td><img src="images/status/error.png" width=17 height=17></td><td align=left><span style="color: #781919; font-weight: bold;">Не работаем</span></tr>
+</table>
+
+</div>
+
+
+</div>
+<!--
+<div align="center">
+<div  style="padding-top: 80px;">
+<a target="_blank" href="http://easybit.pro"><img src="/images/easy_rotate.gif" width="240" height="160" border="0" alt="EasyBit обмен покупка продажа Bitcoins" title="EasyBit обмен покупка продажа Bitcoins" /></a>
+</div>
+</div>
+-->
+
+</div>
+
+<!-- Центральная панель -->
+<div id="center_panel">
+
+ <script language="javascript">
+function OverTheTop(obj) {
+$('#'+obj).attr('src','images/index/rus/new/'+obj+'_on.png');
+}
+
+function OutTheTop(obj) {
+$('#'+obj).attr('src','images/index/rus/new/'+obj+'.png');
+}
+
+</script>
+
+<!-- предзагрузка картинок -->
+
+<style type="text/css">
+img.preload { display:none; }
+</style>
+
+<img src="images/index/rus/new/buy_wm_on.png" alt="" class="preload" />
+<img src="images/index/rus/new/sale_wm_on.png" alt="" class="preload" />
+<img src="images/index/rus/new/exch_wm_on.png" alt="" class="preload" />
+<img src="images/index/rus/_bg_block.png" alt="" class="preload" />
+
+<div style="margin-top: -10px">
+<table cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="172" align="center">
+<a href="/buy_page_webmoney.htm"><img src="images/index/rus/new/buy_wm.png" id="buy_wm" width="172"  alt="Купить Webmoney" title="Купить Webmoney" border="0" onmouseover="OverTheTop('buy_wm');"  onmouseout="OutTheTop('buy_wm');"/></a>
+</td>
+<td width="172" align="center">
+<a href="/sale_page_webmoney.htm"><img src="images/index/rus/new/sale_wm.png" id="sale_wm" width="172"  alt="Продать Webmoney" title="Продать Webmoney" border="0" onmouseover="OverTheTop('sale_wm');"  onmouseout="OutTheTop('sale_wm');"/></a>
+</td>
+
+<td width="172" align="center">
+<a href="/buy_page_yandex.htm"><img src="images/index/rus/new/buy_ydx.png" id="buy_ydx" width="172"  alt="Купить Яндекс.Деньги" title="Купить Яндекс.Деньги" border="0" onmouseover="OverTheTop('buy_ydx');"  onmouseout="OutTheTop('buy_ydx');"/></a>
+</td>
+
+<td width="172" align="center">
+<a href="https://easychange.ru/index.php?p=main" target="_blank"><img src="images/index/rus/new/exch_wm.png" id="exch_wm" width="172"  alt="Обменять Webmoney на другие валюты" title="Обменять Webmoney на другие валюты"  border="0"  onmouseover="OverTheTop('exch_wm');"  onmouseout="OutTheTop('exch_wm');"/></a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<style type="text/css">
+	#usdtBlock {
+	 margin-top: 4px;
+	 margin-bottom: 4px;
+	 padding: 9px;
+	 border: 1px solid #3F3D3D;
+	 border-radius: 4px;
+	 background: rgb(40,121,9);
+background: -webkit-linear-gradient(bottom, rgba(40,121,9,1) 0%, rgba(0,178,255,1) 100%);
+background: -o-linear-gradient(bottom, rgba(40,121,9,1) 0%, rgba(0,178,255,1) 100%);
+background: linear-gradient(to top, rgba(40,121,9,1) 0%, rgba(0,178,255,1) 100%);
+
+
+	}
+	#usdtBlock td {
+	color: #fff;
+	font-size: 16pt;}
+	#usdtBlock td a {color: #fff;}
+</style>
+
+
+<div id="usdtBlock">
+<table cellpadding="3"  cellspacing="0" border="0">
+<tr>
+<td width="85"><img src="images/tether-usdt-logo.svg" width="85"></td>
+<td width="100%">
+Покупка / продажа TETHER USDT (TRC-20) и TETHER USDT (ERC-20) по выгодному курсу и в любых объёмах. Обращаться к операторам в телеграм <a href="https://t.me/easybitpro">@easybitpro</a>,<a href="https://t.me/wmirk">@wmirk</a> и по телефону +79025666156.
+</td>
+</tr>
+</table>
+</div>
+
+
+
+<style>
+.special_block {
+width: 688px;
+background: url('images/_special_rus_bg.png') no-repeat;
+background-position: 0% 0%;
+min-height: 120px;
+
+}
+
+.special_block .cnt {
+padding-top: 43px;
+padding-left: 40px;
+padding-right: 43px;
+}
+
+</style>
+
+
+<div class="special_block">
+<div class="cnt">
+<!-- <div align="center">
+	<table cellpadding="0" cellspacing="5" width="511">
+		<tbody>
+			<tr>
+				<td align="center">
+					<img height="1" src="images/_special_line_r.png" width="511" /></td>
+			</tr>
+			<tr>
+				<td align="center" style="font-size: 12pt;">
+					<b>Продаем *****-ваучеры RUR и USD, комиссия <span style="color:#b22222;">0.5</span>%. Подробности узнавайте у технической поддержки!</b></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<img height="1" src="images/_special_line_r.png" width="511" /></td>
+			</tr>
+		</tbody>
+	</table>
+</div> -->
+<table align="center" border="0" cellpadding="1" cellspacing="1" width="640">
+	<tbody>
+		<tr>
+			<td align="left" valign="top" width="320">
+				<h3>
+					Покупаем USDT в Иркутске</h3>
+				<table align="center" border="0" cellpadding="3" cellspacing="1" height="209" width="318">
+					<tbody>
+						<tr>
+							<td valign="top" width="331">
+								Куплю USDT курс уточняйте в телеграм <br />
+								за наличные рубли<br />
+								Встреча в офисе: Свердловский район, ост. "Южная"<br />
+								<br />
+								⌚️Моментальный обмен<br />
+								✅ Машинка<br />
+								✅ Анонимно<br />
+								✅ Встреча в офисе<br />
+								➡️ ИРКУТСК, Свердловский район, ост. "Южная",<br />
+								✅ Другие офисы: Сочи и ОАЭ (Дубай).<br />
+								✅ Тел.: 89025666156<br />
+                                                                ✅ <b>Telegram:</b> <a href="https://t.me/easybitpro">easybit</a><br />
+								 </td>
+						</tr>
+						<tr>
+							<td valign="top" width="331">
+								 </td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+			<td align="left" valign="top" width="320">
+				<h3>
+					Продаем USDT в Иркутске</h3>
+				<table align="center" border="0" cellpadding="3" cellspacing="1" height="227" width="321">
+					<tbody>
+						<tr>
+							<td valign="top" width="331">
+								Продам USDT курс уточняйте в телеграм <br />
+								за наличные рубли<br />
+								Встреча в офисе: Свердловский район, ост. "Южная"<br />
+								<br />
+								⌚️Моментальный обмен<br />
+								✅ Машинка<br />
+								✅ Анонимно<br />
+								✅ Встреча в офисе<br />
+								➡️ ИРКУТСК, Свердловский район, ост. <br />
+                                                                "Южная",<br />
+								✅ Другие офисы: Сочи и ОАЭ (Дубай).<br />
+								✅ Тел.: 89025666156<br />
+                                                                ✅ <b>Telegram:</b>  <a href="https://t.me/easybitpro">easybit</a><br />
+						</tr>
+						<tr>
+							<td valign="top" width="331">
+								 </td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" colspan="2" valign="top">
+				 </td>
+		</tr>
+	</tbody>
+</table>
+<div align="center">
+	<table cellpadding="0" cellspacing="5" width="511">
+		<tbody>
+			<tr>
+				<td align="center">
+					<img height="1" src="images/_special_line_r.png" width="511" /></td>
+			</tr>
+			<tr>
+				<td align="center" style="font-size: 12pt;">
+					<b>Покупаем, продаем БТС, УСДТ в Иркутске, Соч</b><strong>и и ОАЭ (Дубай).</strong></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<img height="1" src="images/_special_line_r.png" width="511" /></td>
+			</tr>
+		</tbody>
+	</table>
+</div></div>
+</div>
+
+
+<div id="center_menu">
+<script language="javascript">
+function over_block(id){
+$('#'+id).css('backgroundImage','url("images/index/rus/_bg_block.png")');
+}
+
+function out_block(id){
+$('#'+id).css('backgroundImage','');
+}
+</script>
+
+
+
+
+
+<table align="center" cllpadding="2" cellspacing="2" border="0">
+
+<tr>
+<td align="center">
+<div style="width:330px; cursor:pointer;" id="block_index_1" onmouseover="over_block('block_index_1');" onmouseout="out_block('block_index_1');">
+<a href="/attestat/page.htm"><img src="images/index/rus/_block_1.png" width="330" height="190" border="0" alt="Аттестат Webmoney" title="Аттестат Webmoney"/></a>
+</div>
+
+</td>
+<td align="center">
+<div style="width:330px; cursor:pointer;" id="block_index_2" onmouseover="over_block('block_index_2');" onmouseout="out_block('block_index_2');">
+<a href="/tarif/page.htm"><img src="images/index/rus/_block_2.png" width="330" height="190" border="0" alt="Тарифы на операцию" title="Тарифы на операцию"/></a>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<div style="width:330px; cursor:pointer;" id="block_index_3" onmouseover="over_block('block_index_3');" onmouseout="out_block('block_index_3');">
+<a href="/wiki/"><img src="images/index/rus/_block_3.png" width="330" height="190" border="0" alt="Wmirk-wiki" title="Wmirk-wiki"/></a>
+</div>
+</td>
+<td align="center">
+<div style="width:330px; cursor:pointer;" id="block_index_4" onmouseover="over_block('block_index_4');" onmouseout="out_block('block_index_4');">
+<a href="/about/page.htm"><img src="images/index/rus/_block_4.png" width="330" height="190" border="0" alt="О нас" title="О нас"/></a>
+</div>
+</td>
+</tr>
+
+</table>
+
+
+</div>
+
+<br /><br />
+<div id="news_block">
+<script language="javascript" src="/js/js_news.js"></script>
+<div style="position:absolute; left: 20px; top:-10px; background-color: #ffffff; color:#80a8cf;">&nbsp;<em><strong>Новости</strong></em>&nbsp;</div>
+<div style="padding: 4px;">
+<table width="660" cellpaddgin="1" cellspacing="1" border="0" align="center">
+<tr>
+<td valign="top" widht="360">
+<span id="news_read">
+<h2 align="left" style="color: #784100; margin: 4px; padding: 4px; font-size: 12pt; font-style:italic;"><b>Летний график !</b></h2>
+<p style="margin:0px; padding:0px;" align="justify">Уважаемые клиенты!<br><br>
+Мы перешли на летний график работы!<br>
+В связи с этим, обращаем Ваше внимание, на расписание нашей работы (время Иркутское +5 по МСК):<br><br>
+
+
+<b>ИЮНЬ:</b><br>
+будние дни: с 12:00 до 22:00<br>
+сб, вск - выходной<br><br>
+
+<b>ИЮЛЬ:</b><br>
+будние дни: с 12:00 до 22:00<br>
+сб, вск - выходной<br><br>
+
+<b>АВГУСТ:</b><br>
+будние дни: с 12:00 до 22:00<br>
+сб, вск - выходной<br><br>
+
+Пожалуйста учитывайте наше расписание в своих планах.<br><br></p>
+<p align="left" style="color:#bf9900; margin:2px; padding: 2px;"><strong>// 02 Июня 2023</strong></p>
+</span>
+</td>
+<td valign="top" width="300">
+<ul class="list_news">
+<li>
+<p align="left" style="color:#bf9900; margin:0px; padding: 0px;"><strong>// 02 Июня 2023</strong></p>
+<a href="javascript:void(0);" onclick="read_news('208','rus');"><b><b>Летний график !</b></b></a>
+</li>
+ <li>
+<p align="left" style="color:#bf9900; margin:0px; padding: 0px;"><strong>// 28 Апреля 2023</strong></p>
+<a href="javascript:void(0);" onclick="read_news('207','rus');"><b>Работа в МАЕ !</b></a>
+</li>
+ <li>
+<p align="left" style="color:#bf9900; margin:0px; padding: 0px;"><strong>// 27 Декабря 2022</strong></p>
+<a href="javascript:void(0);" onclick="read_news('206','rus');"><b>График работы в Новогодние праздники!</b></a>
+</li>
+ <li>
+<p align="left" style="color:#bf9900; margin:0px; padding: 0px;"><strong>// 11 Июня 2021</strong></p>
+<a href="javascript:void(0);" onclick="read_news('205','rus');"><b><b>12 июня - День России!</b></b></a>
+</li>
+ </ul><br />
+<p align="right">
+<strong style="color:#D6D6D6;">&nbsp;&raquo;&nbsp;</strong><a href="/allnews.htm">Все новости проекта</a>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+
+<br /><br />
+
+
+<div class="block_text">
+<strong>Опыт и качество</strong>
+<ul>
+	<li>WMIRK.ru является официальным дилером внебанковской системы интернет-платежей WebMoney Transfer с весны 2005 года, агентом платежных систем Yandex Money и
+RBK Money с лета 2008 года.</li>
+
+
+<li>Основа работы сервиса заключается в пополнении и выводе средств в/из платежных систем путем подбора пар контрагентов, желающих провести обмен электронных
+валют во встречных направлениях.</li>
+
+</ul>
+
+</div>
+
+<bR /><br />
+
+<style>
+.iTextBlock {
+padding: 5px;
+background-color: #fdf8e4;
+}
+
+
+
+.iText h2 {
+font-size: 11pt;
+font-weight: bold;
+color: #446D73;
+}
+
+</style>
+
+
+<div class="iTextBlock">
+<table width="99%" align="center" cellpadding="5" cellspacing="3">
+<tr>
+<td width="50%" class="iText" valign="top" style="padding-right: 20px;">
+<h2 align="center">Простота и функциональность</h2>
+<div align="justify">
+Баланс между удобством работы и функциональностью: в нашей системе продумана работа пользователей.
+Вам не нужно производить нудную регистрацию заполняя форму, всё происходит в момент совершения обменных операций,
+тем самым вы автоматически становитесь пользователем, получая все преимущества работы с системой.
+</div>
+</td>
+<td width="50%" class="iText" valign="top" style="padding-left: 20px;">
+<h2 align="center">Разумная комиссия</h2>
+<div align="justify">
+Мы стараемся удерживать минимальную комиссию по основным направлениям ввода и вывода Webmoney, тем самым стремимся
+наладить партнерские отношения с каждым клиентом. Мы всегда готовы идти
+  на  встречу  каждому  нашему  пользователю  и открыты для обсуждения индивидуальных решений любой ситуации.
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<bR /><bR />
+
+<div class="block_text">
+<strong>Нам доверяют обмен W</strong><strong>ebM</strong><strong>oney в любых объемах, потому что:</strong>
+<ul>
+	<li>
+		Наш сервис &ndash; один из самых надежных и выгодных среди &nbsp;обменников электронных валют;</li>
+	<li>
+		Аттестата регистратора WebMoneyTransfer, бизнес уровень, выше 2500 &ndash; наши яркие отличия от рядовых пунктов обмена;</li>
+	<li>
+		Мы зарегистрированы в официальном каталоге Webmoney Megastock.ru</li>
+	<li>
+		Наши сотрудники помогут найти индивидуальное решение по обмену электронных денег для каждого клиента в любом объеме!</li>
+</ul>
+&nbsp;<br />
+<strong>Постоянно развиваясь и совершенствуясь,&nbsp; мы гарантируем:</strong><br />
+&nbsp;
+<ul>
+	<li>
+		Доступность и простоту работы, автоматическую регистрацию в системе - все действия понятны рядовому пользователю;</li>
+	<li>
+		Мобильность &ndash;&nbsp; любые финансовые операции со своим счетом можно осуществлять не зависимо от своего место нахождения;</li>
+	<li>
+		Оперативность - ввод/вывод средств WebMoney осуществляется в течение нескольких минут при автоматическом обмене;</li>
+	<li>
+		Безопасность и конфиденциальность совершаемых операций;</li>
+	<li>
+		Сервис работает для Вас круглосуточно. Большинство сделок осуществляются&nbsp; в автоматическом режиме просто, быстро, почти&nbsp; МОМЕНТАЛЬНО, что позволяет Вам экономить свои средства и время. Вы всегда и без проблем осуществите обмен WebMoneyв нужном направлении;</li>
+	<li>
+		Наши клиенты имеют возможность всегда находить самые выгодные для себя&nbsp; курсы обмена ВебМани;</li>
+	<li>
+		Вы имеете возможность всегда находить самые выгодные для себя курсы обмена. Мы поддерживаем моментальные обмены Webmoneyна другие электронные деньги во всех направления, такие как Яндекс.Деньги, РБК Мани;</li>
+	<li>
+		Персональные условия для крупных клиентов.</li>
+</ul>
+&nbsp;<br />
+<p align="center">
+Если Вам нужен лучший сервис по обмену WebMoney &ndash; вы сделали верный выбор! Попробовав воспользоваться нашими услугами хотя бы раз, Вы захотите делать это снова и снова!
+</p>
+</div> 
+</div>
+
+<br style="clear:both;" />
+<div align="right" style="border-bottom: 1px solid #A3A3A3;"><img src="images/themes/spring/image_flag.jpg" width="224" height="50" /></div>
+<div id="footer">
+<div id="footer_logo"><img src="images/logo_footer_rus.png" width="284" height="51" /></div>
+<div id="footer_link" align="right">
+<table cellpadding="1" cellspacing="1" border="0">
+<tr>
+<td><a href="/" alt="Перейти на главную страницу" title="Перейти на главную страницу">Главная</a></td>
+<td><img src="images/footer/link_mark.gif" width="16" height="19" /></td>
+<td><a href="/tarif/page.htm" alt="Тарифы на операции обмена" title="Тарифы на операции обмена">Тарифы</a></td>
+<td><img src="images/footer/link_mark.gif" width="16" height="19" /></td>
+<td><a href="/dogovor/page.htm" alt="Пользовательское соглашение" title="Пользовательское соглашение">Соглашение</a></td>
+<td><img src="images/footer/link_mark.gif" width="16" height="19" /></td>
+<td><a href="/contact/page.htm" alt="Наши контакты" title="Наши контакты">Контакты</a></td>
+<td><img src="images/footer/link_mark.gif" width="16" height="19" /></td>
+<td><a href="/stats/page.htm" alt="Статистика операций" title="Статистика операций">Статистика</a></td>
+
+<td></td>
+</tr>
+</table>
+<BR />
+<!-- begin WebMoney Transfer : attestation label -->
+<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=559818853628" target=_blank class="buttonWM"><IMG SRC="images/88x31_wm_v_blue_on_transparent_ru.png" title="Здесь находится аттестат нашего WM идентификатора 559818853628" border="0" style="border:1px solid;"></a>
+<!-- end WebMoney Transfer : attestation label -->
+
+<img src="images/88x31_wm_blue_on_white_ru.png" style="border:1px solid #0070b1;" title="Мы принимаем Webmoney"/>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31' style='border:1px solid #0070b1;'></a>")
+//--></script><!--/LiveInternet-->
+
+
+<img src="images/yandex.gif" style="border:1px solid #f47b20;" width="88" height="31" title="Осуществляем обмен Яндекс.Денег"/>
+
+</div>
+</div>
+</div>
+
+
+<div id="debug" style="display:none;"></div>
+
+<!-- BEGIN JIVOSITE CODE  -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'ISIgLUJeil';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+</body>
+</html>
+<!-- Time Left : 0.0765 sec -->

@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+<title>УфаСтройСнаб-Металл - металлопрокат в уфе</title>
+
+     <meta name="viewport" content="width=1300"/>
+	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>	   
+	   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	   <meta name="Keywords" content=""/>
+	   <meta name="Description" content=""/>
+       <link href="https://fonts.googleapis.com/css?family=Russo+One&subset=latin,cyrillic" rel="stylesheet" type="text/css"/>
+	   <link rel="stylesheet" href="/local/templates/metal2012/style.css?1" type="text/css"/>
+       <script type="text/javascript" src="https://yandex.st/jquery/1.7.2/jquery.min.js" charset="utf-8"></script>      
+       <script type="text/javascript" src="/local/templates/metal2012/f.js?1"></script>
+ 
+    </head>
+    <body>
+    
+        <div class="main">
+            <div class="head">
+                <div class="logo"><a href="/"><img src="/local/templates/metal2012/images/logo.png" alt=""/></a></div>
+                <div class="phone">
+                <a class="p" href="tel:88005004001">8 (800)<span>500-400-1</span></a>
+                    <a class="p" href="tel:+73472008817">+7 (347)<span>200-88-17</span></a>
+         
+                </div>
+                <div class="menu">
+                    <div class="in">
+                        <ul>
+                            <li class="active"><a href="/">Начало</a></li>
+                            <li><a href="/catalog">Каталог продукции</a></li>                          
+                            <li><a href="#query">Оставить заявку</a></li>
+                            <li><a href="/contacts">Контакты</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>  
+            
+            <div class="promo">
+                <div class="in">
+                    <div><img src="/local/img/1.jpg" alt=""/></div>
+                    <div><img src="/local/img/2.jpg" alt=""/></div>
+                    <div><img src="/local/img/3.jpg" alt=""/></div>
+                    <div><img src="/local/img/4.jpg" alt=""/></div>
+                    <div><img src="/local/img/5.jpg" alt=""/></div>
+                    <div><img src="/local/img/6.jpg" alt=""/></div>
+                </div>  
+                <!--
+                <div class="price">
+                    <a href="/price/ussm.xls">Скачать прайс-лист</a>
+                    <p>Дата обновления: 24.01.2022</p>
+                    <p>290кб, Microsoft Excel</p>
+                </div> -->          
+            </div>  
+            
+            <div class="content-body">
+                <div class="column">
+                     <div class="e">
+                        <div class="typTitle">Каталог продукции</div>
+                        <div class="manual"><ul>
+                            <li><a href="/catalog/sortovoi_prokat">Сортовой прокат</a></li><li><a href="/catalog/listovoi_prokat">Листовой прокат</a></li><li><a href="/catalog/trubni_prokat">Трубный прокат</a></li><li><a href="/catalog/fasonni_prokat">Фасонный прокат</a></li><li><a href="/catalog/prochii_prokat">Прочий прокат</a></li><li><a href="/catalog/nerzhaveyuschii_metalloprokat">Нержавеющий металлопрокат</a></li><li><a href="/catalog/metalloizdeliya">Металлоизделия</a></li>
+                        </ul></div>
+                    </div>
+                    <div class="e">
+                        <div class="typTitle">Новости</div>
+                        <div class="manual"><div class="newsItem"><div class="date">05.03.2015</div><div class="namex"><a href="/_news/view.pozdravlyaem_s_mezhdunarodnm_zhenskim_dnem_em_">Поздравляем с Международным женским днем!</a></div></div>  <div class="newsItem"><div class="date">20.02.2015</div><div class="namex"><a href="/_news/view.ooo_ufastroisnab_pozdravlyaet_vseh_s_dnem_zaschitnika_otechestva_em_">ООО "УфаСтройСнаб" поздравляет всех с Днём Защитника Отечества!</a></div></div>  <div class="newsItem"><div class="date">13.12.2012</div><div class="namex"><a href="/_news/view.oplata_plastikovmi_kartami">Оплата пластиковыми картами</a></div></div>  </div>
+                    </div>
+                    
+                </div>
+                <div class="content">Ошибка. Документ не найден - favicon.ico</div>
+                <div class="clear"></div>
+            </div>
+                
+        </div>
+        <div class="footer">
+            <div class="main">
+                <div class="right"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.5;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+          
+            
+            
+                   
+            </div>
+              &copy; <a href="http://ufastroysnab.ru">УфаСтройСнаб</a>, 2010 &mdash; 2020
+        </div>
+        <div class="darkbg"></div>
+        <div class="queryForm">
+            <div class="typTitle">Написать нам <div class="Close">Закрыть</div></div>
+            <div class="eForm">
+                <form action="#" method="post">
+                    <div class="eField">
+                        <div class="Key">Ваше имя</div>
+                        <div class="Value"><input type="text" name="name" value=""/></div>
+                    </div>
+                    <div class="eField">
+                        <div class="Key">Электронная почта</div>
+                        <div class="Value"><input type="text" name="email" value=""/></div>
+                    </div>
+                    <div class="eField">
+                        <div class="Key">Контактный телефон</div>
+                        <div class="Value"><input type="text" name="phone" value=""/></div>
+                    </div>
+                     <div class="eField">
+                        <div class="Key">Текст сообщения</div>
+                        <div class="Value"><textarea name="text"></textarea></div>
+                    </div>
+                    <input type="submit" value="Отправить"/>
+                </form>
+            </div>
+        </div>
+        
+        <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter28928330 = new Ya.Metrika({id:28928330,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/28928330" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- BEGIN JIVOSITE CODE -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'MqSSREv8Bi';var d=document;var w=window;function l(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<!-- END JIVOSITE CODE -->
+
+<div class="mango-callback" data-settings='{"type":"", "id": "MTAwMDU1MDc=","autoDial" : "0", "lang" : "ru-ru", "host":"widgets.mango-office.ru/", "errorMessage": "В данный момент наблюдаются технические проблемы и совершение звонка невозможно"}'>
+<button class="button-widget-open" id="mango-widget-btn" style=" background: #094a88; width: 175px;height: 36px;white-space: nowrap;border: none;font-family: 'SegoeUISemibold';color: #fff;font-size: 13px;cursor: pointer;">Заказать звонок</button>
+</div>
+<script>!function(t){function e(){i=document.querySelectorAll(".button-widget-open");for(var e=0;e<i.length;e++)"true"!=i[e].getAttribute("init")&&(options=JSON.parse(i[e].closest('.'+t).getAttribute("data-settings")),i[e].setAttribute("onclick","alert('"+options.errorMessage+"(0000)'); return false;"))}function o(t,e,o,n,i,r){var s=document.createElement(t);for(var a in e)s.setAttribute(a,e[a]);s.readyState?s.onreadystatechange=o:(s.onload=n,s.onerror=i),r(s)}function n(){for(var t=0;t<i.length;t++){var e=i[t];if("true"!=e.getAttribute("init")){options=JSON.parse(e.getAttribute("data-settings"));var o=new MangoWidget({host:window.location.protocol+'//'+options.host,id:options.id,elem:e,message:options.errorMessage});o.initWidget(),e.setAttribute("init","true"),i[t].setAttribute("onclick","")}}}host=window.location.protocol+"//widgets.mango-office.ru/";var i=document.getElementsByClassName(t);o("link",{rel:"stylesheet",type:"text/css",href:host+"css/widget-button.css"},function(){},function(){},e,function(t){document.documentElement.insertBefore(t,document.documentElement.firstChild)}),o("script",{type:"text/javascript",src:host+"widgets/mango-callback.js"},function(){("complete"==this.readyState||"loaded"==this.readyState)&&n()},n,e,function(t){document.documentElement.appendChild(t)})}("mango-callback");</script>
+    
+    </body>
+</html><!-- 0.002486 sec --><!-- 61039.7 Rates -->
+<!-- Powered by SYWEB -->
+<!-- Module: page -->
+<!-- Opt:  -->
+<!-- Action:  -->

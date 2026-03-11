@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="https://obuvtorg.org//index.php" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Дюна, Дюна-АСТ, обувь Дюна, представительство Дюна в Санкт-Петербурге, представительство Дюна-АСТ в Санкт-Петербурге, представительство Дюна в СПБ, представительство Дюна-АСТ в СПБ" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title></title>
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/vmsite-ltr.css?vmver=Revision: 8558" type="text/css" />
+  <link rel="stylesheet" href="/components/com_virtuemart/assets/css/chosen.css?vmver=Revision: 8558" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_virtuemart_param_filter/assets/style.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?vmver=Revision: 8558" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/jquery.noconflict.js?vmver=Revision: 8558" type="text/javascript"></script>
+  <script src="/components/com_virtuemart/assets/js/chosen.jquery.min.js?vmver=Revision: 8558" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_virtuemart_param_filter/assets/js.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+//<![CDATA[
+		var vm2string ={editImage: 'edit image',select_all_text: 'COM_VIRTUEMART_DRDOWN_SELALL',select_some_options_text: 'COM_VIRTUEMART_DRDOWN_AVA2ALL'} ;
+		 jQuery( function($) {
+			$(".vm-chzn-select").chosen({enable_select_all: true,select_all_text : vm2string.select_all_text,select_some_options_text:vm2string.select_some_options_text});
+		});
+//]]>
+				
+mcf_reinit["#paramfilter-100-start"] = function(){
+
+};
+mcf_reinit["#paramfilter-100-mod"] = function(){
+
+};
+mcf_reinit["#paramfilter-100-div"] = function(){
+
+};
+  </script>
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/ot/css/template.css" type="text/css" />
+
+<script type="text/javascript" src="/templates/ot/js/jquery.tinycarousel.min.js"></script>
+<script type="text/javascript" src="/templates/ot/js/jquery.imageZoom.js"></script>
+<script type="text/javascript" src="/templates/ot/js/tabs.js"></script>
+<script type="text/javascript" src="/templates/ot/js/jquery.cookies.js"></script>
+<script type="text/javascript" src="/templates/ot/js/jquery.caret.1.02.min.js"></script>
+<script type="text/javascript" src="/templates/ot/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/templates/ot/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/templates/ot/js/jquery.elevateZoom-2.5.5.min.js"></script>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?84"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function () {
+  jQuery(".leftmenu li a").click(function () {
+    var elem = jQuery(this).parent();
+
+    elem.find("div").toggle('fast', function() {
+      if (elem.find("div").is(":visible")) {
+        elem.removeClass("leftmenu-element-close").addClass("leftmenu-element-open");
+        } else {
+        elem.removeClass("leftmenu-element-open").addClass("leftmenu-element-close");
+        }
+      });
+    })
+
+  jQuery(".summerseason").click(function () {
+    if (jQuery('.wintercatalog').is(":visible")) {
+      jQuery(".summerseason").removeClass("seasonboxbutton").addClass("seasonboxbuttoncurrent");
+      jQuery(".winterseason").removeClass("seasonboxbuttoncurrent").addClass("seasonboxbutton");
+      jQuery.cookie('current_menu', 'summer');
+      jQuery('.wintercatalog').toggle('fast', function() {
+        jQuery('.summercatalog').toggle();
+        });
+      }
+    })
+
+  jQuery(".winterseason").click(function () {
+    if (jQuery('.summercatalog').is(":visible")) {
+      jQuery(".winterseason").removeClass("seasonboxbutton").addClass("seasonboxbuttoncurrent");
+      jQuery(".summerseason").removeClass("seasonboxbuttoncurrent").addClass("seasonboxbutton");
+      jQuery.cookie('current_menu', 'winter');
+      jQuery('.summercatalog').toggle('fast', function() {
+        jQuery('.wintercatalog').toggle();
+        });
+      }
+    })
+
+  })
+</script>
+
+<script type="text/javascript">
+  VK.init({apiId: 3519026, onlyWidgets: true});
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script src="/http://apis.google.com/js/plusone.js" type="text/javascript"></script>
+
+<link href="http://stg.odnoklassniki.ru/share/odkl_share.css" rel="stylesheet">
+<script src="http://stg.odnoklassniki.ru/share/odkl_share.js" type="text/javascript"></script>
+
+</head>
+
+<body onload="ODKL.init();">
+
+  <table class="maintable" width="100%" border="0">
+    <tr>
+      <td class="leftpart">&nbsp;</td>
+      <td width="1000px" class="centerpart" valign="top">
+        <table width="100%" border="0">
+          <tr>
+            <td height="143px" class="toppart" valign="top">
+              <!-- top menu -->
+              <table width="100%" border="0">
+                <tr>
+                  <td height="143px" width="260px" class="" valign="top"><a style="display: block; width: 250px; height: 140px;" href="/."></a>
+                  </td>
+                  <td height="143px" width="320px" class="" valign="top">
+                    <table width="100%" border="0" class="topminimenu">
+                      <tr>
+                        <td valign="top" height="27px" class="topminimenu-td1"><a href="/.">Главная</a>
+                        </td>
+                        <td valign="top" class="topminimenu-td2"><a href="/dostavka-i-oplata">Доставка и оплата</a>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td valign="top" class="topminimenu-td1"><a href="/kontakty">Контакты</a>
+                        </td>
+                        <td valign="top" class="topminimenu-td2"><a href="/garantiya">Сотрудничество</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td height="143px" width="200px" class="frontcontacts" valign="middle">
+                  Наши контакты:
+                  <div class="phones"><span>(905)</span> 200 14 44</div>  
+                  <div class="phones"><span>(963)</span> 312 22 53</div>
+                  
+                  <div class="email"><span>Email:</span> <a href="mailto:info@obuvtorg.org">info@obuvtorg.org</a></div>
+                  </td>
+                  <td height="143px" class="" valign="top"><div class="vmCartModule " id="vmCartModule">
+<div class="basket-title">В вашей корзине:</div>
+<hr style="border:0; border-top:1px solid #ff7f40; height:0px; width: 100%" noshade />
+<p align="center">
+Нет товаров
+</p>
+</div>
+                  <br />
+                                    <a class="loginbuttons" href="/component/users/?view=login">Вход</a>&nbsp;&nbsp;&nbsp;<a class="regbuttons" href="/component/users/?view=registration">Регистрация</a>
+                                    </td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+          <tr>
+            <td class="content">
+              <table width="100%" height="628" border="0">
+                <tr>
+                  <td class="leftblock" width="261px" valign="top">
+                    <!-- Left menu -->
+                    <table width="100%" border="0">
+                      <tr>
+                        <td class="category" valign="top">
+                        <ul class="leftmenu">
+                          <li class="leftmenu-element-open">
+                            <a href="javascript:void(0)">Поиск товаров</a>
+                            <div class="leftmenuitem">
+                            <div id="paramfilter-100" class="paramfilter ver160"><script type="text/javascript">
+				var mcf_uri = ""; loader_img["paramfilter-100"] = "aload-black_on_white.gif";
+</script><form class="mcf_form mcf_mod_ajax" action="/vm-search/search" method="get">
+			<input type="hidden" name="option" value="com_virtuemart" />
+			<input type="hidden" name="search" value="true" />
+			<input type="hidden" name="view" value="category" />
+			<input type="hidden" name="mcf_id" value="100" />
+			<div class="ajax_url" style="display:none;">https://obuvtorg.org/modules/mod_virtuemart_param_filter/ajax.php?search=true&amp;virtuemart_category_id=0</div>	<div class="custom_params custom_kw">
+		<div class="heading">Название / арт.</div>
+		<div class="values values-kw">
+			<input class="mcf_kw" type="text" name="kw" value="" placeholder="" /> <a style="display: none;" href="javascript:void(0)" class="kw_btn">[GO]</a>
+		</div>
+	</div>
+	<div class="filter_category"><div class="heading">Каталоги</div><ul class="values" data-id="c"><li><label><input type="checkbox" name="cids[]" value="1" /><span>Женская обувь</span></label>&nbsp;<a class="next_depth" href="#">&darr;&uarr;</a><ul style="display:none;"><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="22" /><span>Обувь из ПВХ и ЭВА</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="13" /><span>Туфли</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="12" /><span>Сапоги</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="11" /><span>Ботильоны</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="10" /><span>Тапочки</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="9" /><span>Сабо</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="6" /><span>Ботинки</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="5" /><span>Босоножки</span></label></li></ul></li><li><label><input type="checkbox" name="cids[]" value="4" /><span>Детская обувь</span></label>&nbsp;<a class="next_depth" href="#">&darr;&uarr;</a><ul style="display:none;"><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="31" /><span>Тапочки</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="30" /><span>Обувь из ПВХ и ЭВА</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="28" /><span>Сабо</span></label></li></ul></li><li><label><input type="checkbox" name="cids[]" value="3" /><span>Подростковая обувь</span></label>&nbsp;<a class="next_depth" href="#">&darr;&uarr;</a><ul style="display:none;"><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="26" /><span>Обувь из ПВХ и ЭВА</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="23" /><span>Сабо</span></label></li></ul></li><li><label><input type="checkbox" name="cids[]" value="2" /><span>Мужская обувь</span></label>&nbsp;<a class="next_depth" href="#">&darr;&uarr;</a><ul style="display:none;"><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="17" /><span>Ботинки</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="33" /><span>Обувь и одежда для рыбалки</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="21" /><span>Обувь из ПВХ и ЭВА</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="20" /><span>Туфли</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="19" /><span>Тапочки</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="18" /><span>Сабо</span></label></li><li>&nbsp;&nbsp;<sup>L</sup>&nbsp;<label><input type="checkbox" name="cids[]" value="16" /><span>Сандали</span></label></li></ul></li></ul></div><input type="hidden" name="sc" value="1" /><div class="filter_manufacturers"><div class="heading">Бренды</div><div class="values" data-id="m"><select name="mids[]"><option value="">Выберите</option><option value="10">Alex</span><span class="count"> [2]</option><option value="4">BestWalk</span><span class="count"> [2]</option><option value="8">Felina</span><span class="count"> [14]</option><option value="2">LaGrandezza</span><span class="count"> [1]</option><option value="7">Muya</span><span class="count"> [51]</option><option value="9">Rusi</span><span class="count"> [24]</option><option value="6">SP collection</span><span class="count"> [1]</option><option value="1">Дюна-АСТ</span><span class="count"> [265]</option><option value="11">Стандарт</span><span class="count"> [8]</option></select></div></div><input type="hidden" name="mcur" value="1" /><div class="price"><div class="heading">Цена (от ... до)</div><div class="values sliderbox slider-double-handle" data-id="p"><input type="text" class="slider-range-gt" name="pl" rev="26" rel="0" placeholder="0" value="" size="4" /><input type="text" class="slider-range-lt" name="pr" rev="7993" rel="7993" placeholder="7993" value="" size="4" /><div style="clear:both;"></div><div class="slider-line"></div></div></div><input type="hidden" name="cpi[]" value="8" /><div class="custom_params custom_params-8"><div class="heading">Размер</div><div class="values cv-8" data-id="8"><select name="cv8[]" rel="8"><option value="">Выберите</option><option value="10">22 [5]</option><option value="11">23 [5]</option><option value="12">24 [6]</option><option value="13">25 [12]</option><option value="21">26 [7]</option><option value="22">27 [1]</option><option value="23">28 [4]</option><option value="24">29 [4]</option><option value="25">30 [42]</option><option value="26">31 [44]</option><option value="27">32 [48]</option><option value="28">33 [177]</option><option value="29">34 [29]</option><option value="30">35 [152]</option><option value="31">36 [893]</option><option value="32">37 [976]</option><option value="33">38 [664]</option><option value="34">39 [1122]</option><option value="35">40 [1801]</option><option value="36">41 [1288]</option><option value="37">42 [1429]</option><option value="38">43 [1232]</option><option value="39">44 [1388]</option><option value="40">45 [534]</option><option value="41">46 [57]</option><option value="42">47 [39]</option><option value="43">48 [13]</option><option value="44">49 [5]</option><option value="45">50 [5]</option></select></div></div><input type="hidden" name="cpi[]" value="18" /><div class="custom_params custom_params-18"><div class="heading">Цвет</div><div class="values cv-18" data-id="18"><select name="cv18[]" rel="18"><option value="">Выберите</option><option value="46">Черный [40]</option><option value="72">Сигнально-синий [5]</option><option value="87" disabled="disabled">Лимонный [0]</option><option value="88">Оранжевый [8]</option><option value="89">Разный [4]</option><option value="90">Салатный [4]</option><option value="91">Темная слива [1]</option><option value="92" disabled="disabled">Джинс [0]</option><option value="93">Шоколад [3]</option><option value="94">тёмно-синие [1]</option><option value="95" disabled="disabled">чёрные [0]</option><option value="96">чёрный [3]</option><option value="97">т.слива/серый аметист [1]</option><option value="98">Сирень [1]</option><option value="99" disabled="disabled">ярко розовый [0]</option><option value="100">фуксия [1]</option><option value="101" disabled="disabled">Мята [0]</option><option value="102" disabled="disabled">Салатовый [0]</option><option value="103">мыши и сыр [1]</option><option value="104">пингвины [1]</option><option value="105">свинки [1]</option><option value="106">спорткары [1]</option><option value="107">субмарина [1]</option><option value="108" disabled="disabled">узоры [0]</option><option value="109" disabled="disabled">дог-пати [0]</option><option value="110" disabled="disabled">камуфляж [0]</option><option value="111" disabled="disabled">лаймовый пунж [0]</option><option value="112" disabled="disabled">Малахит [0]</option><option value="113" disabled="disabled"> малиновый [0]</option><option value="114" disabled="disabled">оливковый [0]</option><option value="115" disabled="disabled">оранжевый [0]</option><option value="116" disabled="disabled">Светло-Серый [0]</option><option value="117" disabled="disabled">сигнально- синий [0]</option><option value="118" disabled="disabled">тёмно-синий [0]</option><option value="119" disabled="disabled">Бирюза/жёлтый [0]</option><option value="120" disabled="disabled">лаймовый пунш [0]</option><option value="121" disabled="disabled">Котята [0]</option><option value="122" disabled="disabled">дог-пати [0]</option><option value="123" disabled="disabled">монстры [0]</option><option value="124" disabled="disabled">лайм [0]</option><option value="125" disabled="disabled">лимонный/салатный [0]</option><option value="126" disabled="disabled">цветочная роспись [0]</option><option value="127" disabled="disabled">цветы на голубом [0]</option><option value="128" disabled="disabled">цветы на розовом [0]</option><option value="129" disabled="disabled">орхидея голубая на медном [0]</option><option value="130" disabled="disabled">чёрный/красная/чёрная [0]</option><option value="131" disabled="disabled">Темно-серый [0]</option><option value="132" disabled="disabled">тёмно-серый [0]</option><option value="133" disabled="disabled">ярко-розоаый [0]</option><option value="134" disabled="disabled">цикламен/белая [0]</option><option value="135" disabled="disabled">Бирюзовом/белая [0]</option><option value="136" disabled="disabled">цветы на розовом/тёмная слива [0]</option><option value="137" disabled="disabled">Красный/красная [0]</option><option value="138" disabled="disabled">бирюзовый/оранжевый [0]</option><option value="139" disabled="disabled">мятная/белый [0]</option><option value="140" disabled="disabled">оранжевая/черный/оранжевый [0]</option><option value="141" disabled="disabled">серый/т.синий/серый [0]</option><option value="142" disabled="disabled">оранжевая/салатный/оранжевый [0]</option><option value="143" disabled="disabled">салатная/белый/салатный [0]</option><option value="144" disabled="disabled">розовый/белый/розовый [0]</option><option value="145" disabled="disabled">салатный/салатный/жёлтый [0]</option><option value="146" disabled="disabled">Ярко-синий [0]</option><option value="147" disabled="disabled"> малиновый [0]</option><option value="148" disabled="disabled">т.серые [0]</option><option value="149" disabled="disabled">белый/серо-синяя [0]</option><option value="150" disabled="disabled">жёлтый [0]</option><option value="151" disabled="disabled"> малиновый [0]</option><option value="152">т.синий [5]</option><option value="153" disabled="disabled">красный/черный [0]</option><option value="154">т.серый [4]</option><option value="155" disabled="disabled">т.слива [0]</option><option value="156" disabled="disabled">голубой/ярк.розовый [0]</option><option value="157">красный/желтый [1]</option><option value="158">салатный/желтый [1]</option><option value="159">т.серый/пепельный [1]</option><option value="160" disabled="disabled">Ассорти 2 [0]</option><option value="161" disabled="disabled"> малиновый [0]</option><option value="162" disabled="disabled"> малиновый [0]</option><option value="163" disabled="disabled"> малиновый [0]</option><option value="164" disabled="disabled"> малиновый [0]</option><option value="165" disabled="disabled"> малиновый [0]</option><option value="166" disabled="disabled"> малиновый [0]</option><option value="47">Коричневый [7]</option><option value="48">Красный [4]</option><option value="49">Белый [18]</option><option value="50">Бежевый [10]</option><option value="51">Желтый [1]</option><option value="52">Синий [10]</option><option value="73">Голубой [8]</option><option value="74">Бирюзовый [4]</option><option value="75" disabled="disabled">Зеленый [0]</option><option value="76">Лес [3]</option><option value="77" disabled="disabled">Малиновый [0]</option><option value="78">Оливковый [24]</option><option value="79" disabled="disabled">Песочный [0]</option><option value="80">Розовый [5]</option><option value="81">Серый [19]</option><option value="82">Сиреневый [5]</option><option value="83">Темно-синий [20]</option><option value="84" disabled="disabled">Фиолетовый [0]</option><option value="85" disabled="disabled">Черн/бел [0]</option><option value="86">Баклажан [1]</option><option value="167" disabled="disabled">снежинки на чёрном [0]</option></select></div></div><input type="hidden" name="custom_parent_id" value="8" /><input type="hidden" name="limitstart" value="0" /><input type="hidden" name="limit" value="50" /><input class="mcf_button" style="padding:5px;" type="submit" value="Show" /><a class="fullreset" href="#">Reset</a></form></div>
+                            </div>
+                          </li>
+                          
+                            <li class="leftmenu-element-open">
+                            <a href="javascript:void(0)">Валюта товара</a>
+                            <div class="leftmenuitem">
+                            
+<!-- Currency Selector Module -->
+
+<form action="https://obuvtorg.org//index.php?option=com_content&view=article&id=11&Itemid=130" method="post">
+
+
+	<select id="virtuemart_currency_id" name="virtuemart_currency_id" class="inputbox vm-chzn-select">
+	<option value=""></option>
+	<option value=""></option>
+</select>
+	<br />
+    <input class="button" type="submit" name="submit" value="Выбрать валюту" />
+	<br />
+</form>
+
+                            </div>
+                          </li>
+                          
+                         <li class="leftmenu-element-open">
+                            <a href="javascript:void(0)">Каталог товаров</a>
+                            <div class="leftmenuitem">
+                            
+<ul class="VMmenu" id="VMmenu57_82845" >
+
+<li class="VmClose">
+	<div >
+		<a href="/katalog-tovarov/1-zhenskaya-obuv_" >Женская обувь</a>				</div>
+<ul class="menu">
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/5-bosonozhki" >Босоножки</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/6-botinki" >Ботинки</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/9-sabo" >Сабо</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/10-tapochki" >Тапочки</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/11-botil_ony" >Ботильоны</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/12-sapogi" >Сапоги</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/13-tufli" >Туфли</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/1-zhenskaya-obuv_/22-obuv_-iz-pvh-i-jeva" >Обувь из ПВХ и ЭВА</a></div>
+</li>
+</ul>
+</li>
+
+<li class="VmClose">
+	<div >
+		<a href="/katalog-tovarov/2-muzhskaya-obuv_" >Мужская обувь</a>				</div>
+<ul class="menu">
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/16-sandali" >Сандали</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/17-botinki" >Ботинки</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/18-sabo" >Сабо</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/19-tapochki" >Тапочки</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/20-tufli" >Туфли</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/21-obuv_-iz-pvh-i-jeva" >Обувь из ПВХ и ЭВА</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/2-muzhskaya-obuv_/33-obuv_-i-odezhda-dlya-rybalki" >Обувь и одежда для рыбалки</a></div>
+</li>
+</ul>
+</li>
+
+<li class="VmClose">
+	<div >
+		<a href="/katalog-tovarov/3-podrostkovaya-obuv_" >Подростковая обувь</a>				</div>
+<ul class="menu">
+
+<li>
+	<div ><a href="/katalog-tovarov/3-podrostkovaya-obuv_/23-sabo" >Сабо</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/3-podrostkovaya-obuv_/26-obuv_-iz-pvh-i-jeva" >Обувь из ПВХ и ЭВА</a></div>
+</li>
+</ul>
+</li>
+
+<li class="VmClose">
+	<div >
+		<a href="/katalog-tovarov/4-detskaya-obuv_" >Детская обувь</a>				</div>
+<ul class="menu">
+
+<li>
+	<div ><a href="/katalog-tovarov/4-detskaya-obuv_/28-sabo" >Сабо</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/4-detskaya-obuv_/30-obuv_-iz-pvh-i-jeva" >Обувь из ПВХ и ЭВА</a></div>
+</li>
+
+<li>
+	<div ><a href="/katalog-tovarov/4-detskaya-obuv_/31-tapochki" >Тапочки</a></div>
+</li>
+</ul>
+</li>
+</ul>
+
+                            </div>
+                          </li>
+
+                         <li class="leftmenu-element1">
+                          <div class="leftmenuitem">
+                              
+                              </div>
+                          </li>
+
+                <li class="leftmenu-element-open">
+                            <a href="javascript:void(0)">Подписаться на новости</a>
+                            <div class="leftmenuitem">
+                            
+                            </div>
+                          </li>
+
+             <li class="leftmenu-element-open">
+                            <a href="javascript:void(0)">Последние новости</a>
+                            <div class="leftmenuitem lastnews">
+                            <div class="newsflash">
+	
+	<h4 class="newsflash-title">
+			<a href="/8-novosti/14-novinki-muzhskoj-obuvi-dyuna-ast">
+			Мужская обувь Дюна</a>
+		</h4>
+
+
+
+
+<p><a href="/news/14-novinki-muzhskoj-obuvi-dyuna-ast">Мужская обувь Дюна</a></p>
+
+<a class="readmore" href="/8-novosti/14-novinki-muzhskoj-obuvi-dyuna-ast">Read more...</a>	
+	<h4 class="newsflash-title">
+			<a href="/8-novosti/13-novinki-zhenskoj-obuvi-dyuna-ast">
+			Женская обувь Дюна</a>
+		</h4>
+
+
+
+
+<p><a href="/news/13-novinki-zhenskoj-obuvi-dyuna-ast">Женская обувь Дюна</a></p>
+
+<a class="readmore" href="/8-novosti/13-novinki-zhenskoj-obuvi-dyuna-ast">Read more...</a></div>
+
+                            <p align="right"><a class="all_news_link" href="/news/">Все новости</a>&nbsp;&nbsp;<span style="color: #ff5400; font-weight: bold;">></span></p>
+                            </div>
+                          </li>
+                        </ul>
+                        <div>
+                        </td>
+                      </tr>
+
+
+
+<tr>
+<td>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?112"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "210", height: "320", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 40314563);
+</script>
+  <div>
+  </div>
+  </td>
+                          </tr>
+
+ <tr>
+                        <td valign="bottom" height="80px">
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t13.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td class="contentbody" valign="top">
+                    <!-- Main content-->
+                    <br /><br />
+                                        
+                    
+                                        
+<div class="breadcrumbs">
+</div>
+
+                    
+<div id="system-message-container">
+<dl id="system-message">
+<dt class="error">Error</dt>
+<dd class="error message">
+	<ul>
+		<li>You are not authorised to view this resource.</li>
+	</ul>
+</dd>
+</dl>
+</div>
+                    
+                                        <br /><br /><br />
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2" class="footer">
+                        <table width="100%" height="60px" border="0">
+                          <tr>
+                            <td width="260px" height="60px" valign="bottom">
+                            <div style="padding-left: 30px; padding-bottom: 7px; color: #aeaeae;">г. Санкт-Петербург<br />ул. Ключевая д. 13, офис 13Н</div>
+                            </td>
+                            <td valign="top" style="padding-top: 20px; padding-left: 50px;">
+                            
+                            <br /><br /><br /><br /><br />
+                            <div style="float: left; padding-left: 10px; padding-bottom: 7px; color: #c3c3c3; width: 500px;">(с) ОбувьТорг. 2010-2014. Все права защищены.</div>
+                            </td>
+                          </tr>
+                        </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td class="rightpart">&nbsp;</td>
+    </tr>
+  </table>
+</body>
+</html>

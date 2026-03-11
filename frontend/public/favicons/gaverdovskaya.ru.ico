@@ -1,0 +1,25 @@
+﻿<html>
+<head>
+<title>404 Page Not Found (The page you requested was not found.)</title>
+<style type="text/css">
+
+  html,body,table {height:100%;margin:0;padding:0;}
+  table {width:100%;font-family:Verdana;margin:0;padding:0;}
+  h1 {font-size:59px;color:#ccc; margin-bottom:0px;margin-top:-200px;}
+  a {font-size:22px;color:#f60;text-transform:uppercase; }
+  table td {text-align:center;}
+  body {background: url(/img/404sartre.gif)  no-repeat 100% 100%;}
+  .err {padding:100px;font-size:2em;}
+
+
+</style>
+</head>
+<body>
+<table>
+<tr><td>
+<h1>CТРАНИЦА НЕ НАЙДЕНА</h1>
+<a href="/">gaverdovskaya.ru - психолог Полина Гавердовская</a>
+</td></tr>
+</table>
+</body>
+</html>

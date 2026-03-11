@@ -1,0 +1,12 @@
+<br /><b>jos-Error</b>: Представление не найдено [name, type, prefix]: article, ico, contentView<br />
+<br />
+JSite -> dispatch() @ /home/p/prepodanet/public_html/index.php:42<br />
+JComponentHelper :: renderComponent() @ /home/p/prepodanet/public_html/includes/application.php:194<br />
+JComponentHelper :: executeComponent() @ /home/p/prepodanet/public_html/libraries/joomla/application/component/helper.php:348<br />
+require_once() @ /home/p/prepodanet/public_html/libraries/joomla/application/component/helper.php:380<br />
+JController -> execute() @ /home/p/prepodanet/public_html/components/com_content/content.php:16<br />
+ContentController -> display() @ /home/p/prepodanet/public_html/libraries/joomla/application/component/controller.php:761<br />
+JController -> display() @ /home/p/prepodanet/public_html/components/com_content/controller.php:74<br />
+JController -> getView() @ /home/p/prepodanet/public_html/libraries/joomla/application/component/controller.php:677<br />
+JError :: raiseError() @ /home/p/prepodanet/public_html/libraries/joomla/application/component/controller.php:903<br />
+JError :: raise() @ /home/p/prepodanet/public_html/libraries/joomla/error/error.php:251

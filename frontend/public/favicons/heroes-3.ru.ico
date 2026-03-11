@@ -1,0 +1,322 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="http://heroes-3.ru/img/icon.ico" type="image/x-icon" />
+<script type="text/javascript">window.s2310058630 = {};</script>
+<title>Страница не найдена</title>
+<link type="text/css" rel="StyleSheet" href="http://heroes-3.ru/services/404/css/404-all.css">
+<script type="text/javascript" src="http://heroes-3.ru/langs/rus/template/template/js.js"></script>
+<script type="text/javascript" src="http://heroes-3.ru/langs/rus/services/404/js.js"></script>
+<script type="text/javascript" src="http://heroes-3.ru/services/404/js/404-all.js"></script>
+</head>
+
+<body class="s4082206346">
+    <div id="s337185439"></div>
+<div id="s679878429" gl_sector="s1052151615"></div>
+<div class="s570779068">
+    <div class="s4147822942" align="center">
+                <div class="s397532908" align="left" onclick="var s3711425618 = event || window.event; s3711425618.stopPropagation ? s3711425618.stopPropagation() : (s3711425618.cancelBubble=true);">
+            <div class="s1756314411">
+                <table
+                    class="s921137685"
+                    width="100%"
+                    border="0"
+                    onmouseup="$(this).removeClass('s3704734726');"
+                    onmousedown="$(this).addClass('s3704734726');"
+                    onclick="$('#s1268131193').toggle();"
+                >
+                    <tr>
+                        <td width="20">
+                            <div align="right">
+                                <img width="16" height="16" title="Русский" src="http://heroes-3.ru/img/template/template/langs/rus.png" />
+                            </div>
+                        </td>
+                        <td>
+                            <div class="s1745917686">Русский</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="s1268131193">
+                <div class="s40561036"></div>
+                <table class="s656001767" border="0">
+                                            <tr onclick="s2310058630.s1436917155.s1860032937('0');">
+                            <td width="20">
+                                <div align="right">
+                                    <img width="16" height="16" title="Русский" src="http://heroes-3.ru/img/template/template/langs/rus.png" />
+                                </div>
+                            </td>
+                            <td width="120">
+                                <div class="s880205500">Русский</div>
+                            </td>
+                        </tr>
+                                            <tr onclick="s2310058630.s1436917155.s1860032937('1');">
+                            <td width="20">
+                                <div align="right">
+                                    <img width="16" height="16" title="English" src="http://heroes-3.ru/img/template/template/langs/usa.png" />
+                                </div>
+                            </td>
+                            <td width="120">
+                                <div class="s880205500">English</div>
+                            </td>
+                        </tr>
+                                    </table>
+                <div class="s426470541"></div>
+            </div>
+        </div>
+        <div class="s3007618872"></div>
+    </div>
+    <div class="s3788364570" align="center">
+        <div class="s1257315329">
+            <ul>
+                <li><div><a href="http://heroes-3.ru/"><strong>Главная</strong></a></div></li>
+<li><div><a href="http://heroes-3.ru/map"><strong>Карта</strong></a></div></li>
+<li><div><a href="http://heroes-3.ru/work/work"><strong>Заработать</strong></a></div></li>
+<li><div><a href="http://heroes-3.ru/chat"><strong>Чат</strong></a></div></li>
+<li><div><a href="http://heroes-3.ru/forum.html"><strong>Форум</strong></a></div></li>
+<li><div><a href="http://heroes-3.ru/wiki/index"><strong>Википедия</strong></a></div></li>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="s24569516" style="display:none;"></div>
+
+<div class="s223448995 s2112700772">
+    <div class="s3302053621">
+        <div class="s2720521775">
+            <div class="s507761567">
+                <div class="s4236552063">
+                                        <div class="s3940352537">
+                        <script type="text/javascript" src="http://heroes-3.ru/langs/rus/template/auth/js.js"></script>
+                        <script type="text/javascript" src="http://heroes-3.ru/template/auth/js/auth.js"></script>
+                        <div class="s3845569789">Авторизация</div>
+                        <div align="center">
+                            <input id="s3910218616" type="text" value="Логин.." onfocus="if (this.value == 'Логин..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Логин..';}" />
+                            <input id="s4101858035" type="password" value="Пароль.." onfocus="if (this.value == 'Пароль..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Пароль..';}" />
+                        </div>
+                        <div class="s2751872583" onclick="s2310058630.s3940352537.s3263917251(this);">
+                            <div class="s1801144998"></div>
+                            <div class="s4278403923">Ip-адрес</div>
+                        </div>
+                        <div align="center">
+                            <input type="button" class="s1315372730" onclick="s2310058630.s3940352537.s2379133143();" value="Войти" />
+                        </div>
+                        <div class="s537869231">
+                            <span class="s1740932495"><a onclick="s2310058630.s3940352537.s2179634536();">Восстановление пароля</a></span>
+                        </div>
+                        <div class="s665614710">
+                            <span class="s3635552843"><a target="_blank" href="http://heroes-3.ru/registration.html">Регистрация</a></span>
+                        </div>
+                    </div>
+                                        <div class="s3870102019">
+                        <div class="s3425441823"></div>
+                        <div class="s1429147946"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="s3302053621 s2789448203">
+            <div class="s2720521775">
+                <div class="s507761567">
+                    <div class="s882771359" onclick="s2310058630.s413612577.s1177733770(this);">
+                        <div class="s2136060876">Online справочники</div>
+                        <div class="s2377489251"></div>
+                    </div>
+                    <div class="s3352518528 online_libraries" style="display: none;"><div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/1/html/html_">Справочник HTML</a></div>
+</div>
+<div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/1/css/css">Справочник CSS</a></div>
+</div>
+</div>
+                    <div class="s809977541" style="display: none;"></div>
+                </div>
+            </div>
+        </div>
+        <div class="s3302053621 s2789448203">
+            <div class="s2720521775">
+                <div class="s507761567">
+                    <div class="s882771359" onclick="s2310058630.s413612577.s1177733770(this);">
+                        <div class="s2136060876">Сервисы HWM</div>
+                        <div class="s2377489251"></div>
+                    </div>
+                    <div class="s3352518528 online_libraries" style="display: none;"><div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/hwm/rent">Аренда артефактов</a></div>
+</div>
+<div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/hwm/cloakroom">Примерялка</a></div>
+</div>
+<div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/hwm/repair">Расчет ремонта</a></div>
+</div>
+<div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/hwm/work">Устройство на работу</a></div>
+</div>
+<div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle"><a href="/gt">Чаты ГТ</a></div>
+</div>
+</div>
+                    <div class="s809977541" style="display: none;"></div>
+                </div>
+            </div>
+        </div>
+        <div class="s3302053621 s2789448203">
+            <div class="s2720521775">
+                <div class="s507761567">
+                    <div class="s882771359" onclick="s2310058630.s413612577.s1177733770(this);">
+                        <div class="s2136060876">Полезные сервисы</div>
+                        <div class="s2377489251"></div>
+                    </div>
+                    <div class="s3352518528 online_libraries" style="display: none;"><div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle">
+        <a href="/services/password">Генератор паролей</a>
+    </div>
+</div>
+<div class="listContainer">
+    <img class="leftArrow" src="/images/image_for_fon/01.gif">
+    <div class="listTextStyle">
+        <a href="/services/speedtest">Тестирование скорости</a>
+    </div>
+</div>
+</div>
+                    <div class="s809977541" style="display: none;"></div>
+                </div>
+            </div>
+        </div>
+        <style>
+            .online_libraries .listContainer{position:relative;}
+            .online_libraries .listContainer > img{position:absolute;left:5px;top:5px;}
+            .online_libraries .listContainer > .listTextStyle{font-size:14px;color:#000;margin-left:15px;}
+        </style>
+        <div class="s3302053621 s2789448203">
+        <div class="s2720521775">
+            <div class="s507761567">
+                <div class="s882771359" onclick="s2310058630.s413612577.s1177733770(this);">
+                    <div class="s2136060876">Статистика</div>
+                    <div class="s2377489251"></div>
+                </div>
+                <div class="s3352518528" style="display: none;"><div align="center" style="margin:5px 0;">
+
+<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
+target="_blank"><img id="licnt1A88" width="88" height="120" style="border:0" 
+title="LiveInternet: показано количество просмотров и посетителей"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licnt1A88").src=
+"https://counter.yadro.ru/hit?t27.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+
+</div></div>
+                <div class="s809977541" style="display: none;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="s3302053621">
+        <div class="s2720521775">
+            <div class="s507761567">
+                <div class="s882771359">
+                    <div class="s2136060876">Реклама</div>
+                    <div class="s2377489251"></div>
+                </div>
+                <div class="s3352518528"><div align="center"></div></div>
+                <div class="s809977541"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	<div class="s4164689386 s1624809254">
+        <h1 align="center">Страница не найдена</h1>
+        <div class="s2900816085" align="center">Вы будете перенаправлены на главную страницу через <span id="s3713889382"></span> секунд</div>
+        <div align="center" class="s3993497519">
+            <a href="http://heroes-3.ru/">Перейти сейчас..</a>
+        </div>
+	</div>
+<div class="s3523036555 s2112700772">
+    <div id="s1451663906">
+        <div class="s3302053621">
+            <div class="s2720521775">
+                <div class="s507761567">
+                    <div class="s2176006464"></div>
+                    <div class="s751134070">
+                        <h3 align="center">Категории</h3>
+                        <ul class="s838291645">
+                            <li><a href="http://heroes-3.ru/category-3-bash.html">Bash (759)</a></li>
+<li><a href="http://heroes-3.ru/category-2-geroi-vojni-i-deneg.html">Герои Войны и Денег (15)</a></li>
+<li><a href="http://heroes-3.ru/category-1-osoboe.html">Особое (1)</a></li>
+                            <li><a href="http://heroes-3.ru/category.html">Все категории</a></li>
+                        </ul>
+                    </div>
+                    <!--<div class="s4176979394"></div>-->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="s3302053621">
+        <div class="s2720521775">
+            <div class="s507761567">
+                <div class="s2176006464"></div>
+                <div class="s3352518528"></div>
+                <!--<div class="s809977541"></div>-->
+            </div>
+        </div>
+        <div class="s2450895906">
+            <div align="center"></div>        </div>
+        <div class="s3757465123"></div>
+    </div>
+    <div class="s3302053621 s1465465317">
+        <div class="s2720521775">
+            <div class="s507761567">
+                <div class="s2176006464"></div>
+                <div class="s3352518528">
+                    <h3 align="center">Последние комментарии</h3>
+                    <ul class="s1509329953">
+                                            </ul>
+                </div>
+                <!--<div class="s809977541"></div>-->
+            </div>
+        </div>
+    </div>
+</div>
+<!---->
+<div class="s4263057532">
+    <ul class="s2870214652">
+        <li><a href="http://heroes-3.ru/contacts.html">Контакты</a></li>
+<li><a onclick="s2310058630.s413612577.s1084208484();">Обнаружили ошибку</a></li>
+
+    </ul>
+    <div class="s3080191431">© 2006-2026, 	<a target="_blank" href="http://heroes-3.ru/">heroes-3.ru</a></div>
+    <div align="center" style="display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-justify-content:center;-ms-justify-content:center;justify-content:center;-webkit-align-items:center;-ms-align-items:center;align-items:center;">
+
+<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);
+</script>
+<div data-mobile-view="true" data-share-size="30" data-like-text-enable="false" data-background-alpha="0.0" data-pid="1896541" data-mode="share" data-background-color="#ffffff" data-hover-effect="scale" data-share-shape="round-rectangle" data-share-counter-size="12" data-icon-color="#ffffff" data-mobile-sn-ids="fb.vk.tw.ok.wh.tm.vb." data-text-color="#000000" data-buttons-color="#FFFFFF" data-counter-background-color="#ffffff" data-share-counter-type="common" data-orientation="horizontal" data-following-enable="false" data-sn-ids="fb.vk.tw.ok.wh.tm.vb." data-preview-mobile="false" data-selection-enable="true" data-exclude-show-more="false" data-share-style="1" data-counter-background-alpha="1.0" data-top-button="false" class="uptolike-buttons" ></div>
+
+</div></div>
+</body>
+</html>

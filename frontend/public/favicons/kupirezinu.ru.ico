@@ -1,0 +1,311 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251;">
+<title>; Купи резину: колесные автомобильные диски, летние и зимние шины</title>
+<meta name="keywords" content="Шины, диcки, покрышки, резина, подбор шин, подбор дисков по авто">
+<meta name="Description" content="; Купи резину: колесные автомобильные диски, летние и зимние шины">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="/css/stylenew.css" type="text/css" rel="stylesheet">
+<!--<script type="text/javascript" src="/jquery.js"></script>-->
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>-->
+<script src="/jq182.js"></script>
+<script language="javascript" type="text/javascript" src="/lib/js/valid.js"></script>
+<script type="text/javascript" src="/lib/js/cookie.js"></script>
+<script type="text/javascript" src="/lib/js/basket.js"></script>
+<script type="text/javascript" src="/server/get_car_attr.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RBP7F0QBL9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RBP7F0QBL9');
+</script>
+<link rel="stylesheet" type="text/css" href="/lib/jquery.fancybox.css">     
+<script type="text/javascript" src="/lib/js/jquery.fancybox.js" charset="windows-1251"></script>
+            <script type="text/javascript">
+            $(document).ready(function() {
+            $("a.zoom").fancybox({
+                'zoomSpeedIn' : 800,'zoomSpeedOut': 500
+            });         
+            });
+            x=0;
+            </script>
+            <script type="text/javascript">
+        
+                $(document).ready(function() { 
+                $(".tabs_menu li").click(function() { 
+                    if (!$(this).hasClass("active")) { 
+                        var i = $(this).index(); 
+                        $(".tabs_menu li.active").removeClass("active"); 
+                        $(".tabs .active").hide().removeClass("active"); 
+                        $(this).addClass("active"); 
+                        $($(".tabs").children(".tab")[i]).fadeIn(1000).addClass("active");
+                    }
+                });
+            });
+            </script>
+
+            <script type="text/javascript">
+
+                $(document).ready(function() { 
+                $(".main-menu label").click(function() { 
+                    $(".overlay").toggle();
+
+                 });
+            });
+            </script>
+
+            <script type="text/javascript">
+                $(document).ready(function(){
+                 
+                $(window).scroll(function(){
+                if ($(this).scrollTop() > 100) {
+                $('.scrollup').fadeIn();
+                } else {
+                $('.scrollup').fadeOut();
+                }
+                });
+                 
+                $('.scrollup').click(function(){
+                $("html, body").animate({ scrollTop: 0 }, 600);
+                return false;
+                });
+                 
+            });
+            </script>
+
+          <script type="text/javascript">
+           $(document).ready(function(){
+                if ($(window).width() <= 768) {
+                    $('.novelty').prepend('<div class="mobile-menu">');
+                    $(".main-menu,.sub-menu").detach().appendTo(".mobile-menu");
+                    $(".main .left-col").remove();
+                    $(".mobile-menu").prependTo(".novelty");
+                    
+                };
+            });
+           </script>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="wrap-in">
+            <div class="header">
+                <div class="left-col">
+                    <div class="logo">
+                        <a href="/"><img src="/img/logo.png"></a>
+                    </div>
+                    
+                    <div class="phones">
+                        <div class="phone-item"><a href="">8 495 661-06-86</a></div><div class="phone-item"><a href="">8 495 508-22-21</a></div><div class="phone-item"><a href=""></a></div>                    </div>
+                    <div class="work-time">
+                        <table cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td class="work-time-title">
+                                    Время работы:
+                                </td>
+                                <td class="work-time-value">
+                                    9:00–18:00                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="center-col">
+                    <div class="header-nav">
+                        <div class="col-01">
+                            <a href="/shiny">Каталог шин</a>
+                        </div>
+                        <div class="col-02">
+                            <a href="/diski">Каталог дисков</a>
+                        </div>
+                        <div class="col-03">
+                            <a href="/shinomontazh" class="active">Шиномонтаж</a>
+                        </div>
+                        <div class="c"></div>
+                    </div>
+                </div>
+                <div class="right-col">
+                    <div class="how-to-order">
+                        <a href="/kak_zakazat">Как заказать</a>
+                    </div>
+                    <div class="basket">
+                        <a href="/basket">
+                            <div class="basket-title">
+                                Ваша корзина
+                            </div>
+                                                        <table cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td class="basket-price" id="top-itogo">
+                                        0 р
+                                    </td>
+                                    <td class="basket-number" id="top-num">
+                                        0 шт
+                                    </td>
+                                </tr>
+                            </table>
+                        </a>
+                    </div>
+                </div>
+                <div class="c"></div>
+            </div>            <div class="main">
+            	<div class="main-in">				
+                    <div class="left-col">
+                        <div class="main-menu">
+                            <ul>
+                                <li class="main-menu-01">
+                                    <a href="/dostavka_v_regioni">
+                                    	<div class="main-menu-in">
+                                        	Доставка в регионы
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="main-menu-02">
+                                	<a href="/dostavka_po_moskve">
+                                    	<div class="main-menu-in">
+                                        	Доставка по Москве
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="main-menu-03">
+                                	<a href="/samovivoz">
+                                    	<div class="main-menu-in">
+                                        	Самовывоз
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="main-menu-04">
+                                	<a href="/sposobi_oplati">
+                                    	<div class="main-menu-in">
+                                        	Способы оплаты
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="main-menu-06">
+                                	<a href="/garantii">
+                                    	<div class="main-menu-in">
+                                        	Гарантии
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="sub-menu">
+                            <ul>
+                                <li class="sub-menu-01">
+                                    <a href="/shinnii_kalkulyator">Шинный калькулятор</a>
+                                </li>
+								<li class="sub-menu-02">
+                                    <a href="/markirovki_shin">Маркировки шин</a>
+                                </li>
+                                <li class="sub-menu-02">
+                                    <a href="/markirovki_diskov">Маркировки дисков</a>
+                                </li>
+                                <li class="sub-menu-03">
+                                    <a href="/testi-shin/zima">Тесты зимних шин</a>
+                                </li>
+								<li class="sub-menu-03">
+                                    <a href="/testi-shin/leto">Тесты летних шин</a>
+                                </li>
+                                <li class="sub-menu-04">
+                                    <a href="/news">Новости</a>
+                                </li>
+                                <li class="sub-menu-05">
+                                    <a href="/video">Видео</a>
+                                </li>
+                                <li class="sub-menu-06">
+                                    <a href="/sekretki">Секретки</a>
+                                </li>
+                                <!--<li class="sub-menu-07">
+                                    <a href="#">Книга жалоб</a>
+                                </li>-->
+                            </ul>
+                        </div>
+						
+						<div class="web">
+                        
+                        
+						<!-- Yandex.Metrika counter -->
+						<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter14536309 = new Ya.Metrika({id:14536309, enableAll: true, webvisor:true});
+        } catch(e) {}
+    });
+    
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/14536309" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+						<!-- ////Yandex.Metrika counter -->
+						
+						
+						<br><br><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t58.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+                        <p class="motor"><a href="http://www.motor44.ru/" target="_blank"><img src="/img/moto.jpg" alt=""></a></p>
+                        <!--<p><a href="http://www.755web.ru/" target="_blank"><img src="/img/755l.jpg" alt=""></a></p>-->
+                        </div>
+                    </div>                    <div class="center-col">
+                    	                        
+                    </div>					<div title="" class="right-col">
+                    	<div class="banner">
+                        	<a href="http://kupirezinu.ru/shiny/Nokian/Hakkapeliitta_sUv_7"><img id="" border=0 src="/foto_disks/170802155822pic1img2_190.jpg" ></a> 
+                        </div>
+                    </div>
+                    <div class="c"></div>                  
+                </div>
+            </div>
+            			<div class="footer">
+            	<div class="payments">
+                	<ul>                 	
+                    	
+                        
+                        <li> &nbsp; &nbsp;Copyright 2007-2026, Kupirezinu.ru</li>
+                        <li> <a href="/">Главная</a></li>
+                        <li ><a href="/shiny">Каталог шин</a></li>
+                        <li ><a href="/diski">Каталог дисков</a></li>
+                        <li ><a href="/shinomontazh">Шиномонтаж</a></li>
+                        <li ><a href="/kak_zakazat">Как заказать?</a></li>
+                        <li class="no-bg" style="width:300px">&nbsp;</li>
+
+ 
+
+                    </ul>
+                </div>
+            </div>
+			
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53XG8R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53XG8R');</script>
+<!-- End Google Tag Manager -->      
+<a href="#" class="scrollup">Наверх</a> 
+			
+       	</div>
+    </div>
+</body>
+</html>

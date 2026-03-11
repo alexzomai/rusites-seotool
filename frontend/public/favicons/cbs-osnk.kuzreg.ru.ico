@@ -1,0 +1,399 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<title>МБУК «Централизованная библиотечная система» администрации Осинниковского городского округа ::</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+		<link rel="STYLESHEET" type="text/css" href="/templates/css/styles.css">
+		<script type="text/javascript" src="/templates/js/common.js"></script>
+		<script src="/templates/js/jquery.js"></script>
+		<script type="text/javascript" src="/templates/js/flowplayer-3.js"></script>
+		<!--[if lte IE 6]><link rel="STYLESHEET" type="text/css" href="/templates/css/stylesie6.css"><![endif]-->
+		<!--[if IE 7]><link rel="STYLESHEET" type="text/css" href="/templates/css/stylesie7.css"><![endif]-->
+		
+		<script src="https://culturaltracking.ru/static/js/spxl.js" data-pixel-id="1067"></script>
+		<meta name="proculture-verification" content="8b1b584386125b081fcc6a9a3a6b7a63" />
+	</head>
+<body>
+<style>
+ #hpvgd,.h-mdiv,.h-mdiv2,.h-ldiv,.h-rdiv {background:#EAEAEA; color:#6D6D6D;}
+ #hpvgd {width:100%; z-index:100; width:100%; border-bottom:2px solid rgb(230,230,230);}
+ .h-mdiv {display:none; position:relative; margin:auto; text-alegn:center;}
+ .h-mdiv2 {display:none; position:fixed; margin:auto; text-alegn:center; width:400px; height:200px;}
+ .h-ldiv {float:left; padding:7px 10px 7px 0px;}
+ .h-rdiv {position:absolute; top:7px; right:0px; text-align:right;}
+ .h-ni {display:none !important;}
+ a.hcmaf {color:red; margin-left:5px; font-size:20px; font-weight:bold;}
+ a.h-anl {color:#2a72cc;}
+ a.h-al {color:#ED664B;}
+ .h-fi {font-weight:bold; border-radius:50%; padding:0px 8px; margin-right:5px; font-size:19px;}
+ .h-background-1 {color:#fff !important; background:#000 !important;}
+ .h-background-2 {color:#000 !important; background:#fff !important;}
+</style>
+
+<script src="/templates/js/uhpv-full.min-1251_from2021year.js"></script>
+<!--
+<script src="/templates/js/uhpv-full-1251.min.js"></script>
+<script>
+var 	uhe 	= 2,
+	lng 	= 'ru',
+	has 	= 0,
+	imgs 	= 1,
+	bg 	= 1,
+	hwidth 	= 0,
+	bgs 	= ['1','2'],
+	fonts 	= ['17','19','21'];
+$(document).ready(function(){uhpv(has)});
+</script>
+-->
+
+
+	<div id="main">
+		<table class="main" cellpadding="0" cellspacing="0">
+			<tbody>
+				<tr>
+					<td id="header">
+
+
+						<div class="uimages" style="margin:0; ">
+							<div style="margin: 0 21px 0 21px; height:109px; width: 958px;  overflow:hidden;">
+								<div style="overflow:hidden; width:438px; float:left; background: url(&quot;/image/logotip_cbs2.png&quot;) no-repeat scroll 335px 20px transparent; b_order:1px solid red">
+									<div class="uleft" style="margin:0">
+										<a href="/"><img src="/image/gerb_osnk_3.png" alt="" style="height:103px; margin:3px 2px 4px 3px"></a>
+										<div class="u1" style="margin-top:0;padding-left:95px; color:#0070bb; font-size:18px; padding-top:10px">
+											МБУК «Централизованная<br>
+											библиотечная система<br>
+											Осинниковского<br>городского округа»
+											
+										</div>
+<!--										<div class="u2" style="margin-top:3px; color:#0070bb; font-size:16px; width:400px">администрации Осинниковского<br>городского округа</div>-->
+									</div>
+								</div>
+
+							
+								<div style="height:109px; width:520px;float:right">
+									<div id="uimages" style="width:520px; height:109px; background: url(&quot;/image/uimages/001.jpg&quot;) no-repeat scroll 0% 0% transparent;"><img style="opacity: 0.2;" src="/image/uimages/001.jpg" alt="" width="520" height="109"></div>
+								</div>
+							</div>
+						</div>
+
+						<div id="menu"  class="nohpv">
+							<table cellpadding="0" cellspacing="0">
+								<tbody>
+									<tr>
+										<td>
+											<ul>
+												<li><a class="sel" href="/main/"><b>Главная</b></a></li>
+												<li><a  href="/cbsseg/"><b>ЦБС сегодня</b></a></li>
+												<li><a  href="/afisha/"><b>Афиша</b></a></li>
+												<li><a  href="/novosti/"><b>Новости</b></a></li>
+												<li><a  href="/struktura/"><b>Структура ЦБС</b></a></li>
+												<li><a  href="/chitatel/"><b>Читателям</b></a></li>
+												<li><a  href="/kollegam/"><b>Коллегам</b></a></li>
+												<li><a  href="/klubi/"><b>Клубы по интересам</b></a></li>
+												<li><a  href="/istoriya/"><b>Наша история</b></a></li>
+												<li class="sep"><img src="/templates/img/menu-sep.gif" alt="" width="3" height="17"></li>
+											</ul>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+<div id="header_right" class="" style="font-size: 21px;position:relative;top:14px; left:805px; width:150px"><a id="specialButton" href="javascript://" class="" style="font-size: 21px;"><img style="width:150px" src="/templates/i/oko.png" alt="Версия для слабовидящих"></a></div>
+						</div>
+					</td>
+				</tr>
+
+				<tr>
+					<td style="vertical-align: top;" height="100%">
+						<table id="center" cellpadding="0" cellspacing="0">
+							<tbody>
+								<tr>
+									<td style="vertical-align: top;">
+
+										<div id="lmenu">
+											<ul>
+        										<li ><a href="/main/Kult_i_zakon/"><b>Культура и закон</b></a></li>
+        										<li ><a href="/main/fotogal/"><b>Фотогалерея</b></a></li>
+        										<li ><a href="/main/videogal/"><b>Видеогалерея</b></a></li>
+        										<li ><a href="/main/request_book/"><b>Продление книги</b></a></li>
+        										<li ><a href="/main/virt_reception/"><b>Виртуальная приемная</b></a></li>
+        										<li ><a href="/main/NOK/"><b>Независимая оценка качества оказания услуг</b></a></li>
+        										<li ><a href="/main/antikorrupziya/"><b>Противодействие коррупции</b></a></li>
+        										<li ><a href="/main/nazproekt/"><b>Национальный проект "Культура" 2019-2024 г.г.</b></a></li>
+        										<li ><a href="/main/pobeda/"><b>К юбилею Победы</b></a></li>
+        										<li ><a href="/main/kulturanadom/"><b>#Культуранадом</b></a></li>
+        										<li ><a href="/main/kuzbass_300/"><b>К 300-летию Кузбасса</b></a></li>
+        										<li ><a href="/main/puschkin_card/"><b>Пушкинская карта</b></a></li>
+											</ul>
+										</div>
+
+<!--
+										<form class="search-form" method="post" action="/search/">
+  											<input class="search-input" name="stext" value="Поиск" onfocus="this.value='';" type="text"><button class="search-button" type="submit"></button>
+										</form>
+-->
+
+										<table style="width: 254px;" border="0">
+											<tbody>
+												<tr><td>&nbsp;</td></tr>
+												
+												<tr><td align="middle"><p><a href="http://cbs-osnk.kuzreg.ru/main/puschkin_card/"><img border="0" src="/image/pushkin_card.jpg" width="240" alt="Пушкинская карта" title="Пушкинская карта"></a></p></td></tr>
+												<tr><td align="middle"><p><a target="_blank" href="https://vmuzey.com/museum/centralnaya-gorodskaya-biblioteka-3"><img src="/image/buybilet.png" style="width: 240px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+										
+
+												<tr><td align="middle"><p><a href="http://www.kremlin.ru/" title="Президент России"><img style="width: 240px;height: 80px;" src="/image/kremlin_rect.gif" alt="Президент России"></a></p></td></tr>
+												<tr><td align="middle"><p><a target="_blank" href="https://beta.gosuslugi.ru/"><img border="0" src="/image/gosuslugi_banner.jpg" width="240" height="349" alt="Баннер госуслуги" title="Баннер госуслуги" style="float:left"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="http://www.mkrf.ru" target="_blank"><img src="/image/36_36_minkultury1.jpg" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="http://www.osinniki.org/" target="_blank"><img style="width: 240px;height: 80px;" src="/image/osinniki_osa.jpg"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="https://kemerovo.kuzbass-online.ru/events#/" target="_blank"><img style="width: 240px;" src="/image/afisha_kuzbass_online_s.jpg"></a></p></td></tr>
+
+
+
+												<tr><td align="middle"><p><a href="https://grants.culture.ru/"><img style="width: 240px;" src="/image/banner-grants-133x133.png"></a></p></td></tr>
+												
+												<tr><td align="middle"><p><a href="http://pravo.gov.ru/" target="_blank"><img src="/image/pravo.png" style="width: 240px;height: 60px;" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+												
+												<tr><td align="middle"><p><a href="http://bus.gov.ru/pub/independentRating/list" target="_blank"><img src="/image/indep_rating.jpg" style="width: 240px;height: 60px;" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a></p></td></tr>
+											
+												
+<!--												<tr><td><a href="http://gosuslugi.kemobl.ru/" rel="nofollow" target="_blank"><img src="/image/36_uslugi1.jpg" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a><a href="http://zakupki.gov.ru/" target="_blank"></a></td></tr> 26/10/22 close-->
+												<tr><td><a href="http://zakupki.gov.ru/" rel="nofollow" target="_blank"><img src="/image/36_goszakupki1.jpg" style="margin: 5px; border: 1px solid rgb(229, 229, 229);"></a><a href="http://www.givc.ru/" target="_blank"></a></td></tr>
+												<tr><td align="middle"><p><a href="http://www.mincult-kuzbass.ru/" target="_blank"><img style="width: 240px;height: 163px;" src="/image/depkult.jpg"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="https://kemrsl.ru/elektronnyij-katalog-czbs-g.osinniki.html" target="_blank"><img style="width: 240px;height: 80px;" src="/image/elektron_katalog.jpg"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="https://fadn.gov.ru" target="_blank"><img style="width: 240px;height: 70px;" src="/image/web-baner_glfadn.jpg"></a></p></td></tr>
+												<tr><td align="middle"><p><a href="" target="_blank"><img style="width: 240px;" src="/image/qr_code.jpg"></a></p></td></tr>
+												
+<!--												<tr><td align="middle"><p><a href="http://muzkult.ru/"><img style="width: 240px;" src="http://best.muzkult.ru/img/upload/2090/image_image_952194.jpg" alt=""></a></p></td></tr> -->
+												
+											</tbody>
+										</table>
+									</td>
+
+									<td id="content" style="text-align:justify">
+										<link rel="STYLESHEET" type="text/css" href="/css/content.css">
+										<div id="content" style="width:710px; overflow:hidden">
+									
+<link rel="STYLESHEET" type="text/css" href="/css/content.css">
+		<h1 class="mname">
+			<div class="m1">
+				<div class="m2" style="padding-right:15px"><b style="overflow:hidden;">Главная</b></div>
+			</div>
+		</h1>
+
+<iframe src="../gosuslugi.html" style="width:100%; height:360px; overflow:visible" frameborder="0" allowtransparency="true" scrolling="no"  seamless="seamless"></iframe>
+
+
+
+
+		<div id="e_132213445752" class="block_container s3 b-text b-static-text ">
+<p style="text-align: center;"><a href="https://www.culture.ru" target="_blank" rel="noopener"><img src="../store/12501_ChatGPT Image 7 дек. 2025 г., 13_20_40.png" width="312" height="209" /></a></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><a href="https://www.culture.ru" target="_blank" rel="noopener"><strong><em><span style="line-height: 115%;">&laquo;WWW.КУЛЬТУРА.РФ &ndash; твой гид по культуре. Узнайте больше об истории страны, искусстве и планируйте культурные выходные на портале &laquo;Культура.РФ&raquo;.</span></em></strong></a></span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong><em><span style="line-height: 115%;">***</span></em></strong></span></p>
+<h6 style="background: white; margin: 9pt 0cm 6pt; text-align: center;"><span style="font-size: 12pt; line-height: 115%; color: #800000;">2026 год &ndash; Год единства народов России</span></h6>
+<p style="background: white; box-sizing: border-box; --tpl-link-color: rgba(48, 106, 253, 1); font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: center; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; margin: 4.5pt 0cm 10.5pt;"><span style="font-size: 11.0pt; color: black;"><a style="box-sizing: border-box; word-break: break-word; --tpl-link-color: rgba(48, 106, 253, 1); letter-spacing: initial;" href="http://www.kremlin.ru/acts/news/78861" target="_blank" rel="noopener"><span style="color: #306afd;">По решению президента РФ Владимира Путина 2026 год объявлен Годом единства народов России.</span></a><br style="box-sizing: border-box; --tpl-link-color: rgba(48, 106, 253, 1); letter-spacing: initial;" /> Эта важная инициатива была предложена атаманом Всероссийского казачьего общества Виталием Кузнецовым на заседании Совета по межнациональным отношениям в Кремле 5 ноября 2025 года.</span></p>
+<p style="margin-bottom: 9.0pt; line-height: normal; background: white;"><span style="color: black;">Цель этого года &mdash; укрепить дружбу и взаимопонимание между народами, проживающими на территории нашей многонациональной страны.<br style="box-sizing: border-box; --tpl-link-color: rgba(48, 106, 253, 1); letter-spacing: initial;" /> Объявление 2026 года Годом единства народов России направлено на достижение национального единства, мира и согласия между всеми народами страны.<br style="box-sizing: border-box; --tpl-link-color: rgba(48, 106, 253, 1); letter-spacing: initial;" /> Сохранение русской самобытности и традиций всех национальностей, проживающих в России, является краеугольным камнем государственной национальной политики.<br style="box-sizing: border-box; --tpl-link-color: rgba(48, 106, 253, 1); letter-spacing: initial;" /> Это позволит укрепить взаимное уважение, поддержать культурное многообразие и создать условия для гармоничного сосуществования.</span></p>
+<p style="margin-bottom: 9pt; line-height: normal; background: white; text-align: center;"><span style="color: black;"><img src="../store/12677_год единства.jpg" width="312" height="312" /></span></p>
+<p style="margin-bottom: 9pt; line-height: normal; background: white; text-align: center;"><span style="color: black;">***</span></p>
+<p style="margin-bottom: 9pt; line-height: normal; background: white; text-align: center;">&nbsp;<img src="../store/12763_МБУК ЦБС Осинниковского городского (1).jpg" width="323" height="323" /></p>
+<p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;"><span style="font-size: 10.0pt; color: black; background: white;">Уважаемые участники специальной военной операции и члены их семей!</span></p>
+<p style="margin-bottom: 0.0001pt; line-height: normal; background: white; text-align: center;"><span style="font-size: 10.0pt; color: black;">&nbsp;</span><span style="font-size: 10.0pt; color: black; background: white;">Библиотеки МБУК &laquo;ЦБС Осиниковского городского округа&raquo; выражают искреннюю благодарность вам за ваш подвиг и самоотверженность. Мы гордимся вашим служением Родине и понимаем важность вашей работы.</span></p>
+<p style="margin-bottom: 0.0001pt; line-height: normal; background: white; text-align: center;"><span style="font-size: 10.0pt; color: black;">&nbsp;</span><span style="font-size: 10.0pt; color: black; background: white;">Специально для вас и ваших родных в наших библиотеках действуют следующие меры поддержки:</span></p>
+<p style="margin-bottom: 0.0001pt; line-height: normal; background: white; text-align: center;"><span style="font-size: 10.0pt; color: black;">&nbsp;-&nbsp;</span><span style="font-size: 10.0pt; color: black; background: white;">Бесплатная ежегодная регистрация и перерегистрация</span><span style="font-size: 10.0pt; color: black;"><br /> </span><span style="font-size: 10.0pt; color: black; background: white;">&nbsp;- Бесплатное посещение культурно-массовых мероприятий</span></p>
+<p style="margin-bottom: 0.0001pt; line-height: normal; background: white; text-align: center;"><span style="font-size: 10.0pt; color: black;">&nbsp;</span><span style="font-size: 10.0pt; color: black; background: white;">Берегите себя и помните, что мы всегда готовы поддержать вас!</span></p>
+<p style="margin-bottom: 0.0001pt; line-height: normal; background: white; text-align: center;"><span style="font-size: 10.0pt; color: black; background: white;">***</span></p>
+<p style="margin-bottom: 9pt; line-height: normal; background: white; text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp; &nbsp;<a href="https://xn--80abcefsgijydibb7ca3a.xn--p1ai/#mp" target="_blank" rel="noopener"><img src="../store/12443_нг обложка.PNG" width="645" height="261" /></a></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt;"><strong><span style="color: #800000;">&nbsp;<a href="https://xn--80abcefsgijydibb7ca3a.xn--p1ai/#mp" target="_blank" rel="noopener">Большие сибирские каникулы стартовали!</a></span> </strong>Что посмотреть и куда сходить в новогодние праздники?</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt;">&#10024; Сибирская зима приглашает вас насладиться настоящей зимней сказкой! Яркие огни, снежные пейзажи и веселые гуляния ждут гостей региона.</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt;">&#127876;</span><span style="font-size: 10.0pt;"> Проверьте календарь мероприятий в своем городе! Сделайте ваш отдых незабываемым и зарядитесь энергией на весь следующий год вместе с Большими сибирскими каникулами!</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt;">****</span></p>
+<h3 style="text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kemerovo.kuzbass-online.ru/events#/" target="_blank" rel="noopener"><img src="../store/6902_Баннер3-02 (1).jpg" width="400" /></a>&nbsp;</h3>
+<p style="text-align: center;">&nbsp;<strong><span style="color: #008000;"><em>Дорогие друзья!</em></span></strong></p>
+<p style="font-size: 11.2px; text-align: center;"><em><strong>Мы рады, что Вы посетили наш сайт!</strong></em></p>
+<p style="font-size: 11.2px; text-align: center;"><em><strong>Вас ждёт много интересной информации.&nbsp;Вы узнаете, как многообразна и динамична жизнь современной библиотеки: новые технологии, новые идеи, новые планы!&nbsp;</strong></em><em><strong>Надеемся, что наше знакомство и общение будет приятным и полезным.</strong></em>&nbsp;<strong><em>Мы открыты для диалога и сотрудничества!</em></strong></p>
+<p style="text-align: center;">&nbsp;****</p>
+<p style="text-align: center;"><span style="font-size: 10.0pt; line-height: 115%;">У нас отличная новость!</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt; line-height: 115%;">Канал &laquo;Культура Кузбасса&raquo; запущен в мессенджере MAX</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt; line-height: 115%;">Теперь все главные новости культуры Кузбасса на&nbsp;</span><span style="font-size: 10.0pt; line-height: 115%;">отечественной площадке.</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt; line-height: 115%;">Новости, анонсы, эксклюзивы - подписывайтесь и будьте в&nbsp;</span><span style="font-size: 10.0pt; line-height: 115%;">курсе! Будет культурно и интересно</span></p>
+<p style="text-align: center;"><span style="font-size: 10.0pt; line-height: 115%;">Ссылка на канал: </span><span style="font-size: 10pt;"><a href="https://max.ru/kulturakuzbassa" target="_blank" rel="noopener"><span style="line-height: 115%;">https://max.ru/kulturakuzbassa</span></a></span></p>
+<p style="text-align: center;"><a href="https://max.ru/kulturakuzbassa" target="_blank" rel="noopener">&nbsp;</a><img src="../store/12332_1.png" width="220" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">****</p>
+<p class="sc-devlti" style="vertical-align: baseline; text-align: center;"><a href="https://www.culture.ru/s/afisha-svo/" target="_blank" rel="noopener"><strong><span style="letter-spacing: -0.2pt; color: #800000;">Памятка участникам СВО и членам их семей при посещении мероприятий в сфере культуры</span></strong></a></p>
+<p class="sc-devlti" style="vertical-align: baseline; text-align: center;"><a href="https://www.culture.ru/s/afisha-svo/" target="_blank" rel="noopener"><strong><span style="letter-spacing: -0.2pt; color: #800000;"><img src="../store/11870_сво.JPG" /></span></strong></a></p>
+<p class="sc-devlti" style="vertical-align: baseline; text-align: center;">&nbsp;***</p>
+<p style="text-align: center;">&nbsp;<a href="https://www.dsznko.ru/other-sections/poleznaya-informatsiya/pam-gr.php" target="_blank" rel="noopener"><img src="../store/11443_zvjWz7ZP1IgbKzEe51mHDpPS9-163jYBDdkU4BBhfY9Psy7eXjYoOnJVJgAMyXA_s2IPYD7LMafAOwQiye_2sQBP.jpg" width="240" height="240" /></a></p>
+<p style="tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; vertical-align: baseline;"><span style="font-size: 10pt;"><strong><span style="color: #333333; background: white;">В Кемеровской области-Кузбассе участники СВО и их семьи &nbsp;имеют право на различные меры социальной поддержки, такие как единовременные денежные выплаты, пенсии Кузбасса, оплата обучения детей, бесплатное социальное обслуживание на дому для супругов и родителей участников СВО, а также на бесплатную юридическую помощь и др.</span></strong></span></p>
+<p style="vertical-align: baseline; text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #333333; background: white;">Более подробно с информацией можно ознакомиться <a href="https://www.dsznko.ru/other-sections/poleznaya-informatsiya/pam-gr.php" target="_blank" rel="noopener">на официальном сайте Министерства труда и социальной защиты</a>. </span></strong></span></p>
+<p style="vertical-align: baseline; text-align: center;"><span style="font-size: 11.0pt; letter-spacing: -.2pt;"><a href="https://www.dsznko.ru/other-sections/poleznaya-informatsiya/pam-gr.php">https://www.dsznko.ru/other-sections/poleznaya-informatsiya/pam-gr.php</a> </span></p>
+<p style="text-align: center;"><strong style="color: #003366;">****</strong></p>
+<p style="text-align: center;">&nbsp;<a href="https://litmap.kemrsl.ru" target="_blank" rel="noopener"><img src="../store/10440_заставка литературная карта ГНБК Федорова - копия.jpg" width="400" /></a></p>
+<p style="text-align: center;"><strong style="color: #003366;">****</strong></p>
+<p style="text-align: center;"><a href="https://russia.ru" target="_blank" rel="noopener"><strong style="color: #003366;"><img src="../store/10488_820х205.png" width="500" /></strong></a></p>
+<p style="text-align: center;">&nbsp;<strong style="color: #003366;">****</strong></p>
+<p style="text-align: center;">&nbsp;&nbsp;<a href="https://svetapp.rusneb.ru" target="_blank" rel="noopener"><img src="../store/10374_16x9_banner biblioteki_1.jpg" width="400" /></a></p>
+<p style="text-align: center;">&nbsp;<strong style="color: #003366;">****</strong></p>
+<p style="text-align: center;">&nbsp;&nbsp; &nbsp;<a href="http://www.mincult-kuzbass.ru/kulturanadom.php" target="_blank" rel="noopener"><img src="../store/3877_Баннер Культурана дом2.jpg" width="243" height="243" /></a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://rusneb.ru/" target="_blank" rel="noopener"><img src="../store/3910_PLAKAT-KV-A3-16-black.jpg" width="172" height="245" /></a></p>
+<p style="text-align: center;">&nbsp;****&nbsp;</p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center">&nbsp;<strong><span style="color: #008000;">ЦБС на Библиотечном Портале Кемеровской области</span></strong></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><a href="http://lib42.ru/osinniki/home" target="_blank" rel="noopener"><img src="../store/1169_834_bpko.jpg" alt="" width="185" height="36" /></a></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><span style="color: #0000ff;"><strong>Центральная городская библиотека в соцсетях</strong></span></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><a href="https://vk.com/id410406376" target="_blank" rel="noopener"><img src="../store/5814_3.PNG" width="56" height="62" /></a>&nbsp; &nbsp;<a href="https://ok.ru/group/61497186123857" target="_blank" rel="noopener"><img src="../store/5815_4.PNG" width="60" height="61" /></a>&nbsp; <a href="https://t.me/cgb_osinniki" target="_blank" rel="noopener"><img src="../store/5973_6.png" width="61" height="61" /></a>&nbsp; &nbsp;<a href="https://rutube.ru/channel/50526906/" target="_blank" rel="noopener"><img src="../store/11187_рутуб.JPG" width="60" height="61" /></a></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center">&nbsp;&nbsp;&nbsp;<span style="color: #800080;"><strong>Детская библиотека в соцсетях</strong></span></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center">&nbsp;<a href="https://vk.com/id694754843" target="_blank" rel="noopener"><img src="../store/5814_3.PNG" width="57" height="62" /></a>&nbsp; &nbsp;<a href="https://ok.ru/profile/584720994692" target="_blank" rel="noopener"><img src="../store/5815_4.PNG" width="60" height="61" /></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/db_osinniki" target="_blank" rel="noopener"><img src="../store/5973_6.png" width="62" height="62" /></a></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center">&nbsp;&nbsp;<span style="color: #008000;">****</span></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center">&nbsp;</p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><span style="color: #008000;">****</span>&nbsp;</p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><a href="https://rvio.histrf.ru/activities/pamyatnyye_daty/item-1141" target="_blank" rel="noopener"><img src="../store/2859_Пам_даты_Banner_180х150.png" width="280" height="233" /></a></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><span style="color: #008000;">****</span></p>
+<p class="MsoNormal" style="font-size: 11.1999998092651px; font-weight: normal;" align="center"><a href="https://добровольцыроссии.рф" target="_blank" rel="noopener"><img src="../store/3346_images.jpg" /></a></p>
+<p style="margin: 0cm 0cm 7pt; text-align: center;">&nbsp;<span style="color: #008000;">****</span></p>
+<p align="center">&nbsp;<img src="../store/34_Uporova.jpg" alt="" /></p>
+</div>
+<div class="block_container s3 b-text b-static-text " style="text-align: center;">
+<p class="MsoNormal" style="font-size: 11.2px; font-weight: normal; text-align: justify;" align="center"><span style="color: #000000;"><strong>Культура Кузбасса<span style="text-align: justify; font-size: 11px;"> &ndash; это богатство страны, одна из многочисленных частей великой российской культуры. Сегодня делается всё, чтобы Российская Федерация сохранила многомерность и преумножила богатство своей культуры, и мы вносим свой вклад в эту миссию.</span></strong></span></p>
+<p class="MsoNormal" style="text-align: justify;" align="center"><strong>Библиотекам</strong> принадлежит важная роль в сохранении культурного наследия, в обеспечении свободного доступа к этому наследию всех категорий граждан и в распространении знаний. Их деятельность направлена прежде всего на создание открытого информационного пространства посредством увеличения объёмов библиотечных фондов, объединения и рационального использования ресурсов разных уровней, как интеллектуальных, &nbsp;так и организационных.</p>
+<p class="MsoNormal" style="text-align: justify;" align="center">Подавляющее большинство населения именно через библиотеки получает оперативную и достоверную информацию. Они остаются единственными учреждениями, предоставляющими доступ к знаниям и информации бесплатно. Услугами муниципальных библиотек в 2025 году воспользовались&nbsp;<strong>14,37 тысяч</strong> представителей всех социальных слоёв и возрастных групп, т.е. каждый третий житель города Осинники является пользователем библиотек.</p>
+<p class="MsoNormal" style="text-align: justify;" align="center">Приоритетным направлением деятельности библиотек является удовлетворение информационных потребностей пользователей на достаточном уровне оперативности, точности и полноты. Библиотеки сегодня приняли на себя функции культурных центров, организующих досуг людей, занимающихся просветительством, духовным воспитанием. Ежегодно в библиотеках регистрируется более <strong>100&nbsp;тысяч посещений.&nbsp; &nbsp;</strong> &nbsp; &nbsp;&nbsp;</p>
+<p class="MsoNormal" style="text-align: justify; mso-line-height-alt: 10.5pt;">Библиотеки ЦБС ежегодно принимают активное участие в областных и общероссийских акциях, работают по целевым программам. Осинниковская ЦБС продолжила активное участие в Региональном корпоративном проекте <strong>&laquo;Электронная библиотека Кузбасса&raquo;</strong>, целью которого&nbsp; является создание единого информационного пространства на всей территории Кузбасса. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p class="MsoNormal" style="text-align: justify; mso-line-height-alt: 10.5pt;">Коллектив ЦБС верит в собственные силы, радуется успехам и гордится своими достижениями!</p>
+<p class="MsoNormal" style="text-align: left;" align="center"><span style="font-size: 11px;">С уважением <span style="color: #000080;"><strong>директор МБУК "ЦБС Осинниковского городского округа" Наталья Станиславовна Кетова</strong></span></span><span style="color: #000080;"><strong style="font-size: 11px;"><span style="font-size: 11px;">.</span></strong></span></p>
+<p class="MsoNormal" style="text-align: center;"><span style="color: #000080;"><strong>*****</strong></span></p>
+<p class="MsoNormal" style="text-align: center;">&nbsp;<a href="../store/449_Паспорт%20САЙТА МБУК ЦБС АОГО.rar" target="_blank" rel="noopener"><strong>ПАСПОРТ САЙТА</strong></a></p>
+<p style="color: #3a3a3a; font-size: 12px; text-align: center;">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal" style="text-align: center;">&nbsp;</p>
+</div>
+		<div style="clear:both;"></div>
+		<h1 class="mname">
+			<div class="m1">
+				<div class="m2" style="padding-right:15px"><b style="overflow:hidden;">Новости</b></div>
+			</div>
+		</h1>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=1718">
+						<img style="width:100px; height:75px" src="/store/12971_photo_5262637889403687517_y.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">27 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=1718">Игра «Путешествие в мир динозавров» (0+)</a>
+        			</div>
+        			Центральная городская библиотека стала местом удивительных приключений! Недавно её посетили юные исследователи — воспитанники детского сада № 55 «Академия детства». Для ребят было организовано увлекательное мероприятие, посвящённое миру древних гигантов — динозавров.
+        			<a href="/novosti/?id=1718" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=1717">
+						<img style="width:100px; height:75px" src="/store/12964_photo_5253925402214863448_y.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">24 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=1717">Творческая встреча с поэтессой Н. Карпович «Поэзия души и гармонии» (12+)</a>
+        			</div>
+        			22 февраля в Центральной городской библиотеке в литературном клубе "Кедр"  состоялась творческая встреча с Натальей Карпович "Поэзия души и гармонии", посвящ&#235;нная юбилейному дню рождения. На встречу собрались родные поэтессы и коллеги по перу.
+        			<a href="/novosti/?id=1717" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=1716">
+						<img style="width:100px; height:75px" src="/store/12963_photo_5253925402214863431_y.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">24 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=1716">Образовательно-просветительская конференция "Пророк в своём Отечестве"</a>
+        			</div>
+        			В субботу, 21 февраля, в Международный день родного языка, в Центральной городской библиотеке г. Мыски прошла образовательно-просветительская конференция в рамках проекта кемеровского областного отделения Союза писателей России и Совета молодых литераторов Кузбасса "Пророк в своём Отечестве" при поддержке Фонда президентских грантов.
+        			<a href="/novosti/?id=1716" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=1715">
+						<img style="width:100px; height:75px" src="/store/12957_W3uC2dZMCUjB5bVxq_0_HlGsAApsE8LT-pszth5hHvQad9l8HGV1-H1Xo2Tb5GwY9ssZiXfFyZaggM283lWjIsIQ.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">24 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=1715">Игротека «Как на масленой неделе» (6+)</a>
+        			</div>
+        			22 февраля Детская библиотека приняла активное участие в традиционных масленичных гуляньях, на городской площади, организовав веселую игротеку «Как на масленой неделе».
+        			<a href="/novosti/?id=1715" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+			<div id="news_prebody">
+				<div class="news_prebody1">
+					<a href="/novosti/?id=1714">
+						<img style="width:100px; height:75px" src="/store/12947_7D-DaF2NSzGAOpolbOrJfbZeC1F6ZvvcmIvAPiH642s-oDJnMRNWoysXx6a8nVIAZyCBdwZ5Z0UM3C9C_K02zVE9.jpg" class="nimage">
+					</a>
+        			<div class="title">
+        				<span class="date">24 февраля, 2026 г.:&nbsp;</span>
+        				<a href="/novosti/?id=1714">Игровая программа  «Потешки старинные, забавы дружинные» (6+)</a>
+        			</div>
+        			Накануне Дня защитника Отечества в Детской библиотеке прошла Игровая программа «Потешки старинные, забавы дружинные» для учащихся МБОУ «Лицей № 36», МБОУ «СОШ № 35» и МБОУ «ООШ № 3 имени П. И. Ефимова».
+        			<a href="/novosti/?id=1714" class="more">подробнее...</a>
+    			</div>
+    			<div class="clear"></div>
+			</div>
+
+
+
+
+
+											<div style="text-align:center; margin-top:30px; clear:both"><a href="#">В начало</a></div>
+										</div>
+
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+
+				<tr>
+					<td style="height: 20px;"></td>
+				</tr>
+				<tr>
+					<td id="footer">
+						<div class="f1">
+<div style="float:left; width:100px">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t52.14;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</div>
+						
+						© 2014 Муниципальное бюджетное учреждение культуры
+							«Централизованная библиотечная система»<br>
+							администрации Осинниковского городского округа
+					</div>
+						<div class="f2"><a href="/login.php?action=logfrm">Admin</a></div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+<!--
+<style>
+	#content P, #content A, #content DIV, #content STRONG, #content SPAN{font-size: 20px!important; color:black!important; }
+	P, A, DIV, STRONG, SPAN{font-size: 18px!important;}
+	#content DIV.m2{color:white!important}
+</style>
+-->
+
+</body>
+</html>

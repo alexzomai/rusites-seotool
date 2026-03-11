@@ -1,0 +1,1131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" href="/js/slimbox/css/slimbox.css" type="text/css" media="screen" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="keywords" content="Оригинальные подарки ">
+<meta name="description" content="Оригинальные подаркиМагазин оригинальных подарков ">
+<title>Оригинальные подарки, Магазин оригинальных подарков, Оригинальные подарки на зимние праздники</title>
+
+<script language="javascript" src="/js/functions.js"></script> 
+<script language="javascript" src="/js/menu.js"></script>
+
+    <script language="javascript" src="/admin/js/mootools-core-1.4.5.js"></script>
+    <script type="text/javascript" src="/js/slimbox/js/slimbox.js"></script>
+
+	<!--<script language="javascript" src="/admin/js/mootools.js"></script>-->
+	<script>
+
+		function DisplayObject(obj_name)
+		{
+			$(obj_name).style.display = 'block';
+		}
+		
+		function HideObject(obj_name)
+		{
+			$(obj_name).style.display = 'none';
+		}
+	
+		function DisplayWithCoords(obj_name, x_pos, y_pos)
+		{
+			$(obj_name).setPosition({x: x_pos, y: y_pos});
+			DisplayObject(obj_name);
+		}
+
+		function sendGetForm()
+		{
+		//alert(ap_id);
+			var rqGetForm = new Request({
+					method: 'post',
+					url: 'http://wintergift.ru/ajaxrecallclient.php',
+					onSuccess: function(txt){
+						$('div_recall_content').set('html', txt);
+					},
+			
+					onFailure: function(){
+						$('div_recall_content').set('html', '<div style="color:#ff0000;">Ошибка в запросе</span><br>');
+					}
+			});		
+		
+			rqGetForm.send('selector=getform');
+			DisplayObject('div_recall');
+		}
+
+		function sendRecall(sid)
+		{
+		//alert(ap_id);
+			var rqSendRecall = new Request({
+					method: 'post',
+					url: 'http://wintergift.ru/ajaxrecallclient.php',
+					onSuccess: function(txt){
+						$('div_recall_content').set('html', txt);
+					},
+			
+					onFailure: function(){
+						$('div_recall_content').set('html', '<div style="color:#ff0000;">Отправка запроса прошла неудачно, попробуйте немного позже</span><br>');
+					}
+			});		
+		
+			rqSendRecall.send($('form_recall'));
+		}
+	
+	</script>
+
+</head>
+
+
+<body>
+
+<div id="div_recall" style="position: absolute; left:220px; top:100px; width:810px; border: #CCCCCC solid 1px; background-color: #fcfdda; z-index:20; text-align:center; display:none; " >
+
+	<span  class="aj" style="float:right; cursor:pointer;"  onClick="HideObject('div_recall');">[x закрыть] </span>
+
+	<br>
+	<div id="div_recall_content" style="padding:15px; text-align:left;">
+
+	</div>
+
+</div>
+
+
+
+
+
+<div id="top" style="float:left; width:100%;">
+	<div style="width:100%; background-color:#fb9e03; font-size:12px; font-weight:bold; color:#a50c28; text-align:right;">
+	<img style="margin-top:3px; margin-right:3px;" src="/img/phone_top.gif">
+	</div>
+	
+	<table cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td><a href="/"><img src="/img/logo.gif" border="0"></td>
+		<td align="center">
+<!--
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="626" height="82" id="index" align="middle">
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="movie" value="http://wintergift.ru/img/topbanner.swf" />
+		<param name="quality" value="high" />
+		<param name="bgcolor" value="#ffffff" />
+		<embed src="topbanner.swf" quality="high" bgcolor="#ffffff" width="626" height="82" name="index" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+		</object>
+-->
+			<img src="/img/topbannerall.gif">
+		</td>
+	</tr>
+	</table>
+	
+</div>
+<br clear="all">
+<div style="background-color:#82cb80; padding:0 5 5 5;">
+<table cellpadding="2" cellspacing="0" style="width:100%">
+<tr>	
+	<td width="40%">
+	<img src="/img/whitearrow.gif"> <a class="topmenu" href="/">О нас</a>
+	<img src="/img/whitearrow.gif"> <a class="topmenu" href="/conditions.html">Условия покупки</a>
+	<img src="/img/whitearrow.gif"> <a class="topmenu" href="/coords.html">Контакты</a>
+		</td>
+	<td width="40%"></td>
+	<td style="text-align:right">
+	<table cellpadding="0" cellspacing="0" border="0"> 
+	<form action="/search.html" method="post">
+	<tr>
+		<td><nobr>
+		&nbsp;&nbsp;<span style="color:#484848;">Поиск:</span> 
+		<input style="font-size:10px;" type="text" name="searchstring" value="">
+		
+		<input type="hidden" name="goid" value="search">
+		<input type="hidden" name="field" value="cost">
+		<input type="hidden" name="dir" value="asc">
+		</nobr>
+		</td>
+		<td style=" padding-left:10px; "><img style="margin:0px;" src="/img/obrzvonok.gif"></td>
+		<td>
+		<span style=" margin-left:10px; margin-right:20px; cursor:pointer; text-decoration:underline;" onClick="sendGetForm();" ><nobr>Заказ звонка</nobr></span>
+		</td>
+	</tr>	
+	</form>
+	</table>
+	</td>
+</tr>	
+</table>	
+</div>
+
+
+
+<table cellpadding="0" cellspacing="0" width="100%" border="0">
+<tr>
+	<td class="td_left">		
+		
+<div id="rubrikator_quick">
+		<div class="block_big_header_left">
+			<span>Каталог</span>
+		</div>
+		<div style="padding:5px 5px 5px 0px;">
+		<table cellpadding="1" cellspacing="0" width="100%" border="0">
+					<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_351.html" >Новогодние сувениры</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_351" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_359.html"	class="submenuurl" >Новогодние подарки и сувениры</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_352.html"	class="submenuurl" >Елочки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_355.html"	class="submenuurl" >Новогодние подарочные корзины</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_356.html"	class="submenuurl" >Новогодние картины</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_289.html" >Подарки мужчине</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_289" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_357.html"	class="submenuurl" >Подарки 23 февраля</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_291.html"	class="submenuurl" >Для застолья</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_292.html"	class="submenuurl" >Курительные принадлежности</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_293.html"	class="submenuurl" >Статуэтки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_294.html"	class="submenuurl" >Подарок водителю, автосувениры</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_295.html"	class="submenuurl" >Часы настольные</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_361.html"	class="submenuurl" >Часы настенные</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_362.html"	class="submenuurl" >Часы песочные</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_296.html"	class="submenuurl" >Электроника</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_299.html"	class="submenuurl" >Ключницы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_300.html"	class="submenuurl" >Декоративные сейфы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_301.html"	class="submenuurl" >Ручки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_302.html"	class="submenuurl" >Настольные приборы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_303.html"	class="submenuurl" >Портмоне и кошельки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_304.html"	class="submenuurl" >Массажеры и миостимуляторы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_305.html"	class="submenuurl" >Ножи, кинжалы, кортики</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_306.html"	class="submenuurl" >Мечи, сабли, катаны</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_307.html"	class="submenuurl" >Пистолеты и ружья</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_309.html"	class="submenuurl" >Мужские сумки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_311.html"	class="submenuurl" >Подзорные трубы и бинокли</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_339.html"	class="submenuurl" >Разное</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_290.html" >Подарки женщине</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_290" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_312.html"	class="submenuurl" >Сердца</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_313.html"	class="submenuurl" >Романтические подарки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_314.html"	class="submenuurl" >Мягкие игрушки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_315.html"	class="submenuurl" >Подарочные корзины</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_317.html"	class="submenuurl" >Бокалы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_318.html"	class="submenuurl" >Посуда</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_319.html"	class="submenuurl" >Картины</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_320.html"	class="submenuurl" >Сундуки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_321.html"	class="submenuurl" >Кристаллы Сваровски</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_322.html"	class="submenuurl" >Статуэтки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_323.html"	class="submenuurl" >Декоративные светильники</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_325.html"	class="submenuurl" >Маникюрные наборы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_326.html"	class="submenuurl" >Ювелирные изделия</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_327.html"	class="submenuurl" >Для массажа</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_328.html"	class="submenuurl" >Для эпиляции</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_330.html"	class="submenuurl" >Шкатулки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_331.html"	class="submenuurl" >Портмоне</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_332.html"	class="submenuurl" >Игры, гадания, развлечения</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_333.html"	class="submenuurl" >Для пикника</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_334.html"	class="submenuurl" >Гороскоп</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_335.html"	class="submenuurl" >Сумки женские</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_1.html" >Подарки - кому?</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_1" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_2.html"	class="submenuurl" >Подарок мужчине</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_3.html"	class="submenuurl" >Женщине</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_5.html"	class="submenuurl" >Парню</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_6.html"	class="submenuurl" >Девушке</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_7.html"	class="submenuurl" >Мальчику</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_8.html"	class="submenuurl" >Девочке</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_9.html"	class="submenuurl" >Подруге</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_10.html"	class="submenuurl" >Другу</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_11.html"	class="submenuurl" >Начальнику/шефу</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_13.html"	class="submenuurl" >Любимому</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_14.html"	class="submenuurl" >Любимой</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_15.html"	class="submenuurl" >Сотруднику/коллеге</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_287.html"	class="submenuurl" >Ребенку</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_27.html" >Игры взрослым и детям</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_27" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_88.html"	class="submenuurl" >Детские игрушки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_89.html"	class="submenuurl" >Мягкие игрушки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_91.html"	class="submenuurl" >Маджонг</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_92.html"	class="submenuurl" >Наборы для гольфа</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_93.html"	class="submenuurl" >Настольные игры</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_94.html"	class="submenuurl" >Нарды</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_95.html"	class="submenuurl" >Шахматы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_336.html"	class="submenuurl" >Петанк</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_337.html"	class="submenuurl" >Дартсы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_345.html"	class="submenuurl" >Паззлы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_346.html"	class="submenuurl" >Наборы игр</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_33.html" >Подарки по гороскопу</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_33" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_140.html"	class="submenuurl" >Овен</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_141.html"	class="submenuurl" >Телец</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_142.html"	class="submenuurl" >Близнецы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_143.html"	class="submenuurl" >Рак</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_144.html"	class="submenuurl" >Лев</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_145.html"	class="submenuurl" >Дева</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_146.html"	class="submenuurl" >Весы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_147.html"	class="submenuurl" >Скорпион</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_148.html"	class="submenuurl" >Стрелец</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_149.html"	class="submenuurl" >Козерог</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_150.html"	class="submenuurl" >Водолей</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_151.html"	class="submenuurl" >Рыбы</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_34.html" >Подарки по типу</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_34" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_341.html"	class="submenuurl" >Прикольные подарки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_153.html"	class="submenuurl" >Аксессуар</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_154.html"	class="submenuurl" >Игра</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_155.html"	class="submenuurl" >Игрушка</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_156.html"	class="submenuurl" >Инструмент (ремонт)</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_157.html"	class="submenuurl" >Канцелярские товары</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_158.html"	class="submenuurl" >Коллекционное изделие</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_159.html"	class="submenuurl" >Косметика</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_160.html"	class="submenuurl" >Набор</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_161.html"	class="submenuurl" >Оружие</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_162.html"	class="submenuurl" >Посуда</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_163.html"	class="submenuurl" >Прибор</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_164.html"	class="submenuurl" >Рамка</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_166.html"	class="submenuurl" >Сувенир</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_167.html"	class="submenuurl" >Хозяйственный товар</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_168.html"	class="submenuurl" >Цветы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_342.html"	class="submenuurl" >Оригинальные подарки</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_35.html" >Подарки по материалу</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_35" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_172.html"	class="submenuurl" >Бархат</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_173.html"	class="submenuurl" >Бронза</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_174.html"	class="submenuurl" >Бумага</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_177.html"	class="submenuurl" >Дерево</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_178.html"	class="submenuurl" >Жемчуг</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_179.html"	class="submenuurl" >Змеевик</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_181.html"	class="submenuurl" >Камень</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_183.html"	class="submenuurl" >Картон</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_184.html"	class="submenuurl" >Керамика</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_185.html"	class="submenuurl" >Кожа</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_186.html"	class="submenuurl" >Кожзам</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_187.html"	class="submenuurl" >Кокос</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_189.html"	class="submenuurl" >Кристаллы Сваровски</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_190.html"	class="submenuurl" >Латунь</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_191.html"	class="submenuurl" >Лен</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_192.html"	class="submenuurl" >Лоза</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_193.html"	class="submenuurl" >МДФ</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_194.html"	class="submenuurl" >Металл</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_195.html"	class="submenuurl" >Мрамор</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_196.html"	class="submenuurl" >Олово</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_200.html"	class="submenuurl" >Пластик</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_203.html"	class="submenuurl" >Позолота</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_204.html"	class="submenuurl" >Полистоун</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_205.html"	class="submenuurl" >Полиэстер</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_207.html"	class="submenuurl" >Резина</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_211.html"	class="submenuurl" >Серебро</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_212.html"	class="submenuurl" >Сталь</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_213.html"	class="submenuurl" >Стекло</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_214.html"	class="submenuurl" >Стразы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_215.html"	class="submenuurl" >Текстильные материалы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_216.html"	class="submenuurl" >Ткань</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_217.html"	class="submenuurl" >Фарфор</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_218.html"	class="submenuurl" >Фаянс</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_219.html"	class="submenuurl" >Хрусталь</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_36.html" >Подарки по месту применения</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_36" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_221.html"	class="submenuurl" >Автомобиль</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_223.html"	class="submenuurl" >Дача</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_224.html"	class="submenuurl" >Дом</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_226.html"	class="submenuurl" >Отпуск</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_227.html"	class="submenuurl" >Офис</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_228.html"	class="submenuurl" >Поездка</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_229.html"	class="submenuurl" >Природа</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_80.html" >Кристаллы Сваровски</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_80" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_253.html"	class="submenuurl" >Изделия с кристаллами, инкрустация</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_259.html"	class="submenuurl" >Знаки Зодиака</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_254.html"	class="submenuurl" >Разные темы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_256.html"	class="submenuurl" >Символы, Фен Шуй</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_255.html"	class="submenuurl" >Картины</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_258.html"	class="submenuurl" >Флора и Фауна</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_81.html" >Интерьер</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_81" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_260.html"	class="submenuurl" >Глобусы и глобус-бары</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_262.html"	class="submenuurl" >Кают-компания</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_264.html"	class="submenuurl" >Лазерные проекторы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_265.html"	class="submenuurl" >Ретро аппаратура</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_266.html"	class="submenuurl" >Светильники и лампы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_268.html"	class="submenuurl" >Телефоны</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_270.html"	class="submenuurl" >Фоторамки и Фотоальбомы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_338.html"	class="submenuurl" >Статуэтки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_347.html"	class="submenuurl" >Разное</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_348.html"	class="submenuurl" >Часы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_350.html"	class="submenuurl" >Метеоприборы</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_82.html" >Офис</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_82" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_271.html"	class="submenuurl" >Визитницы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_275.html"	class="submenuurl" >Пепельницы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_277.html"	class="submenuurl" >USB-аксессуары</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_288.html"	class="submenuurl" >Ручки</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_83.html" >Дом</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_83" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_278.html"	class="submenuurl" >Шкатулки</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_279.html"	class="submenuurl" >Вазы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_280.html"	class="submenuurl" >Винные наборы</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_281.html"	class="submenuurl" >Украшения для дома</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_284.html"	class="submenuurl" >Книги</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_285.html"	class="submenuurl" >Посуда</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_286.html"	class="submenuurl" >Сервировка стола</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_343.html"	class="submenuurl" >Бытовая техника и электроника</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_349.html"	class="submenuurl" >Для фотографий</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+						<tr>
+				<td class="rubmenu">
+					<table border="0">
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+
+										<a class="rubmenuurl" href="/rubrik/do_viewrub/id_30.html" >Подарки по ценам</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+			</tr>
+			<tr >
+				<td class="submenu">
+				<div id="submenu_30" style='display:inline'>
+					<ul style=" margin-top:0px; margin-bottom:0px;">
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_98.html"	class="submenuurl" >500 - 1000</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_97.html"	class="submenuurl" >До 500 руб.</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_100.html"	class="submenuurl" >2000 - 3000</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_101.html"	class="submenuurl" >3000 - 5000</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_102.html"	class="submenuurl" >5000 - 10000</a></li>						
+											<li class="menu_list">&nbsp;<a href="/rubrik/do_viewrub/id_103.html"	class="submenuurl" >10000 - 20000</a></li>						
+										</ul>
+				</div>	
+				</td>
+			</tr>
+				
+<!-- Наше все -->		
+		<tr>
+				<td class="rubmenu">
+									<table>
+					<tr>
+						<td><img src="/img/bluearrow.gif"></td>
+						<td>
+							<a  href="/rubrik/do_viewrub/id_0.html" class='rubmenuurl'>Все оригинальные подарки</a>
+						</td>	
+					</tr>
+					</table>
+				</td>
+		</tr>
+<!-- /Наше все -->		
+		<tr>
+			<td height="20" class="rubmenu"></td>
+		</tr>
+		</table>
+		</div>
+	
+</div>
+
+<br>
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>	</td>
+	
+	<td class="td_info">	
+		<div id="about_block">
+	<h1 class="center_block_header">
+	Магазин оригинальных подарков WinterGift.ru</h1>
+
+	<div  class="center_block_content">
+	<table>
+	<tr>
+	<td valign="top">
+
+	<p>
+Добро пожаловать в магазин оригинальных подарков "WinterGift.Ru". 
+</p>
+
+<p>
+Все что нужно для настоящего праздника, Вы найдете именно здесь. Подарки нашего магазина помогут сделать счастливыми ваших именинников, молодоженов, коллег по работе, просто друзей или родственников. Вашему вниманию представлен огромный ассортимент подарков на любой случай жизни, по любому поводу, для любого типа людей. 
+</p>
+
+<p>
+В нашем магазине Вас ждут новогодние подарки, украшения, игрушки, оригинальные и прикольные сувениры и другие подарки на все случаи жизни! Посетите наш Интернет магазин подарков с радостью и удовольствием и выберите самый лучший подарок для дорогого вам человека!
+</p>
+
+<p>
+Самое главное правило нашего магазина подарков - ценить своих покупателей. Товар в магазине можно заказать несколькими способами: телефон, e-mail, корзина сайта и несколько способов оплаты: наличные, безналичные, интернет-деньги, банковские карты, терминалы приема платежей. Уже после первого заказа, на вторую покупку вам предоставляется скидка 4%. Но это еще не все удобства: индивидуальный подход, доставка на дом и на работу, почтовая отправка, оплата наличными и на счет нашей организации, срочная доставка в зависимости от наличия товара на складе. В пределах московской кольцевой автодороги доставка бесплатна. 
+</p>
+
+<p>
+Мы постарались сделать интерфейс нашего магазина максимально простым и удобным. Все, что Вам необходимо сделать – выбрать рубрику по теме предстоящего праздника или подарка и найти подходящий товар. В этом вам поможет удобный рубрикатор в левой части страницы, постраничная навигация в рубрике, подсказки в нижней части страниц. 
+</p>
+
+<p>
+Мы искренне надеемся, что в нашем интернет магазине подарков Вы найдете именно тот, самый лучший и оригинальный подарок, а процесс дарения доставит удовольствие не только хозяину праздника, но и Вам! 
+</p>
+
+	</td>
+	</tr>
+	<tr>
+	<td>
+
+			<table width="100%" border="0" style="margin-top:20px;">
+	<tr>
+		<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7724.html">
+				<img src="/images/winter-korzina13n2013novgod000.jpg" border="0" alt="Корзина новогодняя для продуктов пустая"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7724.html">Оригинальный подарок "Корзина новогодняя для продуктов пустая"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7724.html">Купить за 1725.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7720.html">
+				<img src="/images/winter-korzina9n2013novgod000.jpg" border="0" alt="Корзина новогодняя для продуктов"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7720.html">Оригинальный подарок "Корзина новогодняя для продуктов"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7720.html">Купить за 1725.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7716.html">
+				<img src="/images/winter-korzina5n2013novgod000.jpg" border="0" alt="Продуктовая корзина корпоративная к Новому Году"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7716.html">Оригинальный подарок "Продуктовая корзина корпоративная к Новому Году"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7716.html">Купить за 4180.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7715.html">
+				<img src="/images/winter-korzina4n2013novgod000.jpg" border="0" alt="Новогодняя продуктовая корзина"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7715.html">Оригинальный подарок "Новогодняя продуктовая корзина"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7715.html">Купить за 4430.00 руб.</a></noindex>
+	</td>	</tr>
+	<tr>
+	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7710.html">
+				<img src="/images/winter-kolokolretro000.jpg" border="0" alt="Новогодний колокольчик «Ретро»"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7710.html">Оригинальный подарок "Новогодний колокольчик «Ретро»"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7710.html">Купить за 3950.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7670.html">
+				<img src="/images/winter-naborngsruch000.jpg" border="0" alt="Набор «С Новым Годом!»"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7670.html">Оригинальный подарок "Набор «С Новым Годом!»"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7670.html">Купить за 567.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_7654.html">
+				<img src="/images/winter-naborkruzhekng000.jpg" border="0" alt="Набор кружек «С Новым Годом!»"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_7654.html">Оригинальный подарок "Набор кружек «С Новым Годом!»"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_7654.html">Купить за 1510.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_5010.html">
+				<img src="/images/winter-podvipkorz8000.jpg" border="0" alt="Корзина упаковочная VIP №8"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_5010.html">Оригинальный подарок "Корзина упаковочная VIP №8"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_5010.html">Купить за 1667.00 руб.</a></noindex>
+	</td>	</tr>
+	<tr>
+	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_5009.html">
+				<img src="/images/winter-podkorzvip7000.jpg" border="0" alt="Корзина упаковочная VIP №7"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_5009.html">Оригинальный подарок "Корзина упаковочная VIP №7"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_5009.html">Купить за 1667.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_5002.html">
+				<img src="/images/winter-podvipkorz000.jpg" border="0" alt="Корзина упаковочная VIP"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_5002.html">Оригинальный подарок "Корзина упаковочная VIP"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_5002.html">Купить за 2012.00 руб.</a></noindex>
+	</td>	<td class="pict_random">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td><a href="/goodsview/do_viewgoods/id_4804.html">
+				<img src="/images/winter-korznomercemupak000.jpg" border="0" alt="Новогодняя корзина упаковочная №7"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_4804.html">Оригинальный подарок "Новогодняя корзина упаковочная №7"</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_4804.html">Купить за 3737.00 руб.</a></noindex>
+	</td>	</tr>
+	</table>
+	
+	</td>
+	</tr>
+	</table>
+	</div>
+
+</div>				
+<div style="margin-left:10px; margin-right:10px; border:#b10a36 solid 1px; padding:5px 5px 5px 5px; margin-top:30px;">
+	<div style=" font-size:12px; font-weight:bold; color:#b10a36; ">Подсказки</div>
+	<div style="font-size:10px; text-align:justify;">
+	<script language="javascript">
+			text_view('1. Добро пожаловать в интернет магазин подарков! На этом сайте Вы можете заказать презент для любого человека и на любой праздник.<br>');
+			text_view('2. Вы видите рубрикатор - найдите рубрику соответсвующую вашему празднику. Сверху есть строка поиска - введите не изменяемую часть слова для поиска, например \"шкатулк\", \"пикник\", \"картин\".<br>');
+		</script>
+	</div>
+</div>	</td>
+	
+	<td  class="td_right">	
+		
+<div id="basket_small" style="margin-top:8px; border:#ff8c00 solid 1px;">
+	<div class="block_big_header_right">
+		<span>Корзина</span>
+	</div>
+	
+	<div class="right_block">
+			<div style="padding:10px;">
+			<span>Пустая</span>
+		</div>	
+			
+	</div>
+	
+</div>						<div id="other_menu" style="margin-top:8px; border:#ff8c00 solid 1px;">
+		<div class="block_big_header_right">
+			<span>Разное</span>
+		</div>
+
+	
+</div>		<div id="interes_random" style="margin-top:8px; border:#ff8c00 solid 1px;">
+		<div class="block_big_header_right">
+			<span>Интересное</span>
+		</div>
+	<br>
+	<div class="right_block">
+		<div style="text-align:center; margin:5px;">
+			
+		
+	<div class="pict_interes" style="text-align: center;">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td style="text-align: center;"><a href="/goodsview/do_viewgoods/id_53.html">
+				<img src="/images/winter-minibarkobura000.jpg" border="0" alt="Мини-бар &quot;Кобура&quot;"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_53.html">Мини-бар &quot;Кобура&quot;</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_53.html">?????? ?? 3500.00 ???.</a></noindex>
+	</div>		
+		
+
+			
+		
+	<div class="pict_interes" style="text-align: center;">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td style="text-align: center;"><a href="/goodsview/do_viewgoods/id_55.html">
+				<img src="/images/winter-elitboekomplekt000.jpg" border="0" alt="Мини-бар &quot;Элитный боекомплект&quot;"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_55.html">Мини-бар &quot;Элитный боекомплект&quot;</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_55.html">?????? ?? 2700.00 ???.</a></noindex>
+	</div>		
+		
+
+			
+		
+	<div class="pict_interes" style="text-align: center;">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td style="text-align: center;"><a href="/goodsview/do_viewgoods/id_59.html">
+				<img src="/images/winter-globusbv4000.jpg" border="0" alt="Глобус-бар настольный №4"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_59.html">Глобус-бар настольный №4</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_59.html">?????? ?? 10500.00 ???.</a></noindex>
+	</div>		
+		
+
+			
+		
+	<div class="pict_interes" style="text-align: center;">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td style="text-align: center;"><a href="/goodsview/do_viewgoods/id_57.html">
+				<img src="/images/winter-barglous2000.jpg" border="0" alt="Глобус-бар №2"><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_57.html">Глобус-бар №2</a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_57.html">?????? ?? 10500.00 ???.</a></noindex>
+	</div>		
+		
+
+			
+		
+	<div class="pict_interes" style="text-align: center;">
+			<table cellpadding="0" cellspacing="0" border="0" style="width: 100%;">
+			<tr>
+		
+				<td style="text-align: center;"><a href="/goodsview/do_viewgoods/id_.html">
+				<img src="/images/winter-000.jpg" border="0" alt=""><br>
+				</a></td>
+				<td  background="/img/t6.gif" valign="top" width="9"><img src="/img/t3.gif"></td>
+			</tr>	
+			<tr>
+				<td background="/img/t8.gif" align="left"><img src="/img/t7.gif"></td>
+				<td><img src="/img/t9.gif" width="9" height="12"></td>
+			</tr>
+			</table>
+			<br>
+			<a href="/goodsview/do_viewgoods/id_.html"></a>
+			<br>
+			<noindex><a rel="nofollow" class="pay" href="/index/do_addto/id_.html">?????? ??  ???.</a></noindex>
+	</div>		
+		
+
+	            <div style="text-align: left; border: #777 solid 0px; padding: 5px;"><a style="font-weight: bold;" href="http://don.toys/tovar">Игрушки Донецк.</a><br> Детские игрушки для мальчиков и девочек в Донецке</div>
+            		</div>
+	</div>	
+</div>
+
+	</td>
+</tr>	
+</table>
+
+<br clear="all">
+<div style="width:100%; height:1px; background-color:#2f5ea4; font-size:0px;"></div>
+
+	<div class="Reklama">
+    </div>
+
+<div style="margin-top:0px; padding:20px 10px 20px 10px; text-align:center;">
+	<div >
+		<table>
+		<tr>
+		<td valign="middle">
+		Интернет магазин оригинальных подарков, прикольные подарки, оригинальные подарки:
+		</td>
+		<td>
+		<a href="mailto:info@wintergift.ru" class="blacklinx"><img style="margin-top:5px;" border="0" src="/img/phone_bottom.gif"></a>
+		</td>
+		</tr>
+		</table>
+	</div>	
+	
+</div>
+
+
+<div style="margin-left:20px;">
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t15.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+

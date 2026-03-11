@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta content="no-referrer" name="referrer">
+    <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport">
+    <!-- Обновленные Title и Description для SEO. robots: index, follow (по умолчанию) -->
+    <title>Знакомства Телеграм: Находите новых людей и общайтесь онлайн на LYUDI.ORG</title>
+    <meta name="description" content="Ищете Знакомства Телеграм? LYUDI.ORG – это удобная платформа для онлайн знакомств и общения. Найдите партнера для серьезных отношений или легкого флирта.">
+    <meta name="keywords" content="Знакомства Телеграм, Знакомства онлайн, платформа знакомств, люди знакомства, найти человека, чат знакомств, LYUDI.ORG">
+    <meta name="robots" content="index, follow"> <!-- Явно указываем для главной страницы -->
+    <link rel="canonical" href="https://lyudi.org/" />
+    <meta name="zen-verification" content="ikph0a8tkTtNLEDAvhkpfWIUwtqtlv2N6c8u4efTqas8LycBDLSNmkP1JCMpULob" />
+
+    <link href="/index_files/new-style.css" rel="stylesheet" type="text/css">
+    <link href="/index_files/new-modal.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/static/css/background_page_style.c8c4cef0522a.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link href="/css/custom-theme.css" rel="stylesheet" type="text/css">
+
+    <script src="/index_files/new-modal.js"></script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){
+            m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+        })(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+        ym(46684149, 'init', {clickmap:true, accurateTrackBounce:true, trackLinks:true});
+    </script>
+    <!-- /Yandex.Metrika counter -->
+</head>
+<body>
+    <!-- Yandex.Metrika noscript counter -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/46684149" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika noscript counter -->
+
+    <div class="logo-container">
+        <a href="https://lyudi.org/" title="Перейти на главную страницу LYUDI.ORG">
+            <!-- ДИНАМИЧЕСКИЙ ЛОГОТИП "БЬЮЩЕЕСЯ СЕРДЦЕ" -->
+            <img id="animatedHeartLogo" src="/images/heart.png" alt="Логотип LYUDI.ORG - Бьющееся сердце" style="max-width: 150px; height: auto; display: block;">
+        </a>
+    </div>
+
+    <div id="block1">
+        <div id="iheader">
+            <span class="imenu"></span>
+            <h3><span id="iheadline">Знакомства Телеграм</span></h3><span class="icon"></span>
+        </div>
+        <div id="icontainer ">
+            <div class="icontainer ff">
+                <div class="icomments">
+                    <div style="padding-top:10px; font-size:13px; text-align: center;">
+                        <table border="0" cellpadding="4" cellspacing="0" width="100%">
+                            <tbody id="icomments_list">
+                                <tr class="visible">
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/images/12.jpg" alt="Аватар Светлана К."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Светлана К.</div>
+                                        <div class="icomment_text">
+                                            <div class="icomment_text">Привет, как настроение? Хочется пообщаться...</div>
+                                            <img src="/images/88.webp" class="reddd" alt="Изображение от Светлана К.">
+                                        </div>
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="0"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/index_files/1user.jpeg" alt="Аватар Роман Г."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Роман Г.</div>
+                                        <div class="icomment_text">Отлично, а у тебя? Чем занимаешься сегодня?</div>
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="3"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/images/123.jpg" alt="Аватар Катя М."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Катя М.</div>
+                                        <div class="icomment_text">Ищу кого-то интересного для вечерней беседы. Есть предложения?</div>
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="6"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/index_files/3user.jpeg" alt="Аватар Денис П."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Денис П.</div>
+                                        <div class="icomment_text">На сайте много классных девчонок, одна уже позвала гулять!<br>Отличный сервис!</div>
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="9"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/index_files/6user.jpeg" alt="Аватар Виктория С."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Виктория С.</div>
+                                        <div class="icomment_text">Кто готов со мной на свидание сегодня? 😊</div>
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="12"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/index_files/5user.jpg" alt="Аватар Анна Ф."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Анна Ф.</div>
+                                        <div class="icomment_text">Мальчики, жду ваших сообщений!</div>
+                                        <img src="/images/33.webp" class="reddd" alt="Изображение от Анна Ф.">
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="15"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="right" class="iphoto_avatar" valign="top" width="40"><img src="/index_files/2user.jpeg" alt="Аватар Андрей И."></td>
+                                    <td align="left" valign="top">
+                                        <div class="icomment_name">Андрей И.</div>
+                                        <div class="icomment_text">Уже общаюсь с одной девушкой, очень интересно!</div>
+                                        <div class="icomments__item__meta">
+                                            <div class="item_date"><span class="comment-time-display" data-time-offset="18"></span></div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="ishow_next_wrap">
+                            <span class="ishow_next">Смотреть все</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ifixed_footer">
+                <img alt="Иконка скрепки" class="iclip" src="/index_files/clip.svg"> <input class="ifooter_input" placeholder="Ваше сообщение" type="text">
+                <img alt="Иконка отправки" class="ibtn_send" src="/index_files/smilesend.svg">
+            </div>
+        </div>
+
+        <div class="modal modals">
+            <div class="modal__backdrop" >
+                <div class="modal__content">
+                    <div class="page-content">
+                        <div class="user-info">
+                            <img class="user-avatar" src="/static/images/22.JPG" alt="Аватар Вероники">
+                            <div class="user-name">Вероника</div>
+                            <div class="user-name1">Хочет отправить вам письмо</div>
+                        </div>
+                        <div class="location-info">
+                            <div id="user-status" class="user-status">
+                                <div id="available">Был(а) в сети недавно..</div>
+                                <div class="separator"></div>
+                                <div class="clock"></div>
+                                <div class="respond-time">Отвечает в течение 2 минут</div>
+                            </div>
+                            <div class="current-location">
+                                <img class="location-icon" src="/static/images/location-icon.b5918c82f25e.svg" alt="Иконка местоположения">
+                                <span id="location-name"></span>
+                            </div>
+                        </div>
+                        <div id="time-in-current-location"></div>
+                        <a style="margin-top: 15px;" class="send-button pulse-button" id="toggleButton1">
+                            <span class="btn-text">Пройти опрос чтобы ответить </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="block2" style="display: none;">
+        <form data-capture="true" data-ajax="false" method="post">
+            <div class="view" id="view0" data-view-order="0">
+                <div class="view1">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Это Телеграм канал знакомств!</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Прежде чем показать вам фото одиноких женщин, которые готовы к новым знакомствам и обмену интимными фото, мы должны задать несколько вопросов.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-1" data-toggle="tab">ДАЛЕЕ »</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view2">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <ul class="btns"><li class="active">1</li><li>2</li><li>3</li><li>4</li></ul>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Согласны ли вы, если девушки сами первыми будут Вам писать?</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-2" data-toggle="tab">Да</button>
+                                    <button type="button" class="btn-no close-view-2" data-toggle="tab">Нет</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view3">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <ul class="btns"><li>1</li><li class="active">2</li><li>3</li><li>4</li></ul>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Вы ищете серьезные отношения?</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-3" data-toggle="tab">Да</button>
+                                    <button type="button" class="btn-no close-view-3" data-toggle="tab">Нет</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view4">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <ul class="btns"><li>1</li><li>2</li><li class="active">3</li><li>4</li></ul>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Вы согласны сохранить в тайне ваши встречи?</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-4" data-toggle="tab">Да</button>
+                                    <button type="button" class="btn-no close-view-4" data-toggle="tab">Нет</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view5">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <ul class="btns"><li>1</li><li>2</li><li>3</li><li class="active">4</li></ul>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Вам уже исполнилось 18?</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-5" data-toggle="tab">Да</button>
+                                    <button type="button" class="btn-no close-view-5" data-toggle="tab">Нет</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view6">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Какое телосложение для вас идеально?</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="text-small">(Можно выбрать несколько вариантов)</p>
+                                    <div></div>
+                                    <div class="checkboxes">
+                                        <div class="checkbox"><label><input type="checkbox" value="">Худышки</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">Нормальные</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">С большой грудью</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">С большой попкой</label></div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-6" data-toggle="tab">Далее »</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view7">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Женщины какого возраста вам подходят больше всего?</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="text-small">(Можно выбрать несколько вариантов)</p>
+                                    <div></div>
+                                    <div class="checkboxes">
+                                        <div class="checkbox"><label><input type="checkbox" value="">18 - 24</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">22 - 28</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">28 - 34</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">34 - 45</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">45 и старше</label></div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-7" data-toggle="tab">Далее »</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view8">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Какие отношения ищете?</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="text-small">(Можно выбрать несколько вариантов)</p>
+                                    <div></div>
+                                    <div class="checkboxes">
+                                        <div class="checkbox"><label><input type="checkbox" value="">Секс на одну ночь</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">Обмен интимными фото</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">Секс по вебкамере</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">Секс с замужними</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">Серьезные отношения</label></div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-8" data-toggle="tab">Далее »</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view9">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Расстояние между вами?</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="text-small">(Можно выбрать несколько вариантов)</p>
+                                    <div></div>
+                                    <div class="checkboxes">
+                                        <div class="checkbox"><label><input type="checkbox" value="">В радиусе 1 км</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">В радиусе 10 км</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">В моём городе</label></div>
+                                        <div class="checkbox"><label><input type="checkbox" value="">Где угодно</label></div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn-yes close-view-9" data-toggle="tab">Далее »</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="view10">
+                    <div class=" bs-example-modal-sm quiz-modal" tabindex="-1" aria-hidden="false">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title">Поздравляем!</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Поздравляем! Вы завершили опрос. Теперь вы готовы к новым знакомствам и общению с интересными людьми из вашего региона. Переходите в чат, чтобы начать увлекательные беседы и договориться о встречах. Помните о взаимном уважении и конфиденциальности вашего общения.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="https://t.me/fastlovetg_bot?start=LYUDIorg" class="btn-yes reg-link pulse-button ttr">Перейти в Телеграмм чат »</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="radar">
+                    <div class="radar-inner">
+                        <div class="step__circle step__circle-outer"></div>
+                        <div class="step__circle step__circle-outer step__circle-outer_delay"></div>
+                        <div class="step__circle step__circle-inner"></div>
+                        <div class="step__circle step__circle-inner step__circle-inner_delay"></div>
+                        <div class="step__map">
+                            <img class="step__map__pin_shadow" src="images/map-pin-shadow.svg" alt="Тень метки на карте">
+                            <img class="step__map__pin" src="images/map-pin.svg" alt="Метка на карте">
+                        </div>
+                        <div class="step__text">
+                            <span class="finding">Поиск женщин рядом с Вами...</span>
+                            <span class="found" style="display: none;"><strong>47</strong> женщин найдено!</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <!-- Оригинальные скрипты из конца <body> -->
+    <script type="text/javascript" src="/static/js/background_page_script_v1.2b901c293c21.js"></script>
+    <script src="/js/tag_ww.js"></script>
+    <script src="/index_files/6156e5fb2308d.js"></script>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/js/script.js"></script>
+    <script type="text/javascript" src="/js/utils.js"></script>
+    <script type="text/javascript" src="/js/js.cookie.js"></script>
+
+    <!-- Встроенные скрипты -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var commentBaseTime = new Date();
+
+            function formatTime(date) {
+                var hours = date.getHours().toString().padStart(2, '0');
+                var minutes = date.getMinutes().toString().padStart(2, '0');
+                return hours + ':' + minutes;
+            }
+
+            document.querySelectorAll('.comment-time-display').forEach(function(element) {
+                var offsetMinutes = parseInt(element.dataset.timeOffset || 0);
+                var time = new Date(commentBaseTime.getTime() - (offsetMinutes * 60 * 1000));
+                element.textContent = formatTime(time);
+            });
+
+            setTimeout(function () {
+                var modal = document.querySelector('.modal');
+                if (modal) {
+                    modal.classList.add('modal__show');
+                }
+            }, 4000);
+
+            var toggleButton = document.getElementById("toggleButton1");
+            if (toggleButton) {
+                toggleButton.addEventListener("click", function () {
+                    var block1 = document.getElementById("block1");
+                    var block2 = document.getElementById("block2");
+                    if (block1 && block2) {
+                        block1.style.display = "none";
+                        block2.style.display = "block";
+                        // ДОБАВЛЕНА СТРОКА: плавная прокрутка страницы в самый верх
+                        window.scroll({ top: 0, left: 0, behavior: 'smooth' }); 
+                    }
+                });
+            }
+        });
+
+        var commInited = false;
+        var commentInterval;
+
+        $(document).ready(function () {
+            if (!commInited) {
+                commInited = true;
+                commentInterval = setInterval(function () {
+                    var nextHiddenComment = $("#icomments_list tr:not(.visible):first");
+
+                    if (nextHiddenComment.length) {
+                        nextHiddenComment.addClass('visible');
+                    } else {
+                        clearInterval(commentInterval);
+                    }
+                }, 3000);
+            }
+        });
+    </script>
+
+    <!-- СКРИПТ АНИМАЦИИ БЬЮЩЕГОСЯ СЕРДЦА (для главной страницы) -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const heartImages = [
+                '/images/heartMini.png',
+                '/images/heart.png',
+                '/images/bigheart.png',
+                '/images/heart.png' // Добавляем обратно среднее сердце для более плавного цикла
+            ];
+            let currentHeartIndex = 0;
+            const animatedHeartLogo = document.getElementById('animatedHeartLogo');
+
+            if (animatedHeartLogo) { // Проверяем, что элемент существует
+                function animateHeart() {
+                    animatedHeartLogo.src = heartImages[currentHeartIndex];
+                    currentHeartIndex = (currentHeartIndex + 1) % heartImages.length; // Цикл по изображениям
+                }
+                // ИЗМЕНЕНИЕ ЗДЕСЬ: 300ms на 500ms
+                setInterval(animateHeart, 500); // 500ms = 0.5 секунды на каждый кадр
+            }
+        });
+    </script>
+
+    <!-- SEO-текст -->
+    <div class="seo-text-block">
+        <h2>LYUDI.ORG: Ваша история настоящих знакомств начинается здесь!</h2>
+        <p>Устали от скучных вечеров и однообразных диалогов? Мечтаете о новых встречах, ярких эмоциях и незабываемом общении? Добро пожаловать на LYUDI.ORG – не просто сайт знакомств, а ваш личный проводник в мир захватывающих возможностей! Если вы ищете **Знакомства Телеграм**, или просто хотите **найти человека**, который разделит ваши самые сокровенные желания и интересы – вы пришли по адресу.</p>
+        <p>Мы создали пространство, где каждый может быть собой и найти именно то, что ищет. Наша миссия — соединять людей, предлагая удобный и конфиденциальный способ для **онлайн знакомств**. Будь то страстный флирт, откровенные переписки, обмен интимными фото или поиск серьезных отношений – здесь нет места стеснению. Только искренность и готовность к новым ощущениям.</p>
+        
+        <h3>Почему LYUDI.ORG — это ваш лучший выбор для знакомств?</h3>
+        <ul>
+            <li><strong>Прямой путь к Знакомствам Телеграм:</strong> Забудьте о долгих поисках! Мы предлагаем мгновенный доступ к живым и активным Telegram-чатам, где кипит реальное общение. Ваша вторая половинка или захватывающий собеседник уже ждет вас!</li>
+            <li><strong>Тысячи реальных людей:</strong> У нас вы встретите огромную аудиторию активных пользователей, которые, как и вы, жаждут новых знакомств и ярких эмоций.</li>
+            <li><strong>Откровенность и свобода выбора:</strong> Ищете приключений на одну ночь, партнера для горячего флирта или того, с кем можно построить что-то серьезное? LYUDI.ORG уважает ваши желания и предоставляет все инструменты для их воплощения.</li>
+            <li><strong>Простота и удобство:</strong> Мы ценим ваше время. Начать знакомство невероятно просто – никаких лишних шагов.</li>
+            <li><strong>Ваша приватность — наш приоритет:</strong> Мы гарантируем конфиденциальность вашего общения, чтобы вы могли наслаждаться каждым моментом без волнений.</li>
+        </ul>
+        
+        <p>Не откладывайте свою новую историю на потом! Пройдите наш короткий опрос прямо сейчас, чтобы мы могли лучше понять ваши предпочтения и помочь вам **найти человека**, который идеально подойдет именно вам. Присоединяйтесь к LYUDI.ORG – сообществу, где каждый день рождаются настоящие эмоции и незабываемые встречи. Ваше приключение начинается здесь!</p>
+    </div>
+
+    <!-- Заголовки Люди. Знакомства онлайн. Кликай на фото и знакомься! -->
+    <div class="main-page-footer-text">
+        <h1>Люди.</h1>
+        <h2>Знакомства онлайн.</h2>
+        <h3>Кликай на фото и знакомься!</h3>
+    </div>
+
+    <!--LiveInternet counter-->
+    <div class="liveinternet-counter">
+        <a href="https://www.liveinternet.ru/click" target="_blank">
+            <img id="licntD649" width="31" height="31" style="border:0" title="LiveInternet" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" alt="LiveInternet counter"/>
+        </a>
+        <script>(function(d,s){d.getElementById("licntD649").src= "https://counter.yadro.ru/hit?t44.7;r"+escape(d.referrer)+ ((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+ (s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+ ";h"+escape(d.title.substring(0,150))+";"+Math.random()}) (document,screen)</script>
+    </div>
+</body>
+</html>

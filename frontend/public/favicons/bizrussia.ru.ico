@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+<title>Error 404!</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=win-1251">
+<style type="text/css">
+<!--
+.style4 {font-family: Arial, Tahoma, Verdana}
+.style7 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.style10 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.style11 {
+	font-size: 14px;
+	color: #FF6600;
+}
+.style12 {
+	font-size: 11px;
+	font-weight: none;
+	}
+-->
+</style>
+</head>
+
+<script language="javascript">
+	
+	document.location.href="/";	
+
+</script>
+
+<body bgcolor="#ffffff" text="#666666" link="#333333" vlink="#333333" alink="#333333" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+<tr>
+	<td><img src="images/trans.gif" width="20" height="1" border="0" alt=""></td>
+<td width="100%" align="left" valign="top">
+		<span class="style4">	
+		<span class="style10">
+		<br>
+		Ошибка 404!</span> <span class="style7"><br>
+        <span class="style11">Запрошенная вами страница не найдена</span><br>
+      	<span class="style12">
+        <li> Пожалуйста проверьте адрес, который вы набрали<br>
+          <br>
+          <a href="/">Перейти на главную страницу сайта</a><br>
+          <br>
+      <br>
+      <br>
+    </span></span></td>
+</tr>
+</table>
+
+</body>
+</html>

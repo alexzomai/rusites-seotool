@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+    <head>
+    
+        <meta http-equiv="content-type" content="text/html; charset=windows-1251">
+        <title>404 - Страница не найдена</title>
+<link rel="stylesheet" href="http://standart-voronezh.ru/index.css" type="text/css" media="screen">        
+<script type="text/javascript">function goBack(){window.history.back()}</script>
+</head>
+<body>
+
+    </head>
+    <body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+        <table cellpadding="0" cellspacing="0" width="400" height="100%" align=center>
+            <tr>
+                <td width="955" align="center">
+<div id=plashka00>                
+                    <h1>
+                        Ошибка 404
+                    </h1>
+                    <h2>
+                        Страница не найдена
+                    </h2>
+Возможно вы перешли по нерабочей ссылке или произошла ошибка.
+<br>                    
+
+<img src="http://standart-voronezh.ru/img/logo.png" border="0">
+<br><br>
+
+<input type="button" id=buto value="Вернуться" onclick="goBack()" />
+
+<input type="button" id=buto value="Перейти на главную" onclick='document.location.href="http://standart-voronezh.ru/"' />
+
+</div>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

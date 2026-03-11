@@ -1,0 +1,507 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+		
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<meta charset="utf-8" />
+	<base href="https://www.colorglo-spb.ru/" />
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="description" content="Услуги по ремонту, восстановлению и покраске различных материалов салона автомобиля. Использование нами запатентованных технологий американской компании «ColorGlo International» дает Вам возможность сэкономить на перетяжке и ремонте по замене  поврежденных элементов.Точное попадание в цвет. Гарантия качества." />
+	<title>Error 404</title>
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Error 404" />
+	<meta property="og:url" content="https://www.colorglo-spb.ru/" />
+	<meta property="og:site_name" content="Ремонт и реставрация кожи. Покраска автопластика в Санкт-Петербурге" />
+	<meta property="og:description" content="Услуги по ремонту, восстановлению и покраске различных материалов салона автомобиля. Использование нами запатентованных технологий американской компании «ColorGlo International» дает Вам возможность сэкономить на перетяжке и ремонте по замене  поврежденных элементов.Точное попадание в цвет. Гарантия качества." />
+	<meta property="og:image" content="https://www.colorglo-spb.ru/images/logo.png" />
+	<link href="/templates/colorglo/css/bootstrap.27.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/bootstrap_responsive.27.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/template.27.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/offcanvas.27.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/template_responsive.27.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/custom.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/viber-whatsapp.css" rel="stylesheet" />
+	<link href="/media/djmediatools/css/slideshow_ce4ffba8f8229060c2d9663d296ab1af.css" rel="stylesheet" />
+	<link href="/modules/mod_djmegamenu/assets/css/animations.css" rel="stylesheet" />
+	<link href="/media/djextensions/css/animate.min.css" rel="stylesheet" />
+	<link href="/media/djextensions/css/animate.ext.css" rel="stylesheet" />
+	<link href="/templates/colorglo/css/djmegamenu.27.css" rel="stylesheet" />
+	<link href="/plugins/system/cookiehint/css/style.css?3c79c5c7facc288197611ab35580ebcc" rel="stylesheet" />
+	<style>
+
+		#dj-megamenu141select {display: none;margin:10px;padding:5px;font-size:1.5em;max-width:95%;height:auto;}
+		@media (max-width: 920px) {
+  			#dj-megamenu141.allowHide, #dj-megamenu141sticky, #dj-megamenu141placeholder { display: none; }
+  			#dj-megamenu141select { display: inline-block; }
+		}
+	#redim-cookiehint-bottom {position: fixed; z-index: 99999; left: 0px; right: 0px; bottom: 0px; top: auto !important;}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"36a815e42c91f7b68ff1cf0953761392","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/system/js/caption.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/jui/js/bootstrap.min.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/jui/js/jquery.ui.sortable.min.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/plugins/system/ef4_jmframework/includes/assets/template/js/layout.js"></script>
+	<script src="/templates/colorglo/js/scripts.js"></script>
+	<script src="/templates/colorglo/js/offcanvas.js"></script>
+	<script src="/templates/colorglo/js/backtotop.js"></script>
+	<script src="/templates/colorglo/js/stickybar.js"></script>
+	<script src="/media/system/js/mootools-core.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/system/js/core.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/media/system/js/mootools-more.js?3c79c5c7facc288197611ab35580ebcc"></script>
+	<script src="/components/com_djmediatools/assets/js/powertools-1.2.0.js"></script>
+	<script src="/components/com_djmediatools/layouts/slideshow/js/slideshow.js"></script>
+	<script src="/modules/mod_djmegamenu/assets/js/jquery.djselect.js"></script>
+	<script src="/modules/mod_djmegamenu/assets/js/jquery.djmegamenu.js"></script>
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });window.addEvent('domready',function(){ if(!this.DJSlideshow17m280) this.DJSlideshow17m280 = new DJImageSlideshow('dj-slideshow17m280',{autoplay: 1,pause_autoplay: 1,transition: Fx.Transitions.Expo.easeInOut,duration: 1000,delay: 7000,slider_type: 'left',desc_effect: '',width: 1170,height: 448,spacing: 0,navi_margin: 20,preload: 0}) });jQuery(document).ready(function(){jQuery('#dj-megamenu141').addClass('allowHide')});jQuery(document).ready( function(){ new DJMegaMenu(jQuery('#dj-megamenu141'), {wrap: 'jm-djmenu', animIn: 'fadeInUp', animOut: 'fadeOutDown', animSpeed: 'normal', delay: 500, 
+		event: 'mouseenter', fixed: 0, offset: 0, theme: 'override' }); } );
+	</script>
+	<!-- Start: Структурные данные гугла -->
+            
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.colorglo-spb.ru/",
+    "name": "Ремонт и реставрация кожи. Покраска автопластика в Санкт-Петербурге",
+    "alternateName": "colorglo-spb"
+}
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://www.colorglo-spb.ru/",
+    "logo": "https://www.colorglo-spb.ru/images/logo.png"
+}
+</script>
+            <!-- End: Структурные данные гугла -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+
+	 
+
+<!--[if IE 9]>
+<link href="/templates/colorglo/css/ie9.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+	<link href="https://www.colorglo-spb.ru/images/favicon.ico" rel="Shortcut Icon" />
+
+</head>
+<body class=" fixed sticky-bar off-canvas-right">
+	<div id="jm-allpage">
+		<div id="jm-page">
+									
+<div id="jm-offcanvas">
+	<div id="jm-offcanvas-toolbar">
+		<a class="toggle-nav close-menu"><span class="icon-remove"></span></a>
+	</div>
+	<div id="jm-offcanvas-content" class="jm-offcanvas">
+			<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<p>Меню</p></div>
+	      
+		    </div>
+		</div>
+	</div>
+		<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	<ul class="nav menu mod-list">
+<li class="item-470 default current active"><a href="/" >Главная</a></li><li class="item-716"><a href="/nashi-uslugi.html" >Наши услуги</a></li><li class="item-697"><a href="/uslugi.html" >Прайс</a></li><li class="item-497"><a href="/gallery-grid.html" >Наши работы</a></li><li class="item-717 parent"><a href="/poleznye-stati.html" >Полезные статьи</a></li><li class="item-602"><a href="/contact-us.html" >Контакты</a></li></ul>
+	      
+		    </div>
+		</div>
+	</div>
+		<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<div class="jm-promo">
+	<p><a href="#"> <img src="/images/modules/icons/icon7.png" alt="" /> <span class="title">Мечтаете о чистом салоне авто?</span> </a>
+	</p>
+  <p>Звоните: +7 (921) 99-26-286</p><p>Время работы - понедельник - пятница с 10 до 19</p>
+</div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	
+	</div>
+</div>																	
+<div id="jm-bar-wrapp" class="">
+	 
+	
+		<section id="jm-bar">  
+	    <div id="jm-bar-in" class="container-fluid">      
+	        	        <div id="jm-bar-left" class="pull-left">
+						<div id="jm-logo-sitedesc">
+														<div id="jm-logo">
+								<a href="https://www.colorglo-spb.ru/" onfocus="blur()" >
+																		<img src="https://www.colorglo-spb.ru/images/logo.png" alt="Ремонт и реставрация кожи. Покраска кожи, велюра, винила, автопластика в Санкт-Петербурге" />
+																	</a>
+							</div>
+																				</div> 
+	        </div>
+	         
+	        
+	        	        <div id="jm-bar-right" class="pull-right ">
+						<div id="jm-djmenu" class="clearfix">
+							    <div class="jm-module-raw ">
+        
+
+<div class="custom"  >
+	<p><a class="toggle-nav menu"><span class="icon-align-justify"></span></a></p></div>
+    </div>
+    <div class="jm-module-raw ">
+        <ul id="dj-megamenu141" class="dj-megamenu dj-megamenu-override ">
+<li class="dj-up itemid470 first current active"><a class="dj-up_a active " href="/" ><span >Главная</span></a></li><li class="dj-up itemid716"><a class="dj-up_a  " href="/nashi-uslugi.html" ><span >Наши услуги</span></a></li><li class="dj-up itemid697"><a class="dj-up_a  " href="/uslugi.html" ><span >Прайс</span></a></li><li class="dj-up itemid497"><a class="dj-up_a  " href="/gallery-grid.html" ><span >Наши работы</span></a></li><li class="dj-up itemid717 parent"><a class="dj-up_a  " href="/poleznye-stati.html" ><span class="dj-drop" >Полезные статьи</span></a><div class="dj-subwrap  single_column subcols1"><div class="dj-subwrap-in" style="width:200px;"><div class="dj-subcol" style="width:200px"><ul class="dj-submenu"><li class="itemid718 first"><a href="/poleznye-stati/ustranenie-porezov-zatertostej-prozhogov-i-drugikh-povrezhdenij-salona.html" >Устранение порезов, затертостей, прожогов и других повреждений салона</a></li><li class="itemid719"><a href="/poleznye-stati/remont-sidenij.html" >Ремонт сидений</a></li><li class="itemid720"><a href="/poleznye-stati/remont-i-peretyazhka-rulya-kozhej.html" >Ремонт и перетяжка руля кожей</a></li><li class="itemid721"><a href="/poleznye-stati/pokraska-salona-avtomobilya.html" >Покраска салона автомобиля</a></li><li class="itemid722"><a href="/poleznye-stati/remont-prozhogov.html" >Ремонт прожогов</a></li><li class="itemid723"><a href="/poleznye-stati/pokraska-plastika.html" >Покраска пластика</a></li></ul></div><div style="clear:both;height:0"></div></div></div></li><li class="dj-up itemid602"><a class="dj-up_a  " href="/contact-us.html" ><span >Контакты</span></a></li></ul>
+    </div>
+
+						</div>
+	        </div> 
+	         
+	    </div>
+	</section>
+	</div>
+							
+<section id="jm-header" class="">
+    <div id="jm-header-in" class="container-fluid">
+        	<div class="jm-module  margin-ms">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+<div style="border: 0px !important;">
+<div id="dj-slideshow17m280" class="dj-slideshow">
+
+	
+	<div class="dj-slideshow-in">
+		<div class="dj-slides">
+        	
+          				
+				<div class="dj-slide">
+					<div class="dj-slide-in">
+						            										
+<a href="/nashi-uslugi/remont-i-pokraska-salonov.html" target="_self"><img src="/" title="/media/djmediatools/cache/images/modules/slider/1170x448-toheight-90-slide1.jpg" alt="Ремонт и покраска салонов" class="dj-image" /></a>	
+												
+													<div class="dj-slide-desc">
+																			</div>
+											</div>
+				</div>
+				
+								
+            			
+				<div class="dj-slide">
+					<div class="dj-slide-in">
+						            										
+<a href="/nashi-uslugi/khimchistka-salona-avtomobilya.html" target="_self"><img src="/" title="/media/djmediatools/cache/images/modules/slider/1170x448-toheight-90-slide2.jpg" alt="Химчистка салона автомобиля" class="dj-image" /></a>	
+												
+													<div class="dj-slide-desc">
+																			</div>
+											</div>
+				</div>
+				
+								
+            			
+				<div class="dj-slide">
+					<div class="dj-slide-in">
+						            										
+<a href="/nashi-uslugi/predprodazhnaya-podgotovka.html" target="_self"><img src="/" title="/media/djmediatools/cache/images/modules/slider/1170x448-toheight-90-slide4.jpg" alt="Предпродажная подготовка" class="dj-image" /></a>	
+												
+													<div class="dj-slide-desc">
+																			</div>
+											</div>
+				</div>
+				
+								
+            			
+				<div class="dj-slide">
+					<div class="dj-slide-in">
+						            										
+<a href="/nashi-uslugi/polirovka.html" target="_self"><img src="/" title="/media/djmediatools/cache/images/modules/slider/1170x448-toheight-90-slide3.jpg" alt="Полировка" class="dj-image" /></a>	
+												
+													<div class="dj-slide-desc">
+																			</div>
+											</div>
+				</div>
+				
+								
+                    	
+        </div>
+        <div class="dj-navigation">
+        	<div class="dj-navigation-in">
+        			        		<img class="dj-prev showOnMouseOver" src="/images/modules/navi/prev.png" alt="Previous" />
+					<img class="dj-next showOnMouseOver" src="/images/modules/navi/next.png" alt="Next" />
+													<img class="dj-play showOnMouseOver" src="/images/modules/navi/play.png" alt="Play" />
+					<img class="dj-pause showOnMouseOver" src="/images/modules/navi/pause.png" alt="Pause" />
+        					</div>
+		</div>
+				<div class="dj-indicators ">
+			<div class="dj-indicators-in">
+									<span class="dj-load-button dj-load-button-active"><span class="dj-key">1</span></span>
+									<span class="dj-load-button"><span class="dj-key">2</span></span>
+									<span class="dj-load-button"><span class="dj-key">3</span></span>
+									<span class="dj-load-button"><span class="dj-key">4</span></span>
+							</div>
+        </div>
+				
+		<div class="dj-loader"></div>
+	</div>
+	
+	</div>
+</div>
+<div style="clear: both"></div>	      
+		    </div>
+		</div>
+	</div>
+	         
+    </div>
+</section>
+ 
+														
+							 
+<section id="jm-main">
+	<div class="container-fluid">
+		
+				<div class="row-fluid">
+			<div id="jm-content" class="span12" data-xtablet="span12" data-tablet="span12" data-mobile="span12" data-xtablet="span12" data-tablet="span100" data-mobile="span100">
+								<div id="jm-content-top" class="">
+					
+<div class="row-fluid"><div class="span3">	<div class="jm-module  color1-ms margin-ms">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom color1-ms margin-ms"  >
+	<div class="jm-box"><a href="/nashi-uslugi/remont-i-pokraska-salonov.html"> <span class="icon"> <img src="/images/modules/icons/icon8.png" alt="" /> </span> <span class="title">Ремонт салона</span> </a>
+</div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div><div class="span3">	<div class="jm-module  color2-ms margin-ms">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom color2-ms margin-ms"  >
+	<div class="jm-box"><a href="/nashi-uslugi/khimchistka-salona-avtomobilya.html"> <span class="icon"> <img src="/images/modules/icons/icon7.png" alt="" /> </span> <span class="title">Химчистка салона</span> </a>
+</div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div><div class="span3">	<div class="jm-module  color1-ms margin-ms">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom color1-ms margin-ms"  >
+	<div class="jm-box"><a href="/nashi-uslugi/polirovka.html"> <span class="icon"> <img src="/images/modules/icons/icon5.png" alt="" /> </span> <span class="title">Полировка</span> </a>
+</div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div><div class="span3">	<div class="jm-module  color2-ms margin-ms">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom color2-ms margin-ms"  >
+	<div class="jm-box"><a href="/nashi-uslugi/predprodazhnaya-podgotovka.html"> <span class="icon"> <img src="/images/modules/icons/icon1.png" alt="" /> </span> <span class="title"> Предпродажная подготовка </span> </a>
+</div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div></div>				</div>
+												<div id="jm-maincontent">
+										<div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="ru-RU" />
+	
+		
+			<div class="page-header">
+		<h2 itemprop="headline">
+			Error 404		</h2>
+							</div>
+					
+		
+	
+	
+		
+								<div itemprop="articleBody">
+		<p><img src="/images/404.jpg" alt="404" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>&nbsp;</p>
+<div class="jm-error-page">
+<h2>Может быть Вы найдете, то что искали</h2>
+<a class="btn" href="/">на главной</a>
+<p>&nbsp;</p>
+</div>	</div>
+
+	
+							</div>
+
+				</div>
+											</div>
+								</div>
+	</div>
+</section>
+							
+<section id="jm-bottom" class="">
+	<div class="container-fluid">
+		<div id="jm-bottom-in">
+			<div class="row-fluid jm-flexiblock jm-bottom"><div class="span12"  data-default="span12" data-wide="span12" data-normal="span12" data-xtablet="span12" data-tablet="span100" data-mobile="span100"><div class="row-fluid"><div class="span3">	<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<div class="jm-bottom-box-custom">
+    <div class="icon">
+        <a href="/contact-us.html"><img src="/images/modules/icons/icon-phone.png" alt="" /></a>
+    </div>
+    <div class="content">
+        <span class="title jm-color">Наш телефон</span>
+        <span class="desc">(921) 99-26-286</span>
+    </div>
+</div>
+<div class="jm-bottom-box-custom">
+    <div class="icon">
+        <a href="/contact-us.html"><img src="/images/modules/icons/icon-mail.png" alt="" /></a>
+    </div>
+    <div class="content">
+        <span class="title jm-color">Отправить сообщение</span>
+        <span class="desc">info@colorglo-spb.ru</span>
+    </div>
+</div>
+<div class="jm-bottom-box-custom">
+    <div class="icon">
+        <a href="/contact-us.html"><img src="/images/modules/icons/icon-direction.png" alt="" /></a>
+    </div>
+    <div class="content">
+        <span class="title jm-color">Как добраться</span>
+        <span class="desc">ул. Школьная 73 к.2</span>
+    </div>
+</div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div><div class="span3">	<div class="jm-module ">
+		<div  class="jm-module-in">
+					    <div class="jm-module-content clearfix notitle">
+		    	
+
+<div class="custom"  >
+	<div class="jm-bottom-box-custom"><img src="/images/modules/guarantee.png" alt="" /></div></div>
+	      
+		    </div>
+		</div>
+	</div>
+	</div></div></div></div>		</div>
+	</div>
+</section>
+							
+							
+<footer id="jm-footer">
+	<div class="container-fluid clearfix jm-footer">
+		<div id="jm-footer-in" class="row-fluid">
+						<div id="jm-footer-left" class="span4 pull-left ">
+				<div id="jm-copyrights">
+					
+
+<div class="custom"  >
+	<p>Ремонт и покраска кожаных салонов, ремонт авто-пластика
+    <br>г. Санкт-Петербург, ул. Школьная 73 к.2
+    <br>(на территории STP-Box).</p>
+<p>Телефоны: (921) 99-26-286; (921) 99-22-098</p>
+<p>&copy; 2020</p></div>
+
+				</div>
+			</div>
+									<div id="jm-footer-center" class="span4 pull-left ">               
+				
+
+<div class="custom"  >
+	<div class="addthis_toolbox">
+<a href="https://www.instagram.com/colorglo_spb/" target="_blank" class="addthis_button_instagram_follow"><em class="fa fa-instagram"></em></a> 
+<a href="https://vk.com/club20586485" target="_blank" class="addthis_button_vk_follow"><em class="fa fa-vk"></em></a>
+</div></div>
+
+			</div>
+						<div id="jm-footer-right" class="span4 pull-right">
+					<div id="jm-poweredby">
+							<p><a href="https://www.studiopavelz.ru/" target="_blank">Создание и поддержка сайта</a></p>
+							<!-- Yandex.Metrika counter --><script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter32549130 = new Ya.Metrika({ id:32549130, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="https://mc.yandex.ru/watch/32549130" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+							<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t22.5;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet--> <!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2298210"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/2298210/">
+<img src="http://counter.rambler.ru/top100.cnt?2298210" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer>
+		<div id="whatsapp-callme">
+			<div id="whatsapp-callme-main"></div>
+			<div id="whatsapp-callme-circle"></div>
+			<div id="whatsapp-callme-circle-2"></div> 
+			<a href="whatsapp://send?phone=+79219926286">
+			<div id="whatsapp-callme-phone"></div>
+			</a>
+		</div>
+  <p id="jm-back-top"><a id="backtotop" href="#top"><span>&nbsp;</span></a></p>
+							
+							</div>
+	</div>
+<div style="position: absolute; top: 0px;"></div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(57467089, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/57467089" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<div id="redim-cookiehint-bottom">   <div id="redim-cookiehint">     <div class="cookiecontent">   Мы используем файлы cookie, чтобы улучшить работу сайта. Дальнейшее пребывание на сайте означает согласие с их применением.    </div>     <div class="cookiebuttons">           <a id="cookiehintinfo" href="https://www.colorglo-spb.ru/politika"           class="btn">Политика конфиденциальности</a>         <a id="cookiehintsubmit" onclick="return cookiehintsubmit(this);" href="https://www.colorglo-spb.ru/?id=121&rCH=2"         class="btn">Принимаю</a>       </div>     <div class="clr"></div>   </div> </div>     <script type="text/javascript">       function cookiehintfadeOut(el) {         el.style.opacity = 1;         (function fade() {           if ((el.style.opacity -= .1) < 0) {             el.style.display = "none";           } else {             requestAnimationFrame(fade);           }         })();       }         function cookiehintsubmit(obj) {         document.cookie = 'reDimCookieHint=1; expires=Mon, 01 Mar 2027 23:59:59 GMT;57; path=/';         cookiehintfadeOut(document.getElementById('redim-cookiehint-bottom'));         return true;       }        function cookiehintsubmitno(obj) {         document.cookie = 'reDimCookieHint=-1; expires=0; path=/';         cookiehintfadeOut(document.getElementById('redim-cookiehint-bottom'));         return true;       }     </script>  
+</body>
+</html>

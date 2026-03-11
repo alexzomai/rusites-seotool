@@ -1,0 +1,679 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>ПОВАРЁНОК кулинарное искусство</title>
+<meta name="description" content="ПОВАРЁНОК Повара-профессионалы в цехах реально действующей ресторанной кухни научат азам кулинарного искусства, откроют много поварских секретов. Слушателям курсов, успешно сдавшим выпускные экзамены, вручается Свидетельство об окончании школы поваров и присваивается квалификация Повар 4-го разряда" />
+<meta name="keywords" content="ПОВАРЁНОК мир кулинарного искусства школа поваров вкусные полезные блюда рецепт домохозяйка" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name='yandex-verification' content='5083a19995519c74' />
+<meta name="Document-state" content="Dynamic" />
+<meta name="Revizit-after" content="7 days" />
+<meta name="Robots" content="index, follow" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> <!--Принудительное переключение в IE7 -->
+
+<link href="img/my.ico" rel="shortcut icon" type="image/x-icon" />
+<link rel="stylesheet" href="css/pvstyle.css" type="text/css" />
+<link rel="stylesheet" href="css/jquery.treeview.css" />
+<link type="text/css" href="css/prettyPhoto.css" rel="stylesheet" />
+<script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<!--<script src="js/jquery-1.6.4.min.js" type="text/javascript"></script>-->
+<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+$(function(){
+  $("#lightBox a[rel^='prettyPhoto']").prettyPhoto({
+  	theme: 'dark_rounded'
+  });
+});
+-->
+</script>
+</head>
+
+<body>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29618475 = new Ya.Metrika({
+                    id:29618475,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/29618475" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Begin Wrapper -->
+<div id="wrapper">
+		
+	<!-- Begin Header -->
+	<div id="header">
+			<div id="header">
+	
+		<div id="header-1">
+			<div id="header-domen"><a href="index.php"><img src="img/domen.gif" border="0" /></a>
+			</div>
+			<div id="header-today">Сегодня 01 марта, 2026 года. Воскресенье. 22:28</div>
+		</div>
+		
+		<div id="header-2">
+			<div id="header-logo"><a href="index.php"><img src="img/logo.png" border="0" /></a></div>	
+			<div id="header-nazv"><a href="index.php"><img src="img/nazvanie.png" border="0" /></a></div>
+			<div style="margin-top:45px;"><img src="img/telefon3.png" /></div>	
+		</div> 
+		
+		<div id="header-3"><a href="index.php" title="Поварёнок">Главная</a><img src="img/menurazd.gif" width="40" height="30" border="0" align="absmiddle" /><a href="http://about.nouart.ru?idsite=7411" title="Сведения об образовательной организации">Школа</a><img src="img/menurazd.gif" width="40" height="30" border="0" align="absmiddle" /><a href="vkusnaya-zdorovaya-pischa.php" title="О вкусной и здоровой пище">Статьи</a><img src="img/menurazd.gif" width="40" height="30" border="0" align="absmiddle" /><a href="povarennaya-kniga.php" title="Поваренная книга">Поваренная книга</a><img src="img/menurazd.gif" width="40" height="30" border="0" align="absmiddle" /><a href="forum.php" title="Форум кулинаров">Форум</a><img src="img/menurazd.gif" width="40" height="30" border="0" align="absmiddle" /><a href="news.php" title="Новости">Новости</a><img src="img/menurazd.gif" width="40" height="30" border="0" align="absmiddle" /><a href="kontakti.php" title="Контакты">Контакты</a>		</div>
+		
+	</div>
+	</div>
+	<!-- End Header -->
+	
+	<!-- Begin Left column -->
+	<div id="leftcolumn">
+	<div><a href="banner-01.php"><img src="img/banner01.gif" width="205" height="137" alt=""/></a></div><div class="blok_menu_shapka">Для абитуриентов</div>
+
+<div class="blok_menu_telo">
+
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="http://about.nouart.ru?idsite=7411" title="Сведения об образовательной организации">О нашей школе</a></div>
+	</div>
+	
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="foto-povar.php" title="Фото галерея курсов поваров">Фотогалерея</a></div>
+	</div>	
+					
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="kursyi-kulinarii-v-moskve.php" title="Курсы кулинарии в москве">Учебные курсы</a></div>
+	</div>
+	
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="povarskie-kursyi.php" title="Стоимость поварских курсов">Стоимость обучения</a></div>
+	</div>
+	
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="povarskie-kursyi-moskva.php" title="Поварские курсы в Москве">Расписание занятий</a></div>
+	</div>
+
+</div>
+<div class="blok_menu_shapka">Полезная информация</div>
+<div class="blok_menu_telo">
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="obuchenie-povarov.php" title="Обучение поваров. Вопросы">Часто задаваемые вопросы</a></div>
+	</div>
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="obuchenie-trudoustroystvo.php" title="Обучение с трудоустройством в Москве">Трудоустройство</a></div>
+	</div>
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="ischu-povara-moskva.php" title="Ищу повара в Москве">Информация работодателю</a></div>
+	</div>
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="otzyivyi-kursyi-moskva.php" title="Отзывы о курсах в Москве">Книга отзывов</a></div>
+	</div>
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/marker1.gif" /></div>
+		<div id="blok_txt"><a href="kontakti.php" title="Контакты">Контакты</a></div>
+	</div>
+</div>
+<div class="blok_menu_shapka">Свяжитесь с нами:</div>
+<div class="blok_menu_telo">
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/korzina2.gif" width="10" height="10" /></div>
+		<div id="blok_txt"><a href="zapis-na-kursi.php?idk=" title="Запишитесь на курсы">Запишитесь на курсы</a></div>
+	</div>
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/telefon2.gif" width="11" height="8" /></div>
+		<div id="blok_txt"><a href="zakazhi-zvonok.php" title="Закажите звонок из офиса">Закажите звонок из офиса</a></div>
+	</div>
+	<div id="blok_menu">
+		<div id="blok_marker1"><img src="img/mail2.gif" width="11" height="8" /></div>
+		<div id="blok_txt"><a href="otpochta.php" title="Отправьте e-mail в офис">Отправьте e-mail в офис</a></div>
+	</div>
+</div>
+	
+</div>
+            
+	<!-- End Left column -->
+	
+	<!-- Begin Main -->
+	<div id="main">
+	
+		<!-- Begin Content -->
+		<div id="content">
+			<div class="innertube">
+				<h1>Добро пожаловать на ПОВАРЁНОК.РФ – в мир кулинарного искусства!</h1>
+				<div id="lightBox" class="leftimage">
+				<a rel="prettyPhoto[mixed]" href="foto/foto01.jpg" title="На занятиях в школе кулинарии"><img src="foto/foto01s.jpg" alt="" width="133" height="100" border="0" /></a>
+				</div>
+				<p>Интернет-ресурс ПОВАРЁНОК.РФ – это широко  распахнутая дверь в мир кулинарного искусства. Если Вы мечтаете научиться  готовить вкусные и полезные блюда, то на данном ресурсе найдете всю необходимую  информацию для самостоятельного овладения основами поварского мастерства. Если  же этого недостаточно, к Вашим услугам <a href="shkola-povarov.php" title="Школа поваров">Школа поваров</a>, занятия в которой  проводятся на базе действующих предприятий общественного питания.</p>
+				<p>В Школу поваров на курсы кулинарного искусства приглашаются  все желающие. Повара-профессионалы в цехах реально действующей ресторанной кухни  не просто научат азам кулинарии, но и откроют большое количество поварских  секретов. Слушателям курсов, успешно сдавшим выпускные экзамены, вручается Свидетельство  установленного образца об окончании обучения и присваивается квалификация «Повар  4-го разряда».</p>
+				<p>База сайта ПОВАРЁНОК.РФ содержит огромное количество  рецептов блюд. Данная база – это электронная <a href="povarennaya-kniga.php" title="Поваренная книга">Поваренная книга</a>, объединяющая секреты  кулинарного искусства различных национальных кухонь. Даже самая требовательная  домохозяйка найдет в этой книге подробный рецепт приготовления любого  известного блюда, причем в нескольких вариантах.</p>
+				<h2>Последние новости</h2>
+<div id="newsindex">
+	<div id="img133x100">
+		<a href="news-blank.php?id_news=7"><img src="get.php?x=7" width="130" height="97" border="0" /></a>	
+	</div>
+	<div class="zagnewsindex">
+		Новый курс «Менеджер ресторана (метрдотель)»...	</div>
+	<div class="datanewsindex">10.04.2012</div>
+	<div class="txtnewsindex">
+		Школа поваров объявляет о начале набора абитуриентов на курсы менеджеров ресторана (метрдотелей). Метрдотель  – это сотрудник ресторана, главной задачей которого я...	</div>
+	<div class="daleenewsindex"><a href="news-blank.php?id_news=7">далее...</a></div>
+</div>
+
+<div id="newsindex">
+	<div id="img133x100">
+		<a href="news-blank.php?id_news=6"><img src="get.php?x=6" width="130" height="97" border="0" /></a>	
+	</div>
+	<div class="zagnewsindex">
+		Ученые разработали способ «обезвредить» рецепт приготовления картофеля фри...	</div>
+	<div class="datanewsindex">02.03.2012</div>
+	<div class="txtnewsindex">
+		Норвежские ученые разработали способ «обезвредить» считающийся небезопасным для здоровья продуктом картофель фри, избавив его от канцерогенного и токсичного вещест...	</div>
+	<div class="daleenewsindex"><a href="news-blank.php?id_news=6">далее...</a></div>
+</div>
+
+<div id="newsindex">
+	<div id="img133x100">
+		<a href="news-blank.php?id_news=5"><img src="get.php?x=5" width="130" height="97" border="0" /></a>	
+	</div>
+	<div class="zagnewsindex">
+		Новый курс «Кулинария для домохозяек»...	</div>
+	<div class="datanewsindex">09.02.2012</div>
+	<div class="txtnewsindex">
+		Школа поваров объявляет о начале набора абитуриентов для обучения на новом курсе «Кулинария для домохозяек». Программа курса разработана для обучения ...	</div>
+	<div class="daleenewsindex"><a href="news-blank.php?id_news=5">далее...</a></div>
+</div>
+
+				<p>&nbsp;</p>
+<h2>Новые рецепты</h2>
+
+
+
+	<div id="receptindex">
+	
+			<div id="img133x100">
+				<a href="retsept.php?id_retsept=1843" title="Каша малаша"><img src="img/noimg.jpg" width="131" height="98" border="0" /></a>	
+			</div>
+		
+		<div class="zagreceptindex"><a href="retsept.php?id_retsept=1843" title="Каша малаша">Каша малаша</a></div>
+		
+		
+		
+		<div class="opisreceptindex">
+			Смешать ингредиенты.Поставить в микроволновую печь на 2:00 минуты, 900 градусов....		</div>
+		
+		<div class="preceptindex"><a href="retsept.php?id_retsept=1843" title="Каша малаша">далее...</a></div>
+		
+	</div>
+
+	
+
+	<div id="receptindex">
+	
+			<div id="img133x100">
+				<a href="retsept.php?id_retsept=1842" title="Домашний торт Птичье молоко"><img src="imguser/admin_1402945295.jpg" width="133" height="100" border="0" /></a>	
+			</div>
+		
+		<div class="zagreceptindex"><a href="retsept.php?id_retsept=1842" title="Домашний торт Птичье молоко">Домашний торт Птичье молоко</a></div>
+		
+		
+		
+		<div class="opisreceptindex">
+			В настоящее время в кулинарных отделах магазинов такое разнообразие различных тортов, что глаза разбегаются. А раньше ассортимент тортов был очень небольшой. Торт Птичье молоко в продаже появлялся крайне редко, но кто ...		</div>
+		
+		<div class="preceptindex"><a href="retsept.php?id_retsept=1842" title="Домашний торт Птичье молоко">далее...</a></div>
+		
+	</div>
+
+	
+
+	<div id="receptindex">
+	
+			<div id="img133x100">
+				<a href="retsept.php?id_retsept=1841" title="Булочки с фруктовой начинкой"><img src="imguser/admin_1402943687.jpg" width="133" height="100" border="0" /></a>	
+			</div>
+		
+		<div class="zagreceptindex"><a href="retsept.php?id_retsept=1841" title="Булочки с фруктовой начинкой">Булочки с фруктовой начинкой</a></div>
+		
+		
+		
+		<div class="opisreceptindex">
+			Приготовить дрожжевое сдобное тесто на опаре. Когда тесто поднимется в последний раз, разделить его на небольшие шарики, слегка их приплюснуть и дать расстояться 15-20 минут.Яблоки, груши и айву очистить от кожицы и сердц...		</div>
+		
+		<div class="preceptindex"><a href="retsept.php?id_retsept=1841" title="Булочки с фруктовой начинкой">далее...</a></div>
+		
+	</div>
+
+				
+			</div>
+		</div>
+		<!-- End Content -->
+		
+	</div>
+	<!-- End Main -->
+	
+	<!-- Begin Right column -->
+	<div id="rightcolumn">
+		<div class="blok_menu_shapka">Вход для поварят</div>
+	<div class="blok_menu_telo">
+	
+			<br />
+			<div id="user">
+			<form action="obr/obr-user-ent.php" method="post">
+				<label>Поварёнок</label>
+				<input type="text" name="log_user" style="margin-left: 5px; margin-top: 0px; width: 90px; height:14px; font-family: Arial; font-size: 11px; color: #4A5C6A; ">
+				<br>
+				<label>Пароль</label>
+				<input type="password" name="pas_user" style="margin-left: 25px; margin-top: 8px; width: 90px; height:14px; font-family: Arial; font-size: 11px; color: #4A5C6A; ">
+				<br>
+				<!--<input type="image" src="img/vxod_up.gif" id="butt"> -->
+				<label>
+				<input type="submit" name="Submit" value="Войти" style="margin-top:12px;"/>
+				</label>
+			</form>
+			</div>
+				
+		<div id="regvost">
+			<a href="vostpas.php" title="Новый пароль">Забыли пароль?</a><br>
+			<a href="reguser.php" title="Зарегистрироваться">Зарегистрироваться</a>	
+	  </div>
+	</div>
+<div class="blok_menu_shapka">Поваренная книга</div>
+<div class="blok_menu_telo">
+	<div id="povknigamenu">
+		<!--<link rel="stylesheet" href="css/jquery.treeview.css" /> -->
+<!--<link rel="stylesheet" href="css/screen.css" /> -->
+	
+<!--<script src="js/jquery.js" type="text/javascript"></script> -->
+<script src="js/jquery.cookie.js" type="text/javascript"></script>
+<script src="js/jquery.treeview.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	
+		$(document).ready(function(){
+			
+			// first example
+			$("#browser").treeview(
+			{
+				animated: "fast",
+				collapsed: true,
+				unique: false,
+				persist: "cookie"
+    		});
+		});	
+
+</script>
+
+<ul id="browser" class="filetree">
+
+			<li><span class="folder">Первые блюда</span>
+					
+			<ul>
+				<li><span class="folder">Горячие супы</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=1" title="СОЛЯНКА РЕЦЕПТ приготовлении солянки лук нарезать пассировать томатом"><span class="file">Солянки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=2" title="БОРЩ  распространенное первое блюдо"><span class="file">Борщ</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=43" title="БУЛЬОНЫ овощные мясные рыбные куриные"><span class="file">Бульоны</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=87" title="РАССОЛЬНИКИ готовятся костном мясном бульоне огурцами картофелем"><span class="file">Рассольники</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=89" title="ПРИГОТОВЛЕНИЕ УХИ свежевыловленной рыбы важно правильно сварить бульон"><span class="file">Приготовление ухи</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=85" title="ЩИ приготовление щей является основным занятием русских хозяек"><span class="file">Щи</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=90" title="СУП-ПЮРЕ И КРЕМ-СУП продукты варят припускают готовности протирают"><span class="file">Суп-пюре и крем-суп </span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Холодные супы</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=4" title="ОКРОШКИ готовят на хлебном квасе, свекольном отваре, простокваше"><span class="file">Окрошки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=5" title="СВЕКОЛЬНИК яблочная щавелевая кислоты придают супу изысканный вкус"><span class="file">Свекольник, ботвинья</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=28" title="СЛАДКИЕ СУПЫ плодов ягод соков сиропов подают варениками пудингами"><span class="file">Cладкие супы</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+						
+		</li>
+				<li><span class="folder">Основные блюда</span>
+					
+			<ul>
+				<li><span class="folder">Блюда из мяса</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=3" title="БЛЮДА ИЗ ГОВЯДИНЫ приготовленные одним куском всегда вкуснее"><span class="file">Блюда из говядины</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=6" title="СВИНИНА важнейших популярнейших видов мяса"><span class="file">Блюда из свинины</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=7" title="ТЕЛЯТИНА источник полноценного белка питании больного"><span class="file">Блюда из телятины</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=29" title="БЛЮДА ИЗ РАЗНОГО МЯСА мясные запеканки рулеты фаршированные овощи"><span class="file">Блюда из разного мяса и смешанного фарша</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=30" title="БАРАНИНА издавна пользуется большой популярностью особенно селе "><span class="file">Блюда из баранины</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=111" title="СУБПРОДУКТЫ используют изготовлении различных кулинарных изделий"><span class="file">Субпродукты</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Блюда из макарон и круп</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=8" title="РИC один из самых популярных злаков в мире"><span class="file">Блюда из риса</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=9" title="БЛЮДА ИЗ МАКАРОН калорийны вкусны и быстро приготавливаются"><span class="file">Блюда из макарон</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=91" title="БЛЮДА ИЗ БОБОВЫХ используют качестве гарнира мясу рыбе самостоятельное"><span class="file">Блюда из бобовых</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=31" title="ГРЕЧКА содержит витамин B в больших количествах"><span class="file">Блюда из гречки</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Блюда из овощей и грибов</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=114" title="БЛЮДА ИЗ ГРИБОВ просто необходимы домашнем меню"><span class="file">Блюда из грибов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=103" title="БЛЮДА ИЗ КАРТОФЕЛЯ отваренного картофеля сделать прекрасный гарнир"><span class="file">Блюда из картофеля</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=104" title="БЛЮДА ИЗ БАКЛАЖАНОВ овощей можно приготовить много блюд"><span class="file">Блюда из баклажанов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=108" title="БЛЮДА ИЗ КАБАЧКОВ патиссонов цуккини сочетании другими овощами"><span class="file">Блюда из кабачков, цуккини и патиссонов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=109" title="БЛЮДА ИЗ ТЫКВЫ какие блюда приготовить вообще представляют плохо"><span class="file">Блюда из тыквы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=106" title="БЛЮДА ИЗ КАПУСТЫ незаменимы рациональном диетическом питании"><span class="file">Блюда из капусты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=107" title="БЛЮДА ИЗ РАЗНЫХ ОВОЩЕЙ вкус зависит сочетания различных овощей"><span class="file">Блюда из разных овощей</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Блюда из птицы</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=44" title="БЛЮДА ИЗ КУРИЦЫ"><span class="file">Блюда из курицы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=48" title="БЛЮДА ИЗ ИНДЕЙКИ"><span class="file">Блюда из индейки</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Блюда из рыбы</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=45" title="БЛЮДА ИЗ ТРЕСКИ обладают специфическим ароматом моря кисловатым вкусом"><span class="file">Блюда из трески</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=46" title="БЛЮДА ИЗ ФОРЕЛИ"><span class="file">Блюда из форели</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=47" title="БЛЮДА ИЗ КАРПА"><span class="file">Блюда из карпа</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+						
+		</li>
+				<li><span class="folder">Закусочные блюда</span>
+					
+			<ul>
+				<li><span class="folder">Бутерброды</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=10" title="ГОРЯЧИЕ БУТЕРБРОДЫ приготавливаются поджаренном куске хлеба горячем"><span class="file">Горячие бутерброды</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=11" title="ОТКРЫТЫЕ БУТЕРБРОДЫ представляют собой ломтик хлеба котором колбаса"><span class="file">Открытые бутерброды</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=32" title="ЗАКРЫТЫЕ БУТЕРБРОДЫ сэндвичи гамбургеры чизбургеры добавляются соусы"><span class="file">Закрытые бутерброды</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=49" title="КАНАПЕ закусочные бутерброды фуршетные бутерброды"><span class="file">Канапе</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=50" title="СЛАДКИЕ БУТЕРБРОДЫ роль дополняющих продуктов выполняют джемы варенья"><span class="file">Сладкие бутерброды</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=94" title="СЛОЖНЫЕ БУТЕРБРОДЫ приготавливаются непосредственно перед потреблением"><span class="file">Сложные бутерброды</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Салаты</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=12" title="САЛАТЫ ИЗ ОВОЩЕЙ И ГРИБОВ приготавливаются свежих соленых овощей грибы"><span class="file">Салаты из овощей и грибов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=13" title="СЛАДКИЕ САЛАТЫ фруктов ягод можно подавать десерт сливками сметаной"><span class="file">Сладкие салаты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=33" title="ВИНЕГРЕТ непременным компонентом приготовления является вареная свекла"><span class="file">Винегреты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=34" title="МЯСНЫЕ САЛАТЫ приготавливаются вареного жареного мяса свежими овощами"><span class="file">Мясные салаты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=35" title="САЛАТЫ ИЗ РЫБЫ И МОРЕПРОДУКТОВ становятся популярны легко усваиваются"><span class="file">Салаты из рыбы и морепродуктов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=86" title="САЛАТЫ ИЗ ПТИЦЫ распространенный любимый всеми вид салатов"><span class="file">Салаты из птицы</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Закуски</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=37" title="ЗАКУСКИ ИЗ МЯСА приготавливаются вареного жареного заливного мяса"><span class="file">Закуски из мяса и птицы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=38" title="ЗАКУСКИ ИЗ ОВОЩЕЙ и грибов могут заменить гарниры хорошо усваиваются"><span class="file">Закуски из овощей и грибов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=39" title="ЗАКУСКИ ИЗ РЫБЫ и морепродуктов становятся более популярными"><span class="file">Закуски из рыбы и морепродуктов</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=95" title="ИКРА ПАШТЕТЫ можно использовать качестве вкусового дополнения мясу"><span class="file">Икра паштеты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=92" title="БЛЮДА ИЗ ЯИЦ разнообразны вкусу виду способу приготовления"><span class="file">Блюда из яиц</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=113" title="НЕОБЫЧНЫЕ И ОРИГИНАЛЬНЫЕ ЗАКУСКИ простых доступных продуктов"><span class="file">Необычные и оригинальные закуски и блюда</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Соусы</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=65" title="ГОРЯЧИЕ СОУСЫ ГОТОВЯТ готовят на сильно концентрированных бульонах"><span class="file">Горячие соусы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=66" title="ХОЛОДНЫЕ СОУСЫ самый распространенный  способ сочетания продуктов"><span class="file">Холодные соусы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=67" title="СЛАДКИЕ СОУСЫ необычным экзотическим вкусом кондитерскими добавками"><span class="file">Сладкие соусы </span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+						
+		</li>
+				<li><span class="folder">Изделия из теста, выпечка</span>
+					
+			<ul>
+				<li><span class="folder">Закусочная выпечка</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=14" title="БЛИНЫ  оладьи можно печь с различными приправами"><span class="file">Блины, оладьи</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=15" title="ПИРОГИ являются традиционным блюдом будут приятным и вкусным завтраком"><span class="file">Пироги</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=51" title="ПИЦЦА пользуется популярностью во всем мире"><span class="file">Пицца</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=58" title="РУЛЕТЫ приготавливаются ломтика мяса теста которое завернута начинка"><span class="file">Рулеты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=96" title="ПИРОЖКИ многолетняя традиция для праздничных столов"><span class="file">Закусочные пирожки и булочки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=93" title="ЗАПЕКАНКИ бывают творожные фруктово ягодные мясные рыбные курицей"><span class="file">Запеканки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=112" title="ЗАКУСОЧНЫЕ ШТРУДЕЛИ кроме десертных штруделей приготавливают также"><span class="file">Закусочные штрудели</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Сладкая выпечка и кондитерские изделия из различных видов теста</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=16" title="ПЕСОЧНОЕ ТЕСТО приготавливается из масла сахара яиц муки"><span class="file">Изделия из песочного теста</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=17" title="ИЗДЕЛИЯ ИЗ БИСКВИТНОГО ТЕСТА дополнение чаю кофе другим напиткам"><span class="file">Изделия из бисквитного теста</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=102" title="ПЕЧЕНЬЕ КРЕКЕРЫ ГАЛЕТЫ приготавливаются основном пшеничной муки"><span class="file">Печенье, крекеры, галеты</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=54" title="ИЗДЕЛИЯ ИЗ МАСЛЯНОГО БИСКВИТА отличаются большой сдобностью"><span class="file">Изделия из масляного бисквита</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=61" title="ПРЯНИКИ медом обладают сильным ароматом"><span class="file">Пряники</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=57" title="ИЗДЕЛИЯ ИЗ ЗАВАРНОГО ТЕСТА наполняют кремом взбитыми сливками"><span class="file">Изделия из заварного теста</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=62" title="ИЗДЕЛИЯ ИЗ СЛОЕНОГО ТЕСТА легкие пышные пресные со сладкой начинкой"><span class="file">Изделия из слоеного теста</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=97" title="СЛАДКИЕ ПИРОГИ одно из самых распространенных блюд для чаепития"><span class="file">Сладкие пироги</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=98" title="СЛАДКИЕ ПИРОЖКИ И БУЛОЧКИ блюдо дружеского праздничного чаепития"><span class="file">Сладкие пирожки и булочки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=99" title="КЕКСЫ КУЛИЧИ выпекают бисквитного дрожжевого иногда миндального теста"><span class="file">Кексы, куличи, коврижки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=100" title="РЕЦЕПТЫ ТОРТОВ В ДОМАШНИХ УСЛОВИЯХ собранные разнообразных источников"><span class="file">Рецепты тортов в домашних условиях</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=101" title="РУЛЕТ И ШТРУДЕЛЬ удовольствием готовят родным хозяйки любой кухни"><span class="file">Рулет и штрудель</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Начинки, кремы, глазури</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=68" title="НАЧИНКИ фарши для пирогов и пирожков кулебяк рулетов"><span class="file">Начинки и фарши для пирогов и пирожков</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=69" title="КРЕМ пышная масса яиц масла сливок сметаны сахарной пудры какао"><span class="file">Кремы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=70" title="ЖЕЛЕ используется для украшения тортов пирожных"><span class="file">Желе</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=71" title="СИРОПЫ ГЛАЗУРИ приготавливаются сахара воды ароматизаторов соков"><span class="file">Сиропы и глазури</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Рецепты теста</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=59" title="ДРОЖЖЕВОЕ ТЕСТО можно приготовить тремя способами"><span class="file">Дрожжевое тесто</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=60" title="ВИДЫ ТЕСТА приготовленные своими руками"><span class="file">Разные виды теста</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+						
+		</li>
+				<li><span class="folder">Десерты, напитки</span>
+					
+			<ul>
+				<li><span class="folder">Сладкие блюда</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=22" title="ЖЕЛЕ приготавливают из фруктовых и ягодных соков"><span class="file">Желе</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=23" title="МУСС готовят из фруктово-ягодных соков яблочного или абрикосового пюре"><span class="file">Мусс и самбук</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=63" title="МОРОЖЕНОЕ питательное и вкусное блюдо"><span class="file">Мороженое</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=64" title="ПАРФЕ особая разновидность мороженого"><span class="file">Парфе</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Конфеты</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=24" title="КАРАМЕЛЬ ИРИС ЛЕДЕНЦЫ различные веселые вкусные маленькие конфетки"><span class="file">Карамель,  ирис, леденцы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=25" title="МАРМЕЛАД КАРАМЕЛЬ приготавливается свежих фруктов ягод фруктового пюре"><span class="file">Мармелад</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=77" title="КОНФЕТЫ В ДОМАШНИХ УСЛОВИЯХ сладости можно красиво паковать подарить"><span class="file">Сладости и конфеты в домашних условиях</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=78" title="ШОКОЛАДНЫЕ КОНФЕТЫ самые любимые популярные конфеты среди людей"><span class="file">Шоколадные конфеты</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Напитки</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=72" title="БЕЗАЛКОГОЛЬНЫЕ НАПИТКИ овощей фруктов ягод настоев трав "><span class="file">Безалкогольные напитки</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=73" title="АЛКОГЛЬНЫЕ НАПИТКИ больших количествах оказывают пагубное воздействие"><span class="file">Алкогольные напитки</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+						
+		</li>
+				<li><span class="folder">Домашние заготовки</span>
+					
+			<ul>
+				<li><span class="folder">Консервированные овощи</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=74" title="ОГУРЕЦ является существенным источником минеральных солей"><span class="file">Огурцы</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=79" title="ПОМИДОРЫ принадлежат семейству пасленовых родом Америки"><span class="file">Помидоры</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=80" title="КАПУСТА самая популярная овощная культура в Европе"><span class="file">Капуста</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=81" title="ТЫКВА КАБАЧКИ ПАТИССОНЫ баклажаны небольшим содержанием клетчатки"><span class="file">Тыква, кабачки, патиссоны, баклажаны</span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+					
+			<ul>
+				<li><span class="folder">Консервированные фрукты и ягоды</span>
+					<ul id="folder21">
+											<li><a href="spisok-retseptov.php?spisok_retseptov=82" title="ВАРЕНЬЕ продукт полученный путем варки плодов ягод сахаром"><span class="file">Варенье</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=83" title="ПОВИДЛО продукт полученный путем уваривания фруктового ягодного пюре"><span class="file">Повидло</span></a></li>
+												<li><a href="spisok-retseptov.php?spisok_retseptov=84" title="ДЖЕМ продукт полученный путем уваривания плодов ягод состояния желе"><span class="file">Джем </span></a></li>
+												
+					</ul>
+				</li>
+			</ul>
+						
+		</li>
+		
+</ul>	</div>
+</div>	<!-- end blok_menu_telo -->
+<div class="blok_menu_shapka">Поиск по сайту</div>
+<div class="blok_menu_telo">
+
+		<div style="margin-top:10px;">
+		<div class="ya-site-form ya-site-form_inited_no" onclick="return {'bg': '#f5f5f5', 'target': '_blank', 'language': 'ru', 'suggest': true, 'tld': 'ru', 'site_suggest': true, 'action': 'http://XN--80ADZLCDCL7M.XN--P1AI/rezpoisk.php', 'webopt': false, 'fontsize': 12, 'arrow': false, 'fg': '#000000', 'searchid': '1890280', 'logo': 'rb', 'websearch': false, 'type': 3}"><form action="http://yandex.ru/sitesearch" method="get" target="_blank"><input type="hidden" name="searchid" value="1890280" /><input type="hidden" name="l10n" value="ru" /><input type="hidden" name="reqenc" value="" /><input type="text" name="text" value="" /><input type="submit" value="Найти" /></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;(' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1&&(e.className+=' ya-page_js_yes');s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+  		</div>
+			
+
+		
+
+</div>	<!-- end blok_menu_telo -->
+	
+</div>	<!-- End Right column -->
+	
+	<!-- Begin Footer -->
+	<div id="footer">
+
+  <div id="levcol-1">
+		<a href="index.php" title="Поварёнок">Главная</a> | <a href="http://about.nouart.ru?idsite=7411" title="Сведения об образовательной организации">Сведения об образовательной организации</a> | <a href="vkusnaya-zdorovaya-pischa.php" title="О вкусной и здоровой пище">Статьи</a> | <a href="povarennaya-kniga.php" title="Поваренная книга">Поваренная книга</a> | <a href="forum.php" title="Форум кулинаров">Форум кулинаров</a> | <a href="news.php" title="Новости">Новости</a> | <a href="kontakti.php" title="Контакты">Контакты</a>	</div>
+
+	<div id="niz">
+		<div id="topmail"><!--Rating@Mail.ru counter-->
+<script language="javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=2128112" target="_top">'+
+'<img src="http://d8.c7.b0.a2.top.mail.ru/counter?id=2128112;t=99;js='+js+
+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+
+'height="18" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--></script>
+<noscript><a target="_top" href="http://top.mail.ru/jump?from=2128112">
+<img src="http://d8.c7.b0.a2.top.mail.ru/counter?js=na;id=2128112;t=99" 
+height="18" width="88" border="0" alt="Рейтинг@Mail.ru"></a></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+</div>
+		<div id="maincop">
+			<div id="copyright">Copyright © 2010-2026, ПОВАРЁНОК.РФ, г.Москва BG</div>
+		</div>
+		<div id="liveinternet"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script><!--/LiveInternet-->
+</div>
+	</div>
+	
+</div>
+	<!-- End Footer -->
+		
+</div>
+
+</body>
+</html>

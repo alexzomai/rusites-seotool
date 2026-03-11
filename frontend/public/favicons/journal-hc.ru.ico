@@ -1,0 +1,1802 @@
+
+<!doctype html>
+<html lang="ru-ru" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="canonical" href="https://journal-hc.ru/index.php/ru/">
+        <base href="https://journal-hc.ru/index.php/ru/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Журнал &quot;Жилищное строительство&quot;</title>
+	<link href="https://journal-hc.ru/index.php/ru/" rel="alternate" hreflang="ru-RU" />
+	<link href="https://journal-hc.ru/index.php/en/" rel="alternate" hreflang="en-GB" />
+	<link href="/templates/shaper_helixultimate/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" type="text/css" />
+	<link href="https://journal-hc.ru/modules/mod_responsive_scroller_for_articles/assets/css/core.css" rel="stylesheet" type="text/css" />
+	<link href="https://journal-hc.ru/modules/mod_responsive_scroller_for_articles/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://journal-hc.ru/modules/mod_responsive_scroller_for_articles/assets/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/bdthemes_shortcodes/shortcodes/heading/css/heading.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helixultimate/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helixultimate/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helixultimate/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/shaper_helixultimate/css/presets/default.css" rel="stylesheet" type="text/css" />
+	<link href="https://journal-hc.ru/modules/mod_bt_smartsearch/tmpl/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="https://journal-hc.ru/modules/mod_bt_smartsearch/tmpl/css/chosen.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_finder/css/finder.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/bdthemes_shortcodes/shortcodes/button/css/button.css" rel="stylesheet" type="text/css" />
+	<link href="/media/mod_languages/css/template.css?eb1d344629282e8762f214746b25f942" rel="stylesheet" type="text/css" />
+	<link href="/media/sourcecoast/css/sc_bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/media/sourcecoast/css/common.css" rel="stylesheet" type="text/css" />
+	<link href="/media/sourcecoast/themes/sclogin/default.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+
+#rsca-137 .rsca-item { 
+		margin-right: 8px;
+		margin-left: 8px;
+	}
+#suhead69a491b74f242.su-heading {width: 100%;}
+#suhead69a491b74f242.su-heading .su-heading-inner {font-size: 16px; color: inherit;line-height: 16px;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523897128214{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523897128301{padding-top:10px;padding-right:5px;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#sppb-addon-1524041912017 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523897128303 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}.sp-page-builder .page-content #section-id-1523963851848{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523963851848{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523963851847{box-shadow:0 0 0 0 #fff;}#sppb-addon-1525188546213 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1524047429488 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}body.site {background-image: url(/images/fon/fon_b_4.jpg);background-repeat: no-repeat;background-size: inherit;background-attachment: fixed;background-position: 0 0;}@media all and (max-width:400px){
+/*модули правый и левый*/
+#sp-left {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: -50px;
+    margin-bottom: 20px!important;
+    padding-top: 20px!important;
+}
+#sp-right {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: 20px!important;
+    margin-bottom: -50px;
+    padding-top: 20px!important;
+}
+
+/*модули правый и левый конец*/
+/*логин*/
+
+#outerLP_110 {
+    padding: 5px 0px 5px 5px;
+    width: 100px!important;
+}
+/*заголовок */
+#sp-header {
+    height: 100px!important;
+    padding: 10px 0 0 0!important;
+}
+.container {
+    padding-right: 10px!important;
+    padding-left: 10px!important;
+}
+/*расположение меню*/
+body.ltr .offcanvas-toggler-right#offcanvas-toggler {
+    float: left;
+    margin-left: 0px;
+}
+#offcanvas-toggler {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+#offcanvas-toggler > .fa {
+    color: #F3CB9A;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active{
+color:#FCF2E6;
+}
+
+/*расположение флажков*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: -35px 0 0 0;
+    padding: 0;
+    float: right;
+}
+
+}
+@media all and (max-width:465px){
+/*модули правый и левый*/
+#sp-left {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: -50px;
+    margin-bottom: 20px!important;
+    padding-top: 20px!important;
+}
+#sp-right {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: 20px!important;
+    margin-bottom: -50px;
+    padding-top: 20px!important;
+}
+/*модули правый и левый конец*/
+/*логин*/
+
+#outerLP_110 {
+    float: none;
+    margin-top: 10px;
+}
+
+#outerLP_110 {
+    padding: 5px 0px 5px 5px;
+    width: 100px!important;
+}
+/*расположение меню*/
+body.ltr .offcanvas-toggler-right#offcanvas-toggler {
+    float: left;
+     margin-left: 0px;
+}
+#offcanvas-toggler {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+#offcanvas-toggler > .fa {
+    color: #F3CB9A;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active{
+color:#FCF2E6;
+}
+/*заголовок */
+#sp-header {
+    height: 100px!important;
+    padding: 10px 0 0 0!important;
+}
+.container {
+    padding-right: 10px!important;
+    padding-left: 10px!important;
+}
+/*расположение флажков*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: -35px 0 0 0;
+    padding: 0;
+    float: right;
+}
+
+}
+@media all and (max-width:570px){
+/*модули правый и левый*/
+#sp-left {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: -50px;
+    margin-bottom: 20px!important;
+    padding-top: 20px!important;
+}
+#sp-right {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: 20px!important;
+    margin-bottom: -50px;
+    padding-top: 20px!important;
+}
+/*модули правый и левый конец*/
+/*логин*/
+#outerLP_110 {
+    float: left;
+    margin-top: 10px;
+}
+
+#outerLP_110 {
+    padding: 5px 0px 5px 5px;
+    width: 100px!important;
+}
+/*расположение меню*/
+body.ltr .offcanvas-toggler-right#offcanvas-toggler {
+    float: left;
+     margin-left: 0px;
+}
+#offcanvas-toggler {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+#offcanvas-toggler > .fa {
+    color:#F3CB9A;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active{
+color:#FCF2E6;
+}
+/*заголовок */
+#sp-header {
+    height: 100px!important;
+    padding: 10px 0 0 0!important;
+}
+.container {
+    padding-right: 10px!important;
+    padding-left: 10px!important;
+}
+/*расположение флажков*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: -35px 0 0 0;
+    padding: 0;
+    float: right;
+}
+
+}
+@media all and (max-width:575px){
+
+}
+@media all and (min-width:576px){
+
+/*логин*/
+#outerLP_110 {
+    float: left;
+    margin-top: 10px;
+}
+
+#outerLP_110 {
+    padding: 5px 0px 5px 5px;
+    width: 100px!important;
+}
+/*расположение меню*/
+body.ltr .offcanvas-toggler-right#offcanvas-toggler {
+    float: left;
+    margin-left: 0px;
+}
+#offcanvas-toggler {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+#offcanvas-toggler > .fa {
+    color: #F3CB9A;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active{
+color:#FCF2E6;
+}
+/*расположение флажков*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: -35px 0 0 0;
+    padding: 0;
+    float: right;
+}
+}
+@media all and (max-width:767px){
+/*модули правый и левый*/
+#sp-left {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+      /* margin-top: -50px;*/
+     margin-top: 0px;
+    margin-bottom: 20px!important;
+    padding-top: 20px!important;
+}
+#sp-right {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    margin-top: 20px!important;
+    margin-bottom: -50px;
+    padding-top: 0px!important;
+}
+/*модули правый и левый конец*/
+}
+@media all and (min-width:768px){
+
+/*расположение меню*/
+body.ltr .offcanvas-toggler-right#offcanvas-toggler {
+    float: left;
+     margin-left: 0px;
+}
+#offcanvas-toggler {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+#offcanvas-toggler > .fa {
+    color: #F3CB9A;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active{
+color:#FCF2E6;
+}
+/*расположение флажков*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: -35px 0 0 0;
+    padding: 0;
+    float: right;
+}
+}
+
+@media all and (min-width:992px){
+
+/*расположение меню*/
+body.ltr .offcanvas-toggler-right#offcanvas-toggler {
+    float: left;
+    /*margin-left: 20px;*/
+}
+#offcanvas-toggler {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    font-size: 30px;
+}
+#offcanvas-toggler > .fa {
+    color: #F3CB9A;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active{
+color:#FCF2E6;
+}
+/*расположение флажков*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: -35px 0 0 0;
+    padding: 0;
+    float: right;
+}
+}
+@media all and (min-width:1200px){
+
+}
+
+@media all and (min-width:1200px){
+
+}
+/*заголовок*/
+#sp-header {
+    height: 160px;
+    left: 0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+    z-index: 99;
+    box-shadow: 0px 0px 0px 0px;
+}
+.logo-image {
+    height: 100px;
+    width: auto;
+}
+/*заголовок конец */
+
+/*главное меню*/
+.sp-megamenu-parent {
+    list-style: none;
+    padding: 0;
+    margin: 0 -15px;
+    z-index: 99;
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.sp-megamenu-parent > li:hover > a {
+    background: #F3CB9A;
+}
+
+.sp-megamenu-parent > li > a {
+    color: #252525;
+}
+.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span {
+    display: inline-block;
+    padding: 0 15px;
+    line-height: 40px;
+    font-size: 15px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+/*боковые модули конец*/
+
+/*субменю*/
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+    background: #000;
+}
+
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.2);
+    padding: 3px 0 3px 10px;
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner:hover {
+    background: #FF0000;
+}
+
+/*субменю конец*/
+/*главное меню конец*/
+/*флажки*/
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.sp-module-content .mod-languages ul.lang-inline {
+    margin: 5px 0 0 0;
+    padding: 0;
+    float: right;
+}
+
+/*конец флажков*/
+/*логин*/
+
+div.row {
+    border: 0 !important;
+    margin: 0 0px 0 0 !important;
+    padding: 0px !important;
+}
+#patternLP_110 {
+    padding: 0px;
+}
+.control-group {
+    margin-bottom: 0.2rem;
+}
+.buttonlg {
+float: right;
+text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #F3CB9A;
+	padding: 2px 5px;
+	background: #542B1B;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #542B1B;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,1);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.7),
+		0px 1px 0px rgba(255,255,255,0.3);
+
+}
+.buttonlg:hover {
+    opacity:1;
+    background: #542B1B;
+bottom,from(#8a0f0f),to(#e60c00));
+	
+}
+
+#outerLP_110 {
+    padding: 5px 0px 5px 5px;
+    float: right;
+    width: 120px;
+}
+#LP_110modlgn-username, #LP_110modlgn-passwd, #LP_110notpass, #login-formx1 .userdata label {
+    font-size: 12px;
+    height: 1.4em;
+}
+input[type='text']:not(.form-control), input[type='email']:not(.form-control), input[type='url']:not(.form-control), input[type='date']:not(.form-control), input[type='password']:not(.form-control), input[type='search']:not(.form-control), input[type='tel']:not(.form-control), input[type='number']:not(.form-control), select:not(.form-control) {
+    display: block;
+    padding: 0.2rem 0.35rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #000;
+    background-color: #f8e0c3;
+    background-image: none;
+    background-clip: border-box;
+    border: 1px solid /*rgba(0, 0, 0, .15)*/#F6D7B1;
+    border-radius: 0.15rem;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+div#loginplusLP_110 {
+    overflow: visible;
+
+}
+.login-greetingx {
+    font-size: 0px;
+}
+/*логин конец*/
+/*разное_________________*/
+.container {
+    max-width: none!important;
+}
+.sp-module-content .mod-languages ul.lang-inline li {
+    border: none;
+    display: inline-block;
+    margin: 0 0px 0 0;
+}
+/*майн боди*/
+#sp-main-body {
+    /*padding: 50px 0;*/
+padding: 0px 0;
+}
+/*майн боди конец*/
+
+a {
+    color: #6d7b96;
+}
+.article-details .article-header h1, .article-details .article-header h2 {
+    font-size: 1.5rem;
+}
+.article-social-share .social-share-icon ul li a:hover, .article-social-share .social-share-icon ul li a:focus {
+    background: #FF0000;
+border: 1px solid #FF0000;
+}
+.su-portfolio-style2 .sup-meta-wrap {
+    padding: 5px;
+    background: #fff;
+    position: relative;
+}
+/*дистанция центральной колонки*/
+.col-lg-8 {
+    margin-bottom: 20px!important;
+    padding-top: 20px!important;
+}
+/*дистанция центральной колонки конец*/
+#sp-page-builder .sppb-section-title {
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+/*разное конец_________________*/
+/*колонки*/
+
+.col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+/*колонки конец*/
+/*модули и страница*/
+#sp-left .sp-module .sp-module-title, #sp-right .sp-module .sp-module-title {
+    margin: 0 0 30px;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 0px solid #f3f3f3;
+}
+#sp-left .sp-module {
+   /* margin-top: 20px;*/
+margin-top: 0px;
+    border: 0px solid #f3f3f3;
+    padding: 10px;
+    border-radius: 0px;
+}
+#sp-right .sp-module {
+    margin-top: 0px;
+    border: 0px solid #f3f3f3;
+    padding: 0px 10px 20px 10px;
+    border-radius: 0px;
+}
+
+#sp-left .sp-module .sp-module-title, #sp-right .sp-module .sp-module-title {
+    margin: 0 0 0 0px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 0px solid #f3f3f3;
+    background-color: #FF0000;
+    color: white;
+    text-align: center;
+margin-left: -10px;
+margin-right: -10px;
+}
+
+.sppb-row-container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/*модули и страница конец*/
+/*контент статьи*/
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.article-list .article {
+    margin-bottom: 5px;
+    padding: none;
+   border: 1px solid #000;
+    border-radius: 3px;
+    text-align:center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.article-list .article .article-header h1, .article-list .article .article-header h2 {
+    font-size: 1.2rem;
+    margin: 0 0 1.25rem 0;
+    text-align: center;
+    font-weight: 600;
+}
+.article-list .article .readmore {
+    font-size: 0.7rem;
+    text-align: center;
+    text-transform: uppercase;
+    background: #000;
+    padding: 5px 0 5px 0;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-list .article .readmore:hover {
+    font-size: 0.7rem;
+    text-align: center;
+    text-transform: uppercase;
+    background: #FF0000;
+    padding: 5px 0 5px 0;
+cursor: pointer;
+}
+.article-list .article:hover{
+border: 3px solid #FF0000;
+-webkit-box-shadow: 0 0 13px rgba(0,0,0,0.46);
+-moz-box-shadow: 0 0 13px rgba(0,0,0,0.46);
+box-shadow: 0 0 13px rgba(0,0,0,0.46);
+ border-radius: 5px;
+}
+
+.article-list .article .readmore a:hover, .article-list .article .readmore a:active, .article-list .article .readmore a:focus {
+    color: #fff;
+}
+.article-list .article .readmore a {
+    color: #fff;
+    font-weight: 500;
+}
+.article-list .article .article-header h1 a:hover, .article-list .article .article-header h2 a:hover, .article-list .article .article-header h1 a:active, .article-list .article .article-header h2 a:active, .article-list .article .article-header h1 a:focus, .article-list .article .article-header h2 a:focus {
+    color: #FF0000;
+}
+.article-list .article .article-header h1 a, .article-list .article .article-header h2 a {
+    color: #000;
+}
+a:hover, a:focus, a:active {
+    color: #542b1b;
+}
+/*контент статьи конец*/
+/*модули правый и левый*/
+#sp-right {
+    background: #EBDDD8;
+    margin-left: auto;
+    margin-right: -15px;
+   /* margin-top: -50px;*/
+    /*margin-bottom: -50px;*/
+    /*padding-top: 50px;*/
+padding-top: 0px;
+margin-bottom: 0px;
+}
+#sp-left {
+    background: #EBDDD8;
+    margin-left: -15px;
+    margin-right: auto;
+/*    margin-top: -50px;*/
+    /*margin-bottom: -50px;*/
+    /*padding-top: 50px;*/
+padding-top: 20px;
+ margin-bottom: 0px;
+}
+#sp-left .sp-module ul > li > a, #sp-right .sp-module ul > li > a {
+    display: block;
+    padding: 5px 0;
+    line-height: 20px;
+    padding: 2px 0;
+}
+
+/*модули правый и левый конец*/
+/*модуль персона*/
+.sppb-carousel-inner > .sppb-item > a > img, .sppb-carousel-inner > .sppb-item > img, .sppb-img-responsive {
+    max-width: 60%;
+}
+/*модуль персона конец*/
+/*модуль категорий */
+#sp-left .sp-module ul > li, #sp-right .sp-module ul > li {
+    display: block;
+    border-bottom: 1px solid #000;
+}
+.h4, h4 {
+    font-size: 1.2rem;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.1;
+    color: inherit;
+}
+.category-module li h4, .categories-module li h4, .archive-module li h4, .latestnews li h4, .newsflash-horiz li h4, .mostread li h4, .form-links li h4, .list-striped li h4 {
+    margin: 2px 0;
+    padding: 2px 0 5px 5px;
+cursor: pointer;
+}
+
+
+.category-module li h4:hover, .categories-module li h4:hover, .archive-module li h4:hover, .latestnews li h4:hover, .newsflash-horiz li h4:hover, .mostread li h4:hover, .form-links li h4:hover, .list-striped li h4:hover {
+    margin: 2px 0;
+    background: rgba(0, 0, 0, 0.21);
+    padding: 2px 0 5px 5px;
+cursor: pointer;
+}
+
+/*модуль категорий конец*/
+/*портфолио */
+.su-portfolio-style2 .sup-title {
+    color: #000;
+}
+.su-portfolio-style2 .sup-title:hover {
+    color: #FF0000;
+}
+
+/*портфолио конец*/
+/*боковые модули*/
+
+#vina-tags-popular-canvas124 {
+    padding: 0px 0px 0px 0px;
+    background-color: #000!important;
+    margin-left: -10px;
+    width: 112%;
+}
+
+
+/*боковые модули конец*/
+/*модуль популярные статьи*/
+.rsca-light .rsca-details {
+    background-color: #fff;
+    border-right: 1px solid #e7e7e7;
+    border-left: 1px solid #e8e8e8;
+    border-top: 2px solid #e8e8e8;
+    border-bottom: 2px solid #e8e8e8;
+    border-radius: 6px 6px 6px 6px;
+}
+
+
+/*модуль популярные статьи конец*/
+/*ja канвас меню*/
+.offcanvas-menu {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > a > .menu-toggler, .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > .menu-separator > .menu-toggler {
+    color: #fff;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a, .offcanvas-menu .offcanvas-inner .sp-module ul > li span {
+    color: #fff;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li ul li a {
+    color: #fff;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a, .offcanvas-menu .offcanvas-inner .sp-module ul > li span {
+    text-transform: uppercase;
+}
+
+/*ja канвас меню конец*/
+/*разные кнопки*/
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #542B1B;
+    border-color: #542B1B;
+}
+.btn-outline-secondary {
+    color: #542B1B;
+    background-color: transparent;
+    background-image: none;
+    border-color: #542B1B;
+}
+.pager > li a {
+    border: 1px solid #000;
+    color: #fff;
+    background: #FF0000;
+}
+.pager > li a:hover {
+    border: 1px solid #000;
+    color: #fff;
+    background: #000;
+}
+.pager > li a {
+    display: inline-block;
+    font-size: 0.78rem;
+    padding: 0.3rem 0.5rem;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.btn-primary, .sppb-btn-primary {
+    border-color: #542B1B;
+    background-color: #542B1B;
+}
+.btn-primary:hover, .sppb-btn-primary:hover {
+    border-color: #865846;
+    background-color: #865846;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #865846;
+    border-color: #865846;
+}
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #542B1B;
+    border-color: #542B1B;
+}
+.su-form-wrapper .submit-button input[type*='submit']:hover {
+    background: #865846;
+    border-color: #865846;
+}
+.su-form-wrapper .submit-button input[type*='submit'] {
+    background: #542B1B;
+    border-color: #542B1B;
+}
+/*кнопка новостей*/
+.sppb-readmore{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    background: #865846;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.sppb-readmore:hover{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    background: #542B1B;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+/*кнопка новостей конец*/
+/*разные кнопки конец*/
+/*теги*/
+.tags > li a {
+    background: #FF0000;
+    color: #fff;
+}
+.tags > li a {
+    display: block;
+    font-size: 0.87rem;
+    padding: 0.2rem 0.5rem 0.3rem 0.5rem;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+.tags > li a:hover {
+    background: #000;
+}
+/*теги конец*/
+/*сетка статей*/
+.cbp-l-grid-blog-title {
+    font: 700 12px "Open Sans", sans-serif;
+    color: #542B1B;
+    display: block;
+    margin-top: 17px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.cbp-l-grid-blog-title:hover {
+    color: #865846;
+}
+
+.su-pgrid-meta > .cbp-l-grid-blog-date {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.su-pgrid-meta{
+text-align: center;
+}
+.cbp-item{
+border: 1px solid #000;
+border-radius: 5px;
+
+}
+.cbp-item:hover{
+border: 3px solid #542B1B;
+border-radius: 5px;
+-webkit-box-shadow: 0 0 13px rgba(0,0,0,0.46);
+-moz-box-shadow: 0 0 13px rgba(0,0,0,0.46);
+box-shadow: 0px 0px 13px rgba(0,0,0,0.46);
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    background-color: #542B1B;
+    color: #fff;
+    border-color: #542B1B;
+    cursor: pointer;
+}
+.cbp-l-filters-button .cbp-filter-item:hover {
+    color: #fff;
+    border-color: #865846;
+    background: #865846;
+cursor: pointer;
+}
+.cbp-l-filters-button .cbp-filter-item {
+    background-color: #ffffff;
+    border: 1px solid #542B1B;
+    color: #542B1B;
+    font: 400 12px "Open Sans", sans-serif;
+    text-transform: uppercase;
+padding: 8px 16px;
+}
+.cbp-l-filters-button .cbp-filter-item:hover .cbp-filter-counter {
+    bottom: 44px;
+
+}
+.cbp-l-filters-button .cbp-filter-counter {
+    background-color: #CDAFA4;
+    
+}
+.cbp-l-loadMore-button .cbp-l-loadMore-link.cbp-l-loadMore-stop, .cbp-l-loadMore-button .cbp-l-loadMore-button-link.cbp-l-loadMore-stop, .cbp-l-loadMore-button .cbp-l-loadMore-button-link.cbp-l-loadMore-button-stop {
+    color: #542B1B;
+}
+.cbp-l-loadMore-button .cbp-l-loadMore-link, .cbp-l-loadMore-button .cbp-l-loadMore-button-link {
+    border: 1px solid #542B1B;
+    color: #542B1B;
+}
+.cbp-l-loadMore-loadingText{
+color: #542B1B;
+}
+.cbp-l-caption-alignCenter .cbp-l-caption-body {
+    background: #542B1B;
+}
+
+/*сетка статей конец*/
+/*свежий номер модуль*/
+.rsca-light .rsca-item {
+    border-radius: 0px;
+    overflow: hidden;
+}
+
+/*конец свежий номер модуль*/
+/* модуль поиска*/
+.borderinput {
+    position: relative;
+    margin-top: 0px;
+}
+
+/*модуль поиска конец*/
+/*формы*/
+.sourcecoast input:invalid:focus, .sourcecoast textarea:invalid:focus, .sourcecoast select:invalid:focus {
+    border-color: #542B1B;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .20rem .20rem;
+    font-size: 1rem;
+    line-height: 1;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.form-group {
+    margin-bottom: 0.4rem;
+}
+
+/*формы конец*/
+/*новости*/
+hr {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 0;
+    border-top: 1px solid #542B1B;
+}
+.sppb-addon-articles .sppb-addon-article {
+    margin-bottom: 30px;
+    background: #F3F3F3;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.h3, h3 {
+    font-size: 1.3rem;
+}
+/*новости конец*/
+
+/*Главный редактор*/
+.sppb-addon-persion .sppb-person-information>span.sppb-person-name, .sppb-addon-person .sppb-person-information>span.sppb-person-name {
+    font-size: 12px;
+}
+.sppb-addon-persion .sppb-person-image, .sppb-addon-person .sppb-person-image {
+    margin-bottom: 5px;
+}
+.sppb-addon-persion .sppb-person-information > span.sppb-person-designation, .sppb-addon-persion .sppb-person-information > span.sppb-person-email, .sppb-addon-person .sppb-person-information > span.sppb-person-designation, .sppb-addon-person .sppb-person-information > span.sppb-person-email {
+    margin-top: 0px;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+/*Конец главный редактор*/
+/*авторизация большого экрана*/
+.sourcecoast form {
+    margin: 0 0 0px;
+}
+
+.sourcecoast .input-append, .sourcecoast .input-prepend {
+    display: inline-block;
+    margin-bottom: 0px;
+
+}
+.sourcecoast .control-group {
+    margin-bottom: 5px;
+}
+.sclogin-joomla-login.vertical input.input-block-level#sclogin-username, .sclogin-joomla-login.vertical input.input-block-level#sclogin-passwd {
+    width: 100% !important;
+}
+input.input-block-level#sclogin-username, input.input-block-level#sclogin-passwd {
+    height: 20px;
+}
+
+.sourcecoast label {
+    display: block;
+    margin-bottom: 5px;
+}
+.sourcecoast label, .sourcecoast input, .sourcecoast button, .sourcecoast select, .sourcecoast textarea {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 8px;
+  color:#542B1B;
+}
+.input-block-level {
+    display: block;
+    width: 100%;
+    min-height: 25px;
+
+}
+.sclogin-joomla-login.vertical #form-sclogin-submitcreate .btn {
+    margin-top: 0px !important;
+    float: right;
+    width: 30%;
+}
+
+.sourcecoast input[type='radio'], .sourcecoast input[type='checkbox'] {
+    margin: -4px 0 0;
+
+}
+.sourcecoast .row-fluid [class*='span'] {
+    min-height: 25px;
+}
+.sourcecoast .btn {
+    line-height: 10px;
+    padding: 4px 4px 4px 4px;
+}
+.sourcecoast .btn:hover, .sourcecoast .btn:focus {
+    background-position: 0 -30px;
+}
+/*конец авторизации большого экрана*/
+/*кнопка авторизации*/
+.sourcecoast .btn-primary:hover, .sourcecoast .btn-primary:focus, .sourcecoast .btn-primary:active, .sourcecoast .btn-primary.active, .sourcecoast .btn-primary.disabled, .sourcecoast [disabled].btn-primary {
+    color: #FCF2E6;
+    background-color: #542B1B!important;
+
+}
+.sourcecoast .btn-primary {
+    color: #F3CB9A;
+    text-shadow: 0px -1px 0px rgba(0,0,0,0.25);
+    background-color: #542B1B !important;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+    border-color: #000;
+    border-color: #000;
+    *background-color: #0044cc: ;
+    filter: none;
+}
+
+/*конец кнопки авторизации*/
+
+/*класс для авторизации*/
+.sp-module1 {
+margin-top:-15px;
+color: #fff;
+}
+/*заголовок модуля*/
+.sp-module-title1{
+font-size: 1rem;
+color: #542B1B;
+}
+/*конец класса для авторизации*/
+/*отладка правого блока и кнопок*/
+.sppb-addon-content {
+    margin: 0px 5px 0px -5px!important;
+}
+.sppb-btn {
+    margin: 5px 5px 5px 5px!important;
+}
+.sppb-btn-custom {
+    text-align: left;
+}
+
+/*конец отладки правого блока и кнопок*/
+/*флипбук*/
+._df_thumb {
+    border: none;
+    width: 161px;
+    height: 38px;
+    text-align: center;
+}
+
+/*конец флипбук*/
+/*кнопка расширенный поиск*/
+a#subtn_5afaf8ac94e7f {
+    color: #ffffff;
+    background-color: #ff0000;
+    -webkit-border-radius: 3px;
+    border-radius: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+a#subtn_5afaf8ac94e7f:hover {
+    background-color: #000;
+}
+/*конец кнопки расширенный поиск*/
+/*Подписка*/
+.osm-pricing-table-circle .osm-plan-header > h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 30px;
+    text-transform: uppercase;
+}
+.osm-pricing-table-circle .osm-plan-price p {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+.osm-container h1, .osm-container h2 {
+    width: auto;
+    margin: 5px 0 5px 0;
+    padding: 0;
+    float: none;
+    font-size: 26px;
+}
+.breadcrumb {
+font-size: 12px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .25rem .75rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: rgba(84, 43, 27, 0.1);
+    border-radius: .2rem;
+    color:#542B1B;
+}
+.breadcrumb-item.active {
+    color: #865846;
+}
+/*разное*/
+.sppb-row-overlay {
+    z-index: -1;
+}
+a {
+    color: #865846;
+}
+
+/*конец разное*/
+/*кнопки */
+#sppb-addon-1527566465309 li a {
+    padding-top: 10px!important;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    padding-left: 7px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-transform: none;
+    width: 100%;
+}
+#sppb-addon-1527566465309 li a:hover {
+    background-color: #865846!important;
+}
+
+
+/*конец кнопок*/
+/*стрелка подсказки*/
+.cbp-l-filters-button .cbp-filter-counter::after {
+    border-top: 4px solid #CDAFA4;
+
+}
+/*конец стрелки подсказки*/
+/*фильтр*/
+.category-module li h4:hover, .categories-module li h4:hover, .archive-module li h4:hover, .latestnews li h4:hover, .newsflash-horiz li h4:hover, .mostread li h4:hover, .form-links li h4:hover, .list-striped li h4:hover {
+    margin: 2px 0;
+    background: rgba(84, 43, 27, 0.1);
+    padding: 2px 0 5px 5px;
+    cursor: pointer;
+}
+.su-tabs-style-modern-light .su-tabs-nav span.su-tabs-current {
+    position: relative;
+    z-index: 1;
+    border-bottom-color: #f5f5f5;
+    background: #f5f5f5;
+    color: #542b1b;
+    text-shadow: 0px 1px 0px #fff;
+}
+.su-tabs-style-modern-light .su-tabs-nav span:hover {
+    background: #f8f8f8;
+    color: #542b1b;
+}
+.su-tabs-style-modern-light .su-tabs-nav span {
+    margin: 0 -1px -1px 0;
+    border: 1px solid #EBDDD8;
+    background: #fff;
+    color: #865846;
+    font-weight: bold;
+}
+/*конец фильтр*/
+/*магазин*/
+span.addtocart-button span.addtocart-button, span.addtocart-button input.addtocart-button, span.addtocart-button input.notify-button {
+    max-width: 100%;
+    background: #865846;
+    color: #fff;
+    border: solid #00669a 1px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 12px;
+    margin-bottom: 0;
+}
+.vm-button-correct, .vm-button-correct:link, .vm-button-correct:visited {
+    display: inline-block;
+    font-size: 19px;
+    font-weight: 700;
+    text-align: center;
+    background: #865846;
+    color: #fff;
+    border: 1px solid #00669a;
+    -webkit-border-radius: 4px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    text-decoration: none;
+    padding: 6px 12px 3px;
+}
+.fa-globe:before {
+    content: "\f0ac";
+    margin-left: 10px;
+}
+.fa-cloud-download:before {
+    content: "\f0ed";
+    margin-left: 10px;
+}
+.form-check-inline input[type="radio"] {
+    display: inline;
+}h1{font-family: 'Arial', sans-serif;}
+.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Arial', sans-serif;}
+.logo-image {height:115px;}.logo-image-phone {height:115px;}#sp-header{ background-image:url("/images/headers/fon_b_2.jpg");background-repeat:no-repeat;background-size:inherit;background-attachment:scroll;background-position:50% 50%;background-color:#f3cb9a;padding:40px 0 0 0; }#sp-menu{ background-color:#542b1b; }#sp-menu a{color:#f3cb9a;}#sp-menu a:hover{color:#542b1b;}#sp-footer{ background-color:#542b1b;color:#f3cb9a; }#sp-footer a{color:#f8e0c3;}#sp-footer a:hover{color:#fcf2e6;}a#subtn_69a491b75fa0b { color: #FFFFFF; background-color: #FF0000;-webkit-border-radius: 3px; border-radius: 3px;}
+a#subtn_69a491b75fa0b span { font-size: 13px;-webkit-border-radius: 3px; border-radius: 3px;line-height:26px;padding: 4px 16px;}
+a#subtn_69a491b75fa0b:hover { background-color: #ff1a1a;}
+	</style>
+	<script src="/media/jui/js/jquery.min.js?eb1d344629282e8762f214746b25f942" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?eb1d344629282e8762f214746b25f942" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?eb1d344629282e8762f214746b25f942" type="text/javascript"></script>
+	<script src="/plugins/system/bdthemes_shortcodes/js/shortcode-ultimate.js" type="text/javascript"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js" type="text/javascript"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js" type="text/javascript"></script>
+	<script src="https://journal-hc.ru/modules/mod_responsive_scroller_for_articles/assets/js/rsca.min.js" type="text/javascript"></script>
+	<script src="https://journal-hc.ru/modules/mod_responsive_scroller_for_articles/assets/fancybox/jquery.fancybox.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helixultimate/js/popper.min.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helixultimate/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/templates/shaper_helixultimate/js/main.js" type="text/javascript"></script>
+	<script src="https://journal-hc.ru/modules/mod_bt_smartsearch/tmpl/js/chosen.jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		var j2storeURL = 'https://journal-hc.ru/';
+		(function($) {
+		$(function(){
+			
+			jQuery("#rsca-137").owlCarousel({
+				
+				// Most important owl features
+				items : "4",
+				itemsCustom : false,
+				itemsDesktop : [1139,"3"],
+				itemsDesktopSmall : [939,"2"],
+				itemsTablet: [719,"1"],
+				itemsTabletSmall: false,
+				itemsMobile : [479,"1"],
+				singleItem : false,
+				itemsScaleUp : false,
+			 
+				//Basic Speeds
+				slideSpeed : 500,
+				paginationSpeed : 500,
+				rewindSpeed : 500,
+			 
+				//Autoplay
+				autoPlay : false ,
+				stopOnHover : true,
+			 
+				// Navigation
+				navigation : true,
+				navigationText : ["<i class=\"fa fa-angle-left\"></i>","<i class=\"fa fa-angle-right\"></i>"],
+				rewindNav : true,
+				scrollPerPage : false,
+			 
+				//Pagination
+				pagination : false,
+				paginationNumbers: false,
+			 
+				// Responsive 
+				responsive: true,
+				responsiveRefreshRate : 100,
+				responsiveBaseWidth: "#rsca-137",
+			 
+				// CSS Styles
+				baseClass : "rsca",
+				theme : "rsca-light",
+			 
+				//Lazy load
+				lazyLoad : false,
+				lazyFollow : false,
+				lazyEffect : "fade",
+			 
+				//Auto height
+				autoHeight : false,
+			 
+				//JSON 
+				jsonPath : false, 
+				jsonSuccess : false,
+			 
+				//Mouse Events
+				dragBeforeAnimFinish : true,
+				mouseDrag : true,
+				touchDrag : true,
+			 
+				//Transitions
+				transitionStyle : "false",
+			 
+				// Other
+				addClassActive : false,
+			 
+				//Callbacks
+				beforeUpdate : false,
+				afterUpdate : false,
+				beforeInit: false, 
+				afterInit: false, 
+				beforeMove: false, 
+				afterMove: false,
+				afterAction: false,
+				startDragging : false,
+				afterLazyLoad : false
+				
+			});
+			
+		})
+	})(jQuery);jQuery(window).on('load',  function() {
+				
+			});template="shaper_helixultimate";function do_nothing() { return; }
+	</script>
+	<link href="https://journal-hc.ru/index.php/ru/" rel="alternate" hreflang="x-default" />
+    
+<style type="text/css">input[name='your_address_here'] {display: none !important;}</style>
+</head>
+    <body class="site helix-ultimate com-content view-article layout-default task-none itemid-161 ru-ru ltr layout-boxed offcanvas-init offcanvs-position-right">
+    
+    <div class="body-wrapper">
+        <div class="body-innerwrapper">
+                        <header id="sp-header"><div class="container"><div class="container-inner"><div class="row"><div id="sp-logo" class="col-lg-10 "><div class="sp-column "><div class="logo"><a href="/"><img class="logo-image" src="/images/logo_zh2.png" alt="Журнал Жилищное строительство"></a></div></div></div><div id="sp-position2" class="col-lg-2 d-none d-sm-none d-md-none d-lg-block"><div class="sp-column sp-module1"><div class="sp-module "><h3 class="sp-module-title1">Личный кабинет</h3><div class="sp-module-content">
+    <div class="sclogin sourcecoast" id="sclogin-162">
+        
+        <div class="row-fluid">
+            
+    <div class="sclogin-joomla-login vertical span12">
+                <form action="/index.php/ru/" method="post" id="sclogin-form162">
+            <fieldset class="input-block-level userdata">
+                <div class="control-group" id="form-sclogin-username">
+                    <div class="controls input-block-level">
+                        <div class="input-append input-block-level">
+                            <input name="username" tabindex="0"  id="sclogin-username" class="input-block-level" alt="username" type="text"
+                                   placeholder="Имя пользователя" required aria-required="true">
+                                                    </div>
+                    </div>
+                </div>
+                <div class="control-group" id="form-sclogin-password">
+                    <div class="controls input-block-level">
+                        <div class="input-append input-block-level">
+                            <input name="password" tabindex="0" id="sclogin-passwd" class="input-block-level" alt="password" type="password"
+                                   placeholder="Пароль" required aria-required="true">
+                                                    </div>
+                    </div>
+                </div>
+                <div class="control-group" id="form-sclogin-submitcreate">
+                    <button type="submit" name="Submit" class="btn btn-primary span12">Войти</button>
+                                    </div>
+                                        <div class="control-group" id="form-sclogin-remember">
+                            <label for="sclogin-remember">
+                                <input id="sclogin-remember" type="checkbox" name="remember" class="inputbox"  alt="Remember Me" />
+                                Запомнить меня                            </label>
+                        </div>
+                    
+
+                <input type="hidden" name="option" value="com_users"/><input type="hidden" name="task" value="user.login"/><input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0yNzU="/><input type="hidden" name="mod_id" value="162"/><input type="hidden" name="b5e875400fb2178f6c3184f717c70e58" value="1" />            </fieldset>
+        <input type="text" name="your_address_here" value=""/><input type="hidden" name="1765bf4a651a8629b23f7ccadac89c65" value="1772392887.5"/></form>
+    </div>
+        </div>
+
+                <div class="clearfix"></div>
+    </div>
+
+</div></div></div></div></div></div></div></header><section id="sp-menu"><div class="container"><div class="container-inner"><div class="row"><div id="sp-menu" class="col-6 col-sm-6 col-md-6 col-lg-10 "><div class="sp-column "><nav class="sp-megamenu-wrapper" role="navigation"><a id="offcanvas-toggler" aria-label="Navigation" class="offcanvas-toggler-right d-block d-lg-none" href="#"><i class="fa fa-bars" aria-hidden="true" title="Navigation"></i></a><ul class="sp-megamenu-parent menu-animation-fade-up d-none d-lg-block"><li class="sp-menu-item"><a  href="/index.php/ru/" title="Журнал &quot;Строительные материалы&quot;" >Главная</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a  href="/index.php/ru/novosti" >Новости</a></li><li class="sp-menu-item"><a  href="/index.php/ru/about-zhurnal" >О журнале</a></li><li class="sp-menu-item"><a  href="https://journal-hc.ru/index.php/ru/zhurnaly/2025-ru/zhilishchnoe-stroitel-stvo-12-2025" title="Свежий номер" >Свежий номер</a></li><li class="sp-menu-item"><a  href="/index.php/ru/arkhiv" >Архив</a></li><li class="sp-menu-item"><a  href="/index.php/ru/search" >Поиск</a></li><li class="sp-menu-item"><a  href="/index.php/ru/avtoram" >Авторам</a></li><li class="sp-menu-item"><a  href="/index.php/ru/registratsiya" >Регистрация</a></li><li class="sp-menu-item"><a  href="/index.php/ru/kontakty" >Контакты</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li></ul></nav></div></div><div id="sp-position-0" class="col-6 col-sm-6 col-md-6 col-lg-2 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="/index.php/ru/">
+												<img src="/media/mod_languages/images/ru_ru.gif" alt="Russian (Russia)" title="Russian (Russia)" />										</a>
+			</li>
+								<li dir="ltr">
+			<a href="/index.php/en/">
+												<img src="/media/mod_languages/images/en_gb.gif" alt="English (United Kingdom)" title="English (United Kingdom)" />										</a>
+			</li>
+				</ul>
+
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td><a href="https://t.me/journal_cm" target="_blank" rel="noopener"><img style="margin-top: 5px;" src="/images/telegram-app.png" alt="telegram app" width="30" height="30" /></a></td>
+<td><a href="https://www.facebook.com/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-%D0%A1%D1%82%D1%80%D0%BE%D0%B9%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-httpwwwrifsmru-621386211267026/?ref=bookmarks" target="_blank" rel="noopener"><img style="margin-top: 7px; margin-right: 3px;" src="/images/facebook.png" alt="facebook" width="25" height="25" /></a></td>
+<td><a href="https://vk.com/rifsm" target="_blank" rel="noopener"><img style="margin-top: 7px;" src="/images/vkcom.png" alt="vkcom" width="25" height="25" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div></div></div></div></div></div></section><section id="sp-main-body"><div class="container"><div class="container-inner"><div class="row"><aside id="sp-left" class="col-4 col-sm-4 col-md-4 col-lg-2 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<script type="text/javascript">
+jQuery(document).ready(function(){	
+	jQuery('#btss-advanced').click(function(){
+	if (jQuery(".smartsearch-advanced:first").is(":hidden")) {
+		jQuery(".smartsearch-advanced").css('width','100%');			
+		jQuery("#btss-advanced ").css({'height':'28px','background':'#FFFFFF','border-left':'1px solid #CCCCCC','border-top':'1px solid #CCCCCC','border-right':'1px solid #CCCCCC'});		
+		jQuery(".smartsearch-advanced").slideDown("slow");
+		} else {
+		jQuery(".smartsearch-advanced").slideUp('slow');
+		jQuery("#btss-advanced").css({'border':'1px solid #FFFFFF','height':'18px'});	
+		}
+	});
+	jQuery(".smartsearch-advanced").hide();
+	  jQuery("#btss-advanced").hover(function () {
+		jQuery(this).append('<div class="tooltipsmartseach"><p> Advance search</p></div>');
+		jQuery('.tooltipsmartseach').css('background','#545454');
+		jQuery('.tooltipsmartseach >p').css('margin-left','5px');
+		jQuery('.tooltipsmartseach >p').css('margin-top','3px');
+	  }, function () {
+		jQuery("div.tooltipsmartseach").remove();
+	  });
+	jQuery('.inputboxsmart').data("placeholder","Select Frameworks...").chosen();	
+	
+	jQuery('#mod-bt-smartsearchword').keydown(function (event) {
+		if(jQuery('#mod-bt-smartsearchword').val()!=""){
+		var keypressed = event.keyCode || event.which;
+			if (keypressed == 13) {
+				$(this).closest('form').submit();
+			}
+		}
+	});
+	jQuery('.btnsearch').click(function(){
+		if(jQuery('#mod-bt-smartsearchword').val()!=""){
+			if(jQuery('#mod-bt-smartsearchword').val()!="поиск"){			
+			var keypressed = event.keyCode || event.which;
+				if (keypressed == 13) {
+					$(this).closest('form').submit();
+				}
+			}
+			else{
+				return false;
+			}
+		}
+		else{
+			return false;
+		}
+	});
+	
+
+});
+</script>	
+<script type="text/javascript">
+	do_nothing( function() {	
+		});
+</script>
+<form id="mod-bt-smartsearchform-128" action="/index.php/ru/component/finder/search" method="get">
+	<div class="smartsearch ">
+		<div class="keyword">
+			<div class="borderinput"><input name="q" id="mod-bt-smartsearchword"  class="inputboxsearch" type="text" value="поиск"  onblur="if (this.value=='') this.value='поиск';" onfocus="if (this.value=='поиск') this.value='';" /></div>		</div>
+				<input type="hidden" name="Itemid" value="161" />		
+	</div>
+<input type="hidden" name="1765bf4a651a8629b23f7ccadac89c65" value="1772392887"/></form>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<a id="subtn_69a491b75fa0b" href="http://journal-hc.ru/index.php/ru/search" class="su-button su-button-style-default su-button-wide" target="_self"><span> Расширенный поиск</span></a><a href="/index.php/ru/glavnaya?view=article&amp;id=295&amp;catid=25" hreflang="ru">- <span style="font-size: 10pt;"><strong>по ключевым словам</strong></span></a><a href="/index.php/ru/glavnaya?view=article&amp;id=296&amp;catid=25" hreflang="ru"><br /></a></p>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><a href="https://www.antiplagiat.ru/Page/About" target="_blank" rel="noopener"><img src="/images/logo_antiplagiat.png" alt="logo antiplagiat" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><a href="https://elibrary.ru/title_about.asp?id=8672" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/lib.jpg" alt="" /></a></p>
+<p><a href="https://elibrary.ru/title_profile.asp?id=8672" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/sci.jpg" alt="" width="120" height="33" /></a></p>
+<p><a href="/images/RSCI_Journal_List.pdf" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/web.jpg" alt="" width="120" height="40" /></a><a href="https://www.worldcat.org/search?q=0044-4472&amp;qt=results_page" target="_blank" rel="noopener"><br /><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/wirld.jpg" alt="" /></a></p>
+<p><a href="https://scholar.google.ru/scholar?hl=ru&amp;as_sdt=0%2C5&amp;q=0044-4472&amp;btnG=" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/google.jpg" alt="" /></a></p>
+<p><a href="https://www.rsl.ru/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/rgb.jpg" alt="" width="120" height="33" /></a></p>
+<p><a href="https://cyberleninka.ru/journal/n/zhilischnoe-stroitelstvo?i=1061574" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/cyberleninka120x33.jpg" alt="cyberleninka120x33" width="120" height="33" /></a><a href="https://www.rsl.ru/" target="_blank" rel="noopener"></a></p>
+<p><a href="https://catalog.loc.gov/vwebv/search?searchArg=0044-4472&amp;searchCode=GKEY%5E*&amp;searchType=0&amp;recCount=25" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/lib_cong.jpg" alt="" /></a></p>
+<p><a href="http://www.theeuropeanlibrary.org/tel4/search?query=0044-4472" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/eu_libr.jpg" alt="" width="120" height="33" /></a></p>
+<p><a href="http://ulrichsweb.serialssolutions.com/login" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/ulr.png" alt="" width="120" height="19" /></a></p>
+<p><a href="https://delpress.ru/%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB/%D0%96%D0%B8%D0%BB%D0%B8%D1%89%D0%BD%D0%BE%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/del_pressa.gif" alt="" width="120" height="50" /></a></p>
+<p><a href="https://press.rosp.ru/publications/view/79250/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/ros_pechat.png" alt="" width="120" height="23" /></a></p>
+<p><a href="https://www.akc.ru/itm/z_hilis_h_c_hnoe-stroitelstvo/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/pressa_podp.gif" alt="" width="120" height="64" /></a></p>
+<hr />
+<p>&nbsp;</p>
+</div>
+</div></div></div></aside><main id="sp-component" class="col-7 col-sm-7 col-md-7 col-lg-8 " role="main"><div class="sp-column "><div id="system-message-container">
+	</div>
+<div class="article-details " itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="ru-RU">
+	
+					
+	
+		
+		<div class="article-can-edit d-flex flex-wrap justify-content-between">
+				</div>
+	
+		
+			
+		
+		
+	
+	<div itemprop="articleBody">
+		<div id="sp-page-builder" class="sp-page-builder sppb-article-page-wrapper">
+<div class="page-content">
+<section id="section-id-1523897128214" class="sppb-section " >
+<div class="sppb-row-overlay"></div>
+<div class="sppb-row-container">
+<div class="sppb-row sppb-no-gutter">
+<div class="sppb-col-md-3" id="column-wrap-id-1523897128301">
+<div id="column-id-1523897128301" class="sppb-column" >
+<div class="sppb-column-addons">
+<div id="sppb-addon-1524041912017" class="clearfix" >
+<div class="sppb-addon sppb-addon-module ">
+<div class="sppb-addon-content">  <!-- Light Theme -->
+<div id="rsca-137">
+<div class="rsca-item">
+<div class="rsca-media">
+                    <img class="lazyOwl" data-src="images/files/2025/Cover_JS-12-2025.jpg" src="/images/files/2025/Cover_JS-12-2025.jpg" alt="Жилищное строительство №12-2025">
+<div class="rsca-hover">
+                            								<a href="/index.php/ru/zhurnaly/2025-ru/zhilishchnoe-stroitel-stvo-12-2025" class="rsca-link-icon">
+									<i class="fa fa-link"></i>
+								</a>
+                        </div>
+                </div>
+        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sppb-col-md-9" id="column-wrap-id-1523899300466">
+<div id="column-id-1523899300466" class="sppb-column" >
+<div class="sppb-column-addons">
+<div id="sppb-addon-1523897128303" class="clearfix" >
+<div class="sppb-addon sppb-addon-text-block 0  ">
+<div class="sppb-addon-content">
+<h1 style="text-align: center;"><span style="color: #ff0000; font-size: 12pt;"><strong><em><em>Уважаемые коллеги! Дорогие друзья</em></em></strong></span><span style="color: #ff0000; font-size: 12pt;"><strong><em>!<br /></em></strong></span></h1>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Телефон редакции:&nbsp;</strong></span><span style="font-size: 14pt; color: #000000;"><strong><span style="font-size: 18pt;">(499) 390-87-17</span></strong></span></p>
+<p style="text-align: center;">Журнал «<strong>Жилищное строительство</strong>» –&nbsp;ежемесячное научно-техническое издание для профессионалов-домостроителей, архитекторов, инженеров, проектировщиков, всех работников строительного комплекса, а также для индивидуальных застройщиков. Издается с 1958 г. В журнале публикуются материалы о новых конструктивных и планировочных решениях, прогрессивных строительных материалах, о теплосберегающих технологиях и конструкциях, об экономике жилищно-гражданского строительства, проблемах архитектуры, градостроительства, сельского строительства, экологии жилища.</p>
+<p style="text-align: justify;">Журнал «Жилищное строительство»&nbsp;включен в <a href="https://vak.minobrnauki.gov.ru/uploader/loader?type=19&amp;name=91107547002&amp;f=11305" target="_blank" rel="noopener"><strong>перечень рецензируемых научных изданий</strong></a>, в которых должны быть опубликованы основные научные результаты диссертаций на соискание ученой степени кандидата или доктора наук по специальностям:<br />2.1.1. Строительные конструкции, здания и сооружения (технические науки)<br /> 2.1.2. Основания и фундаменты, подземные сооружения (технические науки)<br />2.1.5. Строительные материалы и изделия (технические науки)<br />2.1.7. Технология и организация строительства (технические науки)<br />2.1.10. Экологическая безопасность строительства и городского хозяйства (технические науки)<br />2.1.11. Теория и история архитектуры, реставрация и реконструкция историкоархитектурного наследия (архитектура)<br />2.1.12. Архитектура зданий и сооружений. Творческие концепции архитектурной деятельности (архитектура)<br />2.1.13. Градостроительство, планировка сельских населенных пунктов (архитектура)<br />2.1.13. Градостроительство, планировка сельских населенных пунктов (технические науки);</p>
+<p style="text-align: justify;">Индексируется научной электронной библиотекой <strong><a href="https://www.elibrary.ru/title_about_new.asp?id=8672" target="_blank" rel="noopener">ELIBRARY.RU</a>, </strong>входит в ядро РИНЦ,&nbsp;включен в базу данных <strong><a class="wf_file" href="https://journal-cm.ru/images/rsci.pdf" target="_blank" rel="noopener"><span class="wf_file_text">Russian Science Citation Index (RSCI)</span></a></strong> на платформе Web of Science.</p>
+<p style="text-align: justify;">Журнал принимает к публикации оригинальные статьи, переводы опубликованных статей из зарубежных журналов (при согласии правообладателя на перевод и публикацию), обзоры, эссе, описание профессионального опыта, комментарии, отчеты о мероприятиях, книжные обзоры.</p>
+<p>● Статьи принимаются в рабочем режиме через сервис сайта журнала&nbsp;<a href="https://journal-cm.ru/index.php/ru/otpravit-rukopis">https://journal-cm.ru/index.php/ru/otpravit-rukopis<br /></a>или по адресу электронной почты&nbsp;<a href="mailto:mail@rifsm.ru."><span id="cloak1084a47416ea8c02654c811a0ca74788">Адрес электронной почты защищен от спам-ботов. Для просмотра адреса в вашем браузере должен быть включен Javascript.</span><script type='text/javascript'>
+				document.getElementById('cloak1084a47416ea8c02654c811a0ca74788').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy1084a47416ea8c02654c811a0ca74788 = 'm&#97;&#105;l' + '&#64;';
+				addy1084a47416ea8c02654c811a0ca74788 = addy1084a47416ea8c02654c811a0ca74788 + 'r&#105;fsm' + '&#46;' + 'r&#117;';
+				document.getElementById('cloak1084a47416ea8c02654c811a0ca74788').innerHTML += addy1084a47416ea8c02654c811a0ca74788;
+		</script>.<br /></a><strong><em>Не забывайте предварительно ознакомиться с требованиями <br />по оформлению рукописей и сопроводительных документов<br /></em><a href="https://journal-cm.ru/index.php/ru/avtoram">https://journal-cm.ru/index.php/ru/avtoram</a>.</strong><br />● Технологический регламент прохождения статей в производстве соблюдается в рабочем порядке неукоснительно (регистрация, рецензирование, научное и техническое редактирование и т. д.)<br /><strong style="color: #008000;"><strong>Оформить подписку на журналы издательства можно с любого месяца&nbsp;</strong></strong><span style="color: #008000;"><strong><strong>и на любой период!</strong></strong></span></p>
+<ul>
+<li>Подписку можно оформить на почте по каталогу АРЗИ (зеленый) – подписной индекс <strong>70283</strong></li>
+<li>На сайте журнала <a href="/index.php/ru/podpiska-2025">https://journal-hc.ru/index.php/ru/podpiska-2025</a><a href="https://journal-cm.ru/index.php/ru/podpiski/by,product_name?language=ru-RU&amp;keyword"><br /></a></li>
+<li>На сайте издательства&nbsp;<a href="http://rifsm.ru/page/5/">http://rifsm.ru/page/5/</a></li>
+<li>Через редакцию – просто направьте заявку в произвольной форме по электронной почте&nbsp;<span style="color: #0000ff;"><strong><span id="cloak024476d78d88216a151fe94b067ef559">Адрес электронной почты защищен от спам-ботов. Для просмотра адреса в вашем браузере должен быть включен Javascript.</span><script type='text/javascript'>
+				document.getElementById('cloak024476d78d88216a151fe94b067ef559').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy024476d78d88216a151fe94b067ef559 = 'm&#97;&#105;l' + '&#64;';
+				addy024476d78d88216a151fe94b067ef559 = addy024476d78d88216a151fe94b067ef559 + 'r&#105;fsm' + '&#46;' + 'r&#117;';
+				document.getElementById('cloak024476d78d88216a151fe94b067ef559').innerHTML += addy024476d78d88216a151fe94b067ef559;
+		</script></strong></span>&nbsp;или&nbsp;<span style="color: #0000ff;"><strong><span id="cloak88da0b6ddf4d4310bfbfa347b0850684">Адрес электронной почты защищен от спам-ботов. Для просмотра адреса в вашем браузере должен быть включен Javascript.</span><script type='text/javascript'>
+				document.getElementById('cloak88da0b6ddf4d4310bfbfa347b0850684').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy88da0b6ddf4d4310bfbfa347b0850684 = 'r&#105;fsm' + '&#64;';
+				addy88da0b6ddf4d4310bfbfa347b0850684 = addy88da0b6ddf4d4310bfbfa347b0850684 + 'm&#97;&#105;l' + '&#46;' + 'r&#117;';
+				document.getElementById('cloak88da0b6ddf4d4310bfbfa347b0850684').innerHTML += addy88da0b6ddf4d4310bfbfa347b0850684;
+		</script></strong></span></li>
+</ul>
+<p style="text-align: center;"><strong><em>Оставайтесь с нами!</em></strong></p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="section-id-1523963851848" class="sppb-section " >
+<div class="sppb-row-overlay"></div>
+<div class="sppb-row-container">
+<div class="sppb-row">
+<div class="sppb-col-md-12" id="column-wrap-id-1523963851847">
+<div id="column-id-1523963851847" class="sppb-column" >
+<div class="sppb-column-addons">
+<div id="sppb-addon-1525188546213" class="clearfix" >
+<div class="bdt-addon bdt-addon-heading ">
+<div id="suhead69a491b74f242" class="su-heading su-heading-style-modern-2-light su-heading-align-center">
+<h2 class="su-heading-inner">ГЛАВНЫЕ НОВОСТИ</h2>
+</div>
+</div>
+</div>
+<div id="sppb-addon-1524047429488" class="clearfix" >
+<div class="sppb-addon sppb-addon-articles ">
+<div class="sppb-addon-content">
+<div class="sppb-row">
+<div class="sppb-col-sm-12">
+<div class="sppb-addon-article">
+<h3><a href="/index.php/ru/vse-novosti/knauf-na-sibirskoj-stroitel-noj-nedele-2" itemprop="url">КНАУФ на Сибирской строительной неделе</a></h3>
+<div class="sppb-article-meta"><span class="sppb-meta-date" itemprop="datePublished">06 февраля 2026</span></div>
+<div class="sppb-article-introtext">
+<p style="text-align: center;"><em>КНАУФ представит технологии сухого строительства и огнезащиты <br />на Сибирской строительной неделе в Новосибирске</em></p>
+...</div>
+<a class="sppb-readmore" href="/index.php/ru/vse-novosti/knauf-na-sibirskoj-stroitel-noj-nedele-2" itemprop="url">Читать далее...</a></div>
+</div>
+<div class="sppb-col-sm-12">
+<div class="sppb-addon-article">
+<h3><a href="/index.php/ru/vse-novosti/iskusstvennyj-intellekt-na-strojke-ne-budushchee-a-real-nost" itemprop="url">ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ НА СТРОЙКЕ – НЕ БУДУЩЕЕ, А РЕАЛЬНОСТЬ</a></h3>
+<div class="sppb-article-meta"><span class="sppb-meta-date" itemprop="datePublished">06 февраля 2026</span></div>
+<div class="sppb-article-introtext">
+<p style="text-align: center;"><em><strong>26 февраля</strong> на форуме «УралСтройИндустрия» пройдет экспертный семинар <br /><strong>«Внедрение инструментов на основе ИИ в бизнес-процессы: кейсы от пользователей»</strong>. <br />Участники на живых примерах от коллег-практиков узнают, как нейросети решают конкретные задачи, облегчая поиск проектов и процесс строительства.</em></p>
+...</div>
+<a class="sppb-readmore" href="/index.php/ru/vse-novosti/iskusstvennyj-intellekt-na-strojke-ne-budushchee-a-real-nost" itemprop="url">Читать далее...</a></div>
+</div>
+<div class="sppb-col-sm-12">
+<div class="sppb-addon-article">
+<h3><a href="/index.php/ru/vse-novosti/yugbuild-2026-stroim-budushchee-yuga-rossii" itemprop="url">YugBuild 2026: строим будущее Юга России!</a></h3>
+<div class="sppb-article-meta"><span class="sppb-meta-date" itemprop="datePublished">23 января 2026</span></div>
+<div class="sppb-article-introtext">
+<p style="text-align: center;"><em>С 25 по 28 февраля 2026 года в Краснодаре, в ВКК «Экспоград Юг», <br />пройдет 36-я Международная выставка отделочных и строительных материалов, <br />инженерного оборудования и архитектурных проектов YugBuild. Организатор – компания MVK.</em></p>
+...</div>
+<a class="sppb-readmore" href="/index.php/ru/vse-novosti/yugbuild-2026-stroim-budushchee-yuga-rossii" itemprop="url">Читать далее...</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+	</div>
+
+	
+	
+				
+				
+		
+	
+
+	
+				</div>
+
+</div></main><aside id="sp-right" class="col-lg-2 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="144">
+	<div class="page-content">
+		<div id="section-id-1523898242927" class="sppb-section " ><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1523898243021"><div id="column-id-1523898243021" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1523901008524" class="clearfix" ><div class="sppb-addon sppb-addon-button-group sppb-text-left"><div class="sppb-addon-content"><a href="http://journal-hc.ru/index.php/ru/otpravit-rukopis" id="btn-1523901008524" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> ОТПРАВИТЬ РУКОПИСЬ</a><a href="/index.php/ru/o-zhurnale/razmeshchenie-reklamy" id="btn-1523901008525" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> РАЗМЕСТИТЬ РЕКЛАМУ</a><a target="_blank" href="https://journal-cm.ru/" id="btn-1523901008526" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> ЖУРНАЛ СТРОИТЕЛЬНЫЕ МАТЕРИАЛЫ</a><a target="_blank" href="http://rifsm.ru" id="btn-1523901008527" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> ИЗДАТЕЛЬСТВО СТРОЙМАТЕРИАЛЫ</a><a href="https://journal-hc.ru/index.php/ru/podpiska-2026" id="btn-1523901008528" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> ПОДПИСКА НА ЭЛЕКТРОННУЮ ВЕРСИЮ ЖУРНАЛА 2026 год</a></div></div></div></div></div></div></div></div></div><style type="text/css">@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523897128214{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523897128301{padding-top:10px;padding-right:5px;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#sppb-addon-1524041912017 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523897128303 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}.sp-page-builder .page-content #section-id-1523963851848{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523963851848{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523963851847{box-shadow:0 0 0 0 #fff;}#sppb-addon-1525188546213 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1524047429488 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#column-id-1523898243021{box-shadow:0 0 0 0 #fff;}#sppb-addon-1523901008524 {box-shadow:0 0 0 0 #ffffff;margin:0px -10px 0px -10px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523901008524 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523901008524 .sppb-addon-content {margin:-5px;}#sppb-addon-1523901008524 .sppb-addon-content .sppb-btn {margin:5px;}#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:11px;}#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:9px;}#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:10px;}#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { padding: ;}}</style>	</div>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="118">
+	<div class="page-content">
+		<div id="section-id-1523898242927" class="sppb-section " ><div class="sppb-row-overlay"></div><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1523898243021"><div id="column-id-1523898243021" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1523898243022" class="clearfix" ><div class="sppb-addon sppb-addon-person sppb-text-center  "><div class="sppb-addon-content"><div class="sppb-person-image"><img class="sppb-img-responsive" src="/images/2018/04/15/yumasheva_foto.jpg" alt=""></div><div class="sppb-person-introtext"><p style="text-align: center;"><a href="/index.php/ru/o-zhurnale/glavnyj-redaktor"><span style="font-size: 10pt;"><strong>Елена Ивановна Юмашева</strong></span></a><br /><a href="/index.php/ru/o-zhurnale/glavnyj-redaktor"><span style="font-size: 10pt;">Главный редактор</span></a><br /><span style="font-size: 10pt;"></span></p></div></div></div></div></div></div></div></div></div></div><style type="text/css">@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523897128214{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523897128301{padding-top:10px;padding-right:5px;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#sppb-addon-1524041912017 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523897128303 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}.sp-page-builder .page-content #section-id-1523963851848{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523963851848{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523963851847{box-shadow:0 0 0 0 #fff;}#sppb-addon-1525188546213 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1524047429488 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#column-id-1523898243021{box-shadow:0 0 0 0 #fff;}#sppb-addon-1523901008524 {box-shadow:0 0 0 0 #ffffff;margin:0px -10px 0px -10px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523901008524 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523901008524 .sppb-addon-content {margin:-5px;}#sppb-addon-1523901008524 .sppb-addon-content .sppb-btn {margin:5px;}#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:11px;}#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:9px;}#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:10px;}#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { padding: ;}}#column-id-1523898243021{box-shadow:0 0 0 0 #fff;}#sppb-addon-1523898243022 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523898243022 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523898243022 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523898243022 .sppb-person-image img {border-radius:204px}#sppb-addon-1523898243022 .sppb-person-designation {;margin:;}#sppb-addon-1523898243022 .sppb-person-social > li {margin:;}</style>	</div>
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<hr />
+<p><a href="http://interconpan.ru" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/interconpan_logo.png" alt="" width="150" height="27" /></a></p>
+
+
+<hr />
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="179">
+	<div class="page-content">
+		<div id="section-id-1528383631860" class="sppb-section " ><div class="sppb-row-overlay"></div><div class="sppb-container-inner"><div class="sppb-row sppb-no-gutter"><div class="sppb-col-md-12" id="column-wrap-id-1528383631877"><div id="column-id-1528383631877" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-1528383631878" class="clearfix" ><div class="sppb-addon sppb-addon-button-group sppb-text-left"><div class="sppb-addon-content"><a target="_blank" href="http://rifsm.ru/activities/2/" id="btn-1528383631878" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> КОНФЕРЕНЦИИ</a><a target="_blank" href="http://rifsm.ru/activities/1/" id="btn-1528383631879" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> ВЫСТАВКИ</a><a target="_blank" href="http://rifsm.ru/editions/books/" id="btn-1528383631880" class="sppb-btn  sppb-btn-custom sppb-btn-block sppb-btn-square"><i class="fa fa-book"></i> КНИГИ</a></div></div></div></div></div></div></div></div></div><style type="text/css">@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523897128214{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523897128301{padding-top:10px;padding-right:5px;padding-bottom:0;padding-left:0;box-shadow:0 0 0 0 #fff;}#sppb-addon-1524041912017 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524041912017 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523897128303 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523897128303 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}.sp-page-builder .page-content #section-id-1523963851848{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1523963851848{padding-top:0;padding-right:10px;padding-bottom:0;padding-left:10px;} }#column-id-1523963851847{box-shadow:0 0 0 0 #fff;}#sppb-addon-1525188546213 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1525188546213 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1524047429488 {box-shadow:0 0 0 0 #ffffff;margin:0 0 30px 0;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1524047429488 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#column-id-1523898243021{box-shadow:0 0 0 0 #fff;}#sppb-addon-1523901008524 {box-shadow:0 0 0 0 #ffffff;margin:0px -10px 0px -10px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523901008524 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523901008524 .sppb-addon-content {margin:-5px;}#sppb-addon-1523901008524 .sppb-addon-content .sppb-btn {margin:5px;}#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008524.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008525.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:11px;}#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008526.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:9px;}#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008527.sppb-btn-custom { padding: ;}}#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:10px;}#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1523901008524 #btn-1523901008528.sppb-btn-custom { padding: ;}}#column-id-1523898243021{box-shadow:0 0 0 0 #fff;}#sppb-addon-1523898243022 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1523898243022 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1523898243022 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1523898243022 .sppb-person-image img {border-radius:204px}#sppb-addon-1523898243022 .sppb-person-designation {;margin:;}#sppb-addon-1523898243022 .sppb-person-social > li {margin:;}#column-id-1528383631877{box-shadow:0 0 0 0 #fff;}#sppb-addon-1528383631878 {box-shadow:0 0 0 0 #ffffff;margin:0px -10px 0px -10px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1528383631878 {margin-top:0;margin-right:0;margin-bottom:20px;margin-left:0;}}@media (max-width:767px) {#sppb-addon-1528383631878 {margin-top:0;margin-right:0;margin-bottom:10px;margin-left:0;}}#sppb-addon-1528383631878 .sppb-addon-content {margin:-5px;}#sppb-addon-1528383631878 .sppb-addon-content .sppb-btn {margin:5px;}#sppb-addon-1528383631878 #btn-1528383631878.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1528383631878 #btn-1528383631878.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1528383631878 #btn-1528383631878.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1528383631878 #btn-1528383631878.sppb-btn-custom { padding: ;}}#sppb-addon-1528383631878 #btn-1528383631879.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1528383631878 #btn-1528383631879.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1528383631878 #btn-1528383631879.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1528383631878 #btn-1528383631879.sppb-btn-custom { padding: ;}}#sppb-addon-1528383631878 #btn-1528383631880.sppb-btn-custom { background-color:#865846; color:#fff; padding: ; font-size:12px;}#sppb-addon-1528383631878 #btn-1528383631880.sppb-btn-custom:hover { background-color:#542B1B; color:#fff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1528383631878 #btn-1528383631880.sppb-btn-custom { padding: ;}}@media (max-width:767px) {#sppb-addon-1528383631878 #btn-1528383631880.sppb-btn-custom { padding: ;}}</style>	</div>
+</div>
+</div></div><div class="sp-module "><h3 class="sp-module-title">НАШИ ПАРТНЕРЫ</h3><div class="sp-module-content">
+
+<div class="custom"  >
+	<table style="width: 100%; margin-left: auto; margin-right: auto;" cellpadding="3">
+<tbody>
+<tr>
+<td style="height: 85px;" colspan="2"><a href="http://gs-expert.ru/" target="_blank" rel="noopener"><img src="/images/banners/GS-expert.jpg" alt="GS expert" width="338" height="124" /></a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p></p></div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><strong><span style="font-size: 10pt;"><em>Актуальные даты уточняйте на сайтах организаторов!</em></span></strong></p>
+<table style="margin-left: auto; margin-right: auto;" cellpadding="5">
+<tbody>
+<tr>
+<td style="text-align: left;"><span style="font-size: 8pt;">25–27.02</span><br /><span style="font-size: 8pt;">2026</span></td>
+<td><a href="https://www.stroybvk.ru/" target="_blank" rel="noopener"><img src="/images/banners/2025/usi_100х100.gif" alt="usi 100х100" /></a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 8pt;">11–12.03</span><br /><span style="font-size: 8pt;">2026</span></td>
+<td><a href="https://expochel.ru/expo/11-12-marta-2026-goda-stroitelstvo-nedvizhimost-dizajn-spetsializirovannaya-vystavka-forum/" target="_blank" rel="noopener"><img src="/images/banners/2025/СтройЭкспо_фон-100_100.gif" alt="СтройЭкспо фон 100 100" /></a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><span style="font-size: 8pt;">8–9.04</span><br /><span style="font-size: 8pt;">2026</span></td>
+<td><a href="https://fc-union.com/event/vi-mezhdunarodnaya-nauchno-prakticheskaya-konferentsiya-gidrotehnicheskie-sooruzheniya-sovremennye-tehnologii-proektirovaniya-stroitelstva-i-ekspluatatsii-8-9-aprelya-2026-g-sochi/" target="_blank" rel="noopener"><img src="/images/banners/2026/Feb_100х100.gif" alt="Feb 100х100" /></a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div></div></div></aside></div></div></div></section><footer id="sp-footer"><div class="container"><div class="container-inner"><div class="row"><div id="sp-footer1" class="col-lg-6 "><div class="sp-column "><span class="sp-copyright">© 2026 Жилищное строительство. 
+ Сделано в <a href="https://www.wsmoscow.ru/" target="_blank" rel="noopener">wsmoscow</a></span></div></div><div id="sp-footer2" class="col-lg-6 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<!--LiveInternet counter-->
+<script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t38.7;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet" '+
+'border="0" width="31" height="31"><\/a>')
+</script>
+<!--/LiveInternet-->
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><a href="/index.php/ru/politika-konfidentsial-nosti" target="_blank">Политика конфиденциальности</a></p></div>
+</div></div></div></div></div></div></div></footer>        </div>
+    </div>
+
+    <!-- Off Canvas Menu -->
+    <div class="offcanvas-overlay"></div>
+    <div class="offcanvas-menu">
+        <a href="#" class="close-offcanvas"><span class="fa fa-remove"></span></a>
+        <div class="offcanvas-inner">
+                            <div class="sp-module "><div class="sp-module-content"><ul class="menu">
+<li class="item-101"><a href="/index.php/ru/" title="Журнал &quot;Строительные материалы&quot;">Главная</a></li><li class="item-225"><a href="/index.php/ru/novosti" >Новости</a></li><li class="item-227"><a href="/index.php/ru/about-zhurnal" >О журнале</a></li><li class="item-212"><a href="https://journal-hc.ru/index.php/ru/zhurnaly/2025-ru/zhilishchnoe-stroitel-stvo-12-2025" title="Свежий номер">Свежий номер</a></li><li class="item-175"><a href="/index.php/ru/arkhiv" >Архив</a></li><li class="item-232"><a href="/index.php/ru/search" >Поиск</a></li><li class="item-233"><a href="/index.php/ru/avtoram" >Авторам</a></li><li class="item-164"><a href="/index.php/ru/registratsiya" >Регистрация</a></li><li class="item-223"><a href="/index.php/ru/kontakty" >Контакты</a></li></ul>
+</div></div>
+                    </div>
+    </div>
+    
+    <!-- Go to top -->
+            <a href="#" class="sp-scroll-up" aria-label="Scroll Up"><span class="fa fa-chevron-up" aria-hidden="true"></span></a>
+            </body>
+</html>

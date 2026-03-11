@@ -6,11 +6,23 @@ import { ChartAreaInteractive } from "@/components/chart-area-interactive";
 import { DataTable } from "@/components/data-table";
 import { SectionCards } from "@/components/section-cards";
 import { useSiteContext } from "@/lib/site-context";
+import { faviconSrc } from "@/lib/favicon";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
 
+const WEEKDAY_RU: Record<string, string> = {
+  Monday: "Понедельник",
+  Tuesday: "Вторник",
+  Wednesday: "Среда",
+  Thursday: "Четверг",
+  Friday: "Пятница",
+  Saturday: "Суббота",
+  Sunday: "Воскресенье",
+};
+
 interface Analytics {
   visits_today: number | null;
+  visits_diff: number | null;
   change_pct: number | null;
   rank_today: number | null;
   best_weekday: string | null;
@@ -21,6 +33,7 @@ interface Metric {
   weekday: string;
   visits: number | null;
   visits_diff: number | null;
+  change_pct: number | null;
 }
 
 interface MetricsResponse {
@@ -66,12 +79,13 @@ export default function Page() {
     visits: m.visits ?? 0,
   })), [data]);
 
-  const tableData = useMemo(() => (data?.metrics ?? []).map((m, i) => ({
+  const tableData = useMemo(() => [...(data?.metrics ?? [])].reverse().map((m, i) => ({
     id: i + 1,
     date: m.date,
-    dayOfWeek: m.weekday,
+    dayOfWeek: WEEKDAY_RU[m.weekday] ?? m.weekday,
     traffic: m.visits ?? 0,
     diff: m.visits_diff ?? 0,
+    changePct: m.change_pct ?? null,
   })), [data]);
 
   return (
@@ -81,12 +95,11 @@ export default function Page() {
           {site && (
             <div className="flex items-center gap-3 px-4 lg:px-6">
               <Image
-                src={`https://www.liveinternet.ru/favicon/${site.slug}.ico`}
+                src={faviconSrc(site.slug)}
                 alt=""
                 width={24}
                 height={24}
                 className="shrink-0 rounded-sm"
-                onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
                 unoptimized
               />
               <h1 className="text-xl font-semibold">{site.title ?? site.slug}</h1>

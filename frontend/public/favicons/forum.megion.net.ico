@@ -1,0 +1,4105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- BEGIN TEMPLATE: FORUMHOME -->
+
+<html dir="ltr" lang="ru">
+<head>
+	<!-- no cache headers -->
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="-1" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<!-- end no cache headers -->
+        <meta name="google-site-verification" content="mC8TrjcXboadXSfAa87CVN3FOoss14oDFXpnJRJZzkM" />
+        <!-- BEGIN TEMPLATE: headinclude -->
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="generator" content="vBulletin 3.8.6" />
+
+<meta name="keywords" content="Мегион, megion, megion.net, Мегионский форум, общение, Мегионцы, Мегионец, Мегионка, ХМАО, Западная Сибирь, Администрация Мегиона, Славнефть-Мегионнефтегаз" />
+<meta name="description" content="Мегионский форум - место для общения" />
+<meta name="yandex-verification" content="ce323e7478b66c2b" />
+<meta name="yandex-verification" content="6eaf865ba08cdb47" />
+
+
+<!-- CSS Stylesheet -->
+<style type="text/css" id="vbulletin_css">
+/**
+* vBulletin 3.8.6 CSS
+* Style: 'Default Style'; Style ID: 1
+*/
+@import url("clientscript/vbulletin_css/style-0a092d7b-00001.css");
+</style>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=386" />
+
+
+<!-- / CSS Stylesheet -->
+
+<script type="text/javascript" src="clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=386"></script>
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=386"></script>
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=cf1022c935ab0068d9030666989382ab&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "images/ca_evo2/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=386"></script>
+
+
+
+
+
+	<link rel="alternate" type="application/rss+xml" title="Мегионский форум RSS Feed" href="external.php?type=RSS2" />
+	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22139510-1']);
+  _gaq.push(['_setDomainName', '.megion.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+		<script type="text/javascript" src="https://megion.net/glr/highslide/highslide.js"></script>
+		<script type="text/javascript" src="https://megion.net/glr/highslide/highslide-html.js"></script>
+
+		<script type="text/javascript">
+			hs.graphicsDir = 'https://megion.net/glr/highslide/graphics/';
+			hs.fullExpandTitle = 'Увеличить до актуального размера';
+			hs.restoreTitle = 'Нажмите, чтобы закрыть; нажмите и тяните, чтобы переместить';
+			hs.focusTitle = 'Нажмите, чтобы переместить наверх';
+			hs.loadingText = 'Загрузка...';
+			hs.loadingTitle = 'Нажмите, чтобы отменить';
+			hs.outlineType = 'drop-shadow';
+			hs.align = 'center';
+			window.onload = function()
+			{
+				hs.preloadImages(1);
+			}
+		</script>
+
+		<link rel="stylesheet" type="text/css" href="https://megion.net/glr/highslide/highslide.css" media="screen" />
+	
+<!-- END TEMPLATE: headinclude -->
+	<title>Мегионский форум</title>
+</head>
+<body>
+<!-- BEGIN TEMPLATE: header -->
+<!-- logo -->
+<div id="topb">
+<a href="/cmps_index.php?pageid=wheather"><img src="/images/bn/pogoda.gif" border="0"></a>
+</div>
+<a name="top"></a>
+<div class="topb"></div>
+<!-- main table -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center" class="maintable">
+<tr>
+	<td><!-- content table --><table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tr>
+	<td class="header-row"><table border="0" cellspacing="0" cellpadding="0" class="header-table" width="100%">
+	<tr>
+		<td class="header-table-left" width="9"><img src="clear.gif" width="9" height="1" border="0" alt="" /></td>
+		<td align="left" class="header-table-logo"><a href="index.php?s=cf1022c935ab0068d9030666989382ab"><img src="images/ca_evo2/misc/logo2.gif" border="0" alt="Мегионский форум" onload="if(this.height > 165) { this.height = 165; }" /></a></td>
+		<td align="right" valign="bottom" width="100%" nowrap="nowrap" class="header-table-login">
+<div style='font-size: 9px; width: 400px; float: left; top: 10px; left: 300px; position: absolute'></div>
+
+		<td width="9" class="header-table-right"><img src="clear.gif" width="9" height="1" border="0" alt="" /></td>
+	</tr>
+	</table></td><td><!--begin of Rambler's Top100 code -->
+	<a href="https://www.megion.net/go.php?go=https://top100.rambler.ru/top100/">
+	<img src="https://counter.rambler.ru/top100.cnt?846598" alt="" border="0" height="1" width="1"></a>
+	<!--end of Top100 code--></td>
+</tr>
+<!-- /logo -->
+
+</table>
+<div id="alpbitsfree">
+</div>
+
+<!-- content table -->
+<!-- BEGIN TEMPLATE: spacer_open -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 10px 0px 10px" align="left">
+
+
+<!-- END TEMPLATE: spacer_open -->
+
+
+
+<!-- BEGIN TEMPLATE: ad_header_end -->
+
+<!-- END TEMPLATE: ad_header_end -->
+<script type="text/javascript">
+<!--
+
+    function alp_change(pageid,fidnum)
+    {
+        countDownTime = 120;
+        countlocation=1;
+        ajax_alp = new vB_AJAX_Handler(true);
+        ajax_alp.onreadystatechange(alp_update);
+        ajax_alp.send('ajax.php', 'do=alp'+(pageid?'&page='+pageid:'')+(fidnum?'&f='+fidnum:''));
+        fetch_object('vB_page'+pageid).style.color = "#0002FF";
+        fetch_object('vB_page'+pageid).style.border.width = "1px";
+    }
+
+    function alp_blogs(pageid,fidnum)
+    {
+        countDownTime = 120;
+        countlocation=1;
+        ajax_alp = new vB_AJAX_Handler(true);
+        ajax_alp.onreadystatechange(alp_update);
+        ajax_alp.send('ajax.php', 'do=blogs'+(pageid?'&page='+pageid:'')+(fidnum?'&f='+fidnum:''));
+    }
+
+    function alp_change2()
+    {
+        countDownTime = 120;
+        countlocation=2;
+        ajax_alp = new vB_AJAX_Handler(true);
+        ajax_alp.onreadystatechange(alp_update);
+        ajax_alp.send('ajax.php', 'do=alp2');
+    }
+
+    function alp_post(postid,ev_obj,tip,catt)
+    {
+        countDownTime = 120;
+        countlocation=2;
+        if (ev_obj.target)
+        {
+                if (ev_obj.target.nodeName && ev_obj.target.nodeName=='SPAN')
+                {
+        //            fetch_object('alpbitsfree').innerHTML = '';
+                }
+        }
+        ajax_alp = new vB_AJAX_Handler(true);
+        ajax_alp.onreadystatechange(alp_update2);
+        if (catt == 'forum') { ajax_alp.send('ajax.php', 'do=alp3&catt=forum&id='+ PHP.urlencode(postid)); 
+        }
+        if (catt == 'blog') { ajax_alp.send('ajax.php', 'do=alp3&catt=blog&id='+ PHP.urlencode(postid)); 
+        }
+
+        var pos_X = 0, pos_Y = 0;
+        pos_X = ev_obj.clientX; 
+        pos_Y = ev_obj.clientY;
+        fetch_object('alpbitsfree').style.width = 800;
+//      fetch_object('alpbitsfree').style.height = 200;
+        if (ev_obj.target)
+        {
+           if (ev_obj.target.nodeName=='SPAN')
+           {
+              fetch_object('alpbitsfree').style.top = pos_Y+10+"px";
+              fetch_object('alpbitsfree').style.left = pos_X-120+"px";
+           }
+        } else {
+        if (tip == 'S') 
+        {
+              fetch_object('alpbitsfree').style.top = pos_Y+10+"px";
+              fetch_object('alpbitsfree').style.left = pos_X-120+"px";
+         }}
+
+        fetch_object('alpbitsfree').style.visibility = 'visible';
+    }
+
+    function closeabf()
+    {
+        fetch_object('alpbitsfree').style.width = "800px";
+        fetch_object('alpbitsfree').style.left = "-1200px";
+        fetch_object('alpbitsfree').style.visibility = 'hidden';
+        fetch_object('alpbitsfree').innerHTML = '';
+    }
+
+    function alp_update()
+    {
+        fetch_object('alpbits').innerHTML = '<center><img  src="images/ca_evo2/misc\/progress.gif" alt="" \/><b> Updating Alp Pro... <\/b><img  src="images/ca_evo2/misc\/progress.gif" alt="" \/><\/center>';
+        if (ajax_alp.handler.readyState == 4 && ajax_alp.handler.status == 200 && ajax_alp.handler.responseText)
+        {
+            fetch_object('alp').innerHTML = ajax_alp.handler.responseText;
+        }
+    }
+
+    function alp_update2()
+    {
+        if (ajax_alp.handler.readyState == 4 && ajax_alp.handler.status == 200 && ajax_alp.handler.responseText)
+        {
+            fetch_object('alpbitsfree').innerHTML = ajax_alp.handler.responseText;
+        }
+    }
+
+//-->
+</script>
+
+
+<script type="text/javascript">
+<!--
+var countDownInterval=120;
+var countDownTime=countDownInterval+1;
+var countlocation=1;
+
+    function countDown()
+    {
+        countDownTime--;
+        if (countDownTime <=0)
+        {
+        countDownTime=countDownInterval;
+        clearTimeout(counter)
+
+//        if (countlocation==1)
+        if (1==1)
+        {
+        ajax_alp = new vB_AJAX_Handler(true);
+        ajax_alp.onreadystatechange(alp_update);
+        ajax_alp.send('ajax.php', 'do=alp');
+        countDownTime = 120;
+        }
+        else
+        {
+        ajax_alp = new vB_AJAX_Handler(true);
+        ajax_alp.onreadystatechange(alp_update);
+        ajax_alp.send('ajax.php', 'do=alp2');
+        countDownTime = 120;
+        }
+        }
+        counter=setTimeout("countDown()", 1000);
+    }
+
+    if (document.all||document.getElementById)
+    countDown()
+    else
+    window.onload=countDown
+//-->
+</script>
+
+		<div id="hscontrolbar" class="highslide-overlay hscontrolbar">
+			<a href="#" class="previous" onclick="return hs.previous(this)" title="Назад (клавиша стрелка-влево)"></a>
+			<a href="#" class="next" onclick="return hs.next(this)" title="Вперед (клавиша стрелка-вправо)"></a>
+			<a href="#" class="highslide-move" onclick="return false" title="Нажмите и тяните, чтобы переместить"></a>
+			<a href="#" class="close" onclick="return hs.close(this)" title="Закрыть"></a>
+		</div>
+	
+<!-- END TEMPLATE: header --><!-- BEGIN TEMPLATE: blog_navbar_link_menu -->
+<div class="vbmenu_popup" id="vbbloglinks_menu" style="display:none;margin-top:3px" align="left">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead"><a href="blog.php?s=cf1022c935ab0068d9030666989382ab">Дневники</a></td>
+	</tr>
+	
+	<tr>
+		<td class="vbmenu_option"><a href="blog.php?s=cf1022c935ab0068d9030666989382ab&amp;do=list">Последние записи</a></td>
+	</tr>
+	<tr>
+		<td class="vbmenu_option"><a href="blog.php?s=cf1022c935ab0068d9030666989382ab&amp;do=list&amp;blogtype=best">Лучшие записи</a></td>
+	</tr>
+	<tr>
+		<td class="vbmenu_option"><a href="blog.php?s=cf1022c935ab0068d9030666989382ab&amp;do=bloglist&amp;blogtype=best">Лучшие дневники</a></td>
+	</tr>
+	<tr>
+		<td class="vbmenu_option"><a href="blog.php?s=cf1022c935ab0068d9030666989382ab&amp;do=bloglist">Список дневников</a></td>
+	</tr>
+	
+	<tr>
+		<td class="vbmenu_option"><a href="blog_search.php?s=cf1022c935ab0068d9030666989382ab&amp;do=search">Поиск по дневникам</a></td>
+	</tr>
+	
+	</table>
+</div>
+<!-- END TEMPLATE: blog_navbar_link_menu -->
+<!-- BEGIN TEMPLATE: navbar -->
+<!-- nav buttons bar -->
+<div class="navbar-row" style="padding:0px; border-top-width:0px">
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+	<tr align="center">
+		
+		
+		<!-- BEGIN TEMPLATE: blog_navbar_link -->
+<td class="vbmenu_control"><a id="vbbloglinks" href="blog.php?s=cf1022c935ab0068d9030666989382ab">Дневники</a><script type="text/javascript">vbmenu_register("vbbloglinks");</script></td>
+<!-- END TEMPLATE: blog_navbar_link -->
+		<td class="vbmenu_control"><a href="faq.php?s=cf1022c935ab0068d9030666989382ab" accesskey="5">Справка</a></td>
+		
+			<td class="vbmenu_control"><a href="memberlist.php?s=cf1022c935ab0068d9030666989382ab">Пользователи</a></td>
+		
+		<td class="vbmenu_control"><a href="cmps_index.php?s=cf1022c935ab0068d9030666989382ab">Домашняя страница</a></td>
+		<td class="vbmenu_control"><a href="calendar.php?s=cf1022c935ab0068d9030666989382ab">Календарь</a></td>
+		<td class="vbmenu_control"><a href="/glr/index.php?s=cf1022c935ab0068d9030666989382ab">Галерея</a></td>
+		
+			
+				<td class="vbmenu_control"><a href="search.php?s=cf1022c935ab0068d9030666989382ab" accesskey="4">Поиск</a></td>
+				
+				<td class="vbmenu_control"><a href="search.php?s=cf1022c935ab0068d9030666989382ab&amp;do=getdaily" accesskey="2">Сообщения за день</a></td>
+				
+			
+			<td class="vbmenu_control"><a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Все разделы прочитаны</a></td>
+			
+		
+		
+		
+		</tr>
+	</table>
+</div>
+<!-- / nav buttons bar -->
+
+<!-- breadcrumb, login, pm info -->
+<table cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+<tr>
+	<td class="alt1" width="100%">
+		
+			<div class="navbar" style="font-size:10pt"><a href="index.php?s=cf1022c935ab0068d9030666989382ab" accesskey="1"><img class="inlineimg" src="images/ca_evo2/misc/navbits_start.gif" alt="" border="0" /></a> <strong>Мегионский форум</strong></div>
+		
+	</td>
+
+	<td class="alt2" nowrap="nowrap" style="padding:0px">
+		<!-- login form -->
+		<form action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=386"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tr>
+			<td class="smallfont" style="white-space: nowrap;"><label for="navbar_username">Имя</label></td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Имя" onfocus="if (this.value == 'Имя') this.value = '';" /></td>
+			<td class="smallfont" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c" />Запомнить?</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont"><label for="navbar_password">Пароль</label></td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" tabindex="102" /></td>
+			<td><input type="submit" class="button" value="Вход" tabindex="104" title="Введите ваше имя пользователя и пароль, чтобы войти, или нажмите кнопку 'Регистрация', чтобы зарегистрироваться." accesskey="s" /></td>
+		</tr>
+		</table>
+		<input type="hidden" name="s" value="cf1022c935ab0068d9030666989382ab" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" name="do" value="login" />
+		<input type="hidden" name="vb_login_md5password" />
+		<input type="hidden" name="vb_login_md5password_utf" />
+		</form>
+		<!-- / login form -->
+	</td>
+
+</tr>
+</table>
+<!-- / breadcrumb, login, pm info -->
+
+
+
+
+<!-- BEGIN TEMPLATE: ad_navbar_below -->
+
+<!-- END TEMPLATE: ad_navbar_below -->
+<br /><div id="alp"><a name="alpyer"></a>
+<table class="tborder" cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+ <tr>
+  <td class="thead" width="100%" align="left" nowrap="nowrap">Последние сообщения
+   <form action="index.php?do=alppro" method="post" id="alp_form">
+    <input tabindex="1" value="Форум" id="vB_ReNew" type="button" onclick="alp_change();" class="catbutton_selected" />
+    <input tabindex="2" value="Дневники" id="vB_ReNew" type="button" onclick="alp_blogs();" class="catbutton" />
+   <input type="hidden" value="guest" name="securitytoken" /></form>
+  </td>
+ </tr>
+
+ <tr>
+  <td class="alt1" width="100%" valign="top">
+   <table>
+    <tr>
+     <td class="tcat" colspan="6">
+      <form action="index.php?do=alppro" method="post" id="alp_form">Страницы:
+       <input tabindex="1" value=" 1 " id="vB_page1" type="button" onclick="alp_change(1,0);" class="pagebutton" />
+       <input tabindex="2" value=" 2 " id="vB_page2" type="button" onclick="alp_change(2,0);" class="pagebutton" />
+       <input tabindex="3" value=" 3 " id="vB_page3" type="button" onclick="alp_change(3,0);" class="pagebutton" />
+       <input tabindex="4" value=" 4 " id="vB_page4" type="button" onclick="alp_change(4,0);" class="pagebutton" />
+       <input tabindex="5" value=" 5 " id="vB_page5" type="button" onclick="alp_change(5,0);" class="pagebutton" />
+      <input type="hidden" value="guest" name="securitytoken" /></form>
+     </td>
+    </tr>
+    
+    <tr>
+     <td width="25%" nowrap="nowrap"><div class="smallfont">Форум</div></td>
+     <td width="40%" nowrap="nowrap"><div class="smallfont">Темы</div></td>
+     <td width="20%" nowrap="nowrap"><div class="smallfont">Автор сообщения</div></td>
+     <td width="5%" nowrap="nowrap"><div class="smallfont">Время</div></td>
+     <td width="5%" nowrap="nowrap"><div class="smallfont">Просмотров</div></td>
+     <td width="5%" nowrap="nowrap"><div class="smallfont">Ответов</div></td>
+    </tr>
+
+   <!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=115">Народные новости</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj10613" onclick="alp_post(705399,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10613">Чего ждать от Натальи Комаровой?</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5292">Кактус</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        16-10, 00:07
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        688489
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        975
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=114">Вопросы по форуму</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj5633" onclick="alp_post(705398,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=5633">О форуме</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2418"><span style="color: #aa4400;">John Smith</span></a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        21-09, 14:29
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1584278
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        4452
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=187">Общественная организация &quot</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj16352" onclick="alp_post(705396,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=16352">Вопросы по здравоохранению.</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2762"><span style="color: green;">SheLLma</span></a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        17-06, 00:08
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1243534
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        2110
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=142">Флейм</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj11410" onclick="alp_post(705394,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11410">Вы бы уехали из Мегиона, меняя постоянное место жи...</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2762"><span style="color: green;">SheLLma</span></a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        04-04, 15:19
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        295758
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        736
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=111">Городская жизнь</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj13894" onclick="alp_post(705393,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=13894">Гороффтоп</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5502">Качапкин</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        16-03, 11:10
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        4184522
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        9667
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=113">Барахолка/Недвижимость - спрос</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj10450" onclick="alp_post(705391,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10450">Куплю/продам/unsorted</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=7905">слоупок</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        07-07, 00:02
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1405269
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        3530
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=118">Книги, Литература</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj10582" onclick="alp_post(705389,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10582">Джек Лондон</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2717"><span style="color: #005500;">Baiker</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        21-05, 13:31
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        57190
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        5
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=183">Уголок потребителя</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj11106" onclick="alp_post(705378,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11106">Потребительский оффтоп</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5502">Качапкин</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        28-02, 09:20
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1861443
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        3278
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=182">От героев былых времён...</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj22254" onclick="alp_post(705374,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22254">Умер режиссер Сергей Соловьев</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5292">Кактус</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        13-12, 23:56
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        53503
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        0
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=142">Флейм</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj11765" onclick="alp_post(705371,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11765">О чем говорят в интернете..</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=17624">Twins</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        10-12, 14:18
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        4339849
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        10258
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=144">Авто/Мото</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj12893" onclick="alp_post(705352,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=12893">Про пикапы</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5246">hudoi</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        14-07, 13:42
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        489379
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        785
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=111">Городская жизнь</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj11721" onclick="alp_post(705342,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11721">Что нужно сделать в городе для охраны окружающей с...</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=3044">Oleg_</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        05-07, 09:22
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        602486
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1057
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=138">Книга жалоб и предложений</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj6701" onclick="alp_post(705329,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=6701">МУП &quot;ТВК&quot; слушает....</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=3044">Oleg_</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        10-04, 18:16
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        818354
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1791
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=160">М Ы   П О М Н И М !</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj22253" onclick="alp_post(705327,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22253">Памяти Евгения &quot;ДжА&quot; Охрименко</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2717"><span style="color: #005500;">Baiker</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        01-03, 10:31
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        20282
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        5
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=119">Искусство, Философия, Культура</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj7519" onclick="alp_post(705315,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=7519">Советский Союз</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=6657">Мегиончик</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        08-01, 23:52
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        1629113
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        3599
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=120">Поздравляю!</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj12030" onclick="alp_post(705313,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=12030">С Днем рождения, Хитрая!</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5280">Хитрая</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        10-12, 13:16
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        118088
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        279
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=120">Поздравляю!</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj11863" onclick="alp_post(705283,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11863">С Днем Рождения, map086!</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=4641">Пользователь</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        12-11, 10:30
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        67386
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        155
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=126">Работа</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj17040" onclick="alp_post(705280,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=17040">Вакансии в Сургутнефтегазе</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5366">lexx816</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        09-11, 18:01
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        611594
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        321
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=120">Поздравляю!</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj14126" onclick="alp_post(705279,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=14126">С днем рождения, Пользователь!</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5502">Качапкин</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        07-11, 09:36
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        43233
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        107
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit --><!-- BEGIN TEMPLATE: alp_latest_bit -->
+<tr>
+<td nowrap="nowrap" align="right">
+        <div class="smallfont">
+        <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=120">Поздравляю!</a>
+        </div>
+        </td>
+<td nowrap="nowrap">
+        <div class="smallfont">
+        <strong>
+        <img class="inlineimg" src="images/ca_evo2/statusicon/post_old.gif" alt="" border="0" />&nbsp;<span id="mesaj8681" onclick="alp_post(705271,event,'S','forum');" style="cursor: pointer">[&#9660;]</span>&nbsp;<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8681">С Днем Рождения, Черная Кошка!</a>
+        </strong>
+        </div>
+        </td>
+        
+				<td nowrap="nowrap">
+        <div class="smallfont">
+        <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5502">Качапкин</a>
+        </div>
+        </td>
+
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        02-11, 08:57
+        </div>
+        </td>
+        
+				<td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        105168
+        </div>
+        </td>
+				
+        <td align="center" nowrap="nowrap">
+        <div class="smallfont">
+        310
+
+        </div>
+        </td>
+
+				
+</tr>
+
+<!-- END TEMPLATE: alp_latest_bit -->
+   </table>			
+  </td>
+ </tr> 
+ <tr>
+  <td class="tfoot" colspan="3">
+    <div id="alpbits"></div>
+  </td>
+ </tr>
+</table>
+</div>
+
+<!-- END TEMPLATE: navbar -->
+<div class="randomtips"></div>
+
+
+
+<!-- BEGIN TEMPLATE: photoplog_minithumb_nails -->
+<table class="tborder" border="0" cellpadding="4" cellspacing="0" align="center" width="100%">
+<thead>
+<tr>
+	<td class="thead" colspan="5">
+		<a style="float: right;" href="#top" onclick="return toggle_collapse('photoplog_randombits')"><img id="collapseimg_photoplog_randombits" src="images/ca_evo2/buttons/collapse_thead.gif" alt="Переключить" border="0" /></a>
+		Случайные миниатюры
+	</td>
+</tr>
+</thead>
+<tbody id="collapseobj_photoplog_randombits" style="">
+<tr>
+	<!-- BEGIN TEMPLATE: photoplog_minithumb_pics -->
+<td class="alt2" align="center">
+
+	<script type="text/javascript">hs.registerOverlay({thumbnailId: 'hsjs1', overlayId: 'hscontrolbar', position: 'top right', hideOnMouseOut: true});</script>
+	<a id="hsjs1" href="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=125&amp;w=l" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'minithumbpic'})"><img style="width: 55px; padding: 1px; border: 1px solid #CCCCCC;" src="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=125&amp;w=s" alt="19.09.09." border="0" /></a>
+	<div class="highslide-caption" id="caption-for-hsjs1"><a href="/glr/index.php?s=cf1022c935ab0068d9030666989382ab&amp;n=125">19.09.09.</a>&nbsp;</div>
+
+</td>
+<!-- END TEMPLATE: photoplog_minithumb_pics --><!-- BEGIN TEMPLATE: photoplog_minithumb_pics -->
+<td class="alt2" align="center">
+
+	<script type="text/javascript">hs.registerOverlay({thumbnailId: 'hsjs2', overlayId: 'hscontrolbar', position: 'top right', hideOnMouseOut: true});</script>
+	<a id="hsjs2" href="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=69&amp;w=l" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'minithumbpic'})"><img style="width: 55px; padding: 1px; border: 1px solid #CCCCCC;" src="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=69&amp;w=s" alt="обоина" border="0" /></a>
+	<div class="highslide-caption" id="caption-for-hsjs2"><a href="/glr/index.php?s=cf1022c935ab0068d9030666989382ab&amp;n=69">обоина</a>&nbsp;</div>
+
+</td>
+<!-- END TEMPLATE: photoplog_minithumb_pics --><!-- BEGIN TEMPLATE: photoplog_minithumb_pics -->
+<td class="alt2" align="center">
+
+	<script type="text/javascript">hs.registerOverlay({thumbnailId: 'hsjs3', overlayId: 'hscontrolbar', position: 'top right', hideOnMouseOut: true});</script>
+	<a id="hsjs3" href="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=20&amp;w=l" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'minithumbpic'})"><img style="width: 55px; padding: 1px; border: 1px solid #CCCCCC;" src="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=20&amp;w=s" alt="5" border="0" /></a>
+	<div class="highslide-caption" id="caption-for-hsjs3"><a href="/glr/index.php?s=cf1022c935ab0068d9030666989382ab&amp;n=20">5</a>&nbsp;</div>
+
+</td>
+<!-- END TEMPLATE: photoplog_minithumb_pics --><!-- BEGIN TEMPLATE: photoplog_minithumb_pics -->
+<td class="alt2" align="center">
+
+	<script type="text/javascript">hs.registerOverlay({thumbnailId: 'hsjs4', overlayId: 'hscontrolbar', position: 'top right', hideOnMouseOut: true});</script>
+	<a id="hsjs4" href="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=132&amp;w=l" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'minithumbpic'})"><img style="width: 55px; padding: 1px; border: 1px solid #CCCCCC;" src="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=132&amp;w=s" alt="Россия :)" border="0" /></a>
+	<div class="highslide-caption" id="caption-for-hsjs4"><a href="/glr/index.php?s=cf1022c935ab0068d9030666989382ab&amp;n=132">Россия :)</a>&nbsp;</div>
+
+</td>
+<!-- END TEMPLATE: photoplog_minithumb_pics --><!-- BEGIN TEMPLATE: photoplog_minithumb_pics -->
+<td class="alt2" align="center">
+
+	<script type="text/javascript">hs.registerOverlay({thumbnailId: 'hsjs5', overlayId: 'hscontrolbar', position: 'top right', hideOnMouseOut: true});</script>
+	<a id="hsjs5" href="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=71&amp;w=l" class="highslide" onclick="return hs.expand(this, {slideshowGroup: 'minithumbpic'})"><img style="width: 55px; padding: 1px; border: 1px solid #CCCCCC;" src="/glr/file.php?s=cf1022c935ab0068d9030666989382ab&amp;n=71&amp;w=s" alt="птичка" border="0" /></a>
+	<div class="highslide-caption" id="caption-for-hsjs5"><a href="/glr/index.php?s=cf1022c935ab0068d9030666989382ab&amp;n=71">птичка</a>&nbsp;</div>
+
+</td>
+<!-- END TEMPLATE: photoplog_minithumb_pics -->
+</tr>
+</tbody>
+</table>
+<br />
+<!-- END TEMPLATE: photoplog_minithumb_nails -->
+
+<!-- kz h -->
+
+<!-- guest welcome message -->
+<table class="tborder" cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+<tr>
+	<td class="tcat">Добро пожаловать на Мегионский форум.</td>
+</tr>
+<tr>
+	<td class="alt1">
+		Если это ваш первый визит, рекомендуем почитать <a href="faq.php?s=cf1022c935ab0068d9030666989382ab"><strong>справку</strong></a> по форуму.
+Для размещения своих сообщений необходимо <a href="register.php?s=cf1022c935ab0068d9030666989382ab"><strong>зарегистрироваться</strong></a>.
+Для просмотра сообщений выберите раздел.
+	</td>
+</tr>
+</table>
+<!-- / guest welcome message -->
+<br />
+
+
+<!-- main -->
+
+<table class="tborder" cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+<thead>
+	<tr align="center">
+	  <td class="thead">&nbsp;</td>
+	  <td class="thead" width="100%" align="left">Раздел</td>
+	  <td class="thead" width="175">Последнее сообщение</td>
+	  <td class="thead">Тем</td>
+	  <td class="thead">Сообщений</td>
+	  
+	</tr>
+</thead>
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_156')"><img id="collapseimg_forumbit_156" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=156">Новости и статьи</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_156" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_163" /></td>
+	<td class="alt1Active" align="left" id="f163">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=163"><strong>Новости admmegion</strong></a>
+			<span class="smallfont">(просматривают: 55)</span>
+		</div>
+		<div class="smallfont">Официальные новости (импорт rss с admmegion.ru)</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=17710" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'ГИМС напоминает: маломерные суда подлежат освидетельствованию'"><strong>ГИМС напоминает: маломерные суда подлежат...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=163" rel="nofollow">Качапкин</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		05.05.2020 <span class="time">09:51</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=704493#post704493"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">8,968</td>
+	<td class="alt2">31,851</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_194" /></td>
+	<td class="alt1Active" align="left" id="f194">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=194"><strong>Пресс-служба Губернатора Югры</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		<div class="smallfont">Официальные новости (импорт rss с ugra-press.blogspot.com/)</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=15236" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Обсуждаем  закон  о О компенсации части родительской платы'"><strong>Обсуждаем  закон  о О компенсации части...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=194" rel="nofollow">map086</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		17.04.2012 <span class="time">12:30</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=485688#post485688"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">1</td>
+	<td class="alt2">3</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_101')"><img id="collapseimg_forumbit_101" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=101">Общение</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_101" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_184" /></td>
+	<td class="alt1Active" align="left" id="f184">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=184"><strong>Администрация города</strong></a>
+			<span class="smallfont">(просматривают: 7)</span>
+		</div>
+		<div class="smallfont">Ваши вопросы, пожелания, жалобы и похвалы к администрации города.</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/ca_evo2/misc/poll_posticon.gif" alt="Голосование" border="0" />
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11668" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Стратегия развития города'"><strong>Стратегия развития города</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=184" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		16.04.2019 <span class="time">17:54</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=702378#post702378"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">25</td>
+	<td class="alt2">4,860</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_187" /></td>
+	<td class="alt1Active" align="left" id="f187">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=187"><strong>Общественная организация "Мегионский форум"</strong></a>
+			<span class="smallfont">(просматривают: 21)</span>
+		</div>
+		
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_190" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=190">Основной</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (13/1978)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_191" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=191">Голосования</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (15/1074)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=16352" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Вопросы по здравоохранению.'"><strong>Вопросы по здравоохранению.</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=187" rel="nofollow">SheLLma</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		17.06.2023 <span class="time">00:08</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705396#post705396"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">61</td>
+	<td class="alt2">8,918</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_180" /></td>
+	<td class="alt1Active" align="left" id="f180">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=180"><strong>Выборы</strong></a>
+			<span class="smallfont">(просматривают: 41)</span>
+		</div>
+		<div class="smallfont">Всё что касается выборов</div>
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_175" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=175">Выборы'09</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (18/6786)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_196" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=196">Выборы'12</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (7/2000)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_181" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=181">Выборы'10</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (4/2425)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_192" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=192">Выборы'11</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (12/2741)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22251" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Выбору в Думу г.Мегиона (2020)'"><strong>Выбору в Думу г.Мегиона (2020)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=180" rel="nofollow">Мегиончик</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		20.09.2020 <span class="time">23:48</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705101#post705101"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">48</td>
+	<td class="alt2">14,547</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_185" /></td>
+	<td class="alt1Active" align="left" id="f185">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=185"><strong>Детская нашего форума</strong></a>
+			<span class="smallfont">(просматривают: 7)</span>
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11820" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Вопросы, ответы, советы для родителей.'"><strong>Вопросы, ответы, советы для родителей.</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=185" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		17.02.2020 <span class="time">00:11</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=704078#post704078"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">52</td>
+	<td class="alt2">5,310</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_183" /></td>
+	<td class="alt1Active" align="left" id="f183">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=183"><strong>Уголок потребителя</strong></a>
+			<span class="smallfont">(просматривают: 7)</span>
+		</div>
+		<div class="smallfont">Товары, услуги повседневной жизни, делимся опытом, советами...</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11106" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Потребительский оффтоп'"><strong>Потребительский оффтоп</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=183" rel="nofollow">Качапкин</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		28.02.2022 <span class="time">09:20</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705378#post705378"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">83</td>
+	<td class="alt2">7,295</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_142" /></td>
+	<td class="alt1Active" align="left" id="f142">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=142"><strong>Флейм</strong></a>
+			<span class="smallfont">(просматривают: 21)</span>
+		</div>
+		<div class="smallfont">- Outsorted -</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/ca_evo2/misc/poll_posticon.gif" alt="Голосование" border="0" />
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11410" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Вы бы уехали из Мегиона, меняя постоянное место жительства?'"><strong>Вы бы уехали из Мегиона, меняя постоянное место...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=142" rel="nofollow">SheLLma</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		04.04.2023 <span class="time">15:19</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705394#post705394"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">375</td>
+	<td class="alt2">39,205</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_115" /></td>
+	<td class="alt1Active" align="left" id="f115">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=115"><strong>Народные новости</strong></a>
+			<span class="smallfont">(просматривают: 14)</span>
+		</div>
+		<div class="smallfont">Все что кажется вам интересным, но об этом никто не знает</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/ca_evo2/misc/poll_posticon.gif" alt="Голосование" border="0" />
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10613" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Чего ждать от Натальи Комаровой?'"><strong>Чего ждать от Натальи Комаровой?</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=115" rel="nofollow">Кактус</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		16.10.2023 <span class="time">00:07</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705399#post705399"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">429</td>
+	<td class="alt2">21,521</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_143" /></td>
+	<td class="alt1Active" align="left" id="f143">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=143"><strong>Страна советов</strong></a>
+			<span class="smallfont">(просматривают: 6)</span>
+		</div>
+		<div class="smallfont">Подсказать, порекомендовать, спросить, узнать можно и нужно здесь!</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/ca_evo2/misc/poll_posticon.gif" alt="Голосование" border="0" />
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=12104" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Самооборона. Оружие - мнения, советы, рекомендации.'"><strong>Самооборона. Оружие - мнения, советы,...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=143" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		05.03.2020 <span class="time">01:25</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=704188#post704188"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">224</td>
+	<td class="alt2">8,418</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_111" /></td>
+	<td class="alt1Active" align="left" id="f111">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=111"><strong>Городская жизнь</strong></a>
+			<span class="smallfont">(просматривают: 24)</span>
+		</div>
+		<div class="smallfont">События, факты, слухи - обсуждение</div>
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_186" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=186">Накипело</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (3/513)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=13894" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Гороффтоп'"><strong>Гороффтоп</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=111" rel="nofollow">Качапкин</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		16.03.2023 <span class="time">11:10</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705393#post705393"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">553</td>
+	<td class="alt2">60,241</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_120" /></td>
+	<td class="alt1Active" align="left" id="f120">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=120"><strong>Поздравляю!</strong></a>
+			<span class="smallfont">(просматривают: 7)</span>
+		</div>
+		<div class="smallfont">Если нет повода, то это еще не повод не поздравлять</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=12030" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'С Днем рождения, Хитрая!'"><strong>С Днем рождения, Хитрая!</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=120" rel="nofollow">Хитрая</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		10.12.2020 <span class="time">13:16</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705313#post705313"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">300</td>
+	<td class="alt2">14,465</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_138" /></td>
+	<td class="alt1Active" align="left" id="f138">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=138"><strong>Книга жалоб и предложений</strong></a>
+			<span class="smallfont">(просматривают: 9)</span>
+		</div>
+		<div class="smallfont">Отношение к потребителю/покупателю в городе: в каком магазине вам/вы нахамили, по какому поводу, где вам понравилось, что и где продается дешевле/дороже/лучше/хуже...</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=6701" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'МУП &quot;ТВК&quot; слушает....'"><strong>МУП &quot;ТВК&quot; слушает....</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=138" rel="nofollow">Oleg_</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		10.04.2021 <span class="time">18:16</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705329#post705329"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">110</td>
+	<td class="alt2">15,222</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_140" /></td>
+	<td class="alt1Active" align="left" id="f140">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=140"><strong>Пойдем - выйдем...</strong></a>
+			<span class="smallfont">(просматривают: 6)</span>
+		</div>
+		<div class="smallfont">Место для выяснения отношений. И только здесь! Из остальных форумов все что на это будет похоже будет перемещаться сюда</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=7559" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Союзники и враги РОССИИ кто они?'"><strong>Союзники и враги РОССИИ кто они?</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=140" rel="nofollow">Дачник</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		06.10.2015 <span class="time">12:58</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=653732#post653732"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">49</td>
+	<td class="alt2">5,548</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_151" /></td>
+	<td class="alt1Active" align="left" id="f151">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=151"><strong>География нашего форума</strong></a>
+			<span class="smallfont">(просматривают: 3)</span>
+		</div>
+		<div class="smallfont">Добро пожаловать в гостевой раздел Мегионского форума. Здесь можно оставить приветствие, тему, сообщение о себе и о том, откуда Вы</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22226" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Барнаул'"><strong>Барнаул</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=151" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		01.05.2018 <span class="time">20:18</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=695869#post695869"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">8</td>
+	<td class="alt2">552</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_102')"><img id="collapseimg_forumbit_102" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=102">Увлечения, хобби</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_102" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_193" /></td>
+	<td class="alt1Active" align="left" id="f193">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=193"><strong>Вкусно есть</strong></a>
+			<span class="smallfont">(просматривают: 9)</span>
+		</div>
+		<div class="smallfont">Всё о том как вкусно, а может быть даже  полезно поесть.</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=14473" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Красная икра'"><strong>Красная икра</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=193" rel="nofollow">lexx816</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		20.12.2019 <span class="time">14:11</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=703792#post703792"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">25</td>
+	<td class="alt2">3,343</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_144" /></td>
+	<td class="alt1Active" align="left" id="f144">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=144"><strong>Авто/Мото</strong></a>
+			<span class="smallfont">(просматривают: 20)</span>
+		</div>
+		<div class="smallfont">Наши железные друзья :)</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=12893" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Про пикапы'"><strong>Про пикапы</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=144" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		14.07.2021 <span class="time">13:42</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705352#post705352"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">146</td>
+	<td class="alt2">45,403</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_112" /></td>
+	<td class="alt1Active" align="left" id="f112">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=112"><strong>Рыбалка, охота, лес, партизаны</strong></a>
+			<span class="smallfont">(просматривают: 16)</span>
+		</div>
+		<div class="smallfont">кроме этого все что с этим связано.</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10681" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Авантюристам посвящаятся!'"><strong>Авантюристам посвящаятся!</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=112" rel="nofollow">Nic</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		14.04.2020 <span class="time">18:27</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=704396#post704396"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">37</td>
+	<td class="alt2">5,783</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_119" /></td>
+	<td class="alt1Active" align="left" id="f119">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=119"><strong>Искусство, Философия, Культура</strong></a>
+			<span class="smallfont">(просматривают: 35)</span>
+		</div>
+		<div class="smallfont">Взгляд на философию через искусство и наоборот; О культуре</div>
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_116" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=116">Кино и TV</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (228/8066)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_117" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=117">Музыка</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (217/9076)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_118" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=118">Книги, Литература</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (58/1731)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10582" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Джек Лондон'"><strong>Джек Лондон</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=118" rel="nofollow">Baiker</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		21.05.2022 <span class="time">13:31</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705389#post705389"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">567</td>
+	<td class="alt2">28,207</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_125" /></td>
+	<td class="alt1Active" align="left" id="f125">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=125"><strong>Спорт</strong></a>
+			<span class="smallfont">(просматривают: 34)</span>
+		</div>
+		<div class="smallfont">Спортивные площадки, комплексы, бассейны, соревнования, футбол, теннис ...</div>
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_162" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=162">Formula 1</a>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_176" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=176">Хоккей</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (11/2682)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_177" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=177">Футбол</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (19/8789)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8351" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Хоккей рулит!'"><strong>Хоккей рулит!</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=176" rel="nofollow">Baiker</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		21.09.2020 <span class="time">12:52</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705103#post705103"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">130</td>
+	<td class="alt2">17,182</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_132" /></td>
+	<td class="alt1Active" align="left" id="f132">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=132"><strong>Психология, отношения полов...</strong></a>
+			<span class="smallfont">(просматривают: 4)</span>
+		</div>
+		<div class="smallfont">Что может беспокоить людей? Почему мы так зависимы от себя? Попробуем обсудить...</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10967" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Мужчины и женщины: взаимоотношения полов'"><strong>Мужчины и женщины: взаимоотношения полов</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=132" rel="nofollow">_YODA_</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		30.01.2019 <span class="time">15:22</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=701345#post701345"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">65</td>
+	<td class="alt2">5,741</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_133" /></td>
+	<td class="alt1Active" align="left" id="f133">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=133"><strong>Наука</strong></a>
+			<span class="smallfont">(просматривают: 9)</span>
+		</div>
+		<div class="smallfont">Все самое интересное обо всем</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=5360" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'hitech'"><strong>hitech</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=133" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		15.03.2019 <span class="time">13:25</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=702109#post702109"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">65</td>
+	<td class="alt2">1,290</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_134" /></td>
+	<td class="alt1Active" align="left" id="f134">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=134"><strong>Здоровье</strong></a>
+			<span class="smallfont">(просматривают: 3)</span>
+		</div>
+		<div class="smallfont">Самое дорогое что у нас есть и как с этим бороться :)</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon14.gif" alt="Thumbs up" border="0" />
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8774" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Бросаю пить'"><strong>Бросаю пить</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=134" rel="nofollow">Baiker</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		18.05.2018 <span class="time">01:11</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=696512#post696512"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">67</td>
+	<td class="alt2">3,692</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_135" /></td>
+	<td class="alt1Active" align="left" id="f135">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=135"><strong>Нескучная жизнь</strong></a>
+			<span class="smallfont">(просматривают: 8)</span>
+		</div>
+		<div class="smallfont">"смех и радость мы приносим людям" - о том, что мешает нам умереть от скуки и депрессии</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=5393" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Для поднятия настроения'"><strong>Для поднятия настроения</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=135" rel="nofollow">Мегиончик</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		02.10.2020 <span class="time">20:49</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705215#post705215"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">110</td>
+	<td class="alt2">16,431</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=166">Проекты</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_103')"><img id="collapseimg_forumbit_103" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=103">Объявления</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_103" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_113" /></td>
+	<td class="alt1Active" align="left" id="f113">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=113"><strong>Барахолка/Недвижимость - спрос/предложение...</strong></a>
+			<span class="smallfont">(просматривают: 6)</span>
+		</div>
+		<div class="smallfont">куплю, найду, поменяю, возму в дар, продам, подарю, поменяюсь, сниму, сдам...</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10450" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Куплю/продам/unsorted'"><strong>Куплю/продам/unsorted</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=113" rel="nofollow">слоупок</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		07.07.2022 <span class="time">00:02</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705391#post705391"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">988</td>
+	<td class="alt2">14,186</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_126" /></td>
+	<td class="alt1Active" align="left" id="f126">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=126"><strong>Работа</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		<div class="smallfont">поиск, предложение</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=17040" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Вакансии в Сургутнефтегазе'"><strong>Вакансии в Сургутнефтегазе</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=126" rel="nofollow">lexx816</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		09.11.2020 <span class="time">18:01</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705280#post705280"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">142</td>
+	<td class="alt2">2,037</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_131" /></td>
+	<td class="alt1Active" align="left" id="f131">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=131"><strong>Знакомства, контакты</strong></a>
+			<span class="smallfont">(просматривают: 1)</span>
+		</div>
+		<div class="smallfont">Ищете новых знакомых или потеряли старых? Попробуйте написать им здесь</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=12604" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Помощь в поиске пропавшего человека'"><strong>Помощь в поиске пропавшего человека</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=131" rel="nofollow">SheLLma</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		05.05.2016 <span class="time">12:30</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=666377#post666377"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">64</td>
+	<td class="alt2">1,490</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_152" /></td>
+	<td class="alt1Active" align="left" id="f152">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=152"><strong>Находки/Потери</strong></a>
+			
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22196" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Найдены ключи'"><strong>Найдены ключи</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=152" rel="nofollow">M@rshaLL</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		08.05.2017 <span class="time">15:18</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=685271#post685271"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">38</td>
+	<td class="alt2">253</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_105')"><img id="collapseimg_forumbit_105" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=105">Интернет / Интранет / Кабельное ТВ</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_105" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_174" /></td>
+	<td class="alt1Active" align="left" id="f174">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=174"><strong>Электроденьги</strong></a>
+			<span class="smallfont">(просматривают: 1)</span>
+		</div>
+		<div class="smallfont">Электронные деньги и платёжные системы</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=7273" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'WebMoney'"><strong>WebMoney</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=174" rel="nofollow">a-sh</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		05.07.2015 <span class="time">20:29</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=646394#post646394"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">8</td>
+	<td class="alt2">309</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_200" /></td>
+	<td class="alt1Active" align="left" id="f200">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=200"><strong>Pride-net.ru</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		<div class="smallfont">Услуги предоставляемые ООО "Прайд"</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=17570" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Мегион, подключайся!'"><strong>Мегион, подключайся!</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=200" rel="nofollow">Oracloid</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		21.04.2019 <span class="time">12:18</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=702432#post702432"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">4</td>
+	<td class="alt2">424</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_201" /></td>
+	<td class="alt1Active" align="left" id="f201">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=201"><strong>Данцер</strong></a>
+			<span class="smallfont">(просматривают: 1)</span>
+		</div>
+		<div class="smallfont">Услуги предоставляемые компанией Данцер, http://danpro.ru/about</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=20383" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Качество работы &quot;Данцер&quot;'"><strong>Качество работы &quot;Данцер&quot;</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=201" rel="nofollow">Сухой</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		18.05.2015 <span class="time">16:47</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=640758#post640758"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">2</td>
+	<td class="alt2">78</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_146" /></td>
+	<td class="alt1Active" align="left" id="f146">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=146"><strong>mega.net [RIP]</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		<div class="smallfont"><strike>Ресурсы ADSL-сети mega.net</strike></div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=9363" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Возможно ли возрождение meganet?'"><strong>Возможно ли возрождение meganet?</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=146" rel="nofollow">OlegNN</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		09.06.2009 <span class="time">23:15</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=281049#post281049"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">51</td>
+	<td class="alt2">6,689</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_121" /></td>
+	<td class="alt1Active" align="left" id="f121">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=121"><strong>'Замечательные' ресурсы</strong></a>
+			<span class="smallfont">(просматривают: 6)</span>
+		</div>
+		<div class="smallfont">Если заметил интересный ресурс, пиши сюда.
+Если ищешь такой, попробуй поискать тут</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=16627" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'По страницам вашего браузера...'"><strong>По страницам вашего браузера...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=121" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		18.12.2018 <span class="time">18:52</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=700707#post700707"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">166</td>
+	<td class="alt2">2,069</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_122" /></td>
+	<td class="alt1Active" align="left" id="f122">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=122"><strong>Домашние сети</strong></a>
+			<span class="smallfont">(просматривают: 4)</span>
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=20382" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Разрешения на работу провайдеров - За и Против'"><strong>Разрешения на работу провайдеров - За и Против</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=122" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		17.10.2014 <span class="time">21:40</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=615240#post615240"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">40</td>
+	<td class="alt2">1,309</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_154" /></td>
+	<td class="alt1Active" align="left" id="f154">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=154"><strong>Телематика</strong></a>
+			
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10423" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Телематика - качество Интернета'"><strong>Телематика - качество Интернета</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=154" rel="nofollow">ShtuCer</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		25.01.2017 <span class="time">10:03</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=679633#post679633"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">5</td>
+	<td class="alt2">790</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_155" /></td>
+	<td class="alt1Active" align="left" id="f155">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=155"><strong>МИОС и МегионЛинк</strong></a>
+			
+		</div>
+		<div class="smallfont">Мегионская Информационная Общественная Сеть. <a href="http://www.megion.net/go.php?go=http://www.megion.biz/">http://www.megion.biz/</a>, интернет провайдер ООО "Мегионлинк"</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8358" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'официальная Информация и Тарифы(с)'"><strong>официальная Информация и Тарифы(с)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=155" rel="nofollow">Gaido</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		11.05.2016 <span class="time">00:02</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=666999#post666999"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">13</td>
+	<td class="alt2">230</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_199" /></td>
+	<td class="alt1Active" align="left" id="f199">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=199"><strong>СКТВ-Мегалинк</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=16662" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Кабельный оператор - &quot;СКТВ Мегалинк&quot;'"><strong>Кабельный оператор - &quot;СКТВ Мегалинк&quot;</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=199" rel="nofollow">nazar</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		23.07.2013 <span class="time">20:02</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=554821#post554821"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">1</td>
+	<td class="alt2">74</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_106')"><img id="collapseimg_forumbit_106" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=106">Компьютеры и технологии</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_106" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_123" /></td>
+	<td class="alt1Active" align="left" id="f123">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=123"><strong>Игры</strong></a>
+			<span class="smallfont">(просматривают: 3)</span>
+		</div>
+		<div class="smallfont">Компьютерные игры. Прятки, скажем : ) - компьютерный вариант: - CS.</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8378" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'World of Warcraft'"><strong>World of Warcraft</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=123" rel="nofollow">korak</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		27.08.2019 <span class="time">23:38</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=702889#post702889"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">185</td>
+	<td class="alt2">12,113</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_124" /></td>
+	<td class="alt1Active" align="left" id="f124">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=124"><strong>Программирование, компьютерное творчество</strong></a>
+			
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=16903" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Arduino'"><strong>Arduino</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=124" rel="nofollow">Saizen</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		12.07.2013 <span class="time">09:22</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=553543#post553543"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">63</td>
+	<td class="alt2">1,370</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_127" /></td>
+	<td class="alt1Active" align="left" id="f127">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=127"><strong>Железо - Hardware</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		<div class="smallfont">аудио / видео, HI-TEC, новости и обсуждения...</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11477" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Железячный оффтоп'"><strong>Железячный оффтоп</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=127" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		17.09.2020 <span class="time">00:36</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705079#post705079"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">159</td>
+	<td class="alt2">5,214</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_128" /></td>
+	<td class="alt1Active" align="left" id="f128">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=128"><strong>Софт</strong></a>
+			<span class="smallfont">(просматривают: 4)</span>
+		</div>
+		<div class="smallfont">Софт - корень слова Майкрософт :) это то, что живет в железе (см.выше) исключительно благодаря открытию электричества :)</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10760" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Софтопп'"><strong>Софтопп</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=128" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		17.06.2020 <span class="time">11:00</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=704610#post704610"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">155</td>
+	<td class="alt2">6,130</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_107')"><img id="collapseimg_forumbit_107" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=107">Телефония, Связь</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_107" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_129" /></td>
+	<td class="alt1Active" align="left" id="f129">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=129"><strong>Мобильная связь</strong></a>
+			<span class="smallfont">(просматривают: 2)</span>
+		</div>
+		<div class="smallfont">Мобильная связь в городе и окрестностях, операторы, услуги, вопросы и ответы</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8723" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Мобильный оффтоп'"><strong>Мобильный оффтоп</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=129" rel="nofollow">VirtualizeR</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		27.02.2019 <span class="time">21:34</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=701892#post701892"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">100</td>
+	<td class="alt2">5,796</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_130" /></td>
+	<td class="alt1Active" align="left" id="f130">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=130"><strong>ГТС - городская телефонная</strong></a>
+			<span class="smallfont">(просматривают: 3)</span>
+		</div>
+		<div class="smallfont">Вопросы телефонной связи в городе</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8800" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Некоторые услуги.'"><strong>Некоторые услуги.</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=130" rel="nofollow">hudoi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		26.01.2014 <span class="time">00:43</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=584671#post584671"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">32</td>
+	<td class="alt2">694</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_139" /></td>
+	<td class="alt1Active" align="left" id="f139">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=139"><strong>Интернет и передача данных</strong></a>
+			<span class="smallfont">(просматривают: 1)</span>
+		</div>
+		<div class="smallfont">Сети передачи данных, телефония "изнутри"</div>
+		
+		
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=8610" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Telecom Offtop'"><strong>Telecom Offtop</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=139" rel="nofollow">Serge</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		22.05.2018 <span class="time">10:55</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=696661#post696661"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">88</td>
+	<td class="alt2">9,477</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_nopost -->
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="5">
+			
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_104')"><img id="collapseimg_forumbit_104" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+			
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=104">Тех.Поддержка</a>
+			
+			
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_104" style="">
+
+<!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_198" /></td>
+	<td class="alt1Active" align="left" id="f198">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=198"><strong>Ростелеком</strong></a>
+			<span class="smallfont">(просматривают: 9)</span>
+		</div>
+		<div class="smallfont">Всё об услугах предоставляемых компанией Ростелеком</div>
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_145" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=145">ADSL</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (38/3103)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_197" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=197">GPON</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (1/490)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=15799" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'GPON'"><strong>GPON</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=197" rel="nofollow">Z e v s</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		19.09.2019 <span class="time">19:59</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=703054#post703054"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">47</td>
+	<td class="alt2">4,318</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level2_post -->
+<tr align="center">
+	<td class="alt2"><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_114" /></td>
+	<td class="alt1Active" align="left" id="f114">
+		<div>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=114"><strong>Вопросы по форуму</strong></a>
+			<span class="smallfont">(просматривают: 8)</span>
+		</div>
+		<div class="smallfont">замечания, вопросы, предложения по поводу того, как  или что, должно быть на форуме, ваши темы</div>
+		
+		<div class="smallfont" style="margin-top:4px"> <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="text-transform:none;margin-left:20px;"><tr valign="top"><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_link.gif" alt="" border="0" id="forum_statusicon_164" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=164">Погодный редирект</a>
+<!-- END TEMPLATE: forumhome_subforumbit_post --><!-- BEGIN TEMPLATE: forumhome_subforumseparator_post -->
+</td></tr><tr><td style="text-transform:none;font-size:13px;white-space:nowrap;" width="100%"> 
+<!-- END TEMPLATE: forumhome_subforumseparator_post --><!-- BEGIN TEMPLATE: forumhome_subforumbit_post -->
+<img class="inlineimg" src="images/ca_evo2/statusicon/subforum_old.gif" alt="" border="0" id="forum_statusicon_161" /> <a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=161">Объявление</a><span title="Тем/Сообщений" style="text-transform:none;font-size:10px; color:darkgray;"> (1/53)</span>
+<!-- END TEMPLATE: forumhome_subforumbit_post --></td><td>&nbsp;</td></tr></table></div>
+	</td>
+	<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=5633" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'О форуме'"><strong>О форуме</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=114" rel="nofollow">John Smith</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		21.09.2023 <span class="time">14:29</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705398#post705398"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+	<td class="alt1">106</td>
+	<td class="alt2">7,723</td>
+	
+</tr>
+
+<!-- END TEMPLATE: forumhome_forumbit_level2_post -->
+
+</tbody>
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_nopost --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_post -->
+
+<tbody>
+
+	<tr align="center">
+		<td class="alt1Active" colspan="2" align="left" id="f182">
+
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_182" /></td>
+			<td><img src="clear.gif" alt="" width="9" height="1" border="0" /></td>
+			<td>
+			<div>
+				<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=182"><strong>От героев былых времён...</strong></a>
+				<span class="smallfont">(просматривают: 5)</span>
+			</div>
+			
+			
+			
+			</td>
+		</tr>
+		</table>
+
+		</td>
+		<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22254" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Умер режиссер Сергей Соловьев'"><strong>Умер режиссер Сергей Соловьев</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=182" rel="nofollow">Кактус</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		13.12.2021 <span class="time">23:56</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705374#post705374"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+		<td class="alt1">136</td>
+		<td class="alt2">1,026</td>
+		
+	</tr>
+
+
+</tbody>
+
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_post --><!-- BEGIN TEMPLATE: forumhome_forumbit_level1_post -->
+
+<tbody>
+
+	<tr align="center">
+		<td class="alt1Active" colspan="2" align="left" id="f160">
+
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td><img src="images/ca_evo2/statusicon/forum_old.gif" alt="" border="0" id="forum_statusicon_160" /></td>
+			<td><img src="clear.gif" alt="" width="9" height="1" border="0" /></td>
+			<td>
+			<div>
+				<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=160"><strong>М Ы   П О М Н И М !</strong></a>
+				<span class="smallfont">(просматривают: 3)</span>
+			</div>
+			
+			
+			
+			</td>
+		</tr>
+		</table>
+
+		</td>
+		<td class="alt2"><!-- BEGIN TEMPLATE: forumhome_lastpostby -->
+
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22253" style="white-space:nowrap" title="К первому непрочитанному сообщению в теме 'Памяти Евгения &quot;ДжА&quot; Охрименко'"><strong>Памяти Евгения &quot;ДжА&quot; Охрименко</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		от <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;find=lastposter&amp;f=160" rel="nofollow">Baiker</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		01.03.2021 <span class="time">10:31</span>
+		<a href="showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;p=705327#post705327"><img class="inlineimg" src="images/ca_evo2/buttons/lastpost.gif" alt="К последнему сообщению" border="0" /></a>
+	</div>
+</div>
+
+<!-- END TEMPLATE: forumhome_lastpostby --></td>
+		<td class="alt1">8</td>
+		<td class="alt2">174</td>
+		
+	</tr>
+
+
+</tbody>
+
+
+
+<!-- END TEMPLATE: forumhome_forumbit_level1_post -->
+<tbody>
+	<tr>
+		<td class="tfoot" align="center" colspan="5"><div class="smallfont"><strong>
+			<a href="forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;do=markread&amp;markreadhash=guest" rel="nofollow">Все разделы прочитаны</a>
+			&nbsp; &nbsp;
+			<a href="showgroups.php?s=cf1022c935ab0068d9030666989382ab" rel="nofollow">Руководство форума</a>
+		</strong></div></td>
+	</tr>
+</tbody>
+</table>
+<!-- BEGIN TEMPLATE: forumhome_markread_script -->
+<script type="text/javascript" src="clientscript/vbulletin_read_marker.js?v=386"></script>
+<script type="text/javascript">
+<!--
+vbphrase['doubleclick_forum_markread'] = "Двойное нажатие на эту иконку пометит текущий раздел как прочитанный";
+init_forum_readmarker_system();
+//-->
+</script>
+<!-- END TEMPLATE: forumhome_markread_script -->
+<!-- /main -->
+
+<!-- kz h -->
+<br />
+<br />
+
+<!-- what's going on box -->
+<table class="tborder" cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+<thead>
+	<tr>
+		<td class="tcat" colspan="2">Кто на форуме</td>
+	</tr>
+</thead>
+
+<!-- logged-in users -->
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_activeusers')"><img id="collapseimg_forumhome_activeusers" src="images/ca_evo2/buttons/collapse_thead.gif" alt="" border="0" /></a>
+			<a href="online.php?s=cf1022c935ab0068d9030666989382ab" rel="nofollow">Присутствуют</a>: 722 (0 пользователей и 722 гостей)
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_activeusers" style="">
+	<tr>
+		<td class="alt2"><a href="online.php?s=cf1022c935ab0068d9030666989382ab" rel="nofollow"><img src="images/ca_evo2/misc/whos_online.gif" alt="Показать находящихся на форуме" border="0" /></a></td>
+		<td class="alt1" width="100%">
+			<div class="smallfont">
+				<div style="white-space: nowrap">Рекорд одновременного пребывания 67,770, это было 08.11.2025 в 01:33.</div>
+				<div></div>
+			</div>
+		</td>
+	</tr>
+</tbody>
+<!-- end logged-in users -->
+<!-- Members who have Visited -->
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_todayusers')"><img id="collapseimg_forumhome_todayusers" src="images/ca_evo2/buttons/collapse_thead.gif" alt="" border="0" /></a>
+			Total members that have visited the forum in the last 24 hours: 0
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_todayusers" style="">
+	<tr>
+		<td class="alt2"><a href="memberlist.php"><img src="images/ca_evo2/misc/whos_online.gif" alt="" border="0" /></a></td>
+		<td class="alt1" width="100%"><div class="smallfont">The most members online over 24 hours was 1,436, 01.01.2002 at 03:16.<br />There are no visitors to list at this moment.</div></td>
+	</tr>
+</tbody>
+<!-- PEMDATA: Members who have Visited : Version = 4.43 : Revision = 1.24 -->
+
+
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_stats')"><img id="collapseimg_forumhome_stats" src="images/ca_evo2/buttons/collapse_thead.gif" alt="" border="0" /></a>
+			Мегионский форум статистика
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_stats" style="">
+	<tr>
+		<td class="alt2"><img src="images/ca_evo2/misc/stats.gif" alt="Мегионский форум статистика" border="0" /></td>
+		<td class="alt1" width="100%">
+		<div class="smallfont">
+			<div>
+				Тем: 15,273,
+				Сообщений: 503,936,
+				Пользователи: 1,751,
+					<span title="В течение последних 30 дней">Активные участники: 3</span>
+				
+			</div>
+			<div>Приветствуем нового пользователя, <a href="member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=65194">ЭЛЬЗА К</a></div>
+		</div>
+		</td>
+	</tr>
+</tbody>
+
+
+</table>
+<br />
+<!-- end what's going on box -->
+		<table class="tborder" cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+		<thead>
+			<tr valign="top">
+				<td class="tcat" colspan="3"><a name="cyb_stats" style="float:right" href="#top" onclick="return toggle_collapse('cyb_fh_stats')"><img id="collapseimg_cyb_fh_stats" src="images/ca_evo2/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+					Top 5 Stats
+				
+				</td>
+			</tr>
+		</thead>
+		<tbody id="collapseobj_cyb_fh_stats" style="">
+			<tr style="height:1%;vertical-align:top">
+				<td class="alt1" rowspan="4" style="width:1px;height:169px;max-height:169px;display:none;"></td>
+				
+				
+					<td class="thead" align="left" nowrap="nowrap">Hottest Threads</td>
+				
+				
+				
+				
+				
+				
+					<td class="thead" align="left" nowrap="nowrap">Latest Posts</td>
+				
+			</tr>
+			<tr style="vertical-align:top;height:70px;max-height:70px;">
+				
+				
+					<td class="alt1">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+							
+							
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Автопп. Том II"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=14879">Автопп. Том II</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Ответов" width="1%">&nbsp;10517</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="О чем говорят в интернете.."><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=11765">О чем говорят в...</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Ответов" width="1%">&nbsp;10258</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Автопп. Том I"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=8375">Автопп. Том I</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Ответов" width="1%">&nbsp;9999</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Для поднятия настроения"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=5393">Для поднятия...</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Ответов" width="1%">&nbsp;9836</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Гороффтоп"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=13894">Гороффтоп</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Ответов" width="1%">&nbsp;9667</td>
+	</tr>
+	
+						</table>
+					</td>
+				
+				
+				
+				
+				
+				
+					<td class="alt1" rowspan="3" style="height:169px;max-height:169px;">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" style="height:100%" id="cybnp">
+							<tr style="height:14px;vertical-align:top">
+								<td align="left" nowrap="nowrap" class="smallfont">Тема</td>
+								<td>&nbsp;</td>
+								
+									<td align="left" nowrap="nowrap" class="smallfont">&nbsp;Дата, Время</td>
+								
+								
+									<td align="left" nowrap="nowrap" class="smallfont">&nbsp;Автор</td>
+								
+								
+								
+								
+									<td align="left" nowrap="nowrap" class="smallfont">&nbsp;&nbsp;Раздел</td>
+								
+							</tr>
+							
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Чего ждать от Натальи Комаровой?"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=10613">Чего ждать от...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Чего ждать от Натальи Комаровой?'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10613" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">16-10, 00:07</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Кактус">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5292">Кактус</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Народные новости" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=115">Народные новости</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="О форуме"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=5633">О форуме</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'О форуме'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=5633" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">21-09, 14:29</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="John Smith">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2418"><span style="color: #aa4400;">John Smith</span></a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Вопросы по форуму" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=114">Вопросы по форуму</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Вопросы по здравоохранению."><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=16352">Вопросы по...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Вопросы по здравоохранению.'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=16352" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">17-06, 00:08</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="SheLLma">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2762"><span style="color: green;">SheLLma</span></a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Общественная организация &quot;Мегионский форум&quot;" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=187">Общественная...</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Вы бы уехали из Мегиона, меняя постоянное место жительства?"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=11410">Вы бы уехали из...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Вы бы уехали из Мегиона, меняя постоянное место жительства?'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11410" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">04-04, 15:19</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="SheLLma">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2762"><span style="color: green;">SheLLma</span></a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Флейм" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=142">Флейм</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Гороффтоп"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=13894">Гороффтоп</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Гороффтоп'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=13894" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">16-03, 11:10</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Качапкин">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5502">Качапкин</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Городская жизнь" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=111">Городская жизнь</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Куплю/продам/unsorted"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=10450">Куплю/продам/unsor...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Куплю/продам/unsorted'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10450" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">07-07, 00:02</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="слоупок">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=7905">слоупок</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Барахолка/Недвижимость - спрос/предложение..." width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=113">Барахолка/Недвижим...</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Джек Лондон"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=10582">Джек Лондон</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Джек Лондон'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=10582" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">21-05, 13:31</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Baiker">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=2717"><span style="color: #005500;">Baiker</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Книги, Литература" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=118">Книги, Литература</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Потребительский оффтоп"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=11106">Потребительский...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Потребительский оффтоп'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11106" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">28-02, 09:20</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Качапкин">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5502">Качапкин</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Уголок потребителя" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=183">Уголок потребителя</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Умер режиссер Сергей Соловьев"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=22254">Умер режиссер...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'Умер режиссер Сергей Соловьев'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=22254" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">13-12, 23:56</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Кактус">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=5292">Кактус</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="От героев былых времён..." width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=182">От героев былых...</a></td>
+		
+
+	</tr>
+	
+	<tr valign="top">
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="О чем говорят в интернете.."><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=11765">О чем говорят в...</a></td>
+			<td align="left" class="smallfont" title="Jump to first unread post in thread 'О чем говорят в интернете..'"><a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;goto=newpost&amp;t=11765" style="text-decoration:none">&nbsp;<font face="arial">&#9660;</font></a></td>
+		
+
+		
+
+		
+
+		
+
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Дата/Время">&nbsp;<span class="time">10-12, 14:18</span></td>
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Twins">&nbsp;<a href="https://megion.net/member.php?s=cf1022c935ab0068d9030666989382ab&amp;u=17624">Twins</a></td>
+		
+		
+		
+		
+			<td align="left" nowrap="nowrap" class="smallfont" title="Флейм" width="1%">&nbsp;&nbsp;<a href="https://megion.net/forumdisplay.php?s=cf1022c935ab0068d9030666989382ab&amp;f=142">Флейм</a></td>
+		
+
+	</tr>
+	
+						</table>
+					</td>
+				
+			</tr>
+		
+			<tr style="height:1%;vertical-align:top">
+				
+					<td class="thead" align="left" nowrap="nowrap">Most Viewed Threads</td>
+				
+				
+				
+				
+				
+			</tr>
+			<tr style="vertical-align:top;height:70px;max-height:70px;">
+				
+					<td class="alt1">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+							
+							
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="О чем говорят в интернете.."><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=11765">О чем говорят в...</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Просмотров" width="1%">&nbsp;4339849</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Гороффтоп"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=13894">Гороффтоп</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Просмотров" width="1%">&nbsp;4184522</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Аварии"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=8396">Аварии</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Просмотров" width="1%">&nbsp;3797175</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Автопп"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=20286">Автопп</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Просмотров" width="1%">&nbsp;2748790</td>
+	</tr>
+	
+	<tr style="height:14px;vertical-align:top">
+		<td align="left" nowrap="nowrap" class="smallfont" title="Автопп. Том II"><img border="0" alt="Старый" src="images/statusicon/post_old.gif" />&nbsp;<a href="https://megion.net/showthread.php?s=cf1022c935ab0068d9030666989382ab&amp;t=14879">Автопп. Том II</a></td>
+		<td align="right" nowrap="nowrap" class="smallfont" title="Просмотров" width="1%">&nbsp;2713961</td>
+	</tr>
+	
+						</table>
+					</td>
+				
+				
+				
+				
+				
+			</tr>
+			
+		</tbody>
+	</table>
+	<br />
+
+<!-- icons and login code -->
+<table cellpadding="0" cellspacing="2" border="0" width="100%">
+<tr valign="bottom">
+	<td>
+		<table cellpadding="2" cellspacing="0" border="0">
+		<tr>
+			<td><img src="images/ca_evo2/statusicon/forum_new.gif" alt="Есть новые сообщения" border="0" /></td>
+			<td class="smallfont">&nbsp; Есть новые сообщения</td>
+		</tr>
+		<tr>
+			<td><img src="images/ca_evo2/statusicon/forum_old.gif" alt="Нет новых сообщений" border="0" /></td>
+			<td class="smallfont">&nbsp; Нет новых сообщений</td>
+		</tr>
+		
+		</table>
+	</td>
+	
+</tr>
+</table>
+<!-- / icons and login code -->
+
+<!-- BEGIN TEMPLATE: footer -->
+<div class="page" align="center"><table cellpadding="5" cellspacing="0" border="0" align="center"><tr><td align="center"><span class="smallfont"></span></td></tr></table></div>
+
+<br />
+
+<div class="smallfont" align="center">Часовой пояс GMT +6, время: <span class="time">04:23</span>.</div>
+<br />
+
+<!-- BEGIN TEMPLATE: spacer_close -->
+
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+
+
+<!-- END TEMPLATE: spacer_close -->
+<!-- /content area table -->
+<form action="index.php" method="get">
+	
+<table cellpadding="4" cellspacing="0" border="0" width="100%" class="page" align="center">
+<tr>
+	
+		<td class="tfoot">
+			<select name="styleid" onchange="switch_id(this, 'style')">
+				<optgroup label="Выбор стиля">
+					<!-- BEGIN TEMPLATE: option -->
+<option value="1" class="" selected="selected">-- Default Style</option>
+
+<!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+<option value="5" class="" >-- Mobi</option>
+
+<!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+<option value="8" class="" >-- softblue</option>
+
+<!-- END TEMPLATE: option -->
+				</optgroup>
+			</select>
+		</td>
+	
+	
+		<td class="tfoot">
+			<select name="langid" onchange="switch_id(this, 'lang')">
+				<optgroup label="Выбор языка">
+					<!-- BEGIN TEMPLATE: option -->
+<option value="1" class="" >-- English (US)</option>
+
+<!-- END TEMPLATE: option --><!-- BEGIN TEMPLATE: option -->
+<option value="2" class="" selected="selected">-- Russian (RU)</option>
+
+<!-- END TEMPLATE: option -->
+				</optgroup>
+			</select>
+		</td>
+	
+	<td class="tfoot" align="right" width="100%">
+		<div class="smallfont">
+			<strong>
+				<a href="sendmessage.php?s=cf1022c935ab0068d9030666989382ab" rel="nofollow">Обратная связь</a> -
+				<a href="https://megion.net">Мегионский форум</a> -
+				
+				
+				<a href="archive/index.php">Архив</a> -
+				
+				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Вверх</a>
+			</strong>
+		</div>
+	</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+	<div class="smallfont" align="center">
+	<!-- Do not remove this copyright notice -->
+	Powered by vBulletin&reg; Version 3.8.6<br />Copyright &copy;2000 - 2026, Jelsoft Enterprises Ltd. Перевод: <a href="https://megion.net/go.php?go=http://www.zcarot.com/" target="_blank">zCarot</a>
+	<!-- Do not remove this copyright notice -->
+	</div>
+	
+	<div class="smallfont" align="center">
+	<!-- Do not remove <img src="http://megion.net/cron.php?s=cf1022c935ab0068d9030666989382ab&amp;rand=1772403833" alt="" width="1" height="1" border="0" /> or your scheduled tasks will cease to function -->
+	<img src="https://megion.net/cron.php?s=cf1022c935ab0068d9030666989382ab&amp;rand=1772403833" alt="" width="1" height="1" border="0" />
+	<!-- Do not remove <img src="http://megion.net/cron.php?s=cf1022c935ab0068d9030666989382ab&amp;rand=1772403833" alt="" width="1" height="1" border="0" /> or your scheduled tasks will cease to function -->
+	
+	&copy; megion.net
+	</div>
+</div>
+
+</form>
+<p>
+
+<div align=center width=100%>
+
+<!--begin of Top100 logo-->
+<a href="https://megion.net/go.php?go=https://top100.rambler.ru/cgi-bin/stats_top100.cgi?id=846598">
+<img src="https://top100-images.rambler.ru/top100/banner-88x31-rambler-blue.gif" alt="Rambler's Top100" width=88 height=31 border=0></a>
+<!--end of Top100 logo -->
+
+<!--Rating@Mail.ru COUNTEr--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="https://megion.net/go.php?go=https://top.mail.ru/jump?from=1016839"'+
+' target=_top><img src="https://d4.c8.bf.a0.top.list.ru/counter'+
+'?id=1016839;t=57;js='+js+a+';rand='+Math.random()+
+'" alt="@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="https://megion.net/go.php?go=https://top.mail.ru/jump?from=1016839"><img
+src="https://d4.c8.bf.a0.top.list.ru/counter?js=na;id=1016839;t=57\"
+border=0 height=31 width=88
+alt="@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<a href="https://megion.net/go.php?go=https://www.liveinternet.ru/click\" '+
+'target=_blank><img src="https://counter.yadro.ru/hit?t14.11;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" '+
+'border=0 width=88 height=31><\/a>')//--></script><!--/LiveInternet-->
+</div>
+
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+<!-- END TEMPLATE: footer -->
+</body>
+</html>
+<!-- END TEMPLATE: FORUMHOME -->

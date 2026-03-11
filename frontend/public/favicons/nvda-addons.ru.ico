@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html style="height: 100%;" lang="ru">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 Запрошенная страница или файл не найдены | Каталог дополнений NVDA</title>
+<meta name="description" content="404 Запрошенная страница или файл  не найдены. Официальный русскоязычный каталог дополнений NVDA
+Крупнейший каталог дополнений для программы экранного доступа NVDA, доступный в Интернете
+Каталог дополнений от 🇷🇺 русскоязычного сообщества NVDA.RU.">
+
+<link rel="stylesheet" type="text/css" href="https://nvda-addons.ru/css/style.css" media="screen">
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://nvda-addons.ru/css/m=el_main_css.css">
+<script type="text/javascript" charset="UTF-8" src="https://nvda-addons.ru/js/m=el_main"></script>
+
+<link rel="stylesheet" href="https://nvda-addons.ru/css/bootstrap.min.css">
+
+<!-- Добавляем немного места, чтобы меню не исчезало из области просмотра -->
+<style scoped> .dropup {margin-top: 140px;} </style>
+<script src="https://nvda-addons.ru/js/jquery-3.2.1.slim.min.js"></script>
+<script src="https://nvda-addons.ru/js/popper.min.js"></script>
+<script src="https://nvda-addons.ru/js/bootstrap.min.js"></script>
+<script src="https://nvda-addons.ru/js/clipboard_button.js"></script></head>
+<body style="position: relative; min-height: 100%; top: 0px;">
+<header aria-label="заголовок сайта">
+<a href="#main">Перейти к основному содержимому</a>
+<a href="https://nvda-addons.ru/"><img src="logo.jpg" alt="Главная страница каталога дополнений для NVDA от русскоязычного сообщества NVDA.RU." title="Главная страница каталога дополнений для NVDA от русскоязычного сообщества NVDA.RU." width="20%" height="20%"></a>
+<h1><a href="https://nvda-addons.ru/">Официальный русскоязычный каталог дополнений NVDA</a></h1>
+<p>Крупнейший каталог дополнений для программы экранного доступа NVDA, доступный в Интернете</p>
+<p>Каталог дополнений от <a href="https://nvda.ru/" target="_blank">«🇷🇺 Русскоязычного сообщества NVDA.RU.»</a></p>
+<aside role="complementary" aria-label="День рождение сообщества">
+<div class="wall_post_text" onclick="javascript:document.location.href='https://nvda.ru/o-proekte'">
+<p>18 ноября 2025 года русскоязычному каталогу дополнений NVDA-ADDONS.RU исполнилось три года.</p>
+<p>06 февраля 2026 года основному сайту русскоязычного сообщества NVDA.RU исполнится двенадцать лет.</p>
+</div>
+</aside>
+<section role="region" aria-label="Переведите эту страницу">
+<aside role="complementary" aria-label="Автопереводчик">
+
+<div id="ytWidget"></div><script src="https://translate.yandex.net/website-widget/v1/widget.js?widgetId=ytWidget&pageLang=ru&widgetTheme=light&autoMode=false" type="text/javascript"></script>
+</aside></section>
+<nav aria-label="Главное меню">
+<div id="topMenu">
+
+<div class="dropup" id="menu0">
+<button class="btn btn-primary dropdown-toggle" type="button" id="about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Сайты сообщества</button>
+<div class="dropdown-menu" aria-labelledby="about-us">
+<a class="dropdown-item" href="https://nvda-addons.ru/" target="_blank">NVDA-ADDONS.RU</a>
+<a class="dropdown-item" href="https://nvda.ru/" target="_blank">NVDA.RU</a>
+<a class="dropdown-item" href="https://addonstore.ru/" target="_blank">AddonStore.RU</a>
+
+</div>
+</div>
+
+<div class="dropup" id="menu1">
+<button class="btn btn-primary dropdown-toggle" type="button" id="about-us" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Социальные сети</button>
+<div class="dropdown-menu" aria-labelledby="about-us">
+<a class="dropdown-item" href="https://t.me/nvda_ru" target=_blank">Канал NVDA_RU в Telegram</a>
+<a class="dropdown-item" href="https://t.me/nvda_group" target=_blank">Группа NVDA_group в Telegram</a>
+<a class="dropdown-item" href="https://t.me/blindExpert" target=_blank">Группа BlindExpert в Telegram</a>
+<a class="dropdown-item" href="https://vk.com/nvda_ru" target="_blank">Страница NVDA_RU в VKontakte</a>
+<a class="dropdown-item" href="https://ok.ru/group/58474993090617" target="_blank">Страница в Odnoklassniki</a>
+
+</div>
+</div>
+
+<div class="dropup" id="menu2">
+<button class="btn btn-primary dropdown-toggle" type="button" id="contacts" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Контакты 📮</button>
+<div class="dropdown-menu" aria-labelledby="contacts">
+<p class="dropdown-item">Сообщить о неработающей ссылке на сайте, прислать ссылку на новое дополнение, задать любой другой вопрос или что-то предложить можно на основном сайте через:</p>
+<a class="dropdown-item" href="https://nvda.ru/contact" target="_blank">Форма обратной связи</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/rss.xml">RSS</a>
+
+</div>
+</div>
+
+<div class="dropup" id="menu3">
+<button class="btn btn-primary dropdown-toggle" type="button" id="donateMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Сделать пожертвование</button>
+<div class="dropdown-menu" aria-labelledby="donateMenu">
+<p class="dropdown-item">Разовое пожертвование можно отправить по указанным реквизитам, а если имеете возможность, то можете настроить в своём банке ежемесячный небольшой перевод. Кроме того, подробная информация о пожертвованиях расположена внизу каждой страницы под кнопкой с названием:</p>
+<a class="dropdown-item" href="#requisites">Реквизиты</a>
+<hr style="border: 2px solid blue;">
+<a class="dropdown-item" href="https://nvda.ru/donate-site-nvda-ru" target="_blank">Реквизиты на основном сайте</a>
+<a class="dropdown-item" href="https://nvda.ru/donate-statistic" target="_blank">Статистика</a>
+</div>
+</div>
+
+<div class="dropup" id="menu4">
+<button class="btn btn-primary dropdown-toggle" type="button" id="server" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Сервер</button>
+<div class="dropdown-menu" aria-labelledby="server">
+<p class="dropdown-item">Адрес русскоязычного сервера для использования через дополнение TiendaNVDA, а также подробное руководство по добавлению сервера в TiendaNVDA.</p>
+<hr style="border: 2px solid blue;">
+<a class="dropdown-item" href="https://nvda-addons.ru/server.php" target="_blank">Адрес сервера</a>
+</div>
+</div>
+
+<div class="dropup" id="menu5">
+<button class="btn btn-primary dropdown-toggle" type="button" id="category" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Категории</button>
+<div class="dropdown-menu" aria-labelledby="category">
+<a class="dropdown-item" href="https://nvda-addons.ru/cat.php?id=addon">Дополнения</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/cat.php?id=synthesizer">Синтезаторы речи</a>
+</div>
+</div>
+
+<div class="dropup" id="menu6">
+<button class="btn btn-primary dropdown-toggle" type="button" id="subcategory" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Подкатегории</button>
+<div class="dropdown-menu" aria-labelledby="subcategory">
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=rhv">RHVoice</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=ve22">Vocalizer expressive 2.2</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=ve11">Vocalizer expressive 1.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=mnv">Neural Voices</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=vosk">Языковые модели для движка VoskSTT</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=Miscellaneous">Разное</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=silero">Голосовые модели Silero TTS</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=vosk_tts">Голосовые модели Vosk TTS</a>
+</div>
+</div>
+
+<div class="dropup" id="menu7">
+<button class="btn btn-primary dropdown-toggle" type="button" id="synthesizers" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Синтезаторы речи</button>
+<div class="dropdown-menu" aria-labelledby="synthesizers">
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=rhv">RHVoice</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=mnv">Neural Voices</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=ve22">Vocalizer expressive 2.2</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=ve11">Vocalizer expressive 1.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=vd52">Nuance Vocalizer Direct</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=nv55">Nuance Vocalizer 5.5</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=silero">Голосовые модели Silero TTS</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/subcat.php?id=vosk_tts">Голосовые модели Vosk TTS</a>
+</div>
+</div>
+
+<div class="dropup" id="menu8">
+<button class="btn btn-primary dropdown-toggle" type="button" id="nvdaAPI" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">API NVDA</button>
+<div class="dropdown-menu" aria-labelledby="nvdaAPI">
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2026.1">API NVDA 2026.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2025.1">API NVDA 2025.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2024.1">API NVDA 2024.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2023.1">API NVDA 2023.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2022.1">API NVDA 2022.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2021.1">API NVDA 2021.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2020.1">API NVDA 2020.1</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2019.3">API NVDA 2019.3</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/nvdaAPI.php?id=2019.2">API NVDA 2019.2 и старее</a>
+</div>
+</div>
+
+<div class="dropup" id="menu9">
+<button class="btn btn-primary dropdown-toggle" type="button" id="ruTranslator" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Переводчики</button>
+<div class="dropdown-menu" aria-labelledby="ruTranslator">
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslator.php?id=nvda-ru">Перевод от NVDA.ru</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslator.php?id=another">Разработчик или другой переводчик</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslator.php?id=no">Переводчика нет</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslator.php?id=notNeeded">Переводчик не требуется</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslation.php?id=yes">Перевод есть</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslation.php?id=no">Перевода нет</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruTranslation.php?id=notNeeded">Перевод не требуется</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruLocale.php?id=yes">Перевод интерфейса есть</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruLocale.php?id=no">Перевода интерфейса нет</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruLocale.php?id=notNeeded">Перевод интерфейса не требуется</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruDoc.php?id=yes">Перевод справки есть</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruDoc.php?id=no">Перевода справки нет</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/ruDoc.php?id=notNeeded">Перевод справки не требуется</a>
+</div>
+</div>
+
+<div class="dropup" id="menu10">
+<button class="btn btn-primary dropdown-toggle" type="button" id="SortingBy" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Сортировка</button>
+<div class="dropdown-menu" aria-labelledby="SortingBy">
+<a class="dropdown-item" href="https://nvda-addons.ru/last.php">За текущий месяц</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/previous.php">За предыдущий месяц</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/top.php">Топ 100 загрузок</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/">По умолчанию</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/alpAsc.php">По алфавиту (возрастание)</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/alpDesc.php">По алфавиту (убывание)</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/authorAsc.php">По автору (возрастание)</a>
+<a class="dropdown-item" href="https://nvda-addons.ru/authorDesc.php">По автору (убывание)</a>
+</div>
+</div>
+
+
+</div></nav>
+</header>
+<aside aria-label="Информация" id="information">
+<p>
+<a href="#advertisement">Объявление</a>
+<a href="#statistics">Недавние доноры</a>
+<a href="#donate">Сделать пожертвование</a>
+<a href="#disclaimer">Предупреждение</a>
+</p>
+</aside>
+<main aria-label="Основной контент" id="main">
+<aside role="complementary" aria-label="Реклама">
+
+<!-- Yandex.RTB R-A-8760695-1 -->
+<div id="yandex_rtb_R-A-8760695-1"></div>
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-8760695-1",
+		"renderTo": "yandex_rtb_R-A-8760695-1"
+	})
+})
+</script>
+</aside></aside>
+<aside aria-label='Ошибка 404'>
+<h1>☹! Запрошенная страница или файл не найдены.</h1>
+<p>Ошибка 404.<br/>
+Пожалуйста, Проверьте правильность написания ссылки по которой перешли и попробуйте ещё раз или сообщите об этой  нерабочей ссылке администратору через следующую <a href="https://nvda.ru/contact" target="_blank">форму обратной связи</a><br>
+Благодарю вас за понимание.<br>
+С уважением, администратор русскоязычного сообщества:<br>
+<a href="https://nvda.ru/">NVDA.RU</a><br> 
+</p>
+</aside>
+</main>
+<aside role="complementary" aria-label="Реклама">
+<!-- Yandex.RTB R-A-8760695-2 -->
+<div id="yandex_rtb_R-A-8760695-2"></div>
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-8760695-2",
+        "renderTo": "yandex_rtb_R-A-8760695-2",
+        "type": "feed"
+    })
+})
+</script>
+</aside><aside aria-label="Будьте в курсе событий">
+<h2>Будьте в курсе наших последних новостей</h2>
+<ul>
+<li><a href="https://t.me/nvda_ru" target=_blank">TG-канал</a></li>
+<li><a href="https://vk.com/nvda_ru" target="_blank">VK-страница</a></li>
+<li><a href="https://ok.ru/group/58474993090617" target="_blank">OK-страница</a></li>
+<li><a href="https://nvda-addons.ru/rss.xml" target="_blank">RSS</a></li>
+</ul>
+</aside>
+<aside aria-label="Недавние доноры" id="statistics">
+<h3>Недавние доноры</h3><ol><li>20 Февраля 2026, Ярослав Дмитриевич М., 1000 рублей, В поддержку сообщества.</li><li>19 Февраля 2026, 7267, 230 рублей, В поддержку сообщества.</li><li>16 Января 2026, Марат Адельшаевич Р, 2500 рублей, В поддержку сообщества.</li><li>25 Декабря 2025, Пантелеймон Романович Егоров, 1200 рублей, В поддержку сообщества.</li></ol></aside>
+<aside aria-label="Сделать пожертвование" id="donate">
+<h2>Станьте спонсором или сделайте пожертвование русскоязычному сообществу NVDA</h2>
+<p>Русскоязычное сообщество не получает и никогда не получало разовых или регулярных грантов от каких либо фондов, организаций, компаний.</p>
+<p>Пользование сайтом <a href="https://nvda-addons.ru/" rel="noopener" target="_blank">NVDA-ADDONS.RU</a> и всеми WEB-ресурсами <p><a href="https://nvda.ru" rel="noopener" target="_blank">русскоязычного сообщества NVDA.RU</a></p> абсолютно бесплатное.</p>
+<p>В любом случае, пожалуйста, помните, что эти сайты сделаны в свободное время разработчика, а также <a href="https://nvda-addons.ru/ruTranslator.php?id=nvda-ru" rel="noopener" target="_blank">многие локализации и обновления локализаций для дополнений.</a> Включая множество других регулярных работ и заданий, которые не регламентированы.</p>
+<p>Я был бы признателен за любой вклад, который вы могли бы мне внести!<br/>
+Если вы считаете, что моя работа хороша и улучшает вашу жизнь, то подумайте о том, чтобы сделать пожертвование, тем самым вы по достоинству оцените мой многолетний труд, к тому же, это просто всегда мотивирует меня.</p>
+<p>И не думайте о том, что ваша спонсорская помощь будет излишней. На самом же деле, это довольно <a href="https://nvda.ru/donate-statistic" target="_blank">редкие события.</a></p>
+<p id="requisites">Чтобы стать спонсором прямо сейчас, нажмите кнопку ниже для выбора удобных реквизитов.</p>
+<details>
+<summary>Реквизиты</summary>
+
+<div>
+<h2>Реквизиты для пожертвований:</h2>
+<p>Вы можете отправить пожертвование на любую сумму по указанным ниже реквизитам, а если у вас есть возможность, то вы можете в своём банке настроить ежемесячный перевод небольшой фиксированной суммы.</p>
+<h3>Через СБП по номеру телефона на Сбербанк (Подходит для любого банка подключенного к системе СБП)</h3>
+<p>Большая просьба: Пожалуйста, не звоните на указанный номер, всё равно все звонки от неизвестных номеров система телефона не пропускает.</p> Благодарю за понимание.
+<br>
+<div id="textSbp">79034350171</div>
+<button onclick="copytext('#textSbp')">Копировать в буфер</button>
+<p>Для ориентировки, получатель Валентин Николаевич К.<br/>
+Комментарий можете прислать в СМС также при отправке через СБП.</p>
+<h3>На карту Сбербанка (По номеру карты с любого банка)</h3>
+<p>Внимание! При осуществлении перевода могут взимать комиссию.</p>
+<div id="text1">2202206888157638</div>
+<button onclick="copytext('#text1')">Копировать в буфер</button>
+<br>
+<h3>Через СБП со Сбербанка на Сбербанк по ссылке</h3>
+<p>Также со Сбербанка на Сбербанк можно сделать перевод через СБП по номеру телефона, но чтобы номер не вводить, достаточно перейти по следующей ссылке.</p>
+<p><a href="https://www.sberbank.com/sms/pbpn?requisiteNumber=79034350171" rel="noopener" target="_blank">Через СБП по номеру телефона</a></p>
+<p>Примечание: Ссылка откроется в браузере если вы зашли с ПК или в приложении Сбербанка если зашли со смартфона.<br/>
+Номер телефона сразу уже будет заполнен. Для ориентировки, получатель Валентин Николаевич К.<br/>
+Комментарий можете прислать в СМС также при отправке через СБП.</p>
+<h3>На карту YooMoney (по номеру карты)</h3>
+<p>Внимание! При осуществлении перевода в вашем банке могут взимать комиссию.</p>
+<div id="text2">2204120107124857</div>
+<button onclick="copytext('#text2')">Копировать в буфер</button>
+<br>
+<h3>На кошелёк YooMoney (по номеру кошелька)</h3>
+<p>Перевод можно сделать не только с кошелька Юмани на кошелёк Юмани. но и на номер кошелька со Сбербанка без комиссии. В других банках вероятнее будет взиматься комиссия.</p>
+<p>Сделать перевод на ЮМани не сложнее чем на карту: Копируем номер кошелька, в приложении Сбербанк переходим в раздел электронных платёжных систем, находим ЮМани, вводим номер кошелька.</p>
+<div id="textYoo">410011051505223</div>
+<button onclick="copytext('#textYoo')">Копировать в буфер</button>
+<h3>На кошелёк YooMone по ссылке</h3>
+<p>Перейти на мою визитку для пожертвований можно по следующей ссылке:<br><a href="https://yoomoney.ru/to/410011051505223" target="_blank">https://yoomoney.ru/to/410011051505223</a></p>
+</div>
+</details><p>
+Подробная информация о пожертвованиях, а также отчеты о пожертвованиях размещены на официальном сайте: <a href="https://nvda.ru/donate-site-nvda-ru">DONATE ДЛЯ ПОДДЕРЖКИ NVDA.RU И АВТОРА</a>
+
+</p>
+</aside>
+<aside aria-label="Объявление" id="advertisement">
+<h2>Объявление:</h2>
+<p>18 ноября 2025 года русскоязычному каталогу дополнений NVDA-ADDONS.RU исполнилось три года.</p>
+<p>06 февраля 2026 года основному сайту русскоязычного сообщества NVDA.RU исполнится двенадцать лет.</p></aside>
+<aside aria-label="Дисклеймер" id="disclaimer">
+<h2>Предупреждение:</h2>
+<p>Отказ от ответственности: Администратор, он же владелец и руководитель русскоязычного сообщества NVDA не несет ответственности за безопасность или стабильность контента, доступного на этом веб-сайте.</p>
+<p>Хотя руководитель (администратор) собрал этот контент для удобства пользователей с официальных веб-ресурсов разработчиков дополнения и различных общедоступных иноязычных сообществ NVDA, важно отметить, что вы используете этот контент исключительно на свой страх и риск.</p>
+<p>Внимание! Этот сайт не является официальным магазином дополнений встроенным в NVDA, а также не имеет никакого отношения к организации NV Access, которая его разрабатывает.</p>
+<p>Руководитель русскоязычного сетевого сообщества NVDA.RU не несет ответственности за всевозможные последствия некорректного использования опубликованных материалов, а также дополнений и описаний к ним.</p></aside>
+<footer role="contentinfo" aria-label="информация о сайте">
+
+<ul>
+<li><a href="https://nvda.ru/" target="_blank">&copy; Социальный проект Nvda.ru программа экранного доступа Nvda, 2014 - 2026</a></li>
+<li><a href="https://nvda-addons.ru/" target="_blank">&copy; Каталог дополнений NVDA-ADDONS.RU, 2022 - 2026</a></li>
+<li><a href="//valentin-kupriyanov.ru/" target="_blank">&copy; Поддержку осуществляет Valentin-Kupriyanov.ru, 2012- 2026</a></li>
+</ul>	
+<hr style="border: 2px solid blue;">
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(93028940, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/93028940" style="position:absolute; left:-9999px;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<hr style="border: 2px solid blue;">
+<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
+target="_blank"><img id="licnt0FAA" width="88" height="31" style="border:0" 
+title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licnt0FAA").src=
+"https://counter.yadro.ru/hit?t11.6;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+<hr style="border: 2px solid blue;">
+<a href="#main">Вверх к основному содержимому</a>
+</footer>
+    <!-- Подключаем CSS -->
+    <link rel="stylesheet" href="css/details.css">
+<link rel="stylesheet" href="https://nvda-addons.ru/free_versia_dla_slabovidyashih/vi.css">
+
+    <!-- Подключаем JavaScript -->
+    <script src="js/details.js"></script>
+<script src="js/clipboard.min.js"></script>
+<script src="js/clipboard_z.js"></script>
+<script src="https://nvda-addons.ru/free_versia_dla_slabovidyashih/special.js"></script>
+</body>
+</html>

@@ -58,6 +58,7 @@ export const schema = z.object({
   dayOfWeek: z.string(),
   traffic: z.number(),
   diff: z.number(),
+  changePct: z.number().nullable(),
 });
 
 const columns: ColumnDef<z.infer<typeof schema>>[] = [
@@ -91,6 +92,20 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
         <div className={`text-right font-medium ${isPositive ? "text-green-500" : "text-red-500"}`}>
           {isPositive ? "+" : ""}
           {diff.toLocaleString("ru-RU")}
+        </div>
+      );
+    },
+  },
+  {
+    accessorKey: "changePct",
+    header: () => <div className="w-full text-right">% изм.</div>,
+    cell: ({ row }) => {
+      const pct = row.original.changePct;
+      if (pct == null) return <div className="text-right text-muted-foreground">—</div>;
+      const isPositive = pct >= 0;
+      return (
+        <div className={`text-right font-medium ${isPositive ? "text-green-500" : "text-red-500"}`}>
+          {isPositive ? "+" : ""}{pct.toFixed(1)}%
         </div>
       );
     },

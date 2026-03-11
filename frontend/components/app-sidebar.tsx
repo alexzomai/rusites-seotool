@@ -17,10 +17,11 @@ import {
 } from "@/components/ui/sidebar";
 import { Eye, Search } from "lucide-react";
 import Image from "next/image";
+import { faviconSrc } from "@/lib/favicon";
 import { useSiteContext } from "@/lib/site-context";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
-const LIMIT = 20;
+const LIMIT = 50;
 
 interface Site {
   id: number;
@@ -34,11 +35,8 @@ interface SiteWithVisits {
   visits: number | null;
 }
 
-function NavSites() {
-  const { state } = useSidebar();
-  const collapsed = state === "collapsed";
+function NavSites({ query }: { query: string }) {
   const { siteId, setSite } = useSiteContext();
-  const [query, setQuery] = React.useState("");
   const [debouncedQuery, setDebouncedQuery] = React.useState("");
   const [sites, setSites] = React.useState<SiteWithVisits[]>([]);
   const [skip, setSkip] = React.useState(0);
@@ -65,9 +63,7 @@ function NavSites() {
     loadingRef.current = true;
     setLoading(true);
     try {
-      const res = await fetch(
-        `${API_URL}/api/sites?q=${encodeURIComponent(q)}&skip=${currentSkip}&limit=${LIMIT}`
-      );
+      const res = await fetch(`${API_URL}/api/sites?q=${encodeURIComponent(q)}&skip=${currentSkip}&limit=${LIMIT}`);
       const batch: SiteWithVisits[] = await res.json();
       setSites((prev) => (currentSkip === 0 ? batch : [...prev, ...batch]));
       setSkip(currentSkip + batch.length);
@@ -93,7 +89,7 @@ function NavSites() {
           fetchSites(skip, debouncedQuery);
         }
       },
-      { threshold: 0.1 }
+      { threshold: 0.1 },
     );
     observer.observe(el);
     return () => observer.disconnect();
@@ -102,19 +98,6 @@ function NavSites() {
   return (
     <SidebarGroup>
       <SidebarGroupLabel>Сайты</SidebarGroupLabel>
-      {!collapsed && (
-        <div className="px-2 pb-2">
-          <div className="relative">
-            <Search className="absolute left-2 top-1/2 -translate-y-1/2 size-3.5 text-muted-foreground" />
-            <Input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Поиск..."
-              className="h-7 pl-7 text-sm"
-            />
-          </div>
-        </div>
-      )}
       <SidebarMenu>
         {sites.map((item) => (
           <SidebarMenuItem key={item.site.id}>
@@ -124,12 +107,11 @@ function NavSites() {
               onClick={() => setSite(item.site)}
             >
               <Image
-                src={`https://www.liveinternet.ru/favicon/${item.site.slug}.ico`}
+                src={faviconSrc(item.site.slug)}
                 alt=""
                 width={16}
                 height={16}
                 className="shrink-0 rounded-sm"
-                onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
                 unoptimized
               />
               <span className="truncate">{item.site.title ?? item.site.slug}</span>
@@ -152,25 +134,50 @@ function NavSites() {
   );
 }
 
+function AppSidebarInner() {
+  const { state } = useSidebar();
+  const collapsed = state === "collapsed";
+  const [query, setQuery] = React.useState("");
+
+  return (
+    <>
+      <SidebarHeader className="p-4 gap-2">
+        <div className="flex flex-row items-center gap-0">
+          <div className="flex flex-1 items-center gap-2 overflow-hidden">
+            <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md text-sidebar-primary-foreground">
+              <Eye className="size-4" />
+            </div>
+            <div className="grid leading-tight">
+              <span className="truncate font-semibold text-sm">RuSites SEOtool</span>
+              <span className="truncate text-xs text-muted-foreground">v26.1</span>
+            </div>
+          </div>
+          <SidebarTrigger className="shrink-0" />
+        </div>
+        {!collapsed && (
+          <div className="relative">
+            <Search className="absolute left-2 top-1/2 -translate-y-1/2 size-3.5 text-muted-foreground" />
+            <Input
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Поиск..."
+              className="h-7 pl-7 text-sm"
+            />
+          </div>
+        )}
+      </SidebarHeader>
+      <SidebarContent>
+        <NavSites query={query} />
+      </SidebarContent>
+      <SidebarRail />
+    </>
+  );
+}
+
 export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
   return (
     <Sidebar collapsible="icon" {...props}>
-      <SidebarHeader className="flex flex-row items-center gap-0 p-4">
-        <div className="flex flex-1 items-center gap-2 overflow-hidden">
-          <div className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md text-sidebar-primary-foreground">
-            <Eye className="size-4" />
-          </div>
-          <div className="grid leading-tight">
-            <span className="truncate font-semibold text-sm">RuSites SEOtool</span>
-            <span className="truncate text-xs text-muted-foreground">v26.1</span>
-          </div>
-        </div>
-        <SidebarTrigger className="shrink-0" />
-      </SidebarHeader>
-      <SidebarContent>
-        <NavSites />
-      </SidebarContent>
-      <SidebarRail />
+      <AppSidebarInner />
     </Sidebar>
   );
 }

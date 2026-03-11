@@ -1,0 +1,298 @@
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Epidemics.ru - Эпидемии и Пандемии: прошлое и настоящее</title>
+<meta name="description" content="Эпидемии и Пандемии: прошлое и настоящее. Эпидемия гриппа. Эпидемия ВИЧ СПИД." />
+<meta name="keywords" content="эпидемии, пандемии, грипп, вич, спид, чума, оспа, свиной грипп, птичии грипп, пандемия гриппа, пандемия свиного гриппа, эпидемия свиного гриппа" />
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://epidemics.ru/engine/opensearch.php" title="Epidemics.ru - Эпидемии и Пандемии: прошлое и настоящее" />
+<script type="text/javascript" src="/engine/classes/js/jquery.js"></script>
+<script type="text/javascript" src="/engine/classes/js/jqueryui.js"></script>
+<script type="text/javascript" src="/engine/classes/js/dle_js.js"></script>
+<style type="text/css" media="all"> @import url(/templates/epidemics/css/style.css);</style>
+<style type="text/css" media="all"> @import url(/templates/epidemics/css/engine.css);</style>
+<meta name="verify-v1" content="LetJfpH2/jHUOF5hEPBbw2zDvXAgOds3SvPZmrCGTj4=" />
+</HEAD>
+<BODY leftmargin="0" topmargin="3" marginwidth="0" marginheight="0">
+<script type="text/javascript">
+<!--
+var dle_root       = '/';
+var dle_admin      = '';
+var dle_login_hash = '';
+var dle_group      = 5;
+var dle_skin       = 'epidemics';
+var dle_wysiwyg    = '0';
+var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Да", "Нет", "Ввод", "Отмена", "Сохранить", "Удалить", "Загрузка. Пожалуйста, подождите..."];
+var menu_short     = 'Быстрое редактирование';
+var menu_full      = 'Полное редактирование';
+var menu_profile   = 'Просмотр профиля';
+var menu_send      = 'Отправить сообщение';
+var menu_uedit     = 'Админцентр';
+var dle_info       = 'Информация';
+var dle_confirm    = 'Подтверждение';
+var dle_prompt     = 'Ввод информации';
+var dle_req_field  = 'Заполните все необходимые поля';
+var dle_del_agree  = 'Вы действительно хотите удалить? Данное действие невозможно будет отменить';
+var dle_spam_agree = 'Вы действительно хотите отметить пользователя как спамера? Это приведёт к удалению всех его комментариев';
+var dle_complaint  = 'Укажите текст Вашей жалобы для администрации:';
+var dle_big_text   = 'Выделен слишком большой участок текста.';
+var dle_orfo_title = 'Укажите комментарий для администрации к найденной ошибке на странице';
+var dle_p_send     = 'Отправить';
+var dle_p_send_ok  = 'Уведомление успешно отправлено';
+var dle_save_ok    = 'Изменения успешно сохранены. Обновить страницу?';
+var dle_reply_title= 'Ответ на комментарий';
+var dle_tree_comm  = '0';
+var dle_del_news   = 'Удалить статью';
+var allow_dle_delete_news   = false;
+
+//-->
+</script>
+<table width="100%"><TR><TD style="background-image: url(/templates/epidemics/images/top.jpg); height: 120px;">
+<h1 style="text-align: center; font: 36pt Verdana, Arial; font-style: italic;"><a href="http://epidemics.ru/"><span style="font: 36pt; color: #C8E3F8; font-style: italic;">Эпидемии и Пандемии</span></a></h1>
+</TD></TR></TABLE>
+
+<TABLE width="100%"  cellPadding=0>
+  <TR vAlign=top>
+    <TD width="266" bgColor="#C8E3F8">
+
+<!-- ###NAV### START -->
+<table width="100%" cellpadding="0" cellspacing="0">
+<TR><TD style="background-image: url(/templates/epidemics/images/m1.jpg); height: 43px; padding: 0px 0px 0px 40px; font: 8pt Verdana, Arial;"><font size="1" color=gray >Поиск:</font>
+<form onsubmit="javascript: showBusyLayer()" method="post" action=''><input type="hidden" name="do" value="search" /><input type="hidden" name="subaction" value="search" />
+<input name="story" type="text" class="s_field" style="width:200px; height:19px;" />
+<input type="image" src="/templates/epidemics/images/search.jpg" />
+</form></TD></TR>
+
+
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru"><span style="font: bold; color: #D94D09;">Н</span>овости Эпидемии и Пандемии</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/2010/">Новости Эпидемии 2010</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/2009/">Новости Эпидемии 2009</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru/termin.html"><span style="font: bold; color: #D94D09;">Т</span>ерминология Эпидемии</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru/mir.html"><span style="font: bold; color: #D94D09;">М</span>ировые эпидемии</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru/gripp/"><span style="font: bold; color: #D94D09;">Э</span>пидемия гриппа</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru/aids/"><span style="font: bold; color: #D94D09;">Э</span>пидемия ВИЧ СПИДа</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru/other/"><span style="font: bold; color: #D94D09;">Д</span>ругие эпидемии</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><span style="font: bold; color: #D94D09;">О</span>писание болезни</b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/gripp.html">Грипп</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/vich.html">ВИЧ СПИД</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/chuma.html">Чума</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/stif.html">Сыпной тиф</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/btif.html">Брюшной тиф</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/ospa.html">Оспа</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/jlihoradka.html">Желтая лихорадка</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/holera.html">Холера</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/gepatita.html">Гепатит</a></h2></TD></TR>
+
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 33px; padding: 0px 0px 0px 40px;"><h2><b><a href="http://epidemics.ru"><span style="font: bold; color: #D94D09;">О</span> Сайте</a></b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/map.html">Карта сайта</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m3.jpg); height: 24px; padding: 0px 0px 0px 45px;"><h2><a href="http://epidemics.ru/rule.html">Правила</a></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 32px; padding: 0px 0px 0px 40px;"><h2><b><span style="font: bold; color: #D94D09;">Л</span>ичная панель</b></h2></TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 32px; padding: 0px 0px 0px 40px;"><h2><b><span style="font: bold; color: #D94D09;">П</span>опулярные разделы</b></h2></TD></TR>
+<TR><TD style="background-color: #F7F7F7; padding: 0px 0px 0px 10px;">
+<h2><a href="http://epidemics.ru/mir.html">эпидемии</a> - <a href="http://epidemics.ru/mir.html">пандемии</a> - <a href="http://epidemics.ru/gripp/">грипп</a> - <a href="http://epidemics.ru/aids/">вич</a> - <a href="http://epidemics.ru/aids/">спид</a> - <a href="http://epidemics.ru/other/">чума</a> - <a href="http://epidemics.ru/other/">оспа</a> - <a href="http://epidemics.ru/gripp/">свиной грипп</a> - <a href="http://epidemics.ru/gripp/">птичии грипп</a> - <a href="http://epidemics.ru/mir.html">пандемия гриппа</a> - <a href="http://epidemics.ru/mir.html">пандемия свиного гриппа</a> - <a href="http://epidemics.ru/mir.html">эпидемия свиного гриппа </a></h2>
+</TD></TR>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 32px; padding: 0px 0px 0px 40px;"><h2><b><span style="color: #D94D09;">А</span>рхив</b></h2></td></tr>
+<TR><TD style="background-color: #F7F7F7; font: 8pt Verdana, Arial;"><a class="archives" href="http://epidemics.ru/2011/10/"><b>Октябрь 2011 (1)</b></a><br /><a class="archives" href="http://epidemics.ru/2010/03/"><b>Март 2010 (15)</b></a><br /><a class="archives" href="http://epidemics.ru/2010/02/"><b>Февраль 2010 (10)</b></a><br /><a class="archives" href="http://epidemics.ru/2009/09/"><b>Сентябрь 2009 (26)</b></a><br /><a class="archives" href="http://epidemics.ru/2009/08/"><b>Август 2009 (2)</b></a><br /><a class="archives" href="http://epidemics.ru/2009/07/"><b>Июль 2009 (1)</b></a><br /><div id="dle_news_archive" style="display:none;"><a class="archives" href="http://epidemics.ru/2009/06/"><b>Июнь 2009 (2)</b></a><br /><a class="archives" href="http://epidemics.ru/2009/05/"><b>Май 2009 (24)</b></a><br /></div><div id="dle_news_archive_link" ><br /><a class="archives" onclick="$('#dle_news_archive').toggle('blind',{},700); return false;" href="#">Показать / скрыть весь архив</a></div></td></tr>
+<TR><TD style="background-image: url(/templates/epidemics/images/m2.jpg); height: 32px; padding: 0px 0px 0px 40px;"><h2><b><span style="font: bold; color: #D94D09;">Р</span>еклама</b></h2></td></tr>
+<TR><TD style="background-color: #F7F7F7; padding: 0px 0px 0px 10px;"><h2><a href="http://travel-siberia.ru/tur/turirk/">Турфирмы Иркутска</a> <a href="http://travel-siberia.ru/tur/turbur/">Турфирмы Улан-Удэ</a>
+
+
+
+
+</h2>
+</TD></TR>
+</TABLE>
+
+<!-- ###NAV### END -->
+</TD>
+<TD>
+<!-- ###CONTENT### START-->
+
+<TABLE width="100%" cellSpacing=0 cellPadding=0><TR><TD><IMG src="/templates/epidemics/images/c1.jpg"></TD><TD width="100%" style="height: 6px; background-image: url(/templates/epidemics/images/c2.jpg)"></TD><TD><IMG src="/templates/epidemics/images/c3.jpg"></TD></TR></TABLE>
+<TABLE width="100%" cellSpacing=0 cellPadding=0><TR><TD style="background-color: #FAFAFA">
+
+
+
+<div align=center>
+<meta name="google-adsense-account" content="ca-pub-5522434925446465">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5522434925446465" crossorigin="anonymous"></script></div> 
+
+            
+<div id='dle-content'><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/main/">Информация</a> &raquo; <a href="http://epidemics.ru/main/278-kak-ne-zabolet-vo-vremya-yepidemii-grippa.html">Как не заболеть во время эпидемии гриппа</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>Не существует абсолютно надежного метода защиты от болезни во время вспышки, эпидемии или пандемии гриппа. На сегодняшний день вакцину производят гораздо быстрее, чем в прошлом. После создания вакцина тестируется на отдельных группах, а затем запускается в массы. Однако и сейчас огромное количество людей умирает во время эпидемии, как бы быстро ученые не находили решение. Фармацевтические компании часто искусственно раздувают масштабы эпидемии для увеличения продаж, и многие люди в знак протеста или неверия не ставят прививки.  Это в корне неверная позиция, так как вакцинация - самый действенный способ защитить себя и свою семью от вирусов гриппа. <br /><br />Помимо вакцинации Вы также можете предпринять следующие шаги:<br /><br />-Чаще мойте  руки с мылом. Если нет такой возможности, используй специальные спиртосодержащие очищающие средства для рук или гелевые санитайзеры (дезинфицирующие средства). Гель следует втирать тщательно, до полного впитывания.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/main/278-kak-ne-zabolet-vo-vremya-yepidemii-grippa.html">Как не заболеть во время эпидемии гриппа &raquo; описание и отзывы</a></h2></td>
+<td align="right">24 октября 2011</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/aids/">Эпидемия ВИЧ СПИДа</a> &raquo; <a href="http://epidemics.ru/aids/111-yepidemiya-vich-v-rossii-million-raz.html">Эпидемия ВИЧ в России: миллион - раз...</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>В России <b>эпидемия</b> ВИЧ поразила 1 процент населения. Если не принять срочные меры по профилактике заражения ВИЧ, <b>эпидемия</b> окончательно выйдет из-под контроля. <br /><br />Об этом заявила исполнительный директор Международного общества борьбы со СПИДом Робин Горна на состоявшейся в Москве конференции по <b>эпидемии</b> <a href="http://epidemics.ru/vich.html" >ВИЧ/ СПИД </a>в Восточной Европе и Центральной Азии.<br /><br />В интервью Радио Свобода Робин Горна рассказала о причинах <b>эпидемии</b> и способах борьбы с ней:<br /><br />– По нашим оценкам, миллион человек в России ВИЧ-инфицированы. Пятьсот тысяч человек зарегистрированы органами здравоохранения - то есть они сдавали анализы, и врачи обнаружили у них вирус иммунодефицита человека, который и ведет к синдрому приобретенного иммунодефицита.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/aids/111-yepidemiya-vich-v-rossii-million-raz.html">Эпидемия ВИЧ в России: миллион - раз... &raquo; описание и отзывы</a></h2></td>
+<td align="right">3 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/aids/">Эпидемия ВИЧ СПИДа</a> &raquo; <a href="http://epidemics.ru/aids/110-obnaruzhen-novyj-virus-byepidemiib-chumy-xx-veka.html">Обнаружен новый вирус эпидемии чумы XX века</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>В Китае обнаружен новый, до сих пор не известный науке вирус, который способен провоцировать СПИД. Как сообщают китайские СМИ, исследования возбудителя <b>эпидемии</b> чумы ХХ в. стартовали. О том, когда будут готовы результаты, не сообщается.<br /><br />По мнению медиков, данная возможная мутация <a href="http://epidemics.ru/vich.html" >ВИЧ</a> отличается большей агрессивностью при передаче через слюну, нежели половым путем. "Тысячи пациентов с диагнозом "СПИД" показывают негативную реакцию на ВИЧ", - сказал один из врачей.<br /><br />В июле 2009 г. в журнале Nature Chemical Biology французские ученые опубликовали статью о том, что они разработали метод блокировки проникновения вирусов ВИЧ в здоровые клетки человека с помощью синтетических молекул, имитирующих структуру белков на поверхности клеточных мембран. А в конце прошлого года научное издание Nature Structural and Molecular Biology сообщило об открытии, сделанном американскими учеными во главе с Робертом Бамбара из Университета Рочестера, которые занимаются изучением вируса иммунодефицита человека (ВИЧ).</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/aids/110-obnaruzhen-novyj-virus-byepidemiib-chumy-xx-veka.html">Обнаружен новый вирус эпидемии чумы XX века &raquo; описание и отзывы</a></h2></td>
+<td align="right">3 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/gripp/">Эпидемия гриппа</a> &raquo; <a href="http://epidemics.ru/gripp/109-gripp-yepidemiologiya-zabluzhdenij.html">Грипп - эпидемиология заблуждений</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>Так ли проста эпидемиология гриппа, как это следует из прогнозов грядущих <b>пандемии</b>? Из всех опасных пандемических болезней наиболее понятным сегодня для ученых представляется грипп. И уже не только специалисты, но и журналисты легко делают прогнозы типа: раз уж появился вирус, вызывающий гибель птиц, то появится «новый вирус», который, разумеется, «убьет миллионы, так как это уже будет смертельная разновидность <b>эпидемии</b> обычного гриппа и птичьего». <br /><br />Краткая история очевидностей и заблуждений <br /><br />Более 800 лет, т.е. со времен первой, исторически зафиксированной <b>эпидемии</b> гриппа (1173 г.), до второй половины XIX столетия, ученые не относили его к контагиозным болезням. И тому были веские основания. Считалось, так как грипп молниеносно охватывает крупные населенные пункты и страны, то эта болезнь вызывается миазмами — вредоносными природе человека началами, распространяющимися на большие расстояния с потоками воздуха. В 1880—1990-х гг. миазматическое учение уступило место контагионистическому. Не заставил себя долго ждать и «контагий».</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/gripp/109-gripp-yepidemiologiya-zabluzhdenij.html">Грипп - эпидемиология заблуждений &raquo; описание и отзывы</a></h2></td>
+<td align="right">3 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/other/">Другие эпидемии</a> &raquo; <a href="http://epidemics.ru/other/108-gde-skryvaetsya-chuma.html">Где скрывается чума?</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>Данная работа продолжает тему переосмысления причин пандемического распространения чумы (Супотницкий М.В. «Черная смерть». К загадкам <b>пандемии</b> чумы 1346-1351 гг. // Универсум. – 2004, № 3).<br /><br />Прекращение <b>пандемии</b> чумы 1346—1351 гг., названной современниками «черной смертью», дало лишь временную передышку сильно прореженному европейскому населению. Ее сокрушительные удары еще не один раз заполняли цветущие города смертным ужасом, запечатленным на полотнах Спадаро и Вальдеса Лаола. Но чума осталась для европейцев не только напоминанием о равенстве всех перед смертью, но и смертельной загадкой. Наблюдая гибель тысяч людей от <b>эпидемии</b> чумы, ученые расходились во мнениях, откуда она пришла в Европу. И как это не покажется иному читателю парадоксальным, и сегодня мы знаем о причинах этого природного явления очень немного. На европейском континенте не фиксируются чумные эпизоотии среди грызунов, а, следовательно, в рамках современного учения о природной очаговости чумы нет объекта для исследования.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/other/108-gde-skryvaetsya-chuma.html">Где скрывается чума? &raquo; описание и отзывы</a></h2></td>
+<td align="right">3 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/other/">Другие эпидемии</a> &raquo; <a href="http://epidemics.ru/other/107-vyzov-prirody.html">Вызов природы</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>Откровенно говоря, трудно было утверждать, действительно ли это победа или нет. Приходилось лишь констатировать, что <b>эпидемия</b> уходит так же неожиданно, как и пришла. Применявшаяся в борьбе с ней стратегия не изменилась — вчера еще бесплодная, сегодня она явно приносила успех. Так или иначе, создавалось впечатление, будто болезнь сама себя исчерпала или, возможно, отступила, поразив все намеченные объекты. В каком-то смысле ее роль была сыграна.<br /><br />Альбер Камю "Чума", 1947<br /><br />Интервью с М. В. Супотницким<br /><br />"ЗАВТРА". Михаил Васильевич! В XXI веке общество оказалось в таком состоянии, когда виртуальные страхи, расцвеченные с экранов телевизоров, действуют на людей сильнее, нежели реальные опасности, о которых люди зачастую и не подозревают.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/other/107-vyzov-prirody.html">Вызов природы &raquo; описание и отзывы</a></h2></td>
+<td align="right">3 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/aids/">Эпидемия ВИЧ СПИДа</a> &raquo; <a href="http://epidemics.ru/aids/105-vichspid-pandemiya-i-yepidemii-s-chem-zhe-my-v.html">ВИЧ/СПИД-пандемия и эпидемии, с чем же мы в действительности столкнулись?</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>Со СПИДом как-то с самого начала обнаружения этой <b>пандемии</b> было все ясно. «Ну, появился новый вирус, но он же не передается через рукопожатие и при чихании, значит и проблем не должно быть» — говорили нам заслуженные победители <b>эпидемии</b> . «Создадим вакцину, и покончим с ВИЧ как недавно с возбудителем натуральной оспой» — говорят хором они сегодня. А пока вакцины нет, то главное в борьбе с пандемией — это безопасный секс, одноразовые шприцы, обеспечение прав ВИЧ-инфицированных, да еще деньги, как можно больше денег на вакцину, на презервативы, одноразовые шприцы и правозащитную пропаганду — и это уже стандарт <b>эпидемии</b> ВИЧ/СПИД-политики цивилизованного государства. Сегодня вряд ли есть другой микроорганизм, изученный столь обстоятельно как ВИЧ, а результатов в борьбе с вызванной им пандемией, нет. Значит дело не в ВИЧ, а в том процессе, индикатором которого он является. Так с чем же тогда в действительности мы столкнулись в эту <b>пандемию</b>? <br /><br />Геном человека. Рассматривать ВИЧ как самостоятельное явление природы можно было в 1980-х г., но никак не сегодня, когда уже расшифрован геном человека. Результаты этой грандиозной работы стали неожиданностью для самих генетиков.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/aids/105-vichspid-pandemiya-i-yepidemii-s-chem-zhe-my-v.html">ВИЧ/СПИД-пандемия и эпидемии, с чем же мы в действительности столкнулись? &raquo; описание и отзывы</a></h2></td>
+<td align="right">2 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/other/">Другие эпидемии</a> &raquo; <a href="http://epidemics.ru/other/104-yepidemii-chumy-na-dalnem-vostoke-v-1910-11-i.html">Эпидемии чумы на дальнем востоке в 1910-11 и 1921 года</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>Россия не в первый раз сталкивается с эпидемической угрозой на Дальнем Востоке. <b>Эпидемии</b> легочной <a href="http://epidemics.ru/chuma.html" >чумы</a> в 1910—11 и в 1921 гг. уже перехлестывали через наши рубежи вместе с ищущим работу бедным китайским людом. Сложившаяся в те годы эпидемическая ситуация, разумеется, мало напоминает, ту, которую сегодня создала <b>эпидемия</b> атипичной пневмонии (SARS). Однако это только на первый взгляд. <br /><br />Противоэпидемические мероприятия в Маньчжурии в 1910—11 гг.<br />Для российских властей эта <b>эпидемия</b> стала неожиданностью. После обнаружения 12 октября 1910 г. на станции Маньчжурия заболевших чумой китайцев, Высочайше учрежденная комиссия о мерах предупреждения и борьбы с чумной заразой, возглавляемая родственником царя, принцем Е.В. А.П. Ольденбургским, немедленно объявила приграничные области неблагополучными по чуме, а Приморскую, Амурскую и Иркутскую губернии угрожаемыми по чуме.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/other/104-yepidemii-chumy-na-dalnem-vostoke-v-1910-11-i.html">Эпидемии чумы на дальнем востоке в 1910-11 и 1921 года &raquo; описание и отзывы</a></h2></td>
+<td align="right">2 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/other/">Другие эпидемии</a> &raquo; <a href="http://epidemics.ru/other/103-xolernye-yepidemii-ch2.html">Холерные эпидемии ч.2</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>1) Снова Генрици наблюдает явление, которое в XIX столетии называли “продромальным периодом <b>эпидемии</b>”. Однако он тут же поправляется и переходит на позицию Петтенкофера, предполагающую завоз “холерного зародыша”. В современной литературе в эпидемическом процессе выделяется “предэпидемическая стадия”, но она не релевантна “продромальному периоду <b>эпидемии</b>”, а скорее отражает качественно иное явление. <br /><br />Под первое определение подпадают типичные случаи болезни - фиксируемая заболеваемость вдруг начинает превышать уровень спорадической заболеваемости. Ученые прошлого, наблюдавшие <b>эпидемии</b> не по отдельным случаям, а по тысячам заболевших, явление “продромального периода” фиксировали не только для <b>эпидемии</b> <a href="http://epidemics.ru/holera.html" >холеры</a>, но и для чумы (видимо, при тех масштабах эпидемического процесса, его трудно было “просмотреть” хотя бы и “задним числом”). Например, уже после завершения Марсельской чумы (1721-1722 гг.), было выяснено, что прежде чем “черная смерть” выкосила население города, тысячи людей, по крайней мере в течение месяца, страдали болезненными паховыми узлами, но так как они не развивались в некротизирующиеся типичные чумные бубоны, и не приводили к быстрой смерти заболевшего, то и чуму никто не имел оснований подозревать.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/other/103-xolernye-yepidemii-ch2.html">Холерные эпидемии ч.2 &raquo; описание и отзывы</a></h2></td>
+<td align="right">2 марта 2010</td>
+</tr>
+</table><table width="100%" cellspacing="4" style="BORDER-BOTTOM: #CEE1F0 1px solid">
+<tr>
+<td align="left" valign="top" colspan="2"><h1 style="color: #94B350;"><a href="http://epidemics.ru/aids/">Эпидемия ВИЧ СПИДа</a> &raquo; <a href="http://epidemics.ru/aids/102-vichspid-pandemiya-i-yepidemii-kak-prirodnoe.html">ВИЧ/СПИД-пандемия и эпидемии как природное явление</a></h1></td>
+</tr>
+<tr>
+<td colspan="2"><sape_index>В осмыслении причин распространения <b>эпидемии</b>  ВИЧ/СПИДа сегодня сложилась парадоксальная ситуация. С одной стороны, инфекционный характер этой болезни почти ни у кого из ученых не вызывает сомнения, но с другой — ни одно из используемых до сих пор противоэпидемических мероприятий не дало результатов. Почему? Давайте посмотрим на то, что же мы понимаем под эпидемическим процессом и с чем мы боремся на самом деле, когда планируем противоэпидемические мероприятия в отношении к <b>эпидемии</b> ВИЧ.<br /><br />По определению академика РАМН Б. Л. Черкасского (2001) — эпидемический процесс — это процесс возникновения, распространения и прекращения среди населения специфических инфекционных состояний (в виде клинически выраженных заболеваний или носительства). Инфекционная болезнь, по мнению Б. Л. Черкасского, чаще всего протекает циклически, ее развитие проходит через ряд периодов: инкубационный, продромальный, нарастания симптомов, разгара болезни, угасания клинических проявлений болезни, выздоровления (реконвалесценции). Такие <b>эпидемии</b> развиваются как циклические монопроцессы (т. е. вызываются одним возбудителем инфекционной болезни, жизненный цикл которого протекает в цитоплазме клеток хозяина) и заканчиваются после образования среди людей иммунной прослойки. Их можно не допустить либо оборвать, создавая иммунную прослойку искусственно.</sape_index><br></td>
+</tr>
+<tr>
+<td align="left"><h2 style="font: 9pt Verdana, Arial;"><IMG src="/templates/epidemics/images/podr.png"> <a href="http://epidemics.ru/aids/102-vichspid-pandemiya-i-yepidemii-kak-prirodnoe.html">ВИЧ/СПИД-пандемия и эпидемии как природное явление &raquo; описание и отзывы</a></h2></td>
+<td align="right">2 марта 2010</td>
+</tr>
+</table><div class="navigation" align="center" style="margin-bottom:10px; margin-top:10px;"><span>Назад</span> <span>1</span> <a href="http://epidemics.ru/page/2/">2</a> <a href="http://epidemics.ru/page/3/">3</a> <a href="http://epidemics.ru/page/4/">4</a> <a href="http://epidemics.ru/page/5/">5</a> <a href="http://epidemics.ru/page/6/">6</a> <a href="http://epidemics.ru/page/7/">7</a> <a href="http://epidemics.ru/page/8/">8</a> <a href="http://epidemics.ru/page/9/">9</a>  <a href="http://epidemics.ru/page/2/">Далее</a></div></div>	
+
+</TD></TR>
+</TABLE>
+ 
+<!-- ###CONTENT### END-->
+
+</TD>
+
+</TR></TABLE>
+
+<TABLE width="100%"><TR><TD bgColor="#0D75BB" height="2"></TD></TR></TABLE>
+
+<TABLE width="100%">
+<TR><td align=left>
+<div style="font: 8pt Verdana,Arial; color: black;">&#169; 2009-2010 <a href="http://epidemics.ru/">Epidemics.ru</a><br>
+По всем вопросам обращаться на - <font color="#2E8DC9">epidemicsru@gmail.com</font></div>
+</td>
+<td align=right>
+
+<div align=right><noindex>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+new Image().src = "http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();//--></script><!--/LiveInternet-->
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1763871"></script><noscript><img src="http://counter.rambler.ru/top100.cnt?1763871" alt="" width="1" height="1" border="0"></noscript>
+<!-- end of Top100 code -->
+<!-- begin of Top100 logo -->
+<a href="http://top100.rambler.ru/home?id=1763871"><img src="http://top100-images.rambler.ru/top100/w0.gif" alt="Rambler's Top100" width="88" height="31" border="0" /></a>
+<!-- end of Top100 logo -->
+
+<!--Rating@Mail.ru counter-->
+<script language="javascript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer);js=10;//--></script>
+<script language="javascript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled();js=11;//--></script>
+<script language="javascript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height;
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth);js=12;//--></script>
+<script language="javascript1.3" type="text/javascript"><!--
+js=13;//--></script><script language="javascript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1642889" target="_top">'+
+'<img src="http://d1.c1.b9.a1.top.mail.ru/counter?id=1642889;t=53;js='+js+
+a+';rand='+Math.random()+'" alt="Рейтинг@Mail.ru" border="0" '+
+'height="31" width="88"><\/a>');if(11<js)d.write('<'+'!-- ');//--></script>
+<noscript><a target="_top" href="http://top.mail.ru/jump?from=1642889">
+<img src="http://d1.c1.b9.a1.top.mail.ru/counter?js=na;id=1642889;t=53" 
+height="31" width="88" border="0" alt="Рейтинг@Mail.ru"></a></noscript>
+<script language="javascript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>');//--></script>
+<!--// Rating@Mail.ru counter-->
+
+</noindex></div>
+
+</td>
+</TR>
+</TABLE>
+
+</BODY></HTML>
+
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

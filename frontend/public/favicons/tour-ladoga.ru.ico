@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta http-equiv="Content-Language" content="ru"/>
+
+<title>������������ ����� ��� �����</title>
+ <meta name="description" content="������������ �������� ��� �����" />
+ <meta name="keywords"    content="��������,�����,��������,���" />
+ <meta name='yandex-verification' content='76f75aa41bb1f984' />
+<link href="styles/style.css" rel="stylesheet" type="text/css" />
+<link href="styles/news_style.css" rel="stylesheet" type="text/css" /><link href="styles/gallery_style.css" rel="stylesheet" type="text/css" /></head>
+
+<body  >
+
+<!-- Start Header -->
+<div class="site-frame">
+
+        <div class="wrap">
+                <div class="header">
+                        <div class="header_text">Места отдыха ленинградской области</div>
+                        <div class="logo">
+                                <a title="Тур Ладога" href="/"><img width="400" height="120" border="0" alt="Тур ладога" src="/img/blank.gif"></a>
+                        </div>
+                        </div>
+                <div class="main_content">
+                        <div class="block_menu"><ul><li class="level_0"><a href='/'  title='Главная'>Главная</a></li><li class="level_0"><a href='/vsevologsk.html'  title='Всеволожский район'>Всеволожский район</a></li><li class="level_0"><a href='/vyborg.html'  title='Выборгский район'>Выборгский район</a></li><li class="level_0"><a href='/volhov.html'  title='Волховский район'>Волховский район</a></li><li class="level_0"><a href='/gatchina.html'  title='Гатчинский район'>Гатчинский район</a></li><li class="level_0"><a href='/kurort.html'  title='Курортный район'>Курортный район</a></li><li class="level_0"><a href='/luga.html'  title='Лужский район'>Лужский район</a></li><li class="level_0"><a href='/podporoz.html'  title='Подпорожский район'>Подпорожский район</a></li><li class="level_0"><a href='/priozersk.html'  title='Приозерский район'>Приозерский район</a></li><li class="level_0"><a href='/tixvin.html'  title='Тихвинский район'>Тихвинский район</a></li><li class="level_0"><a href='/tosno.html'  title='Тосненский район'>Тосненский район</a></li><li class="level_0"><a href='/ice-mountain-kurort.html'  title='Горнолыжные курорты'>Горнолыжные курорты</a></li><li class="level_0"><a href='/karelia.html'  title='Карелия'>Карелия</a></li><li class="level_0"><a href='/pskov.html'  title='Псковская область'>Псковская область</a></li><li class="level_0"><a href='/articles.html'  title='Статьи'>Статьи</a></li><li class="level_0"><a href='/useful-resources.html'  title='Полезные ресурсы'>Полезные ресурсы</a></li></ul>                        <p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                        <p class="sa sa_left"></p>
+                        </div>
+<!-- End Header -->
+
+
+<!-- Start Content -->
+<!--  <div class="block_content" style="width:740px;"> -->
+        <div class="block_content" style="width:740px;">
+		  <h1></h1>
+                       
+               </div>
+    
+		<div style="clear:both"></div>			
+		</div>
+<!-- End Content -->
+
+<!-- Start Footer -->
+		<div class="footer">
+			<div class="site_map">			
+				<p><a href="/sitemap.php">Карта сайта</a></p>
+			</div>
+			<div class="liveInternet">
+			<noindex>
+        <!--LiveInternet counter--><script type="text/javascript"><!--
+        document.write("<a href='http://www.liveinternet.ru/click' "+
+        "target=_blank><img src='http://counter.yadro.ru/hit?t17.1;r"+
+        escape(document.referrer)+((typeof(screen)=="undefined")?"":
+        ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+        ";"+Math.random()+
+        "' alt='' title='LiveInternet: показано число просмотров за 24"+
+        " часа, посетителей за 24 часа и за сегодн¤' "+
+        "border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+        </noindex>			
+			</div>
+            <div class="sp"><p class="sa"></p></div>
+			<div class="kreazone"><span>&copy; 2010 step in design studio</span></div>
+		</div>
+</div> 	
+ </div> 
+<!-- End Footer -->
+
+</body>
+</html>

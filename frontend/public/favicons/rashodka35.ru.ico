@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+	<head>
+		<base href="https://www.rashodka35.ru/404.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Ошибка 404 Страница не найдена" />
+	<meta name="rights" content=" Торгово-сервисный центр «Расходка» ||| Заправка и продажа картриджей в Вологде" />
+	<meta name="author" content="Андрей   " />
+	<meta name="description" content="Ошибка 404 Страница не найдена" />
+	<title>Ошибка 404 Страница не найдена</title>
+	<link href="http://rashodka35.ru/404.html" rel="canonical" />
+	<link href="/templates/ksenmartcolorful/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_jrealtimeanalytics/css/mainstyle.css" rel="stylesheet" type="text/css" />
+	<link href="/cache/widgetkit/widgetkit-eca379d4.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.rashodka35.ru/components/com_ksenmart/css/common.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.rashodka35.ru/components/com_ksenmart/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.rashodka35.ru/modules/mod_km_shop_reviews/css/mod_km_shop_reviews.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.rashodka35.ru/cache/jbzoo_assets/library-4379113b160a33aaabe38d40925eee9c0.css?159" rel="stylesheet" type="text/css" />
+	<link href="https://www.rashodka35.ru/cache/jbzoo_assets/default-290b2f515f78579721c1d5366a18d5b00.css?618" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"22110727fbb16b915754409d42f9fdeb","system.paths":{"root":"","base":""},"system.keepalive":{"interval":300000,"uri":"\/component\/ajax\/?format=json"}}</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+	
+	
+	
+	
+	<script src="/components/com_jrealtimeanalytics/js/stream.js" type="text/javascript" defer="defer"></script>
+	<script src="/components/com_jrealtimeanalytics/js/heatmap.js" type="text/javascript" defer="defer"></script>
+	<script src="/cache/widgetkit/widgetkit-445ae6a3.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?2defe3ecb0781eb27566ca02588759d6" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?2defe3ecb0781eb27566ca02588759d6" type="text/javascript"></script><![endif]-->
+	<script src="/media/system/js/keepalive.js?2defe3ecb0781eb27566ca02588759d6" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?2defe3ecb0781eb27566ca02588759d6" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?2defe3ecb0781eb27566ca02588759d6" type="text/javascript"></script>
+	<script src="https://www.rashodka35.ru/administrator/components/com_ksenmart/js/jquery.custom.min.js" type="text/javascript"></script>
+	<script src="https://www.rashodka35.ru/components/com_ksenmart/js/common.js" type="text/javascript"></script>
+	<script src="https://www.rashodka35.ru/media/zoo/applications/jbuniversal/assets/js/libs/uikit.min.js?919" type="text/javascript"></script>
+	<script src="https://www.rashodka35.ru/cache/jbzoo_assets/library-fdbd71bd493572c3326b3037c3e8818a0.js?153" type="text/javascript"></script>
+	<script src="https://www.rashodka35.ru/cache/jbzoo_assets/default-526e9756c26751a14f48dfc37bf3fed10.js?159" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery.noConflict();				var COM_JREALTIME_NETWORK_ERROR = 'Произошла сетевая ошибка во время обработки потока данных: '; var jrealtimeBaseURI='https://www.rashodka35.ru/';jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+            var KS = {
+                extension: 'com_ksenmart',
+                option: 'com_ksenmart'
+            };
+        
+            var KS = {
+                extension: 'com_ksenmart',
+                option: 'com_ksenmart'
+            };
+        
+        var URI_ROOT='https://www.rashodka35.ru/';
+        var km_cart_link='/component/ksenmart/cart.html';
+        var shopItemid='';
+        var order_type='ordering';
+        var order_dir='asc';    
+        var limit=30;
+        var limitstart=0;   
+        var use_pagination=0;
+        var order_process=0;
+        var cat_id=43;
+        var user_id=0;
+        var page=1;
+        var session_id='5ag5g77utsbn0vqrd105c9hgk6';
+        	JBZoo.DEBUG = 0;
+	jQuery.migrateMute = false;
+	JBZoo.addVar("currencyList", {"default_cur":{"code":"default_cur","value":1,"name":"\u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e","format":{"symbol":"","round_type":"none","round_value":"2","num_decimals":"2","decimal_sep":".","thousands_sep":" ","format_positive":"%v%s","format_negative":"-%v%s"}},"%":{"code":"%","value":1,"name":"\u041f\u0440\u043e\u0446\u0435\u043d\u0442\u044b","format":{"symbol":"%","round_type":"none","round_value":"2","num_decimals":"2","decimal_sep":".","thousands_sep":" ","format_positive":"%v%s","format_negative":"-%v%s"}},"rub":{"code":"rub","value":91.2965,"name":"CBR.ru","format":{"symbol":"\u20bd","round_type":"none","round_value":2,"num_decimals":2,"decimal_sep":".","thousands_sep":" ","format_positive":"%v %s","format_negative":"-%v %s"}},"eur":{"code":"default_cur","value":1,"name":"\u041f\u043e \u0443\u043c\u043e\u043b\u0447\u0430\u043d\u0438\u044e","format":{"symbol":"","round_type":"none","round_value":"2","num_decimals":"2","decimal_sep":".","thousands_sep":" ","format_positive":"%v%s","format_negative":"-%v%s"}}} );
+	JBZoo.addVar("cartItems", {} );
+	JBZoo.addVar("JBZOO_DIALOGBOX_OK", "Ok" );
+	JBZoo.addVar("JBZOO_DIALOGBOX_CANCEL", "Cancel" );
+	jQuery(function($){ $(".jbzoo .jsGoto").JBZooGoto({}, 0); });
+	jQuery(function($){ $(".jbzoo select").JBZooSelect({}, 0); });
+	jQuery(function($){ $("#jbmodule-default-231").JBZooCartModule({"url_clean":"https:\/\/www.rashodka35.ru\/?option=com_zoo&controller=basket&task=clear","url_reload":"https:\/\/www.rashodka35.ru\/?option=com_zoo&controller=basket&task=reloadModule&moduleId=231","url_item_remove":"https:\/\/www.rashodka35.ru\/?option=com_zoo&controller=basket&task=delete","text_delete_confirm":"\u0423\u0434\u0430\u043b\u0438\u0442\u044c \u0442\u043e\u0432\u0430\u0440 \u0438\u0437 \u043a\u043e\u0440\u0437\u0438\u043d\u044b?","text_empty_confirm":"\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u044c \u043a\u043e\u0440\u0437\u0438\u043d\u0443?"}, 0); });
+
+	</script>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="/templates/ksenmartcolorful/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/ksenmartcolorful/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/ksenmartcolorful/css/template.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/ksenmartcolorful/css/colors.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/ksenmartcolorful/css/typography.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/ksenmartcolorful/css/rashodka.css" rel="stylesheet" type="text/css" />
+		<link href="/templates/ksenmartcolorful/css/cyan.css" rel="stylesheet" type="text/css" />
+     	<meta name="w1-verification" content="153056983185" />
+		
+                
+		<script type="text/javascript" src="/templates/ksenmartcolorful/js/default.js"></script>
+		
+	</head>
+	<body>
+		<div class="floating-header">
+			<div class="inner">
+				<div class="logo">
+					<a href="https://www.rashodka35.ru/" title=" Торгово-сервисный центр «Расходка» ||| Заправка продажа картриджей в Вологде">
+						<img src="/templates/ksenmartcolorful/images/logo.png" alt=" Торгово-сервисный центр «Расходка» ||| Заправка продажа картриджей в Вологде" />
+					</a>
+				</div>
+				<div class="menus">
+					  <script src="/templates/ksenmartcolorful/js/gk.menu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+$GK_MENU = [];
+$GK_MENU['animation'] = "width_height_opacity";
+$GK_MENU['animation_speed'] = "fast";
+
+  </script>
+<ul class="nav menu ">
+<li class="item-107"><a href="/catalog.html" >Каталог</a></li><li class="item-137"><a href="/zapravka-kartridzhej.html" >ЗАПРАВКА</a></li><li class="item-136"><a href="/remont.html" >РЕМОНТ</a></li><li class="item-109"><a href="/print.html" >ПЕЧАТЬ</a></li><li class="item-180"><a href="/shares.html" >АКЦИИ</a></li><li class="item-135"><a href="/news.html" >Новости</a></li></ul>
+
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="top-head">
+				<div class="left-m"><ul class="nav menu">
+<li class="item-119 default"><a href="/" >Главная</a></li><li class="item-106"><a href="/kontakty.html" >Контакты</a></li><li class="item-116"><a href="/o-nas.html" >О нас</a></li><li class="item-117"><a href="/oplata-i-dostavka.html" >Оплата и доставка</a></li><li class="item-118"><a href="/garantiya-i-servis.html" >Гарантия и сервис</a></li></ul>
+</div>
+				<div class="right-m"></div>
+			</div>
+			<header class="masthead">
+				<div class="row-fluid header">
+					<div class="span4 pull-left logo">
+						<h1 class="muted">
+							<a href="https://www.rashodka35.ru/" title=" Торгово-сервисный центр «Расходка» ||| Заправка продажа картриджей в Вологде">
+                                <img src="/templates/ksenmartcolorful/images/logo.png" alt=" Торгово-сервисный центр «Расходка» ||| Заправка продажа картриджей в Вологде" />
+                            </a>
+						</h1>
+					</div>
+					<div class="span7 pull-right">
+						<div class="span6 head_block_2">
+							
+
+<p style="text-align: right; margin-right: 1px;">Звоните<span style="font-size: 10pt;">(г.Вологда) </span>! +7(8172) 580-929 <br />+7(8172) 580-939<br /><span style="font-size: 10pt;">заявки по телефону C Пн-Пт,09:00-17:00</span><strong><br /><span style="font-size: 8pt; color: #ff0000;"><a href="/kontakty.html" style="color: #ff0000;">Если не доступны то на номера &gt;&gt;&gt;<br /></a> </span></strong><span style="font-size: 10pt;"><strong><a href="/zayavka-na-vyezd.html">Оставить заявку на заправку картриджей Онлайн</a></strong></span><br /><span style="font-size: 10pt;"><br /></span></p>
+						</div>
+						<div class="span6 head_block_3">
+							<!--noindex--><div class="jbzoo jbcart-module jsJBZooCartModule" id="jbmodule-default-231">
+
+            <div class="jbcart-module-empty clearfix">Ваша корзина пуста</div>
+    
+</div>
+<!--/noindex-->
+						</div>
+					</div>
+				</div>
+				<nav class="navbar gk-main-menu">
+					<div class="navbar-inner">
+						<div class="container">
+							
+<ul class="nav ">
+<li class=""><a href="/catalog.html" title="Каталог">Каталог</a></li><li class=""><a href="/zapravka-kartridzhej.html" title="ЗАПРАВКА">ЗАПРАВКА</a></li><li class=""><a href="/remont.html" title="РЕМОНТ">РЕМОНТ</a></li><li class=""><a href="/print.html" title="ПЕЧАТЬ">ПЕЧАТЬ</a></li><li class=""><a href="/shares.html" title="АКЦИИ">АКЦИИ</a></li><li class=""><a href="/news.html" title="Новости">Новости</a></li></ul>
+
+						</div>
+					</div>
+				</nav><!-- /.navbar -->
+			</header>
+			
+			
+			
+			<section class="row-fluid">
+								<aside class="span3" id="leftSidebar">
+					
+					
+					
+  
+  <div id="jbmodule-default-225" class="jbzoo yoo-zoo"><div class="module-items jbzoo-rborder module-items-col-1">	
+<div class="jbcategory rborder"><h3>КАТАЛОГ ТОВАРОВ</h3>
+    <div id="jbmodule-default-225" class="yoo-zoo jbzoo jbcategory-module jbcategory-module-default jbzoo-rborder">
+
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/raskhodnye-materialy-13696.html"
+                               title="Расходные материалы"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-rashod_c2151260fa61805c96ff431a3a37eca8_34f25de0426bacf82d3f4f87c15f0ec7.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/raskhodnye-materialy-13696.html" title="Расходные материалы">
+                            Расходные материалы</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/zip-dlya-kartridzhej-i-blokov-11994.html"
+                               title="ЗИП для картриджей и блоков"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-zip-cartridges_cea6c5d8988b8bde548af3fb286616d8_a27819c8a89b70ca8d3e7ee0193acd65.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/zip-dlya-kartridzhej-i-blokov-11994.html" title="ЗИП для картриджей и блоков">
+                            ЗИП для картриджей и блоков</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/zip-dlya-printerov-mfu-kopirov-12084.html"
+                               title="ЗИП для принтеров, мфу, копиров"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-zip-print-mfu_14138bc16ce9223e56f678f13b0b8c62_63cbd9d16484d31a9eaf2d14447dd5a8.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/zip-dlya-printerov-mfu-kopirov-12084.html" title="ЗИП для принтеров, мфу, копиров">
+                            ЗИП для принтеров, мфу, копиров</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/zip-dlya-kompyuterov-12461.html"
+                               title="ЗИП для компьютеров"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-zip-comp_d6433811469b4433a34c1098f21647ba_a0b63657a8b163acefc929333b8f627b.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/zip-dlya-kompyuterov-12461.html" title="ЗИП для компьютеров">
+                            ЗИП для компьютеров</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/zip-dlya-noutbukov-15168.html"
+                               title="ЗИП для ноутбуков"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-zip-notebook_2b78fb8b94dbff9af2bcd8d5a36e599c_e161633171d7b700705962c73d0caf98.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/zip-dlya-noutbukov-15168.html" title="ЗИП для ноутбуков">
+                            ЗИП для ноутбуков</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/zip-dlya-telefonov-i-planshetov-21351.html"
+                               title="ЗИП для телефонов и планшетов"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-zip-telefon_8b0be5c791a84aee9506580bb2bc86ac_d1960a470f940d58ed920ecedbc51996.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/zip-dlya-telefonov-i-planshetov-21351.html" title="ЗИП для телефонов и планшетов">
+                            ЗИП для телефонов и планшетов</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/kompyuternye-aksessuary-12430.html"
+                               title="Компьютерные аксессуары"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-comp-a_3326c8466639c6dd55a69f481472c4ce_371b0ca31c5fa906e39b541839ce6f3a.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/kompyuternye-aksessuary-12430.html" title="Компьютерные аксессуары">
+                            Компьютерные аксессуары</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/vneshnie-nakopiteli-12749.html"
+                               title="Внешние накопители"><img src="https://www.rashodka35.ru/media/zoo/images/vneshnie-nakopiteli_b3411ede2197898f118cef5b73764204_8081beda04b4e85f25da8660e175185b.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/vneshnie-nakopiteli-12749.html" title="Внешние накопители">
+                            Внешние накопители</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/kabeli-12428.html"
+                               title="Кабели"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-cable_53f4acd3a9fd355224b96b1a76b332b7_e5754053f758760dfcf953d7bc222d05.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/kabeli-12428.html" title="Кабели">
+                            Кабели</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/tonery-12074.html"
+                               title="Тонеры"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-toner_3150f092adb5f6a7fd162e54f9b1d565_1eae2407261f708cea99ed8f717270f0.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/tonery-12074.html" title="Тонеры">
+                            Тонеры</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/chernila-11984.html"
+                               title="Чернила"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-ink_49f13254d22f6c0c8d3841c11dd3a318_fc01ef205e778c320714010c436990c8.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/chernila-11984.html" title="Чернила">
+                            Чернила</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/chipy-12119.html"
+                               title="Чипы"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-chip_b7fa291721e0525651b91dc0f3d60b5d_51408a9180cf916801f9bc1e1307efea.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/chipy-12119.html" title="Чипы">
+                            Чипы</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/bumaga-i-fotobumaga-00029.html"
+                               title="Бумага и Фотобумага"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-paper_1aba8b6439980b27379c1494ec0d8930_cf4d038a10a4c153fe60633963952b4b.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/bumaga-i-fotobumaga-00029.html" title="Бумага и Фотобумага">
+                            Бумага и Фотобумага</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/suvenirnaya-produktsiya-24791.html"
+                               title="Сувенирная продукция"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-souvenir_230223de7fa219bc8360ed0af759152f_c4e5d4f1fa1ec7cd298253fca3feb409.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/suvenirnaya-produktsiya-24791.html" title="Сувенирная продукция">
+                            Сувенирная продукция</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/snpch-i-pzk-12432.html"
+                               title="СНПЧ и ПЗК"><img src="https://www.rashodka35.ru/media/zoo/images/catalog-snpch-pzk_d202cf74750c073031c663a57a2488b1_1ca29cee3faa9451798a38703d4343c0.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/snpch-i-pzk-12432.html" title="СНПЧ и ПЗК">
+                            СНПЧ и ПЗК</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/sredstva-dlya-chistki-i-remonta-12344.html"
+                               title="Средства для чистки и ремонта"><img src="https://www.rashodka35.ru/media/zoo/images/sredstva-dlya-chistki_26f3e089e63b4becdc49f23417658da9_a0ef4fd2099aac30e5528163ae235828.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/sredstva-dlya-chistki-i-remonta-12344.html" title="Средства для чистки и ремонта">
+                            Средства для чистки и ремонта</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/aksessuary-dlya-telefonov-i-planshetov-20588.html"
+                               title="Аксессуары для телефонов и планшетов"><img src="https://www.rashodka35.ru/media/zoo/images/aksessuary-dlya-telefonov-i-planshetov_dd4e8b62a50b14647bd757c9aaead94d_8800d878996254db5c32873edc97064f.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/aksessuary-dlya-telefonov-i-planshetov-20588.html" title="Аксессуары для телефонов и планшетов">
+                            Аксессуары для телефонов и планшетов</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+                    <div class="category-wrapper ">
+
+                <div class="jbcategory rborder">
+                                            <div class="jbcategory-image align-right">
+                            <a href="/catalog/orgtekhnika-12279.html"
+                               title="Оргтехника"><img src="https://www.rashodka35.ru/media/zoo/images/orgtekhnika_b5e896ca9624728ed1d9c5fcd9897420_e524631f544bf0aac1af42bcfdeeba5f.png" width="45" height="20" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/catalog/orgtekhnika-12279.html" title="Оргтехника">
+                            Оргтехника</a>
+                    </div>
+
+                    
+                                    </div>
+
+                            </div>
+        
+        <i class="clr"></i> </div></div>
+
+
+<script type='text/javascript'>
+(function () {
+    window['yandexChatWidgetCallback'] = function() {
+        try {
+            window.yandexChatWidget = new Ya.ChatWidget({
+                guid: '91b545da-0519-4d2b-9638-af4c8a6fa65c',
+                buttonText: 'Ответим на ваши вопросы',
+                title: 'Расходка',
+                theme: 'dark',
+                collapsedDesktop: 'never',
+                collapsedTouch: 'always'
+            });
+        } catch(e) { }
+    };
+    var n = document.getElementsByTagName('script')[0],
+        s = document.createElement('script');
+    s.async = true;
+    s.charset = 'UTF-8';
+    s.src = 'https://chat.s3.yandex.net/widget.js';
+    n.parentNode.insertBefore(s, n);
+})();
+</script>
+
+<noindex><!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t16.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+</noindex>
+<noindex><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17182368-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></noindex>
+<noindex>
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter48807248 = new Ya.Metrika({ id:48807248, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/48807248" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+</noindex>
+
+					
+					
+				</aside>
+								<div class="span9 content">
+					<div class="row-fluid">
+						
+						
+<div class="breadcrumb">
+<li><a href="/" class="pathway">Главная</a></li></div>
+
+    				    
+						
+					</div>
+                    <div class="content_in_wrapp">
+						<div id="system-message-container">
+	</div>
+
+                        <article class="item-page">
+
+
+	
+	
+
+
+	
+
+			<p style="text-align: center;"><span style="font-size: 14pt; color: #ff0000;"><strong><span id="result_box" class="short_text" lang="ru"><span class="">Извините, эта страница недоступна!</span></span></strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Возможно, указан неправильный адрес страницы. Вероятно, страница была удалена или перемещена.<br />Перейдите на стартовую страницу, выберите другой раздел или воспользуйтесь поиском.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="/images/404.png" alt="404" /></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<div id="s3gt_translate_tooltip_mini" class="s3gt_translate_tooltip_mini_box" style="background: initial !important; border: initial !important; border-radius: initial !important; border-spacing: initial !important; border-collapse: initial !important; direction: ltr !important; flex-direction: initial !important; font-weight: initial !important; height: initial !important; letter-spacing: initial !important; min-width: initial !important; max-width: initial !important; min-height: initial !important; max-height: initial !important; margin: auto !important; outline: initial !important; padding: initial !important; position: absolute; table-layout: initial !important; text-align: initial !important; text-shadow: initial !important; width: initial !important; word-break: initial !important; word-spacing: initial !important; overflow-wrap: initial !important; box-sizing: initial !important; display: initial !important; color: inherit !important; font-size: 13px !important; font-family: X-LocaleSpecific, sans-serif, Tahoma, Helvetica !important; line-height: 13px !important; vertical-align: top !important; white-space: inherit !important; left: 267px; top: 35px; opacity: 0.85;">&nbsp;</div> 
+		
+
+		</article>
+
+
+
+						<h3>Цены на ЗАПРАВКУ</h3>
+    <div id="jbmodule-default-250" class="yoo-zoo jbzoo jbcategory-module jbcategory-module-default jbzoo-rborder">
+<div class="subcategories clearfix subcategory-col-4">
+        		
+            <div class="category-wrapper rborder column width25 first">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/hewlett-packard.html?f=1"
+                               title="Hewlett-Packard"><img src="https://www.rashodka35.ru/media/zoo/images/hp_cbdf235691f6b94a9e92401b1226ba38_d8df54ec529f7a3579d9bf0412758a6d.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/hewlett-packard.html?f=1" title="Hewlett-Packard">
+                            Hewlett-Packard</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/canon.html?f=1"
+                               title="CANON"><img src="https://www.rashodka35.ru/media/zoo/images/canon_6b5da0f11087480e353b1d63815823f0_6fae1747abcb9f99714ee8b8debdf92e.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/canon.html?f=1" title="CANON">
+                            CANON</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/samsung.html?f=1"
+                               title="Samsung"><img src="https://www.rashodka35.ru/media/zoo/images/samsung_34ab8db40bd156ab1feb674d24713027_e9574b9abcb709dfdc880572d2099100.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/samsung.html?f=1" title="Samsung">
+                            Samsung</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25 last">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/kyocera.html?f=1"
+                               title="Kyocera"><img src="https://www.rashodka35.ru/media/zoo/images/kyocera_a8991c7be4e95c46d5ad087c01fad3c7_a2a360afa48b1468ed28dd2e80eb8afe.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/kyocera.html?f=1" title="Kyocera">
+                            Kyocera</a>
+                    </div>
+
+                    
+                                    
+
+                            </div><i class="clr"></i>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/xerox.html?f=1"
+                               title="Xerox"><img src="https://www.rashodka35.ru/media/zoo/images/xerox_ed08ceba62a9a86990f01fa7cc8dd302_869afe162b80042975f827ff5e1d224e.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/xerox.html?f=1" title="Xerox">
+                            Xerox</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/brother.html?f=1"
+                               title="Brother"><img src="https://www.rashodka35.ru/media/zoo/images/brother_94dcf6b7fee4a583cbe1b055ac2b66ad_4e39075c9fd1e5961cf6d775d874f323.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/brother.html?f=1" title="Brother">
+                            Brother</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/ricoh.html?f=1"
+                               title="Ricoh"><img src="https://www.rashodka35.ru/media/zoo/images/ricoh_74b8979a47122a5f55c58d6580df8d9c_e64dcc4c131d2c1f6d0bdc3e42e9830b.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/ricoh.html?f=1" title="Ricoh">
+                            Ricoh</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25 last">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/sharp.html?f=1"
+                               title="Sharp"><img src="https://www.rashodka35.ru/media/zoo/images/sharp_1f50b8377931b719455fa7c2c5954ce9_5f0e8d5853e8965ed8cf57e69f234c1b.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/sharp.html?f=1" title="Sharp">
+                            Sharp</a>
+                    </div>
+
+                    
+                                    
+
+                            </div><i class="clr"></i>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/oki.html?f=1"
+                               title="OKI"><img src="https://www.rashodka35.ru/media/zoo/images/oki_23192a7b7f7098d1bee1e9ac060e75e9_4b201ea97b46c2b8b5b8c4725c201e42.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/oki.html?f=1" title="OKI">
+                            OKI</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/panasonic.html?f=1"
+                               title="Panasonic"><img src="https://www.rashodka35.ru/media/zoo/images/panasonic_b5b2ccdacf48e70918142a9d840edc48_5a0621d3ac30ba6b71db77716815474e.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/panasonic.html?f=1" title="Panasonic">
+                            Panasonic</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/lexmark.html?f=1"
+                               title="Lexmark"><img src="https://www.rashodka35.ru/media/zoo/images/lexmark_9dca50aef9aa37e572d2f4c0a0e52240_e353e032471d3019f36098214d9cbdd4.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/lexmark.html?f=1" title="Lexmark">
+                            Lexmark</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        		
+            <div class="category-wrapper rborder column width25 last">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/pantum.html?f=1"
+                               title="Pantum"><img src="https://www.rashodka35.ru/media/zoo/images/pantum_58ea30cbbff57acfe90a1004d3baa785_c66f206e0ec72ea858fce95bb4768635.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/pantum.html?f=1" title="Pantum">
+                            Pantum</a>
+                    </div>
+
+                    
+                                    
+
+                            </div><i class="clr"></i>        		
+            <div class="category-wrapper rborder column width25">
+
+                
+                                            <div class="jbcategory-image align-center">
+                            <a href="/remont/special-offers.html?f=1"
+                               title="Спецпредложения"><img src="https://www.rashodka35.ru/media/zoo/images/special-offers_8e79e314f6753c5d5b6ff56878249ed2_3551e98b760746e3633c4d0006178155.png" width="112" height="50" /></a>
+                        </div>
+                    
+                    <div class="jbcategory-link">
+                        <a href="/remont/special-offers.html?f=1" title="Спецпредложения">
+                            Спецпредложения</a>
+                    </div>
+
+                    
+                                    
+
+                            </div>        
+        <i class="clr"></i>    </div> </div>
+
+						
+						
+					
+				
+                    </div>
+			</div>
+			</section>
+			<hr />
+		</div>
+		<div class="container-footer">
+		    <div class="ras-bottom">
+		    
+
+<p>Все товары и цены на данном сайте носят справочный характер и не являются публичной офертой. По вопросам наличия товара и цен - обращаться к менеджерам по тел 730-290, 580-929 или в разделах задать вопрос, заказать обратный звонок<a href="/component/jmap/sitemap.html">.</a></p>
+			</div>
+		</div>
+		<div class="container-footer">	
+		    <div class="ras-bottom">
+		    <script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script>			<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=lf85ace302286d8aad27e29ebd6471298b0e1810a8" type="text/javascript"></script>	
+			
+	
+
+			
+			</div>			
+		</div>
+		<footer class="footer">
+			<div class="container-footer">
+				<div class="row-fluid" id="footer1">
+					<div class="span3">
+						
+					</div>
+					<div class="span3">
+						
+					</div>
+					<div class="span3">
+						
+
+					</div>
+					<div class="span3">
+						
+					</div>					
+					
+					
+					<div class="span11">
+					    
+                          <div id="jbmodule-default-199" class="jbzoo yoo-zoo"><div class="module-items jbzoo-rborder module-items-col-3"><div class="items items-col-3"><div class="row-fluid item-row-0" data-uk-grid-margin><div class="item-column span4 first"><div class="well clearfix"><div class="wrapper-item-desc">
+            <div class="item-image align-left">
+             <a class="jbimage-link  uk-thumbnail uk-overlay default_332_c5cbe6eb-360c-4644-943a-bbb8562b523a" title="Торгово-сервисный центр «Расходка» Вологда, ул. Воркутинская, д.4" href="https://www.rashodka35.ru/kontakty/vologda-ul-vorkutinskaya-d4.html" id="jbimage-link-69a490aa1c862"><img class="jbimage default_332_c5cbe6eb-360c-4644-943a-bbb8562b523a" alt="Торгово-сервисный центр «Расходка» Вологда, ул. Воркутинская, д.4" title="Торгово-сервисный центр «Расходка» Вологда, ул. Воркутинская, д.4" src="https://www.rashodka35.ru/images/map/rashodka35-vorkutinskaya-4.jpg" width="774" height="590" data-template="itemlink" /><div class="uk-overlay-area"></div></a> 
+         </div>
+    
+            <div class="item-wrapper-desc">
+            
+            
+            
+                            <div class="item-description"> <p><strong><span style="font-size: 12pt;"><span style="color: #000000; font-size: 8pt;"><span style="color: #333399; font-size: 8pt;"><span style="color: #800000; font-size: 8pt;">г. Вологда, улица Воркутинская, д.4</span><br /><span style="color: #000000;">время работы:&nbsp;</span>пн-чт 9:00-18:00,пт 9:00-17:00, сб выходной, вс - выходной<br /><span style="color: #333399;">+7 (8172) 580-929, +7 (8172) 580-939, <br />+7 (8172) 73-02-90</span></span></span></span></strong></p> </div>
+            
+        </div>
+
+    
+</div>
+<div class="item-links"></div>
+
+<i class="clr"></i></div></div><div class="item-column span4"><div class="well clearfix"><div class="wrapper-item-desc">
+            <div class="item-image align-left">
+             <a class="jbimage-link  uk-thumbnail uk-overlay default_323_c5cbe6eb-360c-4644-943a-bbb8562b523a" title="Торгово-сервисный центр «Расходка» Вологда, ул. Благовещенская, д.34" href="https://www.rashodka35.ru/kontakty/vologda-ul-blagoveshhenskaya-d34-2.html" id="jbimage-link-69a490aa1d2fa"><img class="jbimage default_323_c5cbe6eb-360c-4644-943a-bbb8562b523a" alt="Торгово-сервисный центр «Расходка» Вологда, ул. Благовещенская, д.34" title="Торгово-сервисный центр «Расходка» Вологда, ул. Благовещенская, д.34" src="https://www.rashodka35.ru/images/map/map.jpg" width="774" height="590" data-template="itemlink" /><div class="uk-overlay-area"></div></a> 
+         </div>
+    
+            <div class="item-wrapper-desc">
+            
+            
+            
+                            <div class="item-description"> <p><strong><span style="font-size: 12pt;"><span style="color: #800000; font-size: 8pt;">г. Вологда, улица Благовещенская, д. 34</span><br /><span style="color: #000000; font-size: 8pt;">время работы: <br />пн-чт 8:00-18:00,пт 8:00-17:00, сб выходной, вс - выходной<br /><span style="color: #333399;">+7 (8172) 72-05-42, +7 (8172) 72-25-74</span></span></span></strong></p>
+<div id="s3gt_translate_tooltip_mini" class="s3gt_translate_tooltip_mini_box" style="background: initial !important; border: initial !important; border-radius: initial !important; border-spacing: initial !important; border-collapse: initial !important; direction: ltr !important; flex-direction: initial !important; font-weight: initial !important; height: initial !important; letter-spacing: initial !important; min-width: initial !important; max-width: initial !important; min-height: initial !important; max-height: initial !important; margin: auto !important; outline: initial !important; padding: initial !important; position: absolute; table-layout: initial !important; text-align: initial !important; text-shadow: initial !important; width: initial !important; word-break: initial !important; word-spacing: initial !important; overflow-wrap: initial !important; box-sizing: initial !important; display: initial !important; color: inherit !important; font-size: 13px !important; font-family: X-LocaleSpecific, sans-serif, Tahoma, Helvetica !important; line-height: 13px !important; vertical-align: top !important; white-space: inherit !important; left: 3px; top: 35px; opacity: 0.5;">&nbsp;</div> </div>
+            
+        </div>
+
+    
+</div>
+<div class="item-links"></div>
+
+<i class="clr"></i></div></div><div class="item-column span4 last last"><div class="well clearfix"><div class="wrapper-item-desc">
+            <div class="item-image align-left">
+             <a class="jbimage-link  uk-thumbnail uk-overlay default_324_c5cbe6eb-360c-4644-943a-bbb8562b523a" title="Торгово-сервисный центр «Расходка» Вологда, ул. Ленинградская, д.91" href="https://www.rashodka35.ru/kontakty/vologda-ul-leningradskaya-d91-2.html" id="jbimage-link-69a490aa1d973"><img class="jbimage default_324_c5cbe6eb-360c-4644-943a-bbb8562b523a" alt="Торгово-сервисный центр «Расходка» Вологда, ул. Ленинградская, д.91" title="Торгово-сервисный центр «Расходка» Вологда, ул. Ленинградская, д.91" src="https://www.rashodka35.ru/images/map/map6.jpg" width="774" height="590" data-template="itemlink" /><div class="uk-overlay-area"></div></a> 
+         </div>
+    
+            <div class="item-wrapper-desc">
+            
+            
+            
+                            <div class="item-description"> <p><strong><span style="font-size: 12pt;"><span style="color: #000000; font-size: 8pt;"><span style="color: #800000; font-size: 8pt;">г. Вологда, улица Ленинградская, д.91</span><br />время работы: <br />пн-чт 8:00-18:00,пт 8:00-17:00, сб выходной, вс - выходной<br /><span style="color: #333399; font-size: 8pt;">+7 (8172) 582-115, +7 (8172) 51-59-18</span></span></span></strong></p> </div>
+            
+        </div>
+
+    
+</div>
+<div class="item-links"></div>
+
+<i class="clr"></i></div></div></div></div></div></div>
+
+					</div>
+					
+					
+					
+					
+					
+										<div class="span2 pull-right">
+											</div>
+
+				</div>
+    			<div class="row-fluid" id="footer2">
+					<div class="span6">
+											</div>
+					<div class="span2 pull-right">
+						
+					</div>					
+    			</div>
+            </div>
+		</footer>
+				<!-- Google Analytics -->
+			<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-17182368-5', 'auto');
+			ga('send', 'pageview');
+			</script>
+			<!-- End Google Analytics --></body>
+</html

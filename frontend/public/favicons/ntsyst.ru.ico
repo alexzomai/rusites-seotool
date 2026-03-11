@@ -1,0 +1,227 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Материалы страницы формируются</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="материалы страницы формируются">
+<meta name="Keywords" content="формируются, материалы"> 
+<meta name="robots" content="index, follow">
+<meta http-equiv="content-language" content="ru">
+<meta name="author" lang="ru" content="Суздалева Антонина Львовна">
+<style type="text/css">
+   body {
+    font-family: Arial, Helvetica, sans-serif; /* Рубленый шрифт текста */
+    margin: 0; /* Обнуляем отступы браузера */
+	text-align: justify; /* Выравнивание по ширине */
+	background-color: #ffffcc; /* Цвет фона веб-страницы */
+	}
+	p.dline {
+    line-height: 1.8; /* Расстояние между строками */
+   }
+	p {
+    text-indent: 0; /* Обнуляем отступ первой строки*/
+	line-height: 1.4; /* Расстояние между строками */
+	}
+   h1 {
+    text-align: center; /* Название по центру*/
+	font-size: 34px; /* Размер шрифта */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	font-weight: bold; /* Жирное начертание */
+    margin: 5px; /* Убираем отступы */
+    color: 	#000000; /* Цвет текста */
+   }
+    h2 {
+    margin: 0; /* Убираем отступ */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	text-align: left; /*Выравнивание по левому краю*/
+	}
+	h3 {
+    margin: 0; /* Убираем отступ */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	}
+	h4 {
+	text-align: right; /* Выравнивание по правому краю */
+	margin: 20px; /* Убираем отступ */
+	margin-top: 0; /* Отступ сверху */
+	font-style: italic; /* Курсив */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	font-weight: bold; /* Жирное начертание */
+	}
+   #head { /* Верхний блок */
+    background: #99ccff; /* Цвет фона */
+    padding: 4px; /* Поля вокруг */
+	line-height: 1; /* Расстояние между строками */
+	margin-top: 0; /* Отступ сверху */
+	}
+   #menu { /* Левая колонка */
+    float: left; /* Обтекание справа */
+    border: 1px solid #ff6600; /* Параметры рамки вокруг */
+    width: 200px; /* Ширина колонки */
+    padding: 5px; /* Поля вокруг текста */
+    margin: 10px 10px 20px 10px; /* Значения отступов */
+	text-align: left; /* Выравнивание по левому краю */
+	font-size: 18px; /* Размер шрифта */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	font-weight: bold; /* Жирный шрифта */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	background: #ffffff; /* Цвет фона */	
+	}
+			.colortext {
+					color: red; /* Красный цвет выделения */
+
+						}
+	#menu div {
+    padding: 2px; /* Поля вокруг ссылок */
+   }
+   #menu a { 
+    display: block; /* Отображать ссылку как блок */
+    padding: 2px; /* Поля вокруг ссылок */
+    margin: 1px; /* Отступы вокруг */
+    font-size: 0.9em; /* Размер текста */
+    text-decoration: none; /* Убираем подчеркивание текста */
+	}
+   #menu a:hover { 
+    background: #ffffcc; /* Цвет фона */
+    border: 1px dashed #ff6600; /* Добавление рамки */
+    margin: 0; /* Убираем поля */
+   }
+   #content { /* Правая колонка */
+    margin: 10px 5px 5px 230px; /* Значения отступов */
+    padding: 20px; /* Поля вокруг текста */
+    background: #ffffcc; /* Цвет фона */
+	}
+	.line {
+    border-bottom: 1px groove #ff6600; /* Линия между ссылками */
+   }
+   .zagruzka {
+    font-weight: bold; /* Жирный шрифта */
+	padding: 1px; /* Поля вокруг ссылок */
+	margin: 0; /* Убираем поля */
+	}
+	.zagruzka a:link {
+    display: block; /* Отображать ссылку как блок */
+	background: #ffffff; /* Цвет фона */
+	text-decoration: none; /* Убираем подчеркивание текста */
+	border: 1px solid #ff6600; /* Параметры рамки */
+	}
+   .zagruzka a:hover { 
+    background: #ffffff; /* Цвет фона */
+    border: 1px dashed #0000ff; /* Добавление рамки */
+	}
+   .leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+   }
+   .rightimg  {
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
+   ul {
+    list-style: disc inside; /* Маркер в виде точки     внутри текстового поля  */
+	padding: 0; /* Поля вокруг текста */
+	}
+	li {
+    line-height: 1.6; /* Расстояние между строками */
+	}
+	ol {
+    list-style-type: none; /* Маркер отсутствует  */
+	list-style-image: none;
+	list-style-position: inside; /* Маркер обтекается текстом */
+	padding: 0; /* Поля вокруг текста */
+	}
+    #foot { /* Нижний блок */
+    background: #99ccff; /* Цвет фона */
+    padding: 1px; /* Поля вокруг текста */
+    color: #000000; /* Цвет текста */
+    font-style: italic; /* Курсив */
+	font-weight: bold; /* Жирное начертание */
+	font-variant: small-caps; /* Тип шрифта - прописные */
+	}
+</style>
+  
+ 
+ </head>
+ 
+ <body>
+ 
+   <div id="head">
+    <h1>Страница пока не существует</h1>
+  </div>
+  
+  
+<div id="menu">
+   <div><a href="../index.html">Природно-технические системы (ПТС)</a></div>
+   <div><a href="ras.html"><font size="2" color="#009835;" ><i>ПТС (доклад и презентация на сессии СОФАГ РАН)</i></font></a></div>
+   <div><a href="nd2.html"> <font  size="2" color="#009835;" ><i>ПТС (учебное пособие с темами магистерских диссертаций)</i></font></a></div>
+   <div><a href="technogenes.html">Техногенез</a></div>
+
+ <div><a href="technogenes1.html"><font size="2" color="#009835;" ><i>Техногенез и деградация поверхностных водных объектов (монография)</i></font></a></div>
+
+
+   <div><a href="technoecol.html">Системная техноэкология и экологическая глобалистика</a></div>
+   <div><a href="managednts.html">Управляемые ПТС</a></div>
+   <div><a href="managednts2.html"><font size="2" color="#009835;" ><i>Создание управляемых ПТС (монография)</i></font></a></div>
+   <div><a href="biotechnosphere.html">Биотехносфера</a></div>
+
+  <div><a href="biotechnosphere2.html"><font size="2" color="#009835;" ><i> Биотехносфера:экология и безопасность жизнедеятельности (монография)</i></font></a></div>
+
+   <div><a href="degradation.html">Деградация водных объектов</a></div>
+   <div><a href="antiriver.html">Антиреки и международный рынок пресных вод</a></div>
+   <div><a href="ecolimage.html">Экологический имидж</a></div>
+   <div><a href="ecolimage2.html"><font size="2" color="#009835;" ><i> Формирование экологического имиджа производственной организации и ее продукции(монография)</i></font></a></div>
+   <div><a href="urbanization.html">Урбанизация</a></div>
+   <div><a href="ecolsecurity.html">Экологическая безопасность и БЖД</a></div>
+   <div><a href="assessmentsecurity.html">Оценка экологической безопасности</a></div>
+   <div><a href="res.html">Возобновляемые источники энергии</a></div>
+   <div><a href="biointerference.html">Водоемы-охладители АЭС и ТЭС. Биопомехи в системах техводоснабжения</a></div>
+   <div><a href="ecoloptimization.html">Экологическая оптимизация</a></div>
+   <div><a href="upwelling.html">Искусственный апвеллинг</a></div>
+   <div><a href="urbanwaterbodies.html">Малые городские водные объекты</a></div>
+   <div><a href="technowater.html">Техногенные скопления вод</a></div>
+   <div><a href="puddle.html">Лужи</a></div>
+   <div><a href="resort.html">Резорты – места массового отдыха</a></div>
+   <div><a href="thermalpollution.html">Тепловое загрязнение</a></div>
+   <div><a href="сlogging.html">Засорение водных объектов</a></div>
+   <div><a href="2pollution.html">Вторичное загрязнение водных объектов</a></div>
+   <div><a href="bioinvasion.html">Техногенные биологические инвазии</a></div>
+   <div><a href="stratification.html">Нарушение режима стратификации вод</a></div>
+    <div><a href="ecolhdbk.html"> <b><span class="colortext">NEW!</span></b> Нормативно-терминологический справочник </a></div>      
+   <div><a href="adaptation.html">Адаптация экосистем к техногенезу </a></div>
+   <div><a href="socionics.html">Надличностная соционика</a></div>
+   
+   <div><a href="conflicts.html">Социально-экологические конфликты</a></div>
+   <div><a href="crisis.html">Мировой кризис водопотребления</a></div>
+    <div><a href="geologysecond.html">Вторая геология</a></div>
+   <div><a href="geologysecond2.html"><b><span class="colortext">new!</span></b><font size="2" color="#009835;" ><i> Вторая геология &mdash; наука о техногенных телах литосферы (монография)</i></font></a></div>
+ 
+ <div class="line"></div>
+   
+     
+   <div><a href="download.html">Скачать бесплатно публикации</a></div>
+   <div><a href="alphamed2000.html">ООО "Альфамед 2000"</a></div>
+   <div><a href="contact.html">Контакты</a></div>
+ 
+</div>
+     
+  
+  
+  
+<div id="content">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+
+<tr>
+    
+	<td width="100%" align="center" valign="top"><p><img src="../images/error.jpg" width="80%" alt="HTTP Error 404: Not Found" title="HTTP Error 404: Not Found" class="leftimg"></p></td>
+	
+</tr>
+<tr><td width="100%" align="center" valign="top"><h3>Материалы страницы формируются...</h3></td>
+</tr>
+	</table>  
+      
+
+</div>
+
+ </body>
+</html>

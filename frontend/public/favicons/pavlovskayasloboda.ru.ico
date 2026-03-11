@@ -1,0 +1,153 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"//www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>404 : Ошибка загрузки</title>
+<META HTTP-EQUIV="Pragma" content ="no-cache">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="google-site-verification" content="g1AvS90wqd2IOUNP4LE3rKHkohJkB8mM_tj7Beg2zOw" />
+<link media="screen" href="https://pavlovskayasloboda.ru/screen.css" rel="stylesheet" type="text/css">
+<!-- [if IE]
+<style type="text/css">
+table#content div.ext td {background-color: expression(this.parentNode.currentStyle['backgroundColor'])}
+</style>
+-->
+
+<script type="text/javascript" src="https://pavlovskayasloboda.ru/js/dynapi/dynapi.js"></script>
+<script type="text/javascript">
+dynapi.library.setPath('https://pavlovskayasloboda.ru/js/dynapi/');
+dynapi.library.include('dynapi.api');
+dynapi.library.include('dynapi.library');
+dynapi.library.include('DragEvent');
+</script>
+<script type="text/javascript" src="https://pavlovskayasloboda.ru/js/common.js"></script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=539033042836684";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+
+<div id="header"><a href="https://pavlovskayasloboda.ru/" title="Храм Благовещения в селе Павловская Слобода"  id="flash"><img src="https://pavlovskayasloboda.ru/img/center.jpg" width="999" height="232" alt="Храм Благовещения в Павловской Слободе"></a></div>
+
+<div id="topmenu">
+<a href="/">ГЛАВНАЯ</a>&nbsp;&nbsp;
+<a href="/news.html">НОВОСТИ</a>&nbsp;&nbsp;
+<a href="/timetable.html" >РАСПИСАНИЕ БОГОСЛУЖЕНИЙ</a>&nbsp;&nbsp;
+<!--<a href="/newspaper.html" >ПРИХОДСКАЯ ГАЗЕТА</a>&nbsp;&nbsp;-->
+<!--<a href="/forum" >ФОРУМ</a>&nbsp;&nbsp;-->
+<a href="/feedback.html" >КОНТАКТЫ</a>&nbsp;&nbsp;
+<a href="/sitemap.html" >КАРТА САЙТА</a>
+</div>
+
+<div id="container">
+<table id="content" width="100%" summary="123"><thead><tr><th class="left"></th><th class="center"></th><th></th></tr></thead>
+<tbody>
+<tr>
+<td class="left" valign="top" style="background: url('/img/line.gif') repeat-y 0 0; "><div id="leftside">
+
+<div id="nav">
+<ul>
+<li><a href="/temple.html">О храме</a></li>
+<li><a href="/azy_pravoslavia.html">Азы православия</a></li>
+<li><a href="/liturgy.html">Посты, праздники</a></li>
+<li><a href="/mp3.html">Песнопения</a></li>
+<li><a href="/zodchestvo.html">Зодчество</a></li>
+<li><a href="/live.html">Жизнь прихода</a></li>
+<li><a href="/school.html">Воскресная школа</a></li>
+<li><a href="/library.html">Книжная полка</a></li>
+</ul>
+</div>
+
+<img src="https://pavlovskayasloboda.ru/images/headers/side_search.png" alt="Поиск">
+<form action="//www.google.com/cse" id="cse-search-box" target="_blank">
+  <div>
+  <input type="hidden" name="cx" value="005523141590152563203:ipekoo488cu" >
+  <input type="hidden" name="ie" value="cp1251" >
+  <input type="text" name="q" class="searchfield"><br>
+  <input type="submit" name="sa" value="Поиск" class="button">
+  </div>
+</form>
+<br />&nbsp;<br />
+<script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&lang=ru"></script>
+<div class="ext"><h2><img src="https://pavlovskayasloboda.ru/images/headers/h2_holiday.png" alt="Cегодня"></h2><script type="text/javascript" src="//script.pravoslavie.ru/calendar.php"></script><noscript><p>Для просмотра этого блока необходимо включить JavaScript.</p></noscript></div></div></td>
+
+<td class="center">
+<div id="home"><b></b></div><div id="mainheader">
+<h2><img src="https://pavlovskayasloboda.ru/images/headers/h2_404.png" alt="Ошибка загрузки"></h2>
+</div>
+<p>Запрошенная страница не найдена.</p>
+</td>
+
+<td valign="top" style="background: url('/img/line.gif') repeat-y 0 0; "><div id="rightside">
+<div></div>
+<script language="javascript" src="//pravoslavie.ru/cgi-bin/newsblock3.cgi"></script>
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?55"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "200", height: "290"}, 5038996);
+</script>
+</div>
+<div style="margin-left: 20px">
+<div class="fb-page" data-href="https://www.facebook.com/hramblagoveshenia/" data-tabs="timeline" data-width="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/hramblagoveshenia/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/hramblagoveshenia/">Храм Благовещения в Павловской Слободе</a></blockquote></div>
+</div>
+</td>
+</tr>
+
+<tr class="tfoot"><td class="left"></td><td class="center"><p style="margin-bottom: 6px">
+
+<!--<a href="//www.hristianstvo.ru/?from=2745" target='_blank'><img src="//www.hristianstvo.ru/images/ru-88x31-lightblue1.gif" title="Православное христианство.ru" width=88 height=31 border=0 alt=''></a>-->
+
+<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="//top.mail.ru/jump?from=1251356"'+
+' target="_top"><img src="//d8.c1.b3.a1.top.mail.ru/counter'+
+'?id=1251356;t=49;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border="0" height="31" width="88"><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target="_top" href="//top.mail.ru/jump?from=1251356"><img
+src="//d8.c1.b3.a1.top.mail.ru/counter?js=na;id=1251356;t=49"
+border="0" height="31" width="88"
+alt="Рейтинг@Mail.ru"></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+<!-- begin of Top100 code -->
+<script type="text/javascript" src="//counter.rambler.ru/top100.jcn?1134386"></script><noscript><img src="//counter.rambler.ru/top100.cnt?1134386" alt="" width="1" height="1" border="0"></noscript>
+<!-- end of Top100 code -->
+<!-- begin of Top100 logo -->
+<a href="//top100.rambler.ru/top100/"><img src="//top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width="88" height="31" border="0"></a>
+<!-- end of Top100 logo -->
+
+<script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+"border=0 width=88 height=31><\/a>")
+</script>
+
+<!--p>Создание сайта - <a href="//www.it-servis.ru">ООО &laquo;ИТ-Сервис&raquo;</a></p-->
+</td><td></td></tr></tbody> </table>
+</div>
+
+
+
+</div>
+</body></html>

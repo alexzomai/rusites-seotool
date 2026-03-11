@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://ogonek-adler.ru/xmlrpc.php">
+
+<title>Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы &#8211; Гостиница в Сочи</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" type="application/rss+xml" title="Гостевой Дом &quot;Огонек&quot; - уютные номера с видом на море и горы &raquo; Лента" href="https://ogonek-adler.ru/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Гостевой Дом &quot;Огонек&quot; - уютные номера с видом на море и горы &raquo; Лента комментариев" href="https://ogonek-adler.ru/?feed=comments-rss2" />
+<link rel='stylesheet' id='sydney-bootstrap-css' href='https://ogonek-adler.ru/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-4-css' href='https://ogonek-adler.ru/wp-content/uploads/elementor/css/post-4.css?ver=1751171055' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInRight-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-nested-tabs-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-tabs-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/css/widget-tabs.min.css?ver=3.29.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2-css' href='https://ogonek-adler.ru/wp-content/uploads/elementor/css/post-2.css?ver=1770890940' type='text/css' media='all' />
+<link rel='stylesheet' id='sydney-google-fonts-css' href='https://ogonek-adler.ru/wp-content/fonts/2a3f452a6c4d805e58fcec89a132dbf7.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sydney-style-css' href='https://ogonek-adler.ru/wp-content/themes/sydney/style.css?ver=20230821' type='text/css' media='all' />
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='sydney-ie9-css' href='https://ogonek-adler.ru/wp-content/themes/sydney/css/ie9.css?ver=6.8.3' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='sydney-elementor-css' href='https://ogonek-adler.ru/wp-content/themes/sydney/css/components/elementor.min.css?ver=20220824' type='text/css' media='all' />
+<link rel='stylesheet' id='sydney-style-min-css' href='https://ogonek-adler.ru/wp-content/themes/sydney/css/styles.min.css?ver=20240307' type='text/css' media='all' />
+<style id='sydney-style-min-inline-css' type='text/css'>
+.site-header{background-color:rgba(38,50,70,0.9);}.woocommerce ul.products li.product{text-align:center;}.header-image{background-size:cover;}.header-image{height:300px;}:root{--sydney-global-color-1:#d65050;--sydney-global-color-2:#b73d3d;--sydney-global-color-3:#233452;--sydney-global-color-4:#00102E;--sydney-global-color-5:#737C8C;--sydney-global-color-6:#00102E;--sydney-global-color-7:#F4F5F7;--sydney-global-color-8:#dbdbdb;--sydney-global-color-9:#ffffff;}.llms-student-dashboard .llms-button-secondary:hover,.llms-button-action:hover,.read-more-gt,.widget-area .widget_fp_social a,#mainnav ul li a:hover,.sydney_contact_info_widget span,.roll-team .team-content .name,.roll-team .team-item .team-pop .team-social li:hover a,.roll-infomation li.address:before,.roll-infomation li.phone:before,.roll-infomation li.email:before,.roll-testimonials .name,.roll-button.border,.roll-button:hover,.roll-icon-list .icon i,.roll-icon-list .content h3 a:hover,.roll-icon-box.white .content h3 a,.roll-icon-box .icon i,.roll-icon-box .content h3 a:hover,.switcher-container .switcher-icon a:focus,.go-top:hover,.hentry .meta-post a:hover,#mainnav > ul > li > a.active,#mainnav > ul > li > a:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.text-color,.social-menu-widget a,.social-menu-widget a:hover,.archive .team-social li a,a,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.classic-alt .meta-post a,.single .hentry .meta-post a,.content-area.modern .hentry .meta-post span:before,.content-area.modern .post-cat{color:var(--sydney-global-color-1)}.llms-student-dashboard .llms-button-secondary,.llms-button-action,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.project-filter li a.active,.project-filter li a:hover,.preloader .pre-bounce1,.preloader .pre-bounce2,.roll-team .team-item .team-pop,.roll-progress .progress-animate,.roll-socials li a:hover,.roll-project .project-item .project-pop,.roll-project .project-filter li.active,.roll-project .project-filter li:hover,.roll-button.light:hover,.roll-button.border:hover,.roll-button,.roll-icon-box.white .icon,.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span,.go-top,.bottom .socials li:hover a,.sidebar .widget:before,.blog-pagination ul li.active,.blog-pagination ul li:hover a,.content-area .hentry:after,.text-slider .maintitle:after,.error-wrap #search-submit:hover,#mainnav .sub-menu li:hover > a,#mainnav ul li ul:after,button,input[type="button"],input[type="reset"],input[type="submit"],.panel-grid-cell .widget-title:after,.cart-amount{background-color:var(--sydney-global-color-1)}.llms-student-dashboard .llms-button-secondary,.llms-student-dashboard .llms-button-secondary:hover,.llms-button-action,.llms-button-action:hover,.roll-socials li a:hover,.roll-socials li a,.roll-button.light:hover,.roll-button.border,.roll-button,.roll-icon-list .icon,.roll-icon-box .icon,.owl-theme .owl-controls .owl-page span,.comment .comment-detail,.widget-tags .tag-list a:hover,.blog-pagination ul li,.error-wrap #search-submit:hover,textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,button,input[type="button"],input[type="reset"],input[type="submit"],.archive .team-social li a{border-color:var(--sydney-global-color-1)}.sydney_contact_info_widget span{fill:var(--sydney-global-color-1);}.go-top:hover svg{stroke:var(--sydney-global-color-1);}.site-header.float-header{background-color:rgba(0,0,0,0.9);}@media only screen and (max-width:1024px){.site-header{background-color:#000000;}}#mainnav ul li a,#mainnav ul li::before{color:#ffffff}#mainnav .sub-menu li a{color:#ffffff}#mainnav .sub-menu li a{background:#1c1c1c}.text-slider .maintitle,.text-slider .subtitle{color:#ffffff}body{color:#170272}#secondary{background-color:#ffffff}#secondary,#secondary a:not(.wp-block-button__link){color:#737C8C}.btn-menu .sydney-svg-icon{fill:#ffffff}#mainnav ul li a:hover,.main-header #mainnav .menu > li > a:hover{color:#d65050}.overlay{background-color:#000000}.page-wrap{padding-top:83px;}.page-wrap{padding-bottom:100px;}@media only screen and (max-width:1025px){.mobile-slide{display:block;}.slide-item{background-image:none !important;}.header-slider{}.slide-item{height:auto !important;}.slide-inner{min-height:initial;}}.go-top.show{border-radius:2px;bottom:10px;}.go-top.position-right{right:20px;}.go-top.position-left{left:20px;}.go-top{background-color:;}.go-top:hover{background-color:;}.go-top{color:;}.go-top svg{stroke:;}.go-top:hover{color:;}.go-top:hover svg{stroke:;}.go-top .sydney-svg-icon,.go-top .sydney-svg-icon svg{width:16px;height:16px;}.go-top{padding:15px;}.site-info{border-top:0 solid rgba(255,255,255,0.1);}.footer-widgets-grid{gap:30px;}@media (min-width:992px){.footer-widgets-grid{padding-top:95px;padding-bottom:95px;}}@media (min-width:576px) and (max-width:991px){.footer-widgets-grid{padding-top:60px;padding-bottom:60px;}}@media (max-width:575px){.footer-widgets-grid{padding-top:60px;padding-bottom:60px;}}@media (min-width:992px){.sidebar-column .widget .widget-title{font-size:22px;}}@media (min-width:576px) and (max-width:991px){.sidebar-column .widget .widget-title{font-size:22px;}}@media (max-width:575px){.sidebar-column .widget .widget-title{font-size:22px;}}@media (min-width:992px){.footer-widgets{font-size:16px;}}@media (min-width:576px) and (max-width:991px){.footer-widgets{font-size:16px;}}@media (max-width:575px){.footer-widgets{font-size:16px;}}.footer-widgets{background-color:#00102E;}.sidebar-column .widget .widget-title{color:;}.sidebar-column .widget h1,.sidebar-column .widget h2,.sidebar-column .widget h3,.sidebar-column .widget h4,.sidebar-column .widget h5,.sidebar-column .widget h6{color:;}.sidebar-column .widget{color:#ffffff;}.sidebar-column .widget a{color:#ffffff;}.sidebar-column .widget a:hover{color:;}.site-footer{background-color:#B7D0FF;}.site-info,.site-info a{color:#010168;}.site-info .sydney-svg-icon svg{fill:#010168;}.site-info{padding-top:3px;padding-bottom:3px;}@media (min-width:992px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{padding-top:12px;padding-bottom:12px;}}@media (min-width:576px) and (max-width:991px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{padding-top:12px;padding-bottom:12px;}}@media (max-width:575px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{padding-top:12px;padding-bottom:12px;}}@media (min-width:992px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{padding-left:35px;padding-right:35px;}}@media (min-width:576px) and (max-width:991px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{padding-left:35px;padding-right:35px;}}@media (max-width:575px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{padding-left:35px;padding-right:35px;}}button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{border-radius:0;}@media (min-width:992px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{font-size:14px;}}@media (min-width:576px) and (max-width:991px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{font-size:14px;}}@media (max-width:575px){button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{font-size:14px;}}button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{text-transform:uppercase;}button,div.wpforms-container-full .wpforms-form input[type=submit],div.wpforms-container-full .wpforms-form button[type=submit],div.wpforms-container-full .wpforms-form .wpforms-page-button,.roll-button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{background-color:;}button:hover,div.wpforms-container-full .wpforms-form input[type=submit]:hover,div.wpforms-container-full .wpforms-form button[type=submit]:hover,div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,.roll-button:hover,a.button:hover,.wp-block-button__link:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{background-color:;}button,div.wpforms-container-full .wpforms-form input[type=submit],div.wpforms-container-full .wpforms-form button[type=submit],div.wpforms-container-full .wpforms-form .wpforms-page-button,.checkout-button.button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{color:;}button:hover,div.wpforms-container-full .wpforms-form input[type=submit]:hover,div.wpforms-container-full .wpforms-form button[type=submit]:hover,div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,.roll-button:hover,a.button:hover,.wp-block-button__link:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{color:;}.is-style-outline .wp-block-button__link,div.wpforms-container-full .wpforms-form input[type=submit],div.wpforms-container-full .wpforms-form button[type=submit],div.wpforms-container-full .wpforms-form .wpforms-page-button,.roll-button,.wp-block-button__link.is-style-outline,button,a.button,.wp-block-button__link,input[type="button"],input[type="reset"],input[type="submit"]{border-color:;}button:hover,div.wpforms-container-full .wpforms-form input[type=submit]:hover,div.wpforms-container-full .wpforms-form button[type=submit]:hover,div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,.roll-button:hover,a.button:hover,.wp-block-button__link:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{border-color:;}.posts-layout .list-image{width:30%;}.posts-layout .list-content{width:70%;}.content-area:not(.layout4):not(.layout6) .posts-layout .entry-thumb{margin:0 0 24px 0;}.layout4 .entry-thumb,.layout6 .entry-thumb{margin:0 24px 0 0;}.layout6 article:nth-of-type(even) .list-image .entry-thumb{margin:0 0 0 24px;}.posts-layout .entry-header{margin-bottom:24px;}.posts-layout .entry-meta.below-excerpt{margin:15px 0 0;}.posts-layout .entry-meta.above-title{margin:0 0 15px;}.single .entry-header .entry-title{color:;}.single .entry-header .entry-meta,.single .entry-header .entry-meta a{color:;}@media (min-width:992px){.single .entry-meta{font-size:12px;}}@media (min-width:576px) and (max-width:991px){.single .entry-meta{font-size:12px;}}@media (max-width:575px){.single .entry-meta{font-size:12px;}}@media (min-width:992px){.single .entry-header .entry-title{font-size:48px;}}@media (min-width:576px) and (max-width:991px){.single .entry-header .entry-title{font-size:32px;}}@media (max-width:575px){.single .entry-header .entry-title{font-size:32px;}}.posts-layout .entry-post{color:#233452;}.posts-layout .entry-title a{color:#00102E;}.posts-layout .author,.posts-layout .entry-meta a{color:#737C8C;}@media (min-width:992px){.posts-layout .entry-post{font-size:16px;}}@media (min-width:576px) and (max-width:991px){.posts-layout .entry-post{font-size:16px;}}@media (max-width:575px){.posts-layout .entry-post{font-size:16px;}}@media (min-width:992px){.posts-layout .entry-meta{font-size:12px;}}@media (min-width:576px) and (max-width:991px){.posts-layout .entry-meta{font-size:12px;}}@media (max-width:575px){.posts-layout .entry-meta{font-size:12px;}}@media (min-width:992px){.posts-layout .entry-title{font-size:32px;}}@media (min-width:576px) and (max-width:991px){.posts-layout .entry-title{font-size:32px;}}@media (max-width:575px){.posts-layout .entry-title{font-size:32px;}}.single .entry-header{margin-bottom:40px;}.single .entry-thumb{margin-bottom:40px;}.single .entry-meta-above{margin-bottom:24px;}.single .entry-meta-below{margin-top:24px;}@media (min-width:992px){.custom-logo-link img{max-width:54px;}}@media (min-width:576px) and (max-width:991px){.custom-logo-link img{max-width:70px;}}@media (max-width:575px){.custom-logo-link img{max-width:38px;}}.main-header,.bottom-header-row{border-bottom:1px solid rgba(244,133,9,0.98);}.main-header,.header-search-form{background-color:#F7F7F7;}.main-header.sticky-active{background-color:#FFFFFF;}.main-header .site-title a,.main-header .site-description,.main-header #mainnav .menu > li > a,#mainnav .nav-menu > li > a,.main-header .header-contact a{color:#0D16FF;}.main-header .sydney-svg-icon svg,.main-header .dropdown-symbol .sydney-svg-icon svg{fill:#0D16FF;}.sticky-active .main-header .site-title a,.sticky-active .main-header .site-description,.sticky-active .main-header #mainnav .menu > li > a,.sticky-active .main-header .header-contact a,.sticky-active .main-header .logout-link,.sticky-active .main-header .html-item,.sticky-active .main-header .sydney-login-toggle{color:#020794;}.sticky-active .main-header .sydney-svg-icon svg,.sticky-active .main-header .dropdown-symbol .sydney-svg-icon svg{fill:#020794;}.bottom-header-row{background-color:;}.bottom-header-row,.bottom-header-row .header-contact a,.bottom-header-row #mainnav .menu > li > a{color:;}.bottom-header-row #mainnav .menu > li > a:hover{color:;}.bottom-header-row .header-item svg,.dropdown-symbol .sydney-svg-icon svg{fill:;}.main-header .main-header-inner,.main-header .top-header-row{padding-top:2px;padding-bottom:2px;}.bottom-header-inner{padding-top:15px;padding-bottom:15px;}.bottom-header-row #mainnav ul ul li,.main-header #mainnav ul ul li{background-color:;}.bottom-header-row #mainnav ul ul li a,.bottom-header-row #mainnav ul ul li:hover a,.main-header #mainnav ul ul li:hover a,.main-header #mainnav ul ul li a{color:;}.bottom-header-row #mainnav ul ul li svg,.main-header #mainnav ul ul li svg{fill:;}#mainnav .sub-menu li:hover>a,.main-header #mainnav ul ul li:hover>a{color:;}.main-header-cart .count-number{color:;}.main-header-cart .widget_shopping_cart .widgettitle:after,.main-header-cart .widget_shopping_cart .woocommerce-mini-cart__buttons:before{background-color:rgba(33,33,33,0.9);}.sydney-offcanvas-menu .mainnav ul li,.mobile-header-item.offcanvas-items,.mobile-header-item.offcanvas-items .social-profile{text-align:left;}.sydney-offcanvas-menu #mainnav ul ul a{color:;}.sydney-offcanvas-menu #mainnav > div > ul > li > a{font-size:18px;}.sydney-offcanvas-menu #mainnav ul ul li a{font-size:16px;}.sydney-offcanvas-menu .mainnav a{padding:10px 0;}#masthead-mobile{background-color:;}#masthead-mobile .site-description,#masthead-mobile a:not(.button){color:;}#masthead-mobile svg{fill:;}.mobile-header{padding-top:15px;padding-bottom:15px;}.sydney-offcanvas-menu{background-color:;}.offcanvas-header-custom-text,.sydney-offcanvas-menu,.sydney-offcanvas-menu #mainnav a:not(.button),.sydney-offcanvas-menu a:not(.button){color:#ffffff;}.sydney-offcanvas-menu svg,.sydney-offcanvas-menu .dropdown-symbol .sydney-svg-icon svg{fill:#ffffff;}@media (min-width:992px){.site-logo{max-height:54px;}}@media (min-width:576px) and (max-width:991px){.site-logo{max-height:70px;}}@media (max-width:575px){.site-logo{max-height:38px;}}.site-title a,.site-title a:visited,.main-header .site-title a,.main-header .site-title a:visited{color:}.site-description,.main-header .site-description{color:}@media (min-width:992px){.site-title{font-size:32px;}}@media (min-width:576px) and (max-width:991px){.site-title{font-size:24px;}}@media (max-width:575px){.site-title{font-size:20px;}}@media (min-width:992px){.site-description{font-size:16px;}}@media (min-width:576px) and (max-width:991px){.site-description{font-size:16px;}}@media (max-width:575px){.site-description{font-size:16px;}}body{font-family:Ubuntu,sans-serif;font-weight:300;}h1,h2,h3,h4,h5,h6,.site-title{font-family:Ubuntu,sans-serif;font-weight:300;}h1,h2,h3,h4,h5,h6,.site-title{text-decoration:;text-transform:;font-style:;line-height:1.2;letter-spacing:px;}@media (min-width:992px){h1:not(.site-title){font-size:48px;}}@media (min-width:576px) and (max-width:991px){h1:not(.site-title){font-size:42px;}}@media (max-width:575px){h1:not(.site-title){font-size:32px;}}@media (min-width:992px){h2{font-size:38px;}}@media (min-width:576px) and (max-width:991px){h2{font-size:32px;}}@media (max-width:575px){h2{font-size:24px;}}@media (min-width:992px){h3{font-size:32px;}}@media (min-width:576px) and (max-width:991px){h3{font-size:24px;}}@media (max-width:575px){h3{font-size:20px;}}@media (min-width:992px){h4{font-size:24px;}}@media (min-width:576px) and (max-width:991px){h4{font-size:18px;}}@media (max-width:575px){h4{font-size:16px;}}@media (min-width:992px){h5{font-size:20px;}}@media (min-width:576px) and (max-width:991px){h5{font-size:16px;}}@media (max-width:575px){h5{font-size:16px;}}@media (min-width:992px){h6{font-size:18px;}}@media (min-width:576px) and (max-width:991px){h6{font-size:16px;}}@media (max-width:575px){h6{font-size:16px;}}p,.posts-layout .entry-post{text-decoration:}body,.posts-layout .entry-post{text-transform:;font-style:;line-height:1.68;letter-spacing:px;}@media (min-width:992px){body{font-size:16px;}}@media (min-width:576px) and (max-width:991px){body{font-size:16px;}}@media (max-width:575px){body{font-size:16px;}}@media (min-width:992px){.woocommerce div.product .product-gallery-summary .entry-title{font-size:32px;}}@media (min-width:576px) and (max-width:991px){.woocommerce div.product .product-gallery-summary .entry-title{font-size:32px;}}@media (max-width:575px){.woocommerce div.product .product-gallery-summary .entry-title{font-size:32px;}}@media (min-width:992px){.woocommerce div.product .product-gallery-summary .price .amount{font-size:24px;}}@media (min-width:576px) and (max-width:991px){.woocommerce div.product .product-gallery-summary .price .amount{font-size:24px;}}@media (max-width:575px){.woocommerce div.product .product-gallery-summary .price .amount{font-size:24px;}}.woocommerce ul.products li.product .col-md-7 > *,.woocommerce ul.products li.product .col-md-8 > *,.woocommerce ul.products li.product > *{margin-bottom:12px;}.wc-block-grid__product-onsale,span.onsale{border-radius:0;top:20px!important;left:20px!important;}.wc-block-grid__product-onsale,.products span.onsale{left:auto!important;right:20px;}.wc-block-grid__product-onsale,span.onsale{color:;}.wc-block-grid__product-onsale,span.onsale{background-color:;}ul.wc-block-grid__products li.wc-block-grid__product .wc-block-grid__product-title,ul.wc-block-grid__products li.wc-block-grid__product .woocommerce-loop-product__title,ul.wc-block-grid__products li.product .wc-block-grid__product-title,ul.wc-block-grid__products li.product .woocommerce-loop-product__title,ul.products li.wc-block-grid__product .wc-block-grid__product-title,ul.products li.wc-block-grid__product .woocommerce-loop-product__title,ul.products li.product .wc-block-grid__product-title,ul.products li.product .woocommerce-loop-product__title,ul.products li.product .woocommerce-loop-category__title,.woocommerce-loop-product__title .botiga-wc-loop-product__title{color:;}a.wc-forward:not(.checkout-button){color:;}a.wc-forward:not(.checkout-button):hover{color:;}.woocommerce-pagination li .page-numbers:hover{color:;}.woocommerce-sorting-wrapper{border-color:rgba(33,33,33,0.9);}ul.products li.product-category .woocommerce-loop-category__title{text-align:center;}ul.products li.product-category > a,ul.products li.product-category > a > img{border-radius:0;}.entry-content a:not(.button):not(.elementor-button-link):not(.wp-block-button__link){color:;}.entry-content a:not(.button):not(.elementor-button-link):not(.wp-block-button__link):hover{color:;}h1{color:#170272;}h2{color:#170272;}h3{color:#170272;}h4{color:#170272;}h5{color:#170272;}h6{color:#170272;}div.wpforms-container-full .wpforms-form input[type=date],div.wpforms-container-full .wpforms-form input[type=datetime],div.wpforms-container-full .wpforms-form input[type=datetime-local],div.wpforms-container-full .wpforms-form input[type=email],div.wpforms-container-full .wpforms-form input[type=month],div.wpforms-container-full .wpforms-form input[type=number],div.wpforms-container-full .wpforms-form input[type=password],div.wpforms-container-full .wpforms-form input[type=range],div.wpforms-container-full .wpforms-form input[type=search],div.wpforms-container-full .wpforms-form input[type=tel],div.wpforms-container-full .wpforms-form input[type=text],div.wpforms-container-full .wpforms-form input[type=time],div.wpforms-container-full .wpforms-form input[type=url],div.wpforms-container-full .wpforms-form input[type=week],div.wpforms-container-full .wpforms-form select,div.wpforms-container-full .wpforms-form textarea,input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea,select,.woocommerce .select2-container .select2-selection--single,.woocommerce-page .select2-container .select2-selection--single,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="number"]:focus,input[type="tel"]:focus,input[type="range"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="week"]:focus,input[type="time"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="color"]:focus,textarea:focus,select:focus,.woocommerce .select2-container .select2-selection--single:focus,.woocommerce-page .select2-container .select2-selection--single:focus,.select2-container--default .select2-selection--single .select2-selection__rendered,.wp-block-search .wp-block-search__input,.wp-block-search .wp-block-search__input:focus{color:;}div.wpforms-container-full .wpforms-form input[type=date],div.wpforms-container-full .wpforms-form input[type=datetime],div.wpforms-container-full .wpforms-form input[type=datetime-local],div.wpforms-container-full .wpforms-form input[type=email],div.wpforms-container-full .wpforms-form input[type=month],div.wpforms-container-full .wpforms-form input[type=number],div.wpforms-container-full .wpforms-form input[type=password],div.wpforms-container-full .wpforms-form input[type=range],div.wpforms-container-full .wpforms-form input[type=search],div.wpforms-container-full .wpforms-form input[type=tel],div.wpforms-container-full .wpforms-form input[type=text],div.wpforms-container-full .wpforms-form input[type=time],div.wpforms-container-full .wpforms-form input[type=url],div.wpforms-container-full .wpforms-form input[type=week],div.wpforms-container-full .wpforms-form select,div.wpforms-container-full .wpforms-form textarea,input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea,select,.woocommerce .select2-container .select2-selection--single,.woocommerce-page .select2-container .select2-selection--single,.woocommerce-cart .woocommerce-cart-form .actions .coupon input[type="text"]{background-color:;}div.wpforms-container-full .wpforms-form input[type=date],div.wpforms-container-full .wpforms-form input[type=datetime],div.wpforms-container-full .wpforms-form input[type=datetime-local],div.wpforms-container-full .wpforms-form input[type=email],div.wpforms-container-full .wpforms-form input[type=month],div.wpforms-container-full .wpforms-form input[type=number],div.wpforms-container-full .wpforms-form input[type=password],div.wpforms-container-full .wpforms-form input[type=range],div.wpforms-container-full .wpforms-form input[type=search],div.wpforms-container-full .wpforms-form input[type=tel],div.wpforms-container-full .wpforms-form input[type=text],div.wpforms-container-full .wpforms-form input[type=time],div.wpforms-container-full .wpforms-form input[type=url],div.wpforms-container-full .wpforms-form input[type=week],div.wpforms-container-full .wpforms-form select,div.wpforms-container-full .wpforms-form textarea,input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="number"],input[type="tel"],input[type="range"],input[type="date"],input[type="month"],input[type="week"],input[type="time"],input[type="datetime"],input[type="datetime-local"],input[type="color"],textarea,select,.woocommerce .select2-container .select2-selection--single,.woocommerce-page .select2-container .select2-selection--single,.woocommerce-account fieldset,.woocommerce-account .woocommerce-form-login,.woocommerce-account .woocommerce-form-register,.woocommerce-cart .woocommerce-cart-form .actions .coupon input[type="text"],.wp-block-search .wp-block-search__input{border-color:;}input::placeholder{color:;opacity:1;}input:-ms-input-placeholder{color:;}input::-ms-input-placeholder{color:;}
+:root{--e-global-color-global_color_1:#d65050;--e-global-color-global_color_2:#b73d3d;--e-global-color-global_color_3:#233452;--e-global-color-global_color_4:#00102E;--e-global-color-global_color_5:#737C8C;--e-global-color-global_color_6:#00102E;--e-global-color-global_color_7:#F4F5F7;--e-global-color-global_color_8:#dbdbdb;--e-global-color-global_color_9:#ffffff;}
+</style>
+<link rel='stylesheet' id='wpr-text-animations-css-css' href='https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.7.1006' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr-addons-css-css' href='https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1006' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://ogonek-adler.ru/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.7.1006' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://ogonek-adler.ru/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1751171086' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://ogonek-adler.ru/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1751171093' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotocondensed-css' href='https://ogonek-adler.ru/wp-content/uploads/elementor/google-fonts/css/robotocondensed.css?ver=1751171107' type='text/css' media='all' />
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/wp-yandex-metrika/assets/YmEc.min.js?ver=1.2.0" id="wp-yandex-metrika_YmEc-js"></script>
+<script type="text/javascript" id="wp-yandex-metrika_YmEc-js-after">
+/* <![CDATA[ */
+window.tmpwpym={datalayername:'dataLayer',counters:JSON.parse('[{"number":"97075118","webvisor":"1"}]'),targets:JSON.parse('[]')};
+/* ]]> */
+</script>
+<script type="text/javascript" data-cfasync="false" src="https://ogonek-adler.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" data-cfasync="false" src="https://ogonek-adler.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/wp-yandex-metrika/assets/frontend.min.js?ver=1.2.0" id="wp-yandex-metrika_frontend-js"></script>
+<link rel="https://api.w.org/" href="https://ogonek-adler.ru/index.php?rest_route=/" /><link rel="alternate" title="JSON" type="application/json" href="https://ogonek-adler.ru/index.php?rest_route=/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ogonek-adler.ru/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel="canonical" href="https://ogonek-adler.ru/" />
+<link rel='shortlink' href='https://ogonek-adler.ru/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ogonek-adler.ru/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fogonek-adler.ru%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ogonek-adler.ru/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fogonek-adler.ru%2F&#038;format=xml" />
+<meta name="verification" content="f612c7d25f5690ad41496fcfdbf8d1" /><meta name="generator" content="Elementor 3.29.2; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			        <!-- Yandex.Metrica counter -->
+        <script type="text/javascript">
+            (function (m, e, t, r, i, k, a) {
+                m[i] = m[i] || function () {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })
+
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym("97075118", "init", {
+                clickmap: true,
+                trackLinks: true,
+                accurateTrackBounce: true,
+                webvisor: true,
+                ecommerce: "dataLayer",
+                params: {
+                    __ym: {
+                        "ymCmsPlugin": {
+                            "cms": "wordpress",
+                            "cmsVersion":"6.8",
+                            "pluginVersion": "1.2.0",
+                            "ymCmsRip": "1923265258"
+                        }
+                    }
+                }
+            });
+        </script>
+        <!-- /Yandex.Metrica counter -->
+        <style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style></head>
+
+<body class="home wp-singular page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php page page-id-2 wp-theme-sydney menu-inline elementor-default elementor-kit-4 elementor-page elementor-page-2" >
+
+<span id="toptarget"></span>
+
+	<div class="preloader">
+	    <div class="spinner">
+	        <div class="pre-bounce1"></div>
+	        <div class="pre-bounce2"></div>
+	    </div>
+	</div>
+	
+
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Перейти к содержимому</a>
+
+	<div class="header-clone"></div>	
+
+	
+							<header id="masthead" class="main-header header_layout_1 sticky-header sticky-always">
+					<div class="container">
+						<div class="site-header-inner">
+							<div class="row valign">
+								<div class="col-md-5">
+										
+			<nav id="mainnav" class="mainnav">
+				<div id="primary-menu" class="menu"><ul>
+<li class="page_item page-item-2 current_page_item"><a href="https://ogonek-adler.ru/" aria-current="page">Сочи, Просвещения, 108/2</a></li>
+</ul></div>
+			</nav>
+											</div>
+								<div class="col-md-2">
+												<div class="site-branding">
+
+															
+					<a href="https://ogonek-adler.ru/" title="Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы"><img width="250" height="95" class="site-logo" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/logogo.png" alt="Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы"  /></a>
+				
+										
+			</div><!-- .site-branding -->
+											</div>
+								<div class="col-md-5 header-elements">
+									<div class="header-item header-social"><div class="social-profile"><a target="_blank" href="https://www.vk.com/ogonekadler"><span class="screen-reader-text">https://www.vk.com/ogonekadler</span><i class="sydney-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M545 117.7c3.7-12.5 0-21.7-17.8-21.7h-58.9c-15 0-21.9 7.9-25.6 16.7 0 0-30 73.1-72.4 120.5-13.7 13.7-20 18.1-27.5 18.1-3.7 0-9.4-4.4-9.4-16.9V117.7c0-15-4.2-21.7-16.6-21.7h-92.6c-9.4 0-15 7-15 13.5 0 14.2 21.2 17.5 23.4 57.5v86.8c0 19-3.4 22.5-10.9 22.5-20 0-68.6-73.4-97.4-157.4-5.8-16.3-11.5-22.9-26.6-22.9H38.8c-16.8 0-20.2 7.9-20.2 16.7 0 15.6 20 93.1 93.1 195.5C160.4 378.1 229 416 291.4 416c37.5 0 42.1-8.4 42.1-22.9 0-66.8-3.4-73.1 15.4-73.1 8.7 0 23.7 4.4 58.7 38.1 40 40 46.6 57.9 69 57.9h58.9c16.8 0 25.3-8.4 20.4-25-11.2-34.9-86.9-106.7-90.3-111.5-8.7-11.2-6.2-16.2 0-26.2.1-.1 72-101.3 79.4-135.6z" /></svg></i></a></div></div>				<div class="header-item header-contact">
+											<a class="header-contact-email" href="mailto:&#103;&#100;-og&#111;&#110;&#101;k&#064;&#109;a&#105;&#108;&#046;ru"><i class="sydney-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z" /></svg></i><span>&#103;&#100;-o&#103;&#111;n&#101;k&#064;&#109;a&#105;&#108;&#046;r&#117;</span></a>
+																<a class="header-contact-phone" href="tel:+7-918-265-17-70"><i class="sydney-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z" /></svg></i><span>+7-918-265-17-70</span></a>
+										
+				</div>
+											</div>							
+							</div>
+						</div>
+					</div>
+								<div class="header-search-form">
+			<form role="search" method="get" class="search-form" action="https://ogonek-adler.ru/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form>			</div>
+							</header>
+						
+			<div class="sydney-offcanvas-menu">
+				<div class="mobile-header-item">
+					<div class="row valign">
+						<div class="col-xs-8">
+										<div class="site-branding">
+
+															
+					<a href="https://ogonek-adler.ru/" title="Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы"><img width="250" height="95" class="site-logo" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/logogo.png" alt="Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы"  /></a>
+				
+										
+			</div><!-- .site-branding -->
+									</div>
+						<div class="col-xs-4 align-right">
+							<a class="mobile-menu-close" href="#"><i class="sydney-svg-icon icon-cancel"><span class="screen-reader-text">Закрыть меню</span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41L12.59 0Z" /></svg></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="mobile-header-item">
+						
+			<nav id="mainnav" class="mainnav">
+				<div id="primary-menu" class="menu"><ul>
+<li class="page_item page-item-2 current_page_item"><a href="https://ogonek-adler.ru/" aria-current="page">Сочи, Просвещения, 108/2</a></li>
+</ul></div>
+			</nav>
+							</div>
+				<div class="mobile-header-item offcanvas-items">
+									</div>				
+			</div>
+			
+							<header id="masthead-mobile" class="main-header mobile-header ">
+					<div class="container-fluid">
+						<div class="row valign">
+							<div class="col-sm-4 col-grow-mobile">
+											<div class="site-branding">
+
+															
+					<a href="https://ogonek-adler.ru/" title="Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы"><img width="250" height="95" class="site-logo" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/logogo.png" alt="Гостевой Дом &quot;Огонек&quot; &#8211; уютные номера с видом на море и горы"  /></a>
+				
+										
+			</div><!-- .site-branding -->
+										</div>
+							<div class="col-sm-8 col-grow-mobile header-elements valign align-right">
+												<a href="#" class="header-search header-item">
+					<span class="screen-reader-text">Поиск</span>
+					<i class="sydney-svg-icon icon-search active"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z" /></svg></i>
+					<i class="sydney-svg-icon icon-cancel"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41L12.59 0Z" /></svg></i>
+				</a>
+															
+								<a href="#" class="menu-toggle">
+					<span class="screen-reader-text">Переключатель меню</span>
+					<i class="sydney-svg-icon"><svg width="16" height="11" viewBox="0 0 16 11" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="16" height="1" /><rect y="5" width="16" height="1" /><rect y="10" width="16" height="1" /></svg></i>
+				</a>
+										</div>						
+						</div>
+					</div>
+								<div class="header-search-form">
+			<form role="search" method="get" class="search-form" action="https://ogonek-adler.ru/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form>			</div>
+							</header>
+						
+	
+	<div class="sydney-hero-area">
+				<div class="header-image">
+			<div class="overlay"></div>					</div>
+		
+			</div>
+
+	
+	<div id="content" class="page-wrap">
+		<div class="content-wrapper container">
+			<div class="row">	
+	<div id="primary" class="fp-content-area">
+		<main id="main" class="site-main" role="main">
+
+			<div class="entry-content">
+											<div data-elementor-type="wp-page" data-elementor-id="2" class="elementor elementor-2">
+				<div class="elementor-element elementor-element-2a343d0 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="2a343d0" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-9070905 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="9070905" data-element_type="container">
+				<div class="elementor-element elementor-element-b8aa070 elementor-widget elementor-widget-text-editor" data-id="b8aa070" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p class="tm7"><strong><span class="tm9">Гостевой дом «Огонек»</span><span class="tm9"> в Адлере – четырехэтажный гостиничный комплекс,  расположенный на первой линии у моря. </span></strong></p><p class="tm7"><strong><span class="tm9">Гости со всей страны уже много лет выбирают нас за неизменно качественное обслуживание, адекватные цены, комфорт и роскошный вид на море, который открывается с балконов номеров.</span></strong></p><p><strong>Балкончики &#8211; наша особенная «фишка»: бесконечность горизонта и бесподобные закаты. Романтика!</strong></p><p class="tm7"><strong><span class="tm9">У нас, пожалуй, один из самых лучших пляжей на Сочинском побережье. Убедитесь сами.</span></strong></p><p><strong>Покрытие: мелкий песок и галька. В летние месяцы – большое количество пляжных аттракционов и водных развлечений. Вечерние прогулки по набережной. Рядом работают кафе, рестораны, продуктовые магазины. </strong></p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-45bcbd5 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="45bcbd5" data-element_type="container">
+				<div class="elementor-element elementor-element-46b3cc0 elementor-arrows-position-inside elementor-pagination-position-outside elementor-invisible elementor-widget elementor-widget-image-carousel" data-id="46b3cc0" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Карусель" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 из 3"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2025/01/1-1.jpg" alt="1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 из 3"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2025/01/2-1.jpg" alt="2" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 из 3"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2025/01/3-1.jpg" alt="3" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>					</div>
+				
+									<div class="swiper-pagination"></div>
+									</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7ec17d9 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="7ec17d9" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2403ed3 elementor-widget elementor-widget-heading" data-id="2403ed3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Наши особые номера:
+</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c30d904 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="c30d904" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-bd5c4ec e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible e-con e-child" data-id="bd5c4ec" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:200}">
+				<div class="elementor-element elementor-element-b12d57b elementor-widget elementor-widget-text-editor" data-id="b12d57b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Двухместный с видом на море</p><p><img fetchpriority="high" decoding="async" class="alignnone wp-image-250 size-medium" src="https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-300x174.jpg" alt="" width="300" height="174" srcset="https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-300x174.jpg 300w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-1024x593.jpg 1024w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-768x445.jpg 768w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-1536x889.jpg 1536w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-1000x579.jpg 1000w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-230x133.jpg 230w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-350x203.jpg 350w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310-480x278.jpg 480w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-more-e1751179213310.jpg 2038w" sizes="(max-width: 300px) 100vw, 300px" /></p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4f1a566 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible e-con e-child" data-id="4f1a566" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+				<div class="elementor-element elementor-element-d4c587b elementor-widget elementor-widget-text-editor" data-id="d4c587b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Трехместный с видом на море</p><p><img decoding="async" class="alignnone wp-image-186 size-medium" src="https://ogonek-adler.ru/wp-content/uploads/2025/05/2-300x169.jpg" alt="" width="300" height="169" srcset="https://ogonek-adler.ru/wp-content/uploads/2025/05/2-300x169.jpg 300w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-1024x576.jpg 1024w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-768x432.jpg 768w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-1536x864.jpg 1536w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-2048x1152.jpg 2048w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-1000x563.jpg 1000w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-230x129.jpg 230w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-350x197.jpg 350w, https://ogonek-adler.ru/wp-content/uploads/2025/05/2-480x270.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cf8bfe7 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible e-con e-child" data-id="cf8bfe7" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:400}">
+				<div class="elementor-element elementor-element-c04d6a3 elementor-widget elementor-widget-text-editor" data-id="c04d6a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Двухместный с видом на горы</p><p><img loading="lazy" decoding="async" class="alignnone wp-image-242 size-medium" src="https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-300x169.jpg" alt="" width="300" height="169" srcset="https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-300x169.jpg 300w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-1024x576.jpg 1024w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-768x432.jpg 768w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-1536x864.jpg 1536w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-2048x1152.jpg 2048w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-1000x563.jpg 1000w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-230x129.jpg 230w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-350x197.jpg 350w, https://ogonek-adler.ru/wp-content/uploads/2025/06/2-горы-2-480x270.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1154e72 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible e-con e-child" data-id="1154e72" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:600}">
+				<div class="elementor-element elementor-element-dc6a82f elementor-widget elementor-widget-text-editor" data-id="dc6a82f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Трехместный с видом на горы</p><p><img loading="lazy" decoding="async" class="alignnone wp-image-243 size-medium" src="https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--300x169.jpg" alt="" width="300" height="169" srcset="https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--300x169.jpg 300w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--1024x576.jpg 1024w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--768x432.jpg 768w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--1536x864.jpg 1536w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--2048x1152.jpg 2048w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--1000x563.jpg 1000w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--230x129.jpg 230w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--350x197.jpg 350w, https://ogonek-adler.ru/wp-content/uploads/2025/06/3-горы--480x270.jpg 480w" sizes="(max-width: 300px) 100vw, 300px" /></p>								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-9c6b064 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="9c6b064" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-34b02f4 elementor-widget elementor-widget-heading" data-id="34b02f4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Видеообзоры номеров</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c97fc00 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="c97fc00" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9e3053b e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="9e3053b" data-element_type="widget" data-settings="{&quot;horizontal_scroll&quot;:&quot;disable&quot;}" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-tabs" data-widget-number="165872955" aria-label="Вкладки. Открывайте элементы с помощью клавиш Enter или Space, закрывайте с помощью Escape и перемещайтесь с помощью клавиш со стрелками.">
+			<div class="e-n-tabs-heading" role="tablist">
+					<button id="e-n-tab-title-1658729551" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1658729551" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				Двухместный с видом на море 			</span>
+		</button>
+				<button id="e-n-tab-title-1658729552" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1658729552" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				Трехместный с видом на море			</span>
+		</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-1658729551" role="tabpanel" aria-labelledby="e-n-tab-title-1658729551" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-dc72fb2 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="dc72fb2" data-element_type="container">
+		<div class="elementor-element elementor-element-81ed8a7 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="81ed8a7" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-43162fb elementor-widget elementor-widget-html" data-id="43162fb" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<iframe src="https://vk.com/video_ext.php?oid=-211034142&id=456239050&hd=2&autoplay=0" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-1658729552" role="tabpanel" aria-labelledby="e-n-tab-title-1658729552" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-3b9e56f e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="3b9e56f" data-element_type="container">
+		<div class="elementor-element elementor-element-fdb7101 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="fdb7101" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d269617 elementor-widget elementor-widget-html" data-id="d269617" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<iframe src="https://vk.com/video_ext.php?oid=-211034142&id=456239054&hd=2&autoplay=0" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0c896c3 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="0c896c3" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a8108f4 elementor-widget elementor-widget-heading" data-id="a8108f4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Бронирование номеров по телефону: +7-918-265-17-70</h2>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4bc579b e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="4bc579b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-fcbef6b elementor-tabs-view-vertical elementor-widget elementor-widget-tabs" data-id="fcbef6b" data-element_type="widget" data-widget_type="tabs.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-tabs">
+			<div class="elementor-tabs-wrapper" role="tablist" >
+									<div id="elementor-tab-title-2651" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-2651" aria-expanded="false">Местоположение</div>
+									<div id="elementor-tab-title-2652" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2652" aria-expanded="false">Правила Проживания</div>
+							</div>
+			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-2651" aria-expanded="false">Местоположение</div>
+					<div id="elementor-tab-content-2651" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-2651" tabindex="0" hidden="false"><p class="tm7"><span class="tm8">Первое, на что мы просим обратить внимание при планировании отдыха – в Адлере располагается международный аэропорт, обслуживающий город Сочи и окрестности. Пожалуй, сложно найти отель, где не было бы слышно шума самолетов, взлетающих и заходящих на посадку. В нашем отеле установлены современные окна и кондиционеры, позволяющие снизить шум. Но самолеты слышно в любом случае. </span></p><p><strong>Отнеситесь с вниманием к этому вопросу. </strong></p><p class="tm7"><span class="tm8">Отель располагается на первой линии у моря. В нашем номерном фонде 16 номеров выходят балконами на море, с них открывается бесподобный вид. Это особое удовольствие – провожать день, глядя на закат, сидя на балконе с чашечкой горячего кофе.</span></p><p class="tm7"><span class="tm8">В</span><span class="tm8"> непосредственной близости от отеля находится остановка общественного транспорта “Взлетная”, с которой можно уехать практически в любом направлении.</span></p><p class="tm7"><span class="tm8">Расстояние до железнодорожного вокзала Адлера – 1.8 км, 20 минут пешком.</span></p><p class="tm7"><span class="tm8">Поблизости большое количество ресторанов, кафе, столовых. В 6 минутах ходьбы – магазин “Магнит”.</span></p></div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2652" aria-expanded="false">Правила Проживания</div>
+					<div id="elementor-tab-content-2652" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-2652" tabindex="0" hidden="hidden"><p>Курение в помещениях запрещено. Курение разрешается только в специально отведенных для этого местах и на балконах.</p><p class="tm7"><span class="tm8">В ночной период с 21:00 ч. до 9:00 ч. должна соблюдаться тишина.</span></p><p class="tm7"><span class="tm8">Нахождение посторонних лиц на территории и в номерах запрещено.</span></p><p class="tm7"><span class="tm8">При использовании кондиционера окна и двери должны быть закрыты. В случае поломки кондиционера, стоимость ремонта будет взыскана с проживающего.</span></p><p class="tm7"><span class="tm8">Гость несет материальную ответственность за утрату и порчу любого оборудования номера.</span></p><p class="tm7"><span class="tm8">В случае нарушения настоящих правил, Администрация оставляет за собой право отказать в аренде номера без компенсации за неиспользованное время.</span></p><p class="tm7"><span class="tm8">Время выезда – до 11:40. Это значит, что в 11.40 номер должен быть уже полностью освобожден и сдан. Просим Вас готовиться к выезду заранее. Поздний выезд согласовывается и оплачивается дополнительно.</span></p><p class="tm7"><span class="tm8">Администрация не несет ответственность и не принимает претензии за шум пролетающих самолетов и музыку в соседних заведениях. Информация об этих неудобствах размещена на официальном сайте www.ogonek-adler.ru и в отзывах на всех геосервисах: Яндекс, 2гис и прочих.</span></p><p class="tm7"><span class="tm8">Влажная уборка номеров, вынос мусора из ведра в санузле и смена постельного белья проводится каждый четвертый день. Если вы проживаете менее 4 дней – уборка не производится. При необходимости, гости самостоятельно выбрасывают мусор в контейнеры, стоящие в холлах на всех этажах.</span></p></div>
+							</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0b4c3c2 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="0b4c3c2" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-90ca71d e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible e-con e-child" data-id="90ca71d" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+				<div class="elementor-element elementor-element-121cddb elementor-widget elementor-widget-text-editor" data-id="121cddb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h5 class="tm10"><span class="tm11">Виртуальный тур. </span></h5><p class="tm10"><span class="tm11">3d-тур &#8211; современное средство отображения интерьеров и территории. <br />Максимальный эффект присутствия: вы можете пройти по гостевому дому “Огонек”, подробно осмотреть предлагаемые номера по категориям, выйти на балконы.<br /></span><span class="tm11">Идеально при просмотре с ПК.</span></p><h6 class="tm13"><strong><span class="tm14">В настоящее время идет реконструкция тура. Мы ежегодно обновляем панорамы номеров для того, чтобы вы видели актуальное состояние гостевого дома и территории.<br /></span></strong></h6>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-83dba63 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no elementor-invisible e-con e-child" data-id="83dba63" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;animation_delay&quot;:400}">
+				<div class="elementor-element elementor-element-cdd7660 elementor-widget elementor-widget-html" data-id="cdd7660" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/239/sochi/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Сочи</a><a href="https://yandex.ru/maps/239/sochi/?l=stv%2Csta&ll=39.908547%2C43.435285&panorama%5Bdirection%5D=331.816292%2C-1.971550&panorama%5Bfull%5D=true&panorama%5Bpoint%5D=39.908358%2C43.435306&panorama%5Bspan%5D=103.190236%2C60.000000&utm_medium=mapframe&utm_source=maps&z=21" style="color:#eee;font-size:12px;position:absolute;top:14px;">Яндекс Карты — транспорт, навигация, поиск мест</a><iframe src="https://yandex.ru/map-widget/v1/?l=stv%2Csta&ll=39.908547%2C43.435285&panorama%5Bdirection%5D=331.816292%2C-1.971550&panorama%5Bfull%5D=true&panorama%5Bpoint%5D=39.908358%2C43.435306&panorama%5Bspan%5D=103.190236%2C60.000000&z=21" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1d22552 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="1d22552" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-55e1312 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="55e1312" data-element_type="container">
+				<div class="elementor-element elementor-element-e3a7049 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="e3a7049" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2>Очень важная информация</h2><p>Мы работаем, чтобы вы отдыхали. </p><p class="tm7"><span class="tm8">Убедительная просьба: если что-то омрачает Ваш отдых — к примеру, вы обнаружили какую-либо неисправность, обратитесь, пожалуйста, на ресепшен к дежурному администратору и он постарается решить проблему максимально быстро.<br /></span></p><p><span style="text-align: var(--text-align); color: var(--sydney-text-color);">Не молчите, мы поможем.</span></p><p class="tm7"><span class="tm8">Надеемся на ваше понимание.</span></p><p class="tm7"><span class="tm8"> </span></p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-86dab19 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="86dab19" data-element_type="container">
+				<div class="elementor-element elementor-element-3dd180b elementor-invisible elementor-widget elementor-widget-html" data-id="3dd180b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div style="width:100%;height:800px;overflow:hidden;position:relative;"><iframe style="width:100%;height:100%;border:1px solid #e6e6e6;border-radius:8px;box-sizing:border-box" src="https://yandex.ru/maps-reviews-widget/1353003322?comments"></iframe><a href="https://yandex.ru/maps/org/ogonyok/1353003322/" target="_blank" style="box-sizing:border-box;text-decoration:none;color:#b3b3b3;font-size:10px;font-family:YS Text,sans-serif;padding:0 20px;position:absolute;bottom:8px;width:100%;text-align:center;left:0;overflow:hidden;text-overflow:ellipsis;display:block;max-height:14px;white-space:nowrap;padding:0 16px;box-sizing:border-box">Огонёк на карте Сочи — Яндекс Карты</a></div>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b351d8a e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="b351d8a" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d95a94d e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="d95a94d" data-element_type="container">
+				<div class="elementor-element elementor-element-939fa33 elementor-widget elementor-widget-text-editor" data-id="939fa33" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h2>Приезжайте к нам! </h2><p>Самолет до аэропорта Сочи (Адлер)<br />От аэропорта автобусы № 535, 557 до остановки &#8220;Взлетная&#8221;, далее в сторону моря, 5 минут пешком.<br />Яндекс Такси &#8211; примерно 300-400 рублей. </p><p>Поезд до станции Адлер (не путать со станцией Сочи!), далее автобусы 554, 131, 109 до остановки &#8220;Взлетная&#8221;, <span style="text-align: var(--text-align); color: var(--sydney-text-color);">далее в сторону моря, 5 минут пешком.<br /></span><span style="text-align: var(--text-align); color: var(--sydney-text-color);">Яндекс Такси &#8211; примерно 250-300 рублей. </span></p><p>На автомобиле &#8211; указываем в навигаторе точку назначения &#8211; адрес &#8220;Адлер, Просвещения, 108/2&#8221; и наслаждаемся красотами серпантинов. </p>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0bc9cac e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="0bc9cac" data-element_type="container">
+				<div class="elementor-element elementor-element-396a390 elementor-widget elementor-widget-html" data-id="396a390" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/org/ogonyok/1353003322/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Огонёк</a><a href="https://yandex.ru/maps/239/sochi/category/hotel/184106414/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:14px;">Гостиница в Сочи</a><iframe src="https://yandex.ru/map-widget/v1/org/ogonyok/1353003322/?ll=39.908288%2C43.435332&z=15" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-4994aa9 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="4994aa9" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8990f59 elementor-widget elementor-widget-html" data-id="8990f59" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<!-- /gosha.travel widget --> <iframe src="https://w.gosha.travel/?uid=nNmYvCnH4D2uEAZE" style="width: 100%; border: none; border-radius: 30px; overflow: hidden;" id="gosha-widget" ></iframe> <a href="https://gosha.travel/" style="display: none;">курортный помощник Гоша</a> <script type="text/javascript"> (function () { function handleMessage(event) { if (event.origin === "https://w.gosha.travel") { const iframe = document.getElementById("gosha-widget"); if (iframe && event.data) { iframe.style.height = (+event.data + 20) + "px"; } } } window.addEventListener("message", handleMessage); window.addEventListener("beforeunload", function () { window.removeEventListener("message", handleMessage); }); })(); </script> <!-- /gosha.travel widget -->				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-488f5a5 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="488f5a5" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-f482a86 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="f482a86" data-element_type="container">
+				<div class="elementor-element elementor-element-d65c227 elementor-widget elementor-widget-text-editor" data-id="d65c227" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h4><img loading="lazy" decoding="async" class="alignnone wp-image-108 size-full" style="font-size: 16px; font-weight: 400;" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1.jpg" alt="" width="1272" height="570" srcset="https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1.jpg 1272w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-300x134.jpg 300w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-1024x459.jpg 1024w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-768x344.jpg 768w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-1000x448.jpg 1000w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-230x103.jpg 230w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-350x157.jpg 350w, https://ogonek-adler.ru/wp-content/uploads/2024/03/Untitled-1-480x215.jpg 480w" sizes="(max-width: 1272px) 100vw, 1272px" />Подпишитесь на нашу группу в ВК.<br /><span style="text-decoration: underline;"><span style="color: #0000ff;"><a style="color: #0000ff; text-decoration: underline;" href="https://vk.com/ogonekadler">www.vk.com/ogonekadler</a></span></span></h4>								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-73e68b9 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="73e68b9" data-element_type="container">
+				<div class="elementor-element elementor-element-d4570a1 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="d4570a1" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Карусель" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 из 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/02.jpg" alt="02" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 из 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/01.jpg" alt="01" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 из 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/05.jpg" alt="05" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 из 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ogonek-adler.ru/wp-content/uploads/2024/03/12.jpg" alt="12" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>					</div>
+				
+									<div class="swiper-pagination"></div>
+									</div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-497db52 e-flex e-con-boxed wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-parent" data-id="497db52" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6e21f9a elementor-widget elementor-widget-html" data-id="6e21f9a" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
+target="_blank"><img loading="lazy" id="licnt0F6D" width="88" height="31" style="border:0" 
+title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licnt0F6D").src=
+"https://counter.yadro.ru/hit?t14.11;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+									</div><!-- .entry-content -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+			</div>
+		</div>
+	</div><!-- #content -->
+
+	
+	
+		
+	<footer id="colophon" class="site-footer">
+		<div class="container">
+			<div class="site-info">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="sydney-credits">&copy; 2026 - Гостевой Дом Огонек. Разработка: <a href="http://www.hotel360.ru">HOTEL360.RU</a></div>					</div>
+					<div class="col-md-6">
+											</div>					
+				</div>
+			</div>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+	
+</div><!-- #page -->
+
+            <noscript>
+                <div>
+                    <img src="https://mc.yandex.ru/watch/97075118" style="position:absolute; left:-9999px;" alt=""/>
+                </div>
+            </noscript>
+            <a on="tap:toptarget.scrollTo(duration=200)" class="go-top visibility-all position-right"><i class="sydney-svg-icon"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5 15l7-7 7 7" stroke-width="3" stroke-linejoin="round" /></svg></i></a>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/themes/sydney/js/elementor.js?ver=20200504" id="sydney-elementor-editor-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.29.2" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.29.2" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Facebook","shareOnTwitter":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Twitter","pinIt":"\u0417\u0430\u043f\u0438\u043d\u0438\u0442\u044c","download":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","downloadImage":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435","fullscreen":"\u0412\u043e \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d","zoom":"\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435","share":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f","playVideo":"\u041f\u0440\u043e\u0438\u0433\u0440\u0430\u0442\u044c \u0432\u0438\u0434\u0435\u043e","previous":"\u041d\u0430\u0437\u0430\u0434","next":"\u0414\u0430\u043b\u0435\u0435","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","a11yCarouselPrevSlideMessage":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselNextSlideMessage":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselFirstSlideMessage":"\u042d\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselLastSlideMessage":"\u042d\u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselPaginationBulletMessage":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0441\u043b\u0430\u0439\u0434\u0443"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 - \u043a\u043d\u0438\u0436\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 - \u0430\u043b\u044c\u0431\u043e\u043c\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 - \u043a\u043d\u0438\u0436\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 - \u0430\u043b\u044c\u0431\u043e\u043c\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u041d\u043e\u0443\u0442\u0431\u0443\u043a","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0428\u0438\u0440\u043e\u043a\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u043d\u044b\u0435","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.29.2","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_local_google_fonts":true,"nested-elements":true,"editor_v2":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"https:\/\/ogonek-adler.ru\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ogonek-adler.ru\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/ogonek-adler.ru\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"59e454a12a"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2,"title":"%D0%93%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%94%D0%BE%D0%BC%20%22%D0%9E%D0%B3%D0%BE%D0%BD%D0%B5%D0%BA%22%20%E2%80%93%20%D1%83%D1%8E%D1%82%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%20%D1%81%20%D0%B2%D0%B8%D0%B4%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D0%BC%D0%BE%D1%80%D0%B5%20%D0%B8%20%D0%B3%D0%BE%D1%80%D1%8B%20%E2%80%93%20%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B2%20%D0%A1%D0%BE%D1%87%D0%B8","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.29.2" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6" id="wpr-particles-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7" id="wpr-jarallax-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0" id="wpr-parallax-hover-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/themes/sydney/js/functions.min.js?ver=20240307" id="sydney-functions-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/themes/sydney/js/scripts.js?ver=6.8.3" id="sydney-scripts-js"></script>
+<script type="text/javascript" id="wpr-addons-js-js-extra">
+/* <![CDATA[ */
+var WprConfig = {"ajaxurl":"https:\/\/ogonek-adler.ru\/wp-admin\/admin-ajax.php","resturl":"https:\/\/ogonek-adler.ru\/index.php?rest_route=\/wpraddons\/v1","nonce":"6299be8b37","addedToCartText":"was added to cart","viewCart":"View Cart","comparePageID":"","comparePageURL":"https:\/\/ogonek-adler.ru\/","wishlistPageID":"","wishlistPageURL":"https:\/\/ogonek-adler.ru\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error","token":"dbad2e3f328183b097c5ae904ea8be6eb69c4775d284027cd8dac7f529c67e1a"};
+/* ]]> */
+</script>
+<script type="text/javascript" data-cfasync="false" src="https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1006" id="wpr-addons-js-js"></script>
+<script type="text/javascript" src="https://ogonek-adler.ru/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1006" id="wpr-modal-popups-js-js"></script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+</body>
+</html>

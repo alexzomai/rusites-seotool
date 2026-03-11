@@ -1,0 +1,2265 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+	
+	
+	
+	
+
+
+
+	
+	
+	<meta name="viewport" content="width=1160,initial-scale=1">
+	
+
+<link href="//pics.loveplanet.ru/css/3/imgstc/fonts/RobotoFlex/fonts.css" rel="stylesheet">
+<link href="//pics.loveplanet.ru/css/3/imgstc/general.css?1772199037" rel="stylesheet">
+<link href="//pics.loveplanet.ru/css/3/imgstc/lp14/style.css?1772199037" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="http://pics.loveplanet.ru/css/3/img/lp14blue/style.css">
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	<title>гей знакомства</title>
+
+
+
+	
+	
+	
+	
+
+	
+	
+	<META NAME="Keywords" CONTENT="гей, бисексуал, знакомство, ищу парня"><META NAME="Description" CONTENT="Гей Знакомства на xgay.info">
+
+
+
+	
+	
+	<link rel="canonical" href="http://love.xgay.info">
+	
+
+<script type="text/javascript" src="//pics.loveplanet.ru/css/3/imgstc/exchange_v1d.js?1772199037"></script>
+<script type="text/javascript" src="//pics.loveplanet.ru/css/3/imgstc/lp14/count_rules.js"></script>
+
+<script type="text/javascript">
+try {
+	var _lng = {
+	"Все":				"Все",
+	"Новые сообщения":	"Новые сообщения",
+	"Онлайн":			"Онлайн",
+	"Последние":		"Последние",
+	"Ошибка загрузки сообщений":	"Ошибка загрузки сообщений",
+	"Подождите идет загрузка...":	"Подождите идет загрузка...",
+	"января":	"января",
+	"февраля":	"февраля",
+	"марта":	"марта",
+	"апреля":	"апреля",
+	"мая":		"мая",
+	"июня":		"июня",
+	"июля":		"июля",
+	"августа":	"августа",
+	"сентября":	"сентября",
+	"октября":	"октября",
+	"ноября":	"ноября",
+	"декабря":	"декабря",
+	"сегодня":	"сегодня",
+	"вчера":	"вчера",
+	"недавно":	"недавно",
+	"&nbsp;в":	"&nbsp;в",
+	"Уведомления включены.":	"Уведомления включены.",
+	"Укажите Ваш e-mail адрес":	"Укажите Ваш e-mail адрес",
+	"Неверный формат e-mail адреса.":	"Неверный формат e-mail адреса.",
+	"Данный e-mail адрес уже используется":	"Данный e-mail адрес уже используется",
+	"Пароль не должен совпадать с логином":	"Пароль не должен совпадать с логином",
+	"Пароль слишком простой, придумайте сложнее":	"Пароль слишком простой, придумайте сложнее",
+	"Пароль должен быть не меньше 8 символов":	"Пароль должен быть не меньше 8 символов",
+	"Укажите Ваше реальное имя или ник":	"Укажите Ваше реальное имя или ник",
+	"Укажите ваш пол": "Укажите ваш пол",
+	"От 3 до 14 символов":	"От 3 до 14 символов",
+	"Это имя нельзя использовать.":	"Это имя нельзя использовать.",
+	"Выберите день":	"Выберите день",
+	"Выберите месяц":	"Выберите месяц",
+	"Выберите год":		"Выберите год",
+	"Не выбран город":	"Не выбран город",
+	"Вы не ввели код":	"Вы не ввели код",
+	"Код должен состоять из 4 цифр":	"Код должен состоять из 4 цифр",
+	"Вы не приняли Соглашение":	"Вы не приняли Соглашение",
+	"Выберите цель знакомства":	"Выберите цель знакомства",
+	"Укажите одну из категорий": "Укажите одну из категорий",
+	"Добавить @": "Добавить @",
+	"Вернуться к списку областей": "Вернуться к списку областей",
+	"Вернуться к списку стран": "Вернуться к списку стран",
+	"Ничего не найдено": "Ничего не найдено",
+	"Введите название вашего города или выберите из списка": "Введите название вашего города или выберите из списка",
+	"Я нравлюсь": "Я нравлюсь",
+	"Нравятся": "Нравятся",
+	"Взаимные": "Взаимные",
+	"Нравится": "Нравится",
+	"Не нравится": "Не нравится",
+	"Новые": "Новые",
+	"Избранные": "Избранные",
+	"Сообщения": "Сообщения",
+	"Просмотры": "Просмотры",
+	"Симпатии": "Симпатии",
+	"В избранное": "В избранное",
+	"В основной": "В основной",
+	"Удалить пользователя": "Удалить пользователя",
+	"Поместить в черный список": "Поместить в черный список",
+	"Сообщить о спамере!": "Сообщить о спамере!",
+	"Пожаловаться на спам?": "Пожаловаться на спам?",
+	"Только Я": "Только Я",
+	"Профиль": "Профиль",
+	"Фото": "Фото",
+	"Удалить фото": "Удалить фото",
+	"Сделать основной": "Сделать основной",
+	"Показать": "Показать",
+	"Скрыть": "Скрыть",
+	"Настройки": "Настройки",
+	"Выход": "Выход",
+	"Подписки": "Подписки",
+	"Анкета": "Анкета",
+	"Пожаловаться": "Пожаловаться",
+	"Использует чужие фотографии": "Использует чужие фотографии",
+	"Публикует чужие данные": "Публикует чужие данные",
+	"Рассылает угрозы и оскорбления": "Рассылает угрозы и оскорбления",
+	"Рассылает незаконные материалы": "Рассылает незаконные материалы",
+	"Просит перевести деньги": "Просит перевести деньги",
+	"Предлагает интимные услуги": "Предлагает интимные услуги",
+	"Рассылает спам": "Рассылает спам",
+	"Другое": "Другое",
+	"Приглашение отправлено!": "Приглашение отправлено!",
+	"Привет!👋": "Привет!👋",
+	"Некорректный тип файла": "Некорректный тип файла",
+	"Слишком большая фотография": "Слишком большая фотография",
+	"Слишком маленькая фотография": "Слишком маленькая фотография",
+	"Завершение регистрации": "Завершение регистрации",
+	"Добавить @ как интерес...": "Добавить @ как интерес...",
+	"Удалить фотографию?": "Удалить фотографию?",
+	"Документы и контакты": "Документы и контакты",
+	"Отправлено изображение": "Отправлено изображение",
+	"Контакты": "Контакты",
+	"Удаленные": "Удаленные",
+	"Черный список": "Черный список",
+	"Очистить папку": "Очистить папку"
+}
+;
+} catch(e){ log(e); }
+</script>
+
+
+	<script type="text/javascript">
+		exchange.storage = new storage();
+		exchange.progress = true;
+	</script>
+
+
+
+
+<script src="//pics.loveplanet.ru/css/3/imgstc/lp14/controls.js"></script>
+
+</head>
+
+
+<body>
+<!-- tns-counter.ru -->
+
+	<script type="text/javascript">
+		var img = new Image();
+		img.src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*rbc_ru/ru/UTF-8/tmsec=loveplanet_affiliates/' + Math.round(Math.random() * 1000000000);
+	</script>
+	<noscript>
+		<img src="//www.tns-counter.ru/V13a****rbc_ru/ru/UTF-8/tmsec=loveplanet_affiliates/" width="1" height="1" alt="">
+	</noscript>
+
+<!--/ tns-counter.ru -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+	(function(ymids, userid){
+		if (window.evproc) {
+			evproc.param("ymid", ymids);
+			evproc.param("crc", userid);
+		}
+
+		(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+		for (var ymid of ymids) {
+			var data = {
+				webvisor: true,
+				clickmap:true,
+				trackLinks:true,
+				accurateTrackBounce:true
+			};
+			if (userid) {
+				data.userParams = {UserID: userid};
+			}
+			ym(ymid, "init", data);
+
+			if (userid) {
+				ym(ymid, 'setUserID', userid);
+			}
+		}
+	})([49105, 41738879], 0);
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49105" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="https://mc.yandex.ru/watch/41738879" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- /Yandex.Context -->
+<script type="text/javascript">
+	(function (d, w, t, s) {
+		w["yandexContextAsyncCallbacks"] = [];
+		t = d.getElementsByTagName("script")[0];
+		s = d.createElement("script");
+		s.type = "text/javascript";
+		s.src = "//an.yandex.ru/system/context.js";
+		s.async = true;
+		t.parentNode.insertBefore(s, t);
+	})(document, window);
+</script>
+<!-- /Yandex.Context -->
+
+
+<div id="warning_cookie" class="flex-center warning-cookie" hidden>
+	<div class="warning-content text-center">
+		Используя сайт, вы принимаете нашу политику cookies. <a href="/personal_data">Подробности в Политике обработки данных</a>.
+	</div>
+	<span id="ckw_closer" class="flex-center click-zone warning-close" data-closeid="#warning_cookie">&#10005;</span>
+</div>
+
+<script type="text/javascript">
+	go("#ckw_closer").bind("click", function(){
+		setcookie("ckw_once", "1", 365);
+	});
+	if(!getcookie("ckw_once")){
+		go("#warning_cookie").rattr("hidden");
+	}
+</script>
+
+
+<style type="text/css">
+	.rec_box {position:fixed; zoom:1; z-index:5; right:0; margin-top:0px;}
+	@media screen and (max-width: 1480px) {
+		.rec_box {display:none !important;}
+	}
+</style>
+
+<div class="height_full">
+	
+
+<script>
+;(function(){
+	if (!getcookie('fullweb')) {
+		go('#site_version').sattr('data-hidden', 'false');
+
+		go('#full_version').bind('click', function() {
+			go('#site_version').rattr('data-hidden');
+			setcookie("fullweb",1,30);
+		});
+	}
+})();
+</script>
+
+	<!--header-->
+	<div class="head">
+		<div class="flex ai-center wrap">
+			<div class="flex ai-center logo_box">
+				love.xgay.info
+			</div>
+
+			
+				
+				<script type="text/javascript">
+	(function(win, doc, go, undefined){
+	var PasswordOpener = function() {
+		this.init.apply(this, arguments);
+	};
+
+	PasswordOpener.prototype.init = function (el, popup, right) {
+		this.element = el;
+		this.template = "<span class='showpassword p_abs'><span>" + popup + "</span></span>";
+		this.state = false;
+		this.wrapper = doc.createElement('div');
+		this.wrapper.innerHTML = this.template;
+		this.wrapper.className = 'p_rel';
+
+		var insAfter = function (after, ins) {
+		if (after.nextSibling) {
+			after.parentNode.insertBefore(ins, after.nextSibling);
+		} else {
+			after.parentNode.appendChild(ins);
+		}
+		};
+
+
+		insAfter(this.element, this.wrapper);
+		this.showButton = this.wrapper.firstChild;
+		// if (right || right === 0) {
+		//	 this.showButton.style.right = right + "20px";
+		// }
+		this.wrapper.insertBefore(this.element, this.showButton);
+		listevent(this.showButton, 'click', function(e) {
+		this.show();
+		}, {self: this});
+	};
+
+	PasswordOpener.prototype.show = function () {
+		var cls = "active";
+		if (this.state === false) {
+		this.state = true;
+		this.showButton.className += " " + cls;
+		try {
+			this.element.type = 'text';
+		} catch (e) {}
+		} else {
+		this.state = false;
+		this.showButton.className = this.showButton.className.replace(new RegExp('(\\s|^)'+cls+'(\\s|$)'),' ').replace(/^\s+|\s+$/g, '')
+		try {
+			this.element.type = 'password';
+		} catch (e) {}
+		}
+
+	}
+
+	go.alias({
+		pwdOpener: function(cfg) {
+		var cfg = cfg || {};
+		var popup = cfg.msg || "<img src='//pics.loveplanet.ru/css/3/imgstc/spacer.png' alt='Показывать символы' title='Показывать символы'>";
+		return new PasswordOpener(this, popup, cfg.right);
+		}
+	});
+
+	})(window, window.document, go());
+</script>
+
+				<ul class="reset flex head_menu">
+					<li>
+						<a class="flex ai-center" href="/a-searchlik/" data-gacat="clc_to_login" data-gaact="meetnew_header">
+							
+								
+								<i class="icon-stack hm-heart"></i>
+							Знакомства
+						</a>
+					</li>
+
+					<li>
+						<a class="flex ai-center" href="/a-journal" data-gacat="clc_to_blog" data-gaact="blog_header">
+							
+								
+								<i class="icon-stack hm-journal"></i>
+							Дневники
+						</a>
+					</li>
+
+					
+				</ul>
+
+				<div class="bt_top_form">
+					<ul class="reset flex li_ml10">
+						<li>
+							<a class="btn btn-light btn-sm" href="/a-logon" data-nohist="true" data-target="modal" data-type="window" data-href="/a-logon/popup/extend-" data-gacat="clc_to_login" data-gaact="login_header">Войти</a>
+						</li>
+
+						<li>
+							<a class="btn btn-primary btn-sm w140" href="/a-register" onclick="evproc.ga('register', 'register_openpage', 'Вход на страницу регистрации');" data-gacat="clc_to_reg" data-gaact="signup_header">Регистрация</a>
+						</li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
+	<!--/header-->
+	
+	<script type="text/javascript">
+	var restricted = {
+		rest: ['accdelete','accdelreq','acceptadvert','accfreeze','accfrzreq','account','activateprem','addfoto','addfoto_s','addfotonl','addusertags','advert','albumdel','alcmmdel','alcmmedit','alcmmnew','application','bonus_active','bonuselite','busyforcall','calloffer','check_email_list','clipremove','deeplink_expand','delete','delfoto','delfoto_s','delfotoshow','delusertags','disable_invile_email','edit','editalbums','editfoto','editfoto_s','editpass','elite','elite_act','elite_cancel','elite_oper','events','fbmap','fcmmdel','fcmmedit','fcmmnew','flirtgpt','fortune','friendfeed','gallery','getusersbytag','getusertags','giftcat','gifts','good_luck','greenconcert','hidefoto','invile_email_list','invisible','kupikupon10','kupikupon30','kupongid','kupongidact','live_sms','livestatus','ljcitat','ljscrlist','look','look_oper','lookstats','mainfoto','map','mapi','mapinl','match_post','meetings','message','messfilter','myalbum','myaldelfoto','myalmove','myfoto','myljcmm','myljpost','myljrub','myljrubdel','myljrubedit','myljrubnew','myljscr','myljscrlist','myprofile','newalbums','newroulettestart','newroulettestop','newusertags','operget','operstatlist','page_oper','payment_oper','paysts','podbir_const','podbir_match','podbir_send','premviewset','przwheel','purse','push_later','qiwi','refresh_url','review','rewards','searchcall','searchflik','searchlik','searchrec','searchrltcall','searchtrn','session','setnotify','showfavorites','showvchattop','slide','speakuplive','status','sticker','sugmess','survey_json','swgallery','testmail','testmobbanner','trackerappraisal','trackerphoto','translationalltoppresenter','translationaudio','translationclaim','translationcurrlist','translationinit','translationlike','translationmess','translationpresentdel','translationshow','translationshowagora','translationspeakup','translationstatus','translationsubscribe','translationsubscribelist','translationsumlist','translationtoplike','translationtoplist','translationtoppresenter','translationtopsubscribe','translationtopsum','translationupdate','upnotify','uppayment','usertagsbyid','usertagstoplist','videocallarch','viewgift','vip','yamoneycode','yamoneypay','zodiac','zquiz'],
+		referer: '',
+		extend: '',
+
+		link_scan: function(){
+			var rst = "|"+this.rest.join("|")+"|",
+			r = new RegExp("^"+location.protocol+"//"+location.hostname+".*/a-(\\w+)/.*$"),
+			l = new RegExp("login-(.*?)(\/|$)");
+			go("a").each(function(ref, ext){
+				var mt = this.href.match(r), lk = this.href.match(l);
+				if (ref = (lk && lk[1]) || ref) ref = "/referer-"+ref;
+
+				if (mt && rst.indexOf("|"+mt[1]+"|") != -1){
+					this.setAttribute('data-recur', 'true');
+					this.setAttribute('data-target', 'modal');
+					this.setAttribute('data-type', 'window');
+					this.setAttribute('data-href', '/a-logon/popup'+ref+'/extend-'+ext);
+				}
+			}, this.referer, this.extend);
+		}
+	}
+</script>
+
+	<!--gallery-->
+<div class="gallery_box">
+	<div class="wrap p_rel">
+		<div class="gallery_myprev">
+			
+				
+					<a href="/a-logon" data-gacat="clc_to_login" data-gaact="putmehere_carousel">
+				
+					<div class="gallery_but" title="Поднять рейтинг вашей страницы">
+						
+							<span>Хочу сюда</span>
+						
+					</div>
+				</a>
+			
+		</div>
+		
+
+	<ul class="reset flex gallery_list p_abs">
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/fon99d286/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/16/foto/fd/e9/fde9249d/eiEmOzA==_.jpg?p=a4RTaheEV2YGz_" itemprop="thumbnail" alt="Максим"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Максим</span><span>&#044; 22 года</span><br>
+							Санкт-Петербург
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/swarm90d25/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/14/foto/d1/49/d1492a2b/eBkcu4A==_.jpg?p=abxp6qW8bea09_" itemprop="thumbnail" alt="Владимир"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Владимир</span><span>&#044; 36 лет</span><br>
+							Москва
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/t99xtu9vzy8v/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/7/foto/6f/62/6f62ee58/e9YMFVg==_.jpg?p=aut5RF7rfUhPo_" itemprop="thumbnail" alt="Денис"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Денис</span><span>&#044; 34 года</span><br>
+							Москва
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/pystovoitov2d683/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/5/foto/42/e1/42e1ac28/eBcGGcA==_.jpg?p=aapzSOmqd0T44_" itemprop="thumbnail" alt="Юрий"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Юрий</span><span>&#044; 40 лет</span><br>
+							Москва
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/drsound/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/14/foto/da/19/da190937/eEmR+608=_.jpg?p=aWzkqols4KaYJ_" itemprop="thumbnail" alt="Даниэль"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Даниэль</span><span>&#044; 44 года</span><br>
+							Москва
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/kbaht1982/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/3/foto/28/25/28252621/eDEtCGQ==_.jpg?p=aZRYWUGUXFVQ3_" itemprop="thumbnail" alt="Сашка"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Сашка</span><span>&#044; 43 года</span><br>
+							Петропавловск-Камчатский
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/isfandiyor9/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/16/foto/f2/d4/f2d465a4/egQizww==_.jpg?p=a5lXniuZU5I60_" itemprop="thumbnail" alt="Ёрка"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Ёрка</span><span>&#044; 32 года</span><br>
+							Мытищи
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/diablojenya/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/16/foto/fa/0b/fa0bd122/eD7xsyw==_.jpg?p=aZOE4gmTgO4Y2_" itemprop="thumbnail" alt="Евгений"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Евгений</span><span>&#044; 31 год</span><br>
+							Курган
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/dlevashevd367/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/15/foto/e6/ac/e6ac1fc9/eZE3L1A==_.jpg?p=azS+fns0unJqf_" itemprop="thumbnail" alt="Дмитрий"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Дмитрий</span><span>&#044; 26 лет</span><br>
+							Воронеж
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+		<li class="dm_hover p_rel">
+			<a class="blue_bm" href="/page/makarovegora/frl-4" data-gacat="clc_to_profile" data-gaact="photo_carousel">
+				<div class="gallery_photo img_clr p_rel" itemscope itemtype="http://schema.org/ImageObject"><img src="https://pics.loveplanet.ru/10/foto/9a/24/9a24ba40/e7ddDqA==_.jpg?p=aQooX4kKLFOYQ_" itemprop="thumbnail" alt="Семён"></div>
+				<!--drop_menu-->
+				<div class="dm_pad pt5">
+					<div class="dm_box top rds6">
+						<div class="dm_box_gallery">
+							<span class="to_els fbold blue_14">Семён</span><span>&#044; 20 лет</span><br>
+							Кунгур
+							
+						</div>
+					</div>
+				</div>
+				<!--/drop_menu-->
+			</a>
+			
+		</li>
+		
+	</ul>
+
+
+
+	</div>
+</div>
+<!--/gallery-->
+
+<style type="text/css">
+	@keyframes block_down {
+		from {opacity:0;}
+		to {opacity:1;}
+	}
+	.block_down_anim{
+		animation-name:block_down;
+		animation-duration:0.5s;
+		animation-timing-function:ease-in;
+	}
+</style>
+
+<script type="text/html" id="tmpl_gallery">
+	<li class="dm_hover p_rel block_down_anim">
+		<a class="blue_bm" href="/page/{{prof.login}}/frl-4">
+			<div class="gallery_photo img_clr p_rel">
+				<img src="{{f_foto gal_foto, 'm110_'}}" alt="{{name}}" onerror="img_error(this,3,'{{f_foto foto, 'm110_'}}');">
+			</div>
+			<!--drop_menu-->
+			<div class="dm_pad pt5">
+				<div class="dm_box top rds6">
+					<div class="dm_box_gallery">
+						<span class="to_els fbold blue_14">{{prof.name}}</span><span>&#044; {{prof.age}} {{fn_numend prof.age, "год", "года", "лет"}}</span><br>
+						{{prof.city_n}}
+						<!-- {{#gal_notice}}
+							<div class="greeting_text mt11 word_wrap">{{fn_emoji gal_notice}}</div>
+						{{/gal_notice}} -->
+						{{#prof.blocks.meet}}
+							<div class="greeting_text mt11 word_wrap">
+								Ищу {{#m_bage}}от {{m_bage}}{{/m_bage}} {{#m_tage}}до {{m_tage}} {{fn_numend m_tage, "год", "года", "лет"}}{{/m_tage}}
+							</div>
+						{{/prof.blocks.meet}}
+					</div>
+				</div>
+			</div>
+			<!--/drop_menu-->
+		</a>
+	</li>
+</script>
+
+<script type="text/javascript">
+	exchange.storage.bind("gallery", this, function(kv, nv, ov){
+		var imgstat = "//pics.loveplanet.ru/css/3/imgstc",
+		tmpl = new mustache(go("#tmpl_gallery")[0], {
+			fn_emoji: function(d,msg){
+				return emojiparse(
+					'<img align="absmiddle" width="20" height="20" src="'+imgstat+'/emoji2/@1.png" alt="@2" onerror="img_error(this);" />',
+					msg
+				);
+			},
+			fn_numend: function(d,val,v1,v2,v3) {
+				var x2 = val % 100, x3 = x2 % 10;
+				if (x2 >= 10 && x2 <= 20) return v3;
+				if (x3 == 1) return v1;
+				if (x3 && x3 < 5) return v2;
+				return v3;
+			},
+			f_foto: function(d,url,ps){
+				return url? url.replace("@", ps).replace(/http:|https:/, "") : "";
+			},
+			f_sexend: function(d,m,w,s) { return ((s || d.sex) == 1)? m : w; }
+		}),
+
+		next = function(count){
+			go('#gallery_area').prepend(tmpl.parse(nv));
+			var item = go("#gallery_area").children();
+			if (item.length > 10) go(item.pop()).remove();
+
+			item.cstyle({"transform": "translateX(-105px)"});
+			(new animation(
+				{d: -105},
+				{d: 0},
+				function(out){
+					item.cstyle({"transform": "translateX("+out.d+"px)"})
+				}, function(){
+					if (--count) next(count);
+				}, this, 500
+			)).start();
+		};
+
+		next(nv.gal_num? nv.gal_num : 1);
+	});
+</script>
+
+
+
+<div class="wrap mt10">
+	
+		
+			<div class="btb1 adv  ta_center">
+				
+	
+	<center><a href="http://gej.ru/">гей знакомства</a></center>
+
+
+			</div>
+		
+	
+	<script>
+		go(".btb1 a[href*='/a-register']").bind("click", function(){evproc.fb('reg_click_banner'); return true;});
+	</script>
+
+	
+		
+		
+		
+		
+	
+
+	<div id="modal">
+
+</div>
+<script type="text/html" id="tmpl_notify">
+	<div id="notify_target" style="right:20px; bottom:15px; position:fixed; z-index:999;" data-max="3"></div>
+</script>
+
+<script type="text/html" id="tmpl_mess_popup">
+	<div id="{{id}}" class="flash_notify_block p_rel">
+		<div class="flash_notify_close rds3">×</div>
+		<a href="{{#url}}{{url}}{{/url}}{{^url}}#{{/url}}" {{#onclick}}onclick="{{onclick}}"{{/onclick}}>
+			<div class="flash_notify_box rds5">
+				<div><b>Новое сообщение</b></div>
+				{{#image}}<div class="p_rel fl mt11"><img src="{{image}}" width="50" height="50"></div>{{/image}}
+				<div class="flash_notify_cont word_wrap">
+					<b class="flash_notify_user">{{name}}</b>&nbsp;&nbsp;{{f_msg '<img width="20" height="20" src="//pics.loveplanet.ru/css/3/imgstc/emoji2/@1.png" alt="@2">', mess}}
+				</div>
+			</div>
+		</a>
+	</div>
+</script>
+
+
+
+	<script type="text/html" id="tmpl_freshreguser_popup">
+	<div id="{{id}}" class="flash_notify_block p_rel">
+		<div class="flash_notify_close rds3">×</div>
+		<a href="{{#url}}{{url}}{{/url}}{{^url}}#{{/url}}" {{#onclick}}onclick="{{onclick}}"{{/onclick}} data-gacat="clc_to_reg" data-gaact="newuser_popup">
+			<div class="flash_notify_box rds5">
+				<div class="flash_notify_new"><b>Новый пользователь</b></div>
+				<div class="p_rel fl mt11">
+					<img class="rds3" src="{{f_img image, '//pics.loveplanet.ru/css/3/imgstc/photo_plug/no_photo_all/60x60_all_default.png'}}" alt="" width="50" height="50">
+				</div>
+				<div class="flash_notify_cont word_wrap" style="height: 71px">
+					<div class="flash_notify_user"><b>{{name}}</b></div>
+					<div class="flash_notify_city">{{#city}}{{city}}{{/city}}</div>
+					<div class="flash_notify_user">
+						{{#if pol == 2}}Написать ей{{/if}}
+						{{#if pol == 1}}Написать ему{{/if}}
+					</div>
+				</div>
+			</div>
+		</a>
+	</div>
+</script>
+
+
+
+
+	<div id="top-btn" class="btn btn-primary btn-big btn-up non" onclick="(document.documentElement || document.body).scrollTo({top: 0, behavior: 'smooth'});">
+		Наверх
+	</div>
+	<!-- include another tmpl -->
+	
+	
+
+
+<div class="col_left" id="col_left" data-targid="col_left">
+
+
+
+	<div class="bbox rds10 p19t13b15 mb20">
+	<div class="fbold ta_center mb16">
+		Войти на
+		сайт
+	</div>
+
+	<form method="post" action="/a-logon"  data-target="modal" data-type="window" data-nohist="true" data-href="/a-logon/popup">
+		<input type="hidden" name="a" value="logon">
+		<input type="hidden" name="referer" value="">
+		<input type="hidden" name="extend" value="">
+
+		<div class="mb10">
+			<input id="login" class="inp_grd rds5 w200 mb10" type="text" name="login" placeholder="Логин или E-mail" tabindex="1">
+			<input id="bl_password" class="inp_grd rds5 w200" type="password" name="password" placeholder="Пароль" tabindex="2">
+		</div>
+
+		<div class="flex login_row">
+			<button class="btn btn-light btn-sm w75" type="submit" data-gacat="clc_to_login" data-gaact="login_leftbar" onclick="evproc.fb('reg_click',{from:'lp'});">Войти</button>
+			<div class="outer-link">
+				<a class="" href="/a-reminder"  data-target="modal" data-type="window" data-href="/a-reminder/popup-1" tabindex="3">Забыли пароль?</a>
+			</div>
+		</div>
+
+
+		<div class="flex btn-social-auth btn-social-auth-bl mt13">
+			<div class="flex btn-social-row">
+				<a class="block" rel="nofollow" href="https://oauth.vk.ru/authorize?scope=photos,notify,friends,wall,email&response_type=code&client_id=4552413&redirect_uri=https://loveplanet.ru/a-oauth/osys-3&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'vk'}); return social_auth('https://oauth.vk.ru/authorize?scope=photos,notify,friends,wall,email&display=popup&response_type=code&client_id=4552413&redirect_uri=https://loveplanet.ru/a-oauth/osys-3&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="vk_leftbar" title="ВКонтакте"><i class="icon-stack vk"></i></a>
+				<a class="block" rel="nofollow" href="https://connect.ok.ru/oauth/authorize?scope=VALUABLE%20ACCESS&response_type=code&client_id=3496704&redirect_uri=https://loveplanet.ru/a-oauth/osys-6&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'ok'}); return social_auth('https://connect.ok.ru/oauth/authorize?scope=VALUABLE%20ACCESS&response_type=code&client_id=3496704&redirect_uri=https://loveplanet.ru/a-oauth/osys-6&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="odn_leftbar" title="Одноклассники"><i class="icon-stack ok"></i></a>
+				<a class="block" rel="nofollow" href="https://connect.mail.ru/oauth/authorize?response_type=code&client_id=637589&redirect_uri=https://loveplanet.ru/a-oauth/osys-5&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'mr'}); return social_auth('https://connect.mail.ru/oauth/authorize?response_type=code&client_id=637589&redirect_uri=https://loveplanet.ru/a-oauth/osys-5&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="mailru_leftbar" title="Mail.ru"><i class="icon-stack mail"></i></a>
+				<a class="block" rel="nofollow" href="https://accounts.google.com/o/oauth2/v2/auth?scope=openid%20profile%20email&response_type=code&client_id=393078708400-gsq7qpf1dk8jvpr9k8tc10st356b9i43.apps.googleusercontent.com&redirect_uri=https://loveplanet.ru/a-oauth/osys-16&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'gl'}); return social_auth('https://accounts.google.com/o/oauth2/v2/auth?scope=openid%20profile%20email&response_type=code&client_id=393078708400-gsq7qpf1dk8jvpr9k8tc10st356b9i43.apps.googleusercontent.com&redirect_uri=https://loveplanet.ru/a-oauth/osys-16&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="google_leftbar" title="Google"><i class="icon-stack google"></i></a>
+				<a class="block" rel="nofollow" href="https://oauth.yandex.ru/authorize?response_type=code&client_id=f59ec26ec6c34f818211e24927e8469b&redirect_uri=https://loveplanet.ru/a-oauth/osys-27&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'ya'}); return social_auth('https://oauth.yandex.ru/authorize?response_type=code&client_id=f59ec26ec6c34f818211e24927e8469b&redirect_uri=https://loveplanet.ru/a-oauth/osys-27&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE', 600, 500)" data-gacat="clc_to_socnets" data-gaact="yandex_leftbar" title="Yandex"><i class="icon-stack yandex"></i></a>
+			</div>
+		</div>
+	</form>
+</div>
+
+<div class="bbox rds10 p19t13b15 mb10">
+	<div class="fbold ta_center mb16">
+		Регистрация на
+		сайте
+	</div>
+
+	<a class="btn btn-success btn-big block w100pct mb4 p0" href="/a-register" onclick="evproc.ga('register', 'register_openpage', 'Вход на страницу регистрации');" data-gacat="clc_to_reg" data-gaact="signup_leftbar">
+		Зарегистрироваться
+	</a>
+
+	<div class="flex btn-social-auth btn-social-auth-bl mt13">
+		<div class="flex btn-social-row">
+			<a class="block" rel="nofollow" href="https://oauth.vk.ru/authorize?scope=photos,notify,friends,wall,email&response_type=code&client_id=4552413&redirect_uri=https://loveplanet.ru/a-oauth/osys-3&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'vk'}); return social_auth('https://oauth.vk.ru/authorize?scope=photos,notify,friends,wall,email&display=popup&response_type=code&client_id=4552413&redirect_uri=https://loveplanet.ru/a-oauth/osys-3&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="vk_leftbar" title="ВКонтакте"><i class="icon-stack vk"></i></a>
+			<a class="block" rel="nofollow" href="https://connect.ok.ru/oauth/authorize?scope=VALUABLE%20ACCESS&response_type=code&client_id=3496704&redirect_uri=https://loveplanet.ru/a-oauth/osys-6&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'ok'}); return social_auth('https://connect.ok.ru/oauth/authorize?scope=VALUABLE%20ACCESS&response_type=code&client_id=3496704&redirect_uri=https://loveplanet.ru/a-oauth/osys-6&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="odn_leftbar" title="Одноклассники"><i class="icon-stack ok"></i></a>
+			<a class="block" rel="nofollow" href="https://connect.mail.ru/oauth/authorize?response_type=code&client_id=637589&redirect_uri=https://loveplanet.ru/a-oauth/osys-5&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'mr'}); return social_auth('https://connect.mail.ru/oauth/authorize?response_type=code&client_id=637589&redirect_uri=https://loveplanet.ru/a-oauth/osys-5&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE')" data-gacat="clc_to_socnets" data-gaact="mailru_leftbar" title="Mail.ru"><i class="icon-stack mail"></i></a>
+			<span class="block google-off" data-showid=".google-warning"><i class="icon-stack google-gray"></i></span>
+			<a class="block" rel="nofollow" href="https://oauth.yandex.ru/authorize?response_type=code&client_id=f59ec26ec6c34f818211e24927e8469b&redirect_uri=https://loveplanet.ru/a-oauth/osys-27&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9" onclick="evproc.fb('reg_click',{from:'ya'}); return social_auth('https://oauth.yandex.ru/authorize?response_type=code&client_id=f59ec26ec6c34f818211e24927e8469b&redirect_uri=https://loveplanet.ru/a-oauth/osys-27&state=aG9zdD1odHRwOi8vbG92ZS54Z2F5LmluZm8mcGF0aD0mYXBwdD1ZWEJ3UFRBbWIzTTlOeVpoY0drOU1DWjJaWEk5Sm1abFlYUTlKbk5wWjJFOU9XSTFabUptTlRVMVlUWTFOakl4TlRNMk5UWmlOMkUyWWpCbU1ERmlOems9JnBvcHVwPTE', 600, 500)" data-gacat="clc_to_socnets" data-gaact="yandex_leftbar" title="Yandex"><i class="icon-stack yandex"></i></a>
+		</div>
+	</div>
+</div>
+
+<div class="ta_center google-warning">На сайте недоступна<br>регистрация через Google</div>
+
+	
+
+
+<!-- We're on social -->
+	<div class="bbox rds10 mb20 we-social">
+	<div class="fbold ta_center mb10">Мы в соцсетях</div>
+	<div class="flex-center social-row">
+		
+			<a href="https://vk.com/loveplanet" class="icon-stack vk-round" target="_blank" onclick="evproc.fb('sidebar_our_social', {network: 'vk'});"></a>
+			<a href="https://ok.ru/loveplanet" class="icon-stack ok-round" target="_blank" onclick="evproc.fb('sidebar_our_social', {network: 'ok'});"></a>
+			<a href="https://t.me/LovePlanet_dating" class="icon-stack tg-round" target="_blank" onclick="evproc.fb('sidebar_our_social', {network: 'tg'});"></a>
+		
+	</div>
+	</div>
+<!-- /We're on social -->
+
+
+
+
+	
+	
+
+
+
+<script type="text/javascript">
+	try{ go("#bl_password").pwdOpener({right: 0}); }catch(e){};
+
+	go("#login").each(function(){ this.focus(); });
+
+	function social_auth(url,x,y) {
+		if (isua.mobile) return true;
+		evproc.ga('register', 'register_socialnet_openpage', 'Соц регистрации');
+		go.window(url, 'auth', (x || 600), (y || 400)).focus();
+		return false;
+	}
+</script>
+
+</div>
+
+
+
+			<!--col_center-->
+		<div id="col_center" class="col_center">
+			
+
+
+
+
+	<!--no script-->
+<!--noindex--><noscript>
+<div id="no_script" class="warning_box rds3 mb20">
+	<div>В Вашем браузере отключено выполнение сценариев.<br> Сайт может работать <b>неправильно</b>.</div>
+</div>
+</noscript>
+<!--/noindex-->
+<!--end no script-->
+
+
+
+
+
+
+
+
+
+
+
+	<div id="search_panel" data-targid="search_panel" data-replace="create;replace">
+	
+
+	<!--noindex-->
+<div id="search_form" class="srh_box bbox p19t13 rds10">
+	<form id="anketa" name="anketa" method="post" action="/a-search"  >
+		<input type="hidden" name="d" value="1">
+		<input type="hidden" name="expsearch" value="">
+		
+		<style type="text/css">
+			.search-block > li {padding-bottom: 6px;}
+			.search-block > li > label{
+				width: 125px;
+			    float: left;
+			    padding-top: 5px;
+			}
+			.search-block > li > div{
+				margin-left: 125px;
+			}
+		</style>
+		<div class="flex">
+			<ul class="search-block reset mr35">
+				
+					<li>
+						<label class="srh_seeking">Я ищу</label>
+						<div>
+						
+							<select class="select-control w90" name="spol" data-type="simple" data-firstitem="false">
+								<OPTION value="0">&nbsp;</OPTION>
+<OPTION value="1" selected>Парня</OPTION>
+<OPTION value="2">Девушку</OPTION>
+
+							</select>
+						
+						</div>
+					</li>
+				
+
+				
+					<li>
+						<label class="srh_location">Регион</label>
+						<div class="p_rel">
+							<select id="city" class="select-control w190" name="geo" data-type="geo-search">
+								<option value="0,0,0">Не имеет значения</option>
+								
+								<OPTION value="4,0,0" >Австралия</OPTION>
+<OPTION value="63,0,0" >Австрия</OPTION>
+<OPTION value="81,0,0" >Азербайджан</OPTION>
+<OPTION value="173,0,0" >Ангилья</OPTION>
+<OPTION value="177,0,0" >Аргентина</OPTION>
+<OPTION value="245,0,0" >Армения</OPTION>
+<OPTION value="248,0,0" >Беларусь</OPTION>
+<OPTION value="401,0,0" >Белиз</OPTION>
+<OPTION value="404,0,0" >Бельгия</OPTION>
+<OPTION value="425,0,0" >Бермудские Острова</OPTION>
+<OPTION value="428,0,0" >Болгария</OPTION>
+<OPTION value="467,0,0" >Бразилия</OPTION>
+<OPTION value="616,0,0" >Великобритания</OPTION>
+<OPTION value="924,0,0" >Венгрия</OPTION>
+<OPTION value="971,0,0" >Вьетнам</OPTION>
+<OPTION value="994,0,0" >Гаити</OPTION>
+<OPTION value="1007,0,0" >Гваделупа</OPTION>
+<OPTION value="1012,0,0" >Германия</OPTION>
+<OPTION value="1206,0,0" >Нидерланды</OPTION>
+<OPTION value="1258,0,0" >Греция</OPTION>
+<OPTION value="1280,0,0" >Грузия</OPTION>
+<OPTION value="1366,0,0" >Дания</OPTION>
+<OPTION value="1380,0,0" >Египет</OPTION>
+<OPTION value="1393,0,0" >Израиль</OPTION>
+<OPTION value="1451,0,0" >Индия</OPTION>
+<OPTION value="1663,0,0" >Иран</OPTION>
+<OPTION value="1696,0,0" >Ирландия</OPTION>
+<OPTION value="1707,0,0" >Испания</OPTION>
+<OPTION value="1786,0,0" >Италия</OPTION>
+<OPTION value="1894,0,0" >Казахстан</OPTION>
+<OPTION value="2163,0,0" >Камерун</OPTION>
+<OPTION value="2172,0,0" >Канада</OPTION>
+<OPTION value="2297,0,0" >Кипр</OPTION>
+<OPTION value="2303,0,0" >Кыргызстан</OPTION>
+<OPTION value="2374,0,0" >Китай</OPTION>
+<OPTION value="2430,0,0" >Коста-Рика</OPTION>
+<OPTION value="2443,0,0" >Кувейт</OPTION>
+<OPTION value="2448,0,0" >Латвия</OPTION>
+<OPTION value="2509,0,0" >Ливия</OPTION>
+<OPTION value="2514,0,0" >Литва</OPTION>
+<OPTION value="2614,0,0" >Люксембург</OPTION>
+<OPTION value="2617,0,0" >Мексика</OPTION>
+<OPTION value="2788,0,0" >Молдавия</OPTION>
+<OPTION value="2833,0,0" >Монако</OPTION>
+<OPTION value="2837,0,0" >Новая Зеландия</OPTION>
+<OPTION value="2880,0,0" >Норвегия</OPTION>
+<OPTION value="2897,0,0" >Польша</OPTION>
+<OPTION value="3141,0,0" >Португалия</OPTION>
+<OPTION value="3156,0,0" >Реюньон</OPTION>
+<OPTION value="3159,0,0" selected>Россия</OPTION>
+<OPTION value="4963,0,0" >Албания</OPTION>
+<OPTION value="5647,0,0" >Сальвадор</OPTION>
+<OPTION value="5666,0,0" >Словакия</OPTION>
+<OPTION value="5673,0,0" >Словения</OPTION>
+<OPTION value="5678,0,0" >Суринам</OPTION>
+<OPTION value="5681,0,0" >Соединенные Штаты</OPTION>
+<OPTION value="9575,0,0" >Таджикистан</OPTION>
+<OPTION value="9618,0,0" >Боливия</OPTION>
+<OPTION value="9638,0,0" >Туркменистан</OPTION>
+<OPTION value="9701,0,0" >Острова Тёркс и Кайкос</OPTION>
+<OPTION value="9705,0,0" >Турция</OPTION>
+<OPTION value="9782,0,0" >Уганда</OPTION>
+<OPTION value="9787,0,0" >Узбекистан</OPTION>
+<OPTION value="10648,0,0" >Финляндия</OPTION>
+<OPTION value="10668,0,0" >Франция</OPTION>
+<OPTION value="10874,0,0" >Чехия</OPTION>
+<OPTION value="10904,0,0" >Швейцария</OPTION>
+<OPTION value="10933,0,0" >Швеция</OPTION>
+<OPTION value="10968,0,0" >Эстония</OPTION>
+<OPTION value="10996,0,0" >Босния и Герцеговина</OPTION>
+<OPTION value="11014,0,0" >Южная Корея</OPTION>
+<OPTION value="11060,0,0" >Япония</OPTION>
+<OPTION value="11365,0,0" >Венесуэла</OPTION>
+<OPTION value="11366,0,0" >Камбоджа</OPTION>
+<OPTION value="11367,0,0" >Колумбия</OPTION>
+<OPTION value="11370,0,0" >Саудовская Аравия</OPTION>
+<OPTION value="11371,0,0" >Сербия</OPTION>
+<OPTION value="277553,0,0" >Хорватия</OPTION>
+<OPTION value="277555,0,0" >Румыния</OPTION>
+<OPTION value="277559,0,0" >Индонезия</OPTION>
+<OPTION value="277561,0,0" >Иордания</OPTION>
+<OPTION value="277563,0,0" >Малайзия</OPTION>
+<OPTION value="277565,0,0" >Сингапур</OPTION>
+<OPTION value="582029,0,0" >Багамские острова</OPTION>
+<OPTION value="582031,0,0" >Чили</OPTION>
+<OPTION value="582039,0,0" >Исландия</OPTION>
+<OPTION value="582040,0,0" >Северная Корея</OPTION>
+<OPTION value="582041,0,0" >Македония</OPTION>
+<OPTION value="582043,0,0" >Мальта</OPTION>
+<OPTION value="582044,0,0" >Пакистан</OPTION>
+<OPTION value="582045,0,0" >Папуа – Новая Гвинея</OPTION>
+<OPTION value="582046,0,0" >Перу</OPTION>
+<OPTION value="582047,0,0" >Филиппины</OPTION>
+<OPTION value="582050,0,0" >Таиланд</OPTION>
+<OPTION value="582051,0,0" >Объединенные Арабские Эмираты</OPTION>
+<OPTION value="582052,0,0" >Гренландия</OPTION>
+<OPTION value="582056,0,0" >Зимбабве</OPTION>
+<OPTION value="582057,0,0" >Кения</OPTION>
+<OPTION value="582059,0,0" >Алжир</OPTION>
+<OPTION value="582060,0,0" >Ливан</OPTION>
+<OPTION value="582061,0,0" >Ботсвана</OPTION>
+<OPTION value="582062,0,0" >Танзания</OPTION>
+<OPTION value="582063,0,0" >Намибия</OPTION>
+<OPTION value="582064,0,0" >Эквадор</OPTION>
+<OPTION value="582065,0,0" >Марокко</OPTION>
+<OPTION value="582066,0,0" >Гана</OPTION>
+<OPTION value="582067,0,0" >Сирия</OPTION>
+<OPTION value="582068,0,0" >Непал</OPTION>
+<OPTION value="582069,0,0" >Мавритания</OPTION>
+<OPTION value="582071,0,0" >Сейшельские Острова</OPTION>
+<OPTION value="582072,0,0" >Парагвай</OPTION>
+<OPTION value="582075,0,0" >Уругвай</OPTION>
+<OPTION value="582076,0,0" >Республика Конго</OPTION>
+<OPTION value="582077,0,0" >Куба</OPTION>
+<OPTION value="582080,0,0" >Нигерия</OPTION>
+<OPTION value="582081,0,0" >Замбия</OPTION>
+<OPTION value="582082,0,0" >Мозамбик</OPTION>
+<OPTION value="582086,0,0" >Ангола</OPTION>
+<OPTION value="582087,0,0" >Шри-Ланка</OPTION>
+<OPTION value="582088,0,0" >Эфиопия</OPTION>
+<OPTION value="582090,0,0" >Тунис</OPTION>
+<OPTION value="582093,0,0" >Панама</OPTION>
+<OPTION value="582094,0,0" >Малави</OPTION>
+<OPTION value="582095,0,0" >Лихтенштейн</OPTION>
+<OPTION value="582097,0,0" >Бахрейн</OPTION>
+<OPTION value="582098,0,0" >Барбадос</OPTION>
+<OPTION value="582101,0,0" >Чад</OPTION>
+<OPTION value="582105,0,0" >Остров Мэн</OPTION>
+<OPTION value="582106,0,0" >Ямайка</OPTION>
+<OPTION value="582108,0,0" >Мали</OPTION>
+<OPTION value="582109,0,0" >Мадагаскар</OPTION>
+<OPTION value="582110,0,0" >Сенегал</OPTION>
+<OPTION value="582112,0,0" >Того</OPTION>
+<OPTION value="2567393,0,0" >Гондурас</OPTION>
+<OPTION value="2577958,0,0" >Доминиканская Республика</OPTION>
+<OPTION value="2687701,0,0" >Монголия</OPTION>
+<OPTION value="3410238,0,0" >Ирак</OPTION>
+<OPTION value="3661568,0,0" >Южно-Африканская Республика</OPTION>
+<OPTION value="20738587,0,0" >Гибралтар</OPTION>
+<OPTION value="23269622,0,0" >Афганистан</OPTION>
+<OPTION value="23269623,0,0" >Андорра</OPTION>
+<OPTION value="23269625,0,0" >Антигуа и Барбуда</OPTION>
+<OPTION value="23269627,0,0" >Бангладеш</OPTION>
+<OPTION value="23269629,0,0" >Бенин</OPTION>
+<OPTION value="23269630,0,0" >Бутан</OPTION>
+<OPTION value="23269633,0,0" >Британские Виргинские острова</OPTION>
+<OPTION value="23269634,0,0" >Бруней</OPTION>
+<OPTION value="23269635,0,0" >Буркина Фасо</OPTION>
+<OPTION value="23269636,0,0" >Бурунди</OPTION>
+<OPTION value="23269638,0,0" >Острова Зеленого Мыса</OPTION>
+<OPTION value="23269645,0,0" >Коморские о-ва</OPTION>
+<OPTION value="23269646,0,0" >Заир</OPTION>
+<OPTION value="23269647,0,0" >Острова Кука</OPTION>
+<OPTION value="23269649,0,0" >Кот д’Ивуар</OPTION>
+<OPTION value="23269650,0,0" >Джибути</OPTION>
+<OPTION value="23269652,0,0" >Восточный Тимор</OPTION>
+<OPTION value="23269653,0,0" >Экваториальная Гвинея</OPTION>
+<OPTION value="23269654,0,0" >Эритрея</OPTION>
+<OPTION value="23269657,0,0" >Фиджи</OPTION>
+<OPTION value="23269658,0,0" >Французская Гвиана</OPTION>
+<OPTION value="23269659,0,0" >Французская Полинезия</OPTION>
+<OPTION value="23269661,0,0" >Габон</OPTION>
+<OPTION value="23269662,0,0" >Гамбия</OPTION>
+<OPTION value="23269665,0,0" >Гренада</OPTION>
+<OPTION value="23269666,0,0" >Гватемала</OPTION>
+<OPTION value="23269667,0,0" >Гернси</OPTION>
+<OPTION value="23269668,0,0" >Гвинея</OPTION>
+<OPTION value="23269669,0,0" >Гвинея-Биссау</OPTION>
+<OPTION value="23269670,0,0" >Гайана</OPTION>
+<OPTION value="23269674,0,0" >Джерси</OPTION>
+<OPTION value="23269676,0,0" >Кирибати</OPTION>
+<OPTION value="23269677,0,0" >Лаос</OPTION>
+<OPTION value="23269678,0,0" >Лесото</OPTION>
+<OPTION value="23269679,0,0" >Либерия</OPTION>
+<OPTION value="23269681,0,0" >Мальдивские о-ва</OPTION>
+<OPTION value="23269682,0,0" >Мартиника</OPTION>
+<OPTION value="23269683,0,0" >Маврикий</OPTION>
+<OPTION value="23269686,0,0" >Мьянма</OPTION>
+<OPTION value="23269687,0,0" >Науру</OPTION>
+<OPTION value="23269689,0,0" >Новая Каледония</OPTION>
+<OPTION value="23269690,0,0" >Никарагуа</OPTION>
+<OPTION value="23269691,0,0" >Нигерия</OPTION>
+<OPTION value="23269693,0,0" >Норфолк</OPTION>
+<OPTION value="23269694,0,0" >Оман</OPTION>
+<OPTION value="23269696,0,0" >Питкэрн</OPTION>
+<OPTION value="23269697,0,0" >Катар</OPTION>
+<OPTION value="23269698,0,0" >Руанда</OPTION>
+<OPTION value="23269699,0,0" >Остров Святой Елены</OPTION>
+<OPTION value="23269700,0,0" >Сент-Китс и Невис</OPTION>
+<OPTION value="23269701,0,0" >Сент-Люсия</OPTION>
+<OPTION value="23269702,0,0" >Сен-Пьер и Микелон</OPTION>
+<OPTION value="23269703,0,0" >Сент-Винсент и Гренадины</OPTION>
+<OPTION value="23269704,0,0" >Самоа</OPTION>
+<OPTION value="23269705,0,0" >Сан-Марино</OPTION>
+<OPTION value="23269706,0,0" >Сан-Томе и Принсипи</OPTION>
+<OPTION value="23269708,0,0" >Сьерра-Леоне</OPTION>
+<OPTION value="23269709,0,0" >Соломоновы Острова</OPTION>
+<OPTION value="23269710,0,0" >Сомали</OPTION>
+<OPTION value="23269713,0,0" >Судан</OPTION>
+<OPTION value="23269715,0,0" >Свазиленд</OPTION>
+<OPTION value="23269716,0,0" >Токелау</OPTION>
+<OPTION value="23269717,0,0" >Тонга</OPTION>
+<OPTION value="23269718,0,0" >Тринидад и Тобаго</OPTION>
+<OPTION value="23269720,0,0" >Тувалу</OPTION>
+<OPTION value="23269721,0,0" >Вануату</OPTION>
+<OPTION value="23269722,0,0" >Уоллис и Футуна</OPTION>
+<OPTION value="23269723,0,0" >Западная Сахара</OPTION>
+<OPTION value="23269724,0,0" >Йемен</OPTION>
+<OPTION value="34851252,0,0" >Пуэрто-Рико</OPTION>
+<OPTION value="297039407,0,0" >Южная Осетия</OPTION>
+<OPTION value="298612880,0,0" >Черногория</OPTION>
+<OPTION value="299282016,0,0" >Центральноафриканская Республика</OPTION>
+<OPTION value="299282017,0,0" >Свальбард и Ян-Майен</OPTION>
+<OPTION value="299282018,0,0" >Аландские острова</OPTION>
+<OPTION value="299282019,0,0" >Косово</OPTION>
+<OPTION value="299282020,0,0" >Майотта</OPTION>
+<OPTION value="299282021,0,0" >Французские Южные Территории</OPTION>
+<OPTION value="299282022,0,0" >Палау</OPTION>
+<OPTION value="299282023,0,0" >Маршалловы о-ва</OPTION>
+<OPTION value="299282024,0,0" >Микронезия</OPTION>
+<OPTION value="299282025,0,0" >Фарерские острова</OPTION>
+<OPTION value="299282026,0,0" >Доминика</OPTION>
+<OPTION value="299282027,0,0" >Монтсеррат</OPTION>
+<OPTION value="299282028,0,0" >Северные Марианские острова</OPTION>
+<OPTION value="299282029,0,0" >Гуам</OPTION>
+<OPTION value="299282030,0,0" >Виргинские о-ва (США)</OPTION>
+<OPTION value="299282031,0,0" >Американское Самоа</OPTION>
+<OPTION value="299282032,0,0" >Палестинские территории</OPTION>
+<OPTION value="299282033,0,0" >Бонайре, Синт-Эстатиус и Саба</OPTION>
+<OPTION value="299282034,0,0" >Южный Судан</OPTION>
+<OPTION value="299282035,0,0" >Абхазия</OPTION>
+
+							</select>
+						</div>
+					</li>
+				
+
+				<li>
+					<label class="srh_tags">Цель знакомства</label>
+					<div><select class="select-control w190" name="purp" data-type="simple">
+						<option value="0">Не имеет значения</option>
+						
+							<OPTION value="1">Дружба</OPTION>
+<OPTION value="2">Романтические отношения</OPTION>
+<OPTION value="128">Создание семьи</OPTION>
+<OPTION value="4096">Свободные отношения</OPTION>
+<OPTION value="64">Совместное путешествие</OPTION>
+
+						
+					</select></div>
+				</li>
+
+				
+					<li>
+						<label class="srh_location">Активность</label>
+						<div><select class="select-control w190" name="online" data-type="simple">
+							<option value="0">Не имеет значения</option>
+							<option value="1">Сейчас онлайн</option>
+							<option value="2">Недавно активные</option>
+						</select></div>
+					</li>
+				
+			</ul>
+
+			<div>
+				
+					<div id="range_age2" class="range range-age2 mb31" data-setting="setup2"></div>
+				
+				<div>
+					
+						<div class="srh_new_face p_rel">
+							<input id="chk_newface" name="newface" type="checkbox" value="1" ><label for="chk_newface">новые пользователи</label>
+
+							
+						</div>
+					
+				</div>
+				<div>
+					
+						<input id="chk_proof" name="proof" type="checkbox" value="1" ><label for="chk_proof">проверенные фото</label>
+					
+				</div>
+				
+				<!-- new_year -->
+				
+				<!-- /new_year -->
+			</div>
+		</div>
+
+		<div class="srh_bottom mt13">
+			
+			<div class="flex ai-center jc-between">
+				<div class="srh_bottom_but">
+					<div id="green">
+						<button class="btn btn-warning btn-big" type="submit" onclick="go('#green').display('none'); go('#go').display('block');" data-gacat="clc_to_search" data-gaact="search_main">Искать</button>
+					</div>
+
+					<div id="go" style="display:none;">
+						<button class="btn btn-outline-secondary btn-big" type="submit" disabled="disabled">Идет поиск ...</button>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</form>
+
+	<div id="ext_storage" style="display:none;">
+	<div id="extblock1">
+		<input type="checkbox" name="sport1" id="SPORT1"><label for="SPORT1">Бег</label><br>
+<input type="checkbox" name="sport2" id="SPORT2"><label for="SPORT2">Ходьба</label><br>
+<input type="checkbox" name="sport3" id="SPORT3"><label for="SPORT3">Фитнес</label><br>
+<input type="checkbox" name="sport4" id="SPORT4"><label for="SPORT4">Плавание</label><br>
+<input type="checkbox" name="sport5" id="SPORT5"><label for="SPORT5">Велосипед</label><br>
+<input type="checkbox" name="sport7" id="SPORT7"><label for="SPORT7">Ролики</label><br>
+<input type="checkbox" name="sport8" id="SPORT8"><label for="SPORT8">Лыжи</label><br>
+<input type="checkbox" name="sport9" id="SPORT9"><label for="SPORT9">Качалка</label><br>
+<input type="checkbox" name="sport10" id="SPORT10"><label for="SPORT10">Экстрим</label><br>
+<input type="checkbox" name="sport11" id="SPORT11"><label for="SPORT11">Единоборства</label><br>
+<input type="checkbox" name="sport12" id="SPORT12"><label for="SPORT12">Йога</label><br>
+<input type="checkbox" name="sport13" id="SPORT13"><label for="SPORT13">Командные игры</label><br>
+<input type="checkbox" name="sport14" id="SPORT14"><label for="SPORT14">Танцы</label><br>
+<input type="checkbox" name="sport16" id="SPORT16"><label for="SPORT16">Футбол</label><br>
+<input type="checkbox" name="sport17" id="SPORT17"><label for="SPORT17">Волейбол</label><br>
+<input type="checkbox" name="sport19" id="SPORT19"><label for="SPORT19">Хоккей</label><br>
+<input type="checkbox" name="sport20" id="SPORT20"><label for="SPORT20">Коньки</label><br>
+<input type="checkbox" name="sport22" id="SPORT22"><label for="SPORT22">Пилатес</label><br>
+<input type="checkbox" name="sport23" id="SPORT23"><label for="SPORT23">Гимнастика</label><br>
+<input type="checkbox" name="sport24" id="SPORT24"><label for="SPORT24">Скалолазание</label><br>
+<input type="checkbox" name="sport25" id="SPORT25"><label for="SPORT25">Стрит воркаут</label><br>
+
+	</div>
+	<div id="extblock2">
+		<input type="checkbox" name="child5" id="CHILD_S5"><label for="CHILD_S5">Детей нет, и не хочет</label><br>
+<input type="checkbox" name="child8" id="CHILD_S8"><label for="CHILD_S8">Детей нет, и ищет без детей</label><br>
+<input type="checkbox" name="child2" id="CHILD_S2"><label for="CHILD_S2">Возможны в будущем</label><br>
+<input type="checkbox" name="child6" id="CHILD_S6"><label for="CHILD_S6">Дети есть, больше не хочет</label><br>
+<input type="checkbox" name="child7" id="CHILD_S7"><label for="CHILD_S7">Дети есть, хочет еще</label><br>
+
+	</div>
+	<div id="extblock3">
+		<input type="checkbox" name="marr1" id="MARR_S1"><label for="MARR_S1">Занят/Занята</label><br>
+<input type="checkbox" name="marr2" id="MARR_S2"><label for="MARR_S2">В браке, живет порознь</label><br>
+<input type="checkbox" name="marr5" id="MARR_S5"><label for="MARR_S5">Свободен/Свободна</label><br>
+
+	</div>
+	<div id="extblock4">
+		<div id="range_height" class="range range-height mb12" data-setting="setup3"></div>
+	</div>
+	<div id="extblock5">
+		<input type="checkbox" name="body1" id="BODY_S1"><label for="BODY_S1">Стройное</label><br>
+<input type="checkbox" name="body3" id="BODY_S3"><label for="BODY_S3">Спортивное</label><br>
+<input type="checkbox" name="body5" id="BODY_S5"><label for="BODY_S5">Есть пара лишних кило</label><br>
+<input type="checkbox" name="body6" id="BODY_S6"><label for="BODY_S6">Полное</label><br>
+
+	</div>
+	<div id="extblock6">
+		<input type="checkbox" name="coloreye1" id="COLOREYE_S1"><label for="COLOREYE_S1">Карие</label><br>
+<input type="checkbox" name="coloreye2" id="COLOREYE_S2"><label for="COLOREYE_S2">Серые</label><br>
+<input type="checkbox" name="coloreye3" id="COLOREYE_S3"><label for="COLOREYE_S3">Голубые</label><br>
+<input type="checkbox" name="coloreye4" id="COLOREYE_S4"><label for="COLOREYE_S4">Зеленые</label><br>
+
+	</div>
+	<div id="extblock7">
+		
+	</div>
+	<div id="extblock8">
+		<input type="checkbox" name="zodiac1" id="ZODIAC_S1"><label for="ZODIAC_S1">Овен</label><br>
+<input type="checkbox" name="zodiac2" id="ZODIAC_S2"><label for="ZODIAC_S2">Телец</label><br>
+<input type="checkbox" name="zodiac3" id="ZODIAC_S3"><label for="ZODIAC_S3">Близнецы</label><br>
+<input type="checkbox" name="zodiac4" id="ZODIAC_S4"><label for="ZODIAC_S4">Рак</label><br>
+<input type="checkbox" name="zodiac5" id="ZODIAC_S5"><label for="ZODIAC_S5">Лев</label><br>
+<input type="checkbox" name="zodiac6" id="ZODIAC_S6"><label for="ZODIAC_S6">Дева</label><br>
+<input type="checkbox" name="zodiac7" id="ZODIAC_S7"><label for="ZODIAC_S7">Весы</label><br>
+<input type="checkbox" name="zodiac8" id="ZODIAC_S8"><label for="ZODIAC_S8">Скорпион</label><br>
+<input type="checkbox" name="zodiac9" id="ZODIAC_S9"><label for="ZODIAC_S9">Стрелец</label><br>
+<input type="checkbox" name="zodiac10" id="ZODIAC_S10"><label for="ZODIAC_S10">Козерог</label><br>
+<input type="checkbox" name="zodiac11" id="ZODIAC_S11"><label for="ZODIAC_S11">Водолей</label><br>
+<input type="checkbox" name="zodiac12" id="ZODIAC_S12"><label for="ZODIAC_S12">Рыбы</label><br>
+
+	</div>
+	<div id="extblock9">
+		
+	</div>
+	<div id="extblock10">
+		<div id="range_weight" class="range range-weight mb12" data-setting="setup2"></div>
+	</div>
+	<div id="extblock11">
+		<input type="checkbox" name="head1" id="HEAD_S1"><label for="HEAD_S1">Блонд</label><br>
+<input type="checkbox" name="head2" id="HEAD_S2"><label for="HEAD_S2">Русые</label><br>
+<input type="checkbox" name="head3" id="HEAD_S3"><label for="HEAD_S3">Шатен</label><br>
+<input type="checkbox" name="head9" id="HEAD_S9"><label for="HEAD_S9">Черные</label><br>
+<input type="checkbox" name="head4" id="HEAD_S4"><label for="HEAD_S4">Рыжие</label><br>
+<input type="checkbox" name="head7" id="HEAD_S7"><label for="HEAD_S7">Седые</label><br>
+<input type="checkbox" name="head6" id="HEAD_S6"><label for="HEAD_S6">Мелированные</label><br>
+<input type="checkbox" name="head8" id="HEAD_S8"><label for="HEAD_S8">Голова бритая наголо</label><br>
+
+	</div>
+	<div id="extblock12">
+		
+	</div>
+	<div id="extblock13">
+		
+	</div>
+	<div id="extblock14">
+		<input type="checkbox" name="tattoo1" id="TATTOO1"><label for="TATTOO1">Пирсинг</label><br>
+<input type="checkbox" name="tattoo2" id="TATTOO2"><label for="TATTOO2">Татуировки</label><br>
+<input type="checkbox" name="tattoo3" id="TATTOO3"><label for="TATTOO3">Шрамы</label><br>
+<input type="checkbox" name="tattoo5" id="TATTOO5"><label for="TATTOO5">Веснушки</label><br>
+
+	</div>
+	<div id="extblock15">
+		<input type="checkbox" name="smoke8" id="SMOKE_S8"><label for="SMOKE_S8">Против курения</label><br>
+<input type="checkbox" name="smoke1" id="SMOKE_S1"><label for="SMOKE_S1">Не курит, но не против</label><br>
+<input type="checkbox" name="smoke5" id="SMOKE_S5"><label for="SMOKE_S5">Иногда курит</label><br>
+<input type="checkbox" name="smoke9" id="SMOKE_S9"><label for="SMOKE_S9">Курит электронные сигареты</label><br>
+<input type="checkbox" name="smoke2" id="SMOKE_S2"><label for="SMOKE_S2">Курит регулярно</label><br>
+
+	</div>
+	<div id="extblock16">
+		<input type="checkbox" name="drink5" id="DRINK_S5"><label for="DRINK_S5">Против алкоголя</label><br>
+<input type="checkbox" name="drink1" id="DRINK_S1"><label for="DRINK_S1">Не пьёт, но не против</label><br>
+<input type="checkbox" name="drink3" id="DRINK_S3"><label for="DRINK_S3">Иногда выпивает</label><br>
+
+	</div>
+	<div id="extblock17">
+		<input type="checkbox" name="finpos2" id="FINPOS_S2"><label for="FINPOS_S2">Хватает только на основное</label><br>
+<input type="checkbox" name="finpos3" id="FINPOS_S3"><label for="FINPOS_S3">Хватает на основное и отдых</label><br>
+<input type="checkbox" name="finpos4" id="FINPOS_S4"><label for="FINPOS_S4">На всё хватает и остаётся</label><br>
+
+	</div>
+	<div id="extblock18">
+		<input type="checkbox" name="carexist1" id="CAREXIST_S1"><label for="CAREXIST_S1">Нет</label><br>
+<input type="checkbox" name="carexist3" id="CAREXIST_S3"><label for="CAREXIST_S3">Есть</label><br>
+
+	</div>
+	<div id="extblock19">
+		<input type="checkbox" name="habit1" id="HABIT_S1"><label for="HABIT_S1">Собственная квартира</label><br>
+<input type="checkbox" name="habit7" id="HABIT_S7"><label for="HABIT_S7">Дом, коттедж</label><br>
+<input type="checkbox" name="habit8" id="HABIT_S8"><label for="HABIT_S8">Снимает квартиру</label><br>
+<input type="checkbox" name="habit9" id="HABIT_S9"><label for="HABIT_S9">Снимает комнату</label><br>
+<input type="checkbox" name="habit3" id="HABIT_S3"><label for="HABIT_S3">Живет у родителей</label><br>
+<input type="checkbox" name="habit10" id="HABIT_S10"><label for="HABIT_S10">Без жилья</label><br>
+
+	</div>
+	<!--div id="extblock20">
+		<select class="select-control w190 mb6" name="slang" data-type="simple" data-firstitem="false">
+			<OPTION value="0">&nbsp;</OPTION>
+<OPTION value="1">Русский</OPTION>
+<OPTION value="2">Английский</OPTION>
+<OPTION value="3">Немецкий</OPTION>
+<OPTION value="4">Французский</OPTION>
+<OPTION value="5">Итальянский</OPTION>
+<OPTION value="6">Испанский</OPTION>
+<OPTION value="7">Португальский</OPTION>
+<OPTION value="8">Украинский</OPTION>
+<OPTION value="9">Иврит</OPTION>
+<OPTION value="10">Арабский</OPTION>
+
+		</select>
+		<select class="select-control w190 mb6 mt6" name="slanglev" data-type="simple" data-firstitem="false">
+			<OPTION value="0">&nbsp;</OPTION>
+<OPTION value="1">начальный</OPTION>
+<OPTION value="2">средний</OPTION>
+<OPTION value="3">продвинутый</OPTION>
+<OPTION value="4">родной</OPTION>
+
+		</select>
+	</div-->
+	<div id="extblock21">
+		<input type="checkbox" name="education2" id="EDUCATION_S2"><label for="EDUCATION_S2">Среднее</label><br>
+<input type="checkbox" name="education3" id="EDUCATION_S3"><label for="EDUCATION_S3">Среднее-специальное</label><br>
+<input type="checkbox" name="education4" id="EDUCATION_S4"><label for="EDUCATION_S4">Студент(-ка)</label><br>
+<input type="checkbox" name="education5" id="EDUCATION_S5"><label for="EDUCATION_S5">Неполное высшее</label><br>
+<input type="checkbox" name="education6" id="EDUCATION_S6"><label for="EDUCATION_S6">Высшее</label><br>
+<input type="checkbox" name="education8" id="EDUCATION_S8"><label for="EDUCATION_S8">Несколько высших</label><br>
+
+	</div>
+	<!--div id="extblock22">
+		<input type="checkbox" name="couple1" id="COUPLE_S1"><label for="COUPLE_S1">М+Ж</label><br>
+<input type="checkbox" name="couple2" id="COUPLE_S2"><label for="COUPLE_S2">М+М</label><br>
+<input type="checkbox" name="couple3" id="COUPLE_S3"><label for="COUPLE_S3">Ж+Ж</label><br>
+
+	</div-->
+	<!--div id="extblock23">
+		<input type="checkbox" name="m_couple1" id="M_COUPLE1"><label for="M_COUPLE1">М+Ж</label><br>
+<input type="checkbox" name="m_couple2" id="M_COUPLE2"><label for="M_COUPLE2">М+М</label><br>
+<input type="checkbox" name="m_couple3" id="M_COUPLE3"><label for="M_COUPLE3">Ж+Ж</label><br>
+
+	</div-->
+	<!--div id="extblock24">
+		
+	</div-->
+	<!--div id="extblock25">
+		<input type="checkbox" name="orient1" id="ORIENT_S1"><label for="ORIENT_S1">Гетеро</label><br>
+<input type="checkbox" name="orient4" id="ORIENT_S4"><label for="ORIENT_S4">В поиске себя</label><br>
+<input type="checkbox" name="orient2" id="ORIENT_S2"><label for="ORIENT_S2">Би</label><br>
+<input type="checkbox" name="orient3" id="ORIENT_S3"><label for="ORIENT_S3">Гей/Лесби</label><br>
+
+	</div-->
+	<!--div id="extblock26">
+		
+	</div-->
+	<!--div id="extblock27">
+		
+	</div-->
+	<!--div id="extblock28">
+		
+	</div-->
+	<!--div id="extblock29">
+		
+	</div-->
+	<!--div id="extblock30">
+		
+	</div-->
+	<!--div id="extblock31">
+		
+	</div-->
+	<div id="extblock32">
+		<input type="checkbox" name="pets3" id="PETS_S3"><label for="PETS_S3">Собака</label><br>
+<input type="checkbox" name="pets2" id="PETS_S2"><label for="PETS_S2">Кошка</label><br>
+<input type="checkbox" name="pets5" id="PETS_S5"><label for="PETS_S5">Нет</label><br>
+<input type="checkbox" name="pets6" id="PETS_S6"><label for="PETS_S6">Нет, и не хочет</label><br>
+<input type="checkbox" name="pets1" id="PETS_S1"><label for="PETS_S1">Да, много разных</label><br>
+
+	</div>
+	<div id="extblock33">
+		<input type="checkbox" name="flang1" id="FLANG1"><label for="FLANG1">Русский</label><br>
+<input type="checkbox" name="flang8" id="FLANG8"><label for="FLANG8">Украинский</label><br>
+<input type="checkbox" name="flang2" id="FLANG2"><label for="FLANG2">Английский</label><br>
+<input type="checkbox" name="flang3" id="FLANG3"><label for="FLANG3">Немецкий</label><br>
+<input type="checkbox" name="flang4" id="FLANG4"><label for="FLANG4">Французский</label><br>
+<input type="checkbox" name="flang5" id="FLANG5"><label for="FLANG5">Итальянский</label><br>
+<input type="checkbox" name="flang6" id="FLANG6"><label for="FLANG6">Испанский</label><br>
+<input type="checkbox" name="flang7" id="FLANG7"><label for="FLANG7">Португальский</label><br>
+<input type="checkbox" name="flang10" id="FLANG10"><label for="FLANG10">Арабский</label><br>
+<input type="checkbox" name="flang9" id="FLANG9"><label for="FLANG9">Иврит</label><br>
+<input type="checkbox" name="flang11" id="FLANG11"><label for="FLANG11">Корейский</label><br>
+<input type="checkbox" name="flang12" id="FLANG12"><label for="FLANG12">Китайский</label><br>
+<input type="checkbox" name="flang13" id="FLANG13"><label for="FLANG13">Нидерландский</label><br>
+<input type="checkbox" name="flang14" id="FLANG14"><label for="FLANG14">Индонезийский</label><br>
+<input type="checkbox" name="flang15" id="FLANG15"><label for="FLANG15">Японский</label><br>
+<input type="checkbox" name="flang16" id="FLANG16"><label for="FLANG16">Шведский</label><br>
+<input type="checkbox" name="flang17" id="FLANG17"><label for="FLANG17">Тайский</label><br>
+<input type="checkbox" name="flang18" id="FLANG18"><label for="FLANG18">Вьетнамский</label><br>
+<input type="checkbox" name="flang20" id="FLANG20"><label for="FLANG20">Турецкий</label><br>
+<input type="checkbox" name="flang19" id="FLANG19"><label for="FLANG19">Хинди</label><br>
+
+	</div>
+
+</div>
+
+<script>
+	const tagContainer = go('#tag-container')[0] || null;
+	if (tagContainer) {
+		Controll.controllSearchTags(tagContainer, go('#tag-drop-down')[0], go('#tags-string')[0]);
+	}
+
+	const setting = {
+		setup1: {
+			slider: go('#range_age1'),
+			width: 190,
+			start: [parseInt("16") || 25, parseInt("30") || 35],
+			range: { min: 18, max: 99 },
+			index: ['bage', 'tage'],
+			title: 'Возраст',
+		},
+		setup2: {
+			slider: go('#range_age2'),
+			width: 230,
+			start: [parseInt("16") || 25, parseInt("30") || 35],
+			range: { min: 18, max: 99 },
+			index: ['bage', 'tage'],
+			title: 'Возраст',
+		},
+		setup3: {
+			slider: go('#range_weight'),
+			width: 186,
+			start: [parseInt("") || 45, parseInt("") || 65],
+			range: { min: 40, max: 150 },
+			index: ['weight_fr', 'weight_to'],
+			title: 'Вес',
+		},
+		setup4: {
+			slider: go('#range_height'),
+			width: 186,
+			start: [parseInt("") || 150, parseInt("") || 170],
+			range: { min: 140, max: 220 },
+			index: ['height_fr', 'height_to'],
+			title: 'Рост',
+		},
+	};
+	for (let setup in setting) {
+		Controll.controllSlider(setting[setup]);
+	}
+
+	function ext_open(){
+		go("#expsearch_form, #expsearch_close").display('block');
+		go("#expsearch_open").display('none');
+		var es = go().byname("expsearch")[0];
+		if (es.value) es.disabled = false;
+	}
+	function ext_close(){
+		go("#expsearch_open").display('block');
+		go("#expsearch_close, #expsearch_form").display('none');
+		go().byname("expsearch")[0].disabled = true;
+	}
+
+	;(function(){
+		var ext_mass = [
+			// {name:'Знание языков', value:'extblock20'},
+			{name:'Знание языков', value:'extblock33'},
+			{name:'Вес', value:'extblock10'},
+			{name:'Рост', value:'extblock4'},
+			{name:'Отношения', value:'extblock3'},
+			{name:'Есть ли дети', value:'extblock2'},
+			{name:'Образование', value:'extblock21'},
+			{name:'С материальным положением', value:'extblock17'},
+			{name:'Отношение к курению', value:'extblock15'},
+			{name:'Отношение к алкоголю', value:'extblock16'},
+			{name:'Со знаком Зодиака', value:'extblock8'},
+			//{name:'Режим дня', value:'extblock9'},
+			{name:'Телосложение', value:'extblock5'},
+			{name:'С цветом глаз', value:'extblock6'},
+			{name:'С волосами на голове', value:'extblock11'},
+			{name:'На теле есть', value:'extblock14'},
+			//{name:'Материальная поддержка', value:'extblock24'},
+			{name:'Наличие автомобиля', value:'extblock18'},
+			{name:'Есть домашние животные', value:'extblock32'},
+			{name:'Спорт', value:'extblock1'},
+			{name:'Жилищные условия', value:'extblock19'},
+			// {name:'Ориентация', value:'extblock25'},
+			// {name:'Знакомится как пара', value:'extblock22'},
+			// {name:'Ищет пару', value:'extblock23'}
+			// {name:'Роль в сексе', value:'extblock26'},
+			// {name:'Нравится в сексе', value:'extblock27'},
+			// {name:'Оральный секс', value:'extblock28'},
+			// {name:'Групповой секс', value:'extblock29'},
+			// {name:'БДСМ', value:'extblock30'},
+			// {name:'Фетиш', value:'extblock31'}
+		],
+
+		ext_select = go('#ext_select1, #ext_select2, #ext_select3'),
+
+		ext_select_option = function(th){
+			var ext_value = "";
+			ext_select.each(function(sel){
+				var oval = this.value;
+				if (oval != "0") ext_value += oval + "_";
+				if (sel == this) return;
+				this.options.length = 1;
+				for (var i = 0; i < ext_mass.length; i++) {
+					var f = 0;
+					for (var v = 0; v < ext_select.length; v++) {
+						if (ext_select[v].value == ext_mass[i].value) {
+							f = 1; break;
+						}
+					}
+					if (!f) {
+						this.options[this.options.length] = new Option(ext_mass[i].name, ext_mass[i].value, false, (ext_mass[i].value == oval));
+					}
+				}
+			}, th);
+
+			var es = go().byname("expsearch")[0];
+			es.disabled = !ext_value;
+			es.value = ext_value;
+			go("#ext_storage [name]").each(function(){
+				this.disabled = true;
+			});
+		},
+
+		ext_select_change = function(){
+			var id = '#' + this.getAttribute("data-targid");
+			go("#ext_storage").append(go(id + ' > *'));
+
+			ext_select_option(this);
+
+			if (this.value && this.value != "0") {
+				go(id).append(go('#' + this.value));
+				go('#'+this.value +' [name]').each(function(){
+					this.disabled = false;
+					Controll.controllRefrash();
+				});
+			}
+		};
+
+		var ext_value = go().byname("expsearch")[0].value;
+		if (ext_value) {
+			ext_value = ext_value.split("_");
+			ext_open();
+		} else {
+			ext_close();
+		}
+
+		ext_select_option(null);
+
+		for (var i = 0; i < ext_select.length; i++) {
+			if (ext_value[i]) {
+				ext_select[i].value = ext_value[i];
+				ext_select_change.call(ext_select[i]);
+			}
+		}
+
+		ext_select.bind('change', ext_select_change);
+		xinput.init(go("#search_panel"));
+	})();
+</script>
+
+</div>
+<!--/noindex-->
+
+
+	
+</div>
+
+
+
+	<div id="searchajax" data-targid="searchajax">
+	<ul class="flex reset buser_list">
+		
+			
+			<li class="rds13" itemscope itemtype="https://schema.org/Person">
+				<div class="bbox rds10 p19b14">
+					<div class="p_rel buser_photo fl">
+						<div class="flex ai-center buser-photo-row p_abs">
+							
+							
+						</div>
+						<span class="img_clr">
+							<a href="/page/92090d732e96/frl-2" target="_blank" itemprop="url"><img src="https://pics.loveplanet.ru/16/foto/f7/98/f7983b04/eIVb~xg==_.jpg?p=aBgqojwYOqItU_" alt='Hi&#44; 18 лет&#44; พัทยา' itemprop="image"></a>
+						</span>
+					</div>
+
+					<div class="buser_usinfo fr">
+						<div class="buser_usheight ovh">
+							<div class="to_els"><a class="buser_usname" href="/page/92090d732e96/frl-2" target="_blank"><span itemprop="name"><b>Hi</b></span></a></div>
+							<div itemprop="description">
+								<div class="to_els">18 лет, <span class="horoscope">Рыбы</span></div>
+								<div class="mb3 to_els">พัทยา</div>
+							</div>
+							
+
+							
+
+							<div class="to_els last_visit_row pt3">
+
+	
+	
+	
+		
+		<div class="online green_14">
+			
+				<a href="/a-phoneapp" target="_blank" title="Мобильное приложение" onclick="evproc.ga('Mobile', 'promo_openpage_search', 'Промостраница приложений с поиска');"><i class="icon-css android"></i>Онлайн</a>
+			
+		</div>
+		
+</div>
+
+						</div>
+						
+							<a class="btn btn-light btn-sm" href="/a-message/login-92090d732e96" target="_blank" >Написать</a>
+						
+					</div>
+					<div class="cb"></div>
+				</div>
+			</li>
+		
+			
+			<li class="rds13" itemscope itemtype="https://schema.org/Person">
+				<div class="bbox rds10 p19b14">
+					<div class="p_rel buser_photo fl">
+						<div class="flex ai-center buser-photo-row p_abs">
+							
+							
+						</div>
+						<span class="img_clr">
+							<a href="/page/451bd49edcda/frl-2" target="_blank" itemprop="url"><img src="https://pics.loveplanet.ru/5/foto/4e/8d/4e8d105a/e933qfw==_.jpg?p=avCG9NrwlvTLu_" alt='Привет&#44; 18 лет&#44; Алматы' itemprop="image"></a>
+						</span>
+					</div>
+
+					<div class="buser_usinfo fr">
+						<div class="buser_usheight ovh">
+							<div class="to_els"><a class="buser_usname" href="/page/451bd49edcda/frl-2" target="_blank"><span itemprop="name"><b>Привет</b></span></a></div>
+							<div itemprop="description">
+								<div class="to_els">18 лет, <span class="horoscope">Рыбы</span></div>
+								<div class="mb3 to_els">Алматы</div>
+							</div>
+							
+
+							
+
+							<div class="to_els last_visit_row pt3">
+
+	
+	
+	
+	<span class="online green_14">Недавно активные</span>
+</div>
+
+						</div>
+						
+							<a class="btn btn-light btn-sm" href="/a-message/login-451bd49edcda" target="_blank" >Написать</a>
+						
+					</div>
+					<div class="cb"></div>
+				</div>
+			</li>
+		
+			
+	</ul>
+	<div class="cb"></div>
+</div>
+
+
+
+	
+
+	<div class="ta_center mt15 mb20">
+	
+		
+		<a class="btn btn-outline-secondary btn-big" href="/a-search/d-1">Найти больше анкет</a>
+	
+	</div>
+
+
+	
+		
+	
+			
+		
+	
+			<div class="bbox p19t13b15 rds10 secret_seotext">
+				Вас приветствует сайт знакомств для геев и бисексуалов "love.xgay.info", который помогает геям и бисексуалам находить друг друга! Гей знакомства на xgay.info - лучший способ найти друга, любовника, мужа для секса, создания семьи или просто проведения досуга.
+			</div>
+	
+
+<div class="cb"></div>
+
+
+
+	
+
+	
+
+
+			</div>
+		<!--/col_center-->
+
+		<!--col_right-->
+		<div class="col_right">
+	
+	
+	
+	
+	<div class="bann_5 mb20"></div>
+
+
+
+<script>
+	go(".col_right a[href*='/a-register']").bind("click", function(){evproc.fb('reg_click_banner_right'); return true;});
+</script>
+		</div>
+		<!--/col_right-->
+		<div class="cb"></div>
+	</div>
+	
+		<div class="footer_clr"></div>
+	
+</div>
+
+
+
+<script type="text/javascript">
+;(function(w){
+	if(typeof restricted != 'undefined') restricted.link_scan();
+	if(typeof content != 'undefined') content.init(document);
+
+	actions.register({
+	
+		like_delete: function(login) {
+			go("#sitm_"+login).cstyle({opacity: 0.3});
+			(new transfer(function(){
+				go("#sitm_"+login).remove();
+				scroller.refresh();
+			})).send("/api/a-likes/login-"+login+"/likes-2");
+		},
+		like_stage: function(login,btn){
+			btn = go(btn, this);
+			go("[data-stage]", this).bind("click", function(){
+				var stage = this.dataset.stage;
+				btn.display('none');
+				if (stage == 0) {
+					btn.id('likes').display('block');
+					return false;
+				} else {
+					if(stage == 2){
+						btn.id('likes_no').display('block');
+						for(var h in content.histelm) go("#sitm_"+login, content.histelm[h]).remove();
+					} else {
+						btn.id('likes_yes').display('block');
+					}
+
+					(new transfer(function(data){
+						if(stage == 1 || stage == 3){
+							if(data.usr_like == 1 || data.usr_like == 3){
+								btn.display('none');
+								btn.id('likes_mut').display('block');
+							}
+						}
+					},function(data){
+						btn.display('none');
+						btn.id('likes').display('block');
+						if (data.errno == 8) location.href = "/a-elite";
+						if (data.errno == 15) content.process("/a-showpage/name-alert", "modal", "window", {msg: data.error});
+					})).jssend('/api/a-likes?login='+login+'&likes='+this.dataset.stage);
+					return false;
+				}
+			});
+		},
+		list_stage: function(login,fav_btn,blk_btn){
+			var curr, lists = {
+				fav: {stor: "favorlist", on: "/api/a-mapi/fav-", off: "/api/a-mapi/res-", btn: go(fav_btn, this)},
+				blk: {stor: "blacklist", on: "/api/a-mapi/blk-", off: "/api/a-mapi/res-", btn: go(blk_btn, this)}
+			},
+			refresh = function(){
+				var f = ((exchange.storage.get(lists.fav.stor) || []).indexOf(login) != -1);
+				lists.fav.btn.id("favorlist_to").display(f? 'none' : '');
+				lists.fav.btn.id("favorlist_in").display(f? '' : 'none');
+
+				f = ((exchange.storage.get(lists.blk.stor) || []).indexOf(login) != -1);
+				lists.blk.btn.id("blacklist_to").display(f? 'none' : '');
+				lists.blk.btn.id("blacklist_in").display(f? '' : 'none');
+			};
+			go("[data-stage]", this).bind("click", function(){
+				var stage = this.dataset.stage;
+				if (stage == "fav") curr = lists.fav;
+				if (stage == "blk") curr = lists.blk;
+				if (curr) {
+					var d = exchange.storage.get(curr.stor) || [], idx = d.indexOf(login), url;
+					if (idx == -1) {
+						d.push(login);
+						url = curr.on;
+					} else {
+						d.splice(idx,1);
+						url = curr.off;
+					}
+					(new transfer(function(){
+						exchange.storage.set(curr.stor, d);
+						refresh();
+					})).send(url+login);
+					return false;
+				}
+			});
+			refresh();
+		}
+	});
+	actions.process(document);
+
+	set_showid_handlers();
+	set_closeid_handlers();
+
+	title_override(document);
+
+	xinput.init();
+
+	var loaded = [];
+	w.scroller = body_scroll(document, {
+		block: "#scroll_content",
+		off: "non",
+		onscroll: function(e){
+			if (e.scrollTop + e.clientHeight >= e.scrollHeight - e.clientHeight) {
+				var shift = go('#scroll_shift');
+				if (!shift.length || !shift[0].value) return;
+
+				var uri = shift[0].value.split(/\?|\/\?/)[0], num = uri.match(/\/p-([0-9]*)/)[1] || 0;
+				if (num == 1) {
+					loaded = [];
+					for(let id of go("#scroll_content [data-id]").get("dataset").get("id")) {
+						loaded.push(id);
+					}
+				}
+				shift.remove();
+				if (uri.indexOf("a-search")) {
+					evproc.fb('page_view_search', {page_num: num});
+				}
+
+				content.process(uri+"/popup", 'col_center', 'scroll', null, null, null, function(){
+					go("#scroll_content .empty").remove();
+					for(let id of go("[data-id]", this).get("dataset").get("id")) {
+						if (loaded.includes(id)) go("#"+id, this).remove();
+						else loaded.push(id);
+					}
+					// xinput.init(this);
+					actions.process(this);
+				});
+			}
+		}
+	});
+
+	go([document,window]).bind('resize', function(){
+		w.scroller.refresh();
+	});
+
+	go(document).bind("scroll", function(){
+		if ((document.documentElement || document.body).scrollTop > 1950) go("#top-btn").removeClass("non");
+		else go("#top-btn").addClass("non");
+	});
+
+	go("[data-gacat]").each(function(){
+		go(this).bind("click", function(){
+			evproc.ga(this.getAttribute("data-gacat"), this.getAttribute("data-gaact"));
+		});
+	});
+
+	var ah = (getcookie("affiliate_hist") || "").split(";");
+	if (ah.length) {
+		if (!ah[ah.length -1]) ah.pop();
+		if (ah.length) {
+			var tm = (new Date()).getUnixtime(), lst = parseInt(ah[ah.length -1].split(",")[0]),
+			stor = new storage(), etm = parseInt(stor.get("visit_status") || 0);
+			if (etm != lst && tm - lst < 60*20) {
+				evproc.fb("visit_status", {
+					cookie_exist: (ah.length > 1),
+					amp: (!!~location.search.search("from=amp"))
+				});
+				stor.set("visit_status", lst);
+			}
+		}
+	}
+
+	for (var s of [ ]) {
+		evproc.fb('server_split', s);
+	}
+})(window);
+
+
+
+
+
+
+
+
+
+</script>
+
+
+
+
+
+	<script type="text/javascript">
+;(function(showpopup){
+
+	var cityname = getcookie("srchcityname");
+	var pol = getcookie("srchpol");
+
+	var namesm = [
+		"Розенкрейцер, 39", "Максим, 28", "Артем, 29", "Руслан, 37", "Александр, 29",
+		"Влад, 37", "Александр, 30", "Илья, 28", "Алексей, 31", "Сергей, 37",
+		"Антон, 29", "Сёма, 26", "Стас, 30", "Павел, 29", "Виктор, 35", "Валера, 33",
+		"Александр, 26", "Александр, 26", "Андрей, 27", "Константин, 31", "Сергей, 35",
+		"Дмитрий, 37", "Михаил, 29", "Борис, 34", "Андрей, 36", "Игорь, 32", "Акм, 32",
+		"Sergey, 31", "Артём, 26", "Юрий, 35", "Джек, 32", "Роман, 31", "vladislav, 28",
+		"ДЭН, 37", "Влад, 27", "Vadim, 34", "Андрей, 39", "Артур, 31", "Эдуард, 36",
+		"Иван, 28", "Александр, 30", "Иван, 27", "Алексей, 29", "Алексей, 31", "Евгений, 28",
+		"Sergey, 29", "Андрей, 26", "Александр, 29", "Родион, 28", "Алекс, 28"
+	];
+
+	var namesw = [
+		"Марина, 28", "Ольга, 28", "Леночка, 30", "Алена, 22", "Кристина, 27", "Ольга, 28",
+		"Анютка, 22", "Наталья, 26", "Яна, 27", "Лада, 26", "Илона, 22", "Alias, 31",
+		"Софья, 23", "Инна, 27", "Мария, 24", "Мelena, 33", "Анна, 24", "Татьяна, 34",
+		"Александра, 23", "Алина, 26", "Карина, 26", "Анастасия, 36", "Валерия, 27",
+		"Настенька, 30", "Olya13, 26", "Tania, 27", "Светлана, 35", "Ольга, 29",
+		"Irrrok, 23", "kamilla, 28", "Maya, 37", "Анастасия, 27", "Марина, 29",
+		"Annnn, 27", "Екатерина, 30", "Катюшка, 28", "Black N., 25", "Майя, 24",
+		"Дарья, 29", "Елена, 36", "Julia_happy, 26", "Вера, 25", "Анастасия, 35",
+		"Виктория, 29", "Екатерина, 24", "life, 28", "Юлия, 28", "Маргарита, 39",
+		"Елизавета, 27", "Анастасия, 33"
+	];
+
+	if (!pol) pol = Math.floor(Math.random() * 2) + 1;
+
+	var timeout = 15000;
+
+	var popupshow = function(){
+		setTimeout(function(){
+			content.process('/a-showpage/name-register_v2', "modal", "window");
+		}, 8000);
+	};
+
+	var newusershow = function(){
+		var data = (pol == 1)? namesm : namesw, pi = Math.floor(Math.random() * data.length),
+		name = data[pi];
+
+		setTimeout(function(){
+			if (!location.pathname.search("/a-register")) return;
+
+			notify.show("tmpl_freshreguser_popup",{
+				id: "fresh_usr_popup",
+				name: name,
+				city: cityname,
+				pol: pol,
+				image: "//pics.loveplanet.ru/css/3/imgstc/photo_justreg/" + (pol == 2? "women" : "men") + "/" + (pi + 1) + ".png",
+				url: "/a-register"
+			});
+
+			timeout = Math.floor(Math.random() * 12000) + 8000;
+			newusershow();
+		}, timeout);
+	};
+
+	if(showpopup){
+		popupshow();
+	}else{
+		newusershow();
+	}
+
+})(0);
+</script>
+
+
+
+<!--footer-->
+
+
+
+	<div class="footer">
+
+
+	<div class="wrap">
+		
+			<div class="flex">
+	<div>
+		Создание и поддержка LovePlanet. Всего пользователей: <a href="/a-search/d-1" class="fbold blue_bm">52&#44;092&#44;953</a>, новых: <a href="/a-search/d-1/newface-1" class="fbold blue_bm">24&#44;721</a>, онлайн: <a href="/a-search/d-1/online-1" class="fbold blue_bm">25&#44;321</a>
+		<ul class="reset flex footer_link_rules">
+			<li><a href="/a-support_search">Служба поддержки</a></li>
+			<li>
+	Язык:
+	<span class="lang-selection">
+		<span class="lang-sel lang-ru" data-lng="ru">Русский</span>
+		
+		
+		
+		
+		
+
+		<div class="lang-sel-box">
+			<ul class="reset lang-sel-list" id="language">
+				<li><span class="lang-sel lang-ru" data-lng="ru">Русский</span></li>
+				<li><span class="lang-sel lang-en" data-lng="en">English</span></li>
+				<li><span class="lang-sel lang-it" data-lng="it">Italiano</span></li>
+				<li><span class="lang-sel lang-tr" data-lng="tr">Türkçe</span></li>
+				<li><span class="lang-sel lang-es" data-lng="es">Español</span></li>
+				<li><span class="lang-sel lang-zh" data-lng="zh">汉语</span></li>
+			</ul>
+		</div>
+	</span>
+	<script>
+		var curr = go(".lang-selection [data-lng]").attr("data-lng")[0];
+		go("#language").append(go('#language [data-lng="'+curr+'"]')[0].parentNode);
+		go("#language [data-lng]").bind("click", function(){
+			if (exchange.storage) exchange.storage.clear();
+			setcookie("lang", this.getAttribute("data-lng"), 10);
+			location.reload();
+		});
+	</script>
+</li>
+
+		</ul>
+
+		<ul class="reset flex footer_link">
+			<li><a href="/documents">Документы и контакты</a></li>
+			<li><a href="/about">О нас. ИТ-деятельность</a></li>
+			
+	<li>
+	
+		Сайт знакомств <a href="https://lp-partners.ru/" target="_blank">https://loveplanet.ru</a> партнерская программа
+	
+	</li>
+
+
+			<li><a href="https://podbor.ru" target="_blank" rel="noopener">знакомства для серьезных отношений</a></li>
+			<li><a href="/a-freeadds">Ссылки</a></li>
+		</ul>
+
+		
+	</div>
+
+	<div class="footer_age"></div>
+</div>
+
+		
+	</div>
+</div>
+
+<div class="bg_white">
+	<div class="wrap ovh ta_center">
+		
+	
+	<center>
+<script language="JavaScript"> var loc = ''; </script>
+<script language="JavaScript1.4">try{ var loc = escape(top.location.href); }catch(e){;}</script>
+<script language="JavaScript">
+var userid = 111357241; var page = 1;
+var rndnum = Math.round(Math.random() * 999111);
+document.write('<iframe src="http://ad4.bannerbank.ru/bb.cgi?cmd=ad&hreftarget=_blank&pubid=' + userid + '&pg=' + page + '&vbn=727&w=728&h=90&num=1&r=ssi&ssi=nofillers&r=ssi&nocache=' + rndnum + '&ref=' + escape(document.referrer) + '&loc=' + loc + '" frameborder=0 vspace=0 hspace=0 width=728 height=90 marginwidth=0 marginheight=0 scrolling=no>');
+document.write('<a href="http://ad4.bannerbank.ru/bb.cgi?cmd=go&pubid=' + userid + '&pg=' + page + '&vbn=727&num=1&w=728&h=90&nocache=' + rndnum + '&loc=' + loc + '&ref=' + escape(document.referrer) + '" target="_blank">');
+document.write('<img src="http://ad4.bannerbank.ru/bb.cgi?cmd=ad&pubid=' + userid + '&pg=' + page + '&vbn=727&num=1&w=728&h=90&nocache=' + rndnum + '&ref=' + escape(document.referrer) + '&loc=' + loc + '" width=728 height=90 Alt="b4g" border=0></a></iframe>');
+</script>
+<br><font size=1><a href="http://rs.gej.ru/" target = "_top">Рекламная сеть GEJ.RU </a></font>
+<p></p><p><hr width="570"></p>
+<p><strong>Ссылки:</strong> [<a href="http://gej.ru/">гей сайт</a>] [<a href="http://gej.ru/chat.php">гей чат</a>] [<a href="http://lesbi.name/">лесбиянки</a>][<a href="http://xgay.info/">гей знакомства</a>]</p>
+<p><hr width="570"></p><p></p><table border="0" cellspacing="1" cellpadding="0"><tr><td><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1001256"'+
+' target=_top><img src="http://d7.c4.bf.a0.top.list.ru/counter'+
+'?id=1001256;t=178;js='+js+a+';rand='+Math.random()+
+'" alt="???????@Mail.ru"'+' border=0 height=15 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a target=_top href="http://top.mail.ru/jump?from=1001256"><img src="http://d7.c4.bf.a0.top.list.ru/counter?js=na;id=1001256;t=178" border=0 height=15 width=88 /></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><script language="JavaScript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t25.11;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" title="LiveInternet: ???????? ????? ??????????? ?? ??????\?" '+
+'border=0 width=88 height=15></a>')//--></script><a href="http://www.bigmir.net/" target=_blank onClick='img = new Image();img.src="http://www.bigmir.net/?cl=123550";' ><script language="javascript"><!--
+bmQ='<img src=http://c.bigmir.net/?s123550&t39'
+bmD=document
+bmD.cookie="b=b"
+if(bmD.cookie)bmQ+='&c1'
+//--></script><script language="javascript1.2"><!-- 
+bmS=screen;bmQ+='&d'+(bmS.colorDepth?bmS.colorDepth:bmS.pixelDepth)+"&r"+bmS.width;
+//--></script><script language="javascript"><!--
+bmF = bmD.referrer.slice(7);
+((bmI=bmF.indexOf('/'))!=-1)?(bmF=bmF.substring(0,bmI)):(bmI=bmF.length);
+if(bmF!=window.location.href.substring(7,7+bmI))bmQ+='&f'+escape(bmD.referrer);
+bmD.write(bmQ+" border=0 width=160 height=19 alt='bigmir TOP100'>");
+//--></script></a></td></tr></table>
+</center>
+
+
+	</div>
+</div>
+<!--/footer-->
+
+<span class="icon_up"></span>
+<div class="cookies_row">
+	<div class="flex wrap">
+		<div class="cookies_text">
+			Мы используем файлы cookies для улучшения навигации пользователей и сбора сведений о посещаемости сайта. Работая с этим сайтом, вы даете согласие на использование cookies.
+		</div>
+		<div class="flex cookies_btn_row">
+			<span class="btn btn-primary btn-sm">Ok</span>
+			<a href="/cookies" class="btn btn-light btn-sm" target="_blank">Подробнее</a>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- VK retargeting -->
+<script>!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?173',t.onload=function(){VK.Retargeting.Init("VK-RTRG-104627-9J53J"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-104627-9J53J" style="position:fixed; left:-999px;" alt=""></noscript>
+
+<!-- Top.Mail.Ru counter -->
+<script>
+if (window.evproc) evproc.param("mrid", 3563737);
+
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3563737", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+	if (d.getElementById(id)) return;
+	var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+	ts.src = "https://top-fwz1.mail.ru/js/code.js";
+	var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+	if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3563737;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru"></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+
+
+
+
+</body>
+</html>
+
+<!-- 
+time=0.224832
+hostip=m03
+revision=2026-02-16
+revision_tmpl=2026-02-16
+-->

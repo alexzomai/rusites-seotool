@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="ru-ru" dir="ltr">
+	<head>
+		<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes"/>
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="apple-mobile-web-app-capable" content="YES" />-->
+		<base href="https://4x4shop.ru/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="4x4shop" />
+	<title>4x4-shop.ru - Главная</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"bbb07fc250135799ab1a54eec454d28d","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?c33c88a453225550869837012703301b" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+        <link href="/templates/4x4shop/css/template.css" rel="stylesheet" type="text/css" />
+        <script src="/templates/4x4shop/js/script.js" type="text/javascript"></script>
+        <meta name="cmsmagazine" content="2a8ba3ac1abf6f564a6f142e1fcbb62c" />
+	
+	
+	</head>
+	<body>
+
+	
+	<div id="view">
+        <header>
+        	<a id="logo" href="/" title="4x4Shop"><img src="/templates/4x4shop/images/4x4logo.png" /></a>
+            <div id="mod-top-menu"><ul class="nav menu">
+<li class="item-296"><a href="/o-magazine.html" >О магазине</a></li><li class="item-297"><a href="/kak-kupit.html" >Как купить</a></li><li class="item-298"><a href="/dostavka-i-oplata.html" >Доставка Оплата Гарантия</a></li><li class="item-299"><a href="http://www.karaed.ru" target="_blank" rel="noopener noreferrer">OffRoad</a></li><li class="item-300"><a href="/kontakty.html" >Контакты</a></li></ul>
+</div>
+            <div id="modeJob">Принимаем заказы<br/>
+Пн. - Пт. с 10.00 - 19.00<br/>
+Сб - Вс - выходной.</div>
+            <div id="phones">+7 (495) 507-4533<br/>
++7 (495) 507-7686<br/>
++7 (925) 500-9817</div>
+            <div id="mod-relations"></div>
+            <div id="mod-basket"><div id="titlebasket"><span>КОРЗИНА :(</span></div>
+<div id="emptybasket">Советуем, по-хорошему положить сюда товар :)</div>    <div class="hidden-info">
+    <a href="/korzina.html"><div id="infobasket">В корзине: <b class="qty">0</b><br/>На сумму: <b class="total">0</b> P.</div><div id="productBasket">0</div></a>
+    </div>
+</div>
+            <div id="mod-login"><a id="profile" title="Регистрация" href="#" onclick="getEvent('registration')">
+	<div class="title">Регистрация</div>
+	<div class="description">получи преимущества</div>
+</a>
+<a id="login" title="Войти" href="#" onclick="getEvent('login')">
+	<div class="title">Войти</div>
+	<div class="description">личный кабинет</div>
+</a>
+</div>
+		</header>
+        <div id="mod-center-menu"><div id="menu-link">
+	<div id="block-catalog">
+        <a id="catalog" href="/" title="Каталог товаров" onclick="return false">
+            <div id="arrow"></div>
+            <div class="title">Каталог товаров</div>
+            <div class="description">все для вседорожников</div>
+        </a>
+        <div id="list-catalog">
+            <table><tr><td valign="top" width="25%"><a href="/atv.html" title="ATV ТОВАРЫ ДЛЯ КВАДРОЦИКЛОВ">ATV ТОВАРЫ ДЛЯ КВАДРОЦИКЛОВ</a><a href="/toyota-lc70.html" title="АВТОЗАПЧАСТИ">АВТОЗАПЧАСТИ</a><a href="/avtokholodilniki.html" title="АВТОХОЛОДИЛЬНИКИ">АВТОХОЛОДИЛЬНИКИ</a><a href="/akkumulyatory.html" title="АККУМУЛЯТОРЫ">АККУМУЛЯТОРЫ</a><a href="/bagazhniki-ekspeditsionnye.html" title="БАГАЖНИКИ и ЛЕСЕНКИ">БАГАЖНИКИ и ЛЕСЕНКИ</a><a href="/bagazhnye-boksy-ekspeditsionnye.html" title="БАГАЖНЫЕ БОКСЫ и КОФРЫ">БАГАЖНЫЕ БОКСЫ и КОФРЫ</a><a href="/bampery-silovye.html" title="БАМПЕРЫ и ЗАЩИТЫ">БАМПЕРЫ и ЗАЩИТЫ</a><a href="/blokirovki.html" title="БЛОКИРОВКИ">БЛОКИРОВКИ</a><a href="/bodilift.html" title="БОДИЛИФТ">БОДИЛИФТ</a><a href="/2019-05-30-11-31-20.html" title="ВЕЛОБАГАЖНИКИ">ВЕЛОБАГАЖНИКИ</a><a href="/diski-kolesnye.html" title="ДИСКИ КОЛЕСНЫЕ">ДИСКИ КОЛЕСНЫЕ</a></td><td valign="top" width="25%"><a href="/domkraty.html" title="ДОМКРАТЫ">ДОМКРАТЫ</a><a href="/2020-05-26-14-51-17.html" title="КЕМПЕРЫ И МИНИВЭНЫ">КЕМПЕРЫ И МИНИВЭНЫ</a><a href="/kanistry.html" title="КАНИСТРЫ ЭКСПЕДИЦИОННЫЕ">КАНИСТРЫ ЭКСПЕДИЦИОННЫЕ</a><a href="/kompressory-vozdushnye.html" title="КОМПРЕССОРЫ МАНОМЕТРЫ ПНЕВМОСИСТЕМЫ">КОМПРЕССОРЫ МАНОМЕТРЫ ПНЕВМОСИСТЕМЫ</a><a href="/kungi-i-kryshki-pikapov.html" title="КУНГИ И КРЫШКИ ПИКАПОВ">КУНГИ И КРЫШКИ ПИКАПОВ</a><a href="/lebedki.html" title="ЛЕБЕДКИ И ПРИНАДЛЕЖНОСТИ">ЛЕБЕДКИ И ПРИНАДЛЕЖНОСТИ</a><a href="/optika.html" title="ОПТИКА">ОПТИКА</a><a href="/palatki-i-tenty.html" title="ПАЛАТКИ ТЕНТЫ МАРКИЗЫ СПАЛЬНЫЕ СИСТЕМЫ">ПАЛАТКИ ТЕНТЫ МАРКИЗЫ СПАЛЬНЫЕ СИСТЕМЫ</a><a href="/podveska.html" title="ПОДВЕСКА 4x4">ПОДВЕСКА 4x4</a><a href="/potolochnye-konsoli.html" title="ПОТОЛОЧНЫЕ КОНСОЛИ">ПОТОЛОЧНЫЕ КОНСОЛИ</a><a href="/porogi-silovye.html" title="ПОРОГИ СИЛОВЫЕ">ПОРОГИ СИЛОВЫЕ</a></td><td valign="top" width="25%"><a href="/predpuskovye-podogrevateli-i-otopiteli-salona.html" title="ПОДОГРЕВАТЕЛИ и ОТОПИТЕЛИ">ПОДОГРЕВАТЕЛИ и ОТОПИТЕЛИ</a><a href="/2018-12-26-19-00-16.html" title="УПАКОВКА / ТОВАРЫ С ЛОГО">УПАКОВКА / ТОВАРЫ С ЛОГО</a><a href="/prostavki-stupichnye.html" title="ПРОСТАВКИ СТУПИЧНЫЕ">ПРОСТАВКИ СТУПИЧНЫЕ</a><a href="/rasshiriteli-arok-i-bryzgoviki.html" title="РАСШИРИТЕЛИ АРОК и БРЫЗГОВИКИ">РАСШИРИТЕЛИ АРОК и БРЫЗГОВИКИ</a><a href="/rulevoe-upravlenie.html" title="РУЛЕВОЕ УПРАВЛЕНИЕ">РУЛЕВОЕ УПРАВЛЕНИЕ</a><a href="/sinteticheskij-tros.html" title="СИНТЕТИЧЕСКИЙ ТРОС">СИНТЕТИЧЕСКИЙ ТРОС</a><a href="/sistema-okhlazhdeniya.html" title="СИСТЕМА ОХЛАЖДЕНИЯ">СИСТЕМА ОХЛАЖДЕНИЯ</a><a href="/2018-03-29-13-06-51.html" title="СНЕГОВЫЕ ОТВАЛЫ">СНЕГОВЫЕ ОТВАЛЫ</a><a href="/sentraki.html" title="СЭНТРАКИ">СЭНТРАКИ</a><a href="/takelazh-trosy-stropy.html" title="ТАКЕЛАЖ, ТРОСЫ, СТРОПЫ">ТАКЕЛАЖ, ТРОСЫ, СТРОПЫ</a><a href="/toplivnaya-sistema.html" title="ТОПЛИВНАЯ СИСТЕМА">ТОПЛИВНАЯ СИСТЕМА</a></td><td valign="top" width="25%"><a href="/tormoznye-sistemy.html" title="ТОРМОЗНЫЕ СИСТЕМЫ">ТОРМОЗНЫЕ СИСТЕМЫ</a><a href="/transmissiya.html" title="ТРАНСМИССИЯ">ТРАНСМИССИЯ</a><a href="/turisticheskoe-snaryazhenie.html" title="ТУРИСТИЧЕСКОЕ СНАРЯЖЕНИЕ">ТУРИСТИЧЕСКОЕ СНАРЯЖЕНИЕ</a><a href="/farkopy.html" title="ФАРКОПЫ">ФАРКОПЫ</a><a href="/2018-03-28-18-49-17.html" title="ХАБЫ / СТУПИЧНЫЕ МУФТЫ">ХАБЫ / СТУПИЧНЫЕ МУФТЫ</a><a href="/shiny.html" title="ШИНЫ">ШИНЫ</a><a href="/shnorkeli.html" title="ШНОРКЕЛИ">ШНОРКЕЛИ</a><a href="/2019-12-04-17-37-39.html" title="ЩЕТКИ СТЕКЛООЧИСТИТЕЛЯ">ЩЕТКИ СТЕКЛООЧИСТИТЕЛЯ</a><a href="/chekhly-v-salon.html" title="ЧЕХЛЫ В САЛОН">ЧЕХЛЫ В САЛОН</a><a href="/elektrika.html" title="ЭЛЕКТРИКА">ЭЛЕКТРИКА</a><a href="/yashchiki-turisticheskie-i-zashchitnye-kejsy.html" title="ЯЩИКИ ТУРИСТИЧЕСКИЕ и ЗАЩИТНЫЕ КЕЙСЫ">ЯЩИКИ ТУРИСТИЧЕСКИЕ и ЗАЩИТНЫЕ КЕЙСЫ</a></td><td valign="top" width="25%"></td></tr></table>        </div>
+    </div>
+    <a id="news" href="/new" title="Новинки">
+        <div class="title">Новинки</div>
+        <div class="description">все ноу-хау</div>
+    </a>
+    <a id="hits" href="/hits" title="Хиты продаж">
+        <div class="title">Хиты продаж</div>
+        <div class="description">на что спрос</div>
+    </a>
+    <a id="sale" href="/sale" title="Распродажа">
+        <div class="title">Распродажа</div>
+        <div class="description">акции, скидки +</div>
+    </a>
+</div></div>
+        <div id="mussearch">
+<form action="index.php?option=com_mus&view=searchproducts" method="post">
+	<input id="searchInput" type="text" name="search" value="" placeholder="Введите любой артикул, название  или сочетание слов..." />
+    <input id="searchButton" type="submit" title="Найти" value="" />
+	<input type="hidden" name="option" value="com_mus" />
+    <input type="hidden" name="view" value="searchproducts" />
+    <input type="hidden" name="bbb07fc250135799ab1a54eec454d28d" value="1" /></form>
+</div>
+                    <div id="mod-poster"></div>
+		        <div id="main">
+            <!--<div id="system-message-container">
+	</div>
+-->
+                            <div id="titleBorder"><h1>Популярные товары</h1></div><div id="productList" class="mod-productList">
+<div id="markLike"></div>
+<div id="markDescription">4X4SHOP.RU доставит выбранный товар в МИНИМАЛЬНЫЙ срок!</div>
+<div id="markCar"></div>
+        <div class="product">
+        	<a href="/2018-03-28-18-49-17/2177-khaby-kolesnye-avm-455-toyota-prado70.html">
+            	<div class="article">Арт. AVM-455</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/avm-hubs.jpg" /></div>
+                <div class="name">Хабы колесные AVM-455 Toyota Land Cruiser 105, HZ 76,78,79<div class="grade"></div></div>
+                <div class="price">18 250</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/podveska/2019-03-13-09-13-17/4883-pnevmopodveska-rif-dlya-hilux-2015-na-zadnij-most-dlya-standartnoj-podveski.html">
+            	<div class="article">Арт. ASK-REV-S</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/ask-rev-s.jpg" /></div>
+                <div class="name">Пневмоподвеска РИФ для HILUX 2015+ на задний мост для стандартной подвески<div class="grade"></div></div>
+                <div class="price">28 100</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#7cc576">Есть в наличии</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/takelazh-trosy-stropy/stropy-dinamicheskie/699-stropa-dinamicheskaya-15-tonn-9-metrov-arb.html">
+            	<div class="article">Арт. ARB715</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/arb710.jpg" /></div>
+                <div class="name">Стропа динамическая 15-тонн 9 метров ARB<div class="grade"></div></div>
+                <div class="price">16 870</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#7cc576">Есть в наличии</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/diski-kolesnye/metallicheskie/1728-disk-kolesnyj-uaz-stalnoj-belyj-5x139-7-8xr15-d110-et-24.html">
+            	<div class="article">Арт. 1580-53910WH-24</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/jeep-wht-3.jpg" /></div>
+                <div class="name">Диск колесный УАЗ стальной белый 5x139,7 8xR15 d110 ET-24<div class="grade"></div></div>
+                <div class="price">5 170</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/diski-kolesnye/2020-06-18-11-15-59/7769-tajrlok-pod-disk-16kh6-bez-kamery.html">
+            	<div class="article">Арт. TL16x6</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/tirelock.jpg" /></div>
+                <div class="name">Тайрлок под диск 16х6 без камеры<div class="grade"></div></div>
+                <div class="price">4 800</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/blokirovki/2019-03-14-18-45-14/4556-blokirovka-zadnego-differentsiala-hf-elektro-dlya-great-wall-deer-safe.html">
+            	<div class="article">Арт. ET300</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/hf-et-300.jpg" /></div>
+                <div class="name">Блокировка заднего 8" дифференциала HF электро для Great Wall Deer/Safe<div class="grade"></div></div>
+                <div class="price">53 140</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/kompressory-vozdushnye/kompressory/10649-kompressor-avtomobilnyj-perenosnoj-yurui-24v-250-l-min.html">
+            	<div class="article">Арт. YF67224-2</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/yf672-2-01.jpg" /></div>
+                <div class="name">Компрессор автомобильный переносной YURUI 24В 250 л/мин<div class="grade"></div></div>
+                <div class="price">35 280</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#7cc576">Есть в наличии</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/diski-kolesnye/metallicheskie/9367-disk-usilennyj-vw-tiguan-stalnoj-chernyj-5kh112-7r17-d57-1-et-40.html">
+            	<div class="article">Арт. 1770-51257BL+40A11</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/1770-51257bl-40a11.jpg" /></div>
+                <div class="name">Диск усиленный VW Tiguan стальной черный 5х112 7R17 d57,1 ET+40<div class="grade"></div></div>
+                <div class="price">7 690</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/2018-03-28-18-49-17/5487-khaby-kolesnye-avm-488-dlya-gazel-4kh4.html">
+            	<div class="article">Арт. STO AVM-488</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/sto-avm-488.jpg" /></div>
+                <div class="name">Хабы колесные AVM-488 для Газель 4х4<div class="grade"></div></div>
+                <div class="price">24 000</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#7cc576">Есть в наличии</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/podveska/pruzhiny/9130-pruzhiny-rif-dlya-uaz-patriot-great-wall-hover-h3-h5-50-kg-lift-40-mm.html">
+            	<div class="article">Арт. 01-010A</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/060-750b.jpg" /></div>
+                <div class="name">Пружины РИФ для УАЗ Патриот / Great Wall Hover H3/H5 +50 кг лифт 40 мм<div class="grade"></div></div>
+                <div class="price">8 870</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#7cc576">Есть в наличии</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/podveska/pruzhiny/8473-pruzhina-zadnyaya-tough-dog-dlya-nissan-patrol-60-61-lwb-50mm-bolee-300kg.html">
+            	<div class="article">Арт.  TDC749HL-PAIR</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/tdc635s.jpg" /></div>
+                <div class="name">Пружины зад Tough Dog для NISSAN Patrol 60-61 LWB +50мм более 300кг<div class="grade"></div></div>
+                <div class="price">27 000</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		        <div class="product">
+        	<a href="/diski-kolesnye/metallicheskie/1637-disk-kolesnyj-tojota-nissan-stalnoj-chernyj-6x139-7-10xr17-d110-et-40-treug.html">
+            	<div class="article">Арт. 1710-63910BL-40A15</div>
+                <div class="image"><img border="0" src="/components/com_mus/images/products/small/wh-6-black.jpg" /></div>
+                <div class="name">Диск колесный Тойота Ниссан стальной черный 6x139,7 10xR17 d110 ET-40 (треуг.)<div class="grade"></div></div>
+                <div class="price">7 890</div>
+                <div class="framing">
+                <div class="availability">
+                	                		<span style="color:#da251d">Поставка под заказ</span>                	                </div>
+                <button class="more">Подробнее ></button></div>
+            </a>
+        </div>
+		</div>
+<div class="clear"></div>
+			            <div id="eventBlock"><div id="closeBlock"></div><div id="eventAjax"></div><div id="eventContent"></div></div>
+            <div id="black_fon"></div>
+		</div>
+	  </div>
+      <footer>
+		<div id="mod-footer">
+
+<div class="custom"  >
+	<p><strong>4X4SHOP.RU УСПЕШНО РАБОТАЕТ С 2003 ГОДА.</strong></p>
+<p>Наш 4x4 магазин - один из самых старых и крупных оптово-розничных поставщиков off-road оборудования в России</p></div>
+
+
+<div class="custom_email"  >
+	<p>Хотите узнавать<br /> первыми о скидках<br /> спец.предложениях<br /> новинках и акциях?!</p></div>
+</div>
+        <div id="mod-news"><div id="titleBorder"><h1>ЧТО НОВОГО?</h1></div><ul class="latestnews">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/8-novosti/16-uvazhaemye-pokupateli-i-partnery-v-svyazi-s-postoyanno-menyayushchimisya-usloviyami-rynka-i-kursami-valyut-prosim-otnestis-s-ponimaniem-i-utochnyat-aktualnye-tseny-na-moment-obrashcheniya.html" itemprop="url">
+			<span itemprop="name">
+				Уважаемые покупатели и партнеры! В связи с постоянно меняющимися условиями рынка и курсами валют, просим отнестись с пониманием и уточнять актуальные цены на момент обращения.			</span>
+		</a>
+	</li>
+</ul>
+</div>
+        <div id="footer-left"></div>
+        <div id="footer-right"></div>
+        <div id="footer-center">
+            <div id="bot-contact">
+                <div class="title-bot-contact">Звоните:</div>
+                +7 (495) 507-4533<br/>
++7 (495) 507-7686<br/>
++7 (925) 500-9817                <div class="title-bot-contact">Пишите:</div>
+                info@4x4shop.ru            </div>
+            <div id="mod-bot-menu"><ul class="nav menu">
+<li class="item-101 default current active"><a href="/" >Главная</a></li><li class="item-293"><a href="/kontakty.html" >Контакты</a></li><li class="item-294"><a href="/karta.html" >Карта</a></li><li class="item-295"><a href="/optovikam.html" >Оптовикам</a></li><li class="item-319"><a href="/konfidentsialnost.html" >Конфиденциальность</a></li></ul>
+</div>
+            <div id="copyright">Copyright © 4x4SHOP 2003-17. Все права защищены.</div>
+			<div id="yt-pl" style="position: absolute; top: 0px; left: -5500px;"><a title="Создание сайта в Новосибирске" href="https://jp-studio.ru/" target="_blank">Создание сайта</a>, <a title="Продвижение сайта в Новосибирске" href="https://jp-studio.ru/promote" target="_blank">продвижение сайта</a>, <a title="Поддержка сайта в Новосибирске" href="https://jp-studio.ru/support" target="_blank">поддержка сайта</a></div>
+        </div>
+	  </footer>
+	  <script type="text/javascript">
+var params = new URLSearchParams(window.location.search);
+var box1 = params.get('orderid');
+var box2 = params.get('price');
+box2 =  (Number(box2)/100).toLocaleString();
+jQuery('p.order-number').html('<b>Номер заказа:</b> № ' + box1);
+jQuery('p.order-price').html('<b>Сумма заказа:</b> ' + box2 + ' Р ');
+</script>
+<script type="text/javascript">
+
+function getEvent(func){
+	$('eventAjax').setStyle('display', 'block');
+	showEventBlock(func);
+	var url = 'index.php?option=com_mus&view=registration&task=getEventBlock&format=row';
+	var req = new Request({
+		method: 'post',
+		url: url,
+		evalScripts: true,
+		onComplete: function(response) {
+			$('eventContent').set('html', response);
+			$('closeBlock').setStyle('display', 'block');
+			$('black_fon').setStyle('display', 'block');
+			//Asset.javascript('/media/system/js/validate.js');
+			$('eventAjax').setStyle('display', 'none');
+		}
+	}).send('bbb07fc250135799ab1a54eec454d28d=1&event='+(func));
+}
+$('closeBlock').addEvent('click', function () {
+	hideEventBlock();
+});
+$('black_fon').addEvent('click', function () {
+	hideEventBlock();
+});
+	
+var eventBlock = $('eventBlock');
+eventBlock.set('morph', {
+	duration: 500
+});
+function showEventBlock(func){
+	if (func == 'login') {
+		eventBlock.morph({
+			'opacity': 1,
+			'top': 80,
+			'left': 300,
+			'width': 600,
+			'height': 300
+		});
+	} else if (func == 'registration') {
+		eventBlock.morph({
+			'opacity': 1,
+			'top': 0,
+			'left': 300,
+			'width': 600,
+			'height': 600
+		});
+	} else if (func == 'reset') {
+		eventBlock.morph({
+			'opacity': 1,
+			'top': 40,
+			'left': 300,
+			'width': 600,
+			'height': 520
+		});
+	}
+}
+function hideEventBlock(){
+	if ($('regForm')) {
+		var req = new Request({
+			method: 'post',
+			url: 'index.php?option=com_mus&view=registration&task=hideRegUser&format=row'
+		}).send('bbb07fc250135799ab1a54eec454d28d=1&email='+$('email').get('value')+'&password1='+$('password1').get('value')+'&password2='+$('password2').get('value')+'&name='+$('name').get('value')+'&phone='+$('phone').get('value')+'&address='+$('address').get('value'));
+	}
+	eventBlock.morph({
+		'opacity': 0.2,
+		'margin': 0,
+		'top': -60,
+		'left': 1000,
+		'width': 0,
+		'height': 0
+	});
+	$('closeBlock').setStyle('display', 'none');
+	$('black_fon').setStyle('display', 'none');
+	jQuery('#setProductBasketInfo').hide()
+	if ($('regComplete')) top.location.reload();
+}
+function emailValidateFree(fun){
+	var email = $('email').get('value');
+	var r = /.+@.+\..+/i
+	if (!r.test(email)) {
+		$('email').addClass('invalid');
+		$('email').set('title', 'Введите корректный адрес электронной почты!');
+		$('emaildesc').set('html', '<b style="color:RED">Введите корректный адрес электронной почты!</b>');
+		//console.log('email false');
+	} else {
+		$('eventAjax').setStyle('display', 'block');
+		var url = 'index.php?option=com_mus&view=registration&task=emailValidateFree&format=row';
+		var req = new Request({
+			method: 'post',
+			url: url,
+			onComplete: function(response) {
+				if (response.replace(/\s+/g,'') == 'free') {
+					$('email').removeClass('invalid');
+					$('email').set('title', '');
+					$('emaildesc').set('html', '<b style="color:GREEN">Email указан правильно</b>');
+					//console.log('email true');
+					if (fun == 'regUser') {
+						regUser(email);
+					} else if (fun == 'pinRepeat') {
+						pinRepeat(email);
+					}
+				} else {
+					$('email').addClass('invalid');
+					$('email').set('title', 'Ошибка!!! Этот Email уже заят! Попробуйте восстановить пароль или введите другой Email.');
+					$('emaildesc').set('html', '<b style="color:RED">Ошибка!!! Этот Email уже заят!<br/>Попробуйте восстановить пароль или введите другой Email.</b>');
+					//console.log('email busy');
+				}
+				$('eventAjax').setStyle('display', 'none');
+			}
+		}).send('bbb07fc250135799ab1a54eec454d28d=1&email='+email);
+	}
+}
+function buttonValidate(){
+	var email = $('email').get('value');
+	var password1 = $('password1').get('value');
+	var password2 = $('password2').get('value');
+	var validatePassword = $$('.validate-password');
+	var passwordDesc = $$('.passworddesc');
+	var required = $$('.required');
+	var reqdesc = $$('.reqdesc');
+	required.each(function (req, i) {
+		if (req.get('value') == '') {
+			req.addClass('invalid');
+			req.set('title', 'Пожалуйста, заполните это поле!');
+			reqdesc[i].setStyle('color', 'RED');
+		} else {
+			req.removeClass('invalid');
+			req.set('title', '');
+			reqdesc[i].setStyle('color', '#7c7c7c');
+		}
+	});
+	if (password1 != password2) {
+		validatePassword.each(function (password, i) {
+			password.addClass('invalid');
+			password.set('title', 'Пароли не совпадают!');
+			passwordDesc[i].set('html', '<b style="color:RED">Пароли не совпадают!</b>');
+		});
+	} else if (password1.length < 4 || password2.length < 4) {
+		validatePassword.each(function (password, i) {
+			password.addClass('invalid');
+			password.set('title', 'Введите пароль не менее 4-х символов!');
+			passwordDesc[i].set('html', '<b style="color:RED">Введите пароль не менее 4-х символов!</b>');
+		});
+	} else {
+		validatePassword.each(function (password, i) {
+			password.removeClass('invalid');
+			password.set('title', '');
+			passwordDesc[i].set('html', '<b style="color:GREEN">Пароль указан правильно</b>');
+		});
+	}
+	if ($('privacy').checked) {
+		$('privacy').removeClass('invalid');
+		$('privacyDesc').setStyle('color', '#7c7c7c');
+	} else {
+		$('privacy').addClass('invalid');
+		$('privacyDesc').setStyle('color', 'RED');
+	}
+	var invalidForm = $$('#regForm .invalid');
+	if (invalidForm.length == 0) {
+		emailValidateFree('regUser');
+	}
+}
+function regUser(email){
+	$('eventAjax').setStyle('display', 'block');
+	var url = 'index.php?option=com_mus&view=registration&task=regUser&format=row';
+	var req = new Request({
+		method: 'post',
+		url: url,
+		onComplete: function(response) {
+			$('eventContent').set('html', response);
+			$('eventAjax').setStyle('display', 'none');
+		}
+	}).send('bbb07fc250135799ab1a54eec454d28d=1&email='+email+'&password='+$('password1').get('value')+'&name='+$('name').get('value')+'&phone='+$('phone').get('value')+'&address='+$('address').get('value'));
+}
+function pinRepeat(email){
+	$('eventAjax').setStyle('display', 'block');
+	var url = 'index.php?option=com_mus&view=registration&task=pinRepeat&format=row';
+	var req = new Request({
+		method: 'post',
+		url: url,
+		onComplete: function(response) {
+			$('eventContent').set('html', response);
+			$('eventAjax').setStyle('display', 'none');
+		}
+	}).send('bbb07fc250135799ab1a54eec454d28d=1&email='+email);
+}
+function regComplete(){
+	var pin = $('pin').get('value');
+	if (pin.length == 4) {
+		$('eventAjax').setStyle('display', 'block');
+		var url = 'index.php?option=com_mus&view=registration&task=regComplete&format=row';
+		var req = new Request({
+			method: 'post',
+			url: url,
+			onComplete: function(response) {
+				$('eventContent').set('html', response);
+				$('eventAjax').setStyle('display', 'none');
+			}
+		}).send('bbb07fc250135799ab1a54eec454d28d=1&pin='+pin);
+	}
+}
+function resetPassword(){
+	var email = $('email').get('value');
+	var r = /.+@.+\..+/i
+	if (!r.test(email)) {
+		$('email').addClass('invalid');
+		$('email').set('title', 'Введите корректный адрес электронной почты!');
+		$('emaildesc').set('html', '<b style="color:RED">Введите корректный адрес электронной почты!</b>');
+	} else {
+		$('eventAjax').setStyle('display', 'block');
+		var url = 'index.php?option=com_mus&view=registration&task=emailValidateFree&format=row';
+		var req = new Request({
+			method: 'post',
+			url: url,
+			onComplete: function(response) {
+				if (response.replace(/\s+/g,'') == 'busy') {
+					$('email').removeClass('invalid');
+					$('email').set('title', '');
+					password(email);
+				} else {
+					$('email').addClass('invalid');
+					$('email').set('title', 'Ошибка!!! Учетная запись с таким Email не найдена. Зарегистрируйтесь на сайте чтобы войти.');
+					$('emaildesc').set('html', '<b style="color:RED">Ошибка!!! Учетная запись с таким Email не найдена.<br/>Зарегистрируйтесь на сайте чтобы войти.</b>');
+				}
+				$('eventAjax').setStyle('display', 'none');
+			}
+		}).send('bbb07fc250135799ab1a54eec454d28d=1&email='+email);
+	}
+}
+function password(email){
+	$('eventAjax').setStyle('display', 'block');
+	var url = 'index.php?option=com_mus&view=registration&task=resetPassword&format=row';
+	var req = new Request({
+		method: 'post',
+		url: url,
+		onComplete: function(response) {
+			$('eventContent').set('html', response);
+			$('eventAjax').setStyle('display', 'none');
+		}
+	}).send('bbb07fc250135799ab1a54eec454d28d=1&email='+email);
+}
+			
+window.addEvent('domready', function () {
+		$('block-catalog').addEvent("mouseenter", function (e) {
+		$('catalog').setStyle('background-position-y', '5px');
+		$('catalog').getElements('div.title').setStyle('color', '#e15616');
+	});
+	$('block-catalog').addEvent("mouseleave", function (e) {
+		$('list-catalog').setStyle('display', 'none');
+		$('catalog').setStyle('background-position-y', '-90px');
+		$('catalog').getElements('div.title').setStyle('color', '#666666');
+	});
+		$('block-catalog').addEvent("click", function (e) {
+		$('list-catalog').setStyle('display', 'block');
+	});
+	var images = $$('.image');		
+	images.each(function (img, i) {	
+		var scrollImg = new Scroller(img, {
+			area: 100,
+			velocity: 0.1
+		});
+		scrollImg.start();	
+	});
+});
+</script>
+      <!--LiveInternet counter--><script type="text/javascript"><!--
+	      document.write("<a href='http://www.liveinternet.ru/click' "+
+		      "target=_blank><img src='//counter.yadro.ru/hit?t11.18;r"+
+		      escape(document.referrer)+((typeof(screen)=="undefined")?"":
+			      ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+			      screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+		      ";"+Math.random()+
+		      "' alt='' title='LiveInternet: показано число просмотров за 24"+
+		      " часа, посетителей за 24 часа и за сегодня' "+
+		      "border='0' width='88' height='31'><\/a>")
+	      //--></script><!--/LiveInternet-->
+      <!-- HotLog -->
+      <script type="text/javascript" language="javascript">
+	      hotlog_js="1.0"; hotlog_r=""+Math.random()+"&s=63622&im=311&r="+
+		      escape(document.referrer)+"&pg="+escape(window.location.href);
+      </script>
+      <script type="text/javascript" language="javascript1.1">
+	      hotlog_js="1.1"; hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N");
+      </script>
+      <script type="text/javascript" language="javascript1.2">
+	      hotlog_js="1.2"; hotlog_r+="&wh="+screen.width+"x"+screen.height+"&px="+
+		      (((navigator.appName.substring(0,3)=="Mic"))?screen.colorDepth:screen.pixelDepth);
+      </script>
+      <script type="text/javascript" language="javascript1.3">
+	      hotlog_js="1.3";
+      </script>
+      <script type="text/javascript" language="javascript">
+	      hotlog_r+="&js="+hotlog_js;
+	      document.write('<a href="http://click.hotlog.ru/?63622" target="_blank"><img '+
+		      'src="http://hit4.hotlog.ru/cgi-bin/hotlog/count?'+
+		      hotlog_r+'" border="0" width="88" height="31" alt="HotLog"><\/a>');
+      </script>
+      <noscript>
+	      <a href="http://click.hotlog.ru/?63622" target="_blank"><img
+				      src="http://hit4.hotlog.ru/cgi-bin/hotlog/count?s=63622&im=311" border="0"
+				      width="88" height="31" alt="HotLog"></a>
+      </noscript>
+      <!-- /HotLog -->
+
+      <!--Openstat-->
+      <span id="openstat2236452"></span>
+      <script type="text/javascript">
+	
+	      var openstat = { counter: 2236452, image: 5083, color: "828282", next: openstat, track_links: "all" };
+	
+	      (function(d, t, p) {
+		      var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+		
+		      j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+		      var s = d.getElementsByTagName(t)[0];
+		      s.parentNode.insertBefore(j, s);
+	      })(document, "script", document.location.protocol);
+      </script>
+      <!--/Openstat-->
+
+
+      <!-- begin of Top100 code -->
+
+      <script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?2659673"></script>
+      <noscript>
+	      <a href="http://top100.rambler.ru/navi/2659673/">
+		      <img src="http://counter.rambler.ru/top100.cnt?2659673" alt="Rambler's Top100" border="0" />
+	      </a>
+
+      </noscript>
+      <!-- end of Top100 code -->
+
+
+
+      <!-- Yandex.Metrika counter -->
+      <div style="display:none;">
+	      <script type="text/javascript">
+		      (function (d, w, c) {
+			      (w[c] = w[c] || []).push(function() {
+				      try {
+					      w.yaCounter26731689 = new Ya.Metrika({id:26731689,
+						      clickmap:true,
+						      trackLinks:true,
+						      accurateTrackBounce:true});
+				      } catch(e) { }
+			      });
+			
+			      var n = d.getElementsByTagName("script")[0],
+				      s = d.createElement("script"),
+				      f = function () { n.parentNode.insertBefore(s, n); };
+			      s.type = "text/javascript";
+			      s.async = true;
+			      s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+			
+			      if (w.opera == "[object Opera]") {
+				      d.addEventListener("DOMContentLoaded", f, false);
+			      } else { f(); }
+		      })(document, window, "yandex_metrika_callbacks");
+	      </script>
+	      <noscript><div><img src="//mc.yandex.ru/watch/26731689" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	      <!-- /Yandex.Metrika counter -->
+	
+	</body>
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="ru-RU">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="description" content="404"/>
+  <meta name="generator" content="2018.1.1.386"/>
+  <meta name="google-site-verification" content="Hx2QhTqsNkdze6X992w6Z041YejFlzh25SzcTME3tmk"/><!-- custom meta -->
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "error.css"], "outOfDate":[]};
+</script>
+  
+  <link rel="shortcut icon" href="images/favicon.ico?crc=4263804353"/>
+  <title>404</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4259874245"/>
+  <link rel="stylesheet" type="text/css" href="css/master_______-a.css?crc=3942227031"/>
+  <link rel="stylesheet" type="text/css" href="css/error.css?crc=4072724178" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_error.css?crc=531913752"/>
+  <![endif]-->
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script src="https://webfonts.creativecloud.com/open-sans:i6,n3:all;philosopher:n7,n4,i4:all;roboto:n4:all.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+    <!--custom head HTML-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K29WLX');</script>
+<!-- End Google Tag Manager -->
+ </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- group -->
+   <div class="clearfix grpelem" id="ppu46174"><!-- column -->
+    <div class="clearfix colelem" id="pu46174"><!-- group -->
+     <a class="nonblock nontext clip_frame grpelem" id="u46174" href="index.html" data-href="page:U74"><!-- image --><img class="block" id="u46174_img" src="images/gaz_logos.jpg?crc=146124689" alt="" width="343" height="93"/></a>
+     <div class="clearfix grpelem" id="u118-8" data-IBE-flags="txtStyleSrc"><!-- content -->
+      <p>Ремонт коммерческого</p>
+      <p>авто транспорта</p>
+      <p>с 1998 года</p>
+     </div>
+     <div class="clearfix grpelem" id="ppu137-4"><!-- column -->
+      <div class="clearfix colelem" id="pu137-4"><!-- group -->
+       <a class="nonblock nontext clearfix grpelem" id="u137-4" href="tel:+74959675390" data-IBE-flags="txtStyleSrc" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0,M12=1,M21=-1,M22=0,SizingMethod='auto expand')" data-mu-ie-matrix-dx="11" data-mu-ie-matrix-dy="-12"><!-- content --><p>495</p></a>
+       <div class="ts clearfix grpelem" id="u136-5" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p><a class="nonblock" href="tel:+74959675390">967-53-90</a></p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u138-7" data-IBE-flags="txtStyleSrc"><!-- content -->
+       <p>мастер-приемщик</p>
+       <p class="ts"><a class="nonblock" href="tel:+79854434981">8(985) 443-49-81</a></p>
+      </div>
+     </div>
+    </div>
+    <div class="clip_frame colelem" id="u46295"><!-- image -->
+     <img class="block" id="u46295_img" src="images/elegant%20separator%202.png?crc=336191320" alt="" width="822" height="12"/>
+    </div>
+    <div class="clearfix colelem" id="pmenuu241"><!-- group -->
+     <nav class="MenuBar clearfix grpelem" id="menuu241"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u249"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u252" href="index.html" data-href="page:U74"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u254-4"><!-- content --><p>Главная</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u256"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u257" href="o-nas.html" data-href="page:U153"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u259-4"><!-- content --><p>О нас</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u270"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u273" href="articles.html" data-href="page:U159"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u275-4"><!-- content --><p>Статьи</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u277"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u278" href="reviews.html" data-href="page:U165"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u281-4"><!-- content --><p>Отзывы</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u284"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u285" href="special_offer.html" data-href="page:U171"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u286-4"><!-- content --><p>Акции</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u263"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u266" href="vacancies.html" data-href="page:U177"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u268-4"><!-- content --><p>Вакансии</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u50595"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u50596" href="zapchasti-gazel.html" data-href="page:U50594"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u50598-4"><!-- content --><p>Запчасти</p></div></a>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u242"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u243" href="contacts.html" data-href="page:U183"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u244-4"><!-- content --><p>Контакты</p></div></a>
+      </div>
+     </nav>
+     <div class="clearfix grpelem" id="u135-6" data-IBE-flags="txtStyleSrc"><!-- content -->
+      <p id="u135-2">ежедневно</p>
+      <p id="u135-4">09:00-20:00</p>
+     </div>
+    </div>
+    <div class="clip_frame colelem" id="u291"><!-- image -->
+     <img class="block" id="u291_img" src="images/dashed%20separator.png?crc=3903173419" alt="" width="960" height="4"/>
+    </div>
+    <div class="clearfix colelem" id="pu19896"><!-- group -->
+     <div class="grpelem" id="u19896"><!-- custom html -->
+      <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K29WLX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+     </div>
+     <!-- m_editable region-id="editable-static-tag-U25549-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+     <div class="museBGSize clearfix grpelem" id="u25549-8" data-muse-uid="U25549" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+      <p id="u25549-2">Приносим извинения за причиненные неудобства!</p>
+      <p id="u25549-4">Обновите страницу, или</p>
+      <p id="u25549-6">Нажмите на логотип &quot;Техцентр Газ&quot;</p>
+     </div>
+     <!-- /m_editable -->
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu25562"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem" id="u25563"><!-- none box -->
+       <div class="popup_anchor" id="u25564popup">
+        <div class="Thumb popup_element gradient rounded-corners clearfix" id="u25564"><!-- group -->
+         <!-- m_editable region-id="editable-static-tag-U25565-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link,clickable" -->
+         <div class="rounded-corners clearfix grpelem" id="u25565-6" data-muse-uid="U25565" data-muse-type="txt_frame"><!-- content -->
+          <p id="u25565-2">Получить бесплатную</p>
+          <p id="u25565-4">консультацию диагноста</p>
+         </div>
+         <!-- /m_editable -->
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u25568popup">
+       <div class="ContainerGroup clearfix" id="u25568"><!-- stack box -->
+        <div class="Container invi gradient clearfix grpelem" id="u25569"><!-- column -->
+         <!-- m_editable region-id="editable-static-tag-U25570-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
+         <div class="clearfix colelem" id="u25570-6" data-muse-uid="U25570" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+          <p>ОСТАВЬТЕ ЗАЯВКУ</p>
+          <p>Мы вас сориентируем по ценам и запишем в удобное для вас время</p>
+         </div>
+         <!-- /m_editable -->
+         <form class="form-grp clearfix colelem" id="widgetu25571" method="post" enctype="multipart/form-data" action="scripts/form-u25571.php"><!-- none box -->
+          <div class="fld-grp clearfix grpelem" id="widgetu25583" data-required="true"><!-- none box -->
+           <!-- m_editable region-id="editable-static-tag-U25586-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+           <label class="fld-label actAsDiv clearfix grpelem" id="u25586-4" data-muse-uid="U25586" data-muse-type="txt_frame" for="widgetu25583_input"><!-- content --><span class="actAsPara">Имя:</span></label>
+           <!-- /m_editable -->
+           <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u25585-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu25583_input" name="custom_U25583" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu25583_prompt" for="widgetu25583_input"><span class="actAsPara">Введите имя</span></label></span>
+          </div>
+          <!-- m_editable region-id="editable-static-tag-U25582-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+          <div class="clearfix grpelem" id="u25582-4" data-muse-uid="U25582" data-muse-type="txt_frame"><!-- content -->
+           <p>Отправка формы…</p>
+          </div>
+          <!-- /m_editable -->
+          <!-- m_editable region-id="editable-static-tag-U25581-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+          <div class="clearfix grpelem" id="u25581-4" data-muse-uid="U25581" data-muse-type="txt_frame"><!-- content -->
+           <p>На сервере произошла ошибка.</p>
+          </div>
+          <!-- /m_editable -->
+          <!-- m_editable region-id="editable-static-tag-U25587-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+          <div class="clearfix grpelem" id="u25587-4" data-muse-uid="U25587" data-muse-type="txt_frame"><!-- content -->
+           <p>Форма получена.</p>
+          </div>
+          <!-- /m_editable -->
+          <!-- m_editable region-id="editable-static-tag-U25572-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+          <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u25572-4" data-muse-uid="U25572" data-muse-type="txt_frame" type="submit" value="Отправить" tabindex="4"><!-- content -->
+           <div style="margin-top:-11px;height:11px;">
+            <p>Отправить</p>
+           </div>
+          </button>
+          <!-- /m_editable -->
+          <div class="fld-grp clearfix grpelem" id="widgetu25577" data-required="false"><!-- none box -->
+           <!-- m_editable region-id="editable-static-tag-U25579-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+           <label class="fld-label actAsDiv clearfix grpelem" id="u25579-4" data-muse-uid="U25579" data-muse-type="txt_frame" for="widgetu25577_input"><!-- content --><span class="actAsPara">Причина обращения, желаемая дата и время</span></label>
+           <!-- /m_editable -->
+           <span class="fld-textarea actAsDiv clearfix grpelem" id="u25578-4"><!-- content --><textarea class="wrapped-input" id="widgetu25577_input" name="custom_U25577" tabindex="3"></textarea><label class="wrapped-input fld-prompt" id="widgetu25577_prompt" for="widgetu25577_input"><span class="actAsPara">Введите сообщение</span></label></span>
+          </div>
+          <div class="fld-grp clearfix grpelem" id="widgetu25588" data-required="true"><!-- none box -->
+           <!-- m_editable region-id="editable-static-tag-U25589-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link" -->
+           <label class="fld-label actAsDiv clearfix grpelem" id="u25589-4" data-muse-uid="U25589" data-muse-type="txt_frame" for="widgetu25588_input"><!-- content --><span class="actAsPara">Сотовый телефон:</span></label>
+           <!-- /m_editable -->
+           <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u25591-4"><!-- content --><input class="wrapped-input" type="tel" spellcheck="false" id="widgetu25588_input" name="custom_U25588" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu25588_prompt" for="widgetu25588_input"><span class="actAsPara">Введите номер телефона</span></label></span>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u25594popup">
+       <div class="PamphletCloseButton PamphletLightboxPart popup_element rounded-corners clearfix" id="u25594"><!-- group -->
+        <!-- m_editable region-id="editable-static-tag-U25595-BP_infinity" template="error.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" -->
+        <div class="clearfix grpelem" id="u25595-4" data-muse-uid="U25595" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content -->
+         <p>x</p>
+        </div>
+        <!-- /m_editable -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="colelem" id="u31944"><!-- custom html -->
+     <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter30195084 = new Ya.Metrika2({ id:30195084, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/30195084" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="880" data-content-above-spacer="981" data-content-below-spacer="96"></div>
+   <div class="browser_width grpelem" id="u4140-bw">
+    <div id="u4140"><!-- group -->
+     <div class="clearfix" id="u4140_align_to_page">
+      <div class="clearfix grpelem" id="pu31643"><!-- column -->
+       <div class="colelem" id="u31643"><!-- custom html -->
+        <!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'><\/a>")
+</script><!--/LiveInternet-->
+       </div>
+       <a class="nonblock nontext clearfix colelem" id="u4139-4" href="sitemap.html" data-href="page:U4148"><!-- content --><p id="u4139-2">Карта сайта</p></a>
+      </div>
+      <div class="clearfix grpelem" id="pu50454"><!-- column -->
+       <div class="colelem" id="u50454"><!-- custom html -->
+        <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter30195084 = new Ya.Metrika2({ id:30195084, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/tag.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks2"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/30195084" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+       </div>
+       <div class="clearfix colelem" id="u33172-6" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p>&nbsp;Данный сайт носит информационно-справочный характер и ни при каких условиях не является публичной офертой. Копирование материалов сайта разрешено, при условии размещения обратной активной ссылки на сайт http://tehcentrgaz.ru</p>
+        <p>Пожаловаться на содержимое | Политика в отношении обработки персональных данных</p>
+       </div>
+       <div class="PamphletWidget clearfix widget_invisible colelem" id="pamphletu31669" data-islightbox="true"><!-- none box -->
+        <div class="ThumbGroup clearfix grpelem" id="u31683"><!-- none box -->
+         <div class="popup_anchor grpelem" id="pu31684popup">
+          <div class="popup_element Thumb clearfix" id="pu31684"><!-- group -->
+           <div class="popup_anchor" id="u31684popup">
+            <div class="popup_element clearfix" id="u31684"><!-- group -->
+             <div class="clearfix grpelem" id="u31724-4"><!-- content -->
+              <p>Политика конфиденциальности</p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="popup_anchor" id="u31676popup" data-lightbox="true">
+         <div class="ContainerGroup clearfix" id="u31676"><!-- stack box -->
+          <div class="Container clearfix grpelem" id="u31677"><!-- group -->
+           <div class="clearfix grpelem" id="u31727-57" data-IBE-flags="txtStyleSrc"><!-- content -->
+            <p>Политика конфиденциальности</p>
+            <p>&nbsp;</p>
+            <p>Администрация портала TehcentrGaz.ru (далее Портал) с уважением относится к правам посетителей Портала. Мы безоговорочно признаем важность конфиденциальности личной информации посетителей Портала. Данная страница содержит сведения о том, какую информацию мы получаем и собираем, когда Вы пользуетесь Порталом. Мы надеемся, что эти сведения помогут Вам принять осознанное решение в отношении предоставляемой нам личной информации. Настоящая Политика конфиденциальности распространяется только на Портал и информацию, собираемую данным сайтом и посредством него. Она не распространяется ни на какие другие сайты и не применима к веб-сайтам третьих лиц, которые могут ссылаться на данный Портал.</p>
+            <p>&nbsp;</p>
+            <p>Сбор информации</p>
+            <p>&nbsp;</p>
+            <p>Когда Вы посещаете Портал, мы можем определять название Вашего провайдера и Вашу страну, а также Ваш путь по Порталу (так называемую &quot;активность потока переходов&quot;).</p>
+            <p>&nbsp;</p>
+            <p>Сведения, которые мы получаем на Портале, могут быть использованы только для того, чтобы облегчить Вам пользование Порталом, включая, но не ограничиваясь:</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;организация Портала наиболее удобным для пользователей способом;</p>
+            <p>&nbsp;предоставление возможности подписаться на почтовую рассылку по специальным предложениям и темам, если Вы хотите получать такие уведомления;</p>
+            <p>Портал собирает только личную информацию, которую Вы предоставляете добровольно при посещении или регистрации на Портале. Понятие &quot;личная информация&quot; включает информацию, которая определяет Вас как конкретное лицо, например, Ваше имя или адрес электронной почты. Тогда как просматривать содержание Портала можно без прохождения процедуры регистрации, Вам потребуется зарегистрироваться, чтобы воспользоваться некоторыми функциями, например, добавить новую компанию или отредактировать компанию, находящуюся в нашем Каталоге.</p>
+            <p>&nbsp;</p>
+            <p>Портал применяет технологию &quot;cookies&quot; (&quot;Куки&quot;) для создания статистической отчетности. &quot;Куки&quot; представляет собой небольшой объем данных, отсылаемый веб-сайтом, который браузер Вашего компьютера сохраняет на жестком диске Вашего же компьютера. В &quot;cookies&quot; содержится информация, которая может быть необходимой для Портала, - для сохранения Ваших установок вариантов просмотра и сбора статистической информации по Порталу, т.е. какие страницы Вы посетили, что было загружено, имя домена интернет-провайдера и страна посетителя, а также адреса сторонних веб-сайтов, с которых совершен переход на Портал и так далее. Однако вся эта информация никак не связана с Вами как с личностью. &quot;Cookies&quot; не записывают Ваш адрес электронной почты и какие-либо личные сведения относительно Вас. Также данную технологию на Портале использует установленный счетчик компании LiveInternet.</p>
+            <p>&nbsp;</p>
+            <p>Кроме того, мы используем стандартные журналы учета веб-сервера для подсчета количества посетителей и оценки технических возможностей нашего Портала. Мы используем эту информацию для того, чтобы определить, сколько человек посещает Портал, и организовать страницы наиболее удобным для пользователей способом, обеспечить соответствие Портала используемым браузерам, и сделать содержание наших страниц максимально полезным для наших посетителей. Мы записываем сведения по перемещениям на Портале, но не об отдельных посетителях Портала, так что никакая конкретная информация относительно Вас лично не будет сохраняться или использоваться Администрацией Портала без Вашего согласия</p>
+            <p>&nbsp;</p>
+            <p>Чтобы просматривать материал без &quot;cookies&quot;, Вы можете настроить свой браузер таким образом, чтобы он не принимал &quot;cookies&quot;, либо уведомлял Вас об их отправке (настройка данного функционала отличается для разных браузеров, поэтому советуем Вам обратиться в разделе &quot;Помощь&quot; Вашего браузера и выяснить, как изменить настройки по работе с &quot;cookies&quot;).</p>
+            <p>&nbsp;</p>
+            <p>Совместное использование информации</p>
+            <p>&nbsp;</p>
+            <p>Администрация Портала ни при каких обстоятельствах не продает и не передает в пользование Вашу личную информацию, каким бы то ни было третьим сторонам. Мы также не раскрываем предоставленную Вами личную информацию за исключением случаев предусмотренных законодательством РФ.</p>
+            <p>&nbsp;</p>
+            <p>Администрация Портала имеет партнерские отношения с компанией Google inc., которая размещает на возмездной основе на страницах сайта рекламные материалы и объявления (включая, но не ограничиваясь, текстовые гиперссылки). В рамках данного сотрудничества Администрация Портала доводит до сведения всех заинтересованных сторон следующую информацию:</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;компания Google как сторонний поставщик использует файлы cookie для показа объявлений на Портале;</p>
+            <p>&nbsp;файлы cookie рекламных продуктов DoubleClick DART используются Google в объявлениях, показываемых на Портале, как участнике программы AdSense для контента;</p>
+            <p>&nbsp;использование компанией Google файлов cookie DART позволяет ей собирать и использовать информацию о посетителях Портала (за исключением имени, адреса, адреса электронной почты или номера телефона), о Ваших посещениях Портала и других веб-сайтов с целью предоставления наиболее релевантных объявлений о товарах и услугах;</p>
+            <p>&nbsp;компания Google в процессе сбора данной информации руководствуется собственной политикой конфиденциальности;</p>
+            <p>&nbsp;пользователи Портала могут отказаться от использования файлов cookie DART, посетив страницу с политикой конфиденциальности для объявлений и сети партнерских сайтов Google;</p>
+            <p>Отказ от ответственности</p>
+            <p>&nbsp;</p>
+            <p>Помните, передача информации личного характера при посещении сторонних сайтов, включая сайты компаний-партнеров, даже если веб-сайт содержит ссылку на Портал или на Портале есть ссылка на эти веб-сайты, не подпадает под действия данного документа. Администрация Портала не несет ответственности за действия других веб-сайтов. Процесс сбора и передачи информации личного характера при посещении этих сайтов регламентируется документом «Защита информации личного характера» или аналогичным, расположенном на сайтах этих компаний.</p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="clearfix grpelem" id="pu4117-12"><!-- column -->
+       <div class="clearfix colelem" id="u4117-12" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p id="u4117-2">Контакты</p>
+        <p class="ts1"><span id="u4117-3">т. </span><a class="nonblock" href="tel:+74959675390">+7 (495) 967-53-90</a></p>
+        <p class="ts1"><span id="u4117-7">т. </span><a class="nonblock" href="tel:+79854434981">+7 (985) 443-49-81</a></p>
+       </div>
+       <div class="clearfix colelem" id="u4379-6" data-IBE-flags="txtStyleSrc"><!-- content -->
+        <p>почта: info@tehcentrgaz.ru</p>
+        <p>Москва, Пермская улица, д.1с.12</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   // Decide whether to suppress missing file error or not based on preference setting
+var suppressMissingFileError = false
+</script>
+  <script type="text/javascript">
+   window.Muse.assets.check=function(c){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},d=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},f=function(f){for(var g=document.getElementsByTagName("link"),j=0;j<g.length;j++)if("text/css"==g[j].type){var l=(g[j].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!l||!l[1]||!l[2])break;b[l[1]]=l[2]}g=document.createElement("div");g.className="version";g.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(g);for(j=0;j<Muse.assets.required.length;){var l=Muse.assets.required[j],k=l.match(/([\w\-\.]+)\.(\w+)$/),i=k&&k[1]?
+k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Некоторые файлы на сервере могут отсутствовать или быть некорректными. Очистите кэш-память браузера и повторите попытку. Если проблему не удается устранить, свяжитесь с разработчиками сайта.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+setTimeout(function(){f(!0)},5E3):f()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.musepolyfill.bgsize","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
+Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#widgetu25571', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu25571 */
+Muse.Utils.initWidget('#pamphletu25562', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:true,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu25562 */
+Muse.Utils.initWidget('#pamphletu31669', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'lightbox',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu31669 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=3936894949" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   <script type="text/javascript">
+function md5(r){var n,t,o,e,u,f,a,i,c,C=function(r,n){return r<<n|r>>>32-n},h=function(r,n){var t,o,e,u,f;return e=2147483648&r,u=2147483648&n,f=(1073741823&r)+(1073741823&n),(t=1073741824&r)&(o=1073741824&n)?2147483648^f^e^u:t|o?1073741824&f?3221225472^f^e^u:1073741824^f^e^u:f^e^u},g=function(r,n,t,o,e,u,f){var a;return r=h(r,h(h((a=n)&t|~a&o,e),f)),h(C(r,u),n)},d=function(r,n,t,o,e,u,f){var a;return r=h(r,h(h(n&(a=o)|t&~a,e),f)),h(C(r,u),n)},v=function(r,n,t,o,e,u,f){return r=h(r,h(h(n^t^o,e),f)),h(C(r,u),n)},m=function(r,n,t,o,e,u,f){return r=h(r,h(h(t^(n|~o),e),f)),h(C(r,u),n)},S=function(r){var n,t="",o="";for(n=0;n<=3;n++)t+=(o="0"+(r>>>8*n&255).toString(16)).substr(o.length-2,2);return t},l=Array();for(l=function(r){for(var n,t=r.length,o=t+8,e=16*((o-o%64)/64+1),u=Array(e-1),f=0,a=0;a<t;)f=a%4*8,u[n=(a-a%4)/4]=u[n]|r.charCodeAt(a)<<f,a++;return f=a%4*8,u[n=(a-a%4)/4]=u[n]|128<<f,u[e-2]=t<<3,u[e-1]=t>>>29,u}(r=this.utf8_encode(r)),f=1732584193,a=4023233417,i=2562383102,c=271733878,n=0;n<l.length;n+=16)a=m(a=m(a=m(a=m(a=v(a=v(a=v(a=v(a=d(a=d(a=d(a=d(a=g(a=g(a=g(a=g(o=a,i=g(e=i,c=g(u=c,f=g(t=f,a,i,c,l[n+0],7,3614090360),a,i,l[n+1],12,3905402710),f,a,l[n+2],17,606105819),c,f,l[n+3],22,3250441966),i=g(i,c=g(c,f=g(f,a,i,c,l[n+4],7,4118548399),a,i,l[n+5],12,1200080426),f,a,l[n+6],17,2821735955),c,f,l[n+7],22,4249261313),i=g(i,c=g(c,f=g(f,a,i,c,l[n+8],7,1770035416),a,i,l[n+9],12,2336552879),f,a,l[n+10],17,4294925233),c,f,l[n+11],22,2304563134),i=g(i,c=g(c,f=g(f,a,i,c,l[n+12],7,1804603682),a,i,l[n+13],12,4254626195),f,a,l[n+14],17,2792965006),c,f,l[n+15],22,1236535329),i=d(i,c=d(c,f=d(f,a,i,c,l[n+1],5,4129170786),a,i,l[n+6],9,3225465664),f,a,l[n+11],14,643717713),c,f,l[n+0],20,3921069994),i=d(i,c=d(c,f=d(f,a,i,c,l[n+5],5,3593408605),a,i,l[n+10],9,38016083),f,a,l[n+15],14,3634488961),c,f,l[n+4],20,3889429448),i=d(i,c=d(c,f=d(f,a,i,c,l[n+9],5,568446438),a,i,l[n+14],9,3275163606),f,a,l[n+3],14,4107603335),c,f,l[n+8],20,1163531501),i=d(i,c=d(c,f=d(f,a,i,c,l[n+13],5,2850285829),a,i,l[n+2],9,4243563512),f,a,l[n+7],14,1735328473),c,f,l[n+12],20,2368359562),i=v(i,c=v(c,f=v(f,a,i,c,l[n+5],4,4294588738),a,i,l[n+8],11,2272392833),f,a,l[n+11],16,1839030562),c,f,l[n+14],23,4259657740),i=v(i,c=v(c,f=v(f,a,i,c,l[n+1],4,2763975236),a,i,l[n+4],11,1272893353),f,a,l[n+7],16,4139469664),c,f,l[n+10],23,3200236656),i=v(i,c=v(c,f=v(f,a,i,c,l[n+13],4,681279174),a,i,l[n+0],11,3936430074),f,a,l[n+3],16,3572445317),c,f,l[n+6],23,76029189),i=v(i,c=v(c,f=v(f,a,i,c,l[n+9],4,3654602809),a,i,l[n+12],11,3873151461),f,a,l[n+15],16,530742520),c,f,l[n+2],23,3299628645),i=m(i,c=m(c,f=m(f,a,i,c,l[n+0],6,4096336452),a,i,l[n+7],10,1126891415),f,a,l[n+14],15,2878612391),c,f,l[n+5],21,4237533241),i=m(i,c=m(c,f=m(f,a,i,c,l[n+12],6,1700485571),a,i,l[n+3],10,2399980690),f,a,l[n+10],15,4293915773),c,f,l[n+1],21,2240044497),i=m(i,c=m(c,f=m(f,a,i,c,l[n+8],6,1873313359),a,i,l[n+15],10,4264355552),f,a,l[n+6],15,2734768916),c,f,l[n+13],21,1309151649),i=m(i,c=m(c,f=m(f,a,i,c,l[n+4],6,4149444226),a,i,l[n+11],10,3174756917),f,a,l[n+2],15,718787259),c,f,l[n+9],21,3951481745),f=h(f,t),a=h(a,o),i=h(i,e),c=h(c,u);return(S(f)+S(a)+S(i)+S(c)).toLowerCase()}function utf8_encode(r){r=r.replace(/\r\n/g,"\n");for(var n="",t=0;t<r.length;t++){var o=r.charCodeAt(t);o<128?n+=String.fromCharCode(o):(127<o&&o<2048?n+=String.fromCharCode(o>>6|192):(n+=String.fromCharCode(o>>12|224),n+=String.fromCharCode(o>>6&63|128)),n+=String.fromCharCode(63&o|128))}return n}
+window.onload=function(){requirejs(['jquery'],function($){$("button.submit-btn").before('<input type="hidden" name="user_name" class="user_name" value="" />');var vector=Math.random().toString(36).substring(4);document.cookie="user_vector="+vector+"; path=/;",$("input.user_name").val(md5(vector+location.host));});}
+</script>
+</body>
+</html>

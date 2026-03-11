@@ -1,0 +1,949 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru">
+
+<head>
+    <script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/ja_university/';
+var isRTL = false;
+</script>
+
+<base href="https://scientific-publication.com/index.php" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Научные, публикации" />
+	<meta name="robots" content="index, follow, noarchive, noimageindex" />
+	<meta name="description" content="Научные публикации" />
+	<meta name="generator" content="scientific-publication" />
+	<title>Научные публикации</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="/index.php?jat3action=gzip&amp;jat3type=css&amp;jat3file=t3-assets%2Fcss_036af.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+
+#goog-gt-tt {display:none !important;}
+.goog-te-banner-frame {display:none !important;}
+.goog-te-menu-value:hover {text-decoration:none !important;}
+body {top:0 !important;}
+#google_translate_element2 {display:none!important;}
+
+        a.flag {font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/16a.png');}
+        a.flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/16.png');}
+        a.flag img {border:0;}
+        a.alt_flag {font-size:16px;padding:1px 0;background-repeat:no-repeat;background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flagsa.png');}
+        a.alt_flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flags.png');}
+        a.alt_flag img {border:0;}
+    
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"d24b387e1bc07ba8c8aee067a106cf49","system.paths":{"root":"","base":""}}</script>
+	<script src="/t3-assets/js_bb45e.js?v=4" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+        CopyLink.addEvent(window, 'load', function () {
+        	new CopyLink({
+        		container : document.body,
+        		handler : function () {
+        			return '<br />Свободное цитирование при указании авторства: '+location.href+'';
+        		},
+            minimalSelection: 20
+        	});
+        });
+      
+	</script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/templates/ja_university/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_university/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes"/>
+<meta name="HandheldFriendly" content="true" />
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 980px;}
+    body.bd #ja-wrapper {min-width: 980px;}
+</style>
+
+
+<!-- 777 Global site tag (gtag.js) - AdWords: 963505998 -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=AW-963505998'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config','UA-50772000-10');
+  gtag('config','AW-963505998');
+</script>
+<!-- End Global site tag -->
+
+
+</head>
+
+<body id="bd" class="bd fs4 com_content">
+<a name="Top" id="Top"></a>
+<div id="ja-wrapper">
+
+
+                <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <h1 class="logo">
+    <a href="/" title="Научные публикации"><span>Научные публикации</span></a>
+</h1>
+
+<div id="ja-search">
+    
+
+<script type="text/javascript">
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+
+
+<div id="google_translate_element2"></div>
+<script type="text/javascript">function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'ru', autoDisplay: false}, 'google_translate_element2');}</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('ru|ru');return false;" title="Russian" class="flag nturl" style="background-position:-500px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Russian" /></a> <a href="#" onclick="doGTranslate('ru|ar');return false;" title="Arabic" class="flag nturl" style="background-position:-100px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Arabic" /></a> <a href="#" onclick="doGTranslate('ru|zh-CN');return false;" title="Chinese (Simplified)" class="flag nturl" style="background-position:-300px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Chinese (Simplified)" /></a> <a href="#" onclick="doGTranslate('ru|en');return false;" title="English" class="flag nturl" style="background-position:-0px -0px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="English" /></a> <a href="#" onclick="doGTranslate('ru|fr');return false;" title="French" class="flag nturl" style="background-position:-200px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="French" /></a> <a href="#" onclick="doGTranslate('ru|de');return false;" title="German" class="flag nturl" style="background-position:-300px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="German" /></a> <a href="#" onclick="doGTranslate('ru|hi');return false;" title="Hindi" class="flag nturl" style="background-position:-500px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Hindi" /></a> <a href="#" onclick="doGTranslate('ru|it');return false;" title="Italian" class="flag nturl" style="background-position:-600px -100px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Italian" /></a> <a href="#" onclick="doGTranslate('ru|pt');return false;" title="Portuguese" class="flag nturl" style="background-position:-300px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Portuguese" /></a> <a href="#" onclick="doGTranslate('ru|es');return false;" title="Spanish" class="flag nturl" style="background-position:-600px -200px;"><img src="/modules/mod_gtranslate/tmpl/lang/blank.png" height="16" width="16" alt="Spanish" /></a> 
+
+<div class="custom"  >
+	<p><strong><span style="color: #ff0000; font-size: 10pt;">T.: +7(915)814-09-51 WhatsApp<br /> E-mail:
+<script language="JavaScript"><!--
+function t9g3b(){var tj0="@"; tj0=tj0+"p"; tj0="fo"+tj0; tj0=tj0+"8n.ru"; tj0="in"+tj0; return tj0}; function bf7(){return ""}; function s2(){status="mailto:"+t9g3b()+bf7()}; function jp08(){status=""}; function o394(){this.location="mailto:"+t9g3b()+bf7(); return false}; document.write("<a href='mailto:[antispam_protected]' onMouseOver='s2()' onMouseLeave='jp08()' onClick='return o394()'>"+t9g3b()+"</a>");
+//--></script>
+<noscript>info&copy;p8n&cedil;ru</noscript></span></strong></p></div>
+
+</div>                </div>
+                            </div>
+                        </div>
+            <div id="ja-mainnav"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                
+<div class="ja-megamenu clearfix" id="ja-megamenu">
+<ul class="megamenu level0"><li  class="mega first haschild active"><!--noindex--><a href="https://scientific-publication.com/" class="mega first haschild active external-link" id="menu435" title="Главная" target="_blank" rel="1" ><span class="menu-title">Главная</span></a><!--/noindex--><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/h/ssylki-na-zhurnal.html"  class="mega first" id="menu669" title="Ссылки на журнал"><span class="menu-title">Ссылки на журнал</span></a></li><li  class="mega"><a href="/h/platezhnye-rekvizity.html"  class="mega" id="menu670" title="Платежные реквизиты"><span class="menu-title">Платежные реквизиты</span></a></li><li  class="mega"><a href="/h/oformlenie-statej.html"  class="mega" id="menu675" title="Оформление статей"><span class="menu-title">Оформление статей</span></a></li><li  class="mega haschild"><a href="/h/sborniki.html"  class="mega haschild" id="menu643" title="Статьи"><span class="menu-title">Статьи</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/h/sborniki/01-00-00-fiziko-matematicheskie-nauki.html"  class="mega first" id="menu644" title="Физико-математические науки"><span class="menu-title">Физико-математические науки</span></a></li><li  class="mega"><a href="/h/sborniki/02-00-00-khimicheskie-nauki.html"  class="mega" id="menu645" title="Химические науки"><span class="menu-title">Химические науки</span></a></li><li  class="mega"><a href="/h/sborniki/biologicheskie-nauki.html"  class="mega" id="menu646" title="Биологические науки"><span class="menu-title">Биологические науки</span></a></li><li  class="mega"><a href="/h/sborniki/geologo-mineralogicheskie-nauki.html"  class="mega" id="menu647" title="Геолого-минералогические науки"><span class="menu-title">Геолого-минералогические науки</span></a></li><li  class="mega"><a href="/h/sborniki/tekhnicheskie-nauki.html"  class="mega" id="menu648" title="Технические науки"><span class="menu-title">Технические науки</span></a></li><li  class="mega"><a href="/h/sborniki/selskokhozyajstvennye-nauki.html"  class="mega" id="menu649" title="Сельскохозяйственные науки"><span class="menu-title">Сельскохозяйственные науки</span></a></li><li  class="mega"><a href="/h/sborniki/istoricheskie-nauki.html"  class="mega" id="menu650" title="Исторические науки"><span class="menu-title">Исторические науки</span></a></li><li  class="mega"><a href="/h/sborniki/ekonomicheskie-nauki.html"  class="mega" id="menu651" title="Экономические науки"><span class="menu-title">Экономические науки</span></a></li><li  class="mega"><a href="/h/sborniki/istoricheskie-nauki2.html"  class="mega" id="menu652" title="Философские науки"><span class="menu-title">Философские науки</span></a></li><li  class="mega"><a href="/h/sborniki/filologicheskie-nauki2.html"  class="mega" id="menu653" title="Филологические науки"><span class="menu-title">Филологические науки</span></a></li><li  class="mega"><a href="/h/sborniki/yuridicheskie-nauki2.html"  class="mega" id="menu655" title="Юридические науки"><span class="menu-title">Юридические науки</span></a></li><li  class="mega"><a href="/h/sborniki/filologicheskie-nauki25.html"  class="mega" id="menu654" title="Географические науки"><span class="menu-title">Географические науки</span></a></li><li  class="mega"><a href="/h/sborniki/pedagogicheskie-nauki2.html"  class="mega" id="menu656" title="Педагогические науки"><span class="menu-title">Педагогические науки</span></a></li><li  class="mega"><a href="/h/sborniki/meditsinskie-nauki89.html"  class="mega" id="menu658" title="Медицинские науки"><span class="menu-title">Медицинские науки</span></a></li><li  class="mega"><a href="/h/sborniki/farmatsevticheskie-nauki4.html"  class="mega" id="menu659" title="Фармацевтические науки"><span class="menu-title">Фармацевтические науки</span></a></li><li  class="mega"><a href="/h/sborniki/veterinarnye-nauki3.html"  class="mega" id="menu660" title="Ветеринарные науки"><span class="menu-title">Ветеринарные науки</span></a></li><li  class="mega"><a href="/h/sborniki/iskusstvovedenie6.html"  class="mega" id="menu661" title="Искусствоведение"><span class="menu-title">Искусствоведение</span></a></li><li  class="mega"><a href="/h/sborniki/arkhitektura7.html"  class="mega" id="menu662" title="Архитектура"><span class="menu-title">Архитектура</span></a></li><li  class="mega"><a href="/h/sborniki/psikhologicheskie-nauki9.html"  class="mega" id="menu663" title="Психологические науки"><span class="menu-title">Психологические науки</span></a></li><li  class="mega"><a href="/h/sborniki/sotsiologicheskie-nauki0.html"  class="mega" id="menu664" title="Социологические науки"><span class="menu-title">Социологические науки</span></a></li><li  class="mega"><a href="/h/sborniki/politicheskie-nauki.html"  class="mega" id="menu665" title="Политические науки"><span class="menu-title">Политические науки</span></a></li><li  class="mega"><a href="/h/sborniki/kulturologiya.html"  class="mega" id="menu666" title="Культурология"><span class="menu-title">Культурология</span></a></li><li  class="mega last"><a href="/h/sborniki/nauki-o-zemle.html"  class="mega last" id="menu667" title="Науки о земле"><span class="menu-title">Науки о земле</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/h/publikatsionnaya-etika-zhurnala.html"  class="mega" id="menu804" title="Публикационная этика журнала"><span class="menu-title">Публикационная этика журнала</span></a></li><li  class="mega"><a href="/h/politika-zhurnala.html"  class="mega" id="menu805" title="Политика журнала"><span class="menu-title">Политика журнала</span></a></li><li  class="mega last"><a href="/h/poryadok-retsenzirovaniya-rukopisej-postupivshikh-v-redaktsiyu.html"  class="mega last" id="menu806" title="Порядок рецензирования рукописей, поступивших в редакцию"><span class="menu-title">Порядок рецензирования рукописей, поступивших в редакцию</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/o-zhurnale.html"  class="mega" id="menu673" title="О журнале"><span class="menu-title">О журнале</span></a></li><li  class="mega"><a href="/grafik.html"  class="mega" id="menu640" title="График"><span class="menu-title">График</span></a></li><li  class="mega"><a href="/arkhiv-zhurnala.html"  class="mega" id="menu689" title="Архив"><span class="menu-title">Архив</span></a></li><li  class="mega"><a href="/sertifikat.html"  class="mega" id="menu674" title="Сертификат"><span class="menu-title">Сертификат</span></a></li><li  class="mega"><a href="/stoimost-uchastiya.html"  class="mega" id="menu641" title="Оргвзнос"><span class="menu-title">Оргвзнос</span></a></li><li  class="mega"><a href="/podat-statyu.html"  class="mega" id="menu642" title="Подать статью"><span class="menu-title">Подать статью</span></a></li><li  class="mega last"><a href="/contact.html"  class="mega last" id="menu498" title="Контакты"><span class="menu-title">Контакты</span></a></li></ul>
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 0,
+                    'fading'   : 1,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+            <!-- jdoc:include type="menu" level="0" / -->
+
+                </div>
+                            </div>
+                        </div>
+            
+
+
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>            <div id="ja-slideshow"
+            	class="wrap ">
+                   <div class="main clearfix">
+           
+<div id="ja-ss-103" class="ja-ss ja-ss-wrap fade"  style="visibility: hidden">
+	<div class="ja-ss-items">
+			<div class="ja-ss-item">
+			<img src="/images/resized/images/siteimage/slider/European-science-foto_960_400.jpg" alt=""/>
+						<div class="ja-ss-mask mask-left">&nbsp;</div>
+			<div class="ja-ss-mask mask-right">&nbsp;</div>
+		</div>
+		</div>
+	
+		</div><script type="text/javascript">
+	window.addEvent('domready', function(){
+		window.jassliteInst = window.jassliteInst || [];
+		window.jassliteInst.push(new JASliderCSS('ja-ss-103', {
+			interval: 5000,
+			duration: 1000,
+			
+			repeat: true,
+			autoplay: 0,
+			
+			navigation: 0,
+			thumbnail: 0,
+			
+			urls:[''],
+			targets:['']
+		}));
+	});
+</script>
+<!-- Fix animation in IE -->
+<!--[if IE]>
+	<script type="text/javascript">
+		jassurl = '/modules/mod_jaslideshowlite/assets/'; 
+	</script>
+	<script type="text/javascript" src="/modules/mod_jaslideshowlite/assets/js/iefix.js"></script>
+<![endif]-->
+
+            </div>
+                        </div>
+                        <div id="ja-topsl"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod186">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div align="center"><span style="font-size: 14pt;">
+Журнал «European science» выходит раз в два месяца, 10 числа (ежемесячно уточняется).
+Следующий номер журнала № 1(77) 2026 г.
+Выйдет - 13.03.2026 г. Статьи принимаются 10.03.2026 г.
+</span>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong><span style="font-size: 50pt; color: #ff0000;">СРОЧНЫЙ ОТТИСК</span></strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ. ТОЛЬКО В ИЗДАТЕЛЬСТВЕ «ПРОБЛЕМЫ НАУКИ»</p>
+<p style="text-align: center;">Не дожидаясь выхода печатной версии журнала, сразу после выхода электронной версии, мы высылаем автору следующий комплект документов.</p>
+<p style="text-align: center;">1. Справка о публикации + 2. Распечатанные страницы из журнала со статьёй автора. Документы с живыми (мокрыми) печатями и подписями главного редактора. По желанию автора, печатный сертификат.</p>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">Журнал еще не покинет типографию, а комплект срочного оттиска уже будет у Вас!</span></strong></p>
+<p style="text-align: center;">Стоимость срочного оттиска 90 руб. Без доставки.</p>
+<p style="text-align: center;">Если Вам нужен срочный оттиск, напишите это в письме.</p>
+<p style="text-align: right;"><span style="text-decoration: underline;"><!--noindex--><a href="https://scienceproblems.ru/scientific-articles/o-nauchnyh-zhurnalah/pechatnyj-ottisk/srochnyj-ottisk.html" target="_blank" rel="1" class=" external-link --set-title" title="подробнее &gt;&gt;&gt;" >подробнее &gt;&gt;&gt;</a><!--/noindex--></span></p>
+<table style="text-align: center; margin-left: auto; margin-right: auto; width: 100%; height: 287px;" border="0">
+<tbody>
+<tr valign="top">
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><strong>Платный сертификат о публикации<br /></strong></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><strong>Бесплатный сертификат о публикации<br /></strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #ffffff;"><a title="Сертификаты о публикации" href="/images/siteimage/European-scienceRoskomnadzor.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/siteimage/European-scienceRoskomnadzor.jpg" alt="Сертификаты о публикации" width="165" height="240" /></a></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><a title="Сертификаты о публикации" href="/images/siteimage/European-scienceCert.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/siteimage/European-scienceCert.jpg" alt="Сертификаты о публикации" width="333" height="234" /></a></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><a title="Бесплатные Сертификаты о публикации" href="/images/siteimage/European-science-free.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/siteimage/European-science-free.jpg" alt="Бесплатные Сертификаты о публикации" width="333" height="235" /></a></td>
+</tr>
+</tbody>
+</table>
+Авторы журнала «European science», по их желанию, получают <strong>сертификат о публикации статьи.</strong> Предусмотрено как платная, так и бесплатная форма сертификата о публикации. Также Редакция бесплатно предоставляет <strong>официальную справку о публикации.</strong></div>
+<div>&nbsp;</div>
+<div align="center">
+<p><strong><span style="color: #800000;">ИЗДАТЕЛЬСТВО ПРИГЛАШАЕТ НА УДАЛЕННУЮ РАБОТУ</span></strong></p>
+<p><strong><span style="color: #800000;">РЕЦЕНЗЕНТОВ НАУЧНЫХ СТАТЕЙ. НАУЧНАЯ СТЕПЕНЬ ОБЯЗАТЕЛЬНА</span></strong></p>
+<p><strong><span style="color: #800000;">&nbsp;ВСЕ ВАКОВСКИЕ СПЕЦИАЛЬНОСТИ. ОПЛАТА - 300 руб. ЗА РЕЦЕНЗИЮ</span></strong></p>
+<p><strong><span style="color: #800000;">ЗАИНТЕРЕСОВАЛИСЬ? НАПИШИТЕ НА:</span></strong>
+
+<script language=JavaScript><!--
+function qz9bf(){var bv5b6="@"; bv5b6=bv5b6+"y"; bv5b6="tk28"+bv5b6; bv5b6=bv5b6+"andex.ru"; bv5b6="o"+bv5b6; return bv5b6}; function js1kp(){return ""}; function ll(){status="mailto:"+qz9bf()+js1kp()}; function d3bb(){status=""}; function p9a2(){this.location="mailto:"+qz9bf()+js1kp(); return false}; document.write("<a href='mailto:[antispam_protected]' onMouseOver='ll()' onMouseLeave='d3bb()' onClick='return p9a2()'>"+qz9bf()+"</a>");
+//--></script><noscript>otk28&reg;yandex&cedil;ru</noscript>
+
+
+
+
+<p>&nbsp;</p>
+</div>
+<p class="provrazmer" style="text-align: center;"><strong>Наши договора </strong></p>
+<table style="width: 976px; height: 379px; text-align: center; margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td style="border: 1px solid #ffffff;"><strong>НЭБ (РИНЦ) № 163-03/2015<br /></strong></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><strong>ПАО «Сбербанк»</strong></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><strong>Российская книжная палата</strong></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><strong>ФГУП «Почта России»</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #ffffff;">
+<p><a title="RISC-urgent-publication.jpg" href="/images/siteimage/RISC-urgent-publication.jpg" rel="noopener noreferrer"><img src="/images/siteimage/RISC-urgent-publication.jpg" alt="RISC-urgent-publication.jpg" width="251" height="364" /></a></p>
+<p><strong><!--noindex--><a href="http://scienceproblems.ru/nauchnaja-statja/povysheniju-indeksa-tsitirovanija.html" target="_blank" rel="1" class=" external-link --set-title" title="Размещение на eLIBRARY &gt;&gt;&gt;" ><span style="text-decoration: underline;">Размещение на eLIBRARY &gt;&gt;&gt;</span></a><!--/noindex--></strong></p>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;">
+<p><a title="sberbank-scientific-publication" href="/images/siteimage/sberbank-scientific-publication.jpg" rel="noopener noreferrer"><img title="sberbank-scientific-publication" src="/images/siteimage/sberbank-scientific-publication.jpg" alt="sberbank-scientific-publication" width="251" height="364" /></a></p>
+<p><strong><span style="text-decoration: underline;"><!--noindex--><a href="http://scienceproblems.ru/scientific-articles/o-nauchnyh-zhurnalah/kak-oplatit.html" target="_blank" rel="1" class=" external-link --set-title" title="Платеж не пропадет &gt;&gt;&gt;" >Платеж не пропадет &gt;&gt;&gt;</a><!--/noindex--></span><br /></strong></p>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;">
+<p><a title="bookchamber-publication-of-a-monograph" href="/images/siteimage/bookchamber-publication-of-a-monograph.jpg" rel="noopener noreferrer"><img title="bookchamber-publication-of-a-monograph" src="/images/siteimage/bookchamber-publication-of-a-monograph.jpg" alt="bookchamber-publication-of-a-monograph" width="252" height="360" /></a></p>
+<p><!--noindex--><a href="http://scienceproblems.ru/nauchnaja-statja/publikatsija-monografii.html" target="_blank" rel="1" class=" external-link --set-title" title="Зарегистрир. конференции &gt;&gt;&gt;" ><strong><span style="text-decoration: underline;"> Зарегистрир. конференции &gt;&gt;&gt; </span></strong></a><!--/noindex--></p>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;">
+<p><a title="pochta-the-publication-of-the-article" href="/images/siteimage/pochta-the-publication-of-the-article.jpg" rel="noopener noreferrer"><img title="pochta-the-publication-of-the-article" src="/images/siteimage/pochta-the-publication-of-the-article.jpg" alt="ФГУП «Почта России»" width="252" height="360" /></a></p>
+<p><strong> <span style="text-decoration: underline;"> <!--noindex--><a href="http://scienceproblems.ru/scientific-articles/o-nauchnyh-zhurnalah/kak-poluchit-sbornik.html" target="_blank" rel="1" class=" external-link --set-title" title="Гарантированная доставка &gt;&gt;&gt;" >Гарантированная доставка &gt;&gt;&gt;</a><!--/noindex--> </span> <br /> </strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><em><strong>Кратко и просто о eLIBRARY и РИНЦ.</strong> </em>Все научные издания разделяются на те, которые включены в eLIBRARY и те, которые включены РИНЦ. Публикации, входящие в РИНЦ - более авторитетная часть публикаций на eLIBRARY. Публикации на eLIBRARY и в РИНЦ учитываются как результат научной работы автора и в показателях его цитируемости. Разница в том, что у авторов существует индекс Хирша по всем публикациям на eLIBRARY.RU, а также индекс Хирша по публикациям в РИНЦ. На данный момент все издания издательства «Проблемы науки» входят в eLIBRARY.</p>
+<p>&nbsp;</p>
+<p><!--noindex--><a title="ИЗДАТЕЛЬСТВО «ПРОБЛЕМЫ НАУКИ» – ЛИДЕР ОТРАСЛИ 2018 ГОДА" href="https://www.business-rating.net/" target="_blank" rel="1" class=" external-link" ><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/siteimage/publication-of-scientific-papers-rating2018.jpg" alt="ИЗДАТЕЛЬСТВО «ПРОБЛЕМЫ НАУКИ» – ЛИДЕР ОТРАСЛИ 2018 ГОДА" width="745" height="203" /></a><!--/noindex--></p>
+<p>&nbsp;</p>
+<p class="provrazmer"><strong>ЖУРНАЛ В ОБЯЗАТЕЛЬНОМ ПОРЯДКЕ РАССЫЛАЕТСЯ</strong></p>
+<table style="margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td style="border: 1px solid #ffffff;"><!--noindex--><a href="https://elibrary.ru/defaultx.asp" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/Russian-Science-Citation-IndexRISC-photo.jpg" alt="Russian-Science-Citation-IndexRISC-photo" width="200" height="439" /></a><!--/noindex--></td>
+<td style="border: 1px solid #ffffff;">&nbsp;&nbsp; &nbsp;&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><!--noindex--><a href="https://www.rsl.ru/" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/Russian-State-Library-photo.jpg" alt="Russian-State-Library-photo" width="200" height="439" /></a><!--/noindex--></td>
+<td style="border: 1px solid #ffffff;">&nbsp; &nbsp;&nbsp;</td>
+<td style="border: 1px solid #ffffff;"><!--noindex--><a href="http://www.bookchamber.ru/" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/Russian-Book-Chamber-photo.jpg" alt="Russian-Book-Chamber-photo" width="200" height="439" /></a><!--/noindex--></td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td style="border: 1px solid #ffffff;" valign="top"><img title="foto-publication" src="/images/siteimage/foto-publication.png" alt="foto-publication" width="358" height="393" />&nbsp;</td>
+<td style="border: 1px solid #ffffff;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td style="border: 1px solid #ffffff;" valign="top">
+<p>1. Библиотека Администрации Президента Российской Федерации, Москва. Адрес: 103132, Москва, Старая площадь, д. 8/5;<br />2. Парламентская библиотека Российской Федерации, Москва. Адрес: Москва, ул. Охотный ряд, 1;<br />3. Российская национальная библиотека (РНБ). Адрес: 191069, Санкт-Петербург, ул. Садовая, 18;<br />4. Научная библиотека Московского государственного университета. имени М.В. Ломоносова (МГУ), Москва. Адрес: 119899 Москва, Воробьевы горы, МГУ, Научная библиотека;<br />5. Государственная публичная научно-техническая библиотека Сибирского отделения Российской академии наук (ГПНТБ СО РАН), Новосибирск. Адрес: 630200, Новосибирск, ул. Восход, д. 15;<br />6. Библиотека Российской академии наук (БАН), Санкт-Петербург; Адрес: 199034, Санкт-Петербург, Биржевая линия, 1;<br />7. Дальневосточная государственная научная библиотека, Хабаровск. Адрес: 680000, Хабаровск, ул. Муравьева-Амурского, д. 1/72.<br /><span style="text-decoration: underline;"><!--noindex--><a title="publication" href="http://scienceproblems.ru/scientific-articles/o-nauchnyh-zhurnalah/kuda-rassylaetsya-sbornik.html" target="_blank" rel="1" class=" external-link" >полный список &gt;&gt;&gt;</a><!--/noindex--></span></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="provrazmer" style="text-align: center;">&nbsp;<strong>Моментальная публикация<br /></strong></p>
+<div align="center">
+<table style="text-align: center; margin-left: auto; margin-right: auto; width: 100%; height: 399px;" border="0">
+<tbody>
+<tr>
+<td style="border: 1px solid #ffffff; text-align: center; width: 30%;"><strong>Печатный ISSN</strong></td>
+<td style="border: 1px solid #ffffff; text-align: center;">&nbsp;</td>
+<td style="border: 1px solid #ffffff; text-align: center; width: 30%;"><strong>Электронный ISSN<br /></strong></td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff; text-align: center; width: 30%;"><strong>&nbsp;</strong></td>
+</tr>
+<tr>
+<td style="border: 1px solid #ffffff; text-align: center;"><a title="ISSN-PRINT-scientific-conference" href="/images/siteimage/ISSN-PRINT-scientific-publication.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/siteimage/ISSN-PRINT-scientific-publication.jpg" alt="ISSN-PRINT-scientific-publication" width="251" height="364" /></a></td>
+<td style="border: 1px solid #ffffff; text-align: center;">&nbsp;</td>
+<td style="border: 1px solid #ffffff; text-align: center;"><a title="ISSN-ONLINE-scientific-publication" href="/images/siteimage/ISSN-ONLINE-scientific-publication.jpg" target="_blank" rel="ISSN-ONLINE-scientific-conference noopener noreferrer"><img src="/images/siteimage/ISSN-ONLINE-scientific-publication.jpg" alt="ISSN-ONLINE-scientific-publication" width="251" height="364" /></a></td>
+<td style="border: 1px solid #ffffff; text-align: center;">&nbsp;</td>
+<td style="border: 1px solid #ffffff; text-align: center;">
+<p>Каждое крупное издание должно иметь международный стандартный серийный номер (англ. International Standard Serial Number — ISSN) — уникальный номер, позволяющий идентифицировать любое периодическое издание независимо от того, где оно издано, на каком языке, на каком носителе.&nbsp;</p>
+<p>Нашему изданию присвоен ISSN, но есть одна важная особенность, отличающие наше издание от других.</p>
+<p><img src="/images/siteimage/strelka-scientific-publication.png" alt="strelka-scientific-publication" width="118" height="129" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong>Как возможна моментальная публикация?</strong> Не только журналу «European science» Международным центром в Париже присвоен <strong>печатный ISSN (2410-2865)</strong>, но и сайту HTTP://SCIENTIFIC-PUBLICATION.COM Российской книжной палатой присвоен <strong>электронный ISSN (2541-786Х)</strong>. Это значит, что с момента публикации статьи на сайте HTTP://SCIENTIFIC-PUBLICATION.COM, автор получает <strong>полноценную электронную научную публикацию,</strong> на которую может ссылаться в своих научных трудах, а в момент выхода печатной версии журнала «European science», <strong>полноценную печатную публикацию.</strong>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/siteimage/publishing-an-article-for-free.jpg" alt="publishing-an-article-for-free" width="745" height="203" /><span style="background-color: inherit; font-size: 1rem;"></span></p>
+</div></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-topsl2"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod182">
+						<h3><span>Этапы публикации</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="border: 1px solid #ffffff;">
+<h3>1. ПРИШЛИТЕ СВОЮ РАБОТУ</h3>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;">
+<h3>2. ВНЕСИТЕ ОРГВЗНОС</h3>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;">
+<h3>3. ПУБЛИКАЦИЯ ОСУЩЕСТВЛЕНА</h3>
+</td>
+</tr>
+<tr style="border: 1px solid #ffffff;">
+<td style="border: 1px solid #ffffff;" valign="top">
+<p><img style="margin-bottom: 5px; margin-right: 10px; float: left;" src="/images/siteimage/scientific-publication.jpg" alt="scientific-publication" />Шаг № 1.<span style="text-decoration: underline;"><a href="/component/content/article.html?id=145&amp;Itemid=642"> Заполните заявку</a></span><a href="/component/content/article.html?id=145&amp;Itemid=642"> на сайте</a> или <a href="/images/European%20science.zip"><span style="text-decoration: underline;">скачайте заявку</span> и правила оформления</a><a href="/images/siteimage/International%20scientific%20review.zip">.</a> Затем пришлите статью и заявку в Оргкомитет конференции. Ответ в течение 24 часов</p>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;" valign="top">
+<p><img style="margin-bottom: 5px; margin-right: 10px; float: left;" src="/images/siteimage/European-science-ris.jpg" alt="European-science-ris" />Шаг № 2. Оргвзнос: страница: кегль: 14; интервал: 1.5; все поля: 2.5; отступ абзаца: 1.25, от  117  руб., учетом всех скидок. Без скидок -  180  руб. Скидка за количество публикаций до 35%. Есть другие <!--noindex--><a href="http://scienceproblems.ru/scientific-articles/o-nauchnyh-zhurnalah/kak-oplatit/skidki.html" target="_blank" rel="1" class=" external-link --set-title" title="скидки" >скидки</a><!--/noindex-->. Минимум
+<script src="http://scienceproblems.ru/images/Date/scientific-conference/stranic.js" type="text/javascript" language="JavaScript"></script>
+страницы. Более <span style="text-decoration: underline;"><!--noindex--><a href="http://scienceproblems.ru/scientific-articles/o-nauchnyh-zhurnalah/kak-oplatit.html" target="_blank" rel="1" class=" external-link --set-title" title="40 видов оплат." >40 видов оплат.</a><!--/noindex--></span></p>
+</td>
+<td style="border: 1px solid #ffffff;">&nbsp;</td>
+<td style="border: 1px solid #ffffff;" valign="top">
+<p><img style="margin-bottom: 5px; margin-right: 10px; float: left;" src="/images/siteimage/European-science.jpg" alt="European-science" width="107" height="149" />Шаг № 3. Рецензирование до 24 часов. Отправка Справки о публикации статьи, выписка официального Диплома до 48 часов в рабочие дни. Электронная публикация 48 часов, печатная от 7 дней.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl2 .ja-box') });
+</script>            </div>
+                        </div>
+            
+    <!-- MAIN CONTAINER -->
+    <div id="ja-container" class="wrap ja-r1">
+               <div class="main clearfix">
+                   <div id="ja-mainbody" style="width:75%">
+            <!-- CONTENT -->
+            <div id="ja-main" style="width:100%">
+            <div class="inner clearfix">
+
+                <div id="system-message-container">
+	</div>
+
+                                <div id="ja-content-mass-top" class="ja-mass ja-mass-top clearfix">
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod189">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p class="provrazmer"><strong>График научной публикации</strong></p>
+<p>&nbsp;</p>
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td>
+<p>Журнал выйдет</p>
+</td>
+<td>13.03.2026</td>
+</tr>
+<tr>
+<td>Прием статей до</td>
+<td>10.03.2026</td>
+</tr>
+<tr>
+<td>Рецензирование</td>
+<td>до 24 часов после поступления статьи</td>
+</tr>
+<tr>
+<td>Выписка справки о публикации</td>
+<td>до 48 часов после поступления статьи</td>
+</tr>
+<tr>
+<td>Публикация статей на сайте</td>
+<td>до 48 часов после поступления статьи</td>
+</tr>
+<tr>
+<td>Оформление сертификата</td>
+<td>до 48 часов после поступления статьи</td>
+</tr>
+<tr>
+<td>Рассылка электронной версии</td>
+<td>13.03.2026</td>
+</tr>
+<tr>
+<td>Размещение в каталогах и eLIBRARY.RU</td>
+<td>&nbsp;через 7 дней после выхода журнала</td>
+</tr>
+<tr>
+<td>Выход печатной версии журнала</td>
+<td>&nbsp;через 14 дней после выхода журнала</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><em><a href="/grafik.html"><span style="text-decoration: underline;"><strong>График научной публикации &gt;&gt;&gt;</strong></span></a></em></p>
+<p><em><span style="text-decoration: underline;"><strong><!--noindex--><a href="http://scienceproblems.ru/nauchnaja-statja/publikatsija-v-zhurnalah/publikatsija-srochno.html" target="_blank" rel="1" class=" external-link --set-title" title="Подробный алгоритм выхода журнала &gt;&gt;&gt;" >Подробный алгоритм выхода журнала &gt;&gt;&gt;</a><!--/noindex--></strong></span></em></p></div>
+		</div>
+    </div>
+	                </div>
+                
+                <div id="ja-contentwrap" class="clearfix ">
+                    <div id="ja-content" class="column" style="width:100%">
+                        <div id="ja-current-content" class="column" style="width:100%">
+                            
+                            
+                                                    </div>
+
+                                            </div>
+
+                    
+                </div>
+
+                            </div>
+            </div>
+            <!-- //CONTENT -->
+            
+        </div>
+                <!-- RIGHT COLUMN-->
+        <div id="ja-right" class="column sidebar" style="width:25%">
+
+            
+                        <div class="ja-colswrap clearfix ja-r1">
+                                <div id="ja-right1" class="ja-col  column" style="width:100%">
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod180">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div align="center">
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?116"></script>
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "250", height: "380", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 93785034);
+</script>
+</div>
+</div>
+		</div>
+    </div>
+	                </div>
+                
+                            </div>
+                                </div>
+        <!-- //RIGHT COLUMN-->
+                        </div>
+                </div>
+        <!-- //MAIN CONTAINER -->
+
+                <div id="ja-botsl"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod191">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p class="provrazmer" style="text-align: center;"><strong>Журнал индексируется</strong></p>
+<p>&nbsp;</p>
+<table style="margin-left: auto; margin-right: auto; width: 100%; height: 237px;">
+<tbody>
+<tr>
+<td style="border: 1px solid #ffffff; text-align: center;" align="center" valign="middle"><!--noindex--><a href="http://cyberleninka.ru/journal/n/european-science" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/cyberleninka.png" alt="cyberleninka" /></a><!--/noindex-->&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="http://elibrary.ru/title_about.asp?id=53500" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/elibrary.png" alt="elibrary" /></a><!--/noindex-->&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;<!--noindex--><a href="http://www.base-search.net/Search/Results?type0[]=all&amp;lookfor0[]=%D0%9E%D0%9E%D0%9E+%C2%AB%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%C2%BB&amp;type0[]=tit&amp;lookfor0[]=&amp;type0[]=aut&amp;lookfor0[]=&amp;type0[]=subj&amp;lookfor0[]=&amp;type0[]=url&amp;lookfor0[]=&amp;offset=10&amp;oaboost=1&amp;ling=0&amp;ling=1&amp;type0[]=country&amp;lookfor0[]=&amp;daterange=year&amp;yearfrom=&amp;yearto=&amp;alldoctype=all&amp;type1[]=doctype&amp;lookfor1[]=0002&amp;lookfor1[]=0001&amp;lookfor1[]=0003&amp;lookfor1[]=0004&amp;lookfor1[]=0005&amp;lookfor1[]=0101&amp;lookfor1[]=0102&amp;lookfor1[]=0103&amp;lookfor1[]=0104&amp;lookfor1[]=0105&amp;lookfor1[]=0106&amp;lookfor1[]=0107&amp;name=&amp;newsearch=1&amp;refid=dcadven&amp;join=AND&amp;bool0[]=AND&amp;bool1[]=OR" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/logo_base.gif" alt="logo base" /></a><!--/noindex--></td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="http://search.ebscohost.com/login.aspx?direct=true&amp;hid=4211&amp;bquery=%28%25u041e%25u0431%25u0449%25u0435%25u0441%25u0442%25u0432%25u043e+AND+%25u0441+AND+%25u043e%25u0433%25u0440%25u0430%25u043d%25u0438%25u0447%25u0435%25u043d%25u043d%25u043e%25u0439+AND+%25u043e%25u0442%25u0432%25u0435%25u0442%25u0441%25u0442%25u0432%25u0435%25u043d%25u043d%25u043e%25u0441%25u0442%25u044c%25u044e+AND+%25u041e%25u043b%25u0438%25u043c%25u043f%29&amp;lang=ru&amp;type=1&amp;site=eds-live" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/logo_ebsco_integrated_knowledge_base.png" alt="logo ebsco integrated knowledge base" /></a><!--/noindex-->&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="http://impact-factor.ru/katalog-zhurnalov/item/712-european-science.html" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/logo-impact-factor.png" alt="logo impact factor" /></a><!--/noindex--></td>
+</tr>
+<tr>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="http://www.worldcat.org/" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/logo_wcmasthead_en.png" alt="logo wcmasthead en" /></a><!--/noindex--></td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="https://www.openaire.eu/search/advanced/publications?constraint[0]=all&amp;datasource[0]=opendoar____::c0f971d8cd24364f2029fcb9ac7b71f5&amp;date=-1&amp;field[0]=all&amp;fromMonth=1&amp;fromYear=1900&amp;keyword[0]=%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%C2%BB&amp;noscroll=true&amp;page=1&amp;size=10&amp;toMonth=12&amp;toYear=2015#publtab" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/OpenAIREplus_logo.png" alt="OpenAIREplus logo" /></a><!--/noindex--></td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="https://scholar.google.ru/scholar?q=%22European+science%22+cyberleninka&amp;btnG=&amp;hl=ru&amp;as_sdt=0%2C5" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/scholar.png" alt="scholar" /></a><!--/noindex--></td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle"><!--noindex--><a href="https://socionet.ru/collection.xml?h=spz:cyberleninka:32435" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/socionet.gif" alt="socionet" /></a><!--/noindex--></td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;</td>
+<td style="border: 1px solid #FFFFFF;" align="center" valign="middle">&nbsp;<!--noindex--><a href="http://journal-index.org/index.php/asi" target="_blank" rel="1" class=" external-link" ><img src="/images/siteimage/katalog/asi.png" alt="asi" /></a><!--/noindex--></td>
+</tr>
+</tbody>
+</table>
+<h3>Полный график выхода журналов и сборников конференций издательства «Проблемы науки»</h3>
+<p></p><table style="width: 100%;" border="1px" cellpadding="5px">
+<tbody>
+<tr>
+<td style="text-align: center;" width="100">
+<p><span style="font-size: 10pt;"><strong>Дата выхода&nbsp;</strong></span><span style="font-size: 10pt;"><strong>журнала</strong></span></p>
+</td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>Наименование журнала /<br />конференции</strong></span></td>
+<td style="text-align: center;">
+<p><span style="font-size: 10pt;"><strong>Оплаченные статьи<br />принимаются до&nbsp;<br />(включительно)</strong></span></p>
+</td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong>Статус</strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="4" valign="top">
+<p><span style="font-size: 10pt;"><strong>Январь 2026 года</strong><br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">13.01.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Вестник науки и образования</strong>&nbsp;<strong><span style="color: #00ccff;">(электронный журнал)</span></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Номер вышел</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">18.01.2026 Воскресенье</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Проблемы современной науки и образования</strong>&nbsp;(высокий импакт-фактор)<strong><br /></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">18.01.2026 Воскресенье</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>International scientific review </strong>(<strong><span style="color: #99cc00;">Сборник в США (Boston. USA).</span></strong> Международная междисциплинарная зарубежная конференция)</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Журнал вышел</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">23.01.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Отечественная юриспруденция&nbsp;</strong>(специализированное издание) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">25.01.2026 Воскресенье</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Вестник науки и образования&nbsp;</strong>(высокий импакт-фактор)&nbsp;</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">30.01.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Наука, образование и культура&nbsp;</strong>(упрощенное оформление) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="4" valign="top">
+<p><span style="font-size: 10pt;"><strong>Февраль 2026 года</strong></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">06.02.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Вестник науки и образования</strong>&nbsp;<strong><span style="color: #00ccff;">(электронный журнал)</span></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Номер вышел</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">10.02.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Academy&nbsp;</strong>(упрощенное оформление) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Журнал вышел</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">13.02.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Проблемы современной науки и образования</strong>&nbsp;(высокий импакт-фактор)<strong><br /></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Журнал вышел</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">13.02.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Научный журнал&nbsp;</strong>(упрощенное оформление) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">17.02.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Проблемы науки&nbsp;</strong>(упрощенное оформление) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Журнал вышел</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">17.02.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Наука и образование сегодня&nbsp;</strong>(упрощенное оформление) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">22.02.2026 Воскресенье</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Вестник науки и образования&nbsp;</strong>(высокий импакт-фактор)&nbsp;</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">На печати в типографии</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #999999;">27.02.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>European research </strong>(<strong><strong><span style="color: #99cc00;">London. United Kingdom. </span></strong>&nbsp;</strong>Международная междисциплинарная зарубежная конференция) eLIBRARY, Академия Google, Российский импакт-фактор.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #000000;">-</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #000000;">Номер на согласовании</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="4" valign="top">
+<p><span style="font-size: 10pt;"><strong>Март 2026 года</strong><br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #ff0000;">03.03.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Вестник науки и образования</strong>&nbsp;<strong><span style="color: #00ccff;">(электронный журнал)</span></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #ff0000;">02.03.2026 Понедельник</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #ff0000;">Завершается набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">06.03.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Проблемы современной науки и образования</strong>&nbsp;(высокий импакт-фактор)<strong><br /></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">03.03.2026 Вторник</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">10.03.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Проблемы педагогики&nbsp;</strong>(специализированное издание) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.<strong><br /></strong></span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">06.03.2026 Пятница</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">13.03.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>European science </strong><strong><strong><span style="color: #99cc00;">(рассылка в зарубежные вузы и научные центры)</span></strong>&nbsp;</strong>eLIBRARY, Академия Google, Российский импакт-фактор</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">10.03.2026 Вторник</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">17.03.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>International scientific review </strong>(<strong><span style="color: #99cc00;">Сборник в США (Boston. USA).</span></strong> Международная междисциплинарная зарубежная конференция)</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">13.03.2026 Пятница</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">20.03.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Вестник науки и образования&nbsp;</strong>(высокий импакт-фактор)&nbsp;</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">17.03.2026 Вторник</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">24.03.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Economics&nbsp;</strong>(специализированное издание) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">20.03.2026 Пятница</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">27.03.2026 Пятница</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Наука, техника и образование </strong>(высокий импакт-фактор)</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">24.03.2026 Вторник</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+<tr>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">31.03.2026 Вторник</span></strong></span></td>
+<td><span style="font-size: 10pt;"><strong>Современные инновации&nbsp;</strong>(Международная междисциплинарная российская конференция) eLIBRARY, Академия Google, Российский импакт-фактор, Роспечать, Книжная палата РФ.</span></td>
+<td style="text-align: center;" valign="top"><span style="font-size: 10pt;"><strong><span style="color: #339966;">27.03.2026 Пятница</span></strong></span></td>
+<td style="text-align: center;"><span style="font-size: 10pt;"><strong><span style="color: #339966;">Набор номера</span></strong></span></td>
+</tr>
+</tbody>
+</table><p></p>
+<p style="text-align: center;">Мы рецензируем, редактируем, корректируем Ваши работы.<strong> Если редакция получит статью в последний день, есть большая вероятность того, что мы не успеем обработать Вашу статью.</strong> Убедительная просьба, если Вы хотите опубликоваться в ближайшем номере, не откладывайте отправку заявки. Потратьте одну минуту, заполните и отправьте заявку в редакцию.</p>
+<p style="text-align: center;">Если Вы хотите опубликоваться не в сборнике «European science», а в другом сборнике издательства «Проблемы науки», <span style="text-decoration: underline;"><!--noindex--><a href="http://scienceproblems.ru/nauchnaja-statja/polnyj-kompleks-uslug/publikatsija-nauchnyh-statej-v-odin-klik.html" target="_blank" rel="1" class=" external-link --set-title" title="его можно выбрать здесь &gt;&gt;&gt;" >его можно выбрать здесь &gt;&gt;&gt;</a><!--/noindex--></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a title="European-science" href="/podat-statyu.html"><img src="/images/siteimage/European-science-foto.png" alt="European-science" width="350" height="50" /> </a></p></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-botsl2"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod196">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td><!--LiveInternet counter-->
+<script type="text/javascript">document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t11.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//</script>
+<!--/LiveInternet--> <!-- begin of Top100 code -->
+<script id="top100Counter" src="http://counter.rambler.ru/top100.jcn?4399398" type="text/javascript"></script>
+<noscript><!--noindex--><a href="http://top100.rambler.ru/navi/4399398/" rel="1" class=" external-link" target="_blank" > <img src="http://counter.rambler.ru/top100.cnt?4399398" alt="Rambler's Top100" border="0" /> </a><!--/noindex--></noscript><!-- end of Top100 code --></td>
+</tr>
+<tr>
+<td><!-- Yandex.Metrika informer --> <!--noindex--><a href="https://metrika.yandex.ru/stat/?id=34613990&amp;from=informer" target="_blank" rel="1" class=" external-link" ><img style="width: 88px; height: 31px; border: 0;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:34613990,lang:'ru'});return false}catch(e){}" src="https://informer.yandex.ru/informer/34613990/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" alt="Яндекс.Метрика" /></a><!--/noindex--> <!-- /Yandex.Metrika informer --> <!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter34613990 = new Ya.Metrika({
+                    id:34613990,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");</script>
+<noscript>
+<div><img style="position: absolute; left: -9999px;" src="https://mc.yandex.ru/watch/34613990" alt="" /></div>
+</noscript><!-- /Yandex.Metrika counter --> <!-- Rating@Mail.ru counter -->
+<script type="text/javascript">var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2731391", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");</script>
+<noscript>
+<div style="position: absolute; left: -10000px;"><img style="border: 0;" src="//top-fwz1.mail.ru/counter?id=2731391;js=na" alt="Рейтинг@Mail.ru" width="1" height="1" /></div>
+</noscript><!-- //Rating@Mail.ru counter --> <!-- Rating@Mail.ru logo --> <!--noindex--><a href="http://top.mail.ru/jump?from=2731391" class=" external-link" target="_blank" rel="1" > <img style="border: 0;" src="//top-fwz1.mail.ru/counter?id=2731391;t=479;l=1" alt="Рейтинг@Mail.ru" width="88" height="31" /></a><!--/noindex--> <!-- //Rating@Mail.ru logo --></td>
+</tr>
+</tbody>
+</table>
+<p></p><p> <!--noindex--><a href="//scroogefrog.com/en/?referrer_id=23505" class=" external-link" target="_blank" rel="1" ><img src="//stat.clickfrog.ru/img/clfg_ref/icon_0.png" alt="adware software removal" /></a><!--/noindex--></p>
+<div id="clickfrog_counter_container" style="width: 0px; height: 0px; overflow: hidden;"></div>
+<script type="text/javascript">(function(d, w) {var clickfrog = function() {if(!d.getElementById('clickfrog_js_container')) {var sc = document.createElement('script');sc.type = 'text/javascript';sc.async = true;sc.src = "//stat.clickfrog.ru/c.js?r="+Math.random();sc.id = 'clickfrog_js_container';var c = document.getElementById('clickfrog_counter_container');c.parentNode.insertBefore(sc, c);}};if(w.opera == "[object Opera]"){d.addEventListener("DOMContentLoaded",clickfrog,false);}else {clickfrog();}})(document, window);</script>
+<noscript>
+<div style="width: 0px; height: 0px; overflow: hidden;"><img style="width: 0px; height: 0px;" src="//stat.clickfrog.ru/no_script.php?img" alt="" /></div>
+</noscript>
+<script type="text/javascript">var clickfrogru_uidh='680aecd035d1192b0051a9609fcf77f5';</script></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod92">
+						<h3><span>Контакты в России</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<ul class="contact-list">
+<li class="phone"><strong>Hot line: </strong><span>+7(915)814-09-51</span></li>
+<li class="email"><strong>Email: </strong><a href="/contact.html">написать письмо</a></li>
+</ul></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod93">
+						<h3><span>Мы в социальных сетях</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<noindex >
+<ul class="social-list">
+<li class="twitter"><!--noindex--><a rel="1" href="https://twitter.com/scienceproblem" title="Twitter" class=" external-link" target="_blank" >Twitter</a><!--/noindex--></li>
+<li class="facebook"><!--noindex--><a rel="1" href="https://www.facebook.com/scienceproblems" title="Facebook" class=" external-link" target="_blank" >Facebook</a><!--/noindex--></li>
+<li class="vimeo"><!--noindex--><a rel="1" href="http://vk.com/scienceproblemsru" title="Вконтакте" class=" external-link" target="_blank" >Вконтакте</a><!--/noindex--></li>
+</ul>
+</noindex ></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod195">
+						<h3><span>Внимание</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p><em><strong><span style="color: #ff0000;">Как авторам, при выборе журнала, не попасть в руки мошенников. <!--noindex--><a href="http://publicationarticles.ru/" target="_blank" class=" external-link --set-title" title="Очень обстоятельная статья. &gt;&gt;&gt;" rel="1" >Очень обстоятельная статья. &gt;&gt;&gt;</a><!--/noindex--></span></strong></em></p>
+<p>&emsp;</p></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl2 .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-navhelper"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-breadcrums">
+    <span class="breadcrumbs pathway">
+<strong>Вы здесь: </strong>Главная</span>
+
+</div>            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-copyright">
+    
+
+<div class="custom"  >
+	<h4>НАУЧНЫЕ ПУБЛИКАЦИИ В ЖУРНАЛЕ &laquo;European science&raquo;</h4>
+<p></p><!-- 
+/* Retrieve page title */
+$mydoc =& JFactory::getDocument();/* Получение данных конфигурации */
+$mytitle = $mydoc->getTitle();
+/* Generate the output */
+$output .= $mytitle;
+if ($wrapper != "none") { $output .= ""; }
+echo "$output";
+--> <p></p>
+<!-- Код тега ремаркетинга Google -->
+<!--------------------------------------------------
+С помощью тега ремаркетинга запрещается собирать информацию, по которой можно идентифицировать личность пользователя. Также запрещается размещать тег на страницах с контентом деликатного характера. Подробнее об этих требованиях и о настройке тега читайте на странице http://google.com/ads/remarketingsetup.
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 963505998;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/963505998/?value=1&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript></div>
+
+</div>            </div>
+                        </div>
+            
+</div>
+
+
+
+</body>
+
+</html>

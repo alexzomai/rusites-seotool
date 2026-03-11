@@ -1,0 +1,468 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" 
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>SSL сертификаты</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta http-equiv="Content-Type" content="text/html; windows-1251" />
+		<meta http-equiv="robots" content="INDEX,FOLLOW" />		
+		<link href="/styles/default.css" rel="stylesheet" type="text/css" />
+		<link href="/styles/substyles.css" rel="stylesheet" type="text/css" />
+
+	
+
+			<script language="JavaScript">
+function switch_ns_new(elem,host,ip,ps)
+{
+	if (elem.checked==true)
+	{
+		if (ps=='p')
+		{
+			hostvalue='ns1.best-hosting.ru';
+			hostip='85.192.32.6';
+		}
+		else
+		{
+			hostvalue='ns2.best-hosting.ru';
+			hostip='213.248.61.57';
+		}
+		
+		document.forms[elem.form.name].elements[host].value=hostvalue;
+		document.forms[elem.form.name].elements[host].readOnly=true;
+		document.forms[elem.form.name].elements[ip].value=hostip;
+		document.forms[elem.form.name].elements[ip].readOnly=true;
+	}
+	else
+	{
+		document.forms[elem.form.name].elements[host].value='';
+		document.forms[elem.form.name].elements[ip].value='';
+		document.forms[elem.form.name].elements[host].readOnly=false;
+		document.forms[elem.form.name].elements[ip].readOnly=false;
+	}
+	
+}
+
+function switch_ns(elem,phost,paddr,shost,saddr)
+{
+	if (elem.checked==true) {
+		document.forms[elem.form.name].elements[phost].value='ns1.best-hosting.ru';
+		document.forms[elem.form.name].elements[phost].readOnly=true;
+		document.forms[elem.form.name].elements[paddr].value='85.192.32.6';
+		document.forms[elem.form.name].elements[paddr].readOnly=true;
+		document.forms[elem.form.name].elements[shost].value='ns2.best-hosting.ru';
+		document.forms[elem.form.name].elements[shost].readOnly=true;
+		document.forms[elem.form.name].elements[saddr].value='213.248.61.57';
+		document.forms[elem.form.name].elements[saddr].readOnly=true;
+	}
+	else {
+		document.forms[elem.form.name].elements[phost].value='';
+		document.forms[elem.form.name].elements[paddr].value='';
+		document.forms[elem.form.name].elements[shost].value='';
+		document.forms[elem.form.name].elements[saddr].value='';
+		
+		document.forms[elem.form.name].elements[phost].readOnly=false;
+		document.forms[elem.form.name].elements[paddr].readOnly=false;
+		document.forms[elem.form.name].elements[shost].readOnly=false;
+		document.forms[elem.form.name].elements[saddr].readOnly=false;
+		
+	}
+	return false;
+}
+
+
+function ShowWnd(Wnd,Wnd_name,width,height) {
+	Wnd_window=open(Wnd, Wnd_name, 'fullscreen=no,channelmode=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width='+width+',height='+height);
+	Wnd_window.focus();
+return(false);
+}
+
+
+function SelectAll(formname, checkname,elem)
+{
+	for (i = 0; i < document.forms[formname].elements.length; i++)
+	{
+		var item=document.forms[formname].elements[i];
+		if (item.name == checkname)
+		{
+			item.checked = elem.checked;// == true) ? false : true;
+		}
+	}
+}
+
+function checkrus(formname,elem,checkname)
+{
+	if (document.forms[formname].elements[elem].value!='')
+	{
+		var res=true;
+	
+		var inValid = new RegExp("[^A-Za-z0-9-]");
+		var s=document.forms[formname].elements[elem].value;
+		ss = s.split("\r\n");
+		
+		for (i=0; i<ss.length && res; i++)
+		{
+			sss=ss[i].replace(/(^\s*)|(\s*$)/g, "");
+			if (sss.length>0)
+			{
+				if (inValid.test(ss[i]) || ss[i].length<3)
+					res=false;
+			}
+		}
+		
+		if (res)
+		{
+			if (checkname!='')
+			{
+				res=false;
+				for (i = 0; i < document.forms[formname].elements.length && !res; i++)
+					if (document.forms[formname].elements[i].name == checkname)
+						res=document.forms[formname].elements[i].checked;
+			}
+			
+			if (res) 
+				document.forms[formname].submit();
+			else
+				window.alert("┬тхфшЄх чюэє фы  яЁютхЁъш");
+				
+		}
+			
+		else
+		 	window.alert("┬тхфшЄх ъюЁЁхъЄэ√х шьхэр фюьхэр (ырЄшэёъшх сєът√, ЎшЇЁ√ ш '-', фышээр эх ьхэхх 3 ёшьтюыют).");
+	}
+	else
+		window.alert("┬тхфшЄх шь  фюьхэр.");
+}
+
+
+function domainorder(serviceID,formname,imgsize,DomainName)
+{
+	switch (imgsize){
+		case 78:
+			ShowWnd("/whois_info.asp?d="+DomainName,"",600,600);
+			break;
+		case 104:
+			break;
+		case 58:
+			document.forms[formname].ServiceID.value=serviceID;
+			document.forms[formname].DomainName.value=DomainName;
+			document.forms[formname].submit();
+	}
+
+}			
+			</script>
+	</head>
+	<body>
+	
+		<div id="wrapper">
+			<div id="topmenu"> 
+				<!--<a href="http://ssl.best-hosting.ru">SSL сертификат</a> |
+
+<a href="http://www.best-hosting.ru/dedicated_server.asp">арендовать сервер</a> |
+
+<a href="http://www.best-hosting.ru/unix_prices.asp">платный unix хостинг</a> |
+
+<a href="http://www.best-hosting.ru/virtual_private_servers.asp">vps, vds сервер</a> |
+
+<a href="http://www.best-hosting.ru/domain.asp">зарегистрировать домен</a> |
+
+<a href="http://www.best-hosting.ru/webmoney_hosting.asp">webmoney хостинг</a> |
+
+<a href="http://www.best-hosting.ru/news.asp">новости</a>-->
+				<ul>
+					<li><a href="http://ssl.best-hosting.ru">SSL сертификат</a></li>   
+					<li class="sep">|</li>
+					<li><a href="http://www.best-hosting.ru/dedicated_server.asp">арендовать сервер</a></li>  
+					<li class="sep">|</li>					
+					<li><a href="http://www.best-hosting.ru/unix_prices.asp">платный unix хостинг</a></li>
+					<li class="sep">|</li>
+					<li><a href="http://www.best-hosting.ru/virtual_private_servers.asp">vps, vds сервер</a></li>
+					<li class="sep">|</li>
+					<li><a href="http://www.best-hosting.ru/domain.asp">зарегистрировать домен</a></li>
+					<li class="sep">|</li>
+					<li><a href="http://www.best-hosting.ru/webmoney_hosting.asp">webmoney хостинг</a></li>
+					<li class="sep">|</li>
+					<li><a href="http://www.best-hosting.ru/news.asp">новости</a></li> 
+				</ul>
+			</div>
+			
+			
+			<div id="header">
+            </div>
+			
+			<div id="mainmenu">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+					
+					<tr>
+						
+								<td class="m_text" nowrap>
+									<a href="/">Главная страница</a>
+								</td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap>
+									<a href="/Certificates.aspx">SSL сертификаты</a>
+								</td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap>
+									<a href="/OrderCertificates.aspx">Заказать SSL сертификат</a>
+								</td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap>
+									<a href="/info.aspx">Дополнительная информация</a>
+								</td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap>
+									<a href="/Content/glossary.html">Глоссарий</a>
+								</td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap>
+									<a href="/Content/Contacts.html">Контакты</a>
+								</td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap>
+									<a href="/Sitemap.aspx">Карта сайта</a>
+								</td>
+								<td class="sep"></td>
+							
+					</tr>
+				</table>
+			</div>
+			
+			<div id="maincontent">
+				
+<div>
+
+	<h1>Мы предлагаем Thawte SSL Сертификаты</h1>
+	<div id="mainform">
+		<div style="padding:10px;">
+			<table cellpadding="0" cellspacing="0" border="0" style="width:100%;">
+				<tr>
+					<td class="ind_hdr_left"></td>
+					<td class="ind_hdr">Сертификаты:</td>
+					<td class="ind_hdr"><b>Стоимость, руб.<br /> за 1 год</b></td>
+					<td class="ind_hdr"><b>Количество<br />доменов</b></td>
+					<td class="ind_hdr" style="height:55px;"><b>Проверка<br />данных</b></td>
+					<td class="ind_hdr1">&nbsp;</td>
+					<td class="ind_hdr_right"></td>
+				</tr>
+				<tr>
+					<td style="width:4px;"></td>
+					<td class="ind_text_hdr"><a href="/Certificate.aspx?ID=1"><b>SSL 123 Сертификат</b></a></td>
+					<td class="ind_text">4640</td>
+					<td class="ind_text">1</td>
+					<td class="ind_text">Доменное имя</td>
+					<td class="ind_text" align="center"><a href="https://www.best-hosting.ru/ssl/Order.aspx?ID=1"><img src="images/buttons/btn_order.jpg" alt="заказать" border="0" /></a></td>
+					<td style="width:5px;"></td>
+				</tr>
+				<tr>
+					
+					<td style="width:4px;"></td>
+					<td class="ind_text_hdr"><a href="/Certificate.aspx?ID=2"><b>SSL Сертификат для веб сервера</b></a></td>
+					<td class="ind_text">10295</td>
+					<td class="ind_text">1</td>
+					<td class="ind_text">Обязательная проверка<br />данных организации</td>
+					<td class="ind_text" align="center"><a href="https://www.best-hosting.ru/ssl/Order.aspx?ID=2"><img src="images/buttons/btn_order.jpg" alt="заказать" border="0" /></a></td>
+					<td style="width:5px;"></td>
+				</tr>
+				
+				<tr>
+					<td style="width:4px;">&nbsp;</td>
+					<td class="ind_text_hdr"><a href="/Certificate.aspx?ID=4"><b>SSL Wildcard Сертификат</b></a></td>
+					<td class="ind_text">51910</td>
+					<td class="ind_text">1+неогр. поддоменов</td>
+					<td class="ind_text">Обязательная проверка<br />данных организации</td>
+					<td class="ind_text" align="center"><a href="https://www.best-hosting.ru/ssl/Order.aspx?ID=4"><img src="images/buttons/btn_order.jpg" alt="заказать" border="0" /></a></td>
+					
+					<td style="width:5px;">&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width:4px;">&nbsp;</td>
+					<td class="ind_text_hdr"><a href="/Certificate.aspx?ID=5"><b>SSL Web Server EV Сертификат</b></a></td>
+					<td class="ind_text">47850</td>
+					<td class="ind_text">1</td>
+					<td class="ind_text">Расширенная<br> обязательная проверка<br> данных организации</td>
+					<td class="ind_text" align="center"><a href="https://www.best-hosting.ru/ssl/Order.aspx?ID=5"><img src="images/buttons/btn_order.jpg" alt="заказать" border="0" /></a></td>
+					<td style="width:5px;">&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width:4px;">&nbsp;</td>
+					<td class="ind_text_hdr"><a href="/Certificate.aspx?ID=6"><b>Comodo Extended Validated SSL</b></a></td>
+					<td class="ind_text">17139</td>
+					<td class="ind_text">1</td>
+					<td class="ind_text">Расширенная<br> обязательная проверка<br> данных организации</td>
+					<td class="ind_text" align="center"><a href="https://www.best-hosting.ru/ssl/Order.aspx?ID=6"><img src="images/buttons/btn_order.jpg" alt="заказать" border="0" /></a></td>
+					<td style="width:5px;">&nbsp;</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	
+	<div id="block">
+		<div style="padding:20px 0 20px 20px;">
+			<table border="0" cellspacing="2" cellpadding="2" width="95%"><tbody><tr><td width="33%" align="left"><p><strong>Что Вам необходимо?</strong></p></td><td align="left"><p><strong>Быстрые ссылки:</strong></p></td><td rowspan="2" valign="top"><p><a href="https://www.thawte.com/isp/"><br /></a></p></td></tr><tr><td valign="top"><ul><li><a href="../Certificates.aspx">Защитить веб сервер</a><br /></li><li><a href="../Certificates.aspx">Обеспечить лучшее шифрование данных</a><br /></li></ul></td><!-- <td width="33%" valign="top">  <ul>  <li><a href="../Content/WhereServerSecure.html">Когда веб сервер является защищенным?</a><br />  </li><li><a href="../Content/HowWorks.html">Как работает SSL протокол</a><br /></li>  <li><a href="../Content/HowToSpread.html">Как распространять активный контент</a><br /></li>  </ul>  </td> --><td width="34%" valign="top"><ul><li><a href="../OrderCertificates.aspx">Купить SSL сертификат</a></li><li><a href="../OrderCertificates.aspx">Продлить SSL сертификат</a></li><li><a href="../OrderCertificates.aspx">Узнать цену на SSL сертификат</a></li><li><a href="../OrderCertificates.aspx">Купить добавочные лицензии</a></li></ul></td></tr></tbody></table><p>&nbsp;</p>
+		</div>
+	</div>
+				
+	<div id="block">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td valign="top" align="left" style="padding:10px 0 0px 20px;" colspan="3">
+					<p><b>Новости компании</b> &nbsp;&nbsp;<a class="green" href="https://www.best-hosting.ru/news.asp">все новости&nbsp;<img src="images/icons/li2.gif" border="0" /></a></p>
+				</td>
+			</tr>
+			<tr>
+				
+						<td valign="top" align="left" style="padding:10px 0 20px 20px; width:33%">
+							<p class="date">30.10.2025</p>
+							<p><a href="https://www.best-hosting.ru/news/.asp">ВНИМАНИЕ! Перенос доменов от Ру-Центра к другому регистратору Regtime Ltd. С 10 ноября 2025.</a>&nbsp;<img src="images/icons/li2.gif" border="0" /></p>
+							<p style="margin-top: 5px; margin-bottom: 5px;">В связи с резким подорожанием услуг регистратора  "Ру-Центр" https://nic.ru предлагаем нашим клиентам перевести домены к другому, Регистратору Regtime Ltd https://www.webnames.ru .
+Инструкция, как перенести домен смотрите в полной версии новости.</p>&nbsp;&nbsp;
+							
+						</td>
+						
+					
+						<td valign="top" align="left" style="padding:10px 0 20px 20px; width:33%">
+							<p class="date">24.01.2025</p>
+							<p><a href="https://www.best-hosting.ru/news/.asp">Наша компания best-HOSTING.ru работает в штатном режиме. ВНИМАНИЕ: best-HOSTING.ru и best-HOSTER.ru - это разные организации! </a>&nbsp;<img src="images/icons/li2.gif" border="0" /></p>
+							<p style="margin-top: 5px; margin-bottom: 5px;">best-HOSTING.ru и best-HOSTER.ru - это разные организации!
+Наша компания best-HOSTING.ru работает в штатном режиме. 
+Проблемы наблюдаются у клиентов компании best-HOSTER.ru .
+С уважением, 
+команда BEST-HOSTING.RU .</p>&nbsp;&nbsp;
+							
+						</td>
+						
+					
+						<td valign="top" align="left" style="padding:10px 0 20px 20px; width:33%">
+							<p class="date">13.04.2023</p>
+							<p><a href="https://www.best-hosting.ru/news/.asp">Каждый владелец домена должен это знать!!! (см. полный текст новости)</a>&nbsp;<img src="images/icons/li2.gif" border="0" /></p>
+							<p style="margin-top: 5px; margin-bottom: 5px;">Сменить владельца домена возможно только при действующем владельце!
+То есть, если юридическое лицо ликвидировано, то даже если имеется печать организации и доступен генеральный директор, передать домен  новому владельцу будет невозможно!!!
+Либо..</p>&nbsp;&nbsp;
+							
+						</td>
+						
+					
+			</tr>
+		</table>
+	</div>
+</div>			
+
+				
+				
+				
+				
+			
+				<div id="block_s">
+					<div style="padding:10px;">
+						<table width="100%" border="0">
+							<tr>
+								<td align="left">
+									<table width="100%" border="0">
+<tr>
+<td align="left">
+<b>Полезное:</b> <a href="http://www.businessmaker.ru/">разработка сайта</a> | 
+<a href="http://www.dedicatedservers.ru/">аренда сервера</a>
+</td>
+<td align="right">
+<b>English links:</b> <a href="http://www.best-hosting.net/dedicated_servers.asp">dedicated server</a> | 
+<a href="http://www.best-hosting.net/unix_prices.asp">unix hosting</a> | 
+<a href="http://www.best-hosting.net/domain.asp">domain registration</a> | 
+<a href="http://www.best-hosting.net/virtual_private_servers.asp">vps server</a> 
+</td>
+</tr>
+</table>
+									
+
+								</td>
+								<td align="right">
+									
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+			
+			<div id="footmenu">
+				<table width="100%" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+						
+								<td class="m_text" nowrap><a href="/">Главная страница</a></td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap><a href="/Certificates.aspx">SSL сертификаты</a></td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap><a href="/OrderCertificates.aspx">Заказать SSL сертификат</a></td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap><a href="/info.aspx">Дополнительная информация</a></td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap><a href="/Content/glossary.html">Глоссарий</a></td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap><a href="/Content/Contacts.html">Контакты</a></td>
+								<td class="sep"></td>
+							
+								<td class="m_text" nowrap><a href="/Sitemap.aspx">Карта сайта</a></td>
+								<td class="sep"></td>
+							
+					</tr>
+				</table>
+			</div>
+			
+			<div id="bottom">
+						<table background="/images/bkg_bot.gif" class="table" width="100%" cellspacing="0" cellpadding="0" border="0">
+			<tr valign="top">
+				<td align="left" width="33%" style="padding:20px;">Copyright © 2001-2010 <a href="http://www.best-hosting.ru">Best Hosting</a> - Аренда серверов, <a href="http://ssl.best-hosting.ru">ssl сертификаты</a><br>All rights reserved</p>
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a hrefs='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t26.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число посетителей за"+
+" сегодня' "+
+"border=0 width=88 height=15><\/a>")//--></script><!--/LiveInternet-->
+
+
+				</td>
+				<td width="33%" align="left" style="padding:20px;"><p><strong>Телефон/факс:</strong> (495) 788-94-84<br>
+				<strong>Support</strong>: <a href="mailto:support@best-hosting.ru">support@best-hosting.ru</a><br>
+				
+				</td>
+
+				<td width="33%" style="padding:20px;" valign="top"> 
+<a href="https://www.thawte.com/isp/"><img src="../images/seal_hosting_137.gif" border="0" alt="Official Partner thawte" title="Official Partner thawte" hspace="10" vspace="10" width="199" height="37" align="left" valign=top></a>
+</td>
+		</tr>
+		</table>
+
+			</div>
+
+		</div>
+
+
+		<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		try { var yaCounter753833 = new Ya.Metrika(753833); } catch(e){}
+		</script>
+		<noscript><img src="//mc.yandex.ru/watch/753833" style="position:absolute" alt="" /></noscript>
+		<!-- /Yandex.Metrika --> 
+	</body>
+</html>
+
+
+
+

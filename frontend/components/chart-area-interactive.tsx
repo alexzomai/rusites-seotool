@@ -74,15 +74,21 @@ export function ChartAreaInteractive({ data }: { data: ChartDataPoint[] }) {
               <SelectValue placeholder="3 месяца" />
             </SelectTrigger>
             <SelectContent className="rounded-xl">
-              <SelectItem value="90d" className="rounded-lg">3 месяца</SelectItem>
-              <SelectItem value="30d" className="rounded-lg">30 дней</SelectItem>
-              <SelectItem value="7d" className="rounded-lg">7 дней</SelectItem>
+              <SelectItem value="90d" className="rounded-lg">
+                3 месяца
+              </SelectItem>
+              <SelectItem value="30d" className="rounded-lg">
+                30 дней
+              </SelectItem>
+              <SelectItem value="7d" className="rounded-lg">
+                7 дней
+              </SelectItem>
             </SelectContent>
           </Select>
         </CardAction>
       </CardHeader>
       <CardContent className="px-2 pt-4 sm:px-6 sm:pt-6">
-        <ChartContainer config={chartConfig} className="aspect-auto h-[250px] w-full">
+        <ChartContainer config={chartConfig} className="aspect-auto h-[300px] w-full">
           <AreaChart data={filteredData}>
             <defs>
               <linearGradient id="fillVisits" x1="0" y1="0" x2="0" y2="1">

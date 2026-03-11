@@ -1,0 +1,2117 @@
+
+
+
+<!DOCTYPE html>
+<html ng-app="app" ng-controller="MainCtrl">
+
+<!-- CSS-стили модального окна -->
+<style>
+
+    /* Стили для модального окна */
+    .modal-overlay-lz {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        z-index: 999999;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .modal-content-lz {
+        background-color: white;
+        padding: 30px;
+        border-radius: 15px;
+        max-width: 400px;
+        width: 90%;
+        text-align: center;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        position: relative;
+    }
+
+    .modal-icon-lz {
+        width: 80px;
+        height: 80px;
+        margin: 0 auto 20px;
+        display: block;
+    }
+
+    .modal-title-lz {
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 15px;
+        line-height: 1.4;
+    }
+
+    .modal-button-lz {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 12px 30px;
+        font-size: 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        margin-top: 20px;
+        transition: background-color 0.3s;
+        font-weight: bold;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .modal-button-lz:hover {
+        background-color: #45a049;
+    }
+
+    .close-button-lz {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+        font-size: 24px;
+        cursor: pointer;
+        color: #999;
+        background: none;
+        border: none;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+    }
+
+    .close-button-lz:hover {
+        background-color: #f5f5f5;
+        color: #333;
+    }
+
+    body.modal-open-lz {
+        overflow: hidden;
+    }
+/* Стили всплывающего окна по-умолчанию */
+.modal {
+    position: fixed; /* фиксированное положение */
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5); /* фон */
+    z-index: 1050;
+    opacity: 0; /* по умолчанию модальное окно прозрачно */
+    -webkit-transition: opacity 200ms ease-in; 
+    -moz-transition: opacity 200ms ease-in;
+    transition: opacity 200ms ease-in; /* анимация перехода */
+    pointer-events: none; /* элемент невидим для событий мыши */
+    margin: 0;
+    padding: 0;
+}
+/* При отображении модального окно */
+.modal:target {
+    opacity: 1; /* делаем окно видимым */
+   pointer-events: auto; /* элемент видим для событий мыши */
+    overflow-y: auto; /* добавляем прокрутку по y, когда элемент не помещается на страницу */
+}
+/* ширина модального окна и его отступы от экрана */
+.modal-dialog {
+    position: relative;
+    width: auto;
+    margin: 10px;
+}
+@media (min-width: 576px) {
+  .modal-dialog {
+      max-width: 500px;
+      margin: 30px auto; /* отображение окна по центру */
+  }
+}
+/* Стили для блока с контентом окна */ 
+.modal-content {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+}
+@media (min-width: 768px) {
+  .modal-content {
+      -webkit-box-shadow: 0 5px 15px rgba(0,0,0,.5);
+      box-shadow: 0 5px 15px rgba(0,0,0,.5);
+  }
+}
+/* Стили заголовка окна */
+.modal-header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid #eceeef;
+}
+.modal-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.5;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+/* Стили кнопки "х" ("Закрыть")  */
+.close {
+    float: right;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+    text-decoration: none;
+}
+/* Стили для закрывающей кнопки в фокусе или наведении */
+.close:focus, .close:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    opacity: .75;
+}
+/* Стили блока основного содержимого окна */
+.modal-body {
+  position: relative;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 15px;
+    overflow: auto;
+}
+</style>
+
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name='yandex-verification' content='661189e14bade79a' />
+    <link href="/main/css/style.css" rel="stylesheet">
+    <link href="/main/css/style_max_width_767.css" rel="stylesheet" media="(max-width: 767px)">
+    <link href="/main/css/style_max_width_870.css" rel="stylesheet" media="(max-width: 870px)">
+    <link href="/main/css/style_width_768_959.css" rel="stylesheet" media="(min-width: 768px) and (max-width: 959px)">
+    <link href="/main/css/style_width_960_1179.css" rel="stylesheet" media="(min-width: 960px) and (max-width: 1179px)">
+    <link href="/main/css/style_min_width_1170.css" rel="stylesheet" media="(min-width: 1170px)">
+    <link rel="stylesheet" href="/main/css/breadcrumbs.css">
+    <!-- стиль для прелоадера -->
+    <link href="/main/css/jquery.loading-indicator.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link rel="icon" sizes="16x16" href="/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="/images/favicon.png">
+    
+        
+            
+        
+        
+    
+    <link rel="canonical" href="https://lovizaim.ru/"/>
+	 <!--[if lt IE 9]>
+    <script src="/main/js/html5.js"></script>
+    <link href="/main/css/ie8.css" rel="stylesheet">
+	<![endif]-->
+    <script src="/main/js/jquery.min.js"></script>
+    <script src="/main/js/jquery-ui.min.js"></script>
+    <script src="/main/js/jquery.maskedinput.min.js"></script>
+    <script src="/main/js/modernizr.custom.js"></script>
+    <script src="/main/js/jquery.ui.touch-punch.min.js"></script>
+    <script src="/main/js/jquery.cookie.js"></script>
+    <script src="/main/js/jquery.blockUI.js"></script>
+    <script src="/main/js/block.js"></script>
+    <script src="/main/js/js_new.js"></script>
+    <script src="/main/js/slick.js"></script>
+    <script type="text/javascript" src="/main/rest/firstrequest/calculateStakeUnknown.js"></script>
+    <script src="/main/js/af.js"></script>
+    <script src="/main/js/lib/angular.min.js"></script>
+    <script src="/main/js/lib/angular-sanitize.min.js"></script>
+    <script src="/main/js/lib/angular-resource.min.js"></script>
+
+    <script src="/main/js/layout.js"></script>
+    <script src="/main/js/callback.js"></script>
+    <script src="/main/js/breadcrumbs.js"></script>
+    <script>
+        jQuery(document).ready(function($) {
+            $('#breadcrumbs').breadcrumbsGenerator();
+        });
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.39/jquery.fancybox.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.0.39/jquery.fancybox.min.js"></script>
+
+    <script>
+        app = angular.module('app', ['layout']);
+    </script>
+
+    <style>
+        input:required,
+        input:invalid,
+        textarea:required,
+        textarea:invalid {
+            box-shadow: none;
+        }
+
+        .error {
+            background: #ffecec !important;
+        }
+
+        .callback_up .fieldset .info-red {
+            background: #ffecec;
+            height: auto;
+            padding: 12px 50px 14px;
+        }
+
+        .callback_up .fieldset .info-red p {
+            font: 14px/17px "PFDinDisplay_Pro";
+            color: #575A61;
+            z-index: 3;
+            position: relative;
+        }
+
+        .callback_up .fieldset .info-red::before {
+            content: "";
+            width: 24px;
+            height: 24px;
+            position: absolute;
+            left: 19px;
+            top: 9px;
+            z-index: 3;
+            background: transparent url("/main/images/sprite.svg") repeat scroll -67px -738px;
+        }
+
+        .fieldset .first.error:after {
+            position: absolute;
+            width: 5px;
+            top: 0;
+            left: -5px;
+            bottom: 0;
+            content: '';
+            border-radius: 5px 0 0 5px;
+            background:#ff4848;
+        }
+    </style>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(33286090, "init", {
+        id:33286090,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        trackHash:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33286090" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3160351", type: "pageView", start: (new Date()).getTime(), pid: "USER_ID"});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3160351;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?168",t.onload=function(){VK.Retargeting.Init("VK-RTRG-488680-c5XU9"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-488680-c5XU9" style="position:fixed; left:-999px;" alt=""/></noscript><meta name='build-version' content='#10481 Ср. июня 30 11:02:18 MSK 2021 GIT_REVISION: 1ed9172e96c22cb44f17ab9e197df8e6ddd2dabd' />
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        m[i].l = 1 * new Date();
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(33286090, "init", {
+        id: 33286090,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+        trackHash: true
+    });
+</script>
+<noscript>
+	<div><img src="https://mc.yandex.ru/watch/33286090" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+<link href="css/home_media.css" rel="stylesheet">
+
+<title>Оформить займ в сервисе моментальных онлайн займов.</title>
+<meta name="description" content="Взять кредит, когда очень нужны деньги, можно быстро и просто. Воспользуйтесь калькулятором займа и оформляйте заявку на заем денежных средств по всей России">
+<meta name="keywords" content="">
+
+<meta property="og:locale" content="ru_RU"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Оформить займ в сервисе моментальных онлайн займов."/>
+<meta property="og:description" content="Взять кредит, когда очень нужны деньги, можно быстро и просто. Воспользуйтесь калькулятором займа и оформляйте заявку на заем денежных средств по всей России"/>
+<meta property="og:url" content="https://lovizaim.ru/"/>
+<meta property="og:image" content="https://lovizaim.ru/main/images/logo.svg"/>
+<meta property="og:site_name" content="Лови Займ"/>
+
+<script>
+	function redirectOverview() {
+		var d = new Date();
+        ga ('send', 'event', 'lichnui', 'cabinet');
+        if (typeof yaCounter33286090 !== 'undefined') {
+            yaCounter33286090.reachGoal('lichkabinet');
+        }
+		window.location.replace('/main/client/overview.shtml?' + d.getTime());
+	}
+</script>
+<script>
+    // Ждем полной загрузки страницы
+    document.addEventListener('DOMContentLoaded', function() {
+        // Открываем окно через 0.5 секунды
+        setTimeout(function() {
+            // Создаем модальное окно
+            const modalHTML = `
+                <div id="loanModalLz" class="modal-overlay-lz">
+                    <div class="modal-content-lz">
+                        <button class="close-button-lz" onclick="closeLoanModalLz()">&times;</button>
+                        <img src="smile.png" alt="Улыбка" class="modal-icon-lz">
+                        <div class="modal-title-lz">
+                            Выдача займов на сайте не осуществляется.<br>
+                            Посмотрите предложения наших партнёров
+                        </div>
+                        <a href="https://viruchay.ru/?utm_source=loviz" target="_blank" class="modal-button-lz">
+                            Перейти
+                        </a>
+                    </div>
+                </div>
+            `;
+            
+            // Добавляем модальное окно в конец body
+            document.body.insertAdjacentHTML('beforeend', modalHTML);
+            
+            // Показываем модальное окно
+            openLoanModalLz();
+        }, 500); // 500ms = 0.5 секунды
+    });
+
+    // Функции для работы с модальным окном
+    function openLoanModalLz() {
+        const modal = document.getElementById('loanModalLz');
+        const body = document.body;
+        
+        if (modal) {
+            modal.style.display = 'flex';
+            body.classList.add('modal-open-lz');
+        }
+    }
+
+    function closeLoanModalLz() {
+        const modal = document.getElementById('loanModalLz');
+        const body = document.body;
+        
+        if (modal) {
+            modal.style.display = 'none';
+            body.classList.remove('modal-open-lz');
+        }
+    }
+</script>
+</head>
+<body class="home-page">
+<!--
+<div class="top-alert">
+               <div class="center">
+                              <p>Уважаемые Клиенты! Сервис не работает 1-ого и 2-ого января.</p>
+                              <a class="top-alert__alarm"></a>
+                              <a class="top-alert__ico"></a>
+               </div>
+</div>-->
+
+<div itemscope itemtype="http://schema.org/Organization" style="display: none">
+    <span itemprop="name">Лови Займ</span>
+    <span itemprop="logo">https://lovizaim.ru/main/images/logo.svg</span>
+    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="areaServed">Россия</span>
+    </div>
+    Телефон:
+    <span itemprop="telephone">8 800 222-94-24 (8:00-21:00)</span>,
+    E-mail: <span itemprop="email">support@lovizaim.ru</span>
+</div>
+
+<header class="header clr" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+	<div class="center">
+
+		<div class="logo">
+			<img src="images/logo.svg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+		</div>
+
+		<nav>
+			<ul class="nav-ul">
+				<li class="support"><a onclick="ga ('send', 'event', 'zaim', 'support'); if (typeof yaCounter33286090 !== 'undefined') yaCounter33286090.reachGoal('supportanl'); return true;">Поддержка</a></li>
+                <li class="operating-mode hidden-sm hidden-xs">
+                    <a class="main__tel" href="tel:88002229424">8 800 222 94 24</a>
+                    с 9<sup>00</sup> до 18<sup>00</sup> <span class="operating-mode__b14">по МСК</span>
+                </li>
+				<!-- <li class="btn hidden-md"><a class="js-callback-button">Мы вам перезвоним</a></li> -->
+                <li class="btn hidden-xs hidden-md btn-t24-md"><a href="#openModal" onclick="ga ('send', 'event', 'dengi', 'poluchit'); if (typeof yaCounter33286090 !== 'undefined') yaCounter33286090.reachGoal('poluchit_dengi'); ym(33286090,'reachGoal','form'); return true;">Получить деньги</a>
+                </li>
+				<li class="btn btnToLk"><a onclick="redirectOverview();">Личный кабинет</a></li>
+				<li class="btn loan-under-pts"><a class="full-text-loan-under-pts">Автозайм</a><a class="short-text-loan-under-pts">Автозайм</a></li>
+			</ul>
+
+			<a href="/client/overview.shtml" class="nav-a"></a>
+			<a class="loan-under-pts-icon"></a>
+		</nav>
+
+		<div class="header__title visible-sm visible-xs">Оформить займ по всей России, без поручительства и залога</div>
+
+		<ul class="rotate-slogan hidden-sm hidden-xs">
+
+            
+                <li style="color:#575a61" class="slogan active"><img src="/main/rest/cms/images/ext/755.jpg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм"><div class="rotate-slogan__h3">Займы без комиссии</div> 
+Наше уникальное предложение касается возврата и получения займов через:
+</br></br>
+
+<ul>
+					<li>Карты Visa/MasterCard/МИР</li>
+		 				</ul></li>
+            
+                <li style="color:#575a61" class="slogan "><img src="/main/rest/cms/images/ext/756.jpg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм"><div class="rotate-slogan__h3">Займы без комиссии</div> 
+Наше уникальное предложение касается возврата и получения займов через:
+</br></br>
+
+<ul>
+					<li>Карты Visa/MasterCard/МИР</li>
+		 				</ul></li>
+            
+                <li style="color:#575a61" class="slogan "><img src="/main/rest/cms/images/ext/757.jpg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм"></li>
+            
+
+		</ul>
+
+
+	</div>
+
+	
+<div class="start-slider anketa-slider">
+    <div class="center">
+        <div class="summ">
+            <p class="label hidden-lg hidden-md">Сумма <span>/ рублей</span>
+                <input class="input numer" id="summ_zaim-input">
+            </p>
+
+            <div class="slider" id="summ_zaim_slider" data-min="1000" data-max="30000" data-step="500"
+                 data-value="10000" data-procent="2"></div>
+
+            <div class="min hidden-sm hidden-xs"><span id="minSumLabel"></span> <span>руб.</span></div>
+            <div class="max hidden-sm hidden-xs"><span id="maxSumLabel"></span> <span>руб.</span></div>
+			<span id="firstzaim_alert" class="slider-max-firstzaim-label" style="display:none;">Сумма более <span id="maxzaim_unregistered"></span> р доступна только со 2 займа</span>
+            <ul>
+                <li class="hidden-xs"><b id="summ_zaim"></b> руб. <span>сумма займа</span></li>
+                
+                <li id="message" class="d-none"><span class="msg yellow">Дарим бонусы на оплату процентов по займу!</span></li>
+                <li><b id="percent_per_day" style="color: #ffe748; font-size: 24px;"></b><span>% в день</span></li>
+                <li class="hidden-sm hidden-xs"><span><b id="procent_zaim"></b> руб. </span><span>процент</span></li>
+                <li><b id="total_zaim"></b> руб. <span>сумма возврата</span></li>
+            </ul>
+        </div>
+
+        <div class="time">
+            <p class="label hidden-lg hidden-md">Срок <span>/ дней</span>
+                <input class="input numer" id="date_zaim-input">
+            </p>
+
+            <div class="slider" id="date_zaim_slider" data-min="2" data-max="31" data-value="9"></div>
+
+            <div class="min hidden-sm hidden-xs"><span id="minDaysLabel"></span> <span>дней</span></div>
+            <div class="max hidden-sm hidden-xs"><span id="maxDaysLabel"></span> <span>дней</span></div>
+
+            <ul>
+                <li><b id="date_zaim">28.08.2015</b> <span>дата возврата</span></li>
+            </ul>
+        </div>
+
+       <div class="btn-send-inside">
+			<span class="btn-send">
+				<span class="transform">
+					<span class="front">Получить <br> деньги</span>
+					<span class="back"></span>
+				</span>
+			</span>
+        <a href="#openModal"class="btn-send-link"></a>
+        </div>
+    </div>
+</div>
+
+
+	<!-- Start block-menu -->
+	
+
+<div class="block-menu">
+    <span class="bg_menu"></span>
+    <div class="block-menu-inside">
+        <ul class="main_ul">
+            <li class="uli-sub">
+                <a href="/about.shtml"><label>О нас</label></a><div class="div_v"></div>
+                <ul class="sub-menu">
+                    <li><a href="/why-we.shtml">Почему именно мы?</a></li>
+                    <li><a href="/city.shtml">В каких городах мы работаем</a></li>
+                    <li><a href="/politics.shtml">Соглашения и правила</a></li>
+                    <li><a href="/news.shtml">Новости</a></li>
+                    <li><a href="/o-nas/preimuschestva-zajmov">Преимущества займов</a></li>
+                    <li><a href="/contacts.shtml">Контакты</a></li>
+                    
+                </ul>
+            </li>
+            <li class="uli-sub">
+                <a href="/uslugi"><label>Наши услуги</label></a><div class="div_v"></div>
+                <ul class="sub-menu sbm-2">
+                    <li><a href="/uslugi/potrebitelskij-zaem">Потребительские займы</a></li>
+                    <li><a href="/uslugi/fizicheskim-litsam">Физическим лицам</a></li>
+                    <!--
+                    <li><a href="/potrebitelskij-zaem.shtml">Потребительские займы</a></li>
+                    <li><a href="/fizicheskim-litsam.shtml">Физическим лицам</a></li>
+                    -->
+                </ul>
+            </li>
+            <!--li><a href="">Заявка на займ</a></li-->
+            <li class="uli-sub">
+                <a href="/sposobi-polucheniya-zayma.shtml"><label>Способы получения займа</label></a><div class="div_v"></div>
+                <ul class="sub-menu sbm-2">
+                    
+                    
+                    
+                    
+                    <li><a href="/zaem-cherez-kartu.shtml">На карту</a></li>
+                </ul>
+            </li>
+            <li class="uli-sub">
+                <a href="/kak-pogasit-zaym.shtml"><label>Как погасить займ?</label></a><div class="div_v"></div>
+                <ul class="sub-menu sbm-2">
+                    
+                    
+                    
+                    <li><a href="/pogashenie-cherez-kartu.shtml">Карта любого банка</a></li>
+                    
+                </ul>
+            </li>
+            <li><a href="/faq.shtml">Вопросы и ответы</a></li>
+
+        </ul>
+    </div>
+</div>
+
+	<!-- Stop block-menu -->
+
+	<meta itemprop="name" content="Оформить займ в сервисе моментальных онлайн займов."/>
+	<meta itemprop="description" content="Взять кредит, когда очень нужны деньги, можно быстро и просто. Воспользуйтесь калькулятором займа и оформляйте заявку на заем денежных средств по всей России"/>
+
+</header>
+<main>
+
+	<article>
+
+		<div class="home_block center">
+			
+			<div class="home_block__title">Как это работает?</div>
+
+			<ul class="steps clr">
+				
+					
+						
+					
+					<li class='active'><span>Подать заявку</span></li>
+					
+				
+					
+					<li><span>Пройти процесс рассмотрения</span></li>
+					
+				
+					
+					<li><span>Получить деньги</span></li>
+					
+				
+					
+					<li><span>Вернуть деньги</span></li>
+					
+				
+					
+					<li><span>Получить новый заем опять</span></li>
+					
+				
+			</ul>
+
+			<div class="progress-bar"><i class="arrow"></i></div>
+			<div class="desc stepsDistr">
+				
+					
+						
+					
+					<div class="tabs active">
+						<div class="dd">
+							<div class="tabs__title">Подать заявку</div>
+							<p>Нам не нужны справки о ваших доходах или поручители. Для одобрения заявки нам пригодятся лишь ваши паспортные и контактные данные. Одобрение заявки на заём не займет много времени. </p>
+							
+								
+									
+									
+									<span class="time"><b>15</b> минут</span>
+								
+								
+							
+							<img src="/main/img/1.gif" alt="Подать заявку" title="Подать заявку"  width="" height="">
+						</div>
+					</div>
+					
+				
+					
+					<div class="tabs ">
+						<div class="dd">
+							<div class="tabs__title">Пройти процесс рассмотрения</div>
+							<p>Уже отправили нам заявку? Значит мы уже рассматриваем ее, и скоро Вы получите ответ. Вам потребуется зайти в личный кабинет, доступы к нему мы отправим Вам по смс и электронной почте, и подписать с нами договор. Ловите займ!</p>
+							
+								
+									
+									
+									<span class="time"><b>15</b> минут</span>
+								
+								
+							
+							<img src="/main/img/2.gif" alt="Пройти процесс рассмотрения" title="Пройти процесс рассмотрения"  width="" height="">
+						</div>
+					</div>
+					
+				
+					
+					<div class="tabs ">
+						<div class="dd">
+							<div class="tabs__title">Получить деньги</div>
+							<p>После того, как мы одобрили вашу заявку на получение займа, вы можете моментально получить деньги на карту.</p>
+							
+								
+									
+									
+										
+									
+									<span class="time"><b>2</b> минуты</span>
+								
+								
+							
+							<img src="/main/img/3.gif" alt="Получить деньги" title="Получить деньги"  width="" height="">
+						</div>
+					</div>
+					
+				
+					
+					<div class="tabs ">
+						<div class="dd">
+							<div class="tabs__title">Вернуть деньги</div>
+							<p>Когда подойдет время возвращать заем, вам нужно будет перейти в личный кабинет и воспользоваться вашей банковской картой.</p>
+							
+								
+									
+									
+									<span class="time"><b>10</b> минут</span>
+								
+								
+							
+							<img src="/main/img/4.gif" alt="Вернуть деньги" title="Вернуть деньги"  width="" height="">
+						</div>
+					</div>
+					
+				
+					
+					<div class="tabs ">
+						<div class="dd">
+							<div class="tabs__title">Получить новый заем опять</div>
+							<p>Мы уверены, что вам понравятся наши условия. Мы стараемся сделать сервис микрофинансирования максимально доступным, простым и удобным. Помните, что мы будем рады помочь Вам снова.</p>
+							
+								
+									
+									
+									<span class="time"><b>5</b> минут</span>
+								
+								
+							
+							<img src="/main/img/5.gif" alt="Получить новый заем опять" title="Получить новый заем опять"  width="" height="">
+						</div>
+					</div>
+					
+				
+			</div>
+
+		</div>
+
+		<!-- Start why-we -->
+		<div class="why-we-outside">
+			<div class="why-we">
+				<div class="why-we__title">У нас можно оформить займ:</div>
+				<div class="why-we-inside">
+					<ul>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title">Оперативно</div>
+							Рассмотрение заявки на выдачу кредита с последующей немедленной отправкой денег на указанный клиентом счет. Никаких бюрократических проволочек и формальных процедур, только чистый результат!
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title">В любой точке России</div>
+							Географическое положение клиента не имеет значения - весь обмен информацией происходит через интернет. Вы получите деньги наличными через одну из популярных платежных систем либо на свою банковскую карту, находясь в пределах страны на любом удалении от российских территориально-административных центров.
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title">Без рассмотрения кредитных историй</div>
+							Не возвращенные вовремя кредиты, взятые клиентом у других МКК, банков и кредитных кооперативов, не могут служить причиной отказа для выдачи ссуды. Пусть груз прошлых долгов не тяготит вас - мы приглашаем посмотреть в ближайшее будущее, где вы будете надлежащим образом финансированы.
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title">Без выяснения целевого назначения</div>
+							Для нас одинаково важны любые причины, по которым люди занимают финансовые средства  - оплата учебы, лечения, коммунальных счетов, туристические поездки, покупки бытовых товаров. Если человек обратился к нам по поводу займа, значит, ему срочно нужны деньги. И он немедленно их получит.
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title"> Без любых справок</div>
+							Для получения микрозайма вам не потребуется предоставлять справки, удостоверяющие размер заработной платы, ваш доход, состав семьи или находящееся во владении имущество. Только ваши паспортные данные, на основании которых можно получить кредит до 15 000 рублей.
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title"> Без поручительства и залога</div>
+							Сложные банковские процедуры по оценке залогового имущества и нахождению поручителей под взятые на себя клиентом кредитные обязательства у нас не применяются. Вам не придется мучительно размышлять, что отдать в залог - у нас он просто не предусмотрен.
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title">С гарантией конфиденциальности</div>
+							Применяемое на нашем сайте защищенное интернет-соединение позволяет гарантировать безопасность всех проводимых транзакций и неприкосновенность ваших персональных данных. О том, что вы взяли у нас кредит, не узнает ни одно постороннее лицо.
+						</li>
+						
+						<li>
+							<span></span>
+							<div class="why-we-inside__title">С постоянной техподдержкой</div>
+							Любые возникающие у клиентов технические проблемы, связанные с указанием неправильных реквизитов, получением или отправкой денег, утратой паролей, мобильных телефонов и номеров перечислений будут оперативно рассмотрены и решены нашей службой поддержки. Работаем с 9-00 до 18-00.
+						</li>
+						
+					</ul>
+
+				</div>
+			</div>
+		</div>
+		<!-- Stop why-we -->
+
+		<!-- Start block-slider -->
+		<div class="block-slider">
+			<div class="slider single-item">
+				
+				<div>
+					<img src="images/slide-1.jpg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+					<div class="slide-text">
+						<div class="slide-text__title">Займ – легко и безопасно</div>
+							<span>Есть надёжное решение — все активнее набирает свою популярность услуга предоставления жителям РФ небольших сумм денег на короткий срок. Такие займы можно оформить онлайн — именно поэтому все больше наших соотечественников обращаются к этому способу получения средств.</span>
+					</div>
+					<div class="slider-layer"></div>
+				</div>
+				
+				<div>
+					<img src="images/slide-2.jpg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+					<div class="slide-text">
+						<div class="slide-text__title">Займы без отказов</div>
+							<span>Есть надёжное решение — все активнее набирает свою популярность услуга предоставления жителям РФ небольших сумм денег на короткий срок. Такие займы можно оформить онлайн — именно поэтому все больше наших соотечественников обращаются к этому способу получения средств.</span>
+					</div>
+					<div class="slider-layer"></div>
+				</div>
+				
+				<div>
+					<img src="images/slide-3.jpg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+					<div class="slide-text">
+						<div class="slide-text__title">Что такое займ?</div>
+							<span>Есть надёжное решение — все активнее набирает свою популярность услуга предоставления жителям РФ небольших сумм денег на короткий срок. Такие займы можно оформить онлайн — именно поэтому все больше наших соотечественников обращаются к этому способу получения средств.</span>
+					</div>
+					<div class="slider-layer"></div>
+				</div>
+				
+			</div>
+
+		</div>
+		<!-- Stop block-slider -->
+
+        <div class="paymend">
+            <div class="paymend__title">Удобные способы получения и погашения займа</div>
+            <div class="paymend-inside">
+                <ul>
+                    <li onclick="window.location.href = '/zaem-cherez-kartu.shtml'"></li>
+                    <li onclick="window.location.href = '/zaem-cherez-kartu.shtml'"></li>
+                    <li onclick="window.location.href = '/zaem-cherez-kartu.shtml'"></li>
+                    <!--<li></li>-->
+                    
+                    <!--li onclick="window.location.href = '/zaem-cherez-schet.shtml'"></li
+					<li onclick="window.location.href = '/zaem-cherez-kartu.shtml'"></li>
+                    <li onclick="window.location.href = '/zaem-cherez-contact.shtml'"></li>-->
+                </ul>
+            </div>
+        </div>
+
+		
+
+<div class="info-1 center" style="padding: 80px 0;">
+
+	<div class="info-1__title">Деньги скоро поступят на ваш счет</div>
+	<p>Вам не нужно стоять в очереди или приходить к нам в офис</p>
+	<a href="/anketa.shtml" class="btn big" onclick="ga ('send', 'event', 'dengi', 'poluchit'); if (typeof yaCounter33286090 !== 'undefined') yaCounter33286090.reachGoal('poluchit_dengi'); ym(33286090,'reachGoal','form'); return true;">Получить деньги</a>
+
+</div>
+
+
+        <div class="info-2">
+
+            <div class="center clr">
+
+                <div class="info-2__title">Есть вопросы? <span>Мы готовы ответить</span></div>
+
+                <div class="pull-left">
+                    <p class="hidden-sm hidden-xs">Вам 18 лет, у Вас есть доступ к интернету, и Вам нужен микрозайм на банковскую карту? Мы с радостью дадим его Вам!</p>
+                    <p class="hidden-sm hidden-xs">Оформляйте заявку и получите деньги за 15 минут!</p>
+                    <p class="foot"><a class="btn white" href="/faq.shtml">Посмотреть FAQ</a> или <a class="support">Связаться с поддержкой</a></p>
+                </div>
+
+                <ul class="pull-right questions">
+					
+                    	<li><a href="/faq.shtml#464">Когда мне будет предоставлен доступ в Личный кабинет?</a></li>
+					
+                    	<li><a href="/faq.shtml#486">Какую сумму займа и на какой срок можно получить в Лови Займ?</a></li>
+					
+                    	<li><a href="/faq.shtml#530">Что делать если я не успеваю погасить займ в назначенный срок?</a></li>
+					
+                    	<li><a href="/faq.shtml#520">Как узнать статус заявки?</a></li>
+					
+                    	<li><a href="/faq.shtml#535">Могу ли я подать заявку по телефону?</a></li>
+					
+                    	<li><a href="/faq.shtml#524">Какая процедура подтверждения банковской карты?</a></li>
+					
+				</ul>
+
+                <div class="today-credit hidden-xs">
+                    <div class="today-credit__title">Мы выдаем займы</div>
+                    <p>до 30 <sup>дней</sup> <i>/</i> до 15 000 <sup>рублей</sup></p>
+                </div>
+
+                <a class="btn big hidden-xs sendToAnketa sendToAnketaFAQ">Получить деньги</a>
+
+            </div>
+
+        </div>
+
+
+		
+		<!-- Start block-seotext -->
+		<div class="block-seotext bordbot-none">
+			<div class="block-seotext-inherit">
+				
+<h1>Микрозайм онлайн: преимущества, условия, оформление</h1>
+<a href=""></a>
+<p>Сегодня многие заемщики при выборе способа получения займа, изучают не только уровень процентных ставок, но и уделяют значительное внимание скорости получения кредита. </p>
+<p>Микрокредитование получило признание во всем мире за счет оказания быстрой эффективной финансовой помощи, доступной всем группам населения. В США, Великобритании наблюдается полномасштабное вовлечение онлайн-сервисов в процесс выдачи займов. В России кредитование через Интернет стремительно развивается и достигает 60%. </p>
+<p>Онлайн-сервис “Лови займ” осуществляет дистанционную выдачу кредита. Наши клиенты уже успели оценить преимущества данного способа получения денег в долг. Многочисленные повторные заявки свидетельствуют о бесспорных выгодах онлайн-сервиса:</p>
+<ol class="in-text-ul">
+<li class="li-styled-decimal"><b>Оперативность</b> – получение микрозайма происходит мгновенно;</li>
+<li class="li-styled-decimal"><b>Удобство</b> – подавать заявку возможно из любого региона России;</li>
+<li class="li-styled-decimal"><b>Экстренность</b> – экспресс-метод получения наличных выручает в безотлагательных случаях;</li>
+<li class="li-styled-decimal"><b>Общедоступность</b> – отсутствие ограничений в отношении возраста, доходов, кредитной истории заемщика;</li>
+<li class="li-styled-decimal"><b>Выгодность</b> – тарифы по кредиту более выгодные, чем при обслуживании клиентов в офисе;</li>
+<li class="li-styled-decimal"><b>Надежность</b> – условия договора полностью прозрачны для обеих сторон: кредитора и заемщика;</li>
+<li class="li-styled-decimal"><b>Поддержка</b> - сопровождение на всех этапах оформления займа.</li>
+</ol>
+<p>Клиент получает решение срочной финансовой проблемы в удобном формате и месте.</p>
+<h2>Микрозайм - новая альтернатива банковским кредитам</h2>
+<p>Случаются обычные житейские ситуации, требующие безотлагательного урегулирования бытовой проблемы:</p>
+<ul class="in-text-ul">
+<li class="li-styled-disc">Ремонт техники, жилья;</li>
+<li class="li-styled-disc">Приобретение вещей для домашнего хозяйства;</li>
+<li class="li-styled-disc">Дальняя поездка;</li>
+<li class="li-styled-disc">Оплата коммунальных услуг.</li>
+</ul>
+<p>Оформлять кредит на товар в магазине крайне не выгодно. Рассрочка под 0% привлекательна только на первый взгляд, при расчете получается значительная переплата. Банки берут оплату за страховку, обслуживание кредита, запрашивают первоначальный взнос.</p>
+<h2>Что же делать, если нужен не товар, а наличные?</h2>
+<p>Найти быстрый способ, где взять деньги возможно не паникуя, спокойно заполнив заявку на сайте <u><a class="orange_link" href="/">https://lovizaim.ru/</a></u>.</p>
+<p><b>Последовательность действий при оформлении микрозайма:</b></p>
+<ol class="in-text-ul">
+<li class="li-styled-decimal">Предварительно просчитайте сумму возврата по кредиту с помощью программы-калькулятора на сайте.</li>
+<li class="li-styled-decimal">Убедившись, что условия вам подходят, нажимайте кнопку «Получить деньги».</li>
+<li class="li-styled-decimal">Заполните основные анкетные данные.</li>
+<li class="li-styled-decimal">Предоставьте скан-копию паспорта.</li>
+<li class="li-styled-decimal">Выберите <u><a class="orange_link" target="blank" href="https://lovizaim.ru/sposobi-polucheniya-zayma.shtml"> в способах получения</a></u> денег - <u><a class="orange_link" target="blank" href="https://lovizaim.ru/zaem-cherez-kartu.shtml">Банковскую карту</a></u> (Visa, Mastercard, Maestro,МИР);</li>
+<li class="li-styled-decimal">Получайте мгновенное одобрение заявки.</li>
+<li class="li-styled-decimal">Открывайте доступ в личный кабинет: введите код, полученный из смс-сообщения или письма электронной почты.</li>
+<li class="li-styled-decimal">Подпишите договор.</li>
+<li class="li-styled-decimal">Забирайте деньги.</li>
+</ol>
+<div class="text-more">
+<h3>Как получить наличные</h3>
+<p>Онлайн-сервис “Лови займ” предлагает разнообразные способы получения займа. Наиболее выгодным методом на текущий момент является, <b>Банковская карта</b> - Пластиковую карту можно открыть в любом банке. Деньги легко получить в банкомате. Карта позволяет тщательно отслеживать траты посредством, выписки, интернет-банкинга. Единственный минус – оплата за выпуск/обслуживание (устанавливает банк).</p>
+<h3>Погашение микрозайма</h3>
+<p>Обязательства по договору кредитования понятны и легко выполнимы каждым заемщиком. Лояльная политика онлайн-сервиса предполагает:</p>
+<ul class="in-text-ul">
+<li class="li-styled-disc">Предоставление отсрочки платежа;</li>
+<li class="li-styled-disc">Возможность досрочного погашения (без скрытых комиссий и доплат).</li>
+</ul>
+<h3>Займ без отказа для всех групп населения</h3>
+<p>“Лови займ” создала благоприятные условия доступа к кредиту наиболее ущемленным в этом смысле группам населения: пенсионерам, студентам, безработным, матерям-одиночкам.</p>
+<p>Начинающему предпринимателю взять кредит в банке довольно сложно. Бывают ситуации, когда необходимо срочно рассчитаться с поставщиком за сырье, а готовая продукция будет через неделю. “Лови займ” обеспечит денежными средствами и поможет быстро устранить финансовую преграду.</p>
+<p><b>Требования к заемщику минимальны:</b></p>
+<ol class="in-text-ul">
+<li class="li-styled-decimal">Паспорт гражданина Российской Федерации.</li>
+<li class="li-styled-decimal">Возраст от 18 лет.</li>
+</ol>
+<p><b>Упрощенная процедура получения займа онлайн-сервиса</b> предполагает отсутствие:</p>
+<ul class="in-text-ul">
+<li class="li-styled-disc">залога;</li>
+<li class="li-styled-disc">поручителей;</li>
+<li class="li-styled-disc">справок о доходах;</li>
+<li class="li-styled-disc">проверки кредитной истории.</li>
+</ul>
+<p>Кредитуем заемщиков с нулевым стажем.</p>
+<p>Отбросьте сомнения, подавайте заявку на микрозайм. Сразу получайте необходимую <b>сумму от 1 000 до 15 000 рублей на срок от 5 до 30 дней.</b></p><p><span style="font-weight: 700; color: rgb(255, 255, 255);">122133</span><br></p>
+
+
+				</div>
+
+				<div class="button-more"></div>
+
+			</div>
+		</div>
+		<!-- Stop block-seotext -->
+		
+
+	</article>
+</main>
+
+
+
+
+
+<footer class="footer">
+	<div class="center">
+		<a href="/" class="logo hidden-sm hidden-xs">
+			<img src="/images/logo.svg" alt="ЛовиЗайм" pagespeed_url_hash="2225838722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" pagespeed_lsc_url="https://lovizaim.ru/images/logo.svg" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" width="" height="" title="ЛовиЗайм">
+		</a>
+
+		<p class="tel"><a href="tel:88002229424">8 (800) 222-94-24</a>
+			<span class="callback hidden-xs">Обратный звонок</span><span class="support hidden-xs"></span>
+		</p>
+		<p class="developer hidden-sm hidden-xs">powered by <a href="https://sptnk.co" rel="nofollow" target="_blank">Sputnik credit conveyer</a></p>
+
+		<div class="social_group">
+			<div class="social_group__title hidden-sm hidden-xs">Соц. сети:</div>
+			<ul>
+                <li class="vk"><a href="https://vk.com/lovizaim" rel="nofollow" target="_blank" onclick="ga ('send', 'event', 'click', 'vkontakte'); if (typeof yaCounter33286090 !== 'undefined') yaCounter33286090.reachGoal('clvkontakte'); return true;"></a></li>
+                <!--<li class="tw"><a href="/" rel="nofollow" target="_blank"></a></li>-->
+               
+                <li class="ok"><a href="https://ok.ru/lovizaim" rel="nofollow" target="_blank" onclick="ga ('send', 'event', 'click', 'odnk'); if (typeof yaCounter33286090 !== 'undefined') yaCounter33286090.reachGoal('clodnoklasniki'); return true;"></a></li>
+			</ul>
+		</div>
+
+		<div class="table foot_menu">
+			<div class="foot-ul">
+                <div class="foot_menu__title"><a href="/site-map.shtml">Карта сайта</a></div>
+                <div class="foot_menu__title"><a href="/about.shtml">О нас</a></div>
+				<ul>
+                    <li><a href="/why-we.shtml">Почему именно мы?</a></li>
+                    <li><a href="/city.shtml">В каких городах мы работаем</a></li>
+                    <li><a href="/politics.shtml">Соглашения и правила</a></li>
+                    <li><a href="/news.shtml">Новости</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov">Преимущества займов</a></li>
+                    <li><a href="/contacts.shtml">Контакты</a></li>
+				</ul>
+			</div>
+
+            <div class="foot-ul">
+                <div class="foot_menu__title"><a href="/uslugi/fizicheskim-litsam"><label>Физическим лицам</label></a></div>
+                <ul>
+					<li><a href="/uslugi/fizicheskim-litsam/zaem-pensioneram">Пенсионерам</a></li>
+                    <li><a href="/uslugi/fizicheskim-litsam/zaem-studentam">Студентам</a></li>
+					<!--<li><a href="/uslugi/fizicheskim-litsam/invalidam">Инвалидам</a></li>-->
+					<li><a href="/uslugi/fizicheskim-litsam/voennoslushhashhim">Военнослужащим</a></li>
+					<!--<li><a href="/uslugi/fizicheskim-litsam/beremennym">Беременным</a></li>-->
+					<!--<li><a href="/uslugi/fizicheskim-litsam/bezrabotnym">Безработным</a></li>-->
+                </ul>
+            </div>
+
+			<div class="foot-ul">
+				<div class="foot_menu__title"><a href="/uslugi/potrebitelskij-zaem"><label>Потребительские займы</label></a></div>
+				<ul>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-shopping">На шопинг</a></li>
+					<!--
+					<li><a href="/uslugi/potrebitelskij-zaem/na-tehniku">На технику</a>
+						<ul style="margin-left: 20px">
+							<li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/tv">Телевизор</a></li>
+							<li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/planshet">Планшет</a></li>
+							<li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/telefon">Телефон</a></li>
+							<li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/pulesos">Пылесос</a></li>
+						</ul>
+					</li>
+					-->
+					<!--
+					<li><a href="/uslugi/potrebitelskij-zaem/na-perekreditovanie">Рефинансирование</a></li>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-lechenie">На лечение</a></li>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-obrazovanie">На образование</a></li>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-otpusk">На отпуск</a></li>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-svadbu">На свадьбу</a></li>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-remont">На ремонт</a>
+						<ul style="margin-left: 20px">
+							<li><a href="/uslugi/potrebitelskij-zaem/na-remont/vannoj">Ванной</a></li>
+							<li><a href="/uslugi/potrebitelskij-zaem/na-remont/kuhni">Кухни</a></li>
+						</ul>
+					</li>
+					<li><a href="/uslugi/potrebitelskij-zaem/na-zapchaste-avtomobilja">На покупку запчастей автомобиля</a></li>
+					-->
+				</ul>
+			</div>
+
+			<div class="foot-ul">
+				<div class="foot_menu__title"><a href="/o-nas/preimuschestva-zajmov"><label>Преимущества займов</label></a></div>
+				<ul>
+					<li><a href="/o-nas/preimuschestva-zajmov/do-zarplaty">До зарплаты</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov/bez-proverki-ki">Без проверки КИ</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov/bez-proverok-i-otkazov">Без проверок и отказов</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov/bez-rekomendacij">Без справок</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov/s-plohoy-ki">С плохой КИ</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov/uluchshenie-ki">Улучшение КИ</a></li>
+					<li><a href="/o-nas/preimuschestva-zajmov/s-18-let">Займ с 18 лет</a></li>
+					<!--<li><a href="/o-nas/preimuschestva-zajmov/bez-ofitsialnogo-trudoustrojstva">Без официального трудоустройства</a></li>-->
+				</ul>
+			</div>
+
+            <div class="foot-ul">
+                <div class="foot_menu__title"><a href="/sposobi-polucheniya-zayma.shtml">Способы получения займа</a></div>
+                <ul>
+                    
+                    
+                    
+                    
+                    <li><a href="/zaem-cherez-kartu.shtml">На карту</a></li>
+                </ul>
+            </div>
+
+			<div class="foot-ul">
+				<div class="foot_menu__title"><a href="javascript:void(0);" class="no-link">По срокам и сумме</a></div>
+				<ul>
+					<li><a href="/srok-summa/1000-rublej#7dnej">Займ 1000 рублей</a></li>
+					<li><a href="/srok-summa/2000-rublej#7dnej">Займ 2000 рублей</a></li>
+					<li><a href="/srok-summa/3000-rublej#7dnej">Займ 3000 рублей</a></li>
+					<li><a href="/srok-summa/4000-rublej#7dnej">Займ 4000 рублей</a></li>
+					<li><a href="/srok-summa/5000-rublej#7dnej">Займ 5000 рублей</a></li>
+					<li><a href="/srok-summa/10000-rublej#7dnej">Займ 10000 рублей</a></li>
+					<li><a href="/srok-summa/15000-rublej#7dnej">Займ 15000 рублей</a></li>
+					<li><a href="/srok-summa/7-dnej">Займ на 7 дней</a></li>
+					<li><a href="/srok-summa/10-dnej">Займ на 10 дней</a></li>
+					<li><a href="/srok-summa/30-dnej">Займ на 30 дней</a></li>
+				</ul>
+			</div>
+
+            <div class="foot-ul">
+                <div class="foot_menu__title"><a href="/kak-pogasit-zaym.shtml">Как погасить займ?</a></div>
+                <ul>
+                    
+                    
+                    
+                    <li><a href="/pogashenie-cherez-kartu.shtml">Карта любого банка</a></li>
+                    
+                </ul>
+            </div>
+
+			<div class="foot-ul">
+                <div class="foot_menu__title">Помощь</div>
+                <ul id="question-footer">
+
+					
+                </ul>
+                <div class="foot_menu__title"><a href="/faq.shtml">Вопросы и ответы</a></div>
+            </div>
+
+            <div class="foot-ul">
+   
+            </div>
+		</div>
+	</div>
+    
+
+
+<nav id="sitemaps" style="display: none;">
+<ul class="site-map">
+<li><a href="/index.shtml">Главная</a>
+<ul>
+<li><a href="/site-map.shtml">Карта сайта</a></li>
+<li>
+    <a href="/about.shtml">О нас</a>
+    <ul>
+        <li><a href="/why-we.shtml">Почему именно мы?</a></li>
+        <li><a href="/city.shtml">В каких городах мы работаем</a>
+            <ul>
+                <li><a href="/city/abakan">Абакан</a></li>
+                <li><a href="/city/almetevsk">Альметьевск</a></li>
+                <li><a href="/city/angarsk">Ангарск</a></li>
+                <li><a href="/city/arzamas">Арзамас</a></li>
+                <li><a href="/city/armavir">Армавир</a></li>
+                <li><a href="/city/artem">Артем</a></li>
+                <li><a href="/city/arhangelsk">Архангельск</a></li>
+                <li><a href="/city/astrahan">Астрахань</a></li>
+                <li><a href="/city/achinsk">Ачинск</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/balakovo">Балаково</a></li>
+                <li><a href="/city/balashiha">Балашиха</a></li>
+                <li><a href="/city/barnaul">Барнаул</a></li>
+                <li><a href="/city/batajsk">Батайск</a></li>
+                <li><a href="/city/belgorod">Белгород</a></li>
+                <li><a href="/city/berdsk">Бердск</a></li>
+                <li><a href="/city/berezniki">Березники</a></li>
+                <li><a href="/city/bijsk">Бийск</a></li>
+                <li><a href="/city/blagoveschensk">Благовещенск</a></li>
+                <li><a href="/city/bratsk">Братск</a></li>
+                <li><a href="/city/bryansk">Брянск</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/velikiy-novgorod">Великий Новгород</a></li>
+                <li><a href="/city/vladivostok">Владивосток</a></li>
+                <li><a href="/city/vladikavkaz">Владикавказ</a></li>
+                <li><a href="/city/vladimir">Владимир</a></li>
+                <li><a href="/city/volgograd">Волгоград</a></li>
+                <li><a href="/city/volgodonsk">Волгодонск</a></li>
+                <li><a href="/city/voljskiy">Волжский</a></li>
+                <li><a href="/city/vologda">Вологда</a></li>
+                <li><a href="/city/voronej">Воронеж</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/grozniy">Грозный</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/derbent">Дербент</a></li>
+                <li><a href="/city/dzerzhinsk">Дзержинск</a></li>
+                <li><a href="/city/dimitrovgrad">Димитровград</a></li>
+                <li><a href="/city/domodedovo">Домодедово</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/ekaterinburg">Екатеринбург</a></li>
+                <li><a href="/city/elets">Елец</a></li>
+                <li><a href="/city/essentuki">Ессентуки</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/zheleznogorsk">Железногорск</a></li>
+                <li><a href="/city/zheleznodorozhnyj">Железнодорожный</a></li>
+                <li><a href="/city/zhukovskij">Жуковский</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/zlatoust">Златоуст</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/ivanovo">Иваново</a></li>
+                <li><a href="/city/ijevsk">Ижевск</a></li>
+                <li><a href="/city/irkutsk">Иркутск</a></li>
+                <li><a href="/city/yoshkar-ola">Йошкар-Ола</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/kazan">Казань</a></li>
+                <li><a href="/city/kaliningrad">Калининград</a></li>
+                <li><a href="/city/kaluga">Калуга</a></li>
+                <li><a href="/city/kamensk-uralskij">Каменск-Уральский</a></li>
+                <li><a href="/city/kamyshin">Камышин</a></li>
+                <li><a href="/city/kaspijsk">Каспийск</a></li>
+                <li><a href="/city/kemerovo">Кемерово</a></li>
+                <li><a href="/city/kirov">Киров</a></li>
+                <li><a href="/city/kislovodsk">Кисловодск</a></li>
+                <li><a href="/city/komsomolsk-na-amure">Комсомольск-на-Амуре</a></li>
+                <li><a href="/city/kovrov">Ковров</a></li>
+                <li><a href="/city/kolomna">Коломна</a></li>
+                <li><a href="/city/kopejsk">Копейск</a></li>
+                <li><a href="/city/korolev">Королев</a></li>
+                <li><a href="/city/kostroma">Кострома</a></li>
+                <li><a href="/city/krasnogorsk">Красногорск</a></li>
+                <li><a href="/city/krasnodar">Краснодар</a></li>
+                <li><a href="/city/krasnoyarsk">Красноярск</a></li>
+                <li><a href="/city/kurgan">Курган</a></li>
+                <li><a href="/city/kursk">Курск</a></li>
+                <li><a href="/city/kyzyl">Кызыл</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/lipeck">Липецк</a></li>
+                <li><a href="/city/lyubertsy">Люберцы</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/magnitogorsk">Магнитогорск</a></li>
+                <li><a href="/city/majkop">Майкоп</a></li>
+                <li><a href="/city/mahachkala">Махачкала</a></li>
+                <li><a href="/city/miass">Миасс</a></li>
+                <li><a href="/city/moskva">Москва</a></li>
+                <li><a href="/city/murmansk">Мурманск</a></li>
+                <li><a href="/city/murom">Муром</a></li>
+                <li><a href="/city/mytischi">Мытищи</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/naberezhnye-chelny">Набережные Челны</a></li>
+                <li><a href="/city/nazran">Назрань</a></li>
+                <li><a href="/city/nalchik">Нальчик</a></li>
+                <li><a href="/city/nahodka">Находка</a></li>
+                <li><a href="/city/nevinnomyssk">Невинномысск</a></li>
+                <li><a href="/city/neftekamsk">Нефтекамск</a></li>
+                <li><a href="/city/nefteyugansk">Нефтеюганск</a></li>
+                <li><a href="/city/nijnevartovsk">Нижневартовск</a></li>
+                <li><a href="/city/nijnekamsk">Нижнекамск</a></li>
+                <li><a href="/city/nijniy-novgorod">Нижний Новгород</a></li>
+                <li><a href="/city/nizhnij-tagil">Нижний Тагил</a></li>
+                <li><a href="/city/novokuznetsk">Новокузнецк</a></li>
+                <li><a href="/city/novokujbyshevsk">Новокуйбышевск</a></li>
+                <li><a href="/city/novomoskovsk">Новомосковск</a></li>
+                <li><a href="/city/novorossiysk">Новороссийск</a></li>
+                <li><a href="/city/novosibirsk">Новосибирск</a></li>
+                <li><a href="/city/novocheboksarsk">Новочебоксарск</a></li>
+                <li><a href="/city/novocherkassk">Новочеркасск</a></li>
+                <li><a href="/city/novoshahtinsk">Новошахтинск</a></li>
+                <li><a href="/city/novyj-urengoj">Новый Уренгой</a></li>
+                <li><a href="/city/noginsk">Ногинск</a></li>
+                <li><a href="/city/norilsk">Норильск</a></li>
+                <li><a href="/city/noyabrsk">Ноябрьск</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/obninsk">Обнинск</a></li>
+                <li><a href="/city/odintsovo">Одинцово</a></li>
+                <li><a href="/city/oktjabrskij">Октябрьский</a></li>
+                <li><a href="/city/omsk">Омск</a></li>
+                <li><a href="/city/oryol">Орёл</a></li>
+                <li><a href="/city/orenburg">Оренбург</a></li>
+                <li><a href="/city/orehovo-zuevo">Орехово-Зуево</a></li>
+                <li><a href="/city/orsk">Орск</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/penza">Пенза</a></li>
+                <li><a href="/city/pervouralsk">Первоуральск</a></li>
+                <li><a href="/city/perm">Пермь</a></li>
+                <li><a href="/city/petrozavodsk">Петрозаводск</a></li>
+                <li><a href="/city/petropavlovsk-kamchatskij">Петропавловск-Камчатский</a></li>
+                <li><a href="/city/podolsk">Подольск</a></li>
+                <li><a href="/city/prokopevsk">Прокопьевск</a></li>
+                <li><a href="/city/pskov">Псков</a></li>
+                <li><a href="/city/pushkino">Пушкино</a></li>
+                <li><a href="/city/pyatigorsk">Пятигорск</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/ramenskoe">Раменское</a></li>
+                <li><a href="/city/rostov-na-donu">Ростов-на-Дону</a></li>
+                <li><a href="/city/rubtsovsk">Рубцовск</a></li>
+                <li><a href="/city/rybinsk">Рыбинск</a></li>
+                <li><a href="/city/ryazan">Рязань</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/salavat">Салават</a></li>
+                <li><a href="/city/samara">Самара</a></li>
+                <li><a href="/city/sankt-peterburg">Санкт-Петербург</a></li>
+                <li><a href="/city/saransk">Саранск</a></li>
+                <li><a href="/city/sarapul">Сарапул</a></li>
+                <li><a href="/city/saratov">Саратов</a></li>
+                <li><a href="/city/severodvinsk">Северодвинск</a></li>
+                <li><a href="/city/seversk">Северск</a></li>
+                <li><a href="/city/sergiev-posad">Сергиев Посад</a></li>
+                <li><a href="/city/serpuhov">Серпухов</a></li>
+                <li><a href="/city/smolensk">Смоленск</a></li>
+                <li><a href="/city/sochi">Сочи</a></li>
+                <li><a href="/city/stavropol">Ставрополь</a></li>
+                <li><a href="/city/stariy-oskol">Старый Оскол</a></li>
+                <li><a href="/city/sterlitamak">Стерлитамак</a></li>
+                <li><a href="/city/surgut">Сургут</a></li>
+                <li><a href="/city/syzran">Сызрань</a></li>
+                <li><a href="/city/syktyvkar">Сыктывкар</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/taganrog">Таганрог</a></li>
+                <li><a href="/city/tambov">Тамбов</a></li>
+                <li><a href="/city/tver">Тверь</a></li>
+                <li><a href="/city/toljatti">Тольятти</a></li>
+                <li><a href="/city/tomsk">Томск</a></li>
+                <li><a href="/city/tula">Тула</a></li>
+                <li><a href="/city/tyumen">Тюмень</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/ulan-ude">Улан-Удэ</a></li>
+                <li><a href="/city/ulyanovsk">Ульяновск</a></li>
+                <li><a href="/city/ussurijsk">Уссурийск</a></li>
+                <li><a href="/city/ufa">Уфа</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/habarovsk">Хабаровск</a></li>
+                <li><a href="/city/hasavyurte">Хасавюрте</a></li>
+                <li><a href="/city/himki">Химки</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/cheboksary">Чебоксары</a></li>
+                <li><a href="/city/chelyabinsk">Челябинск</a></li>
+                <li><a href="/city/cherepovec">Череповец</a></li>
+                <li><a href="/city/cherkessk">Черкесск</a></li>
+                <li><a href="/city/chita">Чита</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/shahty">Шахты</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/shhelkovo">Щелково</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/elektrostal">Электросталь</a></li>
+                <li><a href="/city/elista">Элиста</a></li>
+                <li><a href="/city/engels">Энгельс</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/yuzhno-sahalinsk">Южно-Сахалинск</a></li>
+            </ul>
+            <ul>
+                <li><a href="/city/jakutsk">Якутск</a></li>
+                <li><a href="/city/jaroslavl">Ярославль</a></li>
+            </ul>
+        </li>
+        <li><a href="/politics.shtml">Соглашения и правила</a>
+        </li>
+        <li><a href="/news.shtml">Новости</a>
+            <ul>
+                
+            </ul>
+        </li>
+        <li><a href="/contacts.shtml">Контакты</a></li>
+        <li>
+            <a href="/o-nas/preimuschestva-zajmov"><label>Преимущества займов</label></a>
+            <ul>
+                <li><a href="/o-nas/preimuschestva-zajmov/do-zarplaty">До зарплаты</a></li>
+                <li><a href="/o-nas/preimuschestva-zajmov/bez-proverki-ki">Без проверки КИ</a></li>
+                <li><a href="/o-nas/preimuschestva-zajmov/bez-proverok-i-otkazov">Без проверок и отказов</a></li>
+                <li><a href="/o-nas/preimuschestva-zajmov/bez-rekomendacij">Без справок</a></li>
+                <li><a href="/o-nas/preimuschestva-zajmov/s-plohoy-ki">С плохой КИ</a></li>
+                <li><a href="/o-nas/preimuschestva-zajmov/uluchshenie-ki">Улучшение КИ</a></li>
+                <li><a href="/o-nas/preimuschestva-zajmov/s-18-let">Займ с 18 лет</a></li>
+                <!--<li><a href="/o-nas/preimuschestva-zajmov/bez-ofitsialnogo-trudoustrojstva">Без официального трудоустройства</a></li>-->
+            </ul>
+        </li>
+    </ul>
+</li>
+<li>
+    <a href="/sposobi-polucheniya-zayma.shtml">Способы получения
+        займа</a>
+    <ul>
+        <li><a href="/zaem-cherez-zolotuyu-koronu.shtml">Золотая
+            корона</a></li>
+        <!--
+        <li><a href="/zaem-cherez-contact.shtml">Контакт
+            (contact)</a></li>
+        -->
+        <li><a href="/zaem-cherez-yandex.shtml">Яндекс.Деньги</a>
+        </li>
+        <li><a href="/zaem-cherez-kartu.shtml">На карту</a></li>
+    </ul>
+</li>
+<li>
+    <a href="/kak-pogasit-zaym.shtml"> Как погасить займ?</a>
+    <ul>
+        <li><a href="/pogashenie-cherez-contact.shtml">Система
+            CONTACT</a></li>
+        <li><a href="/pogashenie-cherez-zolotuyu-koronu.shtml">Золотая
+            корона</a></li>
+        <li><a href="/pogashenie-cherez-kartu.shtml">Карта любого
+            банка</a></li>
+        <li><a href="/pogashenie-cherez-yandex.shtml">Яндекс.Деньги</a>
+        </li>
+    </ul>
+</li>
+<li>
+    <a href="/uslugi/fizicheskim-litsam"><label>Физическим лицам</label></a>
+    <ul>
+        <li><a href="/uslugi/fizicheskim-litsam/zaem-pensioneram">Пенсионерам</a></li>
+        <li><a href="/uslugi/fizicheskim-litsam/zaem-studentam">Студентам</a></li>
+        <!--<li><a href="/uslugi/fizicheskim-litsam/invalidam">Инвалидам</a></li>-->
+        <li><a href="/uslugi/fizicheskim-litsam/voennoslushhashhim">Военнослужащим</a></li>
+        <!--<li><a href="/uslugi/fizicheskim-litsam/beremennym">Беременным</a></li>-->
+        <!--<li><a href="/uslugi/fizicheskim-litsam/bezrabotnym">Безработным</a></li>-->
+    </ul>
+</li>
+<li><a href="/uslugi"><label>Услуги</label></a>
+<ul>
+<li><a href="/uslugi/potrebitelskij-zaem"><label>Потребительские займы</label></a>
+    <ul>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-shopping">На шопинг</a></li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-tehniku">На технику</a>
+            <ul>
+                <li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/tv">Телевизор</a></li>
+                <li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/planshet">Планшет</a></li>
+                <li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/telefon">Телефон</a></li>
+                <li><a href="/uslugi/potrebitelskij-zaem/na-tehniku/pulesos">Пылесос</a></li>
+            </ul>
+        </li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-perekreditovanie">Рефинансирование</a></li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-lechenie">На лечение</a></li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-obrazovanie">На образование</a></li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-otpusk">На отпуск</a></li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-svadbu">На свадьбу</a></li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-remont">На ремонт</a>
+            <ul>
+                <li><a href="/uslugi/potrebitelskij-zaem/na-remont/vannoj">Ванной</a></li>
+                <li><a href="/uslugi/potrebitelskij-zaem/na-remont/kuhni">Кухни</a></li>
+            </ul>
+        </li>
+        <li><a href="/uslugi/potrebitelskij-zaem/na-zapchaste-avtomobilja">На покупку запчастей автомобиля</a></li>
+    </ul>
+</li>
+</ul>
+<!--<li>
+    <a href="#">По срокам и сумме</a>
+    <ul>-->
+        <li><a href="/srok-summa/1000-rublej">Займ 1000 рублей</a></li>
+        <li><a href="/srok-summa/2000-rublej">Займ 2000 рублей</a></li>
+        <li><a href="/srok-summa/3000-rublej">Займ 3000 рублей</a></li>
+        <li><a href="/srok-summa/4000-rublej">Займ 4000 рублей</a></li>
+        <li><a href="/srok-summa/5000-rublej">Займ 5000 рублей</a></li>
+        <li><a href="/srok-summa/10000-rublej">Займ 10000 рублей</a></li>
+        <li><a href="/srok-summa/15000-rublej">Займ 15000 рублей</a></li>
+        <li><a href="/srok-summa/7-dnej">Займ на 7 дней</a></li>
+        <li><a href="/srok-summa/10-dnej">Займ на 10 дней</a></li>
+        <li><a href="/srok-summa/30-dnej">Займ на 30 дней</a></li>
+    </ul>
+<!--</li>-->
+<li><a href="/faq.shtml">Вопросы и ответы</a></li>
+<li><a href="/events.shtml">Акции и конкурсы</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+
+	<div class="copyright">
+		<p class="center">
+			<a href="https://centrofinans.ru/?utm_source=footer&utm_medium=cpa&utm_campaign=lovizaim" target="_blank" class="link-centrofinans visible-lg" rel="nofollow">в партнерстве с <img src="/images/logo-centrofinans.svg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм"></a>
+			© 2018 ООО МКК «Центрофинанс – Север»<span class="visible-lg">
+                    Номер в государственном реестре микрофинансовых организаций 2120229001303 от 10.04.2012 года</span>
+					
+						<span class="liveinternet hidden-sm hidden-xs" style="display: none;">
+							<!--LiveInternet counter-->
+							<script type="text/javascript">
+								document.write("<a href='//www.liveinternet.ru/click' "+"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
+										escape(document.referrer)+ ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+
+										(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+										";"+Math.random()+"' alt='' title='LiveInternet' "+"border='0' width='31' height='31'><\/a>");
+							</script>
+							<!--/LiveInternet-->
+						</span>
+					
+		</p>
+		<br />
+		<div class="copyright copyright-bottom">
+			<div class="center">
+				<p>Общество с ограниченной ответственностью Микрокредитная компания «Центрофинанс - Север» ИНН: 2902072744, ОГРН: 1122932000795</p>
+				<p><a href="https://cbr.ru/microfinance/registry/" target="_blank" rel="noopener noreferrer">Номер в государственном реестре микрофинансовых организаций 2120229001303 от 10.04.2012 года</a></p>
+				<p>ООО МКК &laquo;Центрофинанс - Север&raquo; состоит в СРО Союз микрофинансовых организаций &laquo;Микрофинансирование и развитие&raquo;. Дата вступления в СРО &ndash; 11.03.2022 г.<br />Официальный сайт СРО &ndash; <a class="link" href="https://npmir.ru/" target="_blank" rel="noopener noreferrer">https://npmir.ru/</a> . Местонахождение (адрес) СРО - 107078, г. Москва Орликов переулок, д.5, стр.1, этаж 2, пом.11</p>
+				<p><a href="https://lovizaim.ru/rest/cms/spisok26.pdf" target="_blank" rel="noopener noreferrer">Персональный состав органов управления и информация о структуре и составе участников МК</a></p>
+				<p><a href="https://lovizaim.ru/rest/cms/ustav.pdf" target="_blank" rel="noopener noreferrer">Устав ООО МКК «Центрофинанс - Север»</a></p>
+				<p><a href="https://lovizaim.ru/rest/cms/downloadDoc?fileName=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1+%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85+%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B8+%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%B0+%D0%B7%D0%B0%D0%B9%D0%BC%D0%B0+15.09.21.pdf" target="_blank" rel="noopener noreferrer">Информация об условиях предоставления использования и возврата потребительских микрозаймов</a></p>
+				<p><a href="https://lovizaim.ru/rest/cms/downloadDoc?fileName=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0+%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0%D0%B9%D0%BC%D0%BE%D0%B2+%D0%BE%D1%82+31.08.2020.pdf" target="_blank" rel="noopener noreferrer">Правила предоставления потребительских микрозаймов</a></p>
+				<p><a href="https://lovizaim.ru/rest/cms/downloadDoc?fileName=%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0+%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+POS-%D0%B7%D0%B0%D0%B9%D0%BC%D0%BE%D0%B2+%D0%BE%D1%82+02.04.2019.pdf" target="_blank" rel="noopener noreferrer">Правила предоставления потребительских POS – займов</a></p>
+				<p>Ознакомиться со всеми документами ООО МКК «Центрофинанс - Север» вы можете <a href="https://lovizaim.ru/politics.shtml" target="_blank" rel="noopener noreferrer">здесь</a></p>
+				<p><a href="https://cbr.ru/Reception/" target="_blank" rel="noopener noreferrer">Интернет-приемная Банка России</a></p>
+				<p>Потребитель финансовых услуг вправе направить обращение <a href="https://finombudsman.ru/" target="_blank" rel="noopener noreferrer">финансовому уполномоченному</a> Место нахождения: 119017, г. Москва, Старомонетный пер., дом 3 Телефон: 8 (800) 200-00-10</p>
+				<br>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div class="top-alert top-cookie-alert cookie-fixed-bot">
+	<div class="center">
+		<div class="top-alert__title">Использование файлов cookie</div>
+		<p>С целью оптимального оформления и постоянного улучшения веб-страниц на сайте lovizaim.ru используются файлы cookie, <br>согласно <a class="orange_link" href="/file/cookie.pdf">Политике использования файлов cookie</a> на веб-сайте ООО МКК «Центрофинанс-Север» - <a class="orange_link" href="lovizaim.ru">lovizaim.ru</a>»</p><br>
+		<p>Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, а также пользовательских данных (сведения о местоположении; ip-адрес; язык браузера; внешний источник перехода на сайт; сведения об устройстве пользователя - ПО такого устройства, браузер и его настройки; системных данных устройства; сведения о сессии как посетителя этого сервиса) в целях функционирования сайта, проведения ретаргетинга и проведения статистических исследований и обзоров. Если вы не хотите, чтобы ваши данные обрабатывались, покиньте сайт.</p>
+		<button class="btn" onclick="writeAgreementCookie()">Я согласен</button>
+	</div>
+</div>
+
+<div class="alert_box hide">
+	<form class="alert_up support_up">
+		<div class="alert_up__title">Нужна помощь? Обратитесь в поддержку!</div>
+
+		<div class="box">
+			<ul class="clr">
+				<li>Оператор техподдержки <a href="tel:88002229424">8 (800) 222-94-24</a></li>
+				<li>Задать вопросы онлайн <a class="btn gray custom-chatra-button" ng-click="openChat()">Войти в чат</a></li>
+				<li>Мы отвечаем в течение часа <a href="mailto:support@lovizaim.ru">support@lovizaim.ru</a></li>
+			</ul>
+			<p>Нужную информацию Вы можете получить в разделе <a href="/faq.shtml">Вопросы
+				и ответы</a></p>
+			<span class="close"></span>
+		</div>
+	</form>
+
+    <div class="alert_up callback_up">
+		<div class="alert_up__title">Обратный звонок</div>
+		<form class="box" name="callbackForm">
+			<div class="fieldset">
+				<div class="row" ng-class="{'error' : isInvalid(callbackForm.firstName)}">
+					<div class="col first" ng-class="{'error' : isInvalid(callbackForm.firstName)}">Имя <span class="marker-red">*</span></div>
+					<div class="col" ng-class="{'error' : isInvalid(callbackForm.firstName)}">
+						<input class="input" name="firstName"
+							   ng-model="callback.firstName"
+							   ng-required="true"
+							   ng-pattern="/^[\u0410-\u044f]*$/">
+					</div>
+				</div>
+                <div class="row" ng-if="isInvalid(callbackForm.firstName)">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>Имя должно содержать только русские символы</p>
+                    </div>
+                </div>
+
+				<div class="row" ng-class="{'error' : isInvalid(callbackForm.lastName)}">
+					<div class="col first" ng-class="{'error' : isInvalid(callbackForm.lastName)}">Фамилия</div>
+					<div class="col" ng-class="{'error' : isInvalid(callbackForm.lastName)}">
+						<input class="input" name="lastName"
+							   ng-model="callback.lastName"
+							   ng-pattern="/^[\u0410-\u044f]*$/">
+					</div>
+				</div>
+                <div class="row" ng-if="isInvalid(callbackForm.lastName)">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>Фамилия должна содержать только русские символы</p>
+                    </div>
+                </div>
+
+				<div class="row" ng-class="{'error' : (isInvalid(callbackForm.email) && isSameEmail(callback.email))}">
+					<div class="col first" ng-class="{'error' : (isInvalid(callbackForm.email) && isSameEmail(callback.email))}">E-mail</div>
+					<div class="col" ng-class="{'error' : (isInvalid(callbackForm.email) && isSameEmail(callback.email))}">
+						<input type="email" class="input" name="email"
+							   ng-model-options="{ updateOn: 'blur' }"
+							   ng-model="callback.email"
+							   ng-pattern="/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i">
+					</div>
+				</div>
+                <div class="row" ng-if="isInvalid(callbackForm.email)">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>E-mail имеет неверный формат</p>
+                    </div>
+                </div>
+                <div class="row" ng-if="isSameEmail(callback.email)">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>E-mail неверный</p>
+                    </div>
+                </div>
+
+				<div class="row" ng-class="{'error' : (isInvalid(callbackForm.phone) && isSamePhone(callback.phone))}">
+					<div class="col first" ng-class="{'error' : (isInvalid(callbackForm.phone) && isSamePhone(callback.phone))}">Телефон <span class="marker-red">*</span></div>
+					<div class="col" ng-class="{'error' : (isInvalid(callbackForm.phone) && isSamePhone(callback.phone))}">
+						<input type="tel" class="input tel phonenumbermask_jsp" name="phone"
+							   ng-model="callback.phone"
+							   ng-required="true">
+					</div>
+				</div>
+                <div class="row" ng-if="isInvalid(callbackForm.phone)">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>Телефон неверный</p>
+                    </div>
+                </div>
+                <div class="row" ng-if="isSamePhone(callback.phone)">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>Телефон неверный</p>
+                    </div>
+                </div>
+
+				<div class="row" ng-class="{'error' : callbackCaptchaValid == false}">
+					<div id="call-captcha" style="width: 304px; margin: 10px auto;"></div>
+				</div>
+                <div class="row" ng-if="callbackCaptchaValid == false">
+                    <div class="col w100p info-red" style="width: 566px">
+                        <p>Вы не прошли проверку</p>
+                    </div>
+                </div>
+				<div class="row">
+					<div class="col doc-sign__col">
+						<div class="doc-sign__checkbox">
+							<label class="checkbox">
+								<input type="checkbox" class="required" ng-model="callback.isAgree" name="isAgree" ng-required="true">
+							</label>
+						</div>
+
+						<div class="doc-sign__text">
+							<span class="marker-red">*</span> Отправляя данные, вы <a href="https://lovizaim.ru/file/soglasie_na_opd.pdf" target="_blank">соглашаетесь на обработку Ваших персональных данных</a>, а так же ознакомлены с <a href="https://lovizaim.ru/file/pravila.pdf" target="_blank">правилами предоставления займов</a> и <a href="https://lovizaim.ru/file/politika.pdf" target="_blank">политикой конфиденциальности сайта</a>
+						</div>
+					</div>
+				</div>
+				<div class="row" ng-if="isInvalid(callbackForm.isAgree)">
+					<div class="col w100p info-red" style="width: 566px">
+						<p>Вы не дали согласие</p>
+					</div>
+				</div>
+			</div>
+
+			<button class="btn" ng-click="saveCallback(callback)" ng-if="!callbackBtnDisable">Отправить</button>
+			<img src="/images/ajax-loader.gif" ng-if="callbackBtnDisable" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм"/>
+			<span class="close"></span>
+		</form>
+	</div>
+
+
+    <div class="alert_up location_denied_up">
+		<div class="alert_up__title">В рассмотрении заявки отказано</div>
+		<div class="box">
+			<img src="/images/logo.svg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+			<p>К сожалению, мы выдаем займы только гражданам, находящимся на территории Российской Федерации. Приносим свои извинения.</p>
+			<a href="/" class="btn">Вернуться на главную</a>
+            <span class="close"></span>
+        </div>
+	</div>
+
+	<div class="alert_up change_summ">
+        <div class="alert_up__title">Выбор другой суммы</div>
+        <div class="box">
+            <img src="/images/logo.svg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+            <p>Запрошенная сумма превышает лимит доступный для первого займа, она будет доступна только со второго займа.
+            Пожалуйста выберите другую сумму.</p>
+            <span class="close"></span>
+        </div>
+    </div>
+
+	<div class="alert_up loan_under_pts">
+		<div class="alert_up__title">Заём под ПТС</div>
+		<div class="box">
+			<p>Наши партнёры, компания «Центрофинанс», предлагают оформить заём под залог ПТС. «Центрофинанс» — федеральная сеть выдачи микрозаймов.
+				Офисы можно найти по всей стране, а заявку оставить онлайн. Предварительное рассмотрение в течение нескольких минут.</p>
+			<div class="center"><h3 style="color:black;">Заём под ПТС — это:</h3></div>
+			<p>Процентная ставка — 0,23% в день</p>
+			<p>Срок — от 3 до 30 месяцев</p>
+			<p>Сумма — от 30 000 до 500 000 рублей</p>
+			<p>Подайте заявку на сайте: <a class="btn loan-under-pts" href="https://centrofinans.ru/products/zaim-pod-pts/?utm_source=lovizaim_pts&utm_content={device_type}|{region_name}">Займы под ПТС</a></p>
+			<span class="close"></span>
+		</div>
+	</div>
+
+    <div class="alert_up account_blocked">
+        <div class="alert_up__title">Блокировка аккаунта</div>
+        <div class="box">
+            <img src="/images/logo.svg" alt="ЛовиЗайм" width="" height="" title="ЛовиЗайм">
+            <p style="color: #ccc;">Вы три раза ввели неправильный пароль, ваш аккаунт заблокирован на 10 минут.</p>
+            <span class="close"></span>
+        </div>
+    </div>
+
+	<div class="alert_up anketa-error_up">
+		<div class="alert_up__title">Внимание! Ошибка</div>
+
+		<div class="box">
+			<p class="error_message"></p>
+			<span class="close"></span>
+		</div>
+	</div>
+
+	<div class="alert_up anketa-success_up">
+		<div class="alert_up__title">Внимание! Поздравляем</div>
+
+		<div class="box">
+			<p class="success_message"></p>
+			<span class="close"></span>
+		</div>
+	</div>
+
+	<div class="alert_up subscribe_modal" id="subscribePopup">
+	<div class="alert_up__title">Будьте всегда в курсе новостей!</div>
+		<form class="box" name="subscribeForm">
+			<div class="fieldset">
+				<div class="row">
+					<div class="col first" id="emailLabel"><span class="marker-red">*</span>E-mail</div>
+					<div class="col">
+						<input type="email" class="input" id="subscribeEmail">
+					</div>
+                    <span class="error-message" style="display:none;" id="emailError">
+                        E-mail имеет неверный формат
+                    </span>
+				</div>
+               <div class="row" id="subscribeAgree">
+
+				   <div class="col doc-sign__col">
+					   <div class="doc-sign__checkbox">
+						   <label class="checkbox">
+							   <input type="checkbox" id="subscribeCondition">
+						   </label>
+					   </div>
+
+					   <div class="doc-sign__text">
+						   <span class="marker-red">*</span> Я согласен получать информационную рассылку от ООО МКК «Центрофинанс – Север»
+					   </div>
+				   </div>
+
+				</div>
+				<div class="row" id="personalSubscribeAgree">
+
+					<div class="col doc-sign__col">
+						<div class="doc-sign__checkbox">
+							<label class="checkbox">
+								<input type="checkbox" id="personalSubscribeAgreeCondition">
+							</label>
+						</div>
+
+						<div class="doc-sign__text">
+							<span class="marker-red">*</span> Отправляя данные, вы <a href="https://lovizaim.ru/file/soglasie_na_opd.pdf" target="_blank">соглашаетесь на обработку Ваших персональных данных</a>, а так же ознакомлены с <a href="https://lovizaim.ru/file/pravila.pdf" target="_blank">правилами предоставления займов</a> и <a href="https://lovizaim.ru/file/politika.pdf" target="_blank">политикой конфиденциальности сайта</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<button class="btn gray" onclick="subscribeNews();" id="subscribeButton" disabled>Отправить</button>
+			<span class="close"></span>
+		</form>
+     </div>
+
+	<div class="alert_up social-select_up">
+		<div class="alert_up__title">Выберите социальную сеть</div>
+		<div class="box">
+			<div class="fieldset">
+				<div class="row">
+					<div class="col first">
+						<span class="marker-red">*</span>ФИО:
+					</div>
+					<div class="col">
+						<input id="fullname" data-tooltip="1" class="input required">
+					</div>
+				</div>
+				<div class="row hide tooltip error" data-id="1">
+					<div class="col w100p"><p></p></div>
+				</div>
+				<div class="row">
+					<div class="col first">
+						<span class="marker-red">*</span>Email:
+					</div>
+					<div class="col">
+						<input id="email" data-tooltip="2" class="input required email">
+					</div>
+				</div>
+				<div class="row hide tooltip error" data-id="2">
+					<div class="col w100p"><p></p></div>
+				</div>
+				<div class="row">
+					<div class="col first">
+						<span class="marker-red">*</span>Телефон:
+					</div>
+					<div class="col">
+						<input placeholder="+7 (___) ___-__-__" type="tel" id="phone" data-tooltip="3" class="input required phonenumbermask_jsp">
+					</div>
+				</div>
+				<div class="row hide tooltip error" data-id="3">
+					<div class="col w100p"><p></p></div>
+				</div>
+			</div>
+			<div class="fieldset chose">
+				<div class="row head">
+					<div class="alert_up__title">Выбери соц. сеть для участия в акции</div>
+				</div>
+				<div class="row">
+					<div class="col w100p">
+						<label class="checkbox radio notsel pay__7">
+							<span class="pay_name">Вконтакте</span>
+							<input class="required" type="radio" name="radio5" fold="foldPay__7">
+							<i></i>
+						</label>
+					</div>
+				</div>
+				<div class="row hide foldPay__7">
+					<div class="row">
+						<p>Пожалуйста, введите ссылку на ваш профиль вконтакте в форму ниже.</p>
+						<div class="col w100p contact-info">
+								<input type="text" id="vk" class="input socnetwork-url" data-tooltip="4">
+						</div>
+					</div>
+					<div class="row hide tooltip error" data-id="4">
+						<div class="col w100p"><p>Вы ввели не корректную ссылку</p></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col w100p">
+						<label class="checkbox radio notsel pay__10">
+							<span class="pay_name">Одноклассники</span>
+							<input class="required" type="radio" name="radio5" fold="foldPay__10">
+							<i></i>
+						</label>
+					</div>
+				</div>
+				<div class="row hide foldPay__10">
+					<div class="row">
+						<p>Пожалуйста, введите ссылку на ваш профиль одноклассники в форму ниже.</p>
+						<div class="col w100p contact-info">
+								<input type="text" id="odk" class="input socnetwork-url" data-tooltip="5">
+						</div>
+					</div>
+					<div class="row hide tooltip error" data-id="5">
+						<div class="col w100p"><p>Вы ввели не корректную ссылку</p></div>
+					</div>
+				</div>
+				
+
+			</div>
+			<button class="btn takePart">Участвовать</button>
+			<span class="close"></span>
+		</div>
+	</div>
+
+	<div class="alert_up cookie-using-alert">
+		<div class="box">
+			<div class="cookie-using-alert__title">Использование файлов cookie</div>
+			<p>С целью оптимального оформления и постоянного улучшения веб-страниц на сайте lovizaim.ru используются файлы cookie.</p>
+			<p class="orange_link">Если вы продолжаете использовать веб-сайт, значит, Вы даете согласие на использование файлов cookie.</p>
+			<button class="btn" onclick="writeAgreementCookie()">Я согласен</button>
+		</div>
+	</div>
+
+	<div class="alert_up discount-alert hide">
+		<div class="box">
+			<table width="100%">
+				<tr>
+					<td>
+					<img src="/main/images/vilka.svg" alt="ЛовиЗайм" title="ЛовиЗайм"></td>
+				</tr>
+				<tr>
+					<td><p>Снижение процентной ставки с <s>1,7</s> до <span style="font-size: large">1</span>% в день.
+				Пришло время “собирать сливки”.
+				Заряди свой кошелек прямо сейчас!</p>
+			<button class="btn" onclick="window.location = '/main/anketa.shtml'">Получить сейчас!</button></td>
+				</tr>
+			</table>
+			<span class="close"></span>
+		</div>
+	</div>
+
+</div>
+<div id="openModal" class="modal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+       
+        <a href="#close" title="Close" class="close">×</a>
+      </div>
+      <div class="modal-body">    
+ <div id="form_202313_1"></div>
+<script type="text/javascript">
+   (function (d, w, c) {
+       (w[c] = w[c] || []).push({formId:202313,host:"formdesigner.ru",formHeight:100, el: "form_202313_1",center: 1,scroll: 0});
+       var s = d.createElement("script"), g = "getElementsByTagName";
+       s.type = "text/javascript"; s.charset="UTF-8"; s.async = true;
+       s.src = (d.location.protocol == "https:" ? "https:" : "http:")+"//formdesigner.ru/js/iform.js?v=0.0.3";
+       var h=d[g]("head")[0] || d[g]("body")[0];
+       h.appendChild(s);
+   })(document, window, "fdforms");
+</script>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="/main/js/callback.js"></script>
+<script type="text/javascript">afTrack();</script>
+>
+<!-- прелоадер-->
+<script src="/main/js/jquery.loading-indicator.min.js"></script>
+<script src="/main/js/check-cookie.js"></script>
+<script type="text/javascript" src="/main/js/lidgencookie.js"></script>
+
+
+<!-- лидогенерация и проверка поддержки кук-->
+<script type="text/javascript">
+    $(document).ready(function () {
+        checkCookie();
+        checkAgreementCookie();
+        setLidGenCookie();
+    });
+</script>
+<script type="text/javascript">
+
+	$(document).ready(function () {
+		/**
+		 * инициализация прелоадера
+		 * использование
+		 * preloader.show(); показать прелоадер
+		 * preloader.hide(); скрыть прелоадер
+		 */
+		var preloader = $('body').loadingIndicator({
+			showOnInit: false,
+			useImage: false
+		}).data("loadingIndicator");
+
+		$('#subscribeCondition, #personalSubscribeAgreeCondition').change(function () {
+			var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+			var email = $('#subscribeEmail').val();
+			var disabled = !$.trim(email) || !regex.test(email) || !$('#subscribeCondition').is(':checked') || !$('#personalSubscribeAgreeCondition').is(':checked');
+			$('#subscribeButton').attr('disabled', disabled).attr('class', disabled ? 'btn gray' : 'btn');
+		});
+		$('#subscribeEmail').on('input', function (e) {
+			var email = $(this).val();
+			var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+			var disabled = !$.trim(email) || !regex.test(email) || !$('#subscribeCondition').is(':checked') || !$('#personalSubscribeAgreeCondition').is(':checked');
+			$('#subscribeButton').attr('disabled', disabled).attr('class', disabled ? 'btn gray' : 'btn');
+			$('#emailLabel').attr('class', !regex.test(email) ? 'col first error-label' : 'col first');
+			$('#emailError').attr('style', !regex.test(email) ? 'display:block' : 'display:none');
+		});
+		function subscribeNews() {
+			$.ajax({
+				url: "/main/rest/cms/subscribe",
+				data: {email: $('#subscribeEmail').val(), isAgree: true},
+				type: "POST",
+				contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+				dataType: "json",
+				success: function (ans) {
+					if (ans.success) {
+						$('.close').trigger('click');
+					}
+				}
+			});
+		}
+
+		$('.phonenumbermask_jsp').keyup().mask('+7 (999) 999 99 99');
+
+
+        // запуск баннера через 6 сек
+        /*if (!getParameterFromCookie('alert_discount_showed')) {
+            setTimeout(function () {
+                alert_top(up_window.filter('.discount-alert'));
+            }, 6000);
+        }*/
+    });
+
+
+  /*  function checkLoginState() {
+        FB.getLoginStatus(function(response) {
+            statusChangeCallback(response);
+        });
+    }
+    function statusChangeCallback(response) {
+        localStorage.setItem("fb", response.authResponse.userID);
+    }*/
+
+</script>
+<!--чат usedesk-->
+<script async src="https://lib.usedesk.ru/secure.usedesk.ru/widget_157401_11299.js"></script>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		initRotateSlogan();
+		stepsInit();
+		$.getJSON("/api/rest/credit/getSumsData?initialSum=5000.0&initialDays=21").success(function(res) {
+			initSliders(res.data);
+			$('#minSumLabel').text(numFormat(res.data.creditSumMin));
+			$('#maxSumLabel').text(numFormat(res.data.creditSumMax));
+			$('#minDaysLabel').text(res.data.creditDaysMin);
+			$('#maxDaysLabel').text(res.data.creditDaysMax);
+		});
+
+		var sendToAnketaCb = function (evt) {
+			evt.preventDefault();
+
+            var isSendToAnketaFAQBtn = $(this).hasClass('sendToAnketaFAQ');
+
+			$.ajax({
+				url: '/api/rest/validate/location',
+				method: 'POST',
+				dataType: 'json',
+				contentType: 'application/json'
+			}).success(function(res) {
+				if (res.success) {
+					
+					var s1 = parseInt($('#summ_zaim-input').val());
+					var s2 = parseInt($("#maxzaim_unregistered").text());
+					if(s1 > s2)
+					{
+						alert_top(up_window.filter('.change_summ'));
+						return;
+					}
+					
+					var url = '/anketa.shtml?',
+							sum = $('#summ_zaim-input').val(),
+							days = $('#date_zaim-input').val();
+
+					if (sum) {
+						url += 'initialSum=' + sum;
+					}
+					if (days) {
+						url += '&initialDays=' + days
+					}
+                    ga ('send', 'event', 'dengi', 'poluchit');
+                    if (typeof yaCounter33286090 !== 'undefined') {
+                        yaCounter33286090.reachGoal(isSendToAnketaFAQBtn ? 'poluchit_dengi_faq' : 'poluchit_dengi');
+                    }
+                    ym(33286090,'reachGoal','form');
+					location.href = url;
+				} else {
+					var errorMessage;
+					if (res.errorMessage) {
+						errorMessage = 'К сожалению, мы выдаем займы только гражданам, находящимся на территории стран(ы) ' + res.errorMessage + '. Приносим свои извинения.'
+					} else {
+						errorMessage = 'Ошибка проверки вашего местоположения'
+					}
+
+					$('.anketa-error_up .error_message').text(errorMessage)
+					alert_top($('.anketa-error_up'));
+//					up_box.off();
+				}
+			});
+		};
+
+		$('#sendToAnketa').on('click', sendToAnketaCb);
+		$('.sendToAnketa').on('click', sendToAnketaCb);
+	});
+
+	function numFormat(num) {
+		num = '' + num;
+
+		var res = '';
+		for (var i = num.length-1; i >= 0; i--){
+			res = num[i] + res;
+			if (res.length % 3 === 0 && i !== 0) {
+				res = ' ' + res;
+			}
+		}
+
+		return res;
+	}
+</script>
+ 
+</body>
+</html>

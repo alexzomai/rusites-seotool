@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>404 Error! | Футбол в Сочи для Детей</title>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet" type="text/css">
+<link href="https://www.sochifootball.ru/theme/president/cache/master_main.css" rel="stylesheet" type="text/css" />
+<link href="https://www.sochifootball.ru/theme/president/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="error-page">
+  <div class="wojo-grid">
+    <div class="logo"><a href="https://www.sochifootball.ru"><img src="https://www.sochifootball.ru/uploads/logo-football.png" alt="SochiFootball.ru" /></a> </div>
+    <h1>ооопа...</h1>
+    <a href="https://www.sochifootball.ru/">
+    <div id="but" class="wojo info icon button"><i class="icon home"></i></div>
+    </a>
+    <h3 class="primary">Эта страница скорее всего недавно удалена с сайта, но по каким то причинам доступна в поиске</h3>
+    <h3>Сделайте клик по домику и посетите главную страницу сайта Сочи Создание Сайтов.</h3>
+  </div>
+</div></body>
+</html>

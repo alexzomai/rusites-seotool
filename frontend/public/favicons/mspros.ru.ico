@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <!--<meta http-equiv="Cache-Control" content="max-age=3600, must-revalidate" />-->
+    <meta name="robots" content="index,follow" />
+	<meta name="distribution" content="global" />
+	<!--[if lt IE 9]>
+		<script src="/common/ie/html5.js" type="text/javascript"></script>
+		<script src="/common/ie/css3-mediaqueries.js" type="text/javascript"></script>
+	<![endif]-->
+	<script src="/common/jquery-2.2.1.min.js" type="text/javascript"></script>
+	<script src="/common/script.js?update=18-18-18" type="text/javascript"></script>
+	<script src="/common/hi.js?update=18-18-18" type="text/javascript"></script>
+	<link rel="stylesheet" href="/styles/default.css?update=18-18-18" type="text/css" />
+	<link rel="stylesheet" href="/styles/example.css?update=18-18-18" type="text/css" />
+	<link rel="stylesheet" media="all" href="/styles/media-queries.css?update=18-18-18" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS - \"Местный спрос\"" href="/rss.php" />
+	<link rel="shortcut icon" href="/images/favicon.jpg" />
+	<meta Name="copyright" Content="© Издательство «Местный спрос», 2018 год." />
+	<meta name="keywords" content="Местный спрос, Шуя, Шуйский район, новости, сми, газета, политика, экономика, культура, спорт, общество, образование, происшествия, криминал" />
+</head>
+<body lang="ru">
+	<noindex>
+	<div id="advertisement"></div>
+	</noindex>
+		<section class="main">
+		<header>
+			<div id="theme"></div>
+            <a href="/main">
+                <img id="logo" src="/images/logo.jpg" alt="logo">
+            </a>
+            <img id="yplus" src="/images/16+.jpg" alt="year">
+			<ol>
+				<li>Адрес: 155900, Ивановская область,</li>
+				<li>город Шуя, улица Свердлова, дом № 6.</li>
+				<li>Телефон/факс: +7 (49351) 33-100.</li>
+				<li>Электронная почта: <a href="/about#latter" title="Написать письмо">verstka@mspros.ru</a></li>
+				<li>Издательство «Местный спрос» © <script>document.write(new Date().getFullYear())</script></li>
+			</ol>
+		</header>
+		<nav id='nav-menu'>
+			<ul>
+				<li><a href="/main">Новости</a></li>
+                <li><a href="/main?video">Видео</a></li>
+                        <li><a href="/ads">объявления</a></li>
+                <li><a href="/about">О нас</a></li>
+                <li><a href="/partners">Партнерам</a></li>
+                        <li><a href="/auth">Аккаунт</a></li>
+        			</ul>
+		</nav>
+        <section class="body">		
+			<meta name='og:title' content='Произошла ошибка - «Местный спрос»' /><title>Произошла ошибка - «Местный спрос»</title><meta name='og:description' content='«Местный спрос»: политика, образование, культура, происшествия, спорт и многое другое из жизни района и города Шуя. «Местный спрос» - это больше чем новости: фото, видео, комментарии.' /><meta name='description' content='«Местный спрос»: политика, образование, культура, происшествия, спорт и многое другое из жизни района и города Шуя. «Местный спрос» - это больше чем новости: фото, видео, комментарии.' /><meta name='author' content='Местный спрос' /><meta name='og:image' content='http://mspros.ru/images/logo.jpg' /><meta name='og:url' content='/favicon.ico' /><h2>Произошла ошибка</h2>			
+		</section>
+	</section>
+	<aside>
+		<div id="social">
+			<a rel="telegram" href="https://t.me/s/msprosru" target="blank">Страница в Telegram</a>
+			<a rel="google" href="http://www.youtube.com/user/MStvShuya" target="blank">Канал на YouTube</a>
+			<a rel="vkontakte" href="http://vk.com/mspros" target="blank">Группа Вконтакте</a>
+			<a rel="odnoklassniki" href="http://www.odnoklassniki.ru/mspros" target="blank">Мы в Одноклассниках</a>
+		</div>
+		<!--<noindex>
+            <div id="banners"></div>
+		</noindex>-->
+		<div id="upside"></div>
+	</aside>			
+	<footer>
+			<p>
+				<noindex>
+                    <a href="http://top100.rambler.ru/navi/3008599/" target="_blank">
+					<img src="http://counter.rambler.ru/top100.cnt?3008599" alt="Rambler's Top100" border="0" /></a>
+                    <script type="text/javascript"><!--
+                    document.write("<a href='//www.liveinternet.ru/click' "+
+                    "target=_blank><img src='//counter.yadro.ru/hit?t18.5;r"+
+                    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                    ";"+Math.random()+
+                    "' alt='' title='LiveInternet: показано число просмотров за 24"+
+                    " часа, посетителей за 24 часа и за сегодня' "+
+                    "border='0' width='88' height='31'><\/a>")
+                    //--></script>
+				</noindex>
+			</p>
+			<p>
+				Все права защищены. Перепечатка и воспроизведение разрешается только с гиперссылкой на <a href="http://www.mspros.ru" target="_blank">www.mspros.ru</a>.
+				Разработка сайта - <a href="/readme.md" rel="copyright" target="_blank">ABP web project</a>.
+			</p>
+	</footer>
+</body>
+</html>

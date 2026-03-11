@@ -1,0 +1,814 @@
+﻿<!doctype html>
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+<head>
+  <!-- Поделиться -->
+   
+  <!-- linclude filе="<analyticstracking.php>" -->
+  
+<script type="text/javascript">
+      var onloadCallback = function() {
+        grecaptcha.render('html_element', {
+          'sitekey' : '6LdIWxcdAAAAAHJ8kJGkRZLTWL8nnDQ1HCEE5wnN'
+        });
+      };
+    </script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<base href="https://aary.ru/error.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="русские дома,русское жилье,ремонт,россия,своими руками,soft,hadrware," />
+	<meta name="rights" content="Skaf, aary.ru 2006 - " />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta name="description" content="Русские дома - обзор интересных проектов и оригинальных решений в строительстве, сделай сам - советы по строительству и настройке компьютера и программного обеспечения, концепция общественной безопасности." />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Русские дома - Ошибка 404!</title>
+	<link href="/templates/aary/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://aary.ru/component/search/?Itemid=181&amp;format=opensearch" rel="search" title="Поиск aary.ru" type="application/opensearchdescription+xml" />
+	<link href="/components/com_jcomments/tpl/default/style.css?v=3002" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?b6ec927263ae416249acd741688cb74c" rel="stylesheet" type="text/css" />
+	<link href="/templates/aary/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/aary/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/aary/html/error/mistakes.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_newscalendar/css/green-arrows.css" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?b6ec927263ae416249acd741688cb74c" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?b6ec927263ae416249acd741688cb74c" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?b6ec927263ae416249acd741688cb74c" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?b6ec927263ae416249acd741688cb74c" type="text/javascript"></script>
+	<script src="/templates/aary/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/templates/aary/js/bootstrap.js" type="text/javascript"></script>
+	<script src="/templates/aary/js/equalHeight.js" type="text/javascript"></script>
+	<script src="/templates/aary/html/error/mistakes.js" type="text/javascript"></script>
+	<script src="/modules/mod_newscalendar/assets/newscalendar.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});var sfolder = '';
+	</script>
+
+<!-- Вставьте этот тег в заголовке страницы или непосредственно перед закрывающим тегом основной части. -->
+<script src="https://apis.google.com/js/platform.js" async defer>
+  {lang: 'ru'}
+</script>
+<style>
+ #header, #bottom { background-color: transparent 50%;  }
+  .clear-menu > li > a:hover, .clear-menu > .open > span, .nav .open > a, .nav .open > a:hover, .nav .open > a:focus { color: #386646; }
+</style>
+<style>
+  .clear-menu > li > a { color: #596616; }
+</style>
+  <style>
+  #header { padding-top: 80px; }
+</style>
+</head>
+<body>
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=18271822&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/18271822/3_0_D8A62BFF_B8860BFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="18271822" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(18271822, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/18271822" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2265517", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=2265517;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59516441-1', 'auto');
+  ga('send', 'pageview');
+
+</script><a name="up" id="up"></a>
+   <div class="container-fluid" id="top">
+       <div class="row" id="header">
+            <div class="col-sm-2" id="logotype">
+                      <a href="/"><img src="https://aary.ru/images/logo.png"alt="" /></a>
+            </div>  
+                	
+				<div class="col-sm-7" id="logotype-2">
+				      <a href="/"> <img src="/images/logo2_ng.png" alt="логотип сайта №1" width="652" height="78" no-repeat center /></a>
+                      
+              </div>
+                <div class="col-sm-3" id="map-site"> 
+                  <div class="search">
+	<form action="/error.html" method="post" class="form-inline" role="search">
+    	<div class="form-group">
+			<input name="searchword" id="mod-search-searchword" maxlength="200"  class="form-control input-sm" type="text" size="20" value="Приступим?" onblur="if (this.value=='') this.value='Приступим?';" onfocus="if (this.value=='Приступим?') this.value='';" /> 
+        </div>
+      	<div class="form-group">
+		<button type="submit" class="btn btn-primary btn-sm" onclick="this.form.searchword.focus();"><span class="glyphicon glyphicon-search"></span> Вперед</button>
+      	</div>
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="181" />
+  </form>
+</div>
+                          <div class="kartas" width="135" height="21">
+                            <a href="https://aary.ru/sitemap.xml"><img src="/images/map-button.png" width="135" height="21" alt="карта сайта" display="block" /></a>
+                          </div>
+                </div>
+				            <div class="col-sm-8" id="navigation">
+              <nav class="navbar navbar-fixed-top" role="navigation">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topmenu">
+                      <span class="sr-only">Кнопка выпадающего меню</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                      <a class="navbar-brand visible-xs-inline" href="#">Меню</a>
+                    </div>
+                      <div class="collapse navbar-collapse" id="topmenu">
+                         <ul class="nav menu clear-menu">
+<li class="item-167"><a href="/" ><span>Главная</span></a></li><li class="item-123 dropdown deeper parent"><a class=" dropdown-toggle" data-toggle="dropdown" href="/sovremennoe-zhile.html" ><span>Современное жилье<b class="caret"></b></span></a><ul class="dropdown-menu"><li class="item-124"><a href="/sovremennoe-zhile/doma.html" ><span>дома</span></a></li><li class="item-125"><a href="/sovremennoe-zhile/materialy-i-elementy.html" ><span>материалы и элементы</span></a></li><li class="item-126"><a href="/sovremennoe-zhile/proekty-domov.html" ><span>проекты домов</span></a></li><li class="item-127"><a href="/sovremennoe-zhile/prakticheskie-sovety.html" ><span>практические советы</span></a></li><li class="item-128"><a href="/sovremennoe-zhile/stroitelnye-programmy.html" ><span>программы</span></a></li><li class="item-129"><a href="/sovremennoe-zhile/vopros-otvet.html" ><span>вопрос-ответ</span></a></li></ul></li><li class="item-140 dropdown deeper parent"><a class=" dropdown-toggle" data-toggle="dropdown" href="/kompyutery.html" ><span>Компьютеры<b class="caret"></b></span></a><ul class="dropdown-menu"><li class="item-141"><a href="/kompyutery/software.html" ><span>проги</span></a></li><li class="item-142"><a href="/kompyutery/hardware.html" ><span>железо</span></a></li><li class="item-143"><a href="/kompyutery/skoraya-pomoshch.html" ><span>скорая помощь</span></a></li></ul></li><li class="item-144 dropdown deeper parent"><a class=" dropdown-toggle" data-toggle="dropdown" href="/otdyx.html" ><span>Отдых<b class="caret"></b></span></a><ul class="dropdown-menu"><li class="item-145"><a href="/otdyx/video.html" ><span>видео</span></a></li><li class="item-146"><a href="/otdyx/igry.html" ><span>игры</span></a></li><li class="item-147"><a href="/otdyx/razno.html" ><span>разное</span></a></li><li class="item-148"><a href="/otdyx/testy.html" ><span>тесты</span></a></li></ul></li><li class="item-149"><a href="/коб-кпе.html" ><span>Мифы</span></a></li><li class="item-150"><a href="/о-сайте.html" ><span>О сайте</span></a></li><li class="item-151"><a href="/forum" ><span>Форум</span></a></li></ul>
+
+                      </div>
+                  </div>
+                </nav>
+            </div><!-- /#navigation -->
+        </div>
+	        <div class="row" id="banner">
+       	     
+            </div>
+     <div class="row">
+             <div id="breadcrumbs">
+                 
+<ul class="navigator">
+	<li class="active">Вы здесь: &#160;</li><li><a href="/" class="pathway">Главная</a><span class="divider"><img src="/media/system/images/arrow.png" alt="" /></span></li><li class="active"><span>Ошибка 404!</span></li></ul>
+
+             </div>
+                 <div id="linetop">
+                 </div>
+       </div>
+    </div><!-- /#top --> 		 
+    <div class="container-fluid" id="middle">
+       
+       <div class="row">
+                		<div class="col-sm-2" id="left">
+              <div class="weeeks">
+<script language="JavaScript">
+var h=(new Date()).getHours();
+if (h > 3 && h <  12) document.writeln("Доброе утро!"); 
+if (h > 11 && h <  19) document.writeln("Добрый день!"); 
+if (h > 18 && h <  24) document. writeln("Добрый вечер!"); 
+if (h > 23 || h <  4 ) document.writeln("Привет полуночники!"); 
+</script>
+</div>
+
+	<div class="weeks"><Script Language="JavaScript">
+  now = new Date()
+  if (now.getDay() == 0)
+    document.write("Отдыхаем, завтра новая неделя...")
+  if (now.getDay() == 1)
+    document.write("Сегодня понедельник - настраивайтесь на работу")
+  if (now.getDay() == 2)
+    document.write("Как здорово, что уже вторник, понедельник к счастью позади!")
+  if (now.getDay() == 3)
+    document.write("Ух! Половина недели позади - сегодня уже среда")
+  if (now.getDay() == 4)
+    document.write("Неужели сегодня четверг, скоро выходные...")
+  if (now.getDay() == 5)
+    document.write("О да! Сегодня пятница - последний рабочий день")
+  if (now.getDay() == 6)
+    document.write("Долгожданный, первый день выходных!")
+</Script></div>
+                     		<div class="moduletable module-white">
+							<h3>Новые материалы сайта</h3>
+						<ul class="latestnews module-white mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/otdyx/razno/192-маленькие-секреты-наших-избранниц.html" itemprop="url">
+			<span itemprop="name">
+				Маленькие секреты наших избранниц			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/otdyx/razno/191-какими-женами-становятся-знаки-зодиака.html" itemprop="url">
+			<span itemprop="name">
+				Какими женами становятся знаки зодиака			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/otdyx/razno/189-недостатки-знаков-зодиака.html" itemprop="url">
+			<span itemprop="name">
+				Недостатки знаков зодиака			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/sovety/188-утепление-и-обшивка-домика-сайдингом.html" itemprop="url">
+			<span itemprop="name">
+				Утепление и обшивка домика сайдингом			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/sovety/187-утепление-и-обшивка-пристройки-домика-сайдингом-2.html" itemprop="url">
+			<span itemprop="name">
+				Утепление и обшивка пристройки домика сайдингом 2			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+			<div class="moduletable module-white">
+							<h3>Популярные статьи сайта</h3>
+						<ul class="mostread module-white mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/sovety/105-obshivka-domika-sajdingom.html" itemprop="url">
+			<span itemprop="name">
+				Обшивка домика сайдингом			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/sovremennoe-zhile/proekty-domov/183-проект-дома-коттеджа-№50.html" itemprop="url">
+			<span itemprop="name">
+				Проект дома (коттеджа) №50			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/sovremennoe-zhile/proekty-domov/181-проект-дома-коттеджа-№49.html" itemprop="url">
+			<span itemprop="name">
+				Проект дома (коттеджа) №49			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/kompy-top.html" itemprop="url">
+			<span itemprop="name">
+				Компьютеры			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/sovety/162-утепление-и-обшивка-пристройки-домика-сайдингом.html" itemprop="url">
+			<span itemprop="name">
+				Утепление и обшивка пристройки домика сайдингом			</span>
+		</a>
+	</li>
+</ul>
+		</div>
+			<div class="moduletable module-white">
+							<h3>Новое на форуме</h3>
+						<div>
+<ul style='list-style: none;'>
+<li style="clear:left; margin-bottom: 5px;"><img style="vertical-align:middle; float:left; margin:3px; max-width: 40px; max-height: 53px;" src="https://aary.ru/forum/index.php?action=dlattach;attach=122;type=avatar" alt="AVATAR"/><a href="https://aary.ru/forum/index.php?topic=40.msg1522#msg1522" target="_blank">AutoCAD. Секреты работы в программе</a> - skafary 2024 сен 08 10:18:18 PM [28 ответы]</li><li style="clear:left; margin-bottom: 5px;"><img style="vertical-align:middle; float:left; margin:3px; max-width: 40px; max-height: 53px;" src="https://aary.ru/forum/index.php?action=dlattach;attach=122;type=avatar" alt="AVATAR"/><a href="https://aary.ru/forum/index.php?topic=554.msg1518#msg1518" target="_blank">Беседы о здоровье и долголетии...</a> - skafary 2023 апр 10 12:51:57 PM [15 ответы]</li><li style="clear:left; margin-bottom: 5px;"><img style="vertical-align:middle; float:left; margin:3px; max-width: 40px; max-height: 53px;" src="https://aary.ru/forum/index.php?action=dlattach;attach=122;type=avatar" alt="AVATAR"/><a href="https://aary.ru/forum/index.php?topic=303.msg1517#msg1517" target="_blank">12 правил соблюдение которых жизненно необходимо д...</a> - skafary 2022 июнь 02 02:07:38 PM [12 ответы]</li><li style="clear:left; margin-bottom: 5px;"><img style="vertical-align:middle; float:left; margin:3px; max-width: 40px; max-height: 53px;" src="https://aary.ru/forum/index.php?action=dlattach;attach=122;type=avatar" alt="AVATAR"/><a href="https://aary.ru/forum/index.php?topic=568.msg1508#msg1508" target="_blank">Мифы....</a> - skafary 2021 фев 25 05:06:15 PM [2 ответы]</li><li style="clear:left; margin-bottom: 5px;"><img style="vertical-align:middle; float:left; margin:3px; max-width: 40px; max-height: 53px;" src="https://aary.ru/forum/index.php?action=dlattach;attach=136;type=avatar" alt="AVATAR"/><a href="https://aary.ru/forum/index.php?topic=705.msg1506#msg1506" target="_blank">Трагическое. До слёз... ( не читать ночью - рыдани...</a> - Fenix 2021 янв 03 09:25:16 PM [0 ответы]</li></ul>
+</div>		</div>
+			<div class="moduletable module-white">
+							<h3>Архив статей</h3>
+							<ul class="archive-module module-white mod-list">
+		<li>
+		<a href="/2015.html?view=archive&amp;month=2">
+			февраля, 2015		</a>
+	</li>
+		<li>
+		<a href="/2012.html?view=archive&amp;month=4">
+			апреля, 2012		</a>
+	</li>
+		<li>
+		<a href="/2012.html?view=archive&amp;month=2">
+			февраля, 2012		</a>
+	</li>
+		<li>
+		<a href="/2009.html?view=archive&amp;month=2">
+			февраля, 2009		</a>
+	</li>
+		<li>
+		<a href="/2007.html?view=archive&amp;month=2">
+			февраля, 2007		</a>
+	</li>
+		<li>
+		<a href="/2006.html?view=archive&amp;month=5">
+			мая, 2006		</a>
+	</li>
+	</ul>
+		</div>
+	                      
+                    </div>
+                  <div class="col-sm-8" id="content">
+              <div class="prazdnik">
+       <!-- Памятный день -->      
+<Script Language="JavaScript">
+ <!--
+ var today_obj=new Date()
+ var today_date=today_obj.getDate()
+ var tips=new Array()
+ var tiptitle=' <h3>События - даты - высказывания</h3> '
+ tips[1]='Всемирный день гражданской обороны - День создания криминалистической службы в России - Международный день борьбы с наркоманией и наркобизнесом'
+ tips[2]='Самые лучшие мысли приходят по глупости. <i>Карел Чапек</i>'
+ tips[3]='Каждый хочет, чтобы его информировали честно, безпристрастно, правдиво - и в полном соответствии с его взглядами. <i>Гилберт Честертон</i>'
+ tips[4]='Пенсия: отдых, навязанный тебе тогда, когда все, что ты можешь, - это работать. <i>Жорж Элгози</i>'
+ tips[5]='Циник - это человек, который вслух говорит то, что мы думаем. <i>Пьер Данинос</i>'
+ tips[6]='Один хороший аргумент лучше множества других. <i>Фрэнк Хаббард</i>'
+ tips[7]='Когда некто тебе противный что-то тебе доказывает, это и есть доказательство от противного. <i>Дон-Аминадо</i>'
+ tips[8]='Международный женский день'
+ tips[9]='Если вам нечем ответить своему оппоненту, не все потеряно: вы можете сказать ему, что вы о нем думаете. <i>Элберт Хаббард</i>'
+ tips[10]='Каждый готов проголосовать за самого лучшего, но он никогда не выставляет свою кандидатуру. <i>Фрэнк Хаббард</i>'
+ tips[11]='Знай с кем красть: а вдруг тебе с ним и сидеть? <i>Мечислав Шорган</i>'
+ tips[12]='Опасайся тех, кто сетует на нехватку времени, - они крадут твое. <i>Хуго Штейнхаус</i>'
+ tips[13]='Отказ - это предложение поднять цену. <i>Жорж Элгози</i>'
+ tips[14]='Есть люди, которые не совершают ошибок. Это те, за кого думают другие. <i>Хенрик Ягодзиньский</i>'
+ tips[15]='Всемирный день прав потребителя.'
+ tips[16]='Опыт отнюдь не мешает нам повторить прежнюю глупость, но мешает получить от нее прежнее удовольствие. <i>Тристан Бернар</i>'
+ tips[17]='Пес на цепи не заблудится, но и никуда не приведет. <i>Владислав Гжегорчик</i>'
+ tips[18]='День Парижской коммуны - День налоговой полиции - Алексей Леонов впервые в мире вышел в открытый космос (1965г.)'
+ tips[19]='День работников торговли - День моряка-подводника России.'
+ tips[20]='Если вы хотите, чтобы дело было сделано хорошо, найдите занятого человека: всем остальным некогда. <i>Элберт Хаббард</i>'
+ tips[21]='Всемирный день земли - День весеннего равноденствия - Международный день борьбы за ликвидацию расовой дискриминации.'
+ tips[22]='Всемирный день воды.'
+ tips[23]='Всемирный день метеоролога.'
+ tips[24]='Всемирный день борьбы с туберкулезом - Войска НАТО напали на Югославию (1999г.)'
+ tips[25]='Надменное извинение - еще одно оскорбление. <i>Гилберт Честертон</i>'
+ tips[26]='На человека можно рассчитывать, начиная от определенной суммы. <i>Мечислав Шарган</i>'
+ tips[27]='Международный день театра - День внутренних войск МВД РФ.'
+ tips[28]='Ложный шаг не раз приводил к открытию новых дорог. <i>Александр Кумор</i>'
+ tips[29]='Есть люди, чье равнодушие и пренебрежение приносит больше чести, чем их дружба и похвалы. <i>Аксель Оксеншерна</i>'
+ tips[30]='Самая полезная часть мудрости - знать, что о тебе думают другие. В этом предмете обманываться опасно, а знать правду - печально. <i>Маркиз Галифакс</i>'
+ tips[31]='У начальника на все должно хватать чужого времени. <i>Жорж Элгози</i>'
+
+ document.write(tiptitle)
+ document.write(tips[today_date])
+ //-->
+ </script>
+<!-- Конец Памятного дня -->
+ </div><br>
+               <div id="content-vnutr">
+                  <div id="system-message-container">
+	</div>
+
+                  <div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="ru-RU" />
+	
+		
+						
+		
+	
+	
+		
+								<div itemprop="articleBody">
+		<p><em><span style="font-size: 12pt;"><span style="color: #008000;"><strong>Ошибка 404 - такой страницы больше не существут, либо ее вообще никогда не было</strong></span>.</span></em></p>
+<p><strong>Возможные причины:</strong></p>
+<p>- неправильно введен адрес;</p>
+<p>- у тебя нет прав на эту страницу;</p>
+<p>- просроченная закладка/избранное;</p>
+<p>- страница была удалена администрацией;</p>
+<p>- несуществующая страница.</p>
+<p>&nbsp;</p>
+<p><strong>Воспользуйтесь поиском:</strong></p>
+<div class="search">
+<h1 class="page-title">Искать</h1>
+<form id="searchForm" action="/component/search/" method="post">
+<div class="btn-toolbar">
+<div class="btn-group pull-left"><input id="search-searchword" class="inputbox" maxlength="20" name="searchword" size="30" type="text" value="" /></div>
+<div class="btn-group pull-left"><button class="btn hasTooltip" title="Искать" onclick="this.form.submit()" name="Search"><span class="icon-search"></span></button></div>
+<input name="task" type="hidden" value="search" />
+<div class="clearfix">&nbsp;</div>
+</div>
+<div class="searchintro">&nbsp;</div>
+<fieldset class="phrases"><legend>Искать по: </legend>
+<div class="phrases-box">
+<div class="controls"><label id="searchphraseall-lbl" class="radio" for="searchphraseall"> <input id="searchphraseall" checked="checked" name="searchphrase" type="radio" value="all" />Все слова </label> <label id="searchphraseany-lbl" class="radio" for="searchphraseany"> <input id="searchphraseany" name="searchphrase" type="radio" value="any" />Любое из слов </label> <label id="searchphraseexact-lbl" class="radio" for="searchphraseexact"> <input id="searchphraseexact" name="searchphrase" type="radio" value="exact" />Точное совпадение </label></div>
+</div>
+<div class="ordering-box"><label class="ordering" for="ordering"> Порядок: </label><select id="ordering" class="inputbox" name="ordering"><option selected="selected" value="newest">Новые первыми</option><option value="oldest">Старые первыми</option><option value="popular">Популярные первыми</option><option value="alpha">По алфавиту</option><option value="category">Категория</option></select></div>
+</fieldset><fieldset class="only"><legend>Искать только в:</legend> <label class="checkbox" for="area-categories"> <input id="area-categories" name="areas[]" type="checkbox" value="categories" /> Категории </label> <label class="checkbox" for="area-contacts"> <input id="area-contacts" name="areas[]" type="checkbox" value="contacts" /> Контакты </label> <label class="checkbox" for="area-content"> <input id="area-content" name="areas[]" type="checkbox" value="content" /> Материалы </label> <label class="checkbox" for="area-newsfeeds"> <input id="area-newsfeeds" name="areas[]" type="checkbox" value="newsfeeds" /> Ленты новостей </label> <label class="checkbox" for="area-weblinks"> <input id="area-weblinks" name="areas[]" type="checkbox" value="weblinks" /> Ссылки </label> <label class="checkbox" for="area-tags"> <input id="area-tags" name="areas[]" type="checkbox" value="tags" /> Метки </label> <label class="checkbox" for="area-comments"> <input id="area-comments" name="areas[]" type="checkbox" value="comments" /> Комментарии </label> <label class="checkbox" for="area-smf2"> <input id="area-smf2" name="areas[]" type="checkbox" value="smf2" /> smf2 </label></fieldset></form></div>
+<p><strong>Или воcпользуйтесь <a href="/karta-sajta.html" target="_self">картой сайта</a></strong></p>
+<p>Если у вас возникли сложности, пожалуйста, <strong><a href="/kontakty.html" target="_self">свяжитесь с администрацией сайта</a></strong>.</p>
+<p>&nbsp;</p> 	</div>
+
+						
+							</div>
+
+<!--Поделиться -->
+<script src="https://yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-curtain data-shape="round" data-services="vkontakte,facebook,odnoklassniki,telegram,twitter,viber,whatsapp,moimir,skype,lj"></div>
+
+<!--Поделиться нов<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes_classic.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes.min.js"></script> 
+
+<div class="social-likes">
+	<div class="facebook" title="Поделиться ссылкой на Фейсбуке">Facebook</div>
+	<div class="twitter" title="Поделиться ссылкой в Твиттере">Twitter</div>
+	<div class="mailru" title="Поделиться ссылкой в Моём мире">Мой мир</div>
+	<div class="whatsapp" title="Поделиться ссылкой в WhatsApp">WhatsApp</div>
+	<div class="vkontakte" title="Поделиться ссылкой во Вконтакте">Вконтакте</div>
+	<div class="odnoklassniki" title="Поделиться ссылкой в Одноклассниках">Одноклассники</div>
+	<div class="plusone" title="Поделиться ссылкой в Гугл-плюсе">Google+</div>
+</div>Конец поделиться нов-->
+<!--<a href="https://twitter.com/share" class="twitter-share-button" data-via="Skaf26" data-lang="ru" data-size="large">Твитнуть</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'https://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8">
+</script>
+<!-- Поместите этот тег туда, где должна отображаться кнопка +1. 
+<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="button" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug,gplus,pinterest,surfingbird">
+</div>-->
+<!--Конец поделиться -->
+                 <hr />
+                   
+               </div>
+           	</div>
+            <div class="col-sm-2" id="right">
+              <div class="calendar"> 
+                 
+            </div>
+                 		<div class="moduletable vhod">
+							<h3>Вход</h3>
+						<form action="https://aary.ru/error.html" method="post" name="login" id="login-form" role="form">
+			<div class="pretext">
+			<p>Зарегистрируйся или войди под своим именем</p>
+		</div>
+		<div class="userdata">
+		<div id="form-login-username" class="form-group">
+			<div class="controls">
+									<label for="modlgn-username">Ник</label>
+					<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Ник" />
+							</div>
+		</div>
+		<div id="form-login-password" class="form-group">
+			<div class="controls">
+									<label for="modlgn-passwd">Пароль</label>
+					<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Пароль" />
+							</div>
+		</div>
+
+		
+					<div id="form-login-remember" class="checkbox">
+				<label for="modlgn-remember" class="form-label"> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes" />
+				Запомнить меня</label>
+			</div>
+		
+		<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary">Вход</button>
+			</div>
+		</div>
+
+					<ul>
+									<li>
+						<a href="/component/users/?view=reset&amp;Itemid=167">Восстановить пароль?</a>
+					</li>
+													<li>
+						<a href="/component/users/?view=remind&amp;Itemid=167">Восстановить имя пользователя?</a>
+					</li>
+				
+									<li>
+						<a href="/component/users/?view=registration&amp;Itemid=167">Зарегистрироваться</a>
+					</li>
+							</ul>
+		
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="silent" value="true" />
+		<input type="hidden" name="return" value="aHR0cHM6Ly9hYXJ5LnJ1L2Vycm9yLmh0bWw=" />
+		<input type="hidden" name="72aa606afff2aaf9018db7bc5a042a36" value="1" />	</div>
+
+			<div class="posttext">
+			<p>Для регистрации используй реальный eMail адрес</p>
+		</div>
+	</form>
+		</div>
+			<div class="moduletable module-white">
+							<h3 class="arhiv">Архив новостей</h3>
+						<div class="newscalendar" id="newscalendar127">	<table class="nc-header" cellspacing="0">
+    	<thead>
+            <tr>
+                <td width="20"><a href="javascript:void(0)" onClick="updateNewsCalendar(3,2020,127,181)" class="back-yr"></a></td>
+                <td width="20"><a href="javascript:void(0)" onClick="updateNewsCalendar(2,2021,127,181)" class="back-mth"></a></td>
+                <td style="text-align:center"><div id="monthyear_127"><span class="monthname">Март</span> <span class="yearname">2021</span></div></td>
+                <td width="20" align="right"><a href="javascript:void(0)" onClick="updateNewsCalendar(4,2021,127,181)" class="fwd-mth"></a></td>
+                <td width="20" align="right"><a href="javascript:void(0)" onClick="updateNewsCalendar(3,2022,127,181)" class="fwd-yr"></a></td>
+            </tr>
+        </thead>
+    </table>
+    <table class="nc-body" cellspacing="0">
+    	<thead>
+            <tr> 
+                <td class="dayname dayweek1" style="text-align:center">Пн</td>		
+                <td class="dayname dayweek2" style="text-align:center">Вт</td>		
+                <td class="dayname dayweek3" style="text-align:center">Ср</td>		
+                <td class="dayname dayweek4" style="text-align:center">Чт</td>		
+                <td class="dayname dayweek5" style="text-align:center">Пт</td>		
+                <td class="dayname dayweek6" style="text-align:center">Сб</td>		
+                <td class="dayname dayweek7" style="text-align:center">Вс</td>		
+            </tr>
+        </thead>
+        <tbody>
+		<tr class="week1">
+				<td><span class="nc-day weekday1 relday1 today">1</span></td>
+                    <td><span class="nc-day weekday2 relday2">2</span></td>
+                    <td><span class="nc-day weekday3 relday3">3</span></td>
+                    <td><span class="nc-day weekday4 relday4">4</span></td>
+                    <td><span class="nc-day weekday5 relday5">5</span></td>
+                    <td><span class="nc-day weekday6 relday6">6</span></td>
+                    <td><span class="nc-day weekday7 relday7">7</span></td>
+                                    </tr>
+		<tr class="week2">
+				<td><span class="nc-day weekday1 relday1">8</span></td>
+                    <td><span class="nc-day weekday2 relday2">9</span></td>
+                    <td><span class="nc-day weekday3 relday3">10</span></td>
+                    <td><span class="nc-day weekday4 relday4">11</span></td>
+                    <td><span class="nc-day weekday5 relday5">12</span></td>
+                    <td><span class="nc-day weekday6 relday6">13</span></td>
+                    <td><span class="nc-day weekday7 relday7">14</span></td>
+                                    </tr>
+		<tr class="week3">
+				<td><span class="nc-day weekday1 relday1">15</span></td>
+                    <td><span class="nc-day weekday2 relday2">16</span></td>
+                    <td><span class="nc-day weekday3 relday3">17</span></td>
+                    <td><span class="nc-day weekday4 relday4">18</span></td>
+                    <td><span class="nc-day weekday5 relday5">19</span></td>
+                    <td><span class="nc-day weekday6 relday6">20</span></td>
+                    <td><span class="nc-day weekday7 relday7">21</span></td>
+                                    </tr>
+		<tr class="week4">
+				<td><span class="nc-day weekday1 relday1">22</span></td>
+                    <td><span class="nc-day weekday2 relday2">23</span></td>
+                    <td><span class="nc-day weekday3 relday3">24</span></td>
+                    <td><span class="nc-day weekday4 relday4">25</span></td>
+                    <td><span class="nc-day weekday5 relday5">26</span></td>
+                    <td><span class="nc-day weekday6 relday6">27</span></td>
+                    <td><span class="nc-day weekday7 relday7">28</span></td>
+                                    </tr>
+		<tr class="week5">
+				<td><span class="nc-day weekday1 relday1">29</span></td>
+                    <td><span class="nc-day weekday2 relday2">30</span></td>
+                    <td><span class="nc-day weekday3 relday3">31</span></td>
+                    <td><span class="nc-day outofmonth">1</span></td>
+                    <td><span class="nc-day outofmonth">2</span></td>
+                    <td><span class="nc-day outofmonth">3</span></td>
+                    <td><span class="nc-day outofmonth">4</span></td>
+                                    </tr>
+		            
+        </tbody>
+    </table>
+	    <div class="bgimgcall"><img src="/modules/mod_newscalendar/assets/opacity.png" /></div>
+</div>		</div>
+	
+<hr />
+            <div align="Center"><font class="menu"><strong><h3>QR-КОД сайта</h3></strong></font></div>
+        <!-- OUR QR-CODE -->
+          <div align="Center"> &nbsp; </div>
+          <div align="Center"> <a href="https://aary.ru" target="_blank"><img src="https://aary.ru/images/stories/images/qr-code-aary.ru.png" width="100" height="100" border="0" title="QR код сайта" alt="QR код сайта Русские дома"></a>
+          </div>
+         <!-- /OUR QR-CODE -->
+<hr /> 
+<div align="Center"><font class="menu"><strong><h3>Полезные ссылки:</h3></strong></font></div>
+<!-- НОД <div align="Center"><a href="https://www.rusnod.ru/"><img src="https://www.rusnod.ru/images/200288.jpg" width="150" height="228" alt="Портал Национально-Освободительного движения" /></a></div> НОД -->
+
+<!-- zakon 
+              <div align="Center">
+                <p><a href="https://национальныйзакон.рф/" target="_blank"><img src="https://aary.ru/images/stories/gey-slavyane/aary-ru-nation.gif" width="125" height="250" alt="НациональныйЗакон.рф. Подпишись по важнейшими законопроектами." /></a></p>
+              </div>-->
+<!-- zakon -->
+
+<!-- fedorov 
+<div align="Center"><p><a href="https://www.eafedorov.ru/" target="_blank"><img src="https://aary.ru/images/stories/gey-slavyane/svros.jpg" width="146" height="66" alt="Сайт депутата государственной думы РФ, действительного государственного советника РФ Федорова Е.А.." /></a></p></div> 
+<!-- fedorov-->
+
+<!-- poznavatelnoetv -->
+              <div align="Center">
+                <p><a href="https://poznavatelnoe.tv/" target="_blank"><img src="https://aary.ru/images/stories/gey-slavyane/link5.jpg" width="146" height="66" alt="Образовательное интернет-телевидение Poznavatelnoe.TV" /></a></p>
+              </div>
+<!-- poznavatelnoetv -->
+  <!--/ Arhipob
+  <hr /> 
+               <div align="Center">
+                  <font class="menu"><strong><h3>Друзья:</h3></strong></font>
+              </div>  
+              <div align="Center"> 
+                <a href="https://www.apxunob-52.narod.ru/" target="_blank"><img src="https://apxunob-52.narod.ru/knopka.jpg" width="136" height="46" border="0" alt="Архипов. Секреты, парадоксы"></a>
+              </div>
+			  Arhipob-->
+ <!--/ SiteLapuschka 
+              <div align="Center">
+                <p><A HREF="https://www.samtel.ru/~lapushka/" target="_blank"><IMG SRC="https://www.samtel.ru/~lapushka/lapushka139x50.gif" 
+border="0" width="139" height="50" ALT="Питомник чау-чау Лапушка-от-Ольги. Собаки питомника, щенки на продажу, фотоальбомы, 
+родословные, чау-обои. г.Самара"></A></p>
+              </div>SiteLapuschka -->
+<hr />
+              <div align="Center">
+                <font class="menu"><strong><h3>Владельцам сайтов</h3></strong></font>
+              </div>
+<hr />        
+<!-- partner -->
+<div style="margin: 15px 0px 10px 10px;">
+<p>Недорогой хостинг от SpaceWeb. Мой сайт на нем работает с 2012 года без нареканий. При подключении повайдер дарит SSL-сертификат. При регистрации укажите этот промокод: eripevki</p><br>
+ <a href="https://sweb.ru" target="_blank" onclick="popupWin = window.open(this.href, 'code', 'location=0,resizable=yes,width=400,height=300,'); popupWin.focus(); return false;"><p>Ознакомиться с условиями хостинга &raquo;</p></a>
+</div>
+<center>
+<a href="https://sweb.ru" target="_blank" onclick="popupWin = window.open(this.href, 'code', 'location=0,resizable=yes,width=640,height=480,'); popupWin.focus(); return false;"><img src="/images/aary-ru-spaceweb.png" width="190" height="35" title="Хостинг SpaceWeb" alt="хостинг SpaceWeb" border="0">
+  </a>
+</center>
+<!--/partner -->
+
+<hr />
+<!-- OUR BUTTON -->
+<div style="margin: 15px 0px 10px 10px;">
+<p>Вы можете установить нашу кнопку.</p><br>
+ <a href="/code.html" target="_blank" onclick="popupWin = window.open(this.href, 'code', 'location=0,resizable=yes,width=400,height=300,'); popupWin.focus(); return false;"><p>Получить код &raquo;</p></a>
+</div>
+<center>
+<a href="/code.html" target="_blank" onclick="popupWin = window.open(this.href, 'code', 'location=0,resizable=yes,width=640,height=480,'); popupWin.focus(); return false;"><img src="/images/vashdomsmall.png" width="135" height="51" title="Русские дома" alt="Дома, компьютеры, советы, смысл жизни" border="0">
+  </a>
+</center>
+<!--/OUR BUTTON -->
+<hr />
+    <div align="center">
+      <img src="/images/pastarchives.png" width="128" height="96" alt="Нашли ошибки? Выделите текст и нажмите Ctrl + Enter" />
+         <div id="error" align="center">
+          <p>Нашли ошибки? Выделите текст и нажмите Ctrl + Enter"</p>
+         </div>
+    </div> 
+<hr />
+   <div align="center">
+      <a href="https://2ip.ru/" target="_blank" title="Узнай свой IP адрес"><img src="https://2ip.ru/sbar/2ip3.gif" alt="Узнай свой IP адрес"/></a>
+            </div>
+            <hr />
+            <!--/Калькулятор веса металлопроката  
+    <div name="metal-calculator-widget" data-compactwidget data-siteid="AJTYZ33PA4D7A7QA63AR"></div> 
+<script>(function(d, s, id) { 
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//metal-calculator.ru/assets/widget.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "metal-calculator-widget-script"));</script>-->
+</div>
+            </div>
+        <div class="row" id="bottom">
+	        <div id="linebottom">
+            </div>
+       		<div class="col-sm-2">
+            			<div class="moduletable">
+							<h3>На сайте</h3>
+						
+			<p>Сейчас один гость и один зарегистрированный пользователь на сайте</p>
+
+		<ul class="whosonline">
+			<li>
+			skafary		</li>
+		</ul>
+		</div>
+			<div class="moduletable">
+							<h3>На форуме</h3>
+						<div>
+<h4></h4>Сейчас&nbsp;2 гостей&nbsp;и&nbsp;0 пользователей&nbsp;онлайн<br /><ul></ul></div>		</div>
+	
+            </div>
+       		<div class="col-sm-8">
+            			<div class="moduletable">
+							<h3>Новые пользователи</h3>
+							<ul class="latestusers mod-list" >
+			<li>
+			Андрей		</li>
+			<li>
+			Syme		</li>
+			<li>
+			ShamanSamara		</li>
+			<li>
+			ycisevac		</li>
+			<li>
+			David		</li>
+		</ul>
+		</div>
+	              
+            </div>
+       		<div class="col-sm-2">
+            			<div class="moduletable">
+						<dl class="stats-module">
+	<dt>Посетители</dt>
+	<dd>311</dd>
+	<dt>Материалы</dt>
+	<dd>184</dd>
+	<dt>Количество просмотров материалов</dt>
+	<dd>1248063</dd>
+</dl>
+		</div>
+	
+            </div>
+        </div>
+    </div>
+       <div class="container-fluid" id="footer">
+             <div class="row" > 
+               		<div class=".hidden-xs col-sm-3"> 
+ <!--Счетчики-->            
+         <table border="0"><tr><td><!-- begin of Top100 code -->
+
+<script async id="top100Counter" type="text/javascript" src="https://counter.rambler.ru/top100.jcn?2675021"></script>
+<noscript>
+<a href="https://top100.rambler.ru/navi/2675021/">
+<img src="https://counter.rambler.ru/top100.cnt?2675021" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code --> <br />
+  <td><!--Openstat-->
+<span id="openstat2243675"></span>
+<script async type="text/javascript">
+var openstat = { counter: 2243675, image: 5081, color: "ff9822", next: openstat };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script>
+<!--/Openstat--></tr>
+
+<tr><td><!-- HotLog -->
+ <script async type="text/javascript" language="javascript">
+ hotlog_js="1.0"; hotlog_r=""+Math.random()+"&amp;s=2219217&amp;im=310&amp;r="+
+ escape(document.referrer)+"&amp;pg="+escape(window.location.href);
+ </script>
+ <script async type="text/javascript" language="javascript1.1">
+ hotlog_js="1.1"; hotlog_r+="&amp;j="+(navigator.javaEnabled()?"Y":"N");
+ </script>
+ <script async type="text/javascript" language="javascript1.2">
+ hotlog_js="1.2"; hotlog_r+="&amp;wh="+screen.width+"x"+screen.height+"&amp;px="+
+ (((navigator.appName.substring(0,3)=="Mic"))?screen.colorDepth:screen.pixelDepth);
+ </script>
+ <script async type="text/javascript" language="javascript1.3">
+ hotlog_js="1.3";
+ </script>
+ <script async type="text/javascript" language="javascript">
+ hotlog_r+="&amp;js="+hotlog_js;
+ document.write('<a href="https://click.hotlog.ru/?2219217" target="_blank"><img '+
+ 'src="https://hit40.hotlog.ru/cgi-bin/hotlog/count?'+
+ hotlog_r+'" border="0" width="88" height="31" alt="HotLog"><\/a>');
+ </script>
+ <noscript>
+ <a href="https://click.hotlog.ru/?2219217" target="_blank"><img
+ src="https://hit40.hotlog.ru/cgi-bin/hotlog/count?s=2219217&amp;im=310" border="0"
+ width="88" height="31" alt="HotLog"></a>
+ </noscript>
+ <!-- /HotLog --><br />
+<td>
+<!-- Rating Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=2265517">
+<img src="https://top-fwz1.mail.ru/counter?id=2265517;t=479;l=1" style="border:0;" height="31" width="88" alt="Top.Mail.Ru" /></a>
+<!-- //Rating Mail.ru logo -->
+<br /></tr>
+
+<tr>
+<td>
+<!--LiveInternet counter--><script async type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t21.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+<td>
+<!-- webmoney attestation label#46981281-BB22-47A2-A8DD-FAA84A55B733 begin -->
+ <a href="https://passport.webmoney.ru/asp/certview.asp?wmid=904942865509" target="_blank">
+<img src="https://passport.webmoney.ru/images/atstimg/attestated4.gif" border="0">
+</a> 
+<!-- webmoney attestation label#46981281-BB22-47A2-A8DD-FAA84A55B733 end --><br />
+
+
+
+</td></tr></table>					
+                    		</div>
+					<div class="col-sm-9 col-xs-12">
+					 <ul class="nav menu nav-pills">
+<li class="item-152"><a href="/doma.html" ><span>Дома</span></a></li><li class="item-153"><a href="/kompy-top.html" ><span>Компьютеры</span></a></li><li class="item-154"><a href="/forum" ><span>Форум</span></a></li><li class="item-155"><a href="/sovety.html" ><span>Советы</span></a></li><li class="item-169"><a href="/poleznye-ssylki.html" ><span>Полезные ссылки</span></a></li><li class="item-156"><a href="/kontakty.html" ><span>Контакты</span></a></li><li class="item-157"><a href="https://aary.ru/karta-sajta.html" ><span>Карта сайта</span></a></li></ul>
+   
+					</div>
+             </div>
+        </div>
+                     <div class="footer1">&#169; 2026 Русские дома. Все права защищены.</div>
+<div class="footer2"></div>
+ 
+  </body>
+</html>

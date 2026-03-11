@@ -1,0 +1,357 @@
+<html>
+<head>
+
+<title>Объявления (добавить объявление , дать объявление , разместить обьявление , бесплатные объявления , часные, частные, объявления о работе , объявления о знакомствах , электронная доска бесплатных объявлений )</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="title" content="Доска бесплатных объявлений. Добавить объявление. Поиск объявлений.">
+<meta name="keywords" content="объявления,,доска объявлений,бесплатная доска,частные объявления,обьявления,все объявления,бесплатно,разместить объявление,подать объявление,добавить,поиск,">
+<meta name="description" content="Бесплатная доска объявлений с подробным рубрикатором, поиском с учетом города, даты размещения, рубрики, популярности объявления.">
+<meta name="Author" content="Roman Pisanenko">
+<meta name="copyright" content="Copyright (C) 2007-2026 Software and design by Raman">
+<meta name="Content-Language" content="russian">
+<link href="/css/board.css" rel="stylesheet" type="text/css">
+<meta name="google-site-verification" content="4EedWqQZjmO0w8qwtXhVcUyNRv9NO46xH70u-si6A_U" />
+<meta name="google-site-verification" content="wCkzb6imSCEnftMBnOchmK5N1w623av1qzijtIig6D0" />
+<meta name='yandex-verification' content='620e73e57a1761e3' />
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+</head>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<!-- Yandex.RTB R-A-1446715-2 -->
+<script>window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-1446715-2",
+		"type": "fullscreen",
+		"platform": "touch"
+	})
+})
+</script>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="8"  align=center>
+  <tr>
+    <td width="100%" valign=top>
+
+<noindex>
+
+<p align=center>
+
+<!-- Yandex.RTB R-A-1446715-1 -->
+<div id="yandex_rtb_R-A-1446715-1"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1446715-1',
+    blockId: 'R-A-1446715-1'
+  })
+})</script>
+
+</p>
+
+</noindex>
+
+
+<main>
+
+<script src=”/js/myhidebegin.js”></script>
+
+<br><br><aside></aside><br><br>
+<script src=”/js/myhideend.js”></script>
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+<tr><td valign=bottom><b>Какие объявления найти?</td>
+<td align=right nowrap><b>Всего бесплатных объявлений</b>  - 40660, новых - <font color=green></font></td></tr>
+<tr><td valign=bottom class=c2>&nbsp;</td><td align=right><a href="/searchext/"><b>Расширенный поиск объявлений</b></a></tr></tr>
+<tr><td colspan=2 valign=bottom>
+<table width=100% border=0 cellspacing=0 cellpadding=2>
+<form action="/search/" method=post>
+<input type=hidden name=startuser value=1>
+<input type=hidden name=ft value=>
+<tr><td width=100%><input name=pattern type=text style="width:100%"></td>
+<td><input type=submit value="найти &#187" style="cursor:hand;"></td></tr>
+</form></table>
+</td></tr><tr><td colspan=2>&nbsp;</td></tr>
+</table><table width=100% border=0 cellpadding=0 cellspacing=0>
+<tr>
+<td><img src="/img/sp.gif" width=50% height=1></td>
+<td><img src="/img/sp.gif" width=40 height=1></td>
+<td><img src="/img/sp.gif" width=50% height=1></td></tr><tr><td><a class=m3 href="/?action=select&p=2" title="Авто, мото, вело"><b><u>Авто</u>, <u>мото</u>, <u>вело</u></b></a>&nbsp;[1606]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=104" title="Оборудование, материалы"><b><u>Оборудование</u>, <u>материалы</u></b></a>&nbsp;[1982]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=303">Автозвук</a>&nbsp;[0], <a href="/?action=select&p=188">Автосигнализация</a>&nbsp;[0], <a href="/?action=select&p=252">Велотехника</a>&nbsp;[0], <a href="/?action=select&p=22">Гаражи</a>&nbsp;[31], <a href="/?action=select&p=21">Грузоперевозки</a>&nbsp;[201], <a href="/?action=select&p=23">Запчасти</a>&nbsp;[429], <a href="/?action=select&p=19">Куплю</a>&nbsp;[104], <a href="/?action=select&p=20">Меняю</a>&nbsp;[36], <a href="/?action=select&p=249">Мототехника</a>&nbsp;[0], <a href="/?action=select&p=18">Продаю</a>&nbsp;[984], <a href="/?action=select&p=251">Ремонт</a>&nbsp;[0], <a href="/?action=select&p=253">Спецтехника</a>&nbsp;[0], <a href="/?action=select&p=255">Транспорт</a>&nbsp;[0], <a href="/?action=select&p=189">Тюнинг</a>&nbsp;[3], <a href="/?action=select&p=17">Услуги</a>&nbsp;[288]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=108">Аренда</a>&nbsp;[18], <a href="/?action=select&p=125">Бартер</a>&nbsp;[14], <a href="/?action=select&p=179">Инструмент</a>&nbsp;[0], <a href="/?action=select&p=107">Куплю</a>&nbsp;[174], <a href="/?action=select&p=110">Меняю</a>&nbsp;[10], <a href="/?action=select&p=106">Продаю</a>&nbsp;[1558], <a href="/?action=select&p=119">Ремонт/Сервис</a>&nbsp;[130], <a href="/?action=select&p=178">Станки</a>&nbsp;[4], <a href="/?action=select&p=123">Сырье</a>&nbsp;[214], <a href="/?action=select&p=250">Техника</a>&nbsp;[0], <a href="/?action=select&p=105">Услуги</a>&nbsp;[135]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=15" title="Бизнес, финансы"><b><u>Бизнес</u>, <u>финансы</u></b></a>&nbsp;[769]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=14" title="Обучение, образование"><b><u>Обучение</u>, <u>образование</u></b></a>&nbsp;[565]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=247">Аудит</a>&nbsp;[0], <a href="/?action=select&p=248">Банки</a>&nbsp;[0], <a href="/?action=select&p=126">Бухгалтерия</a>&nbsp;[25], <a href="/?action=select&p=261">Визы</a>&nbsp;[0], <a href="/?action=select&p=262">Иммиграция</a>&nbsp;[0], <a href="/?action=select&p=24">Инвестиции</a>&nbsp;[151], <a href="/?action=select&p=275">Клининг, уборка</a>&nbsp;[0], <a href="/?action=select&p=245">Консалтинг</a>&nbsp;[0], <a href="/?action=select&p=211">Кредиты</a>&nbsp;[0], <a href="/?action=select&p=112">Куплю</a>&nbsp;[22], <a href="/?action=select&p=254">Лизинг</a>&nbsp;[0], <a href="/?action=select&p=246">Маркетинг</a>&nbsp;[0], <a href="/?action=select&p=149">Переводы</a>&nbsp;[9], <a href="/?action=select&p=298">Печати, штампы</a>&nbsp;[0], <a href="/?action=select&p=25">Поиск инвестора</a>&nbsp;[112], <a href="/?action=select&p=111">Продаю</a>&nbsp;[189], <a href="/?action=select&p=271">Прописка</a>&nbsp;[0], <a href="/?action=select&p=260">Ритуальные</a>&nbsp;[0], <a href="/?action=select&p=304">Сертификация</a>&nbsp;[0], <a href="/?action=select&p=212">Страхование</a>&nbsp;[0], <a href="/?action=select&p=263">Таможня</a>&nbsp;[0], <a href="/?action=select&p=26">Услуги</a>&nbsp;[380], <a href="/?action=select&p=160">Ценные бумаги</a>&nbsp;[0], <a href="/?action=select&p=116">Юриспруденция</a>&nbsp;[106]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=204">Детсад</a>&nbsp;[2], <a href="/?action=select&p=202">Дипломные</a>&nbsp;[0], <a href="/?action=select&p=205">Колледж</a>&nbsp;[0], <a href="/?action=select&p=58">Куплю</a>&nbsp;[8], <a href="/?action=select&p=203">Курсовые</a>&nbsp;[2], <a href="/?action=select&p=60">Курсы</a>&nbsp;[123], <a href="/?action=select&p=206">Лицей</a>&nbsp;[0], <a href="/?action=select&p=109">Образование</a>&nbsp;[177], <a href="/?action=select&p=57">Продаю</a>&nbsp;[79], <a href="/?action=select&p=59">Репетиторство</a>&nbsp;[214], <a href="/?action=select&p=56">Услуги</a>&nbsp;[264], <a href="/?action=select&p=201">Учеба за рубежом</a>&nbsp;[0]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=3" title="Бытовая техника, оборудование"><b><u>Бытовая</u> <u>техника</u> <u>и</u> <u>оборудование</u></b></a>&nbsp;[439]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=180" title="Охрана, безопасность"><b><u>Охрана</u>, <u>безопасность</u></b></a>&nbsp;[5]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=117">Аренда</a>&nbsp;[8], <a href="/?action=select&p=132">Аудио</a>&nbsp;[12], <a href="/?action=select&p=133">Видео</a>&nbsp;[14], <a href="/?action=select&p=214">Климат</a>&nbsp;[0], <a href="/?action=select&p=29">Куплю</a>&nbsp;[16], <a href="/?action=select&p=210">Кухня</a>&nbsp;[0], <a href="/?action=select&p=30">Меняю</a>&nbsp;[3], <a href="/?action=select&p=28">Продаю</a>&nbsp;[335], <a href="/?action=select&p=215">Стирка</a>&nbsp;[0], <a href="/?action=select&p=244">Уборка</a>&nbsp;[0], <a href="/?action=select&p=27">Услуги</a>&nbsp;[63], <a href="/?action=select&p=152">Фото</a>&nbsp;[16], <a href="/?action=select&p=243">Шитье</a>&nbsp;[0]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=224">Видеонаблюдение</a>&nbsp;[0], <a href="/?action=select&p=193">Детективы</a>&nbsp;[1], <a href="/?action=select&p=183">Куплю</a>&nbsp;[0], <a href="/?action=select&p=190">Металлодетекторы</a>&nbsp;[0], <a href="/?action=select&p=191">Оружие</a>&nbsp;[1], <a href="/?action=select&p=182">Продаю</a>&nbsp;[0], <a href="/?action=select&p=194">Сейфы</a>&nbsp;[1], <a href="/?action=select&p=195">Сигнализация</a>&nbsp;[2], <a href="/?action=select&p=192">Телохранители</a>&nbsp;[0], <a href="/?action=select&p=181">Услуги</a>&nbsp;[3]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=8" title="Животные, растения"><b><u>Животные</u>, <u>растения</u></b></a>&nbsp;[740]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=13" title="Предметы быта"><b><u>Предметы</u> <u>быта</u></b></a>&nbsp;[434]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=213">Аквариум</a>&nbsp;[0], <a href="/?action=select&p=35">Брачные</a>&nbsp;[39], <a href="/?action=select&p=120">Корма/Аксессуары</a>&nbsp;[23], <a href="/?action=select&p=147">Кошки</a>&nbsp;[76], <a href="/?action=select&p=289">Кролики</a>&nbsp;[0], <a href="/?action=select&p=34">Куплю</a>&nbsp;[34], <a href="/?action=select&p=36">Меняю</a>&nbsp;[1], <a href="/?action=select&p=37">Отдам</a>&nbsp;[64], <a href="/?action=select&p=38">Приму в дар</a>&nbsp;[18], <a href="/?action=select&p=33">Продаю</a>&nbsp;[458], <a href="/?action=select&p=32">Пропажа/Находка</a>&nbsp;[27], <a href="/?action=select&p=242">Птицы</a>&nbsp;[0], <a href="/?action=select&p=148">Растения</a>&nbsp;[8], <a href="/?action=select&p=146">Собаки</a>&nbsp;[144], <a href="/?action=select&p=31">Услуги</a>&nbsp;[75]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=284">Бельё</a>&nbsp;[0], <a href="/?action=select&p=164">Бытовая химия</a>&nbsp;[0], <a href="/?action=select&p=273">Дезинсекция</a>&nbsp;[0], <a href="/?action=select&p=162">Детские товары</a>&nbsp;[2], <a href="/?action=select&p=301">Игрушки</a>&nbsp;[0], <a href="/?action=select&p=63">Куплю</a>&nbsp;[7], <a href="/?action=select&p=64">Меняю</a>&nbsp;[2], <a href="/?action=select&p=159">Обувь</a>&nbsp;[5], <a href="/?action=select&p=134">Одежда</a>&nbsp;[77], <a href="/?action=select&p=163">Посуда</a>&nbsp;[0], <a href="/?action=select&p=62">Продаю</a>&nbsp;[293], <a href="/?action=select&p=61">Услуги</a>&nbsp;[76], <a href="/?action=select&p=285">Химчистка</a>&nbsp;[0], <a href="/?action=select&p=165">Хозяйственные товары</a>&nbsp;[0], <a href="/?action=select&p=283">Часы</a>&nbsp;[0], <a href="/?action=select&p=295">Ювелирные изделия</a>&nbsp;[0]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=93" title="Интернет, услуги связи"><b><u>Интернет</u>, <u>услуги</u> <u>связи</u></b></a>&nbsp;[380]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=10" title="Продовольствие"><b><u>Продовольствие</u></b></a>&nbsp;[368]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=118">E-коммерция</a>&nbsp;[91], <a href="/?action=select&p=290">SEO</a>&nbsp;[0], <a href="/?action=select&p=223">Веб-дизайн</a>&nbsp;[0], <a href="/?action=select&p=96">Куплю</a>&nbsp;[1], <a href="/?action=select&p=97">Меняю</a>&nbsp;[2], <a href="/?action=select&p=95">Продаю</a>&nbsp;[91], <a href="/?action=select&p=291">Продвижение, раскрутка</a>&nbsp;[0], <a href="/?action=select&p=98">Реклама</a>&nbsp;[64], <a href="/?action=select&p=173">Сетевой маркетинг</a>&nbsp;[5], <a href="/?action=select&p=94">Услуги</a>&nbsp;[181], <a href="/?action=select&p=151">Хостинг</a>&nbsp;[8]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=124">Бартер</a>&nbsp;[5], <a href="/?action=select&p=236">Крупы</a>&nbsp;[0], <a href="/?action=select&p=67">Куплю</a>&nbsp;[23], <a href="/?action=select&p=68">Меняю</a>&nbsp;[4], <a href="/?action=select&p=278">Мёд</a>&nbsp;[0], <a href="/?action=select&p=135">Мясо</a>&nbsp;[13], <a href="/?action=select&p=155">Овощи</a>&nbsp;[4], <a href="/?action=select&p=66">Продаю</a>&nbsp;[255], <a href="/?action=select&p=137">Птица</a>&nbsp;[1], <a href="/?action=select&p=136">Рыба</a>&nbsp;[22], <a href="/?action=select&p=69">Тара/Упаковка</a>&nbsp;[68], <a href="/?action=select&p=293">Торты</a>&nbsp;[0], <a href="/?action=select&p=65">Услуги</a>&nbsp;[26], <a href="/?action=select&p=292">Фрукты</a>&nbsp;[0], <a href="/?action=select&p=216">Хлеб</a>&nbsp;[0], <a href="/?action=select&p=300">Чай</a>&nbsp;[0]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=11" title="Искусство, коллекционирование"><b><u>Искусство</u>, <u>коллекционирование</u></b></a>&nbsp;[220]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=16" title="Реклама, полиграфия"><b><u>Реклама</u>, <u>полиграфия</u></b></a>&nbsp;[267]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=282">CD/DVD/Blu-ray</a>&nbsp;[0], <a href="/?action=select&p=175">Живопись</a>&nbsp;[0], <a href="/?action=select&p=139">Кино/Видео</a>&nbsp;[13], <a href="/?action=select&p=41">Куплю</a>&nbsp;[17], <a href="/?action=select&p=218">Марки</a>&nbsp;[0], <a href="/?action=select&p=42">Меняю</a>&nbsp;[7], <a href="/?action=select&p=217">Монеты</a>&nbsp;[0], <a href="/?action=select&p=140">Музыка</a>&nbsp;[32], <a href="/?action=select&p=40">Продаю</a>&nbsp;[126], <a href="/?action=select&p=174">Украшения</a>&nbsp;[0], <a href="/?action=select&p=39">Услуги</a>&nbsp;[52], <a href="/?action=select&p=281">Фотография</a>&nbsp;[0]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=294">Визитки</a>&nbsp;[0], <a href="/?action=select&p=169">Газеты</a>&nbsp;[0], <a href="/?action=select&p=168">Журналы</a>&nbsp;[0], <a href="/?action=select&p=138">Книги</a>&nbsp;[6], <a href="/?action=select&p=72">Куплю</a>&nbsp;[4], <a href="/?action=select&p=115">Меняю</a>&nbsp;[3], <a href="/?action=select&p=71">Продаю</a>&nbsp;[85], <a href="/?action=select&p=241">Радио</a>&nbsp;[0], <a href="/?action=select&p=154">Реклама</a>&nbsp;[11], <a href="/?action=select&p=167">Сувениры</a>&nbsp;[0], <a href="/?action=select&p=70">Услуги</a>&nbsp;[197]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=5" title="Компьютеры, оргтехника"><b><u>Компьютеры</u>, <u>оргтехника</u></b></a>&nbsp;[564]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=6" title="Рынок труда, заработок"><b><u>Рынок</u> <u>труда</u>, <u>заработок</u></b></a>&nbsp;[611]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=142">Комплектующие</a>&nbsp;[39], <a href="/?action=select&p=269">Компьютер</a>&nbsp;[0], <a href="/?action=select&p=45">Куплю</a>&nbsp;[26], <a href="/?action=select&p=46">Меняю</a>&nbsp;[7], <a href="/?action=select&p=270">Ноутбук</a>&nbsp;[0], <a href="/?action=select&p=228">Оргтехника</a>&nbsp;[0], <a href="/?action=select&p=128">Периферия</a>&nbsp;[20], <a href="/?action=select&p=286">Планшеты</a>&nbsp;[0], <a href="/?action=select&p=44">Продаю</a>&nbsp;[366], <a href="/?action=select&p=141">Расходники</a>&nbsp;[19], <a href="/?action=select&p=129">Софт</a>&nbsp;[37], <a href="/?action=select&p=43">Услуги</a>&nbsp;[153]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=209">Вакансии</a>&nbsp;[0], <a href="/?action=select&p=74">Ищу работу</a>&nbsp;[151], <a href="/?action=select&p=121">Няни/Гувернантки</a>&nbsp;[19], <a href="/?action=select&p=237">Обучение</a>&nbsp;[0], <a href="/?action=select&p=238">Работа на дому</a>&nbsp;[0], <a href="/?action=select&p=73">Требуется специалист</a>&nbsp;[360], <a href="/?action=select&p=75">Услуги</a>&nbsp;[159]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=99" title="Мебель, предметы интерьера"><b><u>Мебель</u>, <u>предметы</u> <u>интерьера</u></b></a>&nbsp;[378]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=4" title="Средства связи"><b><u>Средства</u> <u>связи</u></b></a>&nbsp;[288]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=166">Антиквариат</a>&nbsp;[0], <a href="/?action=select&p=171">Картины</a>&nbsp;[0], <a href="/?action=select&p=235">Ковры</a>&nbsp;[0], <a href="/?action=select&p=102">Куплю</a>&nbsp;[10], <a href="/?action=select&p=144">Мебель</a>&nbsp;[27], <a href="/?action=select&p=103">Меняю</a>&nbsp;[2], <a href="/?action=select&p=101">Продаю</a>&nbsp;[285], <a href="/?action=select&p=239">Светильники</a>&nbsp;[0], <a href="/?action=select&p=172">Скульптуры</a>&nbsp;[0], <a href="/?action=select&p=100">Услуги</a>&nbsp;[108], <a href="/?action=select&p=240">Фен-шуй</a>&nbsp;[0]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=143">Аксессуары</a>&nbsp;[12], <a href="/?action=select&p=78">Куплю</a>&nbsp;[16], <a href="/?action=select&p=79">Меняю</a>&nbsp;[2], <a href="/?action=select&p=227">Пейджеры</a>&nbsp;[0], <a href="/?action=select&p=77">Продаю</a>&nbsp;[184], <a href="/?action=select&p=225">Рации</a>&nbsp;[0], <a href="/?action=select&p=288">Смартфоны</a>&nbsp;[0], <a href="/?action=select&p=127">Сотовые телефоны</a>&nbsp;[77], <a href="/?action=select&p=226">Телефоны</a>&nbsp;[0], <a href="/?action=select&p=76">Услуги</a>&nbsp;[51]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=12" title="Медицина, косметология"><b><u>Медицина</u>, <u>косметология</u></b></a>&nbsp;[486]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=9" title="Строительство, ремонт"><b><u>Строительство</u>, <u>ремонт</u></b></a>&nbsp;[1339]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=257">Астрология</a>&nbsp;[0], <a href="/?action=select&p=230">Здоровье</a>&nbsp;[0], <a href="/?action=select&p=170">Клиники</a>&nbsp;[6], <a href="/?action=select&p=256">Косметология</a>&nbsp;[0], <a href="/?action=select&p=49">Куплю</a>&nbsp;[4], <a href="/?action=select&p=153">Медикаменты</a>&nbsp;[10], <a href="/?action=select&p=299">Медодежда</a>&nbsp;[0], <a href="/?action=select&p=272">Нетрадиционная</a>&nbsp;[0], <a href="/?action=select&p=161">Оборудование</a>&nbsp;[2], <a href="/?action=select&p=131">Парфюмерия</a>&nbsp;[31], <a href="/?action=select&p=297">Пластическая хирургия</a>&nbsp;[0], <a href="/?action=select&p=48">Продаю</a>&nbsp;[269], <a href="/?action=select&p=296">Татуировки</a>&nbsp;[0], <a href="/?action=select&p=47">Услуги</a>&nbsp;[240]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=276">Двери</a>&nbsp;[0], <a href="/?action=select&p=156">Инструменты</a>&nbsp;[12], <a href="/?action=select&p=82">Куплю</a>&nbsp;[41], <a href="/?action=select&p=287">Лестницы</a>&nbsp;[0], <a href="/?action=select&p=177">Материалы</a>&nbsp;[7], <a href="/?action=select&p=83">Меняю</a>&nbsp;[5], <a href="/?action=select&p=229">Оборудование</a>&nbsp;[0], <a href="/?action=select&p=277">Окна</a>&nbsp;[0], <a href="/?action=select&p=81">Продаю</a>&nbsp;[755], <a href="/?action=select&p=130">Ремонт</a>&nbsp;[138], <a href="/?action=select&p=259">Сантехника</a>&nbsp;[0], <a href="/?action=select&p=80">Услуги</a>&nbsp;[581]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=1" title="Недвижимость"><b><u>Недвижимость</u></b></a>&nbsp;[1296]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=7" title="Туризм, спорт, отдых"><b><u>Туризм</u>, <u>спорт</u>, <u>отдых</u></b></a>&nbsp;[512]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=157">Аренда</a>&nbsp;[33], <a href="/?action=select&p=145">Гаражи</a>&nbsp;[12], <a href="/?action=select&p=267">Дача</a>&nbsp;[0], <a href="/?action=select&p=266">Дом</a>&nbsp;[0], <a href="/?action=select&p=219">Ипотека</a>&nbsp;[0], <a href="/?action=select&p=265">Квартира</a>&nbsp;[0], <a href="/?action=select&p=268">Коммерческая</a>&nbsp;[0], <a href="/?action=select&p=264">Комната</a>&nbsp;[0], <a href="/?action=select&p=280">Коттедж</a>&nbsp;[0], <a href="/?action=select&p=52">Куплю</a>&nbsp;[62], <a href="/?action=select&p=53">Меняю</a>&nbsp;[41], <a href="/?action=select&p=51">Продаю</a>&nbsp;[817], <a href="/?action=select&p=54">Сдаю</a>&nbsp;[239], <a href="/?action=select&p=279">Склад</a>&nbsp;[0], <a href="/?action=select&p=55">Сниму</a>&nbsp;[109], <a href="/?action=select&p=234">Страхование</a>&nbsp;[0], <a href="/?action=select&p=50">Услуги</a>&nbsp;[170]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=158">Инвентарь</a>&nbsp;[4], <a href="/?action=select&p=86">Куплю</a>&nbsp;[14], <a href="/?action=select&p=87">Меняю</a>&nbsp;[3], <a href="/?action=select&p=176">Одежда</a>&nbsp;[1], <a href="/?action=select&p=258">Праздники</a>&nbsp;[0], <a href="/?action=select&p=85">Продаю</a>&nbsp;[183], <a href="/?action=select&p=207">Путешествия</a>&nbsp;[5], <a href="/?action=select&p=113">Сдаю</a>&nbsp;[76], <a href="/?action=select&p=114">Сниму</a>&nbsp;[4], <a href="/?action=select&p=302">Спортивное питание</a>&nbsp;[0], <a href="/?action=select&p=274">Танцы</a>&nbsp;[0], <a href="/?action=select&p=208">Туризм</a>&nbsp;[3], <a href="/?action=select&p=84">Услуги</a>&nbsp;[298]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td><a class=m3 href="/?action=select&p=184" title="Нефть, газ, уголь"><b><u>Нефть</u>, <u>газ</u>, <u>уголь</u></b></a>&nbsp;[1]</td><td>&nbsp;</td><td><a class=m3 href="/?action=select&p=88" title="Разное"><b><u>Разное</u></b></a>&nbsp;[738]</td></tr>
+<tr><td valign=top><a href="/?action=select&p=200">Бензин</a>&nbsp;[0], <a href="/?action=select&p=197">Газ</a>&nbsp;[0], <a href="/?action=select&p=231">Дрова</a>&nbsp;[0], <a href="/?action=select&p=187">Куплю</a>&nbsp;[1], <a href="/?action=select&p=198">Нефтепродукты</a>&nbsp;[0], <a href="/?action=select&p=196">Нефть</a>&nbsp;[0], <a href="/?action=select&p=222">Оборудование</a>&nbsp;[0], <a href="/?action=select&p=186">Продаю</a>&nbsp;[0], <a href="/?action=select&p=199">Уголь</a>&nbsp;[0], <a href="/?action=select&p=185">Услуги</a>&nbsp;[0]</td><td>&nbsp;</td><td valign=top><a href="/?action=select&p=92">Брачные</a>&nbsp;[30], <a href="/?action=select&p=90">Досуг</a>&nbsp;[176], <a href="/?action=select&p=91">Знакомства</a>&nbsp;[76], <a href="/?action=select&p=122">Интим</a>&nbsp;[88], <a href="/?action=select&p=233">Куплю</a>&nbsp;[0], <a href="/?action=select&p=221">Находка</a>&nbsp;[0], <a href="/?action=select&p=89">Обращения</a>&nbsp;[146], <a href="/?action=select&p=232">Продам</a>&nbsp;[0], <a href="/?action=select&p=220">Пропажа</a>&nbsp;[0], <a href="/?action=select&p=150">Услуги</a>&nbsp;[328]</td></tr>
+<tr><td colspan=3>&nbsp;</td></tr><tr><td colspan=3 class=c2 align=right>Доска объявлений  разработана с использованием технологий сервера<br><a href="http://www.board.kursk.ru/" target=_blank class=m4><b>Электронная служба объявлений Курска</b></a></td></tr>
+</table>
+<aside>
+<br><br><script type="text/javascript">
+<!--
+var _acic={dataProvider:15};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www2.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><br><br>
+<p>Обратите внимание на статью <a href="/LB/16.php"><strong>"Рерайтинг от курской студии веб-дизайна Raman-X-Design - переписывание текста"</strong></a> на нашем сайте. В ней вы узнаете много интересного об услугах курской студии веб-дизайна Raman-X-Design.
+
+</p>
+
+<p align="right"><a href="https://kurskdesign.ru/" target=_blank title="Создание сайта в городе Курске, Курчатове, Железногорске">Создание сайтов в Курске</a> - <a href="https://kurskdesign.ru/" target=_blank><img src="/img/kursk-design.gif" alt="Создание сайта, город Курск" title="Создание сайта, город Курск" width="121" height="24" border="0" align="absmiddle" /></a></p> 
+
+</aside>
+ 
+</main>
+
+<br><br>
+
+<p align=center>
+
+ 
+
+<noindex>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr><td align=center>
+
+
+
+</td></tr>
+</table>
+
+ </noindex>
+
+
+
+<br> <a href="/LB/">Полезные статьи</a>
+<script src=”/js/myhidebegin.js”></script>
+
+<br><br>
+ Ролик доступен <a href="https://www.lenkino.tv/" target="_blank">эротическое видео</a>! <br><br>
+<script src=”/js/myhideend.js”></script>
+
+
+</p>
+
+</td>
+
+    <td valign="top" width=160>
+
+<noindex>
+
+
+</noindex>
+
+</td>
+
+
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="129" align="center"><p><a href="/">Бесплатные объявления </a></p>
+        <h2><a href="/">Доска бесплатных объявлений   без регистрации</a></h2></p>
+          <p><a href="/tadd/">Добавить</a> | <a href="/edit/">Изменить</a> | <a href="/remove/">Удалить</a></p></td>
+        <td rowspan="3"><a href="/"><img src="/img/c1.jpg" width="272" height="515"  border=0 alt="Бесплатные объявления  - доска бесплатных объявлений  без регистрации с возможностью добавления объявления и поиска объявлений ."></a></td>
+      </tr>
+      <tr>
+        <td><a href="/"><img src="/img/c2.jpg" width="270" height="229" border=0 alt="Бесплатные объявления  - доска бесплатных объявлений  без регистрации с возможностью добавления объявления и поиска объявлений ."></a></td>
+        </tr>
+      <tr>
+        <td><a href="/">Рубрикатор доски объявлений</a><br />
+              &nbsp;&nbsp;<a href="/search/">Поиск объявлений (универсальный)</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;<a href="/searchext/">Расширенный поиск объявлений</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/regions/">Объявления в России, Украине, Беларуси</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/top50/">ТОП50 бесплатных объявлений</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/last50/">50 последних объявлений доски</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/random50/">50 случайных объявлений доски</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/partners/">Обмен ссылками, баннерами</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/help/">Советы по размещению объявлений</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/emailtoadmin/">Письмо администратору доски</a><br />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contacts/">Контактная информация</a></td>
+        </tr>
+    </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="8">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+
+      <table width="100%" border="0" cellspacing="0" cellpadding="8">
+        <tr>
+          <td align=center> 
+
+<noindex>
+
+<p align=center>
+
+
+
+
+</p>
+
+</noindex>
+
+
+
+<p><b>Реклама</b>: Задачи трудоустройства и занятости населения с успехом помогает решать сайт-агрегатор объявлений с предложениями работы Rabotka.com.ru, на котором каждый день обновляется <a href="https://rabotka.com.ru/" target="_blank" style="color:blue;"><strong>более миллиона свежих вакансий со всей России</strong></a>, СНГ, стран ЕАЭС.</p>
+<table cellspacing="0" cellpadding="0">
+<tr><td><h2>Объявления в городах России, Украины, Беларуси:</h2></td></tr>
+<tr><td><a href="/?ft=300">Абаза</a>&nbsp;[0], <a href="/?ft=8">Абакан</a>&nbsp;[13], <a href="/?ft=302">Абдулино</a>&nbsp;[0], <a href="/?ft=303">Абинск</a>&nbsp;[0], <a href="/?ft=1607">Абовян</a>&nbsp;[0], <a href="/?ft=304">Агидель</a>&nbsp;[0], <a href="/?ft=305">Агрыз</a>&nbsp;[0], <a href="/?ft=306">Адыгейск</a>&nbsp;[0], <a href="/?ft=307">Азнакаево</a>&nbsp;[0], <a href="/?ft=218">Азов</a>&nbsp;[6], <a href="/?ft=1413">Ай-Петри</a>&nbsp;[0], <a href="/?ft=309">Ак-Довурак</a>&nbsp;[0], <a href="/?ft=310">Аксай</a>&nbsp;[0], <a href="/?ft=1530">Актау</a>&nbsp;[0], <a href="/?ft=9">Актюбинск</a>&nbsp;[3], <a href="/?ft=311">Алагир</a>&nbsp;[0], <a href="/?ft=312">Алапаевск</a>&nbsp;[0], <a href="/?ft=313">Алатырь</a>&nbsp;[0], <a href="/?ft=314">Алдан</a>&nbsp;[0], <a href="/?ft=315">Алейск</a>&nbsp;[0], <a href="/?ft=316">Александров</a>&nbsp;[0], <a href="/?ft=317">Александровск</a>&nbsp;[0], <a href="/?ft=318">Александровск-Сахалинский</a>&nbsp;[0], <a href="/?ft=319">Алексеевка</a>&nbsp;[0], <a href="/?ft=320">Алексин</a>&nbsp;[0], <a href="/?ft=321">Алзамай</a>&nbsp;[0], <a href="/?ft=1531">Алма-Ата</a>&nbsp;[0], <a href="/?ft=1551">Алмалык</a>&nbsp;[0], <a href="/?ft=1414">Алушта</a>&nbsp;[0], <a href="/?ft=1415">Алчевск</a>&nbsp;[1], <a href="/?ft=322">Альметьевск</a>&nbsp;[0], <a href="/?ft=323">Амурск</a>&nbsp;[0], <a href="/?ft=324">Анадырь</a>&nbsp;[0], <a href="/?ft=10">Анапа</a>&nbsp;[22], <a href="/?ft=11">Ангарск</a>&nbsp;[14], <a href="/?ft=1552">Ангрен</a>&nbsp;[0], <a href="/?ft=1553">Андижан</a>&nbsp;[0], <a href="/?ft=327">Андреаполь</a>&nbsp;[0], <a href="/?ft=328">Анжеро-Судженск</a>&nbsp;[0], <a href="/?ft=329">Анива</a>&nbsp;[0], <a href="/?ft=265">Анталия</a>&nbsp;[0], <a href="/?ft=1416">Антрацит</a>&nbsp;[0], <a href="/?ft=1606">Апаран</a>&nbsp;[0], <a href="/?ft=330">Апатиты</a>&nbsp;[0], <a href="/?ft=331">Апрелевка</a>&nbsp;[0], <a href="/?ft=332">Апшеронск</a>&nbsp;[0], <a href="/?ft=333">Арамиль</a>&nbsp;[0], <a href="/?ft=1593">Арарат</a>&nbsp;[0], <a href="/?ft=334">Аргун</a>&nbsp;[0], <a href="/?ft=335">Ардатов</a>&nbsp;[0],  ... <a href="/regions/">другой город...</a></td></tr>
+</table>
+
+      <table width="100%" border="0" cellspacing="0" cellpadding="8">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+
+<p>
+<table width="400" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#B1B1B1">
+  <tbody>
+    <tr>
+      <td><table width="100%" border="0" cellpadding="4" cellspacing="0" bgcolor="#E9E9E9">
+        <tbody>
+          <tr>
+            <td><a href="http://employmentcenter.ru/" target="_blank"><img src="imgadv/tsentr-zanyatosti-naseleniya.gif" align=right width="141" height="36" alt="Центр занятости населения" title="Центр занятости населения" border=1 style="BORDER-COLOR: gray"/></a><span style="font-size: 11px; font-family: Arial,' sans-serif'"><strong>Официальный сайт со свежими вакансиями</strong> мультирегиональный электронный <strong><a href="http://employmentcenter.ru/" target="_blank"><strong>Центр занятости</strong></a> населения</strong> для тех, что <strong>ищет работу</strong>. Подбор кадров работодателям по базе данных резюме.</span></td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+  </tbody>
+</table>
+</p>
+
+  Copyright &copy; 2007-2026 <a href="/">Бесплатные объявления  без регистрации</a>. Версия 1.0<br>
+  <span title="0.086026098953247">Copyright</span> &copy; 2007-2026 Software and design by <a href="mailto:webmaster_raman@mail.ru" class=m4><b>Raman</b></a></B>
+
+<br>
+<br>
+
+<a href="http://mytopboard.ru/" target=_blank><img src="http://mytopboard.ru/getc/?idu=10" height=31 width=88 border=0 alt="Рейтинг досок объявлений"></a>
+
+<noindex>
+
+
+<!-- Rating Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=1336425">
+<img src="https://top-fwz1.mail.ru/counter?id=1336425;t=502;l=1" style="border:0;" height="31" width="88" alt="Top.Mail.Ru" /></a>
+<!-- //Rating Mail.ru logo -->
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+<br>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=44022649&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/44022649/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="44022649" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter44022649 = new Ya.Metrika({
+                    id:44022649,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/44022649" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1336425", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=1336425;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+
+
+</noindex>
+
+<br>
+<br>
+
+ 
+
+<noindex>
+
+<p align=center>
+
+
+</p>
+
+</noindex>
+
+ 
+
+<br>
+<br>
+
+<script src=”/js/myhidebegin.js”></script>
+
+ 
+<script src=”/js/myhideend.js”></script>
+ <a href="/articles.php">Статьи</a> 
+ </td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
+

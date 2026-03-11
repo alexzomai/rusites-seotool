@@ -1,0 +1,319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Главная страница</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+		<meta name='yandex-verification' content='4e6d2eb28e56c954' >
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link href="/tpl/itm.ru/css/style.css?546546547" rel="stylesheet" type="text/css">
+		<link href="/tpl/itm.ru/css/prettyPhoto.css" rel="stylesheet" type="text/css">
+		<script type="text/javascript" src="/tpl/itm.ru/js/jquery.js"></script>
+		<script type="text/javascript" src="/tpl/itm.ru/js/jquery.prettyPhoto.js"></script>
+		<script type="text/javascript" src="/tpl/itm.ru/js/function.js?546546547"></script>
+		<script type="text/javascript">
+			$(window).load(function(){Topmenu()});
+		</script>
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function(){
+				$("a[rel^='prettyPhoto']").prettyPhoto();
+			});
+		</script>
+	</head>
+	<body onload="MM_preloadImages('/tpl/itm.ru/img/btnm1_.gif','/tpl/itm.ru/img/btnm3_.gif','/tpl/itm.ru/img/btnm4_.gif','/tpl/itm.ru/img/btnm5_.gif')">
+		<table border="0" align="center" cellpadding="0" cellspacing="0" id="mpage">
+			<tr>
+				<td width="0" id="mpagetd">
+					<div id="top_plate">
+						<div id="logo"><a href="/"><img src="/tpl/itm.ru/img/logo.gif" alt="ИНТУРМАРКЕТ Бизнес Трэвел" width="331" height="74" border="0" ></a></div>
+						<div id="tophone" class="tophone_main"><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>Телефон:</td>
+        <td class="blue">(495)&nbsp;<strong>720-66-77</strong></td>
+      </tr>
+      <tr>
+        <td>Факс:</td>
+        <td class="blue">(495)&nbsp;<strong>780-97-14</strong></td>
+      </tr>
+    </table></div>
+						<div id="topbtns">
+						    <a href="javascript:void(0);" id="b-call" rel="w-call"><img src="/tpl/itm.ru/img/b-call.gif" width="74" height="33" alt="Заказ звонка"></a>
+						    <a href="javascript:void(0);" id="b-tour" rel="w-tour"><img src="/tpl/itm.ru/img/b-tour.gif" width="76" height="33" alt="Заказа туров"></a>
+						    <a href="http://lk.intourmarket.ru/" id="b-cab"><img src="/tpl/itm.ru/img/b-cab.gif" width="79" height="33" alt="Личный кабинет"></a>
+						</div>
+						<div id="topicons"><img src="/tpl/itm.ru/img/topico.gif" width="109" height="23" border="0" usemap="#topico" >
+    <map name="topico" id="topico">
+      <area shape="rect" coords="0,0,35,23" href="/" alt="На главную" title="На главную" >
+      <area shape="rect" coords="35,0,75,23" href="/karta-sayta" alt="Карта сайта" title="Карта сайта" >
+      <area shape="rect" coords="76,0,110,23" href="mailto:infoadmin@intourmarket.ru; itm@intourmarket.ru" alt="Написать письмо" title="Написать письмо" >
+    </map></div>
+					</div>
+					<div id="main_plate">
+						<div id="column_left">
+<table border="0" cellspacing="0" cellpadding="0" id="lmenu_plate">
+			<tr>
+				<td class="lmenu"><a href="8"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >Новости</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+			<tr>
+				<td class="lmenu"><a href="/strahovanie/"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >Страхование</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+			<tr>
+				<td class="lmenu"><a href="/bronirovanie-gostinic/"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >Бронирование гостиниц</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+			<tr>
+				<td class="lmenu"><a href="/vip-uslugi/"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >VIP услуги</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+			<tr>
+				<td class="lmenu"><a href="/katalog-oteley/"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >Каталог стран и отелей</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+			<tr>
+				<td class="lmenu"><a href="/turi-online/"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >Тур направления</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+			<tr>
+				<td class="lmenu"><a href="/svoi-predlojeniya/"><img src="/tpl/itm.ru/img/0.gif" width="40" height="17" border="0" align="left" >Интересные предложения</a></td>
+			</tr>
+<tr>
+	<td><img src="/tpl/itm.ru/img/0.gif" width="1" height="5" ></td>
+</tr>
+</table>
+							<div id="search_plate"><form id="fm_search" name="fm_search" method="post" action="/poisk/">
+								<input name="search" type="text" id="fld_search" value="Поиск по сайту" onfocus="fSearch()" onblur="bSearch()" ><input name="b_search" type="image" id="b_search" src="/tpl/itm.ru/img/bsearch.gif" alt="Найти" style="position:relative;top:7px;" >
+							  </form></div><!--div class="adv_plate"><a href="/luchshie-tseni/">
+<img src="/tpl/itm.ru/img/lbtn.gif" width="190" height="110" alt="Лучшие цены" border=0></a></div-->
+<div class="tv-image-slider tv-moduleid-958680"></div>
+<script type="text/javascript" src="//tourvisor.ru/module/init.js"></script>
+						</div>
+						<div id="column_right">
+							<div id="collage_plate"><img src="/tpl/itm.ru/img/collage1.jpg" alt="" width="760" height="200" ></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="topmenu_tb">
+      <tr>
+			<td class="topmenu_l"><img src="/tpl/itm.ru/img/0.gif" width="5" height="1" ></td>
+			<td class="topmenu_b">
+				<a href="/o-kompanii/"><img src="/tpl/itm.ru/img/tm_point.gif" width="13" height="11" border="0" >О компании</a>
+			</td>
+<td width="1"><img src="/tpl/itm.ru/img/tm_dlv.gif" width="1" height="31" ></td>
+				<td class="topmenu">
+					<a href="/korporativnim-klientam/"><img src="/tpl/itm.ru/img/tm_point.gif" width="13" height="11" border="0" >Корпоративным клиентам</a>
+				</td>
+<td width="1"><img src="/tpl/itm.ru/img/tm_dlv.gif" width="1" height="31" ></td>
+				<td class="topmenu">
+					<a href="/otdih-dlya-klientov/"><img src="/tpl/itm.ru/img/tm_point.gif" width="13" height="11" border="0" >Отдых для клиентов</a>
+				</td>
+<td width="1"><img src="/tpl/itm.ru/img/tm_dlv.gif" width="1" height="31" ></td>
+				<td class="topmenu">
+					<a href="/informaciya/"><img src="/tpl/itm.ru/img/tm_point.gif" width="13" height="11" border="0" >Информация</a>
+				</td>
+<td width="1"><img src="/tpl/itm.ru/img/tm_dlv.gif" width="1" height="31" ></td>
+				<td class="topmenu_e">
+					<a href="/koordinati/"><img src="/tpl/itm.ru/img/tm_point.gif" width="13" height="11" border="0" >Контакты</a>
+				</td>
+				<td class="topmenu_r"><img src="/tpl/itm.ru/img/0.gif" width="5" height="1" ></td>
+		</tr>
+	</table>
+<table border="0" cellspacing="0" cellpadding="0" id="btnmain_plate">
+      <tr>
+<td><a href="/aviabileti-online/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tmb5','','/upload/itm/menu_rubric_item/image_active/5.gif',1)"><img src="/upload/itm/menu_rubric_item/image/5.gif" alt="Авиабилеты онлайн" name="tmb5" width="148" height="52" border="0" id="tmb5"></a></td>
+<td width="5">&nbsp;</td>
+<td><a href="/bronirovanie-jd-biletov/jd-bileti-online/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tmb6','','/upload/itm/menu_rubric_item/image_active/6.gif',1)"><img src="/upload/itm/menu_rubric_item/image/6.gif" alt="ЖД билеты онлайн" name="tmb6" width="148" height="52" border="0" id="tmb6"></a></td>
+<td width="5">&nbsp;</td>
+<td><a href="/gostinici-online/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tmb13','','/upload/itm/menu_rubric_item/image_active/13.gif',1)"><img src="/upload/itm/menu_rubric_item/image/13.gif" alt="Гостиницы онлайн" name="tmb13" width="148" height="52" border="0" id="tmb13"></a></td>
+<td width="5">&nbsp;</td>
+<td><a href="/poisk-tura/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tmb14','','/upload/itm/menu_rubric_item/image_active/14.gif',1)"><img src="/upload/itm/menu_rubric_item/image/14.gif" alt="Поиск тура" name="tmb14" width="148" height="52" border="0" id="tmb14"></a></td>
+<td width="5">&nbsp;</td>
+<td><a href="/rasprodaja-turov/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tmb55','','/upload/itm/menu_rubric_item/image_active/55.gif',1)"><img src="/upload/itm/menu_rubric_item/image/55.gif" alt="Распродажа туров" name="tmb55" width="148" height="52" border="0" id="tmb55"></a></td>
+		</tr>
+</table>
+							<div id="submain_plate">
+								<div id="submain"></div>
+								<div><img src="/tpl/itm.ru/img/bksube.gif" width="760" height="5" alt="" ></div>
+							</div>
+							<div>
+								<script type="text/javascript">
+								function tc_resize(tc_id) { setInterval('try {document.getElementById("'+tc_id+'").style.height=document.getElementById("'+tc_id+'").contentWindow.document.body.scrollHeight+"px";} catch (e) { }', 500);
+								}
+								function tc_load_page(tc_id, tc_url) {
+									document.getElementById(tc_id).src=tc_url+document.location.search;
+								}
+								</script>
+								<iframe height="0" frameborder="0" scrolling="no" width="100%" allowtransparency="true" src="" id="tc_news">
+								</iframe>
+								<script type="text/javascript">
+								tc_load_page('tc_news','/tours/news.php');
+								tc_resize('tc_news');
+								</script>
+							</div>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</table>
+		<div id="bottom_plate">
+<table border="0" align="center" cellpadding="0" cellspacing="0" id="btmmenu_plate">
+	<tr>
+		<td width="1%"><img src="/tpl/itm.ru/img/btmm_l.gif" width="12" height="41" ></td>
+		<td width="98%" id="btmmenu">
+		<a href="/o-kompanii/">О компании</a>
+	&nbsp;&bull;&nbsp;
+		<a href="/korporativnim-klientam/">Корпоративным клиентам</a>
+	&nbsp;&bull;&nbsp;
+		<a href="/otdih-dlya-klientov/">Отдых для клиентов</a>
+	&nbsp;&bull;&nbsp;
+		<a href="/informaciya/">Информация</a>
+	&nbsp;&bull;&nbsp;
+		<a href="/koordinati/">Контакты</a>
+		</td>
+		<td width="1%" align="right"><img src="/tpl/itm.ru/img/btmm_r.gif" width="12" height="41" ></td>
+	</tr>
+</table>
+			<div id="btm_plate">
+				<div id="btm_copy"><img src="/tpl/itm.ru/img/logoitm.gif" width="68" height="53" align="left" >
+    &copy; 2001 &ndash; 2018<br >
+    Туристическая компания<br >
+    &laquo;ИНТУРМАРКЕТ Бизнес Трэвел&raquo;
+<p>
+<a href="/upload/politika-obrabotki-pdn.pdf" target="_blank">Политика конфиденциальности</a>
+</p></div>
+				<div id="btm_counters"><!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7306969 = new Ya.Metrika({id:7306969, enableAll: true, webvisor:true});
+        }
+        catch(e) { }
+    });
+})(window, "yandex_metrika_callbacks");
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/7306969" style="position:absolute; left:-9999px;" alt="" ></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.12;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'></a>")
+//--></script><!--/LiveInternet-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11872407-8']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</div>
+				<div id="btm_promoting"><a href="/developer/"><img src="/tpl/itm.ru/img/promoting.gif" width="71" height="31" border="0" align="left" ></a><a href="http://www.promoting.ru" target=_blank>Создание сайта</a><br >
+    <a href="http://www.optimized.ru/" target="_blank">Продвижение сайта</a></div>
+			</div>
+		</div>
+<script language="javascript">
+	var flag_click_call_name = false;
+    var flag_click_call_phone_empty = false;
+    var flag_click_call_phone_unlength = false;
+</script>
+<div class="w-popup" id="w-call">
+  <div id="w-call-close"></div>
+  <div class="hdr-plate">ЗАКАЗ ЗВОНКА</div>
+  <p>Заполните форму и наш менеджер свяжется с Вами в течение дня!</p>
+  <p class="snote">Внимание! Поля со звездочками обязательны для заполнения!</p>
+  <form action="/order-call/" name="fm_call" id="fm-call" method="post" onsubmit="return validate_call();">
+    <input type="hidden" name="action" value="send" >
+    <input type="hidden" name="call" value="1" >
+    <input type="hidden" name="url_back" value="/favicon.ico/" >
+    <input type="hidden" name="name_mandatory" value="1" >
+    <input type="hidden" name="phone_mandatory" value="1" >
+    <input type="hidden" name="form_check_code" id="form_check_code_call_block" value="">
+    <table>
+      <tr>
+        <td>Ваше&nbsp;имя:&nbsp;<span class="red">*</span></td>
+        <td>
+          <input type="text" name="name" id="fld-call-name" onclick="if(flag_click_call_name) {document.forms.fm_call.name.value='';document.forms.fm_call.name.style.backgroundColor='#FFFFFF';document.forms.fm_call.name.style.color='#333';flag_click_call_name=false;}" style="width:250px;" >
+        </td>
+      </tr>
+      <tr>
+        <td>Ваш&nbsp;телефон:&nbsp;<span class="red">*</span></td>
+        <td>
+          <input type="text" name="phone" id="fld-call-phone" onclick="if(flag_click_call_phone_empty || flag_click_call_phone_unlength) {document.forms.fm_call.phone.value='';document.forms.fm_call.phone.style.backgroundColor='#FFFFFF';document.forms.fm_call.phone.style.color='#333';flag_click_call_phone_empty=false;flag_click_call_phone_unlength=false;}" style="width:250px;" >
+        </td>
+      </tr>
+      <tr>
+        <td>Ваше&nbsp;сообщение:</td>
+        <td>
+          <textarea name="comment" id="fld-call-comment" rows="5" style="width:250px;"></textarea>
+        </td>
+      </tr>
+    </table>
+	<div align="center"><input type="submit" name="btn-call" id="btn-call" value="Заказать" class="button" ></div>
+  </form>
+</div>
+<script language="javascript">
+	var flag_click_tour_name = false;
+    var flag_click_tour_phone_empty = false;
+    var flag_click_tour_phone_unlength = false;
+    var flag_click_tour_email_uncorrect = false;
+</script>
+<div class="w-popup" id="w-tour">
+  <div id="w-tour-close"></div>
+  <div class="hdr-plate">ЗАКАЗ ТУРА</div>
+  <p>Заполните форму и наш менеджер свяжется с Вами в течение дня!</p>
+  <p class="snote">Внимание! Поля со звездочками обязательны для заполнения!</p>
+  <form action="/order-tour/" name="fm_tour" id="fm-tour" method="post" onsubmit="return validate_tour();">
+    <input type="hidden" name="action" value="send" >
+    <input type="hidden" name="url_back" value="/favicon.ico/" >
+    <input type="hidden" name="name_mandatory" value="1" >
+    <input type="hidden" name="phone_mandatory" value="1" >
+    <input type="hidden" name="form_check_code" id="form_check_code_tour_block" value="">
+    <table>
+      <tr>
+        <td>Ваше&nbsp;имя:&nbsp;<span class="red">*</span></td>
+        <td>
+          <input type="text" name="name" id="fld-tour-name" onclick="if(flag_click_tour_name) {document.forms.fm_tour.name.value='';document.forms.fm_tour.name.style.backgroundColor='#FFFFFF';document.forms.fm_tour.name.style.color='#333';flag_click_tour_name=false;}" style="width:250px;" >
+        </td>
+      </tr>
+      <tr>
+        <td>Ваш&nbsp;телефон:&nbsp;<span class="red">*</span></td>
+        <td>
+          <input type="text" name="phone" id="fld-tour-phone" onclick="if(flag_click_tour_phone_empty || flag_click_tour_phone_unlength) {document.forms.fm_tour.phone.value='';document.forms.fm_tour.phone.style.backgroundColor='#FFFFFF';document.forms.fm_tour.phone.style.color='#333';flag_click_tour_phone_empty=false;flag_click_tour_phone_unlength=false;}" style="width:250px;" >
+        </td>
+      </tr>
+      <tr>
+        <td>Ваш&nbsp;e-mail:</td>
+        <td>
+          <input type="text" name="email" id="fld_tour_email" onclick="if(flag_click_tour_email_uncorrect) {document.forms.fm_tour.email.value='';document.forms.fm_tour.email.style.backgroundColor='#FFFFFF';document.forms.fm_tour.email.style.color='#333';flag_click_tour_email_uncorrect=false;}" style="width:250px;" >
+        </td>
+      </tr>
+      <tr>
+        <td>Ваше сообщение:</td>
+        <td><textarea name="comment" id="fld-tour-comment" rows="5" style="width:250px;"></textarea></td>
+      </tr>
+    </table>
+	<div align="center"><input type="submit" name="btn-tour" id="btn-tour" value="Заказать" class="button" ></div>
+  </form>
+</div>
+	</body>
+</html>

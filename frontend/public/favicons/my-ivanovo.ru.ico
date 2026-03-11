@@ -1,0 +1,2032 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" >
+<head>
+<base href="https://my-ivanovo.ru/index.php" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Новости Иваново" />
+	<meta name="robots" content="index, follow" />
+	<meta name="description" content="Новости Иваново" />
+	<meta name="generator" content="ivanovo (https://my-ivanovo.ru/)" />
+	<title>Новости Иваново</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="https://my-ivanovo.ru/component/search/?layout=blog&amp;id=8&amp;Itemid=298&amp;format=opensearch" rel="search" title="Искать Моё Иваново" type="application/opensearchdescription+xml" />
+	<link href="/components/com_jcomments/tpl/default/style.css?v=3002" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?aa754b1f19c7df490be4b958cf085e7c" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_hot_weather2/css/style.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.margin-h-8 {margin:8px;}div.mod_search151 input[type="search"]{ width:auto; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"0a49330103b7275bc0a2c2d9d384bd6a","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script>
+	<script src="/media/plg_n3tcopylink/js/copylink.js" type="text/javascript"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/html5fallback.js?131aa8d58c8e89b4cc50858f54cd80c4" type="text/javascript"></script><![endif]-->
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($) {
+			 $('.hasTip').each(function() {
+				var title = $(this).attr('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					var mtelement = document.id(this);
+					mtelement.store('tip:title', parts[0]);
+					mtelement.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($('.hasTip').get(), {"maxTitleChars": 50,"fixed": false});
+		});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+        CopyLink.addEvent(window, 'load', function () {
+        	new CopyLink({
+        		container : document.body,
+        		handler : function () {
+        			return '<br />Source: '+location.href+'';
+        		},
+            minimalSelection: 20
+        	});
+        });
+      
+	</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="stylesheet" href="/templates/hot_news_portal/css/joomla.css" type="text/css" />
+<link rel="stylesheet" href="https://my-ivanovo.ru/index.php?css_request=1&amp;diff=2102526260" type="text/css" />
+<link rel="stylesheet" href="/templates/hot_news_portal/css/template_css.css" type="text/css" />
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" />
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<style type="text/css">
+.container, .row {
+    width:996px;
+}
+
+[class*="span"] {
+    margin-left: 0;
+}
+
+.mp_top1{
+    width:747px;
+}
+
+.mp_fontresize{
+    width:249px;
+}
+
+.mp_logo{
+    width:415px;
+}
+
+.mp_top3{
+    width:249px;
+}
+
+.mp_top4{
+    width:332px;
+}
+
+.mp_topmenu{
+    width:747px;
+}
+
+.mp_header2{
+    width:249px;
+}
+
+.mp_header3{
+    width:0px;
+}
+
+.mp_header1{
+    width:996px;
+}
+
+.content_sparky {
+    width:664px;
+}
+
+.mp_user1{
+    width:332px;
+}
+
+.mp_user2{
+    width:0px;
+}
+
+.mp_advert1{
+    width:996px;
+}
+
+.mp_bottom1{
+    width:249px;
+}
+
+.mp_bottom2{
+    width:249px;
+}
+
+.mp_bottom3{
+    width:249px;
+}
+
+.mp_bottom4{
+    width:249px;
+}
+
+.mp_footer{
+    width:332px;
+}
+
+.mp_copyright{
+    width:664px;
+}
+
+</style>
+<![endif]-->
+
+<script type="text/javascript" src="/templates/hot_news_portal/js/jquery.hjt.navv.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+			jQuery('.mnu_topmenu1').dropDownMenu({
+					speed: 300,
+					effect: 'slideToggle'
+      });
+      var navHeight = jQuery('ul.navv > li').outerHeight()
+      jQuery('ul.navv').parent('div').css('height', navHeight)
+	});
+	jQuery(document).ready(function(){
+			jQuery('.mnu_topmenu2').dropDownMenu({
+					speed: 300,
+					effect: 'fadeToggle'
+      });
+      var navHeight = jQuery('ul.navv > li').outerHeight()
+      jQuery('ul.navv').parent('div').css('height', navHeight)
+	});
+</script>  
+<script type="text/javascript" src="/templates/hot_news_portal/js/tinynav.min.js"></script>
+<script type="text/javascript" src="/templates/hot_news_portal/js/responsive_menu.js"></script>
+<script type="text/javascript">
+jQuery(function(){
+	menutransform(980);
+	jQuery(window).resize(function(){
+		jQuery(".tinynav").remove();
+		menutransform(980);
+	});
+});
+</script></head>
+<body class="sparky_home">
+<div style="position:absolute;top:0;left:-9999px;">
+<noindex><a href="http://joomla4ever.ru/hotjoomla/2402-hot-news-portal.html" title="HOT News Portal - шаблон joomla" target="_blank" rel="nofollow" >HOT News Portal - шаблон joomla</a></noindex>
+<noindex><a href="http://all-book.net/" title="Книги" target="_blank" rel="nofollow" >Книги</a></noindex>
+</div>
+<div class="sparky_wrapper">
+    <div class="sparky_full headerrow">
+        <div class="container">
+            <div  class="row">
+            					<div class="cell mp_top1 span9 ">
+						<div class="cell_pad">
+									<div class="moduletable_menu">
+						
+<ul class="menu navv mnu_topmenu1">
+<li class="item-195 deeper parent"><a href="/home" >Об Ивановском регионе</a><ul><li class="item-437"><a href="/home/ивановский-текстиль" >Ивановский текстиль</a></li></ul></li><li class="item-102"><a href="/about-hot-academy" >Как добраться</a></li><li class="item-221 deeper parent"><a href="/ob-tsnpir-mojo-ivanovo" >Моё Иваново</a><ul><li class="item-378"><a href="/ob-tsnpir-mojo-ivanovo/o-nas" >Рекламодателям</a></li></ul></li></ul>
+		</div>
+	
+						</div>
+					</div>
+	                <div class="cell mp_fontresize">
+     <div class="cell_pad">
+        	Sunday, March 01, 2026     </div>
+</div>            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full logorow">
+        <div class="container">
+            <div  class="row">
+            <div class="cell mp_logo span5">
+     <div class="cell_pad">
+     		            <div class="sparky_logo"><a href="/index.php"><span class="hot">Моё</span> Иваново</span></a></div>
+            <div class="sparky_slogan"></div>
+                 </div>
+</div>					<div class="cell mp_top3 span3 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p>Центральный новостной портал Ивановского региона</p></div>
+		</div>
+	
+						</div>
+					</div>
+	                					<div class="cell mp_top4 span4 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						
+
+<div class="custom"  >
+	<ul>
+<li class="facebook"><noindex><a href="https://www.facebook.com/%D0%9C%D0%BE%D0%B5-%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE-110704409097470/" target="_blank" rel="nofollow" ></a></noindex></li>
+<li class="twitter"><noindex><a href="https://twitter.com/myivanovo" target="_blank" rel="nofollow" ></a></noindex></li>
+<li class="youtube"><noindex><a href="https://www.youtube.com/watch?v=BVoG_8Sj7Ro" target="_blank" rel="nofollow" ></a></noindex></li>
+<li class="rss"><a href="/?format=feed&amp;type=rss" target="_blank"></a></li>
+</ul></div>
+		</div>
+	
+						</div>
+					</div>
+	                            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full topmenurow">
+        <div class="container">
+            <div  class="row">
+            					<div class="cell mp_topmenu span9 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						
+<ul class="menu navv mnu_topmenu2">
+<li class="item-298 current active deeper parent"><a href="/" title="Новости Иваново" >Новости</a><ul><li class="item-375"><a href="/ivanovo-news/verkhnelandekhovskij-rajon" >Верхнеландеховский район</a></li><li class="item-377"><a href="/ivanovo-news/vichugskij-rajon" >Вичугский район</a></li><li class="item-376"><a href="/ivanovo-news/gavrilovo-posadskij-rajon" >Гаврилово-Посадский район</a></li><li class="item-368"><a href="/ivanovo-news/zavolzhskij-rajon" >Заволжский район</a></li><li class="item-352"><a href="/ivanovo-news/ivanovo" >Иваново</a></li><li class="item-369"><a href="/ivanovo-news/ivanovskij-rajon" >Ивановский район</a></li><li class="item-366"><a href="/ivanovo-news/ilinskij-rajon" >Ильинский район</a></li><li class="item-365"><a href="/ivanovo-news/kineshemskij-rajon" >Кинешемский район</a></li><li class="item-364"><a href="/ivanovo-news/komsomolskij-rajon" >Комсомольский район</a></li><li class="item-363"><a href="/ivanovo-news/lezhnevskij-rajon" >Лежневский район</a></li><li class="item-362"><a href="/ivanovo-news/lukhskij-rajon" >Лухский район</a></li><li class="item-361"><a href="/ivanovo-news/palekhskij-rajon" >Палехский район</a></li><li class="item-360"><a href="/ivanovo-news/pestyakovskij-rajon" >Пестяковский район</a></li><li class="item-359"><a href="/ivanovo-news/privolzhskij-rajon" >Приволжский район</a></li><li class="item-354"><a href="/ivanovo-news/puchezhskij-rajon" >Пучежский район</a></li><li class="item-353"><a href="/ivanovo-news/rodnikovskij-rajon" >Родниковский район</a></li><li class="item-358"><a href="/ivanovo-news/savino" >Савинский район</a></li><li class="item-357"><a href="/ivanovo-news/tejkovskij-rajon" >Тейковский район</a></li><li class="item-379"><a href="/ivanovo-news/фурмановский-район" >Фурмановский район</a></li><li class="item-355"><a href="/ivanovo-news/yuzhskij-rajon" >Южский район</a></li><li class="item-356"><a href="/ivanovo-news/shujskij-rajon" >Шуйский район</a></li><li class="item-367"><a href="/ivanovo-news/yurevetskij-rajon" >Юрьевецкий район</a></li></ul></li><li class="item-425"><a href="/власть" >Власть</a></li><li class="item-300"><a href="/technology" >Города и районы</a></li><li class="item-301"><a href="/predpriyatiya" >Предприятия</a></li><li class="item-299"><a href="/dostoprimechatelnosti" >Достопримечательности</a></li><li class="item-293"><a href="/контакты" >Контакты</a></li></ul>
+		</div>
+	
+						</div>
+					</div>
+	                					<div class="cell mp_header2 span3 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						<div class="search mod_search151">
+	<form action="/" method="post" class="form-inline" role="search">
+		<label for="mod-search-searchword151" class="element-invisible">Искать...</label> <input name="searchword" id="mod-search-searchword151" maxlength="200"  class="inputbox search-query input-medium" type="search" size="22" placeholder="Введите текст для поиска..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="298" />
+	</form>
+</div>
+		</div>
+			<div class="moduletable">
+						
+
+
+
+<div id="weather"></div>
+
+<script src="/modules/mod_hot_weather2/js/jquery.simpleWeather-2.5.min.js" type="text/javascript"></script>
+<script>
+  jQuery(document).ready(function() {
+    jQuery.simpleWeather({
+      location: 'New York',
+      woeid: '',
+      unit: 'f',
+      success: function(weather) {
+        html = '<i class="icon-'+weather.code+'"></i> <strong>'+weather.temp+'&deg;'+weather.units.temp+' '+weather.currently+'</strong><br/>'+weather.city; /* This string can be edited for different weather format. Check simpleweatherjs.com for details */
+    
+        jQuery("#weather").html(html);
+      },
+      error: function(error) {
+        jQuery("#weather").html('<p>'+error+'</p>');
+      }
+    });
+  });
+</script>		</div>
+	
+						</div>
+					</div>
+	                            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full scrollerrow">
+        <div class="container">
+            <div  class="row">
+            					<div class="cell mp_header1 span12 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						        <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>-->
+                                    <script>
+                var data_7 = [];
+                var event_stack_7 = [];
+                video_is_playing_7 = false;
+            data_7["0"]=[];data_7["0"]["id"]="0";data_7["0"]["image_url"]="images/siteimage/slider/3.png";data_7["0"]["description"]="";data_7["0"]["alt"]="";data_7["1"]=[];data_7["1"]["id"]="1";data_7["1"]["image_url"]="images/siteimage/slider/2.png";data_7["1"]["description"]="";data_7["1"]["alt"]="";data_7["2"]=[];data_7["2"]["id"]="2";data_7["2"]["image_url"]="images/siteimage/slider/1.png";data_7["2"]["description"]="";data_7["2"]["alt"]="";                var huge_it_trans_in_progress_7 = false;
+                var huge_it_transition_duration_7 = 1000;
+                var huge_it_playInterval_7;
+                // Stop autoplay.
+                window.clearInterval(huge_it_playInterval_7);
+
+                var huge_it_current_key_7 = '';
+                function huge_it_move_dots_7() {
+                    var image_left = jQuery(".huge_it_slideshow_dots_active_7").position().left;
+                    var image_right = jQuery(".huge_it_slideshow_dots_active_7").position().left + jQuery(".huge_it_slideshow_dots_active_7").outerWidth(true);
+                }
+                function huge_it_testBrowser_cssTransitions_7() {
+                    return huge_it_testDom_7('Transition');
+                }
+                function huge_it_testBrowser_cssTransforms3d_7() {
+                    return huge_it_testDom_7('Perspective');
+                }
+                function huge_it_testDom_7(prop) {
+                    // Browser vendor CSS prefixes.
+                    var browserVendors = ['', '-webkit-', '-moz-', '-ms-', '-o-', '-khtml-'];
+                    // Browser vendor DOM prefixes.
+                    var domPrefixes = ['', 'Webkit', 'Moz', 'ms', 'O', 'Khtml'];
+                    var i = domPrefixes.length;
+                    while (i--) {
+                        if (typeof document.body.style[domPrefixes[i] + prop] !== 'undefined') {
+                            return true;
+                        }
+                    }
+                    return false;
+                }
+                function huge_it_cube_7(tz, ntx, nty, nrx, nry, wrx, wry, current_image_class, next_image_class, direction) {
+                    /* If browser does not support 3d transforms/CSS transitions.*/
+                    if (!huge_it_testBrowser_cssTransitions_7()) {
+                        jQuery(".huge_it_slideshow_dots_7").removeClass("huge_it_slideshow_dots_active_7").addClass("huge_it_slideshow_dots_deactive_7");
+                        jQuery("#huge_it_dots_" + huge_it_current_key_7 + "_7").removeClass("huge_it_slideshow_dots_deactive_7").addClass("huge_it_slideshow_dots_active_7");
+                        return huge_it_fallback_7(current_image_class, next_image_class, direction);
+                    }
+                    if (!huge_it_testBrowser_cssTransforms3d_7()) {
+                        return huge_it_fallback3d_7(current_image_class, next_image_class, direction);
+                    }
+                    huge_it_trans_in_progress_7 = true;
+                    /* Set active thumbnail.*/
+                    jQuery(".huge_it_slideshow_dots_7").removeClass("huge_it_slideshow_dots_active_7").addClass("huge_it_slideshow_dots_deactive_7");
+                    jQuery("#huge_it_dots_" + huge_it_current_key_7 + "_7").removeClass("huge_it_slideshow_dots_deactive_7").addClass("huge_it_slideshow_dots_active_7");
+                    jQuery(".huge_it_slide_bg_7").css('perspective', 1000);
+                    jQuery(current_image_class).css({
+                        transform: 'translateZ(' + tz + 'px)',
+                        backfaceVisibility: 'hidden'
+                    });
+
+                    jQuery(".huge_it_slideshow_image_wrap_7,.huge_it_slide_bg_7,.huge_it_slideshow_image_item_7,.huge_it_slideshow_image_second_item_7 ").css('overflow', 'visible');
+
+                    jQuery(next_image_class).css({
+                        opacity: 1,
+                        filter: 'Alpha(opacity=100)',
+                        backfaceVisibility: 'hidden',
+                        transform: 'translateY(' + nty + 'px) translateX(' + ntx + 'px) rotateY(' + nry + 'deg) rotateX(' + nrx + 'deg)'
+                    });
+                    jQuery(".huge_it_slider_7").css({
+                        transform: 'translateZ(-' + tz + 'px)',
+                        transformStyle: 'preserve-3d'
+                    });
+                    /* Execution steps.*/
+                    setTimeout(function () {
+                        jQuery(".huge_it_slider_7").css({
+                            transition: 'all ' + huge_it_transition_duration_7 + 'ms ease-in-out',
+                            transform: 'translateZ(-' + tz + 'px) rotateX(' + wrx + 'deg) rotateY(' + wry + 'deg)'
+                        });
+                    }, 20);
+                    /* After transition.*/
+                    jQuery(".huge_it_slider_7").one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+                    function huge_it_after_trans() {
+                        /*if (huge_it_from_focus_7) {
+                         huge_it_from_focus_7 = false;
+                         return;
+                         }*/
+                        jQuery(".huge_it_slide_bg_7,.huge_it_slideshow_image_item_7,.huge_it_slideshow_image_second_item_7 ").css('overflow', 'hidden');
+                        jQuery(".huge_it_slide_bg_7").removeAttr('style');
+                        jQuery(current_image_class).removeAttr('style');
+                        jQuery(next_image_class).removeAttr('style');
+                        jQuery(".huge_it_slider_7").removeAttr('style');
+                        jQuery(current_image_class).css({'opacity': 0, filter: 'Alpha(opacity=0)', 'z-index': 1});
+                        jQuery(next_image_class).css({'opacity': 1, filter: 'Alpha(opacity=100)', 'z-index': 2});
+                        // huge_it_change_watermark_container_7();
+                        huge_it_trans_in_progress_7 = false;
+                        if (typeof event_stack_7 !== 'undefined' && event_stack_7.length > 0) {
+                            key = event_stack_7[0].split("-");
+                            event_stack_7.shift();
+                            huge_it_change_image_7(key[0], key[1], data_7, true, false);
+                        }
+                    }
+                }
+                function huge_it_cubeH_7(current_image_class, next_image_class, direction) {
+                    /* Set to half of image width.*/
+                    var dimension = jQuery(current_image_class).width() / 2;
+                    if (direction == 'right') {
+                        huge_it_cube_7(dimension, dimension, 0, 0, 90, 0, -90, current_image_class, next_image_class, direction);
+                    }
+                    else if (direction == 'left') {
+                        huge_it_cube_7(dimension, -dimension, 0, 0, -90, 0, 90, current_image_class, next_image_class, direction);
+                    }
+                }
+                function huge_it_cubeV_7(current_image_class, next_image_class, direction) {
+                    /* Set to half of image height.*/
+                    var dimension = jQuery(current_image_class).height() / 2;
+                    /* If next slide.*/
+                    if (direction == 'right') {
+                        huge_it_cube_7(dimension, 0, -dimension, 90, 0, -90, 0, current_image_class, next_image_class, direction);
+                    }
+                    else if (direction == 'left') {
+                        huge_it_cube_7(dimension, 0, dimension, -90, 0, 90, 0, current_image_class, next_image_class, direction);
+                    }
+                }
+                /* For browsers that does not support transitions.*/
+                function huge_it_fallback_7(current_image_class, next_image_class, direction) {
+                    huge_it_fade_7(current_image_class, next_image_class, direction);
+                }
+                /* For browsers that support transitions, but not 3d transforms (only used if primary transition makes use of 3d-transforms).*/
+                function huge_it_fallback3d_7(current_image_class, next_image_class, direction) {
+                    huge_it_sliceV_7(current_image_class, next_image_class, direction);
+                }
+                function huge_it_none_7(current_image_class, next_image_class, direction) {
+                    jQuery(current_image_class).css({'opacity': 0, 'z-index': 1});
+                    jQuery(next_image_class).css({'opacity': 1, 'z-index': 2});
+
+                    /* Set active thumbnail.*/
+                    jQuery(".huge_it_slideshow_dots_7").removeClass("huge_it_slideshow_dots_active_7").addClass("huge_it_slideshow_dots_deactive_7");
+                    jQuery("#huge_it_dots_" + huge_it_current_key_7 + "_7").removeClass("huge_it_slideshow_dots_deactive_7").addClass("huge_it_slideshow_dots_active_7");
+                }
+                function huge_it_fade_7(current_image_class, next_image_class, direction) {
+                    if (huge_it_testBrowser_cssTransitions_7()) {
+                        jQuery(next_image_class).css('transition', 'opacity ' + huge_it_transition_duration_7 + 'ms linear');
+                        jQuery(current_image_class).css('transition', 'opacity ' + huge_it_transition_duration_7 + 'ms linear');
+                        jQuery(current_image_class).css({'opacity': 0, 'z-index': 1});
+                        jQuery(next_image_class).css({'opacity': 1, 'z-index': 2});
+                    }
+                    else {
+                        jQuery(current_image_class).animate({'opacity': 0, 'z-index': 1}, huge_it_transition_duration_7);
+                        jQuery(next_image_class).animate({
+                            'opacity': 1,
+                            'z-index': 2
+                        }, {
+                            duration: huge_it_transition_duration_7,
+                            complete: function () {
+                                return false;
+                            }
+                        });
+                        // For IE.
+                        jQuery(current_image_class).fadeTo(huge_it_transition_duration_7, 0);
+                        jQuery(next_image_class).fadeTo(huge_it_transition_duration_7, 1);
+                    }
+
+                    jQuery(".huge_it_slideshow_dots_7").removeClass("huge_it_slideshow_dots_active_7").addClass("huge_it_slideshow_dots_deactive_7");
+                    jQuery("#huge_it_dots_" + huge_it_current_key_7 + "_7").removeClass("huge_it_slideshow_dots_deactive_7").addClass("huge_it_slideshow_dots_active_7");
+                }
+                function huge_it_grid_7(cols, rows, ro, tx, ty, sc, op, current_image_class, next_image_class, direction) {
+                    /* If browser does not support CSS transitions.*/
+                    if (!huge_it_testBrowser_cssTransitions_7()) {
+                        jQuery(".huge_it_slideshow_dots_7").removeClass("huge_it_slideshow_dots_active_7").addClass("huge_it_slideshow_dots_deactive_7");
+                        jQuery("#huge_it_dots_" + huge_it_current_key_7 + "_7").removeClass("huge_it_slideshow_dots_deactive_7").addClass("huge_it_slideshow_dots_active_7");
+                        return huge_it_fallback_7(current_image_class, next_image_class, direction);
+
+                    }
+                    huge_it_trans_in_progress_7 = true;
+                    /* Set active thumbnail.*/
+                    jQuery(".huge_it_slideshow_dots_7").removeClass("huge_it_slideshow_dots_active_7").addClass("huge_it_slideshow_dots_deactive_7");
+                    jQuery("#huge_it_dots_" + huge_it_current_key_7 + "_7").removeClass("huge_it_slideshow_dots_deactive_7").addClass("huge_it_slideshow_dots_active_7");
+                    /* The time (in ms) added to/subtracted from the delay total for each new gridlet.*/
+                    var count = (huge_it_transition_duration_7) / (cols + rows);
+                    /* Gridlet creator (divisions of the image grid, positioned with background-images to replicate the look of an entire slide image when assembled)*/
+                    function huge_it_gridlet(width, height, top, img_top, left, img_left, src, imgWidth, imgHeight, c, r) {
+                        var delay = (c + r) * count;
+                        /* Return a gridlet elem with styles for specific transition.*/
+                        return jQuery('<div class="huge_it_gridlet_7" />').css({
+                            width: width,
+                            height: height,
+                            top: top,
+                            left: left,
+                            backgroundImage: 'url("' + src + '")',
+                            backgroundColor: jQuery(".huge_it_slideshow_image_wrap_7").css("background-color"),
+                            /*backgroundColor: rgba(0, 0, 0, 0),*/
+                            backgroundRepeat: 'no-repeat',
+                            backgroundPosition: img_left + 'px ' + img_top + 'px',
+                            backgroundSize: imgWidth + 'px ' + imgHeight + 'px',
+                            transition: 'all ' + huge_it_transition_duration_7 + 'ms ease-in-out ' + delay + 'ms',
+                            transform: 'none'
+                        });
+                    }
+                    /* Get the current slide's image.*/
+                    var cur_img = jQuery(current_image_class).find('img');
+                    /* Create a grid to hold the gridlets.*/
+                    var grid = jQuery('<div />').addClass('huge_it_grid_7');
+                    /* Prepend the grid to the next slide (i.e. so it's above the slide image).*/
+                    jQuery(current_image_class).prepend(grid);
+                    /* vars to calculate positioning/size of gridlets*/
+                    var cont = jQuery(".huge_it_slide_bg_7");
+                    var imgWidth = cur_img.width();
+                    var imgHeight = cur_img.height();
+                    var contWidth = cont.width(),
+                            contHeight = cont.height(),
+                            imgSrc = cur_img.attr('src'), /*.replace('/thumb', ''),*/
+                            colWidth = Math.floor(contWidth / cols),
+                            rowHeight = Math.floor(contHeight / rows),
+                            colRemainder = contWidth - (cols * colWidth),
+                            colAdd = Math.ceil(colRemainder / cols),
+                            rowRemainder = contHeight - (rows * rowHeight),
+                            rowAdd = Math.ceil(rowRemainder / rows),
+                            leftDist = 0,
+                            img_leftDist = (jQuery(".huge_it_slide_bg_7").width() - cur_img.width()) / 2;
+                    /* tx/ty args can be passed as 'auto'/'min-auto' (meaning use slide width/height or negative slide width/height).*/
+                    tx = tx === 'auto' ? contWidth : tx;
+                    tx = tx === 'min-auto' ? -contWidth : tx;
+                    ty = ty === 'auto' ? contHeight : ty;
+                    ty = ty === 'min-auto' ? -contHeight : ty;
+                    /* Loop through cols*/
+                    for (var i = 0; i < cols; i++) {
+                        var topDist = 0,
+                                img_topDst = (jQuery(".huge_it_slide_bg_7").height() - cur_img.height()) / 2,
+                                newColWidth = colWidth;
+                        if (colRemainder > 0) {
+                            var add = colRemainder >= colAdd ? colAdd : colRemainder;
+                            newColWidth += add;
+                            colRemainder -= add;
+                        }
+                        for (var j = 0; j < rows; j++) {
+                            var newRowHeight = rowHeight,
+                                    newRowRemainder = rowRemainder;
+                            /* If contHeight (px) does not divide cleanly into the specified number of rows, adjust individual row heights to create correct total.*/
+                            if (newRowRemainder > 0) {
+                                add = newRowRemainder >= rowAdd ? rowAdd : rowRemainder;
+                                newRowHeight += add;
+                                newRowRemainder -= add;
+                            }
+                            grid.append(huge_it_gridlet(newColWidth, newRowHeight, topDist, img_topDst, leftDist, img_leftDist, imgSrc, imgWidth, imgHeight, i, j));
+                            topDist += newRowHeight;
+                            img_topDst -= newRowHeight;
+                        }
+                        img_leftDist -= newColWidth;
+                        leftDist += newColWidth;
+                    }
+                    /* Set event listener on last gridlet to finish transitioning.*/
+                    var last_gridlet = grid.children().last();
+                    /* Show grid & hide the image it replaces.*/
+                    grid.show();
+                    cur_img.css('opacity', 0);
+                    /* Add identifying classes to corner gridlets (useful if applying border radius).*/
+                    grid.children().first().addClass('rs-top-left');
+                    grid.children().last().addClass('rs-bottom-right');
+                    grid.children().eq(rows - 1).addClass('rs-bottom-left');
+                    grid.children().eq(-rows).addClass('rs-top-right');
+                    /* Execution steps.*/
+                    setTimeout(function () {
+                        grid.children().css({
+                            opacity: op,
+                            transform: 'rotate(' + ro + 'deg) translateX(' + tx + 'px) translateY(' + ty + 'px) scale(' + sc + ')'
+                        });
+                    }, 1);
+                    jQuery(next_image_class).css('opacity', 1);
+                    /* After transition.*/
+                    jQuery(last_gridlet).one('webkitTransitionEnd transitionend otransitionend oTransitionEnd mstransitionend', jQuery.proxy(huge_it_after_trans));
+                    function huge_it_after_trans() {
+                        jQuery(current_image_class).css({'opacity': 0, 'z-index': 1});
+                        jQuery(next_image_class).css({'opacity': 1, 'z-index': 2});
+                        cur_img.css('opacity', 1);
+                        grid.remove();
+                        huge_it_trans_in_progress_7 = false;
+                        if (typeof event_stack_7 !== 'undefined' && event_stack_7.length > 0) {
+                            key = event_stack_7[0].split("-");
+                            event_stack_7.shift();
+                            huge_it_change_image_7(key[0], key[1], data_7, true, false);
+                        }
+                    }
+                }
+                function huge_it_sliceH_7(current_image_class, next_image_class, direction) {
+                    if (direction == 'right') {
+                        var translateX = 'min-auto';
+                    }
+                    else if (direction == 'left') {
+                        var translateX = 'auto';
+                    }
+                    huge_it_grid_7(1, 8, 0, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_sliceV_7(current_image_class, next_image_class, direction) {
+                    if (direction == 'right') {
+                        var translateY = 'min-auto';
+                    }
+                    else if (direction == 'left') {
+                        var translateY = 'auto';
+                    }
+                    huge_it_grid_7(10, 1, 0, 0, translateY, 1, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_slideV_7(current_image_class, next_image_class, direction) {
+                    if (direction == 'right') {
+                        var translateY = 'auto';
+                    }
+                    else if (direction == 'left') {
+                        var translateY = 'min-auto';
+                    }
+                    huge_it_grid_7(1, 1, 0, 0, translateY, 1, 1, current_image_class, next_image_class, direction);
+                }
+                function huge_it_slideH_7(current_image_class, next_image_class, direction) {
+                    if (direction == 'right') {
+                        var translateX = 'min-auto';
+                    }
+                    else if (direction == 'left') {
+                        var translateX = 'auto';
+                    }
+                    huge_it_grid_7(1, 1, 0, translateX, 0, 1, 1, current_image_class, next_image_class, direction);
+                }
+                function huge_it_scaleOut_7(current_image_class, next_image_class, direction) {
+                    huge_it_grid_7(1, 1, 0, 0, 0, 1.5, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_scaleIn_7(current_image_class, next_image_class, direction) {
+                    huge_it_grid_7(1, 1, 0, 0, 0, 0.5, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_blockScale_7(current_image_class, next_image_class, direction) {
+                    huge_it_grid_7(8, 6, 0, 0, 0, .6, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_kaleidoscope_7(current_image_class, next_image_class, direction) {
+                    huge_it_grid_7(10, 8, 0, 0, 0, 1, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_fan_7(current_image_class, next_image_class, direction) {
+                    if (direction == 'right') {
+                        var rotate = 45;
+                        var translateX = 100;
+                    }
+                    else if (direction == 'left') {
+                        var rotate = -45;
+                        var translateX = -100;
+                    }
+                    huge_it_grid_7(1, 10, rotate, translateX, 0, 1, 0, current_image_class, next_image_class, direction);
+                }
+                function huge_it_blindV_7(current_image_class, next_image_class, direction) {
+                    huge_it_grid_7(1, 8, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+                }
+                function huge_it_blindH_7(current_image_class, next_image_class, direction) {
+                    huge_it_grid_7(10, 1, 0, 0, 0, .7, 0, current_image_class, next_image_class);
+                }
+                function huge_it_random_7(current_image_class, next_image_class, direction) {
+                    var anims = ['sliceH', 'sliceV', 'slideH', 'slideV', 'scaleOut', 'scaleIn', 'blockScale', 'kaleidoscope', 'fan', 'blindH', 'blindV'];
+                    /* Pick a random transition from the anims array.*/
+                    this["huge_it_" + anims[Math.floor(Math.random() * anims.length)] + "_7"](current_image_class, next_image_class, direction);
+                }
+
+                function iterator_7() {
+                    var iterator = 1;
+
+                    return iterator;
+                }
+
+                function huge_it_change_image_7(current_key, key, data_7, from_effect, clicked) {
+
+                    if (data_7[key]) {
+
+                        if (video_is_playing_7 && !clicked) {
+                            return false;
+                        }
+                        if (!from_effect) {
+                            jQuery("#huge_it_current_image_key_7").val(key);
+                            current_key = jQuery(".huge_it_slideshow_dots_active_7").attr("image_key");
+                        }
+                        if (huge_it_trans_in_progress_7) {
+                            event_stack_7.push(current_key + '-' + key);
+                            return;
+                        }
+
+                        var direction = 'right';
+                        if (huge_it_current_key_7 > key) {
+                            var direction = 'left';
+                        }
+                        else if (huge_it_current_key_7 == key) {
+                            return false;
+                        }
+
+                        huge_it_current_key_7 = key;
+                        jQuery("#huge_it_slideshow_image_7").attr('image_id', data_7[key]["id"]);
+                        jQuery(".huge_it_slideshow_title_text_7").html(data_7[key]["alt"]);
+                        jQuery(".huge_it_slideshow_description_text_7").html(data_7[key]["description"]);
+                        var current_image_class = "#image_id_7_" + data_7[current_key]["id"];
+                        var next_image_class = "#image_id_7_" + data_7[key]["id"];
+                        if (jQuery(current_image_class).find('.huge_it_video_frame_7').length > 0) {
+                            var streffect = 'fade';
+                            if (streffect == "cubeV" || streffect == "cubeH" || streffect == "none" || streffect == "fade") {
+                                huge_it_fade_7(current_image_class, next_image_class, direction);
+                            } else {
+                                huge_it_fade_7(current_image_class, next_image_class, direction);
+                            }
+                        } else {
+                            huge_it_fade_7(current_image_class, next_image_class, direction);
+                        }
+                        jQuery('.huge_it_slideshow_title_text_7').removeClass('none');
+                        if (jQuery('.huge_it_slideshow_title_text_7').html() == "") {
+                            jQuery('.huge_it_slideshow_title_text_7').addClass('none');
+                        }
+
+                        jQuery('.huge_it_slideshow_description_text_7').removeClass('none');
+                        if (jQuery('.huge_it_slideshow_description_text_7').html() == "") {
+                            jQuery('.huge_it_slideshow_description_text_7').addClass('none');
+                        }
+                        jQuery(current_image_class).find('.huge_it_slideshow_title_text_7').addClass('none');
+                        jQuery(current_image_class).find('.huge_it_slideshow_description_text_7').addClass('none');
+
+                        //errorlogjQuery(".huge_it_slideshow_image_wrap_7").after("--cur-key="+current_key+" --cur-img-class="+current_image_class+" nxt-img-class="+next_image_class+"--");
+                        huge_it_move_dots_7();
+            //			stopYoutubeVideo();
+                        window.clearInterval(huge_it_playInterval_7);
+                        play_7();
+                    }
+
+                }
+
+                function huge_it_popup_resize_7() {
+
+                    var staticsliderwidth =933;
+                    var sliderwidth =933;
+
+                    var bodyWidth = jQuery(window).width();
+                    var parentWidth = jQuery(".huge_it_slideshow_image_wrap_7").parent().width();
+                    //if responsive js late responsive.js @  take body size and not parent div
+                    if (sliderwidth > parentWidth) {
+                        sliderwidth = parentWidth;
+                    }
+                    if (sliderwidth > bodyWidth) {
+                        sliderwidth = bodyWidth;
+                    }
+
+                    var str = (360 / staticsliderwidth);
+
+                    jQuery(".huge_it_slideshow_image_wrap_7").css({width: (sliderwidth)});
+                    jQuery(".huge_it_slideshow_image_wrap_7").css({height: ((sliderwidth) * str)});
+                    jQuery(".huge_it_slideshow_image_container_7").css({width: (sliderwidth)});
+                    jQuery(".huge_it_slideshow_image_container_7").css({height: ((sliderwidth) * str)});
+
+                    if ("top" == "middle") {
+                        var titlemargintopminus = jQuery(".huge_it_slideshow_title_text_7").outerHeight() / 2;
+                    }
+                    if ("right" == "center") {
+                        var titlemarginleftminus = jQuery(".huge_it_slideshow_title_text_7").outerWidth() / 2;
+                    }
+                    jQuery(".huge_it_slideshow_title_text_7").css({cssText: "margin-top:-" + titlemargintopminus + "px; margin-left:-" + titlemarginleftminus + "px;"});
+
+                    if ("bottom" == "middle") {
+                        var descriptionmargintopminus = jQuery(".huge_it_slideshow_description_text_7").outerHeight() / 2;
+                    }
+                    if ("right" == "center") {
+                        var descriptionmarginleftminus = jQuery(".huge_it_slideshow_description_text_7").outerWidth() / 2;
+                    }
+                    jQuery(".huge_it_slideshow_description_text_7").css({cssText: "margin-top:-" + descriptionmargintopminus + "px; margin-left:-" + descriptionmarginleftminus + "px;"});
+
+
+                    if ("resize" == "resize") {
+                        jQuery(".huge_it_slideshow_image_7, .huge_it_slideshow_image_item1_7 img, .huge_it_slideshow_image_container_7 img").css({
+                            cssText: "width:" + sliderwidth + "px; height:" + ((sliderwidth) * str) + "px;"
+                        });
+                    } else {
+                        jQuery(".huge_it_slideshow_image_7,.huge_it_slideshow_image_item1_7,.huge_it_slideshow_image_item2_7").css({
+                            cssText: "max-width: " + sliderwidth + "px !important; max-height: " + (sliderwidth * str) + "px !important;"
+                        });
+                    }
+
+                    jQuery('.huge_it_video_frame_7').each(function (e) {
+                        jQuery(this).width(sliderwidth);
+                        jQuery(this).height(sliderwidth * str);
+                    });
+                }
+
+                jQuery(window).load(function () {
+                    jQuery(window).resize(function () {
+                        huge_it_popup_resize_7();
+                    });
+
+                    huge_it_popup_resize_7();
+                    /* Disable right click.*/
+                    jQuery('div[id^="huge_it_container"]').bind("contextmenu", function () {
+                        return false;
+                    });
+
+                    /*HOVER SLIDESHOW*/
+                    jQuery("#huge_it_slideshow_image_container_7, .huge_it_slideshow_image_container_7, .huge_it_slideshow_dots_container_7,#huge_it_slideshow_right_7,#huge_it_slideshow_left_7").hover(function () {
+                        //errorlogjQuery(".huge_it_slideshow_image_wrap_7").after(" -- hover -- <br /> ");
+                        jQuery("#huge_it_slideshow_right_7").css({'display': 'inline'});
+                        jQuery("#huge_it_slideshow_left_7").css({'display': 'inline'});
+                    }, function () {
+                        jQuery("#huge_it_slideshow_right_7").css({'display': 'none'});
+                        jQuery("#huge_it_slideshow_left_7").css({'display': 'none'});
+                    });
+                    var pausehover = "on";
+                    if (pausehover == "on") {
+                        jQuery("#huge_it_slideshow_image_container_7, .huge_it_slideshow_image_container_7, .huge_it_slideshow_dots_container_7,#huge_it_slideshow_right_7,#huge_it_slideshow_left_7").hover(function () {
+                            window.clearInterval(huge_it_playInterval_7);
+                        }, function () {
+                            window.clearInterval(huge_it_playInterval_7);
+                            play_7();
+                        });
+                    }
+                    play_7();
+                });
+
+                function play_7() {
+                    /* Play.*/
+                    //errorlogjQuery(".huge_it_slideshow_image_wrap_7").after(" -- paly  ---- ");
+                    huge_it_playInterval_7 = setInterval(function () {
+                        //errorlogjQuery(".huge_it_slideshow_image_wrap_7").after(" -- time left ---- ");
+                        var iterator = 1;
+                        huge_it_change_image_7(parseInt(jQuery('#huge_it_current_image_key_7').val()), (parseInt(jQuery('#huge_it_current_image_key_7').val()) + iterator) % data_7.length, data_7, false, false);
+                    }, '5000');
+                }
+
+                jQuery(window).focus(function () {
+                    /*event_stack_7 = [];*/
+                    var i_7 = 0;
+                    jQuery(".huge_it_slider_7").children("div").each(function () {
+                        if (jQuery(this).css('opacity') == 1) {
+                            jQuery("#huge_it_current_image_key_7").val(i_7);
+                        }
+                        i_7++;
+                    });
+                });
+                jQuery(window).blur(function () {
+                    event_stack_7 = [];
+                    window.clearInterval(huge_it_playInterval_7);
+                });
+            </script>
+            <style>				
+                .huge_it_slideshow_image_wrap_7 {
+                    height:360px;
+                    width:933px;
+                    position:relative;
+                    display: block;
+                    text-align: center;
+                    /*HEIGHT FROM HEADER.PHP*/
+                    clear:both;
+                        float:none; margin:0px auto;
+                    border-style:solid;
+                    border-left:0px !important;
+                    border-right:0px !important;
+                }
+
+
+                .huge_it_slideshow_image_wrap_7 * {
+                    box-sizing: border-box;
+                    -moz-box-sizing: border-box;
+                    -webkit-box-sizing: border-box;
+                }
+
+
+                .huge_it_slideshow_image_7 {
+                    /*width:100%;*/
+                }
+
+                #huge_it_slideshow_left_7,
+                #huge_it_slideshow_right_7 {
+                    cursor: pointer;
+                    display:none;
+                    display: block;
+
+                    height: 100%;
+                    outline: medium none;
+                    position: absolute;
+
+                    /*z-index: 10130;*/
+                    z-index: 13;
+                    bottom:25px;
+                    top:50%;		
+                }
+
+
+                #huge_it_slideshow_left-ico_7,
+                #huge_it_slideshow_right-ico_7 {
+                    z-index: 13;
+                    -moz-box-sizing: content-box;
+                    box-sizing: content-box;
+                    cursor: pointer;
+                    display: table;
+                    left: -9999px;
+                    line-height: 0;
+                    margin-top: -15px;
+                    position: absolute;
+                    top: 50%;
+                    /*z-index: 10135;*/
+                }
+                #huge_it_slideshow_left-ico_7:hover,
+                #huge_it_slideshow_right-ico_7:hover {
+                    cursor: pointer;
+                }
+
+                .huge_it_slideshow_image_container_7 {
+                    display: table;
+                    position: relative;
+                    top:0px;
+                    left:0px;
+                    text-align: center;
+                    vertical-align: middle;
+                    width:100%;
+                }	  
+
+                .huge_it_slideshow_title_text_7 {
+                    text-decoration: none;
+                    position: absolute;
+                    z-index: 11;
+                    display: inline-block;
+            
+                    width:24%;
+                    /*height:44%;*/
+
+            right:3%;top:3%;                    padding:2%;
+                    text-align:right;  
+                    font-weight:bold;
+                    color:#000000;
+
+                    background:rgba(255,255,255,0.7)  !important;
+                    border-style:solid;
+                    font-size:13px;
+                    border-width:0px;
+                    border-color:#ffffff;
+                    border-radius:4px;
+                }
+
+                .huge_it_slideshow_description_text_7 {
+                    text-decoration: none;
+                    position: absolute;
+                    z-index: 11;
+                    border-style:solid;
+                    display: inline-block;
+            
+                    width:64%;
+                    /*height:44%;*/
+            right:3%;bottom:3%;                    padding:3%;
+                    text-align:justify;  
+                    color:#ffffff;
+
+                    background:rgba(0,0,0,0.7) !important;
+                    border-style:solid;
+                    font-size:13px;
+                    border-width:0px;
+                    border-color:#ffffff;
+                    border-radius:0px;
+                }
+
+                .huge_it_slideshow_title_text_7.none, .huge_it_slideshow_description_text_7.none,
+                .huge_it_slideshow_title_text_7.hidden, .huge_it_slideshow_description_text_7.hidden	   {display:none;}
+
+                .huge_it_slideshow_title_text_7 h1, .huge_it_slideshow_description_text_7 h1,
+                .huge_it_slideshow_title_text_7 h2, .huge_it_slideshow_title_text_7 h2,
+                .huge_it_slideshow_title_text_7 h3, .huge_it_slideshow_title_text_7 h3,
+                .huge_it_slideshow_title_text_7 h4, .huge_it_slideshow_title_text_7 h4,
+                .huge_it_slideshow_title_text_7 p, .huge_it_slideshow_title_text_7 p,
+                .huge_it_slideshow_title_text_7 strong,  .huge_it_slideshow_title_text_7 strong,
+                .huge_it_slideshow_title_text_7 span, .huge_it_slideshow_title_text_7 span,
+                .huge_it_slideshow_title_text_7 ul, .huge_it_slideshow_title_text_7 ul,
+                .huge_it_slideshow_title_text_7 li, .huge_it_slideshow_title_text_7 li {
+                    padding:2px;
+                    margin:0px;
+                }
+
+                .huge_it_slide_container_7 {
+                    display: table-cell;
+                    margin: 0 auto;
+                    position: relative;
+                    vertical-align: middle;
+                    width:100%;
+                    height:100%;
+                    _width: inherit;
+                    _height: inherit;
+                }
+                .huge_it_slide_bg_7 {
+                    margin: 0 auto;
+                    width:100%;
+                    height:100%;
+                    _width: inherit;
+                    _height: inherit;
+                }
+                .huge_it_slider_7 {
+                    width:100%;
+                    height:100%;
+                    display:table;
+                    padding:0px;
+                    margin:0px;
+
+                }
+                .huge_it_slideshow_image_item_7 {
+                    width:100%;
+                    height:100%;
+                    width: inherit;
+                    height: inherit;
+                    display: table-cell;
+                    filter: Alpha(opacity=100);
+                    opacity: 1;
+                    position: absolute;
+                    top:0px;
+                    left:0px;
+                    vertical-align: middle;
+                    z-index: 2;
+                    margin:0px !important;
+                    padding:0px;
+                    overflow:hidden;
+                    border-radius: 0px !important;
+                }
+                .huge_it_slideshow_image_second_item_7 {
+                    width:100%;
+                    height:100%;
+                    _width: inherit;
+                    _height: inherit;
+                    display: table-cell;
+                    filter: Alpha(opacity=0);
+                    opacity: 0;
+                    position: absolute;
+                    top:0px;
+                    left:0px;
+                    vertical-align: middle;
+                    z-index: 1;
+                    overflow:hidden;
+                    margin:0px !important;
+                    padding:0px;
+                    border-radius: 0px !important;
+                }
+                .huge_it_grid_7 {
+                    display: none;
+                    height: 100%;
+                    overflow: hidden;
+                    position: absolute;
+                    width: 100%;
+                }
+                .huge_it_gridlet_7 {
+                    opacity: 1;
+                    filter: Alpha(opacity=100);
+                    position: absolute;
+                }
+
+
+                .huge_it_slideshow_dots_container_7 {
+                    display: table;
+                    position: absolute;
+                    width:100% !important;
+                    height:100% !important;
+                }
+                .huge_it_slideshow_dots_thumbnails_7 {
+                    margin: 0 auto;
+                    overflow: hidden;
+                    position: absolute;
+                    width:100%;
+                    height:30px;
+                }
+
+                .huge_it_slideshow_dots_7 {
+                    display: inline-block;
+                    position: relative;
+                    cursor: pointer;
+                    box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
+                    width:10px;
+                    height: 10px;
+                    border-radius: 10px;
+                    background: #00f;
+                    margin: 10px;
+                    overflow: hidden;
+                    z-index: 17;
+                }
+
+                .huge_it_slideshow_dots_active_7 {
+                    opacity: 1;
+                    background:#0f0;
+                    filter: Alpha(opacity=100);
+                }
+                .huge_it_slideshow_dots_deactive_7 {
+
+                }
+
+                .huge_it_slideshow_image_item1_7 {
+                    display: table; 
+                    width: inherit; 
+                    height: inherit;
+                }
+                .huge_it_slideshow_image_item2_7 {
+                    display: table-cell; 
+                    vertical-align: middle; 
+                    text-align: center;
+                }
+
+                .huge_it_slideshow_image_item2_7 a {
+                    display:block;
+                    vertical-align:middle;
+                    width:100%;
+                    height:100%;
+                }
+
+
+                .huge_it_slideshow_image_wrap_7 {
+                    background:#ffffff;
+                    border-width:0px;
+                    border-color:#ffffff;
+                    border-radius:0px;
+                }
+
+                .huge_it_slideshow_dots_thumbnails_7 {
+                                    top:0px;                 }
+
+                .huge_it_slideshow_dots_7 {
+                    background:#000000;
+                }
+
+                .huge_it_slideshow_dots_active_7 {
+                    background:#ffffff;
+                }
+
+                                    #huge_it_slideshow_left_7 {	
+                            left:0px;
+                            margin-top:-21px;
+                            height:43px;
+                            width:29px;
+                            background:url(https://my-ivanovo.ru/media/com_slider/images/Front_images/arrows/arrows.simple.png) left  top no-repeat; 
+                        }
+
+                        #huge_it_slideshow_right_7 {
+                            right:0px;
+                            margin-top:-21px;
+                            height:43px;
+                            width:29px;
+                            background:url(https://my-ivanovo.ru/media/com_slider/images/Front_images/arrows/arrows.simple.png) right top no-repeat; 
+                        }
+                                </style>
+                                    <div class="huge_it_slideshow_image_wrap_7">
+                                        <!-- ##########################DOTS######################### -->
+                <div class="huge_it_slideshow_dots_container_7">
+                    <div class="huge_it_slideshow_dots_thumbnails_7">
+                                                            <div id="huge_it_dots_0_7" class="huge_it_slideshow_dots_7 huge_it_slideshow_dots_active_7" onclick="huge_it_change_image_7(parseInt(jQuery('#huge_it_current_image_key_7').val()), '0', data_7, false, true);
+                                                                                                return false;" image_id="7" image_key="0"></div>
+                                                                    <div id="huge_it_dots_1_7" class="huge_it_slideshow_dots_7 huge_it_slideshow_dots_deactive_7" onclick="huge_it_change_image_7(parseInt(jQuery('#huge_it_current_image_key_7').val()), '1', data_7, false, true);
+                                                                                                return false;" image_id="6" image_key="1"></div>
+                                                                    <div id="huge_it_dots_2_7" class="huge_it_slideshow_dots_7 huge_it_slideshow_dots_deactive_7" onclick="huge_it_change_image_7(parseInt(jQuery('#huge_it_current_image_key_7').val()), '2', data_7, false, true);
+                                                                                                return false;" image_id="5" image_key="2"></div>
+                                                    </div>
+
+                                                            <a id="huge_it_slideshow_left_7" href="#" onclick="huge_it_change_image_7(parseInt(jQuery('#huge_it_current_image_key_7').val()), (parseInt(jQuery('#huge_it_current_image_key_7').val()) - iterator_7()) >= 0 ? (parseInt(jQuery('#huge_it_current_image_key_7').val()) - iterator_7()) % data_7.length : data_7.length - 1, data_7, false, true);
+                                                        return false;">
+                            <div id="huge_it_slideshow_left-ico_7">
+                                <div><i class="huge_it_slideshow_prev_btn_7 fa"></i></div></div>
+                        </a>
+
+                        <a id="huge_it_slideshow_right_7" href="#" onclick="huge_it_change_image_7(parseInt(jQuery('#huge_it_current_image_key_7').val()), (parseInt(jQuery('#huge_it_current_image_key_7').val()) + iterator_7()) % data_7.length, data_7, false, true);
+                                                        return false;">
+                            <div id="huge_it_slideshow_right-ico_7 , data_7">
+                                <div><i class="huge_it_slideshow_next_btn_7 fa"></i></div></div>
+                        </a>
+                                                    </div>
+                <!-- ##########################IMAGES######################### -->
+                <div id="huge_it_slideshow_image_container_7" class="huge_it_slideshow_image_container_7">        
+
+                    <div class="huge_it_slide_container_7">
+                        <div class="huge_it_slide_bg_7">
+                            <ul class="huge_it_slider_7">
+                                                                                <li class="huge_it_slideshow_image_item_7" id="image_id_7_0">      
+                                                                                            <img id="huge_it_slideshow_image_7" class="huge_it_slideshow_image_7" src="/images/siteimage/slider/3.png" image_id="7" />
+                        		
+                                                <div class="huge_it_slideshow_title_text_7 none">
+                                                                                                </div>
+                                                <div class="huge_it_slideshow_description_text_7 none">
+                                                                                                </div>
+                                            </li>
+                                                                                        <li class="huge_it_slideshow_image_second_item_7" id="image_id_7_1">      
+                                                                                            <img id="huge_it_slideshow_image_7" class="huge_it_slideshow_image_7" src="/images/siteimage/slider/2.png" image_id="6" />
+                        		
+                                                <div class="huge_it_slideshow_title_text_7 none">
+                                                                                                </div>
+                                                <div class="huge_it_slideshow_description_text_7 none">
+                                                                                                </div>
+                                            </li>
+                                                                                        <li class="huge_it_slideshow_image_second_item_7" id="image_id_7_2">      
+                                                                                            <img id="huge_it_slideshow_image_7" class="huge_it_slideshow_image_7" src="/images/siteimage/slider/1.png" image_id="5" />
+                        		
+                                                <div class="huge_it_slideshow_title_text_7 none">
+                                                                                                </div>
+                                                <div class="huge_it_slideshow_description_text_7 none">
+                                                                                                </div>
+                                            </li>
+                                                                            <input  type="hidden" id="huge_it_current_image_key_7" value="0" />
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            		</div>
+			<div class="moduletable">
+							<h3>Самое читаемое</h3>
+						
+
+<div class="custom"  >
+	<p><noindex><a href="https://vk.com/dosaaf37" rel="nofollow" target="_blank" ><img src="/images/smart_thumbs/dosaaf-vogdenie-2023.JPG" alt="dosaaf vogdenie 2023" width="400" height="271" class="nosmartresize" style="margin-left: 5px; margin-bottom: 5px; margin-right: 5px; float: left;" /></a></noindex></p>
+<h2><noindex><a href="https://vk.com/dosaaf37" rel="nofollow" target="_blank" ><span style="color: #ff0000;">Стоит ли учиться на права?</span></a></noindex></h2>
+<p style="text-align: justify;">Обучение по подготовке водителей транспортных средств категории «B» длится от 1,5 месяцев. Практическое обучение проходит на собственной оборудованной площадке. Для поступления на курсы водителей необходимо представить: 🗯 паспорт 🗯 медицинскую справку водителя с разрешенной категорией «В»</p>
+<p style="text-align: justify;">✨ К сдаче экзаменов на получение прав категории «В» допускаются достигшие 17-летнего возраста, впрочем, пройти обучение на водителя таких транспортных средств можно уже с 16 лет.</p>
+<p style="text-align: justify;">☝ Глубоко заблуждаются те, кто считает, что, изучив самостоятельно теорию и минимальные приёмы практического вождения, стоит садиться за управление автомобилем, к тому же самостоятельную (без обучения в автошколе) сдачу экзаменов в ГИБДД уже отменили. Аутентичное поведение на дороге можно ожидать только от водителя, успешно окончившего полный курс обучения в автошколе ДОСААФ г. Иваново.</p>
+<p style="text-align: justify;">Подготовка водителей транспортных средств 🚗🚘 категории «В» / Автошкола ДОСААФ г.Иваново пр. Строителей, 31 📞 56-42-85</p></div>
+		</div>
+	
+						</div>
+					</div>
+	                            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full contentrow">
+        <div class="container">
+            <div  class="row">
+            	                <div class="content_sparky span8">
+	                    <div class="cell_pad">
+	                        <div id="system-message-container">
+	</div>
+
+	                        	                        <div class="blog" itemscope itemtype="https://schema.org/Blog">
+	
+		
+	
+	
+	
+		
+	
+																	<div class="items-row cols-1 row-0 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/участников-сво-в-ивановской-области-освободили-от-уплаты-транспортного-налога">
+			Участников СВО в Ивановской области освободили от уплаты транспортного налога</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 23.10.2025, 00:00		</dd>
+ 	</dl>
+
+<p>Участников СВО в Ивановской области освободили от уплаты транспортного налогаЗаконопроект, внесенный губернатором Ивановской области Станиславом Воскресенским, единогласно поддержали депутаты Ивановской областной Думы на пленарном заседании в четверг, 23 октября.<br />
+Новая мера поддержки затронет участников СВО, имеющих автомобиль мощностью до 250 лошадиных сил. Согласно принятому закону они полностью освобождены от уплаты транспортного налога.<br />
+Напомним, вопрос о расширении действия льготы по</p>
+<div class="jcomments-links"><a class="readmore-link" href="/участников-сво-в-ивановской-области-освободили-от-уплаты-транспортного-налога" title="Участников СВО в Ивановской области освободили от уплаты транспортного налога">Подробнее...</a> <a class="comments-link" href="/участников-сво-в-ивановской-области-освободили-от-уплаты-транспортного-налога#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-1 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/традиционная-осенняя-ярмарка-«день-урожая»-вновь-объединит-жителей-всех-городов-и-районов-ивановской-области">
+			Традиционная осенняя ярмарка «День урожая» вновь объединит жителей всех городов и районов Ивановской области</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 08.09.2025, 00:00		</dd>
+ 	</dl>
+
+<p>«День урожая» - традиционная народная ярмарка, посвященная итогам сельскохозяйственного сезона, семейным ценностям, объединению всех жителей области для благотворительности и добрых дел, состоится 13 сентября в ивановском парке культуры и отдыха имени В.Я. Степанова.</p>
+<p>Муниципальные образования, сельскохозяйственные и перерабатывающие предприятия, фермеры, садоводы-любители не только продемонстрируют свои достижения, но и смогут реализовать продукцию, а посетители ярмарки - лучше узнать свой</p>
+<div class="jcomments-links"><a class="readmore-link" href="/традиционная-осенняя-ярмарка-«день-урожая»-вновь-объединит-жителей-всех-городов-и-районов-ивановской-области" title="Традиционная осенняя ярмарка «День урожая» вновь объединит жителей всех городов и районов Ивановской области">Подробнее...</a> <a class="comments-link" href="/традиционная-осенняя-ярмарка-«день-урожая»-вновь-объединит-жителей-всех-городов-и-районов-ивановской-области#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-2 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/классификация-средств-размещения-способствует-развитию-гостиничного-бизнеса-в-ивановской-области">
+			Классификация средств размещения способствует развитию гостиничного бизнеса в Ивановской области</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 01.08.2025, 00:00		</dd>
+ 	</dl>
+
+<p>Более трети отелей региона прошли обязательную процедуру классификации в соответствии с новыми требованиями в туротрасли и вошли в Единый реестр объектов туристической индустрии.<br />
+Как проходит эта работа в средствах размещения в Ивановской области, посмотрела директор департамента туризма региона Майя Силкина в ходе рабочей поездки на объекты туристической сферы. Она обсудила с представителями гостиничного бизнеса итоги работы и обсудила проблемные вопросы.<br />
+«Система классификации средств</p>
+<div class="jcomments-links"><a class="readmore-link" href="/классификация-средств-размещения-способствует-развитию-гостиничного-бизнеса-в-ивановской-области" title="Классификация средств размещения способствует развитию гостиничного бизнеса в Ивановской области">Подробнее...</a> <a class="comments-link" href="/классификация-средств-размещения-способствует-развитию-гостиничного-бизнеса-в-ивановской-области#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-3 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/более-150-семей-из-ивановской-области-уже-зарегистрировались-для-участия-во-всероссийском-конкурсе-«это-у-нас-семейное»">
+			Более 150 семей из Ивановской области уже зарегистрировались для участия во Всероссийском конкурсе «Это у нас семейное»</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 10.07.2025, 00:00		</dd>
+ 	</dl>
+
+<p>Продолжается регистрация на второй сезон Всероссийского конкурса «Это у нас семейное» президентской платформы «Россия – страна возможностей», который с этого года проходит в рамках нового национального проекта «Семья». Для участия зарегистрировались уже более 500 жителей Ивановской области – это свыше 150 семей. Регистрация открыта на сайте этосемейное.рф до 14 сентября.<br />
+Участвовать могут семейные команды, состоящие из четырёх и более человек, которые являются по отношению друг к другу</p>
+<div class="jcomments-links"><a class="readmore-link" href="/более-150-семей-из-ивановской-области-уже-зарегистрировались-для-участия-во-всероссийском-конкурсе-«это-у-нас-семейное»" title="Более 150 семей из Ивановской области уже зарегистрировались для участия во Всероссийском конкурсе «Это у нас семейное»">Подробнее...</a> <a class="comments-link" href="/более-150-семей-из-ивановской-области-уже-зарегистрировались-для-участия-во-всероссийском-конкурсе-«это-у-нас-семейное»#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-4 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/новые-тарифы-на-коммунальные-услуги-будут-действовать-в-регионах-россии-с-1-июля">
+			Новые тарифы на коммунальные услуги будут действовать в регионах России с 1 июля</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 30.06.2025, 00:00		</dd>
+ 	</dl>
+
+<p>С 1 июля 2025 года в Ивановской области, как и в других регионах нашей страны, будут действовать новые тарифы на коммунальные услуги. Как сообщили в региональном департаменте энергетики и тарифов, общий индекс платы граждан за коммунальные услуги будет ниже, чем в среднем по стране и в соседних регионах, по некоторым муниципалитетам приняты решения о заморозке тарифов или их снижении.<br />
+Согласно распоряжению федерального правительства с 1 июля 2025 года изменение платы за коммунальные услуги</p>
+<div class="jcomments-links"><a class="readmore-link" href="/новые-тарифы-на-коммунальные-услуги-будут-действовать-в-регионах-россии-с-1-июля" title="Новые тарифы на коммунальные услуги будут действовать в регионах России с 1 июля">Подробнее...</a> <a class="comments-link" href="/новые-тарифы-на-коммунальные-услуги-будут-действовать-в-регионах-россии-с-1-июля#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-5 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/ивановская-область-присоединится-к-всероссийской-акции-«ночь-музеев»">
+			Ивановская область присоединится к всероссийской акции «Ночь музеев»</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 16.05.2025, 00:00		</dd>
+ 	</dl>
+
+<p>Ивановская область вновь присоединится к всероссийской ежегодной культурно-просветительской акции «Ночь музеев» в рамках празднования Международного дня музеев. Тема этого года - «Герои». 17 и 18 мая жителей и гостей региона ожидают тематические мероприятия: экскурсии, новые выставки, лекции, мастер-классы, творческие встречи, квесты и многое другое.<br />
+Программа мероприятий<br />
+Так, в программе Ивановского областного художественного музея — концерт духового оркестра под руководством Юрия</p>
+<div class="jcomments-links"><a class="readmore-link" href="/ивановская-область-присоединится-к-всероссийской-акции-«ночь-музеев»" title="Ивановская область присоединится к всероссийской акции «Ночь музеев»">Подробнее...</a> <a class="comments-link" href="/ивановская-область-присоединится-к-всероссийской-акции-«ночь-музеев»#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-6 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/в-ивановской-области-в-целях-безопасности-введен-запрет-на-съемку,-публикацию-и-распространение-фото-и-видеоматериалов-атак-бпла-и-их-последствий">
+			В Ивановской области в целях безопасности введен запрет на съемку, публикацию и распространение фото- и видеоматериалов атак БПЛА и их последствий</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 17.04.2025, 00:00		</dd>
+ 	</dl>
+
+<p>Такое решение принято на заседании оперативного штаба Ивановской области. За нарушение ограничения предусмотрена административная и иная ответственность в соответствии с законодательством.<br />
+Запрещается фотографировать, производить видео- и киносъемку, а также публиковать и распространять в сети Интернет и СМИ любую информацию (в том числе видео- и фотоматериалов), касающуюся:<br />
+- применения и последствий применения БПЛА (в том числе места поражения объектов и мест падения аппаратов);<br />
+-</p>
+<div class="jcomments-links"><a class="readmore-link" href="/в-ивановской-области-в-целях-безопасности-введен-запрет-на-съемку,-публикацию-и-распространение-фото-и-видеоматериалов-атак-бпла-и-их-последствий" title="В Ивановской области в целях безопасности введен запрет на съемку, публикацию и распространение фото- и видеоматериалов атак БПЛА и их последствий">Подробнее...</a> <a class="comments-link" href="/в-ивановской-области-в-целях-безопасности-введен-запрет-на-съемку,-публикацию-и-распространение-фото-и-видеоматериалов-атак-бпла-и-их-последствий#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-7 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/научно-образовательная-конференция-в-ивановском-медуниверситете-собрала-ведущих-педиатров-страны">
+			Научно-образовательная конференция в Ивановском медуниверситете собрала ведущих педиатров страны</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 27.03.2025, 00:00		</dd>
+ 	</dl>
+
+<p>25-26 марта на базе Ивановского государственного медицинского университета прошла Всероссийская научно-практическая конференция «Современная педиатрия: достижения, проблемы и перспективы». В этом году она приурочена к 90-летию педиатрического факультета ИГМУ, одного из старейших в России.<br />
+В конференции участвовали федеральные эксперты в области педиатрии, среди которых Президент Союза педиатров России Лейла Намазова-Баранова, председатель правления Ассоциации детских больниц Николай</p>
+<div class="jcomments-links"><a class="readmore-link" href="/научно-образовательная-конференция-в-ивановском-медуниверситете-собрала-ведущих-педиатров-страны" title="Научно-образовательная конференция в Ивановском медуниверситете собрала ведущих педиатров страны">Подробнее...</a> <a class="comments-link" href="/научно-образовательная-конференция-в-ивановском-медуниверситете-собрала-ведущих-педиатров-страны#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-8 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/на-заводе-в-лежневе-выпускают-подъемные-механизмы-с-высокой-степенью-локализации-производства">
+			На заводе в Лежневе выпускают подъемные механизмы с высокой степенью локализации производства</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 14.02.2025, 00:00		</dd>
+ 	</dl>
+
+<p>При поддержке Минпромторга РФ осуществлена локализация производства дизельных и ножничных подъемников, в которых большинство узлов – полностью российского производства. В пятницу, 14 февраля, в рамках рабочей поездки губернатор Станислав Воскресенский вместе с и.о. главы Лежневского района Владиславом Паруновым ознакомился с новыми видами продукции завода и перспективными планами по выпуску коленчатых подъемников.<br />
+«Здесь российские «мозги», российская система управления, двигатель</p>
+<div class="jcomments-links"><a class="readmore-link" href="/на-заводе-в-лежневе-выпускают-подъемные-механизмы-с-высокой-степенью-локализации-производства" title="На заводе в Лежневе выпускают подъемные механизмы с высокой степенью локализации производства">Подробнее...</a> <a class="comments-link" href="/на-заводе-в-лежневе-выпускают-подъемные-механизмы-с-высокой-степенью-локализации-производства#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-9 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+	<h2>
+					<a href="/президент-россии-подписал-указ-о-единовременной-выплате-ветеранам-великой-отечественной-войне-к-80-летию-победы">
+			Президент России подписал указ о единовременной выплате ветеранам Великой Отечественной войне к 80-летию Победы</a>
+			</h2>
+
+
+
+
+
+
+ <dl class="article-info">
+ <dt class="article-info-term">Информация о материале</dt>
+		<dd class="create">
+		Создано: 15.01.2025, 00:00		</dd>
+ 	</dl>
+
+<p>Об этом Глава государства Владимир Путин сообщил 15 января во время заседания Российского организационного комитета «Победа».<br />
+«Сегодня подписан Указ о единовременных выплатах фронтовикам и вдовам фронтовиков, а также и малолетним узникам концлагерей – по 80 тысяч рублей. Труженикам тыла и жителям блокадного Ленинграда, совершеннолетним узникам концлагерей и тем, кто работал на объектах ПВО, морских и авиабазах, строил оборонительные сооружения – по 55 тысяч рублей. Наш долг – делать всё</p>
+<div class="jcomments-links"><a class="readmore-link" href="/президент-россии-подписал-указ-о-единовременной-выплате-ветеранам-великой-отечественной-войне-к-80-летию-победы" title="Президент России подписал указ о единовременной выплате ветеранам Великой Отечественной войне к 80-летию Победы">Подробнее...</a> <a class="comments-link" href="/президент-россии-подписал-указ-о-единовременной-выплате-ветеранам-великой-отечественной-войне-к-80-летию-победы#addcomments" title="Добавить комментарий">Добавить комментарий</a> </div>
+
+
+
+<div class="item-separator"></div>
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+						
+	
+			<div class="cat-children">
+						
+																																																																																																																																																																																																																																							<div class="first">
+												<h3 class="page-header item-title"><a href="/ivanovo-news/tejkovskij-rajon">
+					Тейковский район</a>
+					
+									</h3>
+				
+													
+							</div>
+																																																																		
+ </div>
+				<div class="pagination">
+							<p class="counter pull-right"> Страница 1 из 377 </p>
+						<ul>
+	<li class="pagination-start"><span class="pagenav">В начало</span></li>
+	<li class="pagination-prev"><span class="pagenav">Назад</span></li>
+			<li><span class="pagenav">1</span></li>			<li><a href="/?start=10" class="pagenav">2</a></li>			<li><a href="/?start=20" class="pagenav">3</a></li>			<li><a href="/?start=30" class="pagenav">4</a></li>			<li><a href="/?start=40" class="pagenav">5</a></li>			<li><a href="/?start=50" class="pagenav">6</a></li>			<li><a href="/?start=60" class="pagenav">7</a></li>			<li><a href="/?start=70" class="pagenav">8</a></li>			<li><a href="/?start=80" class="pagenav">9</a></li>			<li><a href="/?start=90" class="pagenav">10</a></li>		<li class="pagination-next"><a title="Вперед" href="/?start=10" class="hasTooltip pagenav">Вперед</a></li>
+	<li class="pagination-end"><a title="В конец" href="/?start=3760" class="hasTooltip pagenav">В конец</a></li>
+</ul>
+ </div>
+	</div>
+	                        	                        <div class="belowcontent">
+	                        			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p style="text-align: center;"><span style="font-size: 8pt;"><small>Издание зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор). Реестровая&nbsp;запись от 06.08.2010 серия ЭЛ ФС 77 - 41611 от 06 августа 2010 г. Международный стандартный серийный номер ISSN 2312-6981. © Перепечатка материалов или воспроизведение части информации из my-ivanovo.ru в других изданиях (интернет-сайтах) приветствуется, но с обязательной ссылкой (в интернет-изданиях - с гиперссылкой) на my-ivanovo.ru, либо с письменного разрешения редакции. Реклама: </small></span></p></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div align="center"><!-- extlinks -->
+<p></p><script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=tlc04c77295a0a9322cf06770418ba482ebc088f2e" type="text/javascript"></script><p></p>
+<!-- /extlinks --></div>
+<div>&nbsp;</div></div>
+		</div>
+	
+	                        </div>
+	                        	                    </div>
+	                </div>
+                					<div class="cell mp_user1 span4 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						
+
+<div class="custom"  >
+	<table>
+<tbody>
+<tr>
+<td style="width: 49%;">
+<p><img class="nosmartresize" style="display: block; margin-left: auto; margin-right: auto;" src="/images/siteimage/Stanislav_Voskresensky_(2017-10-10).jpg" alt="Stanislav Voskresensky (2017 10 10)" width="207" height="296" /></p>
+<p style="text-align: center;">Губернатор Ивановской области<br /><noindex><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" target="_blank" rel="nofollow" >Воскресенский<br />Станислав Сергеевич</a></noindex></p>
+</td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</td>
+<td style="width: 49%;">
+<p><img class="nosmartresize" style="display: block; margin-left: auto; margin-right: auto;" src="/images/siteimage/Dmitrieva.jpg" alt="Dmitrieva" width="207" height="296" /></p>
+<p style="text-align: center;">Председатель Ивановской областной Думы<br /><noindex><a href="https://www.ivoblduma.ru/about/vice-chairman/467/" target="_blank" rel="nofollow" >Дмитриева <br />Марина Авенировна</a></noindex></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div align="center">
+<div id="cb095266952dfa79e10710c1ab22e844" class="ww-informers-box-854753">
+<p class="ww-informers-box-854754"><noindex><a href="https://world-weather.ru/pogoda/russia/ivanovo/month/" rel="nofollow" target="_blank" >Прогноз погоды в Иваново на месяц</a></noindex><br /><noindex><a href="https://world-weather.ru/pogoda/russia/kazan/" rel="nofollow" target="_blank" >world-weather.ru</a></noindex></p>
+</div>
+<script src="https://world-weather.ru/wwinformer.php?userid=cb095266952dfa79e10710c1ab22e844" async="async" type="text/javascript" charset="utf-8"></script>
+<style>.ww-informers-box-854754{-webkit-animation-name:ww-informers54;animation-name:ww-informers54;-webkit-animation-duration:1.5s;animation-duration:1.5s;white-space:nowrap;overflow:hidden;-o-text-overflow:ellipsis;text-overflow:ellipsis;font-size:12px;font-family:Arial;line-height:18px;text-align:center}@-webkit-keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}@keyframes ww-informers54{0%,80%{opacity:0}100%{opacity:1}}</style>
+</br></br>
+
+<link rel="stylesheet" href="https://bankiros.ru/get-informer/informer.css">
+<div data-city="russia" data-type="1" data-url="https://my-ivanovo.ru/" style="width: 355px; max-width: 100%;" data-bankiros-informer-block><div class="xxx-bankiros-informer xxx-bankiros-informer--one"><div class="xxx-bankiros-informer__top"><div class="xxx-bankiros-informer__title">Лучшие курсы в <span data-bankiros-informer="city"></span></div><div class="xxx-bankiros-informer__small-text" data-bankiros-informer="date"></div></div><table class="xxx-bankiros-informer__table"><thead><tr><th></th><th><noindex><a href="https://bankiros.ru/currency/usd" target="_blank" class="xxx-bankiros-informer__cr-title xxx-bankiros-informer__link" rel="nofollow" >USD</a></noindex><img src="https://bankiros.ru/get-informer/USD.png" alt="USD" loading="lazy"></th><th><noindex><a href="https://bankiros.ru/currency/eur" target="_blank" class="xxx-bankiros-informer__cr-title xxx-bankiros-informer__link" rel="nofollow" >EUR</a></noindex><img src="https://bankiros.ru/get-informer/EUR.png" alt="EUR" loading="lazy"></th><th><noindex><a href="https://bankiros.ru/crypto/bitcoin" target="_blank" class="xxx-bankiros-informer__cr-title xxx-bankiros-informer__link" rel="nofollow" >BTC</a></noindex><img src="https://bankiros.ru/get-informer/BTC.png" alt="BTC" loading="lazy"></th></tr></thead><tbody class="xxx-bankiros-informer__table"><tr><td><span class="xxx-bankiros-informer__small-text">Покупка</span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="buy-usd">0</span><span class="xxx-bankiros-informer__arrow "></span></span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="buy-eur">0</span><span class="xxx-bankiros-informer__arrow "></span></span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="buy-btc">0</span><span class="xxx-bankiros-informer__arrow "></span></span></td></tr><tr><td><span class="xxx-bankiros-informer__small-text">Продажа</span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="sell-usd">0</span><span class="xxx-bankiros-informer__arrow"></span></span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="sell-eur">0</span><span class="xxx-bankiros-informer__arrow"></span></span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="sell-btc">0</span><span class="xxx-bankiros-informer__arrow"></span></span></td></tr><tr><td><span class="xxx-bankiros-informer__small-text">ЦБ РФ</span></td><td><span class="xxx-bankiros-informer__cr"><span data-bankiros-informer="cb-usd">0</span><span class="xxx-bankiros-informer__arrow"></span></span></td><td><span class="xxx-bankiros-informer__cr" ><span data-bankiros-informer="cb-eur">0</span><span class="xxx-bankiros-informer__arrow"></span></span></td><td><span class="xxx-bankiros-informer__cr">—</span></td></tr></tbody></table><div class="xxx-bankiros-informer__bottom"><noindex><a href="https://bankiros.ru/currency" class="xxx-bankiros-informer__signature xxx-bankiros-informer__link" target="_blank" rel="nofollow" >bankiros.ru</a></noindex></div></div> </div>
+<script src="https://bankiros.ru/get-informer/get-informer.js"></script>
+</div></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p style="text-align: center;"><span style="font-size: 6pt;">Центральный новостной портал Ивановского региона «Моё Иваново» - сайт новостей в Иваново и Ивановской области. Но есть на нашем портале место и для рекламы. Наш портал информирует Вас о происходящих событиях в Иваново и Ивановской области. В этом смысле, новостной портал «Мое Иваново» основной ивановский сайт и сайт Ивановской области. Из новостей Вы узнаете об изменениях, происходящих в г. Иваново и Ивановской области. Вашему вниманию: Иваново новости сегодня, новости Правительства Ивановской области и Ивановской городской администрации , новости Ивановской Областной и Ивановская Городская Думы, криминальные новости Иваново, новости Иваново ДТП, новости Иваново дороги, Иваново новости спорта, новости строительства в Иваново, новости районов Ивановской области и мн. др. Короче говоря, все об Иваново и Ивановской области.</span></p></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div align="center"><noindex><a href="http://www.ognimsk.com/" rel="nofollow" target="_blank" ><img src="/images/siteimage/canvas.png" alt="canvas" width="264" height="440" /></a></noindex></div>
+<div>&nbsp;</div>
+<div align="center">
+<p><noindex><a href="https://www.reg.ru/?rlink=reflink-2525" rel="nofollow" target="_blank" ><img src="/images/siteimage/burger_banner_200x300.jpg" alt="Домены" width="200" height="300" border="0" /></a></noindex></p>
+<p><noindex><a href="https://repairing-flat.ru/" target="_blank" rel="nofollow" ><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/siteimage/repairing_flat_banner.png" alt="Ремонт квартир" width="200" height="400" border="0" /></a></noindex></p>
+<p><noindex><a href="https://scienceproblems.ru/nauchnaja-statja/polnyj-kompleks-uslug/publikatsija-nauchnyh-statej-v-odin-klik.html" target="_blank" rel="nofollow" ><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/siteimage/SCIENTIFIC_PUBLICATIONS_banner.png" alt="Ремонт квартир" width="200" height="400" border="0" /></a></noindex></p>
+</div></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div align="center">
+<p><span style="font-size: 14pt;"><strong>Наш партнер - Яндекс</strong></span></p>
+<!-- Яндекс.Директ -->
+<script type="text/javascript">yandex_partner_id = 145984;
+yandex_site_bg_color = 'FFFFFF';
+yandex_ad_format = 'direct';
+yandex_font_size = 0.9;
+yandex_direct_type = 'vertical';
+yandex_direct_border_type = 'block';
+yandex_direct_limit = 2;
+yandex_direct_title_font_size = 3;
+yandex_direct_links_underline = false;
+yandex_direct_header_bg_color = 'FEEAC7';
+yandex_direct_border_color = 'FBE5C0';
+yandex_direct_title_color = '0000CC';
+yandex_direct_url_color = '006600';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = '0066FF';
+yandex_direct_favicon = true;
+yandex_no_sitelinks = true;
+document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/context.js"></scr'+'ipt>');</script>
+<!-- Яндекс.Директ --></div>
+<!-- Запрос на восстановление регистрационной информации --></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Наш партнер - Google</strong></span></p>
+<div align="center"><!-- Начало Рекламы 1   --> <!-- Начало Рекламы 1   -->
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="" type="text/javascript"></script>
+<!-- Новые объявления --> <ins class="adsbygoogle" style="display: inline-block; width: 160px; height: 600px;" data-ad-client="ca-pub-5940416061930872" data-ad-slot="1913111782"></ins>
+<script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!-- Конец Рекламы 1   --> <!-- Конец Рекламы 1   --></div></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<!-- extlinks -->
+<p></p> 
+  
+
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><p></p>
+<!-- /extlinks --></div>
+		</div>
+			<div class="moduletable">
+						<div class="mod_my_cloud"><a  href="/component/search/?searchword=нас&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: нас">нас</a>
+&nbsp;<a  href="/component/search/?searchword=прайс&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: прайс">прайс</a>
+&nbsp;<a  href="/component/search/?searchword=лист&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: лист">лист</a>
+&nbsp;<a  href="/component/search/?searchword=«ростелеком»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «ростелеком»">«ростелеком»</a>
+&nbsp;<a  href="/component/search/?searchword=запустил&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: запустил">запустил</a>
+&nbsp;<a  href="/component/search/?searchword=услугу&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: услугу">услугу</a>
+&nbsp;<a  href="/component/search/?searchword=«ростелеком&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «ростелеком">«ростелеком</a>
+&nbsp;<a  href="/component/search/?searchword=экраны»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: экраны»">экраны»</a>
+&nbsp;<a  href="/component/search/?searchword=«артмосфера&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «артмосфера">«артмосфера</a>
+&nbsp;<a  href="/component/search/?searchword=плеса»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: плеса»">плеса»</a>
+&nbsp;<a  href="/component/search/?searchword=«антипивной&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «антипивной">«антипивной</a>
+&nbsp;<a  href="/component/search/?searchword=закон»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: закон»">закон»</a>
+&nbsp;<a  href="/component/search/?searchword=распитие&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: распитие">распитие</a>
+&nbsp;<a  href="/component/search/?searchword=пива&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: пива">пива</a>
+&nbsp;<a  href="/component/search/?searchword=улице&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: улице">улице</a>
+&nbsp;<a  href="/component/search/?searchword=придется&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: придется">придется</a>
+&nbsp;<a  href="/component/search/?searchword=заплатить&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: заплатить">заплатить</a>
+&nbsp;<a  href="/component/search/?searchword=штраф&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: штраф">штраф</a>
+&nbsp;<a  href="/component/search/?searchword=рублей&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: рублей">рублей</a>
+&nbsp;<a  href="/component/search/?searchword=«бархатный&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «бархатный">«бархатный</a>
+&nbsp;<a  href="/component/search/?searchword=иней&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: иней">иней</a>
+&nbsp;<a  href="/component/search/?searchword=синяя&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: синяя">синяя</a>
+&nbsp;<a  href="/component/search/?searchword=тьма…»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: тьма…»">тьма…»</a>
+&nbsp;<a  href="/component/search/?searchword=перечитывая&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: перечитывая">перечитывая</a>
+&nbsp;<a  href="/component/search/?searchword=«зимние»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «зимние»">«зимние»</a>
+&nbsp;<a  href="/component/search/?searchword=«тигриные»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «тигриные»">«тигриные»</a>
+&nbsp;<a  href="/component/search/?searchword=строки&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: строки">строки</a>
+&nbsp;<a  href="/component/search/?searchword=константина&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: константина">константина</a>
+&nbsp;<a  href="/component/search/?searchword=бальмонта&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: бальмонта">бальмонта</a>
+&nbsp;<a  href="/component/search/?searchword=россия»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 200%;" title="метка: россия»">россия»</a>
+&nbsp;<a  href="/component/search/?searchword=«единая&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 200%;" title="метка: «единая">«единая</a>
+&nbsp;<a  href="/component/search/?searchword=«справедливая&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «справедливая">«справедливая</a>
+&nbsp;<a  href="/component/search/?searchword=коалиция&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: коалиция">коалиция</a>
+&nbsp;<a  href="/component/search/?searchword=польше&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: польше">польше</a>
+&nbsp;<a  href="/component/search/?searchword=«славянин»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «славянин»">«славянин»</a>
+&nbsp;<a  href="/component/search/?searchword=ругательное&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: ругательное">ругательное</a>
+&nbsp;<a  href="/component/search/?searchword=слово»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: слово»">слово»</a>
+&nbsp;<a  href="/component/search/?searchword=признался&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: признался">признался</a>
+&nbsp;<a  href="/component/search/?searchword=режиссер&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: режиссер">режиссер</a>
+&nbsp;<a  href="/component/search/?searchword=кшиштоф&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: кшиштоф">кшиштоф</a>
+&nbsp;<a  href="/component/search/?searchword=занусси&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: занусси">занусси</a>
+&nbsp;<a  href="/component/search/?searchword=«вокруг&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «вокруг">«вокруг</a>
+&nbsp;<a  href="/component/search/?searchword=света»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: света»">света»</a>
+&nbsp;<a  href="/component/search/?searchword=день&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: день">день</a>
+&nbsp;<a  href="/component/search/?searchword=«вместо&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: «вместо">«вместо</a>
+&nbsp;<a  href="/component/search/?searchword=аплодисментов&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: аплодисментов">аплодисментов</a>
+&nbsp;<a  href="/component/search/?searchword=поднимите&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: поднимите">поднимите</a>
+&nbsp;<a  href="/component/search/?searchword=ладони»&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: ладони»">ладони»</a>
+&nbsp;<a  href="/component/search/?searchword=взяла&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: взяла">взяла</a>
+&nbsp;<a  href="/component/search/?searchword=контроль&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: контроль">контроль</a>
+&nbsp;<a  href="/component/search/?searchword=вопрос&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: вопрос">вопрос</a>
+&nbsp;<a  href="/component/search/?searchword=учета&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: учета">учета</a>
+&nbsp;<a  href="/component/search/?searchword=электроэнергии&amp;searchphrase=exact&amp;ordering=newest&amp;Itemid=298" style="font-size: 75%;" title="метка: электроэнергии">электроэнергии</a>
+&nbsp;</div>		</div>
+	
+						</div>
+					</div>
+	                            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full videorow">
+        <div class="container">
+            <div  class="row">
+            					<div class="cell mp_advert1 span12 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div align="center"><span style="font-size: 18pt;"><strong><span style="color: #ffffff;">Наши партнеры в г. Иваново и Ивановской области</span></strong></span></div>
+<div align="center"><span style="color: #ffffff;"></span></div>
+<div>&nbsp;</div>
+<div align="center">
+<table>
+<tbody>
+<tr>
+<td>&nbsp;<noindex><a href="http://www.ivanovoobl.ru/" target="_blank" rel="nofollow" ><img src="/images/siteimage/ban1.jpg" alt="ban1" width="121" height="45" /></a></noindex></td>
+<td>&nbsp;</td>
+<td>&nbsp;<noindex><a href="https://www.ivoblduma.ru/" target="_blank" rel="nofollow" ><img src="/images/siteimage/duma.jpg" alt="duma" width="117" height="44" /></a></noindex></td>
+<td>&nbsp;</td>
+<td><noindex><a href="https://ivgoradm.ru/mainPage" target="_blank" rel="nofollow" ><img src="/images/siteimage/ivgoradm.jpg" alt="ivgoradm" width="123" height="81" /></a></noindex>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;<noindex><a href="http://www.ivgorduma.ru/" rel="nofollow" target="_blank" ><img src="/images/siteimage/gor_duma.jpg" alt="gor duma" width="97" height="79" /></a></noindex></td>
+<td>&nbsp;</td>
+<td>&nbsp;<noindex><a href="https://ivanovo.er.ru/" target="_blank" rel="nofollow" ><img src="/images/siteimage/Eross.jpg" alt="Eross" width="148" height="59" /></a></noindex></td>
+<td>&nbsp;</td>
+<td>&nbsp;<img src="/images/siteimage/ivpred.jpg" alt="ivpred" width="115" height="64" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div></div>
+		</div>
+	
+						</div>
+					</div>
+	                            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full bottomrow">
+        <div class="container">
+            <div  class="row">
+            					<div class="cell mp_bottom1 span3 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+							<h3>НОВОСТИ РЕГИОНА</h3>
+						
+
+<div class="custom"  >
+	<p><noindex><a href="https://www.ivanovonews.ru/" target="_blank" rel="nofollow" >IvanovoNews</a></noindex></p>
+<p><noindex><a href="https://chastnik.ru/news/" target="_blank" rel="nofollow" >Частник</a></noindex></p>
+<p><noindex><a href="https://ivanovolive.ru/" target="_blank" rel="nofollow" >IvanovoLive</a></noindex></p>
+<p><noindex><a href="http://1000inf.ru/news/" target="_blank" rel="nofollow" >1000inf</a></noindex></p></div>
+		</div>
+	
+						</div>
+					</div>
+	                					<div class="cell mp_bottom2 span3 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+							<h3>ИНФОРМАЦИЯ</h3>
+						
+
+<div class="custom"  >
+	<p>Сайт 16+</p>
+<p>Свидетельство Роскомнадзора</p>
+<p>Правила использования материалов</p>
+<p>Политика конфиденциальности</p></div>
+		</div>
+	
+						</div>
+					</div>
+	                					<div class="cell mp_bottom3 span3 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+							<h3>РЕКЛАМА</h3>
+						
+
+<div class="custom"  >
+	<p><a href="/ob-tsnpir-mojo-ivanovo/o-nas">Рекламодателям</a></p>
+<p>Телефон: +7(961)245-79-19</p>
+<p>Email:<a href="mailto:info@my-ivanovo.ru">info@my-ivanovo.ru</a></p>
+<p>Написать в отдел рекламы</p></div>
+		</div>
+	
+						</div>
+					</div>
+	                					<div class="cell mp_bottom4 span3 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+							<h3>КОНТАКТЫ</h3>
+						
+
+<div class="custom"  >
+	<p>153000, РФ, ИВАНОВСКАЯ ОБЛ., Г. ИВАНОВО,<br />УЛ. КРАСНОЙ АРМИИ, Д. 20, 3 ЭТАЖ, КАБ 3-3</p>
+<p>Телефон редакции:&nbsp;+7(920)357-93-34</p>
+<p>Email:<a href="mailto:otk28@yandex.ru">otk28@yandex.ru</a></p></div>
+		</div>
+	
+						</div>
+					</div>
+	                            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+    <div class="sparky_full footerrow">
+        <div class="container">
+            <div  class="row">
+            					<div class="cell mp_footer span4 ">
+						<div class="cell_pad">
+									<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p><span style="font-size: 10pt;"><a href="/index.php"><span class="hot">Официальный сайт </span> Центрального новостного портала Ивановского региона&nbsp;<span class="portal">"Моё Иваново"</span></a></span></p></div>
+		</div>
+	
+						</div>
+					</div>
+	                
+<div align="right"> 
+<table border="0">
+  <tbody>
+    <tr>
+      <td>
+
+
+<table>
+<tr>
+<td>
+
+
+
+
+
+
+
+
+
+<!--LiveInternet counter--><noindex><a href="https://www.liveinternet.ru/click" target="_blank" rel="nofollow" ><img id="licntEACA" width="88" height="31" style="border:0" 
+title="LiveInternet"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a></noindex><script>(function(d,s){d.getElementById("licntEACA").src=
+"https://counter.yadro.ru/hit?t57.1;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+<td>&nbsp;</td>
+<td><!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3173925", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3173925;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+<!-- Rating Mail.ru logo -->
+<noindex><a href="https://top.mail.ru/jump?from=3173925" rel="nofollow" target="_blank" >
+<img src="https://top-fwz1.mail.ru/counter?id=3173925;t=464;l=1" style="border:0;" height="31" width="88" alt="Top.Mail.Ru" /></a></noindex>
+<!-- //Rating Mail.ru logo -->
+</td>
+<td>&nbsp;</td>
+<td>
+
+
+
+
+
+<!-- Yandex.Metrika informer -->
+<noindex><a href="https://metrika.yandex.ru/stat/?id=466628&amp;from=informer" target="_blank" rel="nofollow" ><img src="https://informer.yandex.ru/informer/466628/2_0_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:80px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" /></a></noindex>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(466628, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/466628" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+
+
+
+
+
+
+
+
+</td>
+<td>&nbsp;</td>
+<td>
+
+
+</td>
+</tr>
+</table>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+		  
+	  </td>
+    </tr>
+  </tbody>
+</table>
+</div>            </div>
+            <div class="clr"></div> 
+        </div> 
+        <div class="clr"></div> 
+    </div>
+</div>
+</body>
+</html>

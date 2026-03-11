@@ -1,0 +1,366 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ошибка 404</title>
+<meta name="description" content="Ошибка 404. " />
+<meta name="keywords" content="Ошибка 404. " />
+                <link href="" rel="icon" type="image/x-icon" />
+        <link href="" rel="shortcut icon" type="image/x-icon" />
+                <meta charset="UTF-8">
+        <!--<meta name="viewport" content="width=1200">-->
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="/css/reset.css?1772394454" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="/css/colorbox.css?1772394454" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="/css/style.css?1772394454" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="/css/change_k.css?1772394454" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="/css/style_content.css?1772394454" type="text/css" media="screen, projection" />
+        <link rel="stylesheet" href="/css/adapt.css?1772394454" type="text/css" media="screen, projection" />
+                <script type="text/javascript" src="/libs/jquery/jquery-1.7.1.min.js?1772394454"></script>
+        <script type="text/javascript" src="/script/legacy/carousel.js?1772394454"></script>
+        <script type="text/javascript" src="/script/legacy/jquery.mousewheel.min.js?1772394454"></script>
+        <script src="/script/legacy/jquery.colorbox.js"></script>
+        <script>
+            $(document).ready(function () {
+                //Examples of how to assign the ColorBox event to elements
+//                $(".fancybox").colorbox();
+                $(".example5").colorbox(
+                        {
+                            maxWidth: '95%',
+                        });
+
+                $(".example9").colorbox({
+                    onOpen: function () {
+                        alert('onOpen: colorbox is about to open');
+                    },
+                    onLoad: function () {
+                        alert('onLoad: colorbox has started to load the targeted content');
+                    },
+                    onComplete: function () {
+                        alert('onComplete: colorbox has displayed the loaded content');
+                    },
+                    onCleanup: function () {
+                        alert('onCleanup: colorbox has begun the close process');
+                    },
+                    onClosed: function () {
+                        alert('onClosed: colorbox has completely closed');
+                    }
+                });
+
+                //Example of preserving a JavaScript event for inline calls.
+                $("#click").click(function () {
+                    $('#click').css({"background-color": "#f00", "color": "#fff", "cursor": "inherit"}).text("Open this window again and this message will still be here.");
+                    return false;
+                });
+            });
+        </script>
+        <script>
+            function openwindow(url)
+            {
+                helpWindow = window.open(url, "", "toolbar=0,width=500,height=620,scrollbars=1");
+
+            }
+        </script>
+
+        <link href='/font/font-awesome-4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
+        <!--        <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+                <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i&amp;subset=cyrillic" rel="stylesheet">
+                <link rel="stylesheet" type="text/css" href="/libs/jquery-ui-1.10.3.custom/css/smoothness/jquery-ui-1.10.3.custom.min.css">
+
+                <link rel="stylesheet" type="text/css" href="/css/style.css">
+                <link rel="stylesheet" type="text/css" href="/css/fonts.css">
+                <link rel="stylesheet" type="text/css" href="/css/style_content.css">
+                <link rel="stylesheet" type="text/css" href="/css/change_a.css">
+                <link rel="stylesheet" type="text/css" href="/css/adapt.css?1">
+
+
+                <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyCkjdLExsDZS-k-jb7YEcsVe_-46qTbVg0"></script>
+                <script src="/libs/jquery/jquery-1.9.1.min.js"></script>
+                <script src="/libs/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+                <script src="/libs/fancybox/source/jquery.fancybox.pack.js"></script>
+                <link rel="stylesheet" type="text/css" href="/libs/fancybox/source/jquery.fancybox.css">
+                <script src="/libs/underscore-min.js"></script>
+                <script src="/libs/bxslider/jquery.bxslider.min.js"></script>
+                <script src="/libs/chosen/chosen.jquery.min.js"></script>
+                <script src="/libs/jquery-ui-1.10.3.custom/js/jquery-ui-1.10.3.custom.min.js"></script>
+                <script src="/libs/jquery-ui-1.10.3.custom/datepicker-cs.js" charset="UTF-8"></script>
+                <script src="/libs/alertify.js/lib/alertify.min.js"></script>
+                <link rel="stylesheet" type="text/css" href="/libs/alertify.js/themes/alertify.default.css">
+                <link rel="stylesheet" type="text/css" href="/libs/alertify.js/themes/alertify.core.css">
+                <script src="/script/init2.js"></script>
+                <link rel="stylesheet" href="/libs/chosen/chosen.min.css" />
+
+
+
+                <script src="/script/script.js"></script>
+                <script src="/script/footer_map.js"></script>
+                <script src="/script/simple_slider.js"></script>
+                <script src="/script/datepickers.js"></script>-->
+
+
+        <link href="/libs/mmenu/jQuery.mmenu-master/dist/jquery.mmenu.all.css?1772394454" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="/libs/mmenu/jQuery.mmenu-master/dist/jquery.mmenu.all.js?1772394454"></script>
+        <script src="/script/mmenu_init.js?1772394454"></script>
+        <script src="/script/sliders_init.js?1772394454"></script>
+
+
+    </head>
+
+    <body class="inner-page">
+                    <div id="wrapper-for-mmenu">
+
+                <div id="wrapper_in">
+                    <div id="wrapper_top">
+                        
+<div id="header">
+        <div id="logo"><a href="/"><img src="/images/logo.png" /></a></div>
+    <div id="tel">
+        <div class="tel-label">
+            Телефон в Москве:
+        </div>
+        <span>+7 (985) 644-64-65</span>
+        <div class="tel-label">
+            Телефон в Калуге:
+        </div>
+        <span>8 (800) 550-68-58</span>
+        <span>+7 (910) 911-54-61</span>
+        <span><a href="mailto:stolzgrupp@ya.ru" style="color:#fff; font-size:26px;">stolzgrupp@ya.ru</a></span></div>
+    <div id="menu">
+        <ul class=' level1'>
+<li class='  first '>
+<a href='/' class='button1'   >О компании</a>
+</li>
+<li class='   '>
+<a href='/sertifikaty' class='button1'   >Сертификаты</a>
+</li>
+<li class=' last  '>
+<a href='/kontakty' class='button1'   >Контакты</a>
+</li>
+</ul>
+    </div>
+    <div class="mmenu-handler-wrap">
+        <a href="#showmenu" class="mmenu-handler">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+</div>                                                <div class="block-movinki-wrap">
+                            <div class="content_general"> <h1 style="text-align: center;z-index: 5;">Новинки:</h1></div>
+                            <div id="novinki">
+                                <div class="slider-new-on-main-wrap">
+                                    
+<div id="carousel_cont_new">
+    <div id="carousel_new" class="content_general">
+        <div class="carousel mouseWheel js2-mouseWheel">
+            <div id="strelaka_left_new"><a class="js2-prev" href="#"><img src="/images/strelka_l.png" /></a></div>
+            <div class="jCarouselLite js2-jCarouselLite">
+                <ul>
+                                            <li>
+                            <a href="/product/9519" class="example5">
+                                <img src="/files/ru/products/000/187/187760t_80559e.jpg" />
+                                <!--span class="name_img">Стойка для видеодомофона Stolz H-1350</span-->
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/product/9522" class="example5">
+                                <img src="/files/ru/products/000/187/187776t_8b801a.jpg" />
+                                <!--span class="name_img">Парковка для электросамокатов L-1500</span-->
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/product/9521" class="example5">
+                                <img src="/files/ru/products/000/187/187766t_c1ec72.jpg" />
+                                <!--span class="name_img">Парковка для самокатов L-2500</span-->
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/product/9523" class="example5">
+                                <img src="/files/ru/products/000/187/187789t_7817e8.jpg" />
+                                <!--span class="name_img">Столбик для парковки № 5 под анкера основание Ø180мм.</span-->
+                            </a>
+                        </li>
+                                            <li>
+                            <a href="/product/9475" class="example5">
+                                <img src="/files/ru/products/000/187/187611t_af5c9c.jpg" />
+                                <!--span class="name_img"> Отбойник Stolz для защиты шлагбаума Гард</span-->
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+            <div id="strelaka_right_new"><a class="js2-next" href="#"><img src="/images/strelka_r.png" /></a></div>
+        </div>
+    </div>
+</div>                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="middle">
+                                                            <table  id="content_cont" zwidth="1000" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td width="1%" valign="top">
+                                            
+<div id="sideLeft">
+    <div id="menu_vertical">
+        <div id="menu_vertical_top">
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/posty_ohrany_bytovki_blok-kontejnery"><img src="/files/ru/content/000/000/332t_cee880.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/posty_ohrany_bytovki_blok-kontejnery">Посты охраны и бытовки</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/parkovochnye_stolbiki_i_aksessuary_k_nim"><img src="/files/ru/content/000/000/333t_5b8bd9.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/parkovochnye_stolbiki_i_aksessuary_k_nim">Столбики парковочные</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/parkovochnye_barery_i_aksessuary_k_nim"><img src="/files/ru/content/000/000/381t_2f34d5.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/parkovochnye_barery_i_aksessuary_k_nim">Парковочные барьеры и аксессуары к ним</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/kolesootbojniki"><img src="/files/ru/content/000/000/335t_2042df.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/kolesootbojniki">Колесоотбойники, ограждения, защита стен и оборудования</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/stojki_dlya_schityvatelej"><img src="/files/ru/content/000/000/336t_21926b.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/stojki_dlya_schityvatelej">Стойки для считывателей</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/mehanicheskie_shlagbaumy_stolz"><img src="/files/ru/content/000/000/337t_4e0f1f.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/mehanicheskie_shlagbaumy_stolz">Механические шлагбаумы</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/turnikety"><img src="/files/ru/content/000/000/338t_345495.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/turnikety">Турникеты</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/parkovki_dlya_velosipedov_stolz"><img src="/files/ru/content/000/000/339t_1690ea.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/parkovki_dlya_velosipedov_stolz">Велопарковки</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/predmety_blagoustrojstva_i_eksterera_stolz"><img src="/files/ru/content/000/000/340t_1f832c.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/predmety_blagoustrojstva_i_eksterera_stolz">Предметы благоустройства</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/dveri"><img src="/files/ru/content/000/000/373t_70c31e.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/dveri">Двери</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/spetsialnye_zakazy_eksperimentalnyj_uchastok"><img src="/files/ru/content/000/000/374t_0ae4a4.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/spetsialnye_zakazy_eksperimentalnyj_uchastok">Специальные заказы, экспериментальный участок</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/dostavka"><img src="/files/ru/content/000/000/385t_0b24fa.jpg" /></a></div>
+                    <div class="product_text"><a href="/catalog/dostavka">Доставка и монтаж</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/dorozhnye_znaki"><img src="/files/ru/content/000/000/392t_6a739f.png" /></a></div>
+                    <div class="product_text"><a href="/catalog/dorozhnye_znaki">Дорожные знаки и лежачие полицейские</a></div>
+                </div>
+                            <div class="product">
+                    <div class="product_img"><a href="/catalog/ograzhdeniya_zasitnye"><img src="" /></a></div>
+                    <div class="product_text"><a href="/catalog/ograzhdeniya_zasitnye">Ограждения защитные</a></div>
+                </div>
+                    </div>
+    </div>
+    <div class="box good">
+        <p>        </p>
+    </div>
+</div>                                        </td>
+                                        <td valign="top">
+                                            <div id="container">
+                                                <div id="content">
+                                                                                                    </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                                                    </div>
+                    </div>
+                </div>
+                
+<div id="footer_cont">
+    <div id="footer">
+        <div id="company">© Все права защищены. <br>ООО "Штольц Групп"</div>
+        <div id="telefoni"> <span>Телефон в Москве:</span> +7 (985) 644-64-65<br />
+            <br />
+            <span>Телефон в Калуге:</span>
+            8 (800) 550-68-58<br />
+
+            +7 (910) 911-54-61<br />
+            +7 (910) 861-89-45<br />
+            <br />
+             </div>
+        <div id="saity">создание сайта - <a href="http://saity.ru/" target="saity.ru">saity.ru</a></div>
+        <div id="chet">
+            <div class="chets">
+                <!--LiveInternet counter--><script type="text/javascript"><!--
+      document.write("<a href='http://www.liveinternet.ru/click' " +
+                        "target=_blank><img src='//counter.yadro.ru/hit?t14.4;r" +
+                        escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
+                        ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                                screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+                        ";" + Math.random() +
+                        "' alt='' title='LiveInternet: показано число просмотров за 24" +
+                        " часа, посетителей за 24 часа и за сегодня' " +
+                        "border='0' width='88' height='31'><\/a>")
+                        //--></script><!--/LiveInternet-->            </div>
+        </div>
+    </div>
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+                                (function (d, w, c) {
+                                    (w[c] = w[c] || []).push(function () {
+                                        try {
+                                            w.yaCounter34627890 = new Ya.Metrika({
+                                                id: 35392380,
+                                                clickmap: true,
+                                                trackLinks: true,
+                                                accurateTrackBounce: true
+                                            });
+                                        } catch (e) {
+                                        }
+                                    });
+
+                                    var n = d.getElementsByTagName("script")[0],
+                                            s = d.createElement("script"),
+                                            f = function () {
+                                                n.parentNode.insertBefore(s, n);
+                                            };
+                                    s.type = "text/javascript";
+                                    s.async = true;
+                                    s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+                                    if (w.opera == "[object Opera]") {
+                                        d.addEventListener("DOMContentLoaded", f, false);
+                                    } else {
+                                        f();
+                                    }
+                                })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/34627890" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->                <div class="msa-pluso-wrap">
+                    <script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+<div class="pluso" data-background="transparent" data-options="big,round,line,vertical,nocounter,theme=04" data-services="vkontakte,odnoklassniki,facebook,twitter,google,moimir,email,print"></div>                </div>
+            </div>
+            <div id="showmenu">
+                <ul class=' level1'>
+<li class='  first '>
+<a href='/' class='button1'   >О компании</a>
+</li>
+<li class='   '>
+<a href='/sertifikaty' class='button1'   >Сертификаты</a>
+</li>
+<li class=' last  '>
+<a href='/kontakty' class='button1'   >Контакты</a>
+</li>
+</ul>
+                </body>
+</html>
+
