@@ -46,19 +46,14 @@ services:
     env_file:
       - .env
     restart: "no"
-    labels:
-      ofelia.enabled: "true"
-      ofelia.job-run.parser.schedule: "0 55 23 * * *"
-      ofelia.job-run.parser.service: "parser"
 
   ofelia:
     image: mcuadros/ofelia:latest
     restart: unless-stopped
-    depends_on:
-      - parser
-    command: daemon --docker
+    command: daemon --config /etc/ofelia/config.ini
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./ofelia.ini:/etc/ofelia/config.ini:ro
 
   database:
     image: postgres:15
