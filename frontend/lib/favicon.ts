@@ -1,3 +1,3 @@
 export function faviconSrc(slug: string): string {
-  return `/api/favicon/${slug.replace(/\//g, "_")}`;
+  return `/favicons/${slug.replace(/\//g, "_")}.webp`;
 }

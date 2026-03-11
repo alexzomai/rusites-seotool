@@ -20,8 +20,8 @@ import Image from "next/image";
 import { faviconSrc } from "@/lib/favicon";
 import { useSiteContext } from "@/lib/site-context";
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
-const LIMIT = 50;
+const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "";
+const LIMIT = 39;
 
 interface Site {
   id: number;
@@ -33,6 +33,15 @@ interface Site {
 interface SiteWithVisits {
   site: Site;
   visits: number | null;
+}
+
+function HoverLabel({ domain, title }: { domain: string; title: string | null }) {
+  const [hovered, setHovered] = React.useState(false);
+  return (
+    <span className="truncate" onMouseEnter={() => setHovered(true)} onMouseLeave={() => setHovered(false)}>
+      {hovered && title ? title : domain}
+    </span>
+  );
 }
 
 function NavSites({ query }: { query: string }) {
@@ -97,32 +106,37 @@ function NavSites({ query }: { query: string }) {
 
   return (
     <SidebarGroup>
-      <SidebarGroupLabel>Сайты</SidebarGroupLabel>
       <SidebarMenu>
-        {sites.map((item) => (
-          <SidebarMenuItem key={item.site.id}>
-            <SidebarMenuButton
-              tooltip={item.site.domain ?? item.site.slug}
-              isActive={siteId === item.site.id}
-              onClick={() => setSite(item.site)}
-            >
-              <Image
-                src={faviconSrc(item.site.slug)}
-                alt=""
-                width={16}
-                height={16}
-                className="shrink-0 rounded-sm"
-                unoptimized
-              />
-              <span className="truncate">{item.site.title ?? item.site.slug}</span>
-              {item.visits != null && (
-                <span className="ml-auto text-xs text-muted-foreground shrink-0">
-                  {item.visits.toLocaleString("ru")}
-                </span>
-              )}
-            </SidebarMenuButton>
-          </SidebarMenuItem>
-        ))}
+        {sites.map((item) => {
+          const domain = (item.site.domain ?? item.site.slug).replace(/^www\./, "").replace(/\/$/, "");
+          return (
+            <SidebarMenuItem key={item.site.id}>
+              <SidebarMenuButton
+                tooltip={item.site.title ?? domain}
+                isActive={siteId === item.site.id}
+                onClick={() => setSite(item.site)}
+              >
+                <Image
+                  src={faviconSrc(item.site.slug)}
+                  alt=""
+                  width={16}
+                  height={16}
+                  className="shrink-0 rounded-sm"
+                  unoptimized
+                  onError={(e) => {
+                    (e.currentTarget as HTMLImageElement).src = "/globe.svg";
+                  }}
+                />
+                <HoverLabel domain={domain} title={item.site.title} />
+                {item.visits != null && (
+                  <span className="ml-auto text-xs text-muted-foreground shrink-0">
+                    {item.visits.toLocaleString("ru")}
+                  </span>
+                )}
+              </SidebarMenuButton>
+            </SidebarMenuItem>
+          );
+        })}
         {loading && (
           <SidebarMenuItem>
             <span className="px-2 py-1 text-xs text-muted-foreground">Загрузка...</span>

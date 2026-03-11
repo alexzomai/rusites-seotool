@@ -27,77 +27,79 @@ export function SectionCards({ analytics }: { analytics: Analytics | null }) {
   const visitsDiff = analytics?.visits_diff ?? null;
   const changePct = analytics?.change_pct;
   const rank = analytics?.rank_today;
-  const bestDay = analytics?.best_weekday != null
-    ? (WEEKDAY_RU[analytics.best_weekday] ?? analytics.best_weekday)
-    : null;
+  const bestDay =
+    analytics?.best_weekday != null ? (WEEKDAY_RU[analytics.best_weekday] ?? analytics.best_weekday) : null;
 
   const pctLabel = changePct != null ? `${changePct >= 0 ? "+" : ""}${changePct.toFixed(1)}%` : "—";
   const isUp = (changePct ?? 0) >= 0;
 
   return (
-    <div className="*:data-[slot=card]:from-primary/5 *:data-[slot=card]:to-card dark:*:data-[slot=card]:bg-card grid grid-cols-1 gap-4 px-4 *:data-[slot=card]:bg-gradient-to-t *:data-[slot=card]:shadow-xs lg:px-6 @xl/main:grid-cols-2 @5xl/main:grid-cols-4">
+    <div className="*:data-[slot=card]:from-primary/5 *:data-[slot=card]:to-card dark:*:data-[slot=card]:bg-card grid grid-cols-2 gap-3 px-4 *:data-[slot=card]:bg-gradient-to-t *:data-[slot=card]:shadow-xs lg:px-6 @5xl/main:grid-cols-4 [&_[data-slot=card-header]]:pb-1">
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Посетители сегодня</CardDescription>
-          <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
+          <CardDescription className="truncate text-xs">Посетители сегодня</CardDescription>
+          <CardTitle className="text-base font-semibold tabular-nums @[160px]/card:text-lg @[200px]/card:text-2xl @[250px]/card:text-3xl">
             {visits != null ? visits.toLocaleString("ru-RU") : "—"}
           </CardTitle>
-          <CardAction>
+          <CardAction className="hidden @[160px]/card:flex">
             {visitsDiff != null && (
-              <Badge variant="outline">
-                {visitsDiff >= 0 ? <TrendingUpIcon /> : <TrendingDownIcon />}
-                {visitsDiff >= 0 ? "+" : ""}{visitsDiff.toLocaleString("ru-RU")}
+              <Badge variant="outline" className="text-xs px-1.5">
+                {visitsDiff >= 0 ? <TrendingUpIcon className="size-3" /> : <TrendingDownIcon className="size-3" />}
+                {visitsDiff >= 0 ? "+" : ""}
+                {visitsDiff.toLocaleString("ru-RU")}
               </Badge>
             )}
           </CardAction>
         </CardHeader>
-        <CardFooter className="flex-col items-start gap-1.5 text-sm">
-          <div className="line-clamp-1 flex gap-2 font-medium">
-            {isUp ? "Рост трафика" : "Снижение трафика"} {isUp ? <TrendingUpIcon className="size-4" /> : <TrendingDownIcon className="size-4" />}
+        <CardFooter className="flex-col items-start gap-0.5 text-xs">
+          <div className="line-clamp-1 flex gap-1 font-medium">
+            {isUp ? "Рост трафика" : "Снижение"}{" "}
+            {isUp ? <TrendingUpIcon className="size-3" /> : <TrendingDownIcon className="size-3" />}
           </div>
-          <div className="text-muted-foreground">По сравнению с предыдущим днём</div>
+          <div className="text-muted-foreground line-clamp-1 hidden @[140px]/card:block">Пред. день</div>
         </CardFooter>
       </Card>
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Изменение</CardDescription>
-          <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
+          <CardDescription className="truncate text-xs">Изменение</CardDescription>
+          <CardTitle className="text-base font-semibold tabular-nums @[160px]/card:text-lg @[200px]/card:text-2xl @[250px]/card:text-3xl">
             {pctLabel}
           </CardTitle>
         </CardHeader>
-        <CardFooter className="flex-col items-start gap-1.5 text-sm">
-          <div className="line-clamp-1 flex gap-2 font-medium">
-            {isUp ? "Положительная динамика" : "Отрицательная динамика"} {isUp ? <TrendingUpIcon className="size-4" /> : <TrendingDownIcon className="size-4" />}
+        <CardFooter className="flex-col items-start gap-0.5 text-xs">
+          <div className="line-clamp-1 flex gap-1 font-medium">
+            {isUp ? "Динамика +" : "Динамика −"}{" "}
+            {isUp ? <TrendingUpIcon className="size-3" /> : <TrendingDownIcon className="size-3" />}
           </div>
-          <div className="text-muted-foreground">{isUp ? "Трафик растёт" : "Требует внимания"}</div>
+          <div className="text-muted-foreground line-clamp-1 hidden @[140px]/card:block">
+            {isUp ? "Трафик растёт" : "Требует внимания"}
+          </div>
         </CardFooter>
       </Card>
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Позиция в рейтинге</CardDescription>
-          <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
+          <CardDescription className="truncate text-xs">Позиция в рейтинге</CardDescription>
+          <CardTitle className="text-base font-semibold tabular-nums @[160px]/card:text-lg @[200px]/card:text-2xl @[250px]/card:text-3xl">
             {rank != null ? `#${rank}` : "—"}
           </CardTitle>
         </CardHeader>
-        <CardFooter className="flex-col items-start gap-1.5 text-sm">
-          <div className="line-clamp-1 flex gap-2 font-medium">
-            Текущая позиция сайта
-          </div>
-          <div className="text-muted-foreground">В общем рейтинге</div>
+        <CardFooter className="flex-col items-start gap-0.5 text-xs">
+          <div className="line-clamp-1 font-medium">Позиция сайта</div>
+          <div className="text-muted-foreground line-clamp-1 hidden @[140px]/card:block">В общем рейтинге</div>
         </CardFooter>
       </Card>
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Лучший день</CardDescription>
-          <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
+          <CardDescription className="truncate text-xs">Лучший день</CardDescription>
+          <CardTitle className="text-base font-semibold tabular-nums @[160px]/card:text-lg @[200px]/card:text-2xl @[250px]/card:text-3xl">
             {bestDay ?? "—"}
           </CardTitle>
         </CardHeader>
-        <CardFooter className="flex-col items-start gap-1.5 text-sm">
-          <div className="line-clamp-1 flex gap-2 font-medium">
-            Максимум посещений <TrendingUpIcon className="size-4" />
+        <CardFooter className="flex-col items-start gap-0.5 text-xs">
+          <div className="line-clamp-1 flex gap-1 font-medium">
+            Макс. посещений <TrendingUpIcon className="size-3" />
           </div>
-          <div className="text-muted-foreground">День недели с наибольшим трафиком</div>
+          <div className="text-muted-foreground line-clamp-1 hidden @[140px]/card:block">Наибольший трафик</div>
         </CardFooter>
       </Card>
     </div>

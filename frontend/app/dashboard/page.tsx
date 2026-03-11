@@ -1,18 +1,16 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { AppSidebar } from "@/components/app-sidebar"
-import { ChartAreaInteractive } from "@/components/chart-area-interactive"
-import { DataTable } from "@/components/data-table"
-import { SectionCards } from "@/components/section-cards"
-import { SiteHeader } from "@/components/site-header"
-import {
-  SidebarInset,
-  SidebarProvider,
-} from "@/components/ui/sidebar"
-import { useSiteContext } from "@/lib/site-context"
+import { AppSidebar } from "@/components/app-sidebar";
+import { ChartAreaInteractive, type CompareSiteData, COMPARE_COLORS } from "@/components/chart-area-interactive";
+import type { Site } from "@/components/site-search-list";
+import { DataTable } from "@/components/data-table";
+import { SectionCards } from "@/components/section-cards";
+import { SiteHeader } from "@/components/site-header";
+import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar";
+import { useSiteContext } from "@/lib/site-context";
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
+const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "";
 
 const WEEKDAY_RU: Record<string, string> = {
   Monday: "Понедельник",
@@ -46,8 +44,9 @@ interface MetricsResponse {
 }
 
 export default function Page() {
-  const { siteId } = useSiteContext();
+  const { siteId, site } = useSiteContext();
   const [data, setData] = useState<MetricsResponse | null>(null);
+  const [compareSites, setCompareSites] = useState<CompareSiteData[]>([]);
 
   useEffect(() => {
     if (siteId == null) {
@@ -60,22 +59,55 @@ export default function Page() {
       .then((json: MetricsResponse) => {
         if (!cancelled) setData(json);
       });
-    return () => { cancelled = true; };
+    return () => {
+      cancelled = true;
+    };
   }, [siteId]);
 
-  const chartData = useMemo(() => (data?.metrics ?? []).map((m) => ({
-    date: m.date,
-    visits: m.visits ?? 0,
-  })), [data]);
+  useEffect(() => {
+    setCompareSites([]);
+  }, [siteId]);
 
-  const tableData = useMemo(() => [...(data?.metrics ?? [])].reverse().map((m, i) => ({
-    id: i + 1,
-    date: m.date,
-    dayOfWeek: WEEKDAY_RU[m.weekday] ?? m.weekday,
-    traffic: m.visits ?? 0,
-    diff: m.visits_diff ?? 0,
-    changePct: m.change_pct ?? null,
-  })), [data]);
+  function addCompareSite(site: Site) {
+    if (compareSites.length >= 4) return;
+    const id = site.id;
+    fetch(`${API_URL}/api/${id}/metrics`)
+      .then((res) => res.json())
+      .then((json: MetricsResponse) => {
+        const siteData = json.metrics.map((m) => ({ date: m.date, visits: m.visits ?? 0 }));
+        setCompareSites((prev) => {
+          if (prev.some((s) => s.id === id) || prev.length >= 4) return prev;
+          const label = (site.domain ?? site.slug).replace(/^www\./, "").replace(/\/$/, "");
+          return [...prev, { id, title: label, slug: site.slug, data: siteData }];
+        });
+      });
+  }
+
+  function removeCompareSite(id: number) {
+    setCompareSites((prev) => prev.filter((s) => s.id !== id));
+  }
+
+  const chartData = useMemo(
+    () =>
+      (data?.metrics ?? []).map((m) => ({
+        date: m.date,
+        visits: m.visits ?? 0,
+      })),
+    [data],
+  );
+
+  const tableData = useMemo(
+    () =>
+      [...(data?.metrics ?? [])].reverse().map((m, i) => ({
+        id: i + 1,
+        date: m.date,
+        dayOfWeek: WEEKDAY_RU[m.weekday] ?? m.weekday,
+        traffic: m.visits ?? 0,
+        diff: m.visits_diff ?? 0,
+        changePct: m.change_pct ?? null,
+      })),
+    [data],
+  );
 
   return (
     <SidebarProvider
@@ -94,13 +126,29 @@ export default function Page() {
             <div className="flex flex-col gap-4 py-4 md:gap-6 md:py-6">
               <SectionCards analytics={data?.analytics ?? null} />
               <div className="px-4 lg:px-6">
-                <ChartAreaInteractive data={chartData} />
+                <ChartAreaInteractive
+                  data={chartData}
+                  compareSites={compareSites}
+                  onAddCompareSite={addCompareSite}
+                  onRemoveCompareSite={removeCompareSite}
+                  mainSiteId={siteId}
+                  mainSiteTitle={site ? (site.domain ?? site.slug).replace(/^www\./, "").replace(/\/$/, "") : null}
+                />
               </div>
-              <DataTable data={tableData} />
+              <DataTable
+                data={tableData}
+                compareSites={compareSites.map((cs, i) => ({
+                  id: cs.id,
+                  title: cs.title,
+                  data: cs.data,
+                  color: `var(${COMPARE_COLORS[i] ?? "--chart-2"})`,
+                }))}
+                mainSiteTitle={site ? (site.domain ?? site.slug).replace(/^www\./, "").replace(/\/$/, "") : "Трафик"}
+              />
             </div>
           </div>
         </div>
       </SidebarInset>
     </SidebarProvider>
-  )
+  );
 }

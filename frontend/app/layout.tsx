@@ -42,7 +42,7 @@ export default function RootLayout({
             <SidebarProvider>
               <AppSidebar />
               <SidebarInset>
-                <main className="flex-1 p-4">{children}</main>
+                <main className="flex-1 md:p-4">{children}</main>
               </SidebarInset>
             </SidebarProvider>
           </SiteProvider>
