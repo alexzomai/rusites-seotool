@@ -1,4 +1,4 @@
-{env.DOMAIN} {
+{$DOMAIN} {
     @internal path /internal/*
     respond @internal 403
 
