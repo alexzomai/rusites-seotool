@@ -22,8 +22,8 @@ _url = os.getenv("SEED_DATABASE_URL") or os.getenv(
 )
 DSN = _url.replace("postgresql+asyncpg://", "postgresql://")
 
-SITE_IDS = list(range(1, 11))
-DAYS = 30
+SITE_IDS = list(range(1, 100))
+DAYS = 90
 
 
 async def main() -> None:

@@ -1,11 +1,14 @@
 import asyncio
 import csv
 import gzip
+import io
 import os
 import re
 from urllib.parse import urljoin
 
 import aiohttp
+import cairosvg
+from PIL import Image
 
 from config import BACKUP_DIR, BACKEND_URL
 from timer import timeit
@@ -69,46 +72,88 @@ def _ext_from_url(url: str, content_type: str | None) -> str:
     return ".ico"
 
 
+async def _try_fetch(
+    session: aiohttp.ClientSession,
+    semaphore: asyncio.Semaphore,
+    url: str,
+    timeout: aiohttp.ClientTimeout,
+) -> tuple[bytes, str] | None:
+    async with semaphore:
+        try:
+            async with session.get(url, timeout=timeout, allow_redirects=True) as resp:
+                if resp.status == 200:
+                    data = await resp.read()
+                    if data:
+                        return data, _ext_from_url(url, resp.content_type)
+        except Exception:
+            pass
+    return None
+
+
+async def _first_result(coros: list) -> tuple[bytes, str] | None:
+    """Запускает все корутины параллельно, возвращает первый успешный результат."""
+    pending = {asyncio.ensure_future(c) for c in coros}
+    result = None
+    try:
+        while pending and result is None:
+            done, pending = await asyncio.wait(pending, return_when=asyncio.FIRST_COMPLETED)
+            for task in done:
+                r = task.result()
+                if r is not None:
+                    result = r
+                    for p in pending:
+                        p.cancel()
+                    pending.clear()
+    finally:
+        for p in pending:
+            p.cancel()
+    return result
+
+
 async def fetch_icon(
     session: aiohttp.ClientSession, semaphore: asyncio.Semaphore, domain: str
 ) -> tuple[str, bytes | None, str | None]:
-    base_url = f"https://{domain}"
+    alt_domain = domain[4:] if domain.startswith("www.") else f"www.{domain}"
     timeout = aiohttp.ClientTimeout(total=TIMEOUT)
 
-    async with semaphore:
-        # 1) попробовать найти <link rel="icon"> в HTML
-        try:
-            async with session.get(base_url, timeout=timeout, allow_redirects=True) as resp:
-                if resp.status == 200:
-                    html = await resp.text(errors="replace")
-                    icon_url = parse_icon_url(html, str(resp.url))
-                    if icon_url:
-                        async with session.get(icon_url, timeout=timeout) as icon_resp:
-                            if icon_resp.status == 200:
-                                data = await icon_resp.read()
-                                if len(data) > 0:
-                                    ext = _ext_from_url(icon_url, icon_resp.content_type)
-                                    return domain, data, ext
-        except Exception:
-            pass
+    def fetch(url: str):
+        return _try_fetch(session, semaphore, url, timeout)
 
-        # 2) фолбэк: /favicon.ico
-        try:
-            favicon_url = f"{base_url}/favicon.ico"
-            async with session.get(favicon_url, timeout=timeout, allow_redirects=True) as resp:
-                if resp.status == 200:
-                    data = await resp.read()
-                    if len(data) > 0:
-                        return domain, data, ".ico"
-        except Exception:
-            pass
+    # Все кандидаты параллельно
+    result = await _first_result([
+        fetch(f"https://www.google.com/s2/favicons?domain={domain}&sz=32"),
+        fetch(f"https://{domain}/favicon.ico"),
+        fetch(f"https://www.google.com/s2/favicons?domain={alt_domain}&sz=32"),
+        fetch(f"https://{alt_domain}/favicon.ico"),
+    ])
 
+    if result:
+        return domain, *result
     return domain, None, None
+
+
+def to_webp(data: bytes, ext: str) -> bytes | None:
+    try:
+        if ext == ".svg":
+            data = cairosvg.svg2png(bytestring=data, output_width=64, output_height=64)
+        img = Image.open(io.BytesIO(data)).convert("RGBA")
+        img = img.resize((64, 64), Image.LANCZOS)
+        buf = io.BytesIO()
+        img.save(buf, format="WEBP", quality=85, method=4)
+        return buf.getvalue()
+    except Exception:
+        return None
 
 
 def save_icon(slug: str, data: bytes, ext: str):
     os.makedirs(ICONS_DIR, exist_ok=True)
-    path = os.path.join(ICONS_DIR, f"{slug}{ext}")
+    safe_slug = slug.replace("/", "_")
+
+    webp = to_webp(data, ext)
+    if webp:
+        data, ext = webp, ".webp"
+
+    path = os.path.join(ICONS_DIR, f"{safe_slug}{ext}")
     with open(path, "wb") as f:
         f.write(data)
 
