@@ -24,6 +24,8 @@ async def _process_csv(raw: bytes):
         logger.error("Failed to parse CSV in background: %s", e)
         return
 
+    logger.info("Начало обработки: %d строк", len(df))
+
     sites_created = 0
     metrics_created = 0
     metrics_updated = 0
@@ -54,11 +56,13 @@ async def _process_csv(raw: bytes):
                         metrics_updated += 1
         except Exception as e:
             await db.rollback()
-            logger.error("Background CSV processing failed: %s", e)
+            logger.error("Ошибка обработки CSV: %s", e)
             return
 
-    logger.info("CSV processed: sites_created=%d metrics_created=%d metrics_updated=%d",
-                sites_created, metrics_created, metrics_updated)
+    logger.info(
+        "Обработка завершена: новых сайтов=%d, новых метрик=%d, обновлено метрик=%d",
+        sites_created, metrics_created, metrics_updated,
+    )
 
 
 @router.post("/upload_csv", status_code=202)
@@ -75,5 +79,6 @@ async def upload_csv_from_parser(background_tasks: BackgroundTasks, file: Upload
     if missing:
         raise HTTPException(status_code=422, detail=f"Missing columns: {missing}")
 
+    logger.info("Получен файл: %d строк (%.1f KB), запускаю фоновую обработку", len(df), len(raw) / 1024)
     background_tasks.add_task(_process_csv, raw)
     return {"status": "accepted", "rows": len(df)}
