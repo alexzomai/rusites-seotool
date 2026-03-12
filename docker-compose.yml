@@ -47,6 +47,8 @@ services:
       - backend
     env_file:
       - .env
+    environment:
+      BACKEND_URL: backend:8000
     restart: "no"
 
   ofelia:
